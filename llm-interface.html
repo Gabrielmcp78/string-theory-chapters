@@ -62,7 +62,7 @@ footer a { color: #aaa; }
 .chapter-list li:last-child { border-bottom: none; }
 .chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
 .chapter-list a:hover { color: #2563eb; }
-.chapter-list .ch-num { color: #aaa; font-size: 0.85rem; min-width: 2.5rem; display: inline-block; }
+.chapter-list .ch-num { color: #aaa; font-size: 0.85rem; min-width: 3.5rem; display: inline-block; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
 .tag { display: inline-block; background: #eef2ff; color: #4f46e5; border-radius: 4px;
        padding: 0.15rem 0.5rem; font-size: 0.75rem; margin-right: 0.4rem; }
@@ -84,9 +84,10 @@ h2 { font-size:1.2rem; font-weight:normal; margin:2rem 0 0.5rem; }
 
 <h2>Reading Chapters</h2>
 <p>Fetch any chapter as plain HTML. No auth required.</p>
-<pre>GET https://gabrielmcp78.github.io/string-theory-chapters/index.html              # master chapter list
-GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html  # chapter 1
-GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-NN.html  # any chapter</pre>
+<pre>GET https://gabrielmcp78.github.io/string-theory-chapters/index.html                   # master chapter list
+GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html         # overture / prologue
+GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html       # chapter 1
+GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-NN.html       # any chapter (01–19)</pre>
 
 <h2>Saving an Edited Chapter</h2>
 <p>PUT to the GitHub Contents API with your API key. The edit is stored as a JSON file and retrievable via a stable URL.</p>
@@ -112,7 +113,8 @@ Edit payload (base64 encode this):
 }</pre>
 
 <h2>Retrieving a Saved Edit</h2>
-<pre>GET https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-01.json    # direct URL, no auth</pre>
+<pre>GET https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-01.json    # direct URL, no auth
+GET https://gabrielmcp78.github.io/string-theory-chapters/edits/overture.json      # overture edit</pre>
 
 <h2>Checking if an Edit Exists</h2>
 <pre>GET https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json
@@ -121,6 +123,7 @@ Edit payload (base64 encode this):
 <h2>Chapter Directory</h2>
 <table>
   <tr><th>#</th><th>URL</th><th>Title</th></tr>
+  <tr><td>Overture</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html</a></td><td>(Fragment recovered from sealed archive)</td></tr>
   <tr><td>1</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html</a></td><td>Opus No. 46  in D minor   “Of Life”</td></tr>
   <tr><td>2</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html</a></td><td>The Edge of Discovery</td></tr>
   <tr><td>3</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html</a></td><td>Fruitful Eve, False Dawn, Fateful Night</td></tr>

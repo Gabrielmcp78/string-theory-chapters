@@ -3,12 +3,13 @@
 build.py — String Theory Chapter Site Builder
 ─────────────────────────────────────────────
 Reads the master TXT export from Google Drive / Manuscript Masters,
-splits on |  N  | chapter markers, and generates:
+splits on |  N  | chapter markers (and |  Overture  |), and generates:
 
-  /chapters/chapter-01.html ... chapter-NN.html   — one page per chapter
-  /edits/                                          — empty dir for LLM edits
-  /index.html                                      — master chapter list
-  /llm-interface.html                              — LLM usage guide + API reference
+  /chapters/overture.html                           — overture / prologue
+  /chapters/chapter-01.html ... chapter-NN.html     — one page per chapter
+  /edits/                                           — empty dir for LLM edits
+  /index.html                                       — master chapter list
+  /llm-interface.html                               — LLM usage guide + API reference
 
 Triggered by pages_tagged_export.sh after each export.
 
@@ -36,8 +37,9 @@ PAGES_URL   = "https://gabrielmcp78.github.io/string-theory-chapters"
 BOOK_TITLE  = "String Theory"
 AUTHOR      = "Gabriel McPherson"
 
-# Chapter marker: optional leading whitespace, | N |
-CHAPTER_RE  = re.compile(r'^\s*\|\s*(\d+)\s*\|\s*$', re.MULTILINE)
+# Chapter marker: | N | for numbered chapters, | Overture | or | Prologue | for front matter
+# Overture/Prologue are treated as chapter 0 internally and get slug "overture"
+CHAPTER_RE  = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue)\s*\|\s*$', re.MULTILINE | re.IGNORECASE)
 
 # ── CSS shared across all pages ───────────────────────────────────────────────
 CSS = """
@@ -97,14 +99,32 @@ footer a { color: #aaa; }
 .chapter-list li:last-child { border-bottom: none; }
 .chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
 .chapter-list a:hover { color: #2563eb; }
-.chapter-list .ch-num { color: #aaa; font-size: 0.85rem; min-width: 2.5rem; display: inline-block; }
+.chapter-list .ch-num { color: #aaa; font-size: 0.85rem; min-width: 3.5rem; display: inline-block; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
 .tag { display: inline-block; background: #eef2ff; color: #4f46e5; border-radius: 4px;
        padding: 0.15rem 0.5rem; font-size: 0.75rem; margin-right: 0.4rem; }
 """
 
 def slugify(n):
+    """Return filename stem for a chapter number.
+    0 (Overture/Prologue) → 'overture'
+    N → 'chapter-NN'
+    """
+    if n == 0:
+        return "overture"
     return f"chapter-{int(n):02d}"
+
+def chapter_label(n):
+    """Human-readable chapter label for display."""
+    if n == 0:
+        return "Overture"
+    return f"Chapter {n}"
+
+def chapter_nav_label(n):
+    """Short label for prev/next navigation links."""
+    if n == 0:
+        return "Overture"
+    return f"Ch {n}"
 
 def text_to_paragraphs(raw):
     """Convert raw text lines to HTML paragraphs."""
@@ -123,12 +143,15 @@ def text_to_paragraphs(raw):
     return ''.join(f'<p>{html.escape(p)}</p>\n' for p in paras if p)
 
 def parse_chapters(txt_path):
-    """Return list of (chapter_number, raw_text) tuples."""
+    """Return list of (chapter_number, raw_text) tuples.
+    Overture/Prologue markers are converted to chapter number 0.
+    """
     text = Path(txt_path).read_text(encoding='utf-8', errors='replace')
     matches = list(CHAPTER_RE.finditer(text))
     chapters = []
     for i, m in enumerate(matches):
-        num   = int(m.group(1))
+        raw = m.group(1)
+        num = 0 if raw.lower() in ('overture', 'prologue') else int(raw)
         start = m.end()
         end   = matches[i+1].start() if i+1 < len(matches) else len(text)
         body  = text[start:end].strip()
@@ -140,15 +163,25 @@ def extract_heading(body):
     lines = [l.strip() for l in body.splitlines() if l.strip()]
     title    = lines[0] if lines else ""
     subtitle = lines[1] if len(lines) > 1 else ""
-    # Body starts after heading lines
     rest_start = body.find(lines[2] if len(lines) > 2 else lines[-1]) if len(lines) > 2 else len(body)
     rest = body[rest_start:] if len(lines) > 2 else "\n".join(lines[2:])
     return title, subtitle, rest
 
-def make_chapter_html(num, body, total, build_date):
-    slug      = slugify(num)
-    prev_link = f'<a href="{slugify(num-1)}.html">← Ch {num-1}</a>' if num > 1 else ''
-    next_link = f'<a href="{slugify(num+1)}.html">Ch {num+1} →</a>' if num < total else ''
+def make_chapter_html(num, body, all_nums, build_date):
+    """Generate HTML for one chapter/overture page.
+    all_nums: ordered list of all chapter numbers (may include 0 for overture).
+    Navigation prev/next is computed by position in all_nums.
+    """
+    slug  = slugify(num)
+    idx   = all_nums.index(num)
+    prev_num = all_nums[idx - 1] if idx > 0 else None
+    next_num = all_nums[idx + 1] if idx + 1 < len(all_nums) else None
+
+    prev_link = (f'<a href="{slugify(prev_num)}.html">← {chapter_nav_label(prev_num)}</a>'
+                 if prev_num is not None else '')
+    next_link = (f'<a href="{slugify(next_num)}.html">{chapter_nav_label(next_num)} →</a>'
+                 if next_num is not None else '')
+
     title, subtitle, rest = extract_heading(body)
     paragraphs = text_to_paragraphs(rest)
     edit_url = f"{PAGES_URL}/edits/{slug}.json"
@@ -159,9 +192,9 @@ def make_chapter_html(num, body, total, build_date):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Ch {num} — {html.escape(title)} | {BOOK_TITLE}</title>
+<title>{chapter_label(num)} — {html.escape(title)} | {BOOK_TITLE}</title>
 <meta name="chapter" content="{num}">
-<meta name="total-chapters" content="{total}">
+<meta name="total-chapters" content="{len([n for n in all_nums if n > 0])}">
 <meta name="edit-endpoint" content="{api_url}">
 <meta name="edit-retrieve" content="{edit_url}">
 <style>{CSS}</style>
@@ -185,7 +218,7 @@ def make_chapter_html(num, body, total, build_date):
 </div>
 
 <article>
-  <div class="chapter-number">Chapter {num}</div>
+  <div class="chapter-number">{chapter_label(num)}</div>
   <div class="chapter-heading">{html.escape(title)}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
   <div class="chapter-text">
@@ -201,17 +234,25 @@ def make_chapter_html(num, body, total, build_date):
 </html>"""
 
 def make_index_html(chapters_meta, build_date):
+    """chapters_meta: list of (num, title, subtitle, word_count).
+    num==0 is the Overture and renders before Chapter 1.
+    """
     rows = ""
     for num, title, subtitle, word_count in chapters_meta:
         slug = slugify(num)
+        label = "Overture" if num == 0 else f"Ch {num}"
         rows += f"""  <li>
-    <span class="ch-num">Ch {num}</span>
+    <span class="ch-num">{label}</span>
     <a href="chapters/{slug}.html">{html.escape(title)}</a>
     {'<span class="meta">' + html.escape(subtitle) + '</span>' if subtitle else ''}
     <span class="meta">{word_count:,} words</span>
   </li>\n"""
 
     total_words = sum(wc for _, _, _, wc in chapters_meta)
+    num_chapters = len([n for n, _, _, _ in chapters_meta if n > 0])
+    has_overture = any(n == 0 for n, _, _, _ in chapters_meta)
+    chapter_desc = f"{num_chapters} chapters" + (" + Overture" if has_overture else "")
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,7 +260,7 @@ def make_index_html(chapters_meta, build_date):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{BOOK_TITLE} — Chapter Index</title>
 <meta name="llm-interface" content="{PAGES_URL}/llm-interface.html">
-<meta name="total-chapters" content="{len(chapters_meta)}">
+<meta name="total-chapters" content="{num_chapters}">
 <meta name="total-words" content="{total_words}">
 <style>{CSS}</style>
 </head>
@@ -228,7 +269,7 @@ def make_index_html(chapters_meta, build_date):
   <div class="book-title">Manuscript · {AUTHOR}</div>
   <h1>{BOOK_TITLE}</h1>
   <p class="meta" style="margin-top:0.4rem">
-    {len(chapters_meta)} chapters · {total_words:,} words ·
+    {chapter_desc} · {total_words:,} words ·
     <a href="llm-interface.html">LLM Interface Guide</a>
   </p>
 </header>
@@ -245,7 +286,10 @@ def make_index_html(chapters_meta, build_date):
 
 def make_llm_interface_html(chapters_meta, build_date):
     chapter_rows = "\n".join(
-        f'  <tr><td>{num}</td><td><a href="{PAGES_URL}/chapters/{slugify(num)}.html">{PAGES_URL}/chapters/{slugify(num)}.html</a></td><td>{html.escape(title)}</td></tr>'
+        f'  <tr><td>{"Overture" if num == 0 else num}</td>'
+        f'<td><a href="{PAGES_URL}/chapters/{slugify(num)}.html">'
+        f'{PAGES_URL}/chapters/{slugify(num)}.html</a></td>'
+        f'<td>{html.escape(title)}</td></tr>'
         for num, title, _, _ in chapters_meta
     )
     return f"""<!DOCTYPE html>
@@ -273,9 +317,10 @@ h2 {{ font-size:1.2rem; font-weight:normal; margin:2rem 0 0.5rem; }}
 
 <h2>Reading Chapters</h2>
 <p>Fetch any chapter as plain HTML. No auth required.</p>
-<pre>GET {PAGES_URL}/index.html              # master chapter list
-GET {PAGES_URL}/chapters/chapter-01.html  # chapter 1
-GET {PAGES_URL}/chapters/chapter-NN.html  # any chapter</pre>
+<pre>GET {PAGES_URL}/index.html                   # master chapter list
+GET {PAGES_URL}/chapters/overture.html         # overture / prologue
+GET {PAGES_URL}/chapters/chapter-01.html       # chapter 1
+GET {PAGES_URL}/chapters/chapter-NN.html       # any chapter (01–19)</pre>
 
 <h2>Saving an Edited Chapter</h2>
 <p>PUT to the GitHub Contents API with your API key. The edit is stored as a JSON file and retrievable via a stable URL.</p>
@@ -301,7 +346,8 @@ Edit payload (base64 encode this):
 }}</pre>
 
 <h2>Retrieving a Saved Edit</h2>
-<pre>GET {PAGES_URL}/edits/chapter-01.json    # direct URL, no auth</pre>
+<pre>GET {PAGES_URL}/edits/chapter-01.json    # direct URL, no auth
+GET {PAGES_URL}/edits/overture.json      # overture edit</pre>
 
 <h2>Checking if an Edit Exists</h2>
 <pre>GET https://api.github.com/repos/{REPO}/contents/edits/chapter-01.json
@@ -335,9 +381,10 @@ def build(txt_path=None):
     EDITS_DIR.mkdir(exist_ok=True)
 
     chapters = parse_chapters(txt)
-    total    = len(chapters)
+    all_nums = [num for num, _ in chapters]   # ordered list incl. 0 for overture
     date     = datetime.now().strftime("%Y-%m-%d")
-    print(f"Found {total} chapters")
+    print(f"Found {len(chapters)} sections ({sum(1 for n in all_nums if n > 0)} chapters"
+          + (", 1 overture" if 0 in all_nums else "") + ")")
 
     chapters_meta = []
     for num, body in chapters:
@@ -345,16 +392,17 @@ def build(txt_path=None):
         word_count = len(body.split())
         chapters_meta.append((num, title, subtitle, word_count))
         out = CHAPTER_DIR / f"{slugify(num)}.html"
-        out.write_text(make_chapter_html(num, body, total, date), encoding='utf-8')
-        print(f"  ✓ Chapter {num:2d}: {title[:50]}")
+        out.write_text(make_chapter_html(num, body, all_nums, date), encoding='utf-8')
+        label = "Overture" if num == 0 else f"Chapter {num:2d}"
+        print(f"  ✓ {label}: {title[:50]}")
 
     (OUT_DIR / "index.html").write_text(make_index_html(chapters_meta, date), encoding='utf-8')
     (OUT_DIR / "llm-interface.html").write_text(make_llm_interface_html(chapters_meta, date), encoding='utf-8')
 
-    # Placeholder README for edits dir
+    # Placeholder for edits dir
     (EDITS_DIR / ".gitkeep").touch()
 
-    print(f"\nDone — {total} chapters + index + LLM guide written to {OUT_DIR}")
+    print(f"\nDone — {len(chapters)} sections written to {OUT_DIR}")
     print(f"Live at: {PAGES_URL}")
 
 if __name__ == "__main__":
