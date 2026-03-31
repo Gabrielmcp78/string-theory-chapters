@@ -255,6 +255,37 @@ def extract_meta(paras):
     word_count = sum(len(p.text.split()) for p in paras)
     return title, subtitle, word_count
 
+def strip_header_paras(paras):
+    """
+    Remove the leading SubChapter + Tempo Marking 2 paragraphs that are
+    already rendered as chapter-heading / chapter-subheading in the article
+    header.  Only skips the very first SubChapter block — any SubChapter
+    paragraphs that appear later in the body (section titles within a chapter)
+    are left intact.
+
+    Pattern at chapter start:
+      [empty lines]
+      SubChapter         <- chapter title  -> already in <div class="chapter-heading">
+      [empty lines]
+      Tempo Marking 2    <- subtitle       -> already in <div class="chapter-subheading">
+      [empty lines]
+      ... body begins here (Default/Scene instrumentation, location, etc.)
+    """
+    idx = 0
+    # Skip leading blank paragraphs
+    while idx < len(paras) and not paras[idx].text.strip():
+        idx += 1
+    # Skip first SubChapter (the chapter title)
+    if idx < len(paras) and paras[idx].style.name == 'SubChapter':
+        idx += 1
+        # Skip any blank lines after the SubChapter
+        while idx < len(paras) and not paras[idx].text.strip():
+            idx += 1
+        # Skip the immediately following Tempo Marking 2 (chapter subtitle)
+        if idx < len(paras) and paras[idx].style.name == 'Tempo Marking 2':
+            idx += 1
+    return paras[idx:]
+
 # ── HTML page builders ────────────────────────────────────────────────────────
 def make_chapter_html(num, paras, all_nums, build_date):
     slug  = slugify(num)
@@ -268,7 +299,8 @@ def make_chapter_html(num, paras, all_nums, build_date):
                  if next_num is not None else '')
 
     title, subtitle, _ = extract_meta(paras)
-    body_html = ''.join(para_to_html(p) for p in paras)
+    body_paras = strip_header_paras(paras)
+    body_html = ''.join(para_to_html(p) for p in body_paras)
     edit_url  = f"{PAGES_URL}/edits/{slug}.json"
     api_url   = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
 
@@ -567,8 +599,8 @@ def build(src_path=None):
         lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
         print(f"  ✓ {lbl}: {title[:55]}")
 
-        # Collect body HTML for EPUB (reuse same rendering)
-        body_html = ''.join(para_to_html(p) for p in paras)
+        # Collect body HTML for EPUB (reuse same rendering, header paras already stripped)
+        body_html = ''.join(para_to_html(p) for p in strip_header_paras(paras))
         epub_chapters.append((num, title, subtitle, body_html))
 
     # Index + LLM guide
