@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chapter 12 — Resonance | String Theory</title>
+<title>String Theory · Chapter 12 · Resonance</title>
+<meta name="book" content="String Theory">
 <meta name="chapter" content="12">
-<meta name="total-chapters" content="19">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-12.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-12.json">
 <style>
@@ -20,46 +20,82 @@ body {
     margin: 0 auto;
     padding: 2rem 1.5rem 4rem;
 }
-header {
-    border-bottom: 1px solid #ddd;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-}
+header { border-bottom: 1px solid #ddd; padding-bottom: 1rem; margin-bottom: 2rem; }
 header .book-title { font-size: 0.85rem; color: #888; letter-spacing: 0.08em; text-transform: uppercase; }
 h1 { font-size: 1.5rem; font-weight: normal; margin: 0.3rem 0; }
 nav { margin-top: 0.6rem; font-size: 0.9rem; }
 nav a { color: #555; text-decoration: none; margin-right: 1.2rem; }
 nav a:hover { text-decoration: underline; }
-.chapter-text p { margin-bottom: 1.2em; }
-.chapter-text p:first-child::first-letter {
-    font-size: 3.2em; float: left; line-height: 0.75;
-    margin: 0.1em 0.07em 0 0; font-family: Georgia, serif;
-}
-.chapter-number { font-size: 0.8rem; color: #aaa; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.3rem; }
+
+/* Book/chapter identity — read by Eleven Reader and library apps */
+.book-label { font-size: 0.75rem; color: #bbb; letter-spacing: 0.12em;
+              text-transform: uppercase; margin-bottom: 0.4rem; }
+.chapter-number { font-size: 0.8rem; color: #aaa; letter-spacing: 0.15em;
+                  text-transform: uppercase; margin-bottom: 0.3rem; }
 .chapter-heading { font-size: 1.7rem; font-weight: normal; margin-bottom: 0.5rem; }
 .chapter-subheading { font-size: 0.95rem; color: #666; font-style: italic; margin-bottom: 2rem; }
+
+/* Body styles from DOCX */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* Structural / musical styles */
+.location {
+    font-size: 0.82rem; letter-spacing: 0.09em; text-transform: uppercase;
+    color: #555; margin: 2em 0 0.3em; white-space: pre-wrap;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.2em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #444; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }  /* chapter markers — not rendered as content */
+
+/* Edit bar */
 .edit-bar {
-    background: #f0f0ec;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    padding: 0.8rem 1rem;
-    margin-bottom: 2rem;
-    font-size: 0.85rem;
-    color: #555;
+    background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    font-size: 0.85rem; color: #555;
 }
 .edit-bar a { color: #2563eb; text-decoration: none; }
 .edit-bar a:hover { text-decoration: underline; }
+
+/* Footer */
 footer {
-    margin-top: 3rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid #eee;
-    font-size: 0.8rem;
-    color: #aaa;
-    display: flex;
-    justify-content: space-between;
+    margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #eee;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
 }
 footer a { color: #aaa; }
-/* Index page */
+
+/* Index */
 .chapter-list { list-style: none; }
 .chapter-list li { padding: 0.6rem 0; border-bottom: 1px solid #eee; }
 .chapter-list li:last-child { border-bottom: none; }
@@ -67,8 +103,6 @@ footer a { color: #aaa; }
 .chapter-list a:hover { color: #2563eb; }
 .chapter-list .ch-num { color: #aaa; font-size: 0.85rem; min-width: 3.5rem; display: inline-block; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
-.tag { display: inline-block; background: #eef2ff; color: #4f46e5; border-radius: 4px;
-       padding: 0.15rem 0.5rem; font-size: 0.75rem; margin-right: 0.4rem; }
 </style>
 </head>
 <body>
@@ -90,28 +124,54 @@ footer a { color: #aaa; }
 </div>
 
 <article>
+  <div class="book-label">String Theory · Gabriel McPherson</div>
   <div class="chapter-number">Chapter 12</div>
   <div class="chapter-heading">Resonance</div>
-  <div class="chapter-subheading">I.  The After Math</div>
+  
   <div class="chapter-text">
-<p>Veloce, frammentato, crescente In Reykjavík, in a kitchen lit by a single candle and the blue glow of a phone held too close to the face, a woman watched the buffering circle spin and spin and then—finally—resolve into a room she did not recognize. Outside her window, the aurora had come down like a green veil, close enough to make her feel briefly as if the sky had weight. Her husband said something from the next room about the generator, about the freezer thawing. She hushed him without meaning to—couldn’t help it, really. She was listening, and she could not explain why the sound of a bow on a string felt like instruction. When the video froze for a beat and then resumed, she felt a flash of anger at the invisible machine between her and the thing she needed, and she hated herself for needing anything so badly.</p>
-<p>⸻</p>
-<p>In Lagos, heat sat on the city like a palm on a forehead. A group of boys and men crowded around a shopkeeper’s battered television, the screen too bright, the picture rolling once before it steadied. Somewhere nearby, a diesel generator coughed and caught, then coughed again, as if even the machines were nervous. The shopkeeper kept one eye on the street, on the men who had started moving in groups now—quiet, watchful—because in a city where the lights blinked, the old rules got rewritten fast. The video began, and at first, they laughed—half-disbelief, half-bravado. But the laughter thinned. The room on the screen was small. The man in it was not performing. He was doing something more dangerous. He was telling the truth without words. In the doorway, a woman with a baby on her hip stopped and stood perfectly still. A boy at the back lifted his phone and started recording the screen—not to keep it, but to sell it later, already imagining the captions, already imagining the money.</p>
-<p>⸻</p>
-<p>In Seoul, a graduate student sat on the floor of her apartment with her laptop balanced on a stack of books, a blanket around her shoulders, the radiator dead. She had been tracking the solar storm all week the way you track an illness in the family—numbers as prayer, graphs as superstition. When the audio glitched, she leaned forward, thinking it was corruption in the stream. She rewound. The glitch was still there, a faint low shiver beneath the note, a murmur that felt less like distortion than like something large shifting in its sleep. She opened a spectrum analyzer out of reflex. The peaks rose and arranged themselves with a precision that made her throat go tight. “That can’t be right,” she whispered. Her phone buzzed: Don’t share anything. They’re already monitoring uploads. She stared at the message until it stopped being about policy and started being about power.</p>
-<p>⸻</p>
-<p>In Buenos Aires, an elderly man with nicotine-stained fingers and a radio older than most of his neighbors turned a dial that had not mattered in years. He did it by feel, by memory, while the power blinked and the city’s familiar hum stuttered. The radio gave him static, then a thin voice, then something else: sound that was not speech, was not music, and yet was not nothing. He sat down hard in a chair that creaked beneath him. His wife came in from the hallway and asked what he was doing. “I don’t know,” he said. Outside, someone pounded on a neighbor’s door and shouted about hoarding, about stolen batteries, about fairness. The accusation landed like a stone in water. The old man felt the familiar shame of scarcity rising—how quickly the human heart became a fist.</p>
-<p>⸻</p>
-<p>In Montana, under a night so clear it looked scrubbed, a rancher stood in his driveway with his phone held up like an offering. The aurora had wandered this far south, pale green fingers combing the sky. His daughter—thirteen, sharp, angry at everything lately—leaned against the truck and pretended she was not impressed. The video loaded. The man on the screen began to play. The rancher heard it and thought of fences singing in the wind, of wire humming when a storm was coming, of the strange way the world gave warning if you had lived long enough to recognize the tone. His daughter’s face shifted without her permission. Then her phone lit with a live stream of the same video, words poured over it like gasoline:</p>
-<p>PROOF. IT’S A WEAPON.</p>
-<p>Comments scrolled faster than the sound. Strangers frothing at strangers. The girl’s face closed again.</p>
-<p>⸻</p>
-<p>In a hospital corridor in Mumbai, where emergency lights had turned every face a washed-out color, a nurse crouched beside an outlet with a small power bank and a phone balanced on her knee. The generators thrummed. Somewhere a monitor alarmed, then quieted, then alarmed again. She should have been moving. But she wasn’t. She was watching. There was something in the man’s posture, in the way he failed and did not leave, that made her chest ache as if it had been pressed. She did not know his name. She did not care. For a handful of seconds, she felt less alone in the work of holding a fragile world together. A supervisor snapped her name. She flinched as if caught stealing and shoved the phone away as if it had accused her.</p>
-<p>⸻</p>
-<p>And in a city whose name did not matter—because this happened everywhere, at once—in a room with a window and a body and a screen, someone turned the volume up. Someone put a hand over their mouth. Someone said, softly, “Listen.” Someone else began to cry and could not say why. And somewhere else, someone leaned closer with colder interest.</p>
-<p>⸻</p>
-<p>The file moved, and moved, and moved—like pressure collapsing structure. Through satellites and routers and emergency channels. Through group chats and research threads and feeds that refreshed faster than breath.</p>
-<p>The modern world did what it always did when it did not understand: it shared the sensation faster than it could name it. Stories gathered around it at once. Some were hopeful. Some were sharp. Some were built to sell. Some were built to wound. And beneath the sharing—beneath the arguments and the warnings and the captions—the sound continued.</p>
+<h3 class="subchapter">Resonance</h3>
+<div class="location">I.  The After Math</div>
+<div class="tempo-1">Veloce, frammentato, crescente</div>
+<p class="body">In Reykjavík, in a kitchen lit by a single candle and the blue glow of a phone held too close to the face, a woman watched the buffering circle spin and spin and then—finally—resolve into a room she did not recognize. Outside her window, the aurora had come down like a green veil, close enough to make her feel briefly as if the sky had weight. Her husband said something from the next room about the generator, about the freezer thawing. She hushed him without meaning to—couldn’t help it, really. She was listening, and she could not explain why the sound of a bow on a string felt like instruction.</p>
+<p class="body">When the video froze for a beat and then resumed, she felt a flash of anger at the invisible machine between her and the thing she needed, and she hated herself for needing anything so badly.</p>
+<p class="body">⸻</p>
+<p class="body">In Lagos, heat sat on the city like a palm on a forehead. A group of boys and men crowded around a shopkeeper’s battered television, the screen too bright, the picture rolling once before it steadied. Somewhere nearby, a diesel generator coughed and caught, then coughed again, as if even the machines were nervous. The shopkeeper kept one eye on the street, on the men who had started moving in groups now—quiet, watchful—because in a city where the lights blinked, the old rules got rewritten fast.</p>
+<p class="body">The video began, and at first, they laughed—half-disbelief, half-bravado. But the laughter thinned. The room on the screen was small. The man in it was not performing. He was doing something more dangerous. He was telling the truth without words.</p>
+<p class="body">In the doorway, a woman with a baby on her hip stopped and stood perfectly still. A boy at the back lifted his phone and started recording the screen—not to keep it, but to sell it later, already imagining the captions, already imagining the money.</p>
+<p class="body">⸻</p>
+<p class="body">In Seoul, a graduate student sat on the floor of her apartment with her laptop balanced on a stack of books, a blanket around her shoulders, the radiator dead. She had been tracking the solar storm all week the way you track an illness in the family—numbers as prayer, graphs as superstition.</p>
+<p class="body">When the audio glitched, she leaned forward, thinking it was corruption in the stream. She rewound. The glitch was still there, a faint low shiver beneath the note, a murmur that felt less like distortion than like something large shifting in its sleep.</p>
+<p class="body">She opened a spectrum analyzer out of reflex. The peaks rose and arranged themselves with a precision that made her throat go tight.</p>
+<p class="body">“That can’t be right,” she whispered.</p>
+<p class="body">Her phone buzzed: Don’t share anything. They’re already monitoring uploads.</p>
+<p class="body">She stared at the message until it stopped being about policy and started being about power.</p>
+<p class="body">⸻</p>
+<p class="body">In Buenos Aires, an elderly man with nicotine-stained fingers and a radio older than most of his neighbors turned a dial that had not mattered in years. He did it by feel, by memory, while the power blinked and the city’s familiar hum stuttered.</p>
+<p class="body">The radio gave him static, then a thin voice, then something else: sound that was not speech, was not music, and yet was not nothing.</p>
+<p class="body">He sat down hard in a chair that creaked beneath him.</p>
+<p class="body">His wife came in from the hallway and asked what he was doing.</p>
+<p class="body">“I don’t know,” he said.</p>
+<p class="body">Outside, someone pounded on a neighbor’s door and shouted about hoarding, about stolen batteries, about fairness. The accusation landed like a stone in water. The old man felt the familiar shame of scarcity rising—how quickly the human heart became a fist.</p>
+<p class="body">⸻</p>
+<p class="body">In Montana, under a night so clear it looked scrubbed, a rancher stood in his driveway with his phone held up like an offering. The aurora had wandered this far south, pale green fingers combing the sky. His daughter—thirteen, sharp, angry at everything lately—leaned against the truck and pretended she was not impressed.</p>
+<p class="body">The video loaded. The man on the screen began to play. The rancher heard it and thought of fences singing in the wind, of wire humming when a storm was coming, of the strange way the world gave warning if you had lived long enough to recognize the tone.</p>
+<p class="body">His daughter’s face shifted without her permission.</p>
+<p class="body">Then her phone lit with a live stream of the same video, words poured over it like gasoline:</p>
+<p class="body">PROOF.</p>
+<p class="body">IT’S A WEAPON.</p>
+<p class="body">Comments scrolled faster than the sound. Strangers frothing at strangers. The girl’s face closed again.</p>
+<p class="body">⸻</p>
+<p class="body">In a hospital corridor in Mumbai, where emergency lights had turned every face a washed-out color, a nurse crouched beside an outlet with a small power bank and a phone balanced on her knee. The generators thrummed. Somewhere a monitor alarmed, then quieted, then alarmed again.</p>
+<p class="body">She should have been moving. But she wasn’t. She was watching. There was something in the man’s posture, in the way he failed and did not leave, that made her chest ache as if it had been pressed.</p>
+<p class="body">She did not know his name. She did not care. For a handful of seconds, she felt less alone in the work of holding a fragile world together.</p>
+<p class="body">A supervisor snapped her name. She flinched as if caught stealing and shoved the phone away as if it had accused her.</p>
+<p class="body">⸻</p>
+<p class="body">And in a city whose name did not matter—because this happened everywhere, at once—in a room with a window and a body and a screen, someone turned the volume up. Someone put a hand over their mouth. Someone said, softly, “Listen.” Someone else began to cry and could not say why. And somewhere else, someone leaned closer with colder interest.</p>
+<p class="body">⸻</p>
+<p class="body">The file moved, and moved, and moved—like pressure collapsing structure. Through satellites and routers and emergency channels. Through group chats and research threads and feeds that refreshed faster than breath.</p>
+<p class="body">The modern world did what it always did when it did not understand: it shared the sensation faster than it could name it.</p>
+<p class="body">Stories gathered around it at once. Some were hopeful. Some were sharp. Some were built to sell. Some were built to wound.</p>
+<p class="body">And beneath the sharing—beneath the arguments and the warnings and the captions—the sound continued.</p>
 
   </div>
 </article>
