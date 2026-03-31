@@ -2,9 +2,15 @@
 """
 build.py — String Theory Chapter Site Builder (DOCX Edition)
 Source: DOCX export from Pages (preserves bold, italic, paragraph styles)
+
+Outputs per chapter:
+  chapters/chapter-NN.html   — styled reader page
+  chapters/chapter-NN.txt    — plain text (parser/LLM-friendly, no HTML)
+  manifest.json              — full site index with chapter metadata + scene spans
+  String Theory.epub         — EPUB 2 for reading apps
 """
 
-import re, sys, html, zipfile
+import re, sys, html, zipfile, json
 from pathlib import Path
 from datetime import datetime
 import docx
@@ -40,11 +46,10 @@ STYLE_CLASS = {
     'Title':           'title-special',
 }
 
-# Cover palette
-# Background: deep charcoal slate  ~#2b3540
-# Copper accent:                    ~#b8785a
-# Ghost/muted on dark:              ~#8a9aaa
-# Body bg (cream for readability):  #fafaf8
+# Cover palette:
+#   Charcoal slate:  #2b3540
+#   Copper accent:   #b8785a
+#   Body bg (cream): #fafaf8
 
 # -- CSS ----------------------------------------------------------------------
 CSS = """
@@ -175,7 +180,7 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
-/* ===== Parser-readable manifest block (LLM / plain-text retrieval) ===== */
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.76rem; color: #999; line-height: 1.75;
@@ -263,6 +268,27 @@ def para_to_html(p):
     else:
         return f'<p class="{css_class}">{inner}</p>\n'
 
+def para_to_text(p):
+    """Plain-text rendering for .txt companion files."""
+    style = p.style.name
+    css_class = STYLE_CLASS.get(style, 'body')
+    if css_class == 'subtitle':
+        return ''
+    t = p.text.strip()
+    if not t:
+        return ''
+    t = re.sub(r'\t+', '  ', t)
+    if style == 'location':
+        return f'\n{t}\n'
+    elif style in ('Tempo Marking 1', 'Tempo Marking 2'):
+        return f'[{t}]\n'
+    elif style == 'SubChapter':
+        return f'\n{t}\n'
+    elif css_class in ('equation',):
+        return f'  {t}\n'
+    else:
+        return f'{t}\n'
+
 # -- DOCX parser --------------------------------------------------------------
 def parse_chapters(src_path):
     doc = docx.Document(str(src_path))
@@ -301,10 +327,7 @@ def extract_meta(paras):
     return title, subtitle, word_count
 
 def strip_header_paras(paras):
-    """
-    Skip the opening SubChapter + Tempo Marking 2 that are already
-    rendered as chapter-heading / chapter-subheading in the article header.
-    """
+    """Skip the opening SubChapter + Tempo Marking 2 already in the article header."""
     idx = 0
     while idx < len(paras) and not paras[idx].text.strip():
         idx += 1
@@ -317,10 +340,7 @@ def strip_header_paras(paras):
     return paras[idx:]
 
 def render_body_html(paras):
-    """
-    Render body HTML with scene anchors injected on location paragraphs.
-    Returns (html_str, stats) where stats has words, paragraphs, scenes list.
-    """
+    """Render body HTML with scene anchors; return (html_str, stats)."""
     parts      = []
     scenes     = []
     word_count = 0
@@ -368,8 +388,106 @@ def render_body_html(paras):
         'scenes':     scenes,
     }
 
+# -- Plain-text chapter file --------------------------------------------------
+def make_chapter_txt(num, title, subtitle, body_paras, stats):
+    """
+    Pure plain text — no HTML, no CSS.
+    Fetchable at /chapters/chapter-NN.txt
+    Designed to survive any HTML-to-text extraction layer intact.
+    """
+    label    = chapter_label(num)
+    sc_list  = stats['scenes']
+    sc_words = stats['words']
+    sc_paras = stats['paragraphs']
+    sc_count = len(sc_list)
+    bar      = '=' * 72
+
+    lines = [
+        bar,
+        f'{BOOK_TITLE.upper()}',
+        f'By {AUTHOR}',
+        bar,
+        f'Chapter Label:   {label}',
+        f'Title:           {title}',
+    ]
+    if subtitle:
+        lines.append(f'Subtitle:        {subtitle}')
+    lines += [
+        bar,
+        'CHAPTER MANIFEST',
+        '-' * 40,
+        f'Word Count:      {sc_words:,}',
+        f'Paragraph Count: {sc_paras:,}',
+        f'Scene Count:     {sc_count}',
+        '',
+    ]
+    for i, s in enumerate(sc_list, 1):
+        lines.append(
+            f'Scene {i}: {s["heading"]}'
+            f'  --  Words {s["word_start"]:,}\u2013{s["word_end"]:,}'
+            f'  |  Paragraphs {s["para_start"]}\u2013{s["para_end"]}'
+        )
+    lines += [
+        bar,
+        '',
+        '--- CHAPTER TEXT BEGINS ---',
+        '',
+    ]
+    for p in body_paras:
+        lines.append(para_to_text(p))
+    lines += [
+        '',
+        bar,
+        f'END OF {label.upper()}',
+        bar,
+    ]
+    return '\n'.join(lines)
+
+# -- JSON manifest ------------------------------------------------------------
+def make_manifest_json(chapters_full, build_date):
+    """
+    Site-level manifest at /manifest.json
+    chapters_full: list of (num, title, subtitle, word_count, para_count, scenes)
+    """
+    total_words = sum(wc for _, _, _, wc, _, _ in chapters_full)
+    chapter_list = []
+    for num, title, subtitle, word_count, para_count, scenes in chapters_full:
+        slug = slugify(num)
+        chapter_list.append({
+            'num':             num,
+            'slug':            slug,
+            'label':           chapter_label(num),
+            'title':           title,
+            'subtitle':        subtitle,
+            'word_count':      word_count,
+            'paragraph_count': para_count,
+            'scene_count':     len(scenes),
+            'html_url':        f'{PAGES_URL}/chapters/{slug}.html',
+            'text_url':        f'{PAGES_URL}/chapters/{slug}.txt',
+            'scenes': [
+                {
+                    'n':          i,
+                    'heading':    s['heading'],
+                    'word_start': s['word_start'],
+                    'word_end':   s['word_end'],
+                    'para_start': s['para_start'],
+                    'para_end':   s['para_end'],
+                }
+                for i, s in enumerate(scenes, 1)
+            ],
+        })
+    return json.dumps({
+        'title':         BOOK_TITLE,
+        'author':        AUTHOR,
+        'built':         build_date,
+        'total_words':   total_words,
+        'manifest_url':  f'{PAGES_URL}/manifest.json',
+        'chapters':      chapter_list,
+    }, indent=2, ensure_ascii=False)
+
 # -- HTML page builders -------------------------------------------------------
-def make_chapter_html(num, paras, all_nums, build_date):
+def make_chapter_html(num, paras, all_nums, build_date,
+                      prebuilt_body=None, prebuilt_stats=None):
     slug  = slugify(num)
     idx   = all_nums.index(num)
     prev_num = all_nums[idx - 1] if idx > 0 else None
@@ -381,18 +499,23 @@ def make_chapter_html(num, paras, all_nums, build_date):
                  if next_num is not None else '')
 
     title, subtitle, _ = extract_meta(paras)
-    body_paras         = strip_header_paras(paras)
-    body_html, stats   = render_body_html(body_paras)
+    if prebuilt_body is not None and prebuilt_stats is not None:
+        body_html = prebuilt_body
+        stats     = prebuilt_stats
+    else:
+        body_paras        = strip_header_paras(paras)
+        body_html, stats  = render_body_html(body_paras)
 
     edit_url = f"{PAGES_URL}/edits/{slug}.json"
     api_url  = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
+    txt_url  = f"{PAGES_URL}/chapters/{slug}.txt"
 
-    # Build stats bar
     sc_list  = stats['scenes']
     sc_count = len(sc_list)
     sc_words = stats['words']
     sc_paras = stats['paragraphs']
 
+    # Visual stats bar
     scene_entries = ''
     for s in sc_list:
         w_range  = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
@@ -403,12 +526,10 @@ def make_chapter_html(num, paras, all_nums, build_date):
             f'<a href="#{s["id"]}">{html.escape(s["heading"])}</a>'
             f'{rng_span}</div>\n'
         )
-
     scene_inv_html = (
         f'<div class="scene-inventory">\n{scene_entries}  </div>'
         if scene_entries else ''
     )
-
     stats_bar = (
         f'<div class="chapter-stats">\n'
         f'  <div class="stats-row">'
@@ -418,13 +539,7 @@ def make_chapter_html(num, paras, all_nums, build_date):
         f'</div>\n  {scene_inv_html}\n</div>'
     )
 
-    sentinel = (
-        f'<div class="chapter-sentinel" id="chapter-end">'
-        f'&#8212; End of {chapter_label(num)} &#8212;</div>'
-    )
-
-    # Plain-text manifest for LLM / parser retrieval
-    # Follows GPT's spec: literal labels, one per line, in main content flow
+    # Plain-text manifest block (in HTML content flow, for page-context extractors)
     manifest_lines = [
         f'[ Chapter Manifest: {BOOK_TITLE} \u00b7 {chapter_label(num)} ]',
         f'Title: {title}',
@@ -434,13 +549,19 @@ def make_chapter_html(num, paras, all_nums, build_date):
     ]
     for i, s in enumerate(sc_list, 1):
         manifest_lines.append(
-            f'Scene {i}: {s["heading"]} '
-            f'-- Word Range: {s["word_start"]:,}\u2013{s["word_end"]:,} '
-            f'| Paragraph Range: {s["para_start"]}\u2013{s["para_end"]}'
+            f'Scene {i}: {s["heading"]}'
+            f' -- Word Range: {s["word_start"]:,}\u2013{s["word_end"]:,}'
+            f' | Paragraph Range: {s["para_start"]}\u2013{s["para_end"]}'
         )
-    manifest_lines.append(f'[ End Manifest ]')
-    manifest_text = '\n'.join(manifest_lines)
-    manifest_block = f'<div class="chapter-manifest">{html.escape(manifest_text)}</div>'
+    manifest_lines.append('[ End Manifest ]')
+    manifest_block = (
+        f'<div class="chapter-manifest">{html.escape(chr(10).join(manifest_lines))}</div>'
+    )
+
+    sentinel = (
+        f'<div class="chapter-sentinel" id="chapter-end">'
+        f'&#8212; End of {chapter_label(num)} &#8212;</div>'
+    )
 
     page_title = f"{BOOK_TITLE} \u00b7 {chapter_label(num)} \u00b7 {html.escape(title)}"
 
@@ -457,6 +578,7 @@ def make_chapter_html(num, paras, all_nums, build_date):
 <meta name="scene-count" content="{sc_count}">
 <meta name="edit-endpoint" content="{api_url}">
 <meta name="edit-retrieve" content="{edit_url}">
+<link rel="alternate" type="text/plain" href="{slug}.txt" title="Plain text — parser/LLM access">
 <style>{CSS}</style>
 </head>
 <body>
@@ -467,6 +589,7 @@ def make_chapter_html(num, paras, all_nums, build_date):
     <a href="../index.html">All Chapters</a>
     {prev_link}
     {next_link}
+    <a href="{slug}.txt" style="font-size:0.8rem;color:#6a7a8a" title="Plain text version">[txt]</a>
   </nav>
 </header>
 
@@ -486,7 +609,8 @@ def make_chapter_html(num, paras, all_nums, build_date):
   <div class="edit-bar">
     LLM Edit API &mdash;
     Read: <a href="{edit_url}">{edit_url}</a> &middot;
-    Save: <code>PUT {api_url}</code>
+    Save: <code>PUT {api_url}</code> &middot;
+    Plain text: <a href="{txt_url}">{txt_url}</a>
   </div>
   </div>
 </article>
@@ -522,6 +646,7 @@ def make_index_html(chapters_meta, build_date):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{BOOK_TITLE} &mdash; Chapter Index</title>
 <meta name="llm-interface" content="{PAGES_URL}/llm-interface.html">
+<meta name="manifest" content="{PAGES_URL}/manifest.json">
 <style>{CSS}</style>
 </head>
 <body>
@@ -530,14 +655,14 @@ def make_index_html(chapters_meta, build_date):
   <h1>{BOOK_TITLE}</h1>
   <p class="meta" style="margin-top:0.4rem">
     {chapter_desc} &middot; {total_words:,} words &middot;
-    <a href="llm-interface.html">LLM Interface Guide</a>
+    <a href="manifest.json" style="color:#b8785a">manifest.json</a>
   </p>
 </header>
 <ul class="chapter-list">
 {rows}</ul>
 <footer>
   <span>Built {build_date}</span>
-  <span><a href="llm-interface.html">LLM Guide</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span>
+  <span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span>
 </footer>
 </body>
 </html>"""
@@ -548,6 +673,7 @@ def make_llm_interface_html(chapters_meta, build_date):
         f'  <tr><td>{"Overture" if num == 0 else num}</td>'
         f'<td><a href="{PAGES_URL}/chapters/{slugify(num)}.html">'
         f'{PAGES_URL}/chapters/{slugify(num)}.html</a></td>'
+        f'<td><a href="{PAGES_URL}/chapters/{slugify(num)}.txt">.txt</a></td>'
         f'<td>{html.escape(title)}</td></tr>'
         for num, title, _, _ in chapters_meta
     )
@@ -560,7 +686,7 @@ pre{{background:#f4f4f0;padding:1rem;border-radius:6px;overflow-x:auto;margin:1e
 table{{width:100%;border-collapse:collapse;margin:1em 0;font-size:.9rem}}
 th{{text-align:left;border-bottom:2px solid #ddd;padding:.4rem .6rem}}
 td{{border-bottom:1px solid #eee;padding:.4rem .6rem;vertical-align:top}}
-h2{{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem}}
+h2{{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem;color:#b8785a}}
 </style></head>
 <body>
 <header>
@@ -568,17 +694,25 @@ h2{{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem}}
   <h1>LLM Access Guide</h1>
   <nav><a href="index.html">Chapter Index</a></nav>
 </header>
-<h2>Reading Chapters</h2>
-<pre>GET {PAGES_URL}/chapters/overture.html
-GET {PAGES_URL}/chapters/chapter-NN.html   (NN = 01&ndash;19)</pre>
+<div style="padding:0 1.5rem">
+<h2>Access Methods</h2>
+<p style="font-size:.9rem;color:#555;margin-bottom:1rem">
+  Each chapter has two access paths. The <strong>.txt URL</strong> is plain text with no HTML —
+  use it when your retrieval layer may strip or flatten HTML structure.
+  The manifest.json contains the full chapter inventory with scene spans.
+</p>
+<pre>Plain text (no HTML):  GET {PAGES_URL}/chapters/chapter-NN.txt
+HTML page:             GET {PAGES_URL}/chapters/chapter-NN.html
+Full site manifest:    GET {PAGES_URL}/manifest.json</pre>
 <h2>Saving an Edit</h2>
 <pre>PUT https://api.github.com/repos/{REPO}/contents/edits/chapter-01.json
 Authorization: token &lt;API_KEY&gt;</pre>
 <h2>Chapter Directory</h2>
-<table><tr><th>#</th><th>URL</th><th>Title</th></tr>
+<table><tr><th>#</th><th>HTML</th><th>TXT</th><th>Title</th></tr>
 {chapter_rows}
 </table>
-<footer><span>Built {build_date}</span><span><a href="https://github.com/{REPO}">GitHub</a></span></footer>
+</div>
+<footer><span>Built {build_date}</span><span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span></footer>
 </body></html>"""
 
 # -- EPUB builder -------------------------------------------------------------
@@ -587,7 +721,7 @@ body { font-family: Georgia, serif; font-size: 1em; line-height: 1.8;
        margin: 1em 1.5em; color: #1a1a1a; }
 .book-label { font-size: 0.72em; color: #999; letter-spacing: 0.1em;
               text-transform: uppercase; margin-bottom: 0.4em; }
-.chapter-number { font-size: 0.8em; color: #888; letter-spacing: 0.12em;
+.chapter-number { font-size: 0.8em; color: #b8785a; letter-spacing: 0.12em;
                   text-transform: uppercase; margin-bottom: 0.25em; }
 .chapter-heading { font-size: 1.5em; font-weight: normal; margin-bottom: 0.4em; }
 .chapter-subheading { font-style: italic; font-size: 0.95em; color: #555;
@@ -595,17 +729,18 @@ body { font-family: Georgia, serif; font-size: 1em; line-height: 1.8;
 p.body, p.default { margin-bottom: 1em; text-indent: 0; }
 p.scene { font-style: italic; color: #555; margin-bottom: 0.9em; }
 .location { font-size: 0.78em; letter-spacing: 0.08em; text-transform: uppercase;
-            color: #555; margin: 1.8em 0 0.3em; }
+            color: #b8785a; margin: 1.8em 0 0.3em; font-weight: 500; }
 .tempo-1 { font-style: italic; font-size: 0.85em; color: #777; margin-bottom: 0.8em; }
 .tempo-2 { font-style: italic; font-size: 0.92em; color: #555; margin-bottom: 1.2em; }
 h3.subchapter { font-size: 1em; font-weight: normal; color: #333; margin: 2em 0 0.4em; }
-.ch-special { font-variant: small-caps; letter-spacing: 0.06em; color: #444;
+.ch-special { font-variant: small-caps; letter-spacing: 0.06em; color: #555;
               margin: 0.6em 0; font-size: 0.9em; }
 .equation { font-style: italic; text-align: center; margin: 1em 0; }
 .caption { font-size: 0.78em; color: #999; text-align: center; margin: 0.5em 0; }
-.chapter-sentinel { text-align: center; font-size: 0.72em; color: #ccc;
+.chapter-sentinel { text-align: center; font-size: 0.72em; color: #b8785a;
                     letter-spacing: 0.1em; text-transform: uppercase;
-                    margin-top: 3em; padding-top: 1em; border-top: 1px solid #eee; }
+                    margin-top: 3em; padding-top: 1em; border-top: 1px solid #eee;
+                    opacity: 0.6; }
 """
 
 def make_epub(chapters_data, out_path):
@@ -723,33 +858,59 @@ def build(src_path=None):
     print(f"Found {len(chapters)} sections ({num_chaps} chapters"
           + (", 1 overture" if has_ov else "") + ")")
 
-    chapters_meta = []
-    epub_chapters = []
+    chapters_meta  = []   # for index page
+    chapters_full  = []   # for manifest.json
+    epub_chapters  = []
 
     for num, paras in chapters:
         title, subtitle, word_count = extract_meta(paras)
-        chapters_meta.append((num, title, subtitle, word_count))
+        body_paras      = strip_header_paras(paras)
+        body_html, stats = render_body_html(body_paras)
 
-        out = CHAPTER_DIR / f"{slugify(num)}.html"
-        out.write_text(make_chapter_html(num, paras, all_nums, date), encoding='utf-8')
+        chapters_meta.append((num, title, subtitle, word_count))
+        chapters_full.append((num, title, subtitle,
+                               stats['words'], stats['paragraphs'], stats['scenes']))
+
+        # HTML chapter page
+        out_html = CHAPTER_DIR / f"{slugify(num)}.html"
+        out_html.write_text(
+            make_chapter_html(num, paras, all_nums, date,
+                              prebuilt_body=body_html, prebuilt_stats=stats),
+            encoding='utf-8'
+        )
+
+        # Plain text companion (parser/LLM access)
+        out_txt = CHAPTER_DIR / f"{slugify(num)}.txt"
+        out_txt.write_text(
+            make_chapter_txt(num, title, subtitle, body_paras, stats),
+            encoding='utf-8'
+        )
+
         lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
         print(f"  \u2713 {lbl}: {title[:55]}")
 
-        body_html, _ = render_body_html(strip_header_paras(paras))
         epub_chapters.append((num, title, subtitle, body_html))
 
+    # Index + LLM guide
     (OUT_DIR / "index.html").write_text(
         make_index_html(chapters_meta, date), encoding='utf-8')
     (OUT_DIR / "llm-interface.html").write_text(
         make_llm_interface_html(chapters_meta, date), encoding='utf-8')
 
+    # Site manifest
+    (OUT_DIR / "manifest.json").write_text(
+        make_manifest_json(chapters_full, date), encoding='utf-8')
+    print(f"  \u2713 manifest.json")
+
+    # EPUB
     epub_path = OUT_DIR / f"{BOOK_TITLE}.epub"
     make_epub(epub_chapters, epub_path)
 
     (EDITS_DIR / ".gitkeep").touch()
 
-    print(f"\nDone \u2014 {len(chapters)} sections + EPUB written to {OUT_DIR}")
+    print(f"\nDone \u2014 {len(chapters)} sections + EPUB + manifest written to {OUT_DIR}")
     print(f"Live at: {PAGES_URL}")
+    print(f"Manifest: {PAGES_URL}/manifest.json")
 
 
 if __name__ == "__main__":

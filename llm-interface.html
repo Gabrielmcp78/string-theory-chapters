@@ -129,7 +129,7 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
-/* ===== Parser-readable manifest block (LLM / plain-text retrieval) ===== */
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.76rem; color: #999; line-height: 1.75;
@@ -178,7 +178,7 @@ pre{background:#f4f4f0;padding:1rem;border-radius:6px;overflow-x:auto;margin:1em
 table{width:100%;border-collapse:collapse;margin:1em 0;font-size:.9rem}
 th{text-align:left;border-bottom:2px solid #ddd;padding:.4rem .6rem}
 td{border-bottom:1px solid #eee;padding:.4rem .6rem;vertical-align:top}
-h2{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem}
+h2{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem;color:#b8785a}
 </style></head>
 <body>
 <header>
@@ -186,34 +186,42 @@ h2{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem}
   <h1>LLM Access Guide</h1>
   <nav><a href="index.html">Chapter Index</a></nav>
 </header>
-<h2>Reading Chapters</h2>
-<pre>GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html
-GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-NN.html   (NN = 01&ndash;19)</pre>
+<div style="padding:0 1.5rem">
+<h2>Access Methods</h2>
+<p style="font-size:.9rem;color:#555;margin-bottom:1rem">
+  Each chapter has two access paths. The <strong>.txt URL</strong> is plain text with no HTML —
+  use it when your retrieval layer may strip or flatten HTML structure.
+  The manifest.json contains the full chapter inventory with scene spans.
+</p>
+<pre>Plain text (no HTML):  GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-NN.txt
+HTML page:             GET https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-NN.html
+Full site manifest:    GET https://gabrielmcp78.github.io/string-theory-chapters/manifest.json</pre>
 <h2>Saving an Edit</h2>
 <pre>PUT https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json
 Authorization: token &lt;API_KEY&gt;</pre>
 <h2>Chapter Directory</h2>
-<table><tr><th>#</th><th>URL</th><th>Title</th></tr>
-  <tr><td>Overture</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html</a></td><td>(Fragment recovered from sealed archive)</td></tr>
-  <tr><td>1</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html</a></td><td>Opus No. 46  in D minor   “Of Life”</td></tr>
-  <tr><td>2</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html</a></td><td>The Edge of Discovery</td></tr>
-  <tr><td>3</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html</a></td><td>Fruitful Eve, False Dawn, Fateful Night</td></tr>
-  <tr><td>4</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html</a></td><td>Exercises in Humanity</td></tr>
-  <tr><td>5</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html</a></td><td>Twin Primes on the six</td></tr>
-  <tr><td>6</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html</a></td><td>Visions and Burdens… of Knowing</td></tr>
-  <tr><td>7</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html</a></td><td>The Solar Maximus Connection</td></tr>
-  <tr><td>8</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html</a></td><td>Skepticism and Ridicule</td></tr>
-  <tr><td>9</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html</a></td><td>To Ground</td></tr>
-  <tr><td>10</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html</a></td><td>Fractional Currency</td></tr>
-  <tr><td>11</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html</a></td><td>The Symmetry of Violence</td></tr>
-  <tr><td>12</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html</a></td><td>Resonance</td></tr>
-  <tr><td>13</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html</a></td><td>Phenom de Guare</td></tr>
-  <tr><td>14</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html</a></td><td>Ratios of One</td></tr>
-  <tr><td>15</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html</a></td><td>The Pivotal Encounter</td></tr>
-  <tr><td>16</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html</a></td><td>The Final Decision</td></tr>
-  <tr><td>17</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html</a></td><td>Reverberation</td></tr>
-  <tr><td>18</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html</a></td><td>The Enduring Legacy</td></tr>
-  <tr><td>19</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html</a></td><td>For All</td></tr>
+<table><tr><th>#</th><th>HTML</th><th>TXT</th><th>Title</th></tr>
+  <tr><td>Overture</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt">.txt</a></td><td>(Fragment recovered from sealed archive)</td></tr>
+  <tr><td>1</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt">.txt</a></td><td>Opus No. 46  in D minor   “Of Life”</td></tr>
+  <tr><td>2</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.txt">.txt</a></td><td>The Edge of Discovery</td></tr>
+  <tr><td>3</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.txt">.txt</a></td><td>Fruitful Eve, False Dawn, Fateful Night</td></tr>
+  <tr><td>4</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.txt">.txt</a></td><td>Exercises in Humanity</td></tr>
+  <tr><td>5</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.txt">.txt</a></td><td>Twin Primes on the six</td></tr>
+  <tr><td>6</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt">.txt</a></td><td>Visions and Burdens… of Knowing</td></tr>
+  <tr><td>7</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt">.txt</a></td><td>The Solar Maximus Connection</td></tr>
+  <tr><td>8</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.txt">.txt</a></td><td>Skepticism and Ridicule</td></tr>
+  <tr><td>9</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.txt">.txt</a></td><td>To Ground</td></tr>
+  <tr><td>10</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.txt">.txt</a></td><td>Fractional Currency</td></tr>
+  <tr><td>11</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.txt">.txt</a></td><td>The Symmetry of Violence</td></tr>
+  <tr><td>12</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.txt">.txt</a></td><td>Resonance</td></tr>
+  <tr><td>13</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.txt">.txt</a></td><td>Phenom de Guare</td></tr>
+  <tr><td>14</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.txt">.txt</a></td><td>Ratios of One</td></tr>
+  <tr><td>15</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt">.txt</a></td><td>The Pivotal Encounter</td></tr>
+  <tr><td>16</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.txt">.txt</a></td><td>The Final Decision</td></tr>
+  <tr><td>17</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt">.txt</a></td><td>Reverberation</td></tr>
+  <tr><td>18</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.txt">.txt</a></td><td>The Enduring Legacy</td></tr>
+  <tr><td>19</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html">https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.txt">.txt</a></td><td>For All</td></tr>
 </table>
-<footer><span>Built 2026-03-31</span><span><a href="https://github.com/Gabrielmcp78/string-theory-chapters">GitHub</a></span></footer>
+</div>
+<footer><span>Built 2026-03-31</span><span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/Gabrielmcp78/string-theory-chapters">GitHub</a></span></footer>
 </body></html>
