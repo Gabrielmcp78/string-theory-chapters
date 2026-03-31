@@ -1,30 +1,7 @@
 #!/usr/bin/env python3
 """
 build.py — String Theory Chapter Site Builder (DOCX Edition)
-─────────────────────────────────────────────────────────────
 Source: DOCX export from Pages (preserves bold, italic, paragraph styles)
-Splits on |  N  | / |  Overture  | markers and generates:
-
-  /chapters/overture.html, chapter-01.html … chapter-NN.html
-  /String Theory.epub
-  /index.html
-  /llm-interface.html
-  /edits/  (LLM edit storage)
-
-Paragraph style → HTML class mapping:
-  Body          → <p class="body">
-  Default       → <p class="default">  (archive fragments, headers)
-  Scene         → <p class="scene">    (scene-level prose)
-  SubChapter    → <h3 class="subchapter">  (section title within chapter)
-  Tempo Marking 1 → <div class="tempo-1">  (musical tempo markings)
-  Tempo Marking 2 → <div class="tempo-2">  (chapter subtitle / descriptor)
-  location      → <div class="location">   (scene/time/place markers)
-  Chapter       → <div class="ch-special"> (composer names, special labels)
-  Chapter Title → <div class="ch-title-alt">
-  Equations     → <div class="equation">
-  Caption       → <div class="caption">
-  Dedication    → <p class="dedication">
-  Body 3        → <p class="body3">
 """
 
 import re, sys, html, zipfile
@@ -32,7 +9,7 @@ from pathlib import Path
 from datetime import datetime
 import docx
 
-# ── Config ────────────────────────────────────────────────────────────────────
+# -- Config -------------------------------------------------------------------
 GDRIVE      = Path.home() / "Library/CloudStorage/GoogleDrive-gabemcpherson@gmail.com/My Drive/Manuscript Masters"
 DEFAULT_SRC = GDRIVE / "String Theory - Draft 6.6.docx"
 OUT_DIR     = Path(__file__).parent
@@ -43,10 +20,8 @@ PAGES_URL   = "https://gabrielmcp78.github.io/string-theory-chapters"
 BOOK_TITLE  = "String Theory"
 AUTHOR      = "Gabriel McPherson"
 
-# Matches |  N  | and |  Overture  | (Subtitle style in DOCX)
 CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue)\s*\|\s*$', re.IGNORECASE)
 
-# DOCX paragraph style → CSS class
 STYLE_CLASS = {
     'Body':            'body',
     'Default':         'default',
@@ -65,7 +40,7 @@ STYLE_CLASS = {
     'Title':           'title-special',
 }
 
-# ── CSS ───────────────────────────────────────────────────────────────────────
+# -- CSS ----------------------------------------------------------------------
 CSS = """
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -78,27 +53,36 @@ body {
     margin: 0 auto;
     padding: 2rem 1.5rem 4rem;
 }
-header { border-bottom: 1px solid #ddd; padding-bottom: 1rem; margin-bottom: 2rem; }
+header { border-bottom: 1px solid #ddd; padding-bottom: 1rem; margin-bottom: 2.5rem; }
 header .book-title { font-size: 0.85rem; color: #888; letter-spacing: 0.08em; text-transform: uppercase; }
 h1 { font-size: 1.5rem; font-weight: normal; margin: 0.3rem 0; }
 nav { margin-top: 0.6rem; font-size: 0.9rem; }
 nav a { color: #555; text-decoration: none; margin-right: 1.2rem; }
 nav a:hover { text-decoration: underline; }
 
-/* Book/chapter identity — read by Eleven Reader and library apps */
-.book-label { font-size: 0.75rem; color: #bbb; letter-spacing: 0.12em;
-              text-transform: uppercase; margin-bottom: 0.4rem; }
-.chapter-number { font-size: 0.8rem; color: #aaa; letter-spacing: 0.15em;
-                  text-transform: uppercase; margin-bottom: 0.3rem; }
-.chapter-heading { font-size: 1.7rem; font-weight: normal; margin-bottom: 0.5rem; }
-.chapter-subheading { font-size: 0.95rem; color: #666; font-style: italic; margin-bottom: 2rem; }
+/* ===== Chapter identity block ===== */
+.book-label {
+    font-size: 0.82rem; color: #999; letter-spacing: 0.1em;
+    text-transform: uppercase; margin-bottom: 0.5rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #777; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #111;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
 
-/* Body styles from DOCX */
+/* ===== Body styles from DOCX ===== */
 p.body, p.default, p.body3 { margin-bottom: 1.1em; }
 p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
 p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 
-/* Structural / musical styles */
+/* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.82rem; letter-spacing: 0.09em; text-transform: uppercase;
     color: #555; margin: 2em 0 0.3em; white-space: pre-wrap;
@@ -135,54 +119,61 @@ h3.subchapter {
     font-variant: small-caps; font-size: 1.1rem;
     letter-spacing: 0.1em; margin: 1em 0 0.5em;
 }
-.subtitle { display: none; }  /* chapter markers — not rendered as content */
+.subtitle { display: none; }
 
-/* ── Verification stats bar ───────────────────────────────────────────────── */
+/* ===== Verification stats bar ===== */
 .chapter-stats {
-    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
-    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
-    font-size: 0.8rem; color: #888; line-height: 1.8;
+    background: #f4f4f0; border: 1px solid #ddd; border-radius: 6px;
+    padding: 1rem 1.15rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
 }
 .stats-row {
-    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
-    font-variant-numeric: tabular-nums;
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
 }
-.stats-row strong { color: #444; font-weight: 600; }
+.stats-row strong { color: #111; font-weight: 600; font-size: 1.05rem; }
 .scene-inventory {
-    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+    border-top: 1px solid #ddd; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
 }
-.scene-inventory a {
-    color: #666; text-decoration: none;
-    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
-    font-size: 0.78rem;
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
 }
-.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
-.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+.scene-entry a {
+    color: #444; text-decoration: none; font-size: 0.84rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #999; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
-/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+/* ===== End-of-chapter sentinel ===== */
 .chapter-sentinel {
-    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    text-align: center; font-size: 0.8rem; color: #bbb;
     letter-spacing: 0.12em; text-transform: uppercase;
-    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #e8e8e8;
 }
 
-/* Edit bar */
+/* ===== LLM API bar (subtle, for editors/LLMs — not readers) ===== */
 .edit-bar {
-    background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
-    padding: 0.8rem 1rem; margin-bottom: 2rem;
-    font-size: 0.85rem; color: #555;
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.78rem; color: #aaa;
 }
-.edit-bar a { color: #2563eb; text-decoration: none; }
-.edit-bar a:hover { text-decoration: underline; }
+.edit-bar a { color: #aaa; text-decoration: none; }
+.edit-bar a:hover { color: #2563eb; text-decoration: underline; }
+.edit-bar code { font-size: 0.76rem; color: #bbb; }
 
-/* Footer */
+/* ===== Footer ===== */
 footer {
-    margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #eee;
+    margin-top: 2rem; padding-top: 1.2rem; border-top: 1px solid #eee;
     font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
 }
 footer a { color: #aaa; }
 
-/* Index */
+/* ===== Index ===== */
 .chapter-list { list-style: none; }
 .chapter-list li { padding: 0.6rem 0; border-bottom: 1px solid #eee; }
 .chapter-list li:last-child { border-bottom: none; }
@@ -192,7 +183,7 @@ footer a { color: #aaa; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
 """
 
-# ── Helpers ───────────────────────────────────────────────────────────────────
+# -- Helpers ------------------------------------------------------------------
 def slugify(n):
     return "overture" if n == 0 else f"chapter-{int(n):02d}"
 
@@ -202,9 +193,8 @@ def chapter_label(n):
 def chapter_nav_label(n):
     return "Overture" if n == 0 else f"Ch {n}"
 
-# ── DOCX paragraph → HTML ─────────────────────────────────────────────────────
+# -- DOCX paragraph -> HTML ---------------------------------------------------
 def runs_to_html(para):
-    """Convert a paragraph's runs to HTML, preserving bold and italic."""
     result = ''
     for run in para.runs:
         t = html.escape(run.text)
@@ -220,20 +210,14 @@ def runs_to_html(para):
     return result
 
 def para_to_html(p):
-    """Convert a single docx paragraph to an HTML element string."""
     style = p.style.name
     css_class = STYLE_CLASS.get(style, 'body')
-
-    # Skip invisible / structural styles
     if css_class == 'subtitle':
         return ''
-
     inner = runs_to_html(p)
-    # Normalise tabs used for visual alignment in location / tempo styles
-    inner = re.sub(r'\t+', '\u2002\u2002', inner)   # en-space pair
+    inner = re.sub(r'\t+', '\u2002\u2002', inner)
     if not inner.strip():
         return ''
-
     if css_class in ('subchapter', 'ch-title-alt'):
         return f'<h3 class="{css_class}">{inner}</h3>\n'
     elif css_class in ('location', 'tempo-1', 'tempo-2', 'ch-special',
@@ -242,12 +226,10 @@ def para_to_html(p):
     else:
         return f'<p class="{css_class}">{inner}</p>\n'
 
-# ── DOCX parser ───────────────────────────────────────────────────────────────
+# -- DOCX parser --------------------------------------------------------------
 def parse_chapters(src_path):
-    """Return list of (chapter_num, [docx_paragraphs]) from DOCX source."""
     doc = docx.Document(str(src_path))
     paras = doc.paragraphs
-
     markers = []
     for i, p in enumerate(paras):
         m = CHAPTER_RE.match(p.text.strip())
@@ -255,16 +237,13 @@ def parse_chapters(src_path):
             raw = m.group(1)
             num = 0 if raw.lower() in ('overture', 'prologue') else int(raw)
             markers.append((i, num))
-
     chapters = []
     for j, (start_idx, num) in enumerate(markers):
         end_idx = markers[j+1][0] if j + 1 < len(markers) else len(paras)
-        chapter_paras = paras[start_idx + 1:end_idx]
-        chapters.append((num, chapter_paras))
+        chapters.append((num, paras[start_idx + 1:end_idx]))
     return chapters
 
 def extract_meta(paras):
-    """Extract (title, subtitle, word_count) from a chapter's paragraph list."""
     title = subtitle = ''
     for p in paras:
         t = p.text.strip()
@@ -286,49 +265,24 @@ def extract_meta(paras):
 
 def strip_header_paras(paras):
     """
-    Remove the leading SubChapter + Tempo Marking 2 paragraphs that are
-    already rendered as chapter-heading / chapter-subheading in the article
-    header.  Only skips the very first SubChapter block — any SubChapter
-    paragraphs that appear later in the body (section titles mid-chapter)
-    are left intact.
-
-    Pattern at chapter start:
-      [empty lines]
-      SubChapter         <- chapter title  -> <div class="chapter-heading">
-      [empty lines]
-      Tempo Marking 2    <- subtitle       -> <div class="chapter-subheading">
-      ... body begins here
+    Skip the opening SubChapter + Tempo Marking 2 that are already
+    rendered as chapter-heading / chapter-subheading in the article header.
     """
     idx = 0
-    # Skip leading blank paragraphs
     while idx < len(paras) and not paras[idx].text.strip():
         idx += 1
-    # Skip the first SubChapter (the chapter title already in the header)
     if idx < len(paras) and paras[idx].style.name == 'SubChapter':
         idx += 1
-        # Skip any blank lines after the SubChapter
         while idx < len(paras) and not paras[idx].text.strip():
             idx += 1
-        # Skip the immediately following Tempo Marking 2 (already in subheading)
         if idx < len(paras) and paras[idx].style.name == 'Tempo Marking 2':
             idx += 1
     return paras[idx:]
 
 def render_body_html(paras):
     """
-    Render body HTML with injected scene anchors, and compute verification stats.
-
-    Each 'location'-style paragraph becomes a scene anchor (<div id="scene-N">).
-    Cumulative word and paragraph counts are tracked for the stats bar.
-
-    Returns:
-      (html_str, stats) where stats = {
-        'words':      int,   total word count across all non-empty body paras
-        'paragraphs': int,   count of non-empty body paragraphs
-        'scenes':     list   each: {id, heading, word_start, word_end,
-                                    para_start, para_end}
-      }
-    Word/para ranges are 1-based and inclusive.
+    Render body HTML with scene anchors injected on location paragraphs.
+    Returns (html_str, stats) where stats has words, paragraphs, scenes list.
     """
     parts      = []
     scenes     = []
@@ -338,24 +292,19 @@ def render_body_html(paras):
     for p in paras:
         style     = p.style.name
         css_class = STYLE_CLASS.get(style, 'body')
-
         if css_class == 'subtitle':
             continue
-
         t = p.text.strip()
         if not t:
             continue
-
         w           = len(p.text.split())
         word_count += w
         para_count += 1
 
         if style == 'location':
-            # Close the previous scene before opening a new one
             if scenes:
                 scenes[-1]['word_end'] = word_count - w
                 scenes[-1]['para_end'] = para_count - 1
-
             scene_n  = len(scenes) + 1
             scene_id = f'scene-{scene_n}'
             scenes.append({
@@ -366,14 +315,12 @@ def render_body_html(paras):
                 'word_end':   None,
                 'para_end':   None,
             })
-
             inner = runs_to_html(p)
             inner = re.sub(r'\t+', '\u2002\u2002', inner)
             parts.append(f'<div class="location" id="{scene_id}">{inner}</div>\n')
         else:
             parts.append(para_to_html(p))
 
-    # Close the last scene
     if scenes:
         scenes[-1]['word_end'] = word_count
         scenes[-1]['para_end'] = para_count
@@ -384,52 +331,53 @@ def render_body_html(paras):
         'scenes':     scenes,
     }
 
-# ── HTML page builders ────────────────────────────────────────────────────────
+# -- HTML page builders -------------------------------------------------------
 def make_chapter_html(num, paras, all_nums, build_date):
     slug  = slugify(num)
     idx   = all_nums.index(num)
     prev_num = all_nums[idx - 1] if idx > 0 else None
     next_num = all_nums[idx + 1] if idx + 1 < len(all_nums) else None
 
-    prev_link = (f'<a href="{slugify(prev_num)}.html">← {chapter_nav_label(prev_num)}</a>'
+    prev_link = (f'<a href="{slugify(prev_num)}.html">\u2190 {chapter_nav_label(prev_num)}</a>'
                  if prev_num is not None else '')
-    next_link = (f'<a href="{slugify(next_num)}.html">{chapter_nav_label(next_num)} →</a>'
+    next_link = (f'<a href="{slugify(next_num)}.html">{chapter_nav_label(next_num)} \u2192</a>'
                  if next_num is not None else '')
 
     title, subtitle, _ = extract_meta(paras)
     body_paras         = strip_header_paras(paras)
     body_html, stats   = render_body_html(body_paras)
 
-    edit_url  = f"{PAGES_URL}/edits/{slug}.json"
-    api_url   = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
+    edit_url = f"{PAGES_URL}/edits/{slug}.json"
+    api_url  = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
 
-    # ── Build verification stats bar ──────────────────────────────────────────
+    # Build stats bar
     sc_list  = stats['scenes']
     sc_count = len(sc_list)
     sc_words = stats['words']
     sc_paras = stats['paragraphs']
 
-    scene_links = ''
+    scene_entries = ''
     for s in sc_list:
-        w_range = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
-        p_range = f'\u00b6{s["para_start"]}\u2013{s["para_end"]}'
-        rng_span = (f'<span class="scene-range">'
-                    f'{w_range}\u00a0\u00b7\u00a0{p_range}</span>')
-        scene_links += (f'    <a href="#{s["id"]}">'
-                        f'{html.escape(s["heading"])}</a>{rng_span}\n')
+        w_range  = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
+        p_range  = f'\u00b6{s["para_start"]}\u2013{s["para_end"]}'
+        rng_span = f'<span class="scene-range">{w_range}\u00a0\u00b7\u00a0{p_range}</span>'
+        scene_entries += (
+            f'    <div class="scene-entry">'
+            f'<a href="#{s["id"]}">{html.escape(s["heading"])}</a>'
+            f'{rng_span}</div>\n'
+        )
 
     scene_inv_html = (
-        f'<div class="scene-inventory">\n{scene_links}  </div>'
-        if scene_links else ''
+        f'<div class="scene-inventory">\n{scene_entries}  </div>'
+        if scene_entries else ''
     )
 
-    scene_label = f'{sc_count}\u00a0scene{"s" if sc_count != 1 else ""}'
     stats_bar = (
         f'<div class="chapter-stats">\n'
         f'  <div class="stats-row">'
         f'<strong>{sc_words:,}</strong>&thinsp;words'
-        f' &nbsp; <strong>{sc_paras:,}</strong>&thinsp;paragraphs'
-        f' &nbsp; <strong>{sc_count}</strong>&thinsp;scene{"s" if sc_count != 1 else ""}'
+        f'&ensp;<strong>{sc_paras:,}</strong>&thinsp;paragraphs'
+        f'&ensp;<strong>{sc_count}</strong>&thinsp;scene{"s" if sc_count != 1 else ""}'
         f'</div>\n  {scene_inv_html}\n</div>'
     )
 
@@ -438,8 +386,7 @@ def make_chapter_html(num, paras, all_nums, build_date):
         f'&#8212; End of {chapter_label(num)} &#8212;</div>'
     )
 
-    # Title tag: book name first so library apps (Eleven Reader etc.) see it
-    page_title = f"{BOOK_TITLE} · {chapter_label(num)} · {html.escape(title)}"
+    page_title = f"{BOOK_TITLE} \u00b7 {chapter_label(num)} \u00b7 {html.escape(title)}"
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -458,24 +405,17 @@ def make_chapter_html(num, paras, all_nums, build_date):
 </head>
 <body>
 <header>
-  <div class="book-title">{html.escape(BOOK_TITLE)} · {html.escape(AUTHOR)}</div>
+  <div class="book-title">{html.escape(BOOK_TITLE)} &middot; {html.escape(AUTHOR)}</div>
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">{BOOK_TITLE}</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
     {prev_link}
     {next_link}
-    <a href="../llm-interface.html">LLM Guide</a>
   </nav>
 </header>
 
-<div class="edit-bar">
-  📝 <strong>LLM Edit API:</strong>
-  Read edit: <a href="{edit_url}">{edit_url}</a> ·
-  Save edit: <code>PUT {api_url}</code> (requires API key)
-</div>
-
 <article>
-  <div class="book-label">{html.escape(BOOK_TITLE)} · {html.escape(AUTHOR)}</div>
+  <div class="book-label">{html.escape(BOOK_TITLE)} &middot; {html.escape(AUTHOR)}</div>
   <div class="chapter-number">{chapter_label(num)}</div>
   <div class="chapter-heading">{html.escape(title)}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
@@ -484,11 +424,17 @@ def make_chapter_html(num, paras, all_nums, build_date):
 {body_html}
 {sentinel}
   </div>
+
+  <div class="edit-bar">
+    LLM Edit API &mdash;
+    Read: <a href="{edit_url}">{edit_url}</a> &middot;
+    Save: <code>PUT {api_url}</code>
+  </div>
 </article>
 
 <footer>
-  <span>{BOOK_TITLE} — {AUTHOR}</span>
-  <span>Built {build_date} · <a href="../index.html">Index</a></span>
+  <span>{BOOK_TITLE} &mdash; {AUTHOR}</span>
+  <span>Built {build_date} &middot; <a href="../index.html">Index</a></span>
 </footer>
 </body>
 </html>"""
@@ -515,16 +461,16 @@ def make_index_html(chapters_meta, build_date):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{BOOK_TITLE} — Chapter Index</title>
+<title>{BOOK_TITLE} &mdash; Chapter Index</title>
 <meta name="llm-interface" content="{PAGES_URL}/llm-interface.html">
 <style>{CSS}</style>
 </head>
 <body>
 <header>
-  <div class="book-title">Manuscript · {AUTHOR}</div>
+  <div class="book-title">Manuscript &middot; {AUTHOR}</div>
   <h1>{BOOK_TITLE}</h1>
   <p class="meta" style="margin-top:0.4rem">
-    {chapter_desc} · {total_words:,} words ·
+    {chapter_desc} &middot; {total_words:,} words &middot;
     <a href="llm-interface.html">LLM Interface Guide</a>
   </p>
 </header>
@@ -532,7 +478,7 @@ def make_index_html(chapters_meta, build_date):
 {rows}</ul>
 <footer>
   <span>Built {build_date}</span>
-  <span><a href="llm-interface.html">LLM Guide</a> · <a href="https://github.com/{REPO}">GitHub</a></span>
+  <span><a href="llm-interface.html">LLM Guide</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span>
 </footer>
 </body>
 </html>"""
@@ -548,7 +494,7 @@ def make_llm_interface_html(chapters_meta, build_date):
     )
     return f"""<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="UTF-8"><title>LLM Interface — {BOOK_TITLE}</title>
+<head><meta charset="UTF-8"><title>LLM Interface &mdash; {BOOK_TITLE}</title>
 <style>{CSS}
 code{{background:#f4f4f0;padding:.1em .4em;border-radius:3px;font-size:.9em}}
 pre{{background:#f4f4f0;padding:1rem;border-radius:6px;overflow-x:auto;margin:1em 0;font-size:.85rem;line-height:1.6}}
@@ -559,13 +505,13 @@ h2{{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem}}
 </style></head>
 <body>
 <header>
-  <div class="book-title">{BOOK_TITLE} · LLM Interface</div>
+  <div class="book-title">{BOOK_TITLE} &middot; LLM Interface</div>
   <h1>LLM Access Guide</h1>
   <nav><a href="index.html">Chapter Index</a></nav>
 </header>
 <h2>Reading Chapters</h2>
 <pre>GET {PAGES_URL}/chapters/overture.html
-GET {PAGES_URL}/chapters/chapter-NN.html   (NN = 01–19)</pre>
+GET {PAGES_URL}/chapters/chapter-NN.html   (NN = 01&ndash;19)</pre>
 <h2>Saving an Edit</h2>
 <pre>PUT https://api.github.com/repos/{REPO}/contents/edits/chapter-01.json
 Authorization: token &lt;API_KEY&gt;</pre>
@@ -576,16 +522,16 @@ Authorization: token &lt;API_KEY&gt;</pre>
 <footer><span>Built {build_date}</span><span><a href="https://github.com/{REPO}">GitHub</a></span></footer>
 </body></html>"""
 
-# ── EPUB builder ──────────────────────────────────────────────────────────────
+# -- EPUB builder -------------------------------------------------------------
 EPUB_CSS = """
 body { font-family: Georgia, serif; font-size: 1em; line-height: 1.8;
        margin: 1em 1.5em; color: #1a1a1a; }
-.book-label { font-size: 0.7em; color: #999; letter-spacing: 0.1em;
+.book-label { font-size: 0.72em; color: #999; letter-spacing: 0.1em;
               text-transform: uppercase; margin-bottom: 0.4em; }
-.chapter-number { font-size: 0.75em; color: #999; letter-spacing: 0.12em;
+.chapter-number { font-size: 0.8em; color: #888; letter-spacing: 0.12em;
                   text-transform: uppercase; margin-bottom: 0.25em; }
 .chapter-heading { font-size: 1.5em; font-weight: normal; margin-bottom: 0.4em; }
-.chapter-subheading { font-style: italic; font-size: 0.9em; color: #666;
+.chapter-subheading { font-style: italic; font-size: 0.95em; color: #555;
                       margin-bottom: 1.5em; }
 p.body, p.default { margin-bottom: 1em; text-indent: 0; }
 p.scene { font-style: italic; color: #555; margin-bottom: 0.9em; }
@@ -593,30 +539,21 @@ p.scene { font-style: italic; color: #555; margin-bottom: 0.9em; }
             color: #555; margin: 1.8em 0 0.3em; }
 .tempo-1 { font-style: italic; font-size: 0.85em; color: #777; margin-bottom: 0.8em; }
 .tempo-2 { font-style: italic; font-size: 0.92em; color: #555; margin-bottom: 1.2em; }
-h3.subchapter { font-size: 1em; font-weight: normal; color: #333;
-                margin: 2em 0 0.4em; }
+h3.subchapter { font-size: 1em; font-weight: normal; color: #333; margin: 2em 0 0.4em; }
 .ch-special { font-variant: small-caps; letter-spacing: 0.06em; color: #444;
               margin: 0.6em 0; font-size: 0.9em; }
 .equation { font-style: italic; text-align: center; margin: 1em 0; }
 .caption { font-size: 0.78em; color: #999; text-align: center; margin: 0.5em 0; }
 .chapter-sentinel { text-align: center; font-size: 0.72em; color: #ccc;
                     letter-spacing: 0.1em; text-transform: uppercase;
-                    margin-top: 3em; padding-top: 1em;
-                    border-top: 1px solid #eee; }
+                    margin-top: 3em; padding-top: 1em; border-top: 1px solid #eee; }
 """
 
 def make_epub(chapters_data, out_path):
-    """
-    Generate an EPUB 2 file.
-    chapters_data: list of (num, title, subtitle, body_html_string)
-    """
     epub = zipfile.ZipFile(str(out_path), 'w')
-
-    # mimetype must be first and uncompressed
     info = zipfile.ZipInfo('mimetype')
     info.compress_type = zipfile.ZIP_STORED
     epub.writestr(info, 'application/epub+zip')
-
     epub.writestr('META-INF/container.xml', (
         '<?xml version="1.0"?>\n'
         '<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">\n'
@@ -625,11 +562,9 @@ def make_epub(chapters_data, out_path):
         ' media-type="application/oebps-package+xml"/>\n'
         '  </rootfiles>\n'
         '</container>'))
-
     epub.writestr('OEBPS/styles/main.css', EPUB_CSS)
 
     manifest_items, spine_items, nav_points = [], [], []
-
     for num, title, subtitle, body_html in chapters_data:
         slug     = slugify(num)
         label    = chapter_label(num)
@@ -642,10 +577,10 @@ def make_epub(chapters_data, out_path):
             ' "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">\n'
             '<html xmlns="http://www.w3.org/1999/xhtml">\n'
             '<head>\n'
-            f'  <title>{html.escape(BOOK_TITLE)} · {label} · {html.escape(title)}</title>\n'
+            f'  <title>{html.escape(BOOK_TITLE)} \u00b7 {label} \u00b7 {html.escape(title)}</title>\n'
             '  <link rel="stylesheet" type="text/css" href="../styles/main.css"/>\n'
             '</head>\n<body>\n'
-            f'  <div class="book-label">{html.escape(BOOK_TITLE)} · {html.escape(AUTHOR)}</div>\n'
+            f'  <div class="book-label">{html.escape(BOOK_TITLE)} \u00b7 {html.escape(AUTHOR)}</div>\n'
             f'  <div class="chapter-number">{label}</div>\n'
             f'  <div class="chapter-heading">{html.escape(title)}</div>\n'
             + (f'  <div class="chapter-subheading">{html.escape(subtitle)}</div>\n' if subtitle else '')
@@ -656,7 +591,7 @@ def make_epub(chapters_data, out_path):
         manifest_items.append(
             f'    <item id="{slug}" href="Text/{slug}.xhtml" media-type="application/xhtml+xml"/>')
         spine_items.append(f'    <itemref idref="{slug}"/>')
-        nav_points.append((slug, f'{label} — {title}', f'Text/{slug}.xhtml'))
+        nav_points.append((slug, f'{label} \u2014 {title}', f'Text/{slug}.xhtml'))
 
     date_str = datetime.now().strftime('%Y-%m-%d')
     opf = (
@@ -704,13 +639,11 @@ def make_epub(chapters_data, out_path):
     )
     epub.writestr('OEBPS/toc.ncx', ncx)
     epub.close()
-    print(f"  ✓ EPUB: {out_path.name}")
+    print(f"  \u2713 EPUB: {out_path.name}")
 
-# ── Main build ────────────────────────────────────────────────────────────────
+# -- Main build ---------------------------------------------------------------
 def build(src_path=None):
     src = Path(src_path) if src_path else DEFAULT_SRC
-
-    # Fallback: if docx not found, try newest docx in Manuscript Masters
     if not src.exists():
         candidates = sorted(GDRIVE.glob("*.docx"),
                             key=lambda f: f.stat().st_mtime, reverse=True)
@@ -731,37 +664,32 @@ def build(src_path=None):
     print(f"Found {len(chapters)} sections ({num_chaps} chapters"
           + (", 1 overture" if has_ov else "") + ")")
 
-    chapters_meta  = []
-    epub_chapters  = []
+    chapters_meta = []
+    epub_chapters = []
 
     for num, paras in chapters:
         title, subtitle, word_count = extract_meta(paras)
         chapters_meta.append((num, title, subtitle, word_count))
 
-        # HTML chapter page
         out = CHAPTER_DIR / f"{slugify(num)}.html"
         out.write_text(make_chapter_html(num, paras, all_nums, date), encoding='utf-8')
         lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
-        print(f"  ✓ {lbl}: {title[:55]}")
+        print(f"  \u2713 {lbl}: {title[:55]}")
 
-        # Collect body HTML for EPUB (header paras stripped, scene anchors injected)
         body_html, _ = render_body_html(strip_header_paras(paras))
         epub_chapters.append((num, title, subtitle, body_html))
 
-    # Index + LLM guide
     (OUT_DIR / "index.html").write_text(
         make_index_html(chapters_meta, date), encoding='utf-8')
     (OUT_DIR / "llm-interface.html").write_text(
         make_llm_interface_html(chapters_meta, date), encoding='utf-8')
 
-    # EPUB
     epub_path = OUT_DIR / f"{BOOK_TITLE}.epub"
     make_epub(epub_chapters, epub_path)
 
-    # Edits placeholder
     (EDITS_DIR / ".gitkeep").touch()
 
-    print(f"\nDone — {len(chapters)} sections + EPUB written to {OUT_DIR}")
+    print(f"\nDone \u2014 {len(chapters)} sections + EPUB written to {OUT_DIR}")
     print(f"Live at: {PAGES_URL}")
 
 
