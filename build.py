@@ -137,6 +137,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -255,6 +284,106 @@ def extract_meta(paras):
     word_count = sum(len(p.text.split()) for p in paras)
     return title, subtitle, word_count
 
+def strip_header_paras(paras):
+    """
+    Remove the leading SubChapter + Tempo Marking 2 paragraphs that are
+    already rendered as chapter-heading / chapter-subheading in the article
+    header.  Only skips the very first SubChapter block — any SubChapter
+    paragraphs that appear later in the body (section titles mid-chapter)
+    are left intact.
+
+    Pattern at chapter start:
+      [empty lines]
+      SubChapter         <- chapter title  -> <div class="chapter-heading">
+      [empty lines]
+      Tempo Marking 2    <- subtitle       -> <div class="chapter-subheading">
+      ... body begins here
+    """
+    idx = 0
+    # Skip leading blank paragraphs
+    while idx < len(paras) and not paras[idx].text.strip():
+        idx += 1
+    # Skip the first SubChapter (the chapter title already in the header)
+    if idx < len(paras) and paras[idx].style.name == 'SubChapter':
+        idx += 1
+        # Skip any blank lines after the SubChapter
+        while idx < len(paras) and not paras[idx].text.strip():
+            idx += 1
+        # Skip the immediately following Tempo Marking 2 (already in subheading)
+        if idx < len(paras) and paras[idx].style.name == 'Tempo Marking 2':
+            idx += 1
+    return paras[idx:]
+
+def render_body_html(paras):
+    """
+    Render body HTML with injected scene anchors, and compute verification stats.
+
+    Each 'location'-style paragraph becomes a scene anchor (<div id="scene-N">).
+    Cumulative word and paragraph counts are tracked for the stats bar.
+
+    Returns:
+      (html_str, stats) where stats = {
+        'words':      int,   total word count across all non-empty body paras
+        'paragraphs': int,   count of non-empty body paragraphs
+        'scenes':     list   each: {id, heading, word_start, word_end,
+                                    para_start, para_end}
+      }
+    Word/para ranges are 1-based and inclusive.
+    """
+    parts      = []
+    scenes     = []
+    word_count = 0
+    para_count = 0
+
+    for p in paras:
+        style     = p.style.name
+        css_class = STYLE_CLASS.get(style, 'body')
+
+        if css_class == 'subtitle':
+            continue
+
+        t = p.text.strip()
+        if not t:
+            continue
+
+        w           = len(p.text.split())
+        word_count += w
+        para_count += 1
+
+        if style == 'location':
+            # Close the previous scene before opening a new one
+            if scenes:
+                scenes[-1]['word_end'] = word_count - w
+                scenes[-1]['para_end'] = para_count - 1
+
+            scene_n  = len(scenes) + 1
+            scene_id = f'scene-{scene_n}'
+            scenes.append({
+                'id':         scene_id,
+                'heading':    t,
+                'word_start': word_count - w + 1,
+                'para_start': para_count,
+                'word_end':   None,
+                'para_end':   None,
+            })
+
+            inner = runs_to_html(p)
+            inner = re.sub(r'\t+', '\u2002\u2002', inner)
+            parts.append(f'<div class="location" id="{scene_id}">{inner}</div>\n')
+        else:
+            parts.append(para_to_html(p))
+
+    # Close the last scene
+    if scenes:
+        scenes[-1]['word_end'] = word_count
+        scenes[-1]['para_end'] = para_count
+
+    return ''.join(parts), {
+        'words':      word_count,
+        'paragraphs': para_count,
+        'scenes':     scenes,
+    }
+
 # ── HTML page builders ────────────────────────────────────────────────────────
 def make_chapter_html(num, paras, all_nums, build_date):
     slug  = slugify(num)
@@ -268,9 +397,46 @@ def make_chapter_html(num, paras, all_nums, build_date):
                  if next_num is not None else '')
 
     title, subtitle, _ = extract_meta(paras)
-    body_html = ''.join(para_to_html(p) for p in paras)
+    body_paras         = strip_header_paras(paras)
+    body_html, stats   = render_body_html(body_paras)
+
     edit_url  = f"{PAGES_URL}/edits/{slug}.json"
     api_url   = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
+
+    # ── Build verification stats bar ──────────────────────────────────────────
+    sc_list  = stats['scenes']
+    sc_count = len(sc_list)
+    sc_words = stats['words']
+    sc_paras = stats['paragraphs']
+
+    scene_links = ''
+    for s in sc_list:
+        w_range = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
+        p_range = f'\u00b6{s["para_start"]}\u2013{s["para_end"]}'
+        rng_span = (f'<span class="scene-range">'
+                    f'{w_range}\u00a0\u00b7\u00a0{p_range}</span>')
+        scene_links += (f'    <a href="#{s["id"]}">'
+                        f'{html.escape(s["heading"])}</a>{rng_span}\n')
+
+    scene_inv_html = (
+        f'<div class="scene-inventory">\n{scene_links}  </div>'
+        if scene_links else ''
+    )
+
+    scene_label = f'{sc_count}\u00a0scene{"s" if sc_count != 1 else ""}'
+    stats_bar = (
+        f'<div class="chapter-stats">\n'
+        f'  <div class="stats-row">'
+        f'<strong>{sc_words:,}</strong>&thinsp;words'
+        f' &nbsp; <strong>{sc_paras:,}</strong>&thinsp;paragraphs'
+        f' &nbsp; <strong>{sc_count}</strong>&thinsp;scene{"s" if sc_count != 1 else ""}'
+        f'</div>\n  {scene_inv_html}\n</div>'
+    )
+
+    sentinel = (
+        f'<div class="chapter-sentinel" id="chapter-end">'
+        f'&#8212; End of {chapter_label(num)} &#8212;</div>'
+    )
 
     # Title tag: book name first so library apps (Eleven Reader etc.) see it
     page_title = f"{BOOK_TITLE} · {chapter_label(num)} · {html.escape(title)}"
@@ -283,6 +449,9 @@ def make_chapter_html(num, paras, all_nums, build_date):
 <title>{page_title}</title>
 <meta name="book" content="{html.escape(BOOK_TITLE)}">
 <meta name="chapter" content="{num}">
+<meta name="word-count" content="{sc_words}">
+<meta name="paragraph-count" content="{sc_paras}">
+<meta name="scene-count" content="{sc_count}">
 <meta name="edit-endpoint" content="{api_url}">
 <meta name="edit-retrieve" content="{edit_url}">
 <style>{CSS}</style>
@@ -310,8 +479,10 @@ def make_chapter_html(num, paras, all_nums, build_date):
   <div class="chapter-number">{chapter_label(num)}</div>
   <div class="chapter-heading">{html.escape(title)}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
+  {stats_bar}
   <div class="chapter-text">
 {body_html}
+{sentinel}
   </div>
 </article>
 
@@ -428,6 +599,10 @@ h3.subchapter { font-size: 1em; font-weight: normal; color: #333;
               margin: 0.6em 0; font-size: 0.9em; }
 .equation { font-style: italic; text-align: center; margin: 1em 0; }
 .caption { font-size: 0.78em; color: #999; text-align: center; margin: 0.5em 0; }
+.chapter-sentinel { text-align: center; font-size: 0.72em; color: #ccc;
+                    letter-spacing: 0.1em; text-transform: uppercase;
+                    margin-top: 3em; padding-top: 1em;
+                    border-top: 1px solid #eee; }
 """
 
 def make_epub(chapters_data, out_path):
@@ -456,9 +631,11 @@ def make_epub(chapters_data, out_path):
     manifest_items, spine_items, nav_points = [], [], []
 
     for num, title, subtitle, body_html in chapters_data:
-        slug  = slugify(num)
-        label = chapter_label(num)
-        fname = f'OEBPS/Text/{slug}.xhtml'
+        slug     = slugify(num)
+        label    = chapter_label(num)
+        fname    = f'OEBPS/Text/{slug}.xhtml'
+        sentinel = (f'<div class="chapter-sentinel">'
+                    f'&#8212; End of {label} &#8212;</div>\n')
         xhtml = (
             '<?xml version="1.0" encoding="utf-8"?>\n'
             '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"'
@@ -472,7 +649,7 @@ def make_epub(chapters_data, out_path):
             f'  <div class="chapter-number">{label}</div>\n'
             f'  <div class="chapter-heading">{html.escape(title)}</div>\n'
             + (f'  <div class="chapter-subheading">{html.escape(subtitle)}</div>\n' if subtitle else '')
-            + f'  <div class="chapter-text">\n{body_html}  </div>\n'
+            + f'  <div class="chapter-text">\n{body_html}{sentinel}  </div>\n'
             '</body>\n</html>'
         )
         epub.writestr(fname, xhtml)
@@ -567,8 +744,8 @@ def build(src_path=None):
         lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
         print(f"  ✓ {lbl}: {title[:55]}")
 
-        # Collect body HTML for EPUB (reuse same rendering)
-        body_html = ''.join(para_to_html(p) for p in paras)
+        # Collect body HTML for EPUB (header paras stripped, scene anchors injected)
+        body_html, _ = render_body_html(strip_header_paras(paras))
         epub_chapters.append((num, title, subtitle, body_html))
 
     # Index + LLM guide

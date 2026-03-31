@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 4 · Exercises in Humanity</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="4">
+<meta name="word-count" content="9700">
+<meta name="paragraph-count" content="438">
+<meta name="scene-count" content="14">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-04.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-04.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,10 +160,27 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 4</div>
   <div class="chapter-heading">Exercises in Humanity</div>
   <div class="chapter-subheading">a suite for quartet, with walking interstitials</div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>9,700</strong>&thinsp;words &nbsp; <strong>438</strong>&thinsp;paragraphs &nbsp; <strong>14</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">The House on the Hill</a><span class="scene-range">w.1–863 · ¶1–46</span>
+    <a href="#scene-2">II.  Walk  A   |   for Roger, coffee, scone, and Mom</a><span class="scene-range">w.864–1,311 · ¶47–72</span>
+    <a href="#scene-3">III. The Apartment Assessment</a><span class="scene-range">w.1,312–2,186 · ¶73–103</span>
+    <a href="#scene-4">IV.  Walk   B   |   for David, Roger and Easy Hill incline</a><span class="scene-range">w.2,187–2,306 · ¶104–107</span>
+    <a href="#scene-5">V.  THE CHAPEL REHEARSAL</a><span class="scene-range">w.2,307–3,564 · ¶108–143</span>
+    <a href="#scene-6">VI.  Walk C     |    for David, Roger, towel, and crowbar</a><span class="scene-range">w.3,565–4,615 · ¶144–201</span>
+    <a href="#scene-7">VII.  THE CAFÉ</a><span class="scene-range">w.4,616–5,410 · ¶202–238</span>
+    <a href="#scene-8">VIII.  walk  D - Part 1    |    For Celeste and David</a><span class="scene-range">w.5,411–5,770 · ¶239–258</span>
+    <a href="#scene-9">IX. The bench</a><span class="scene-range">w.5,771–7,007 · ¶259–315</span>
+    <a href="#scene-10">X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light</a><span class="scene-range">w.7,008–7,276 · ¶316–323</span>
+    <a href="#scene-11">XI.  The house on the hill (return)</a><span class="scene-range">w.7,277–8,015 · ¶324–361</span>
+    <a href="#scene-12">XII.  The draft</a><span class="scene-range">w.8,016–8,816 · ¶362–403</span>
+    <a href="#scene-13">XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries</a><span class="scene-range">w.8,817–9,139 · ¶404–418</span>
+    <a href="#scene-14">XIV.  10 Minutes, Maybe Twelve</a><span class="scene-range">w.9,140–9,700 · ¶419–438</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">Exercises in Humanity </h3>
-<div class="tempo-2">a suite for quartet, with walking interstitials </div>
-<div class="location"> The House on the Hill</div>
+<div class="location" id="scene-1"> The House on the Hill</div>
 <div class="tempo-1">Largo con irritazione crescente</div>
 <p class="body">Something had changed in the night.</p>
 <p class="body">Celeste couldn’t name it. A misalignment, perhaps—as if the air had shifted half a degree to the north. It wasn’t something seen or heard, but felt. Maybe. Like most things in her life, it remained untrustworthy until caffeine had been applied.</p>
@@ -177,7 +226,7 @@ footer a { color: #aaa; }
 <p class="body">At the desk, she pushed a pile of papers aside with the back of her arm and sat. A sip. </p>
 <p class="body">Damn! Still too hot, though that concern faded quickly when loose grounds and sludge hit her teeth. She grimaced into that particular silence reserved for the immediate collapse of a morning essential.</p>
 <p class="body">Burnt. Same as yesterday. Gritty. Same as last Saturday. Same as every morning since David moved out to the apartment in town. He couldn’t seal a simple drain, or hit more nails than he missed. But damn, the man made one hell of a good cup of coffee.</p>
-<div class="location">II.  Walk  A   |   <em>for Roger, coffee, scone, and Mom</em></div>
+<div class="location" id="scene-2">II.  Walk  A   |   <em>for Roger, coffee, scone, and Mom</em></div>
 <div class="tempo-1">Andante sostenuto con cura</div>
 <p class="body">“Linn?” the perky barista called out. “Two large coffees with room, for Linn?”</p>
 <p class="body">Professor Roger Linn wove past the tangle of undergrads at the pickup counter, snagging the cardboard tray with an easy, one-handed swoop. “Thank you very much. Oh—and the scone?”</p>
@@ -203,7 +252,7 @@ footer a { color: #aaa; }
 <p class="body">He hung up. The scone was still warm in its waxed paper. For a moment, Linn let himself believe in luck.</p>
 <p class="body">It was enough of a distraction that when he turned the corner toward David’s building, he didn’t register what he was seeing until he was nearly there.</p>
 <p class="body">The door stood ajar.</p>
-<div class="location">III. The Apartment Assessment</div>
+<div class="location" id="scene-3">III. The Apartment Assessment</div>
 <div class="tempo-1">Adagio misurato</div>
 <p class="body">The apartment creaked in the morning’s pale exposure. Shadows stiffened across manuscript pages—fossilized strata of coffee rings and half-erased lemmas. Nothing moved to greet the light; instead, the faint stutter of breath worked against a ribcage grown stiff with bruise.</p>
 <p class="body">David’s left eye had begun, somewhere in the night, to mistake half-open for fully so, confusing all things with which he had visual contact. Light filtered in unevenly—sharp through the vertical window’s crack, diffused across the whiskey-glassed table. Dull pain drifted across his cheekbone, a largo bass line of cracked ribs underneath. Movement created a melody without consent: breath, blink, twitch, throb. A tempo dictated by injury.</p>
@@ -234,11 +283,11 @@ footer a { color: #aaa; }
 <p class="body">“We have forty minutes,” Linn said. “Take your time.”</p>
 <p class="body">David stood slowly, testing his balance within the wrap’s constraint. The pain had shape now. Boundaries. He found his jacket, managed to pull it on without gasping. Linn gathered the used gauze and antiseptic wipes, returning them to his bag with practiced efficiency.</p>
 <p class="body">They left together, Linn pausing only to ensure the door locked behind them.</p>
-<div class="location">IV.  Walk   B   |   <em>for David, Roger and Easy Hill incline</em></div>
+<div class="location" id="scene-4">IV.  Walk   B   |   <em>for David, Roger and Easy Hill incline</em></div>
 <div class="tempo-1">Andante, con adattamento</div>
 <p class="body">The walk to the chapel followed their usual route—ten years of Saturday mornings compressed into muscle memory. Linn’s stride shortened to match David’s careful pace. Neither acknowledged the adjustment. The constant incline of University Hill invigorated David, almost revitalizing him. He wasn’t surprised by this, as the built-in psychological adrenaline rush to climbing East Hill was a leveraged investment in the wonder of constant downhill walking upon his return. Roger thought to comment on that very idea, but squashed it, concerned that naming the phenomenon might collapse its function or effect or whatever it’s called. </p>
 <p class="body">Though what did he know, he was just a music professor.</p>
-<div class="location">V.  THE CHAPEL REHEARSAL</div>
+<div class="location" id="scene-5">V.  THE CHAPEL REHEARSAL</div>
 <div class="tempo-1">Andante religioso ma con sospensione </div>
 <p class="body">The chapel’s arches gathered sound like a patient lung, holding each note in suspension before releasing it, changed, into the violet light that fell through stained glass in slow, viscous fractals.</p>
 <p class="body">The agreement that made the quartet an official university ensemble required that twelve rehearsals a year be open to the public. It so happened that this was one.</p>
@@ -274,7 +323,7 @@ footer a { color: #aaa; }
 <p class="body">He nodded, the motion stirring a fresh ache he chose to ignore.</p>
 <p class="body">“But… in an hour, say,” he added. “I have a meeting.” Then, quieter, with no flourish, the true offering: “We’ll talk about the tuning.”</p>
 <p class="body">She glanced at Linn. He gave a near-imperceptible nod. The rehearsal was over. The work was just beginning.</p>
-<div class="location">VI.  Walk C     |    <em>for David, Roger, towel, and crowbar</em></div>
+<div class="location" id="scene-6">VI.  Walk C     |    <em>for David, Roger, towel, and crowbar</em></div>
 <div class="tempo-1">Andante semplice, con sollievo improvviso</div>
 <p class="body">They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, wrapped tight at the ribs, did not reward conversation.</p>
 <p class="body">A few blocks in, Linn said, almost casually, “You don’t have a meeting.”</p>
@@ -332,7 +381,7 @@ footer a { color: #aaa; }
 <p class="body">Roger shook his head, then broke the moment into a feigned, death-filtered warning.</p>
 <p class="body">“Don’t look now, we’ve been spotted.”</p>
 <p class="body">David jumped into better posture and, with a deadpan face and straight arms, slowly swirled ‘round to face the restaurant and a waving, wondering Celeste in the far-off corner.</p>
-<div class="location">VII.  THE CAFÉ</div>
+<div class="location" id="scene-7">VII.  THE CAFÉ</div>
 <div class="tempo-1">Andante tranquillo, rubato naturale</div>
 <p class="body">Afternoon thinned across the café windows, laying amber strips over the stone floor. Chairs held their half-slouched guests like phrases waiting for resolution. Celeste had claimed a corner table, two cups already steaming on its surface when the two men decided it was best not to keep he waiting any longer.</p>
 <p class="body">Linn guided David to the seat with better back support, then stepped away. “I’ll be at my office,” he said, addressing both of them. “Text if you need anything.”</p>
@@ -369,7 +418,7 @@ footer a { color: #aaa; }
 <p class="body">David looked at her fully then—not through pain or exhaustion or the protective distance he’d maintained for months. Just looked. Saw the way she’d positioned herself at the table to minimize the light hitting his injured eye. Saw the careful neutrality in her posture that made space for whatever he might need. Saw the decision she’d already made, waiting only for him to meet it.</p>
 <p class="body">“Okay,” he said.</p>
 <p class="body">She stood first, gathering her bag. David rose more slowly, the elastic wrap reminding him of its presence with each breath. She waited without hovering, then fell into step beside him as they moved toward the door.</p>
-<div class="location">VIII.  walk  D - Part 1    |   <em> For Celeste and David</em></div>
+<div class="location" id="scene-8">VIII.  walk  D - Part 1    |   <em> For Celeste and David</em></div>
 <div class="tempo-1">Moderato, con attrito</div>
 <p class="body">Outside, the afternoon had begun its slide toward evening. The walk wasn’t long—ten minutes on a good day, fifteen at the pace David’s body now required. Celeste matched his stride without comment, the way Linn had that morning. But where Linn’s accommodation had been fraternal, hers carried different weight.</p>
 <p class="body">They walked in silence, their footsteps finding an unintentional rhythm—a slow 3/4 that neither rushed nor dragged. Students passed them, absorbed in their own trajectories. The physics building rose to their left, its windows catching the low sun. David didn’t look up at his office.</p>
@@ -389,7 +438,7 @@ footer a { color: #aaa; }
 <p class="body">But he knew… it was absolutely his problem. </p>
 <p class="body">He gestured toward the crest. “Those two up there? They’re squatting on ghosts… not dreams.”</p>
 <p class="body">High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air—lazy, amused, unbothered.</p>
-<div class="location">IX. The bench</div>
+<div class="location" id="scene-9">IX. The bench</div>
 <div class="tempo-1">Adagio con tensione</div>
 <p class="body">“I’m just saying,” Roman said, smoke leaking from both corners of his mouth, “if the multiverse is real, then somewhere I’m already sober. Perfectly sober. That’s just quantum balance, babe.”</p>
 <p class="body">Greene, flat on her back beneath the skeletal sycamore, didn’t open her eyes. “You’re failing quantum mechanics in this universe.”</p>
@@ -446,7 +495,7 @@ footer a { color: #aaa; }
 <p class="body">“Yes, David. You did. And yes… I know you are.”</p>
 <p class="body">A thin breeze rose, picking at the hem of her coat. She stepped forward, closer to the edge of the cliff, closer to the lake, as if she might walk the distance or measure it. She breathed in deeply and let it out in a slow, even stream. The sun, as if in response to the silent reckoning through respirate, slipped behind a bank of clouds, causing the blue on the water darkened, deepening toward something like promise.</p>
 <p class="body">“Come on,” she said, as a slight smile cracking her lips. “Can’t linger here much longer without this becoming a funeral dirge.”</p>
-<div class="location">X.  WALK D - part 2   |  <em> For Celeste, David, bridge, and porch light</em></div>
+<div class="location" id="scene-10">X.  WALK D - part 2   |  <em> For Celeste, David, bridge, and porch light</em></div>
 <div class="tempo-1">Andante semplice</div>
 <p class="body">They descended from the quad in silence, Celeste matching David’s careful pace without comment. The evening had begun its slow compression of light—amber fading to violet, shadows pooling in doorways and beneath the skeletal branches overhead.</p>
 <p class="body">David’s breathing had settled into a rhythm dictated by the constraint on his ribs. Each inhalation measured, each exhalation controlled. Celeste noticed but said nothing. Her presence was answer enough.</p>
@@ -454,7 +503,7 @@ footer a { color: #aaa; }
 <p class="body">They crossed the canyon bridge and closed the final few blocks of the trip to the house on the hill. Somewhere between “<em>I</em><em>’</em><em>m sorry</em><em>”</em> and the porch steps, Celeste had put out her hand and David found he had taken it in his.</p>
 <p class="body">When they reached the porch steps, Celeste climbed the first two, then turned to kiss David on the cheek. From this angle, their eyes were level despite the height difference. She looked deeply into his, as if making a determination of authenticity on a rare diamond. The porch light illuminated half her face, leaving the other half in shadow.</p>
 <p class="body">He couldn’t read her. She knew he couldn’t read her. When she moved again to go inside, David found she had not released his hand. The slight tremor from hours of maintained tension disappeared. </p>
-<div class="location">XI.  The house on the hill (return)  </div>
+<div class="location" id="scene-11">XI.  The house on the hill (return)  </div>
 <div class="tempo-1">Largo domestico</div>
 <p class="body">She led him up the remaining steps, across the porch where a swing moved slightly in the evening breeze, and opened the door. </p>
 <p class="body">Warm light spilled out into the dusk. The smell of old wood and lavender. Inside, the hallway was lined with framed concert programs and photographs of ensemble performances spanning decades.</p>
@@ -492,7 +541,7 @@ footer a { color: #aaa; }
 <p class="body">She left him there, returning minutes later with the tea refreshed and a blanket from somewhere deeper in the house. David had removed his jacket and his shoes. The tuning fork sat on the nightstand, catching the lamplight.</p>
 <p class="body">Celeste noticed it but didn’t comment. She just settled beside him, close enough to matter, far enough to let him choose.</p>
 <p class="body">He chose closer.</p>
-<div class="location">XII.  The draft</div>
+<div class="location" id="scene-12">XII.  The draft</div>
 <div class="tempo-1">Adagio concentrato</div>
 <p class="body">David woke to the disorientation of an unfamiliar ceiling, then remembered. The house. The bed. The tuning fork was a cool weight against his sternum, tucked beneath his shirt.</p>
 <p class="body">She wasn’t beside him. He turned his head carefully, finding her silhouette at the desk by the window. She’d pulled on an oversized shirt and was writing something, her posture suggesting absorption.</p>
@@ -534,7 +583,7 @@ footer a { color: #aaa; }
 <p class="body">Would he? A year ago, probably not. He’d have retreated, isolated, insisted on handling everything alone. But she was right about what he’d become, or hoped he was becoming. Someone who let Linn find him. Who came to rehearsal injured. Who accepted help and company.</p>
 <p class="body">“Yeah,&quot; he said. &quot;I would.”</p>
 <p class="body">She smiled—small, genuine—and opened the door.</p>
-<div class="location">XIII.  Walk  E   |   <em>for David, Celeste, notebook, and boundaries</em></div>
+<div class="location" id="scene-13">XIII.  Walk  E   |   <em>for David, Celeste, notebook, and boundaries</em></div>
 <p class="default">Adagio conclusivo, senza risoluzione</p>
 <p class="body">The walk to his apartment was quiet. The night was clear, the air sharp. At his building, she stopped.</p>
 <p class="body">&quot;You’ll call if you need anything?&quot; she asked.</p>
@@ -549,7 +598,7 @@ footer a { color: #aaa; }
 <p class="body">Outside, night settled over Ithaca. Inside, the lamp held its small circle of light, and a man who had spent the day navigating pain and music and the spaces between them sat alone in his apartment, connected by nothing more complex than memory and choice.</p>
 <p class="body">He opened his notebook to a fresh page and began to write.</p>
 <p class="body">For now, it was more than enough.</p>
-<div class="location">XIV.  10 Minutes, Maybe Twelve  </div>
+<div class="location" id="scene-14">XIV.  10 Minutes, Maybe Twelve  </div>
 <div class="tempo-1">Vivace ironico - Lento sospirato</div>
 <p class="body">Celeste was not, under any circumstances, going to give him the satisfaction of looking back as she walked away.</p>
 <p class="body">He was watching her go. Of course, he was. He’d been watching her go for twenty years. A man of habit, if nothing else—he wasn’t going to stop tonight.</p>
@@ -570,6 +619,7 @@ footer a { color: #aaa; }
 <p class="body">          —<em>Click!</em></p>
 <p class="body">And just like that, the electric kettle… clicked… off!</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 4 &#8212;</div>
   </div>
 </article>
 

@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 12 · Resonance</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="12">
+<meta name="word-count" content="1049">
+<meta name="paragraph-count" content="42">
+<meta name="scene-count" content="1">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-12.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-12.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,9 +160,14 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 12</div>
   <div class="chapter-heading">Resonance</div>
   
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,049</strong>&thinsp;words &nbsp; <strong>42</strong>&thinsp;paragraphs &nbsp; <strong>1</strong>&thinsp;scene</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">I.  The After Math</a><span class="scene-range">w.1–1,049 · ¶1–42</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">Resonance</h3>
-<div class="location">I.  The After Math</div>
+<div class="location" id="scene-1">I.  The After Math</div>
 <div class="tempo-1">Veloce, frammentato, crescente</div>
 <p class="body">In Reykjavík, in a kitchen lit by a single candle and the blue glow of a phone held too close to the face, a woman watched the buffering circle spin and spin and then—finally—resolve into a room she did not recognize. Outside her window, the aurora had come down like a green veil, close enough to make her feel briefly as if the sky had weight. Her husband said something from the next room about the generator, about the freezer thawing. She hushed him without meaning to—couldn’t help it, really. She was listening, and she could not explain why the sound of a bow on a string felt like instruction.</p>
 <p class="body">When the video froze for a beat and then resumed, she felt a flash of anger at the invisible machine between her and the thing she needed, and she hated herself for needing anything so badly.</p>
@@ -173,6 +210,7 @@ footer a { color: #aaa; }
 <p class="body">Stories gathered around it at once. Some were hopeful. Some were sharp. Some were built to sell. Some were built to wound.</p>
 <p class="body">And beneath the sharing—beneath the arguments and the warnings and the captions—the sound continued.</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 12 &#8212;</div>
   </div>
 </article>
 

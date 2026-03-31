@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 3 · Fruitful Eve, False Dawn, Fateful Night</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="3">
+<meta name="word-count" content="5350">
+<meta name="paragraph-count" content="226">
+<meta name="scene-count" content="8">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-03.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-03.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,10 +160,21 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 3</div>
   <div class="chapter-heading">Fruitful Eve, False Dawn, Fateful Night</div>
   <div class="chapter-subheading">a secular passion in eight movements</div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>5,350</strong>&thinsp;words &nbsp; <strong>226</strong>&thinsp;paragraphs &nbsp; <strong>8</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">I.  Chorale   |   Wednesday Dinner</a><span class="scene-range">w.1–1,979 · ¶1–83</span>
+    <a href="#scene-2">II.  ARIOSO   |   The Tuning</a><span class="scene-range">w.1,980–2,129 · ¶84–91</span>
+    <a href="#scene-3">III.  Recitativum   |  The Office</a><span class="scene-range">w.2,130–2,373 · ¶92–101</span>
+    <a href="#scene-4">IV.  TURBA  |   The Guillotine</a><span class="scene-range">w.2,374–3,198 · ¶102–135</span>
+    <a href="#scene-5">V.  Via Dolorosa   |   Into the Storm</a><span class="scene-range">w.3,199–3,462 · ¶136–145</span>
+    <a href="#scene-6">VI.  Crucifixio   |   It takes a Beating</a><span class="scene-range">w.3,463–3,884 · ¶146–163</span>
+    <a href="#scene-7">VII.  Depositio / Sepultura   |  Up From the Depths</a><span class="scene-range">w.3,885–4,649 · ¶164–204</span>
+    <a href="#scene-8">VIII.  Reliquia   |   Up From the Depths</a><span class="scene-range">w.4,650–5,350 · ¶205–226</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">Fruitful Eve, False Dawn, Fateful Night</h3>
-<div class="tempo-2">a secular passion in eight movements</div>
-<div class="location">I.  Chorale   |   <em>Wednesday Dinner</em></div>
+<div class="location" id="scene-1">I.  Chorale   |   <em>Wednesday Dinner</em></div>
 <div class="tempo-1">Dolce e semplice </div>
 <p class="body">The restaurant’s acoustic tiles couldn’t quite contain the Wednesday evening murmur, but Celeste had chosen their corner table precisely for its distance from the kitchen’s percussion section. David arrived seven minutes late, chalk still visible under his fingernails despite three washings.</p>
 <p class="body">“You look like you haven’t slept since Sunday,” she said, not looking up from her wine menu.</p>
@@ -214,7 +257,7 @@ footer a { color: #aaa; }
 <p class="body">Without a word he raised his hand for the check, threw down enough cash, grabbed her hand, practically lifted her from the booth, and in one short stretch from table three to the host stand, almost to the door, exclaimed, “Pythagorean tuning!”</p>
 <p class="body">Celeste erupted. “Adjusted perfect fifths, here we come!”</p>
 <p class="body">They made their spectacle and flew into the emergent evening.</p>
-<div class="location">II.  ARIOSO   |   <em>The Tuning</em></div>
+<div class="location" id="scene-2">II.  ARIOSO   |   <em>The Tuning</em></div>
 <div class="tempo-1">Andante tranquillo</div>
 <p class="body">They played until nearly midnight. David’s cello found harmonies in Celeste’s modified Pythagorean tuning that breathed differently, intervals that created spaces rather than filling them. The music felt like conversation rather than mathematics.</p>
 <p class="body">“There,” Celeste said as they finished the improvised passacaglia. “See? You can still make music without mapping it to the cosmic microwave background.”</p>
@@ -222,7 +265,7 @@ footer a { color: #aaa; }
 <p class="body">He slept seven unbroken hours.</p>
 <p class="body">Morning arrived with unusual clarity. He woke without his caffeine headache, dressed without consulting his reflection for signs of theoretical breakthrough, and arrived at campus almost… normal.</p>
 <p class="body">But by 10 a.m., with yesterday’s failed equations staring at him from the blackboard, the familiar itch returned. Just a small adjustment. A minor refinement.</p>
-<div class="location">III.  Recitativum   |  <em>The Office</em></div>
+<div class="location" id="scene-3">III.  Recitativum   |  <em>The Office</em></div>
 <div class="tempo-1">Accelerando</div>
 <p class="body">The triptych blackboard unfurled like a private altarpiece. But this time felt different. The desperate midnight scrawl, the unending scratch and gnaw to find something, make something work before daybreak, it had all given way to a palpable sense of ignoble absolutism. The diagram emerged stroke by stroke, each symbol placed with inevitable certainty.</p>
 <p class="body">Connections revealed themselves as crystalline, as truths: π mapped to the electromagnetic spectrum, e governed temporal coefficients, φ threaded through harmonic frequencies like DNA through a double helix. Fifteen years of chase cohered into a parade of obvious elegance.</p>
@@ -232,7 +275,7 @@ footer a { color: #aaa; }
 <p class="body">“Oh, then he’s free at 2:30?”</p>
 <p class="body">“Well yes, Professor. Free for <em>you</em>, I suppose.” A reply that sounded as if it repelled confusion with the tried-and-true method of a frozen, eternal politeness.</p>
 <p class="body">By 2:28 p.m. he was knocking on Ishikawa’s door with the confidence of a man carrying the key to the universe, and the memory of Celeste’s laughter still echoing.</p>
-<div class="location">IV.  TURBA  |   <em>The Guillotine</em></div>
+<div class="location" id="scene-4">IV.  TURBA  |   <em>The Guillotine</em></div>
 <div class="tempo-1">Grave e implacabile</div>
 <p class="body">“David, take a seat, please.” Rune Ishikawa didn’t look up immediately. On his screen: </p>
 <p class="body">PROFESSOR DAVID LANG: </p>
@@ -266,7 +309,7 @@ footer a { color: #aaa; }
 <p class="body">The phone buzzed. “Dr., the Dean of Students on line one.”</p>
 <p class="body">“Thank you, Jessica,” he said, gesturing to David the universal, non-verbal signal for, ‘<em>I have to take this in private, could you wait out in the lobby for just a moment.</em>’</p>
 <p class="body">By the time Rune finished the two-minute call, Professor Lang was three buildings and half a parking lot away. He—and his demolished work—had escaped the guillotine for a day.</p>
-<div class="location">V.  Via Dolorosa   |   <em>Into </em><em>the</em><em> Storm</em></div>
+<div class="location" id="scene-5">V.  Via Dolorosa   |   <em>Into </em><em>the</em><em> Storm</em></div>
 <div class="tempo-1">Tempestoso e violento </div>
 <p class="body">The November wind encircled him as he stepped from the physics building. Sleet drove horizontally across the quad, erasing footpaths and landmarks with the same indifference Rune had shown his equations.</p>
 <p class="body">Fifteen years of chasing mathematical ghosts. The folder under his arm felt like it contained the corpses of his own delusions.</p>
@@ -276,7 +319,7 @@ footer a { color: #aaa; }
 <p class="body">He walked homeward in the storm’s early stages. The sleet, at first, was a polite intermezzo. By the fourth block it had thickened into percussion against his briefcase, the hiss of tires overdubbing distant sirens. He traced side alleys behind the administration buildings, drawn to the anonymity of streets that never stood a chance of being called thoroughfares.</p>
 <p class="body">The pharmacy window at the shuttered Health Center glowed with the after-hours promise of insulin. The alley’s concrete slouched under graffiti. Broken glass and fossilized gum mapped the ground.</p>
 <p class="body">At the pedestrian underpass, the atmosphere shifted. Too far down the ramp to turn back. One figure stepped from behind a retention wall; a second dropped from a scaffold, landing with a sloshed whisper.</p>
-<div class="location">VI.  Crucifixio   |   <em>It takes a Beating</em></div>
+<div class="location" id="scene-6">VI.  Crucifixio   |   <em>It takes a Beating</em></div>
 <div class="tempo-1">Furioso e crudo </div>
 <p class="body">“Hand it over,” said the first, consonants lightly fried. “Wallet. Phone. Now.”</p>
 <p class="body">He tried to parse their vectors—distance, mass, coordination. His own weight, badly distributed across a left knee injured years ago, felt insufficient.</p>
@@ -294,7 +337,7 @@ footer a { color: #aaa; }
 <p class="body">He lay there for a minute or an hour. Copper and bile in his mouth; warmth radiating through his cheekbone against the cold. He catalogued injuries like a scientist: left cheekbone swollen but likely intact; lower lip split; right wrist abraded. The cello case lay against his back, sheltering him from the worst of the water, its synthetic hide a parody of comfort.</p>
 <p class="body">The sodium lamps flickered, stabilized. He rolled to his side and watched rainwater sluice his blood into branching runnels.</p>
 <p class="body">He let his eyelids drift shut and waited for the next movement.</p>
-<div class="location">VII.  Depositio / Sepultura   | <em> </em><em>Up From the Depths</em></div>
+<div class="location" id="scene-7">VII.  Depositio / Sepultura   | <em> </em><em>Up From the Depths</em></div>
 <div class="tempo-1">Grave maestoso</div>
 <p class="body">There is a dissonance to pain: sharpness and blur at once, time collapsing into staccato intervals and adagio decay. David catalogued these harmonics from the cold pavement, pulse flickering in and out of meter, consciousness repurposed as a faulty metronome. At some point the rain receded into mist, or his nerves stopped registering its percussion. His left cheekbone had swollen; blood congealed at his nostril tasted of rust and paper cuts.</p>
 <p class="body">A shadow eclipsed the jaundiced glow of the streetlamp.</p>
@@ -335,7 +378,7 @@ footer a { color: #aaa; }
 <p class="body">She turned and walked into the barely breaking dawn.</p>
 <p class="body">David watched her go. She moved with certainty, neither hurried nor slow, body outlined in refracted streetlight.</p>
 <p class="body">At the alley’s mouth, she paused. A city bus coughed past in a strobe of fluorescence. David squinted, looked away. The harsh light knifed through his skull. When he turned back, she was gone.</p>
-<div class="location">VIII. <em> </em>Reliquia   |  <em> </em><em>Up From the Depths</em></div>
+<div class="location" id="scene-8">VIII. <em> </em>Reliquia   |  <em> </em><em>Up From the Depths</em></div>
 <div class="tempo-1">Transfigurato</div>
 <p class="body">David sat a long moment, tuning fork cradled in his hand. The sleet had softened to snowfall. The pain was real; so was the object’s improbable chill. He pressed it to his sternum and felt it resonate with the quickening beat beneath.</p>
 <p class="body">The patterns behind his eyelids persisted, coalescing into a geometry he could almost name.</p>
@@ -358,6 +401,7 @@ footer a { color: #aaa; }
 <p class="body">His gait as he walked home was altered: not lighter, not more confident—vectorized. Every stride aligned with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.</p>
 <p class="body">Blind to the bloom of a fresh bruise, he walked.</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 3 &#8212;</div>
   </div>
 </article>
 

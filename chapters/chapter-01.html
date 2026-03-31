@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 1 · Opus No. 46  in D minor   “Of Life”</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="1">
+<meta name="word-count" content="10784">
+<meta name="paragraph-count" content="370">
+<meta name="scene-count" content="4">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-01.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,11 +160,18 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 1</div>
   <div class="chapter-heading">Opus No. 46  in D minor   “Of Life”</div>
   <div class="chapter-subheading">a string quartet in four movements</div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>10,784</strong>&thinsp;words &nbsp; <strong>370</strong>&thinsp;paragraphs &nbsp; <strong>4</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">I.  THE CLASSROOM</a><span class="scene-range">w.7–4,364 · ¶2–184</span>
+    <a href="#scene-2">II.  THE OFFICE</a><span class="scene-range">w.4,365–6,459 · ¶185–241</span>
+    <a href="#scene-3">III.  THE REHEARSAL HALL</a><span class="scene-range">w.6,460–9,527 · ¶242–341</span>
+    <a href="#scene-4">IV.  THE APARTMENT</a><span class="scene-range">w.9,528–10,784 · ¶342–370</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">Opus No. 46  in D minor   “Of Life”</h3>
-<div class="tempo-2">a string quartet in four movements</div>
 <p class="default">for human, cello, chalkboard, and mantelpiece</p>
-<div class="location">I.  THE CLASSROOM     </div>
+<div class="location" id="scene-1">I.  THE CLASSROOM     </div>
 <div class="tempo-1">Andante sostenuto—Presto agitato  </div>
 <p class="body">It was, perhaps, an unfortunate hour to be speaking of coherence.</p>
 <p class="body">Professor David Lang stood hunched before a blackboard that had grown suspicious of his intentions, inscribing symbols not with confidence but with the tragic diligence of a man increasingly convinced—by mounting evidence—of his own elite academic failure to rise. </p>
@@ -315,7 +354,7 @@ footer a { color: #aaa; }
 <p class="body">A silent moment passed over the quad. A whispering of wind. A cackling crow. The distant laughter of students in situ. He stood there in the snow, breath catching, throat scraped bare, not knowing what part of him had remembered how to make a sound like that.</p>
 <p class="body">David turned from the site. Rejected its call—its pull on him. Forced his feet, his body to turn and walk… <em>just start walking forward</em>—away. Just… walk… away.</p>
 <p class="body">Behind him, the bench, and all that lay beneath, would be waiting now. Truth still had fire, it seemed—with fuel to burn. It had all returned. Clawed its way back just as Celeste said it would. It was time. And time, it seemed, would wait no longer. </p>
-<div class="location">II.  THE OFFICE</div>
+<div class="location" id="scene-2">II.  THE OFFICE</div>
 <div class="tempo-1">Moderato, ma non troppo </div>
 <p class="body">David’s office resisted occupancy like a poorly tuned instrument resisted pitch. Light bled through warped Venetian blinds, striping the stacked Annalen der Physik journals into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookshelf, its leather scuffed in the precise pattern of subway-platform collisions from a commute to lessons he now scheduled only in daydreams.</p>
 <p class="body">David burst through the door—coat sailing toward a hook, bag thudding to the floor, papers cascading in a controlled avalanche across the desk. He didn’t even notice Rune Ishikawa, already seated in the corner, sipping on a cup of Earl Grey, almost indistinguishable from the furniture.</p>
@@ -372,7 +411,7 @@ footer a { color: #aaa; }
 <p class="body">He exhaled, shutting all of it from his mind, for ahead waited the relief of rehearsal, the comfort of trusted, true friends of care, and a cello that had always shielded him from true harm.</p>
 <p class="body">He looked up at the clock, then down at his own—for the day had proven less than reliable already. Confirmed:</p>
 <p class="body">It was one minute, forty-seven seconds from time.</p>
-<div class="location">III.  THE REHEARSAL HALL</div>
+<div class="location" id="scene-3">III.  THE REHEARSAL HALL</div>
 <div class="tempo-1">Largo maestoso </div>
 <p class="body">The Music School’s residence on East Hill had never resolved into a single, settled idea—more of a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered and thickened over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.</p>
 <p class="body">By the seventies, the place had been reborn—rebranded, really—as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber that seemed, even now, to remember life before being pressed into the service of sound. </p>
@@ -472,7 +511,7 @@ footer a { color: #aaa; }
 <p class="body">David melted back into the rehearsal hall, pulled on his overcoat, and sealed the cello away with the care of a man handling something both precious and dangerous. In the corridor, a distant vibraphone aligned perfectly with his tinnitus—a pure sustained note that would ring in his ears until well past two a.m. </p>
 <p class="body">David stopped to join the structure in its end-of-day rituals. He could tell only a handful of people remained in the building. A palpable sense of compression flowed heavily through the halls, burdening the air as the walls and ceiling catalogued the memory of Prokofiev’s wild chords and the mercy of a snapped string, folding them into its timbered rafters.</p>
 <p class="body">David glanced up at the clock above the double exit doors, then down to his watch—it was three minutes, forty-seven seconds past time.</p>
-<div class="location">IV.  THE APARTMENT</div>
+<div class="location" id="scene-4">IV.  THE APARTMENT</div>
 <div class="tempo-1">Adagio, con malinconia </div>
 <p class="body">As he left the music school, David felt the city return in sharp lines and pale silence. The snow-lit quad stretched before him, a frozen ledger of the passing of souls. Two sets of footprints: hers and his, running parallel until they split. At that point, the path they’d shared for years broke quietly apart—hers turning toward the bridge, his descending into the dark fold of lower East Hill.</p>
 <p class="body">He didn’t look back. He couldn’t. He knew what he’d see: his own solitude, pressed into the snow like a sentence without end. Winter, unblinking, recorded everything.</p>
@@ -502,6 +541,7 @@ footer a { color: #aaa; }
 <p class="body">The refrigerator compressor droned a perfect fourth above the bathroom faucet’s drip. Chalk dust shimmered in the spill from the vertical window, suspended like cosmic background radiation.</p>
 <p class="body">Outside the brick, beyond the city’s pall of light, the universe hummed its eternal B-flat—waiting for a listener in tuned enough to decode its musings.</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 1 &#8212;</div>
   </div>
 </article>
 

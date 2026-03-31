@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 15 · The Pivotal Encounter</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="15">
+<meta name="word-count" content="3162">
+<meta name="paragraph-count" content="103">
+<meta name="scene-count" content="2">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-15.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-15.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,11 +160,17 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 15</div>
   <div class="chapter-heading">The Pivotal Encounter</div>
   
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>3,162</strong>&thinsp;words &nbsp; <strong>103</strong>&thinsp;paragraphs &nbsp; <strong>2</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">I.</a><span class="scene-range">w.8–598 · ¶2–19</span>
+    <a href="#scene-2">II.  The exhilaration of a walk downhill</a><span class="scene-range">w.599–3,162 · ¶20–103</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">The Pivotal Encounter</h3>
 <div class="tempo-1">a sonata (senza sviluppo) in three movements
 </div>
-<div class="location">I. </div>
+<div class="location" id="scene-1">I. </div>
 <div class="tempo-1">Lento misterioso, senza misura</div>
 <p class="body">In the thinning veil where light bent toward shadow, David’s senses recoiled from the insubstantial, reassembling around familiar edges—the worn cello case leaning like a sentinel, the math‑riddled walls breathing softly in the ambient dusk. </p>
 <p class="body">David drew a slow breath, spine unfolding beneath a weight he had not yet dared to bear. The air thickened, then settled, draping the expanse in a heavy velvet that made every detail feel newly intimate. </p>
@@ -150,7 +188,7 @@ footer a { color: #aaa; }
 <p class="body">The first fissure lay far beyond the low-slung roofs and skeletal trees that flared out over lower East Hill and to the city beyond. A pale incision along the rim of the horizon as though the earth itself had been quietly opened during the night and was now revealing the faintest interior glow. The air possessed that hourless stillness that belongs neither to night nor to morning but lingers between them like a hummingbird hovering, its wings fluttering with such speed as to make movement in either direction seem to lose the appearance of action.</p>
 <p class="body">He rolled his shoulders once, then again, listening inwardly for complaint, and found only the easy mechanics of a body unburdened. He bent at the waist, touched his palms flat against the cold planks of the bench, and straightened again without effort, as though some unseen clerk had cleared his ledger of aches during the interval between… then and now was as specific as his mind would in this moment allow. </p>
 <p class="body">  <em>So this is what normal feels like.</em></p>
-<div class="location">II.  The exhilaration of a walk downhill</div>
+<div class="location" id="scene-2">II.  The exhilaration of a walk downhill</div>
 <div class="tempo-1">Senza tempo (ma andante)</div>
 <p class="body">A sigh, a nod, and he began to walk. Below him the paths curved downward through the campus like pale veins through green flesh. Lamps still burned along the walkways, their light faint now against the strengthening sky. He stepped from the dew-glittered grass and onto the path towards his descent, moving without hurry, without destination. The slow incline drawing him through the familiar geometry of buildings and trees that seemed at once intimately known and strangely provisional, as though constructed only hours before for his use alone.</p>
 <p class="body">Lower East Hill emerged ahead in brick and shadow. Windows reflected the growing light but showed no interior life. A maintenance cart sat idle near the curb, its metal frame silvered by dew. The silence was not oppressive; it was simply complete.</p>
@@ -236,6 +274,7 @@ Continued on A14: What we know about the solar event; timeline of infrastructure
 <p class="default">No one has claimed authorship of the video. No one has come forward. </p>
 <p class="default">Correction: An earlier version of this article stated the video was first detected by European servers. It appears to have propagated simultaneously across all platforms. The Times regrets the error and notes that “simultaneously” may itself require qualification in the future. We are not yet certain what word would be more precise.</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 15 &#8212;</div>
   </div>
 </article>
 

@@ -6,6 +6,9 @@
 <title>String Theory · Chapter 2 · The Edge of Discovery</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="2">
+<meta name="word-count" content="8833">
+<meta name="paragraph-count" content="500">
+<meta name="scene-count" content="12">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-02.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-02.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,12 +160,27 @@ footer a { color: #aaa; }
   <div class="chapter-number">Chapter 2</div>
   <div class="chapter-heading">The Edge of Discovery</div>
   <div class="chapter-subheading">an epistemic fugue in four voices</div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>8,833</strong>&thinsp;words &nbsp; <strong>500</strong>&thinsp;paragraphs &nbsp; <strong>12</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">I.1  SUBJECT  |  Buffalo, NY  			      Present Day</a><span class="scene-range">w.11–242 · ¶3–13</span>
+    <a href="#scene-2">I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005</a><span class="scene-range">w.243–1,291 · ¶14–71</span>
+    <a href="#scene-3">I.3   SUBJECT   |    Buffalo, NY 			      Present Day</a><span class="scene-range">w.1,292–2,003 · ¶72–99</span>
+    <a href="#scene-4">I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005</a><span class="scene-range">w.2,004–2,492 · ¶100–138</span>
+    <a href="#scene-5">II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day</a><span class="scene-range">w.2,493–2,928 · ¶139–168</span>
+    <a href="#scene-6">II.2   THE WORKSHOP   |   Buffalo, NY - Present Day</a><span class="scene-range">w.2,929–3,470 · ¶169–202</span>
+    <a href="#scene-7">II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day</a><span class="scene-range">w.3,471–5,617 · ¶203–321</span>
+    <a href="#scene-8">III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005</a><span class="scene-range">w.5,618–7,583 · ¶322–433</span>
+    <a href="#scene-9">IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day</a><span class="scene-range">w.7,584–8,057 · ¶434–453</span>
+    <a href="#scene-10">IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day</a><span class="scene-range">w.8,058–8,420 · ¶454–473</span>
+    <a href="#scene-11">IV.3  THE CORRIDOR</a><span class="scene-range">w.8,421–8,705 · ¶474–491</span>
+    <a href="#scene-12">V.   RECOGNITION</a><span class="scene-range">w.8,706–8,833 · ¶492–500</span>
+  </div>
+</div>
   <div class="chapter-text">
-<h3 class="subchapter">The Edge of Discovery </h3>
-<div class="tempo-2"> an epistemic fugue in four voices</div>
 <p class="scene">for shuttle bus, beer bottle, travel brochure, and bonfire</p>
 <div class="title-special">EXPOSITION</div>
-<div class="location">I.1  SUBJECT  |  <em>Buffalo, NY          Present Day</em>              </div>
+<div class="location" id="scene-1">I.1  SUBJECT  |  <em>Buffalo, NY          Present Day</em>              </div>
 <div class="tempo-1">Andante inquieto</div>
 <div class="tempo-1">|  Travel  |</div>
 <p class="body">The shuttle from the airport had no suspension, or perhaps it simply chose not to use it. Each pothole translated directly into spine, the jolts accumulating like small grievances filed but never addressed. The driver kept his eyes fixed on the road ahead with a solemnity that looked like ritual, but bordered on carelessness; refusing even the briefest courtesies of the rearview mirror.</p>
@@ -144,7 +191,7 @@ footer a { color: #aaa; }
 <p class="body">Across the aisle, a young postdoc held her laptop open to a half-completed grant proposal. The progress bar had been stuck at fourteen percent for the duration of the ride, though no uploads were in progress. </p>
 <p class="body">The shuttle pulled up to the hotel smoothly, as if arriving exactly on time for something important that had already happened without them. No one moved as they disembarked.</p>
 <p class="body">“Professor?” The driver called back to David, still staring out the window in the back of the bus. “Professor?” Nothing. Like he was watching something no one else could hear.</p>
-<div class="location">I.2   ANSWER   |   <em>MIT - Boston, MA</em><em> </em><em>                           April 11, 2005</em></div>
+<div class="location" id="scene-2">I.2   ANSWER   |   <em>MIT - Boston, MA</em><em> </em><em>                           April 11, 2005</em></div>
 <div class="tempo-1">Con tensione, andante       21 years ago</div>
 <div class="tempo-1">|  Consensus  |</div>
 <p class="body">“You’re not listening,” David said. “I’m not saying music is mathematics. I’m saying they’re dialects. Same language. Different mouths.”</p>
@@ -202,7 +249,7 @@ footer a { color: #aaa; }
 <p class="body">“To the lunatics.”</p>
 <p class="body">David looked at him. Something passed between them—old resentment meeting older affection—and finally, finally, his shoulders dropped.</p>
 <p class="body">“To the lunatics.”</p>
-<div class="location">I.3   SUBJECT   |    <em>Buffalo, NY </em><em>       </em><em> Present Day </em></div>
+<div class="location" id="scene-3">I.3   SUBJECT   |    <em>Buffalo, NY </em><em>       </em><em> Present Day </em></div>
 <div class="tempo-1">Moderato grottesco</div>
 <div class="tempo-1">|  Conference  |</div>
 <p class="body">The registration table was arranged with military precision, except for the line marked:</p>
@@ -230,7 +277,7 @@ footer a { color: #aaa; }
 <p class="body">David looked down at his own brochure, only to notice that his hands were shaking. His left, with the flyer in grip—violently.</p>
 <p class="body">The concierge was perfectly positioned mid-scene and, like a tennis referee at mid-court, stood ready to see it all, and call it all if needed. With Kline squarely in retreat, there was nothing left for him but to stare wildly at David. “Sir? Are you alright?”</p>
 <p class="body">David flashed a slick smile of assurance at the young man to release him from further responsibility. Then he looked down. The brochure was covered in notation: Frequencies, Ratios, Harmonic intervals spiraling out from a central axis. The work was certainly written in his hand. But he had no memory of executing a single line of it.</p>
-<div class="location">I.4   ANSWER   |   <em>MIT - </em><em>Boston, MA </em><em>                                     May 24, 2005</em> </div>
+<div class="location" id="scene-4">I.4   ANSWER   |   <em>MIT - </em><em>Boston, MA </em><em>                                     May 24, 2005</em> </div>
 <div class="tempo-1">Presto drammatico       21 years ago</div>
 <div class="tempo-1">|  Phone Call  |</div>
 <p class="body">Celeste’s voice hit the line like a rupture.</p>
@@ -269,7 +316,7 @@ footer a { color: #aaa; }
 <p class="body">He froze. Exhaled. Silence pressed in like gravity.</p>
 <p class="body">“I’m on my way.”</p>
 <div class="title-special">EPISODE I</div>
-<div class="location">II.1   THE INSTRUMENT SHOP   |  <em> </em><em>Buffalo, NY </em><em>       </em><em> </em><em>    </em><em>Present Day</em></div>
+<div class="location" id="scene-5">II.1   THE INSTRUMENT SHOP   |  <em> </em><em>Buffalo, NY </em><em>       </em><em> </em><em>    </em><em>Present Day</em></div>
 <div class="tempo-1">Adagio religioso</div>
 <div class="tempo-1">|  Detour  |</div>
 <p class="body">He found the shop by accident, though it felt intentional from the start. It was cleverly wedged between a boarded-up travel agency and a florist whose blooms looked more resigned than alive.</p>
@@ -299,8 +346,7 @@ footer a { color: #aaa; }
 <p class="body">“Will I see you again?”</p>
 <p class="body">“You already have,” she replied.</p>
 <p class="body">He lingered longer than he meant. Saw less than he wanted. He left quieter than he arrived.</p>
-<p class="body"><em>  </em></p>
-<div class="location">II.2   THE WORKSHOP   |   <em>Buffalo, NY - Present Day</em></div>
+<div class="location" id="scene-6">II.2   THE WORKSHOP   |   <em>Buffalo, NY - Present Day</em></div>
 <div class="tempo-1">Largo irreale</div>
 <div class="tempo-1">|  Form A(1)b–Revised  |</div>
 <p class="body">The signage ended at Room 6D.</p>
@@ -334,7 +380,7 @@ footer a { color: #aaa; }
 <p class="body"> NON-COMPLIANT, and left the room without a goodbye. Her shape already fading, as if memory were erasing her in real time.</p>
 <p class="body">David looked down. His form was blank—it remained uncollected. His pen was dry—he didn’t know if this was on purpose, or in protest.</p>
 <p class="body">Had he stayed the whole time? He wasn’t entirely sure. By the time he looked up from the page, it was empty. The room. He was the only person left.</p>
-<div class="location">II.3   THE HOTEL ROOM   |   <em>Buffalo, NY - Present Day</em></div>
+<div class="location" id="scene-7">II.3   THE HOTEL ROOM   |   <em>Buffalo, NY - Present Day</em></div>
 <div class="tempo-1">Andante luminoso </div>
 <div class="tempo-1">|  Revelation  |</div>
 <p class="body">The room had the over-insulated density peculiar to conference hotels, a heat that did not warm so much as accumulate. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts—frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.</p>
@@ -454,7 +500,7 @@ footer a { color: #aaa; }
 <p class="body">David lay back, the slip pressed against his chest, and let the room take him.</p>
 <p class="body">And then: firelight, ash lifting on wind, a yard bright with ruin.</p>
 <div class="title-special">EPISODE II</div>
-<div class="location">III.  THE FIREBIRDS   |   <em>MIT - </em><em>Boston, MA </em><em>       </em><em> </em><em>May 24, 2005</em><em> </em></div>
+<div class="location" id="scene-8">III.  THE FIREBIRDS   |   <em>MIT - </em><em>Boston, MA </em><em>       </em><em> </em><em>May 24, 2005</em><em> </em></div>
 <div class="tempo-1">Furioso tragico </div>
 <div class="tempo-1">|  Suppression  |</div>
 <p class="body">By the time the Wagoner pulled into the alley, the fire was already high enough to send pulsing glimmers of light dancing across the angled fence boards and the back wall of the house. Pages curled as they burned, rising in thin spirals before vanishing into the Boston night like sparked rain falling backwards.</p>
@@ -566,7 +612,7 @@ footer a { color: #aaa; }
 <p class="body">“Mr. McGrath. Ms. Armitage. Tomorrow evening, you dreamers—three. I strongly advise you against keeping me waiting.”</p>
 <p class="body">And with a slow turn, The Guardian of East Hill moved like mist through the fence and was gone—melted into the New England night.</p>
 <p class="body">STRETTO</p>
-<div class="location">IV.1   DISSOLUTION   |   <em>Cornell - Ithaca, NY</em><em> - </em><em>Present Day</em></div>
+<div class="location" id="scene-9">IV.1   DISSOLUTION   |   <em>Cornell - Ithaca, NY</em><em> - </em><em>Present Day</em></div>
 <div class="tempo-1">Adagio frammentato</div>
 <div class="tempo-1">|  Return  |</div>
 <p class="body">Morning came brittle.</p>
@@ -586,7 +632,7 @@ footer a { color: #aaa; }
 <p class="body">Walking became math. The hallway tilted a degree too far from Euclidean; he corrected his stride vector. The floor resisted certainty. Time didn’t flow—it staggered.</p>
 <p class="body">Something in him had slipped. He was listing now, quietly, toward the scattered edges of his own shape, reoriented only by contact.</p>
 <p class="body">He carried that shift with him—down the corridor, across the threshold. Quiet as a bruise.</p>
-<div class="location">IV.2   THE CLASSROOM   |   <em>Cornell - Ithaca, NY</em><em> </em><em>             </em><em> </em><em>Present Day</em></div>
+<div class="location" id="scene-10">IV.2   THE CLASSROOM   |   <em>Cornell - Ithaca, NY</em><em> </em><em>             </em><em> </em><em>Present Day</em></div>
 <div class="tempo-1">Allegro dissonante</div>
 <div class="tempo-1">|  Breakdown  |</div>
 <p class="body">As David shut the door to the Feynman Hall, he stopped, turned back, and quietly flipped the lock behind him. At precisely the same moment that the last student took their seat, the hall’s fluorescent tubes began to pulse flicker at 119.8 Hz. It was a frequency just fast enough to render thought unstable. He scanned the room’s faces. Student eyes oscillated like fluid in lab glass. Their attention jittered—quantized into meaningless spikes by incoming notifications and unspoken dread. He moved to the boards, the dreaded, accusatory boards.</p>
@@ -606,7 +652,7 @@ footer a { color: #aaa; }
 <p class="body">The room slowed. Like time buffering—memory caching failure, clearing, reloading—over and over again.</p>
 <p class="body">Someone coughed in 3/4 time. The fluorescent lights pulsed to match it. Metered recursion. Resident order.</p>
 <p class="body">He knew this rhythm. He <em>was </em>this rhythm.</p>
-<div class="location">IV.3  THE CORRIDOR</div>
+<div class="location" id="scene-11">IV.3  THE CORRIDOR</div>
 <div class="tempo-1">Adagio sospeso</div>
 <div class="tempo-1">|  Structure  |</div>
 <p class="body">The building had entered its nocturne.</p>
@@ -624,7 +670,7 @@ footer a { color: #aaa; }
 <p class="body">David moved toward it, or it moved toward him. And as the corridor bent, the ceiling dropped, the hum clarified—he understood: It hadn’t invaded him. </p>
 <p class="body"> It had found him.</p>
 <p class="body">CODA</p>
-<div class="location">V.   RECOGNITION</div>
+<div class="location" id="scene-12">V.   RECOGNITION</div>
 <div class="tempo-1">Largo fatale</div>
 <p class="body">Behind him, twenty years collapsed into twenty seconds. Ahead, the frequency waited—patient, inevitable, no longer foreign, yet fiendish still.</p>
 <p class="body">He had always been tuning towards this. The corridor stretched. The lights dimmed. The frequency sang.</p>
@@ -634,6 +680,7 @@ footer a { color: #aaa; }
 <p class="body">Might he then become the aperture—the way through, and now, the vessel for something that would not speak its name?</p>
 <p class="body">He looked at… nothing at all and found that it was ninety-two seconds… it was forty-one hours… it was one minute, forty-six seconds before time.</p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 2 &#8212;</div>
   </div>
 </article>
 

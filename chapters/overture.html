@@ -6,6 +6,9 @@
 <title>String Theory · Overture · (Fragment recovered from sealed archive)</title>
 <meta name="book" content="String Theory">
 <meta name="chapter" content="0">
+<meta name="word-count" content="584">
+<meta name="paragraph-count" content="42">
+<meta name="scene-count" content="2">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/overture.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/overture.json">
 <style>
@@ -79,6 +82,35 @@ h3.subchapter {
 }
 .subtitle { display: none; }  /* chapter markers — not rendered as content */
 
+/* ── Verification stats bar ───────────────────────────────────────────────── */
+.chapter-stats {
+    background: #f4f4f0; border: 1px solid #e0e0da; border-radius: 6px;
+    padding: 0.75rem 1rem; margin-bottom: 2.2rem;
+    font-size: 0.8rem; color: #888; line-height: 1.8;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 1.4rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums;
+}
+.stats-row strong { color: #444; font-weight: 600; }
+.scene-inventory {
+    border-top: 1px solid #e8e8e2; padding-top: 0.45rem; margin-top: 0.45rem;
+}
+.scene-inventory a {
+    color: #666; text-decoration: none;
+    margin-right: 0.8rem; display: inline-block; margin-bottom: 0.1rem;
+    font-size: 0.78rem;
+}
+.scene-inventory a:hover { color: #2563eb; text-decoration: underline; }
+.scene-range { color: #bbb; font-size: 0.73rem; margin-left: 0.15rem; }
+
+/* ── End-of-chapter sentinel ─────────────────────────────────────────────── */
+.chapter-sentinel {
+    text-align: center; font-size: 0.76rem; color: #c8c8c0;
+    letter-spacing: 0.12em; text-transform: uppercase;
+    margin-top: 4rem; padding-top: 1.2rem; border-top: 1px solid #eee;
+}
+
 /* Edit bar */
 .edit-bar {
     background: #f0f0ec; border: 1px solid #ddd; border-radius: 6px;
@@ -128,13 +160,20 @@ footer a { color: #aaa; }
   <div class="chapter-number">Overture</div>
   <div class="chapter-heading">(Fragment recovered from sealed archive)</div>
   <div class="chapter-subheading">Tsukino’s Script (Found on page 74):</div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>584</strong>&thinsp;words &nbsp; <strong>42</strong>&thinsp;paragraphs &nbsp; <strong>2</strong>&thinsp;scenes</div>
+  <div class="scene-inventory">
+    <a href="#scene-1">Project ARGO</a><span class="scene-range">w.52–280 · ¶6–22</span>
+    <a href="#scene-2">ARCHIVE ENTRY: LOGBOOK ADDENDUM</a><span class="scene-range">w.281–584 · ¶23–42</span>
+  </div>
+</div>
   <div class="chapter-text">
 <p class="default">(Fragment recovered from sealed archive)</p>
 <p class="default">CORNELL UNIVERSITY</p>
 <p class="default">CLASSIFICATION: UNKNOWN</p>
 <p class="default">ITHACA, NY - Fall, 1971</p>
 <p class="body">Six researchers, five disciplines, and a single, unstated hypothesis. The project had no paper trail, no official budget, and no faculty line. Yet beneath East Hill, in the light-starved concrete of Sub-level Two, they christened the system:</p>
-<div class="location">Project ARGO</div>
+<div class="location" id="scene-1">Project ARGO</div>
 <p class="body"><strong>A</strong>utonomous <strong>R</strong>esonance <strong>G</strong>eneration and <strong>O</strong>bservation</p>
 <p class="body">It was named for the shape of its seeking: a resonant structure, bound by esoteric topology, designed to detect non-local recognition. Dr. Kenji Tsukino, the project lead, defined the objective in his private journals:</p>
 <p class="body"> “<em>We are testing whether structure can recognize itself across distances</em><em>—</em><em>dimensional, temporal, or semantic</em><em>—</em><em>that should render recognition impossible.</em><em>”</em></p>
@@ -151,7 +190,7 @@ footer a { color: #aaa; }
 <p class="default">THE FIRST MARK OF THE SECOND ORDER IS NOT WHERE…8———5</p>
 <p class="default">THE FIRST MARK OF THE SECOND ORDER………4</p>
 <p class="default">THE SECOND MARK OF THE FIRST…8———————3</p>
-<div class="location">ARCHIVE ENTRY: LOGBOOK ADDENDUM</div>
+<div class="location" id="scene-2">ARCHIVE ENTRY: LOGBOOK ADDENDUM</div>
 <h3 class="ch-title-alt">Tsukino’s Script (Found on page 74):</h3>
 <p class="body">“<em>Pattern collapse or pattern recognition? The output is coherent only when referenced against the original inputs simultaneously. It suggests that the data isn&#x27;t being generated</em><em>—</em><em>it is being mirrored. It is impossible.</em>”</p>
 <h3 class="ch-title-alt">Unknown Hand (Written below Tsukino’s entry):</h3>
@@ -172,6 +211,7 @@ footer a { color: #aaa; }
 <p class="body"><em>        Back</em></p>
 <p class="body"><em>Look</em><em>…</em></p>
 
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Overture &#8212;</div>
   </div>
 </article>
 
