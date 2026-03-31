@@ -175,6 +175,15 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Parser-readable manifest block (LLM / plain-text retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
 /* ===== End-of-chapter sentinel ===== */
 .chapter-sentinel {
     text-align: center; font-size: 0.78rem; color: #b8785a;
@@ -414,6 +423,25 @@ def make_chapter_html(num, paras, all_nums, build_date):
         f'&#8212; End of {chapter_label(num)} &#8212;</div>'
     )
 
+    # Plain-text manifest for LLM / parser retrieval
+    # Follows GPT's spec: literal labels, one per line, in main content flow
+    manifest_lines = [
+        f'[ Chapter Manifest: {BOOK_TITLE} \u00b7 {chapter_label(num)} ]',
+        f'Title: {title}',
+        f'Word Count: {sc_words:,}',
+        f'Paragraph Count: {sc_paras:,}',
+        f'Scene Count: {sc_count}',
+    ]
+    for i, s in enumerate(sc_list, 1):
+        manifest_lines.append(
+            f'Scene {i}: {s["heading"]} '
+            f'-- Word Range: {s["word_start"]:,}\u2013{s["word_end"]:,} '
+            f'| Paragraph Range: {s["para_start"]}\u2013{s["para_end"]}'
+        )
+    manifest_lines.append(f'[ End Manifest ]')
+    manifest_text = '\n'.join(manifest_lines)
+    manifest_block = f'<div class="chapter-manifest">{html.escape(manifest_text)}</div>'
+
     page_title = f"{BOOK_TITLE} \u00b7 {chapter_label(num)} \u00b7 {html.escape(title)}"
 
     return f"""<!DOCTYPE html>
@@ -450,6 +478,7 @@ def make_chapter_html(num, paras, all_nums, build_date):
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
   {stats_bar}
   <div class="chapter-text">
+{manifest_block}
 {body_html}
 {sentinel}
   </div>
