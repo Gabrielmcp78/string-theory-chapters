@@ -178,6 +178,41 @@ footer {
 footer a { color: #aaa; }
 footer a:hover { color: #b8785a; }
 
+
+/* ===== Export buttons ===== */
+.export-bar {
+    display: flex; gap: 0.55rem; margin-bottom: 1.6rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: #f0ede8; border: 1px solid #d4c8bc;
+    color: #5a4a3a; font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s;
+}
+.export-btn:hover { background: #e6e0d8; border-color: #b8785a; color: #b8785a; }
+.export-btn.pdf-btn { background: #b8785a; color: #fff; border-color: #b8785a; }
+.export-btn.pdf-btn:hover { background: #c9896b; }
+.export-label { font-size: 0.75rem; color: #bbb; letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .book-label, .chapter-number { display: none !important; }
+    body { background: #fff !important; max-width: none;
+           padding: 0; margin: 0; font-size: 11pt; color: #000; }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+}
+
 /* ===== Index ===== */
 .chapter-list { list-style: none; }
 .chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }

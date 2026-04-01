@@ -230,6 +230,41 @@ footer {
 footer a { color: #aaa; }
 footer a:hover { color: #b8785a; }
 
+
+/* ===== Export buttons ===== */
+.export-bar {
+    display: flex; gap: 0.55rem; margin-bottom: 1.6rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: #f0ede8; border: 1px solid #d4c8bc;
+    color: #5a4a3a; font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s;
+}
+.export-btn:hover { background: #e6e0d8; border-color: #b8785a; color: #b8785a; }
+.export-btn.pdf-btn { background: #b8785a; color: #fff; border-color: #b8785a; }
+.export-btn.pdf-btn:hover { background: #c9896b; }
+.export-label { font-size: 0.75rem; color: #bbb; letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .book-label, .chapter-number { display: none !important; }
+    body { background: #fff !important; max-width: none;
+           padding: 0; margin: 0; font-size: 11pt; color: #000; }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+}
+
 /* ===== Index ===== */
 .chapter-list { list-style: none; }
 .chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
@@ -538,6 +573,58 @@ def make_manifest_json(chapters_full, build_date):
         'chapters':      chapter_list,
     }, indent=2, ensure_ascii=False)
 
+# -- Export JS (shared by chapter and scene pages) ----------------------------
+# Defined as a module-level constant so Python f-strings don't misinterpret
+# the JavaScript { } braces as format-string substitutions.
+EXPORT_JS = """<script>
+function _exportWord(filename, headingText, subText, contentHTML) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = contentHTML;
+    var hidden = tmp.querySelectorAll('[aria-hidden="true"]');
+    for (var i = hidden.length - 1; i >= 0; i--) { hidden[i].parentNode.removeChild(hidden[i]); }
+    var sentinels = tmp.querySelectorAll('.chapter-sentinel');
+    for (var i = sentinels.length - 1; i >= 0; i--) { sentinels[i].parentNode.removeChild(sentinels[i]); }
+    var cleanContent = tmp.innerHTML;
+
+    var headingDiv   = document.querySelector('.chapter-heading');
+    var subDiv       = document.querySelector('.chapter-subheading');
+    var resolvedHead = headingDiv  ? headingDiv.textContent  : headingText;
+    var resolvedSub  = subDiv      ? subDiv.textContent      : (subText || '');
+
+    var wordHTML = [
+        '<!DOCTYPE html>',
+        '<html xmlns:o="urn:schemas-microsoft-com:office:office"',
+        '      xmlns:w="urn:schemas-microsoft-com:office:word"',
+        '      xmlns="http://www.w3.org/TR/REC-html40">',
+        '<head><meta charset="utf-8"><title>' + resolvedHead + '</title>',
+        '<style>',
+        'body{font-family:Georgia,serif;font-size:12pt;line-height:1.85;margin:1in;color:#111}',
+        '.chapter-heading{font-size:20pt;font-weight:normal;margin-bottom:5pt}',
+        '.chapter-subheading{font-size:10.5pt;font-style:italic;color:#555;margin-bottom:22pt}',
+        'p{margin-bottom:9pt}',
+        '.location{font-size:8.5pt;letter-spacing:1.2pt;text-transform:uppercase;color:#8B5E3C;font-weight:bold;margin:18pt 0 2pt}',
+        '.tempo-1,.tempo-2{font-style:italic;font-size:10pt;color:#666;margin-bottom:9pt}',
+        'h3{font-size:11pt;font-weight:normal;margin:18pt 0 4pt}',
+        '</style></head><body>',
+        '<div class="chapter-heading">' + resolvedHead + '</div>',
+        resolvedSub ? '<div class="chapter-subheading">' + resolvedSub + '</div>' : '',
+        cleanContent,
+        '</body></html>'
+    ].join('\\n');
+
+    var blob = new Blob(['\\uFEFF', wordHTML], {type: 'application/msword'});
+    var url  = URL.createObjectURL(blob);
+    var a    = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1500);
+}
+
+function exportPDF() { window.print(); }
+</script>"""
+
+
 # -- HTML page builders -------------------------------------------------------
 
 def make_scene_html(num, title, subtitle, scene_group, sc_stat,
@@ -561,6 +648,8 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
     # Scene-level stats (derived from chapter cumulative ranges)
     sc_words = sc_stat['word_end'] - sc_stat['word_start'] + 1
     sc_paras = sc_stat['para_end'] - sc_stat['para_start'] + 1
+    sc_export_filename = (f"{BOOK_TITLE} - {chapter_label(num)} - "
+                          f"Scene {sc_n} - {scene_group['heading']}.doc").replace('/', '-')
 
     # Prev / next scene nav (within this chapter)
     prev_link = ''
@@ -638,6 +727,17 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
   <div class="chapter-heading">{html.escape(scene_group["heading"])}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
 
+  <div class="export-bar">
+    <span class="export-label">EXPORT</span>
+    <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+    <button class="export-btn" onclick="_exportWord(
+      '{sc_export_filename}',
+      document.querySelector('.chapter-heading').textContent,
+      document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+      document.querySelector('.chapter-text').innerHTML
+    )">&#8675; Word</button>
+  </div>
+
   {stats_bar}
 
   <div class="chapter-text">
@@ -656,6 +756,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
     &middot; <a href="../index.html">Index</a>
   </span>
 </footer>
+{EXPORT_JS}
 </body>
 </html>"""
 
@@ -683,6 +784,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
     edit_url = f"{PAGES_URL}/edits/{slug}.json"
     api_url  = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
     txt_url  = f"{PAGES_URL}/chapters/{slug}.txt"
+    ch_export_filename = f"{BOOK_TITLE} - {chapter_label(num)} - {title}.doc".replace('/', '-')
 
     sc_list  = stats['scenes']
     sc_count = len(sc_list)
@@ -776,6 +878,16 @@ def make_chapter_html(num, paras, all_nums, build_date,
   <div class="chapter-number">{chapter_label(num)}</div>
   <div class="chapter-heading">{html.escape(title)}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
+  <div class="export-bar">
+    <span class="export-label">EXPORT</span>
+    <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+    <button class="export-btn" onclick="_exportWord(
+      '{ch_export_filename}',
+      document.querySelector('.chapter-heading').textContent,
+      document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+      document.querySelector('.chapter-text').innerHTML
+    )">&#8675; Word</button>
+  </div>
   {stats_bar}
   <div class="chapter-text">
 {manifest_block}
@@ -796,6 +908,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
   <span>{BOOK_TITLE} &mdash; {AUTHOR}</span>
   <span>Built {build_date} &middot; <a href="../index.html">Index</a></span>
 </footer>
+{EXPORT_JS}
 </body>
 </html>"""
 
