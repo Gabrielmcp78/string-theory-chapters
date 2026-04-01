@@ -26,8 +26,9 @@ REPO        = "Gabrielmcp78/string-theory-chapters"
 PAGES_URL   = "https://gabrielmcp78.github.io/string-theory-chapters"
 BOOK_TITLE  = "String Theory"
 AUTHOR      = "Gabriel McPherson"
+COVER_IMAGE = OUT_DIR / "cover.jpg"   # JPEG cover — embedded in EPUB
 
-CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue)\s*\|\s*$', re.IGNORECASE)
+CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue|Dedication|Author|Author\'s Note|Author Note|Afterword|Coda)\s*\|\s*$', re.IGNORECASE)
 
 STYLE_CLASS = {
     'Body':            'body',
@@ -296,18 +297,37 @@ footer a:hover { color: #b8785a; }
 """
 
 # -- Helpers ------------------------------------------------------------------
+# Special section numbers: negative ints to keep them sortable/distinct from chapters
+# -1=Dedication  -2=Author's Note  -3=Afterword  -4=Coda
+SPECIAL_SLUG  = {0:'overture', -1:'dedication', -2:'authors-note', -3:'afterword', -4:'coda'}
+SPECIAL_LABEL = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda'}
+SPECIAL_NAV   = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda'}
+
+SPECIAL_WORD_MAP = {
+    'overture': 0, 'prologue': 0,
+    'dedication': -1,
+    "author's note": -2, 'authors note': -2, 'author note': -2, 'author': -2,
+    'afterword': -3, 'coda': -4,
+}
+
+def _raw_to_num(raw):
+    """Convert chapter marker string to sortable int. Digits→int, words→negative."""
+    if raw.strip().lstrip('-').isdigit():
+        return int(raw)
+    return SPECIAL_WORD_MAP.get(raw.lower().strip(), -99)
+
 def slugify(n):
-    return "overture" if n == 0 else f"chapter-{int(n):02d}"
+    return SPECIAL_SLUG.get(n, f"chapter-{int(n):02d}")
 
 def scene_slug(num, scene_n):
     """URL slug for an individual scene page, e.g., chapter-01-scene-01"""
     return f"{slugify(num)}-scene-{scene_n:02d}"
 
 def chapter_label(n):
-    return "Overture" if n == 0 else f"Chapter {n}"
+    return SPECIAL_LABEL.get(n, f"Chapter {n}")
 
 def chapter_nav_label(n):
-    return "Overture" if n == 0 else f"Ch {n}"
+    return SPECIAL_NAV.get(n, f"Ch {n}")
 
 # -- DOCX paragraph -> HTML ---------------------------------------------------
 def runs_to_html(para):
@@ -372,7 +392,7 @@ def parse_chapters(src_path):
         m = CHAPTER_RE.match(p.text.strip())
         if m:
             raw = m.group(1)
-            num = 0 if raw.lower() in ('overture', 'prologue') else int(raw)
+            num = _raw_to_num(raw)
             markers.append((i, num))
     chapters = []
     for j, (start_idx, num) in enumerate(markers):
@@ -1090,6 +1110,12 @@ def make_epub(chapters_data, out_path):
     info = zipfile.ZipInfo('mimetype')
     info.compress_type = zipfile.ZIP_STORED
     epub.writestr(info, 'application/epub+zip')
+
+    # Embed cover image if present
+    has_cover = COVER_IMAGE.exists()
+    if has_cover:
+        epub.write(str(COVER_IMAGE), 'OEBPS/Images/cover.jpg')
+
     epub.writestr('META-INF/container.xml', (
         '<?xml version="1.0"?>\n'
         '<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">\n'
@@ -1101,6 +1127,30 @@ def make_epub(chapters_data, out_path):
     epub.writestr('OEBPS/styles/main.css', EPUB_CSS)
 
     manifest_items, spine_items, nav_points = [], [], []
+
+    # Cover page
+    if has_cover:
+        cover_xhtml = (
+            '<?xml version="1.0" encoding="utf-8"?>\n'
+            '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"'
+            ' "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">\n'
+            '<html xmlns="http://www.w3.org/1999/xhtml">\n'
+            '<head><title>Cover</title>\n'
+            '<style>body{margin:0;padding:0;text-align:center}'
+            'img{max-width:100%;max-height:100vh}</style>\n'
+            '</head>\n<body>\n'
+            '<div><img src="../Images/cover.jpg" alt="Cover" /></div>\n'
+            '</body>\n</html>'
+        )
+        epub.writestr('OEBPS/Text/cover.xhtml', cover_xhtml)
+        manifest_items.append(
+            '    <item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg"'
+            ' properties="cover-image"/>')
+        manifest_items.append(
+            '    <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>')
+        spine_items.append('    <itemref idref="cover" linear="yes"/>')
+        nav_points.append(('cover', 'Cover', 'Text/cover.xhtml'))
+
     for num, title, subtitle, body_html in chapters_data:
         slug     = slugify(num)
         label    = chapter_label(num)
@@ -1140,7 +1190,8 @@ def make_epub(chapters_data, out_path):
         '    <dc:language>en</dc:language>\n'
         '    <dc:identifier id="bookid">urn:uuid:string-theory-gabriel-mcpherson</dc:identifier>\n'
         f'    <dc:date>{date_str}</dc:date>\n'
-        '  </metadata>\n'
+        + ('    <meta name="cover" content="cover-image"/>\n' if has_cover else '')
+        + '  </metadata>\n'
         '  <manifest>\n'
         '    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>\n'
         '    <item id="css" href="styles/main.css" media-type="text/css"/>\n'
