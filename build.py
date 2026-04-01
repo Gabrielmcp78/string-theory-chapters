@@ -596,7 +596,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
         f'[ End Scene Manifest ]',
     ]
     manifest_block = (
-        f'<div class="chapter-manifest">'
+        f'<div class="chapter-manifest" aria-hidden="true" role="presentation">'
         f'{html.escape(chr(10).join(manifest_lines))}</div>'
     )
 
@@ -695,7 +695,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
         sc_page  = f"{scene_slug(num, s['n'])}.html"
         w_range  = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
         p_range  = f'\u00b6{s["para_start"]}\u2013{s["para_end"]}'
-        rng_span = f'<span class="scene-range">{w_range}\u00a0\u00b7\u00a0{p_range}</span>'
+        rng_span = f'<span class="scene-range" aria-hidden="true">{w_range}\u00a0\u00b7\u00a0{p_range}</span>'
         scene_entries += (
             f'    <div class="scene-entry">'
             f'<a href="{sc_page}">{html.escape(s["heading"])}</a>'
@@ -732,7 +732,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
         )
     manifest_lines.append('[ End Manifest ]')
     manifest_block = (
-        f'<div class="chapter-manifest">{html.escape(chr(10).join(manifest_lines))}</div>'
+        f'<div class="chapter-manifest" aria-hidden="true" role="presentation">{html.escape(chr(10).join(manifest_lines))}</div>'
     )
 
     sentinel = (
