@@ -195,13 +195,33 @@ h3.subchapter {
     text-transform: uppercase;
 }
 
-/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
-.chapter-manifest {
+/* ===== Parser manifest (collapsed <details> for LLM retrieval) ===== */
+/* Invisible to casual readers; always in DOM for scrapers and AI parsers  */
+details.chapter-manifest {
+    border-left: 2px solid #d4c8bc;
+    background: #f7f5f2; border-radius: 0 4px 4px 0;
+    padding: 0.3rem 1rem; margin-bottom: 2rem;
+}
+details.chapter-manifest summary {
+    cursor: pointer; list-style: none;
+    font-size: 0.7rem; color: #b8785a; letter-spacing: 0.1em;
+    text-transform: uppercase; padding: 0.2rem 0;
+    user-select: none;
+}
+details.chapter-manifest summary::-webkit-details-marker { display: none; }
+details.chapter-manifest summary::before {
+    content: '\25B6\00A0'; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] summary::before {
+    content: '\25BC\00A0'; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] {
+    padding: 0.3rem 1rem 0.9rem;
+}
+details.chapter-manifest pre {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 0.76rem; color: #999; line-height: 1.75;
-    background: #f7f5f2; border-left: 2px solid #d4c8bc;
-    padding: 0.8rem 1rem; margin-bottom: 2rem;
-    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+    font-size: 0.74rem; color: #999; line-height: 1.75;
+    white-space: pre-wrap; margin-top: 0.5rem;
 }
 
 /* ===== End-of-chapter sentinel ===== */
@@ -685,8 +705,10 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
         f'[ End Scene Manifest ]',
     ]
     manifest_block = (
-        f'<div class="chapter-manifest" aria-hidden="true" role="presentation">'
-        f'{html.escape(chr(10).join(manifest_lines))}</div>'
+        f'<details class="chapter-manifest" aria-hidden="true">'
+        f'<summary>Chapter Manifest &mdash; AI / Parser Data</summary>'
+        f'<pre>{html.escape(chr(10).join(manifest_lines))}</pre>'
+        f'</details>'
     )
 
     sentinel = (
@@ -834,7 +856,10 @@ def make_chapter_html(num, paras, all_nums, build_date,
         )
     manifest_lines.append('[ End Manifest ]')
     manifest_block = (
-        f'<div class="chapter-manifest" aria-hidden="true" role="presentation">{html.escape(chr(10).join(manifest_lines))}</div>'
+        f'<details class="chapter-manifest" aria-hidden="true">'
+        f'<summary>Chapter Manifest &mdash; AI / Parser Data</summary>'
+        f'<pre>{html.escape(chr(10).join(manifest_lines))}</pre>'
+        f'</details>'
     )
 
     sentinel = (
