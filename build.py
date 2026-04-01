@@ -242,9 +242,25 @@ details.chapter-manifest pre {
 .edit-bar a:hover { color: #b8785a; text-decoration: underline; }
 .edit-bar code { font-size: 0.74rem; color: #ccc; }
 
+/* ===== Bottom chapter navigation ===== */
+.bottom-nav {
+    background: #2b3540;
+    padding: 1.1rem 1.5rem;
+    margin-top: 3.5rem;
+    border-top: 2px solid #b8785a;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.5rem;
+}
+.bottom-nav a {
+    color: #9baab8; text-decoration: none;
+    font-size: 0.9rem; letter-spacing: 0.02em;
+}
+.bottom-nav a:hover { color: #d4a882; }
+.bottom-nav .all-chapters { color: #b8785a; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+
 /* ===== Footer ===== */
 footer {
-    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    margin-top: 0; padding: 1.2rem 1.5rem 0;
     border-top: 1px solid #ddd;
     font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
 }
@@ -947,6 +963,11 @@ def make_chapter_html(num, paras, all_nums, build_date,
     Plain text: <a href="{txt_url}">{txt_url}</a>
   </div>
   </div>
+<div class="bottom-nav">
+  {prev_link}
+  <a href="../index.html" class="all-chapters">&#9776;&nbsp;All Chapters</a>
+  {next_link}
+</div>
 </article>
 
 <footer>
