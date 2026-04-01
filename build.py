@@ -816,6 +816,9 @@ def make_index_html(chapters_meta, build_date):
     has_overture = any(n == 0 for n, _, _, _ in chapters_meta)
     chapter_desc = f"{num_chapters} chapters" + (" + Overture" if has_overture else "")
 
+    epub_filename = f"{BOOK_TITLE}.epub"
+    epub_url      = f"{PAGES_URL}/{epub_filename.replace(' ', '%20')}"
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -824,7 +827,25 @@ def make_index_html(chapters_meta, build_date):
 <title>{BOOK_TITLE} &mdash; Chapter Index</title>
 <meta name="llm-interface" content="{PAGES_URL}/llm-interface.html">
 <meta name="manifest" content="{PAGES_URL}/manifest.json">
-<style>{CSS}</style>
+<style>{CSS}
+.epub-banner {{
+    background: #2b3540; border-top: 1px solid #3d4f5f;
+    padding: 0.9rem 1.5rem; margin-bottom: 0.5rem;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 0.5rem;
+}}
+.epub-banner p {{
+    font-size: 0.84rem; color: #9baab8; margin: 0;
+}}
+.epub-download {{
+    display: inline-block;
+    background: #b8785a; color: #fff;
+    text-decoration: none; font-size: 0.84rem;
+    padding: 0.4rem 1.1rem; border-radius: 4px;
+    letter-spacing: 0.04em; white-space: nowrap;
+}}
+.epub-download:hover {{ background: #c9896b; color: #fff; }}
+</style>
 </head>
 <body>
 <header>
@@ -835,6 +856,10 @@ def make_index_html(chapters_meta, build_date):
     <a href="manifest.json" style="color:#b8785a">manifest.json</a>
   </p>
 </header>
+<div class="epub-banner">
+  <p>Download the full manuscript for any e-reader &mdash; Apple Books, Kobo, or any EPUB-compatible app.</p>
+  <a class="epub-download" href="{epub_url}" download="{html.escape(epub_filename)}">&#8595; Download EPUB</a>
+</div>
 <ul class="chapter-list">
 {rows}</ul>
 <footer>
