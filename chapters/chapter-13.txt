@@ -11,13 +11,13 @@ Word Count:      5,672
 Paragraph Count: 283
 Scene Count:     7
 
-Scene 1: I.  THE NETWORK 				             	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20
-Scene 2: II.  THE CALL  --  Words 461–1,420  |  Paragraphs 21–65
-Scene 3: III.  THE DISCOVERY  --  Words 1,421–2,142  |  Paragraphs 66–97
-Scene 4: IV.  Around The Horn  --  Words 2,143–3,678  |  Paragraphs 98–178
-Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,679–4,426  |  Paragraphs 179–221
-Scene 6: VI.  TEMPORALity  --  Words 4,427–4,808  |  Paragraphs 222–244
-Scene 7: VII.  CANTUS  --  Words 4,809–5,672  |  Paragraphs 245–283
+Scene 1: I.  THE NETWORK 				             	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
+Scene 2: II.  THE CALL  --  Words 461–1,420  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: III.  THE DISCOVERY  --  Words 1,421–2,142  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: IV.  Around The Horn  --  Words 2,143–3,678  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,679–4,426  |  Paragraphs 179–221  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: VI.  TEMPORALity  --  Words 4,427–4,808  |  Paragraphs 222–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: VII.  CANTUS  --  Words 4,809–5,672  |  Paragraphs 245–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

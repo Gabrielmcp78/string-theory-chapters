@@ -11,18 +11,18 @@ Word Count:      5,633
 Paragraph Count: 388
 Scene Count:     12
 
-Scene 1: I.  Resonance  --  Words 4–386  |  Paragraphs 3–30
-Scene 2: II.  Wander and Wonder  --  Words 387–758  |  Paragraphs 31–64
-Scene 3: III.  Inside  --  Words 759–1,085  |  Paragraphs 65–95
-Scene 4: IV.  Discovery  --  Words 1,086–1,481  |  Paragraphs 96–119
-Scene 5: V.  Reason  --  Words 1,482–2,036  |  Paragraphs 120–158
-Scene 6: VI.  Completion  --  Words 2,037–2,813  |  Paragraphs 159–222
-Scene 7: VII.  For All  --  Words 2,814–3,581  |  Paragraphs 223–264
-Scene 8: I. Equations as Constraints on Possibility  --  Words 3,582–3,719  |  Paragraphs 265–272
-Scene 9: II. Structural Pattern Versus Coincidence  --  Words 3,720–3,815  |  Paragraphs 273–278
-Scene 10: III. Speculative Extensions and Explicit Modeling  --  Words 3,816–3,889  |  Paragraphs 279–282
-Scene 11: IV. Formalism and Meaning  --  Words 3,890–3,963  |  Paragraphs 283–286
-Scene 12: V. On Error, Caution, and the Cost of Premature Labels  --  Words 3,964–5,633  |  Paragraphs 287–388
+Scene 1: I.  Resonance  --  Words 4–386  |  Paragraphs 3–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html
+Scene 2: II.  Wander and Wonder  --  Words 387–758  |  Paragraphs 31–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
+Scene 3: III.  Inside  --  Words 759–1,085  |  Paragraphs 65–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
+Scene 4: IV.  Discovery  --  Words 1,086–1,481  |  Paragraphs 96–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-04.html
+Scene 5: V.  Reason  --  Words 1,482–2,036  |  Paragraphs 120–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-05.html
+Scene 6: VI.  Completion  --  Words 2,037–2,813  |  Paragraphs 159–222  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-06.html
+Scene 7: VII.  For All  --  Words 2,814–3,581  |  Paragraphs 223–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-07.html
+Scene 8: I. Equations as Constraints on Possibility  --  Words 3,582–3,719  |  Paragraphs 265–272  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-08.html
+Scene 9: II. Structural Pattern Versus Coincidence  --  Words 3,720–3,815  |  Paragraphs 273–278  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-09.html
+Scene 10: III. Speculative Extensions and Explicit Modeling  --  Words 3,816–3,889  |  Paragraphs 279–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-10.html
+Scene 11: IV. Formalism and Meaning  --  Words 3,890–3,963  |  Paragraphs 283–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-11.html
+Scene 12: V. On Error, Caution, and the Cost of Premature Labels  --  Words 3,964–5,633  |  Paragraphs 287–388  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

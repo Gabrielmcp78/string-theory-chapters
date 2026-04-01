@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 13 · Scene 4: IV.  Around The Horn</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="13">
+<meta name="scene" content="4">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="1536">
+<meta name="paragraph-count" content="81">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-13.html">Chapter 13: Phenom de Guare</a>
+    <a href="chapter-13-scene-03.html">← Scene 3</a>
+    <a href="chapter-13-scene-05.html">Scene 5 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 13 &middot; Scene 4 of 7</div>
+  <div class="chapter-heading">IV.  Around The Horn</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,536</strong>&thinsp;words&ensp;<strong>81</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>4</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 13 · Scene 4 of 7 ]
+Chapter Title:   Phenom de Guare
+Scene Heading:   IV.  Around The Horn
+Scene:           4 of 7
+Word Count:      1,536
+Paragraph Count: 81
+Chapter Words:   2,143–3,678 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">IV.  Around The Horn</div>
+<div class="tempo-1">Geneva, CERN Control Room   |   5:48 P.M. CET</div>
+<p class="body">The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.</p>
+<p class="body">And yet ATLAS wouldn’t stop talking.</p>
+<p class="body">Lines of data poured into Dr. Mira Kovács’s terminal, a steady stream of readouts as though the collider were still smashing protons. Her colleagues had long since staggered home—or were stuck in traffic on Geneva’s crippled grid—but Kovács stayed, pacing the empty control room, eyes locked on the impossible flow of numbers.</p>
+<p class="body">“Residual noise,” she muttered in Hungarian. “Ghost currents.” Even as she said it, the excuse dissolved. The “noise” wasn’t random.</p>
+<p class="body">Her intern, Meyer, hovered at a safe distance until the symmetry became undeniable. “Doctor… I ran a Fourier transform. Just to be sure, and… this is harmonic, Doctor.”</p>
+<p class="body">On his screen, the jagged scatter smoothed into a crystalline lattice of harmonics. The frequencies were stacked, not like the hiss of static, but like notes in a chord.</p>
+<p class="body">“It’s… singing,” he whispered.</p>
+<p class="body">Kovács froze. “It’s harmonizing…” The lattice folded in on itself, bloomed into nested tori, then stretched into a sprawling 196,884-point constellation of symmetry. For a beat she didn’t understand. Then her stomach turned.</p>
+<p class="body">The Monster group. The monstrous symmetry that had haunted her graduate years—the absurd bridge between modular forms and string theory. And here it was—staring back at her from the very core of her famed collider.</p>
+<p class="body">“This isn’t decay,” she murmured. “These are instructions.”</p>
+<p class="body">Meyer looked at her, pale. &quot;Instructions?&quot;</p>
+<p class="body">But she was already moving, hands trembling as she keyed the secure line. &quot;This is Dr. Mira Kovács, CERN. Priority one. Connect me to UCLA. Dr. Marcus McGrath.&quot;</p>
+<p class="body">Static hissed across the relay, the emergency network struggling against broken satellites. She waited, heartbeat drumming.</p>
+<p class="body">While the line clicked, the screens shifted again.</p>
+<p class="body">Event displays from the silent collider stitched themselves into images—curves and nodes aligning with staves of notation. Data wasn&#x27;t just plotting; it was drawing. The detectors were trying to notate something.</p>
+<p class="body">The relay cracked open, a tinny operator&#x27;s voice confirming: &quot;Dr. McGrath, patching through.&quot;</p>
+<p class="body">Kovács didn&#x27;t look away from the impossible constellation unfolding across her wall of monitors. Modular forms shimmering into scales, lattices resonating with harmonic ratios no experiment should ever produce.</p>
+<p class="body">When McGrath&#x27;s line went live, her voice was tight, almost breaking, but she forced the words out:</p>
+<p class="body">&quot;Dr. McGrath, this is Kovács at CERN.&quot;</p>
+<p class="body">&quot;Dr. Kovács. Hold on, I&#x27;m patching you in.&quot; Marcus signaled to his assistant to complete the patch. Within seconds he had the okay to continue. &quot;Dr. Kovács, you are on with Dr. Rune Ishikawa and Celeste Armitage at Cornell.&quot;</p>
+<p class="body">&quot;Mira, it&#x27;s Rune. How are you, my friend?&quot;</p>
+<p class="body">&quot;Rune, my dear. Wonderful to hear your voice, but under such incredible circumstances. Tell me what is going on.&quot;</p>
+<p class="body">Marcus jumped in to focus the endeavor. &quot;Dr. Kovács, we believe Cornell is the epicenter of this event. More specifically, the work of Professor…&quot;</p>
+<p class="body">And as the name left his lips, Dr. Kovács said it simultaneously: &quot;David Lang.&quot;</p>
+<p class="body">&quot;I should have known,&quot; Kovács whispered. &quot;Lang has been on my call sheet for weeks. I must have 47 requests for cycle reservation on CERN and ATLAS. I didn&#x27;t return his calls after the first 10 or so—just ranting voicemails about…&quot; as the reality rushed over her, &quot;Oh God… about ALL OF THIS.&quot;</p>
+<p class="body">&quot;Yes, Mira, we are all realizing the same thing. Tell us what you have there,&quot; Marcus encouraged.</p>
+<p class="body">“We&#x27;re seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I&#x27;m looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don&#x27;t care what anyone says—this isn&#x27;t noise.”Ishikawa studied the final chalkboard, where David&#x27;s work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:Ψ₍consciousness₎ = ∫ Dφ exp(i S[φ,g,ψ]) |boundary⟩“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”</p>
+<p class="body">He looked to Celeste, but she wasn&#x27;t looking at him. She was already moving.</p>
+<p class="body">Celeste stepped into the center of the room with a focused, surgical intensity that silenced Rune. She’d been away from the boards like this for twenty years—but as she grabbed a piece of chalk, the last two decades seemed to evaporate. She moved with a practiced economy that even Rune couldn&#x27;t match.</p>
+<p class="body">“The unified field?” Celeste scoffed, her hand a blur as she circled a specific operator on the board. “No. That was just David’s vanity. He wanted to feel like he and Einstein were having a fireside chat. This isn&#x27;t a Grand Theory, guys. It’s a map.”</p>
+<p class="body">Rune leaned in, peering over his spectacles as Celeste began scribbling a complex lineage of functions. </p>
+<p class="body">“This... this variable here, Celeste. Do you see the recursion?” Rune asked.</p>
+<p class="body">“I see it, Rune,” she snapped, not unkindly, but with the authority of someone who had already solved the puzzle while they were still reading the instructions. “If you follow the derivation through the Calabi-Yau manifold…”</p>
+<p class="body">Rune’s eyes widened. He watched her hand move, the realization beginning now to press in. He stepped back, his shoulders dropping. </p>
+<p class="body">“Rune?” Celeste asked, pausing mid-stroke. “You still with me?”</p>
+<p class="body">Rune gave a soft, breathless laugh. “I always told David you were the only real scientist in that house, Celeste. I just forgot how terrifying you are when you’re correct.”</p>
+<p class="body">“Earth to the nerds in Lang-land!” Marcus’s voice sparked from the speakerphone in LA. “I’m hearing static and chalk dust. Listen I was just thinking, we might be looking at a modified field equation.&quot; </p>
+<p class="body">“My goodness,” Celeste mocked, “you two are really quick on the pickup, aren&#x27;t you?”</p>
+<p class="body">Rune looked at Celeste, then at the board. “Go on, Dr. Armitage. Tell the Hollywood celebrity what you’ve found.”</p>
+<p class="body">“Well, okay…” she began. “In music, sound design really, we’d call this setup—combined with the resonance Mira is seeing at CERN—a phase shift. Plain and simple really. He didn&#x27;t solve for gravity for god sake. He treated his own consciousness as a frequency.”</p>
+<p class="body">Rune jumped in, unable to contain his excitement. “Exactly! If I may build on what Dr. Armitage has uncovered... David hasn&#x27;t just disappeared. He has octavated. He’s moved to the same note, just a higher register of reality.”</p>
+<p class="body">“Kovács here,” Mira’s voice jumped back in, frantic. “I’m pulling up David’s last ten voicemails. If he’s octavated, then these rants aren&#x27;t gibberish—they&#x27;re coordinates!”</p>
+<p class="body">McGrath grimaced. “I think all of you sound quantifiably insane! And I’m inclined to agree with every word of it. Hold on.” Marcus clanked back at his techs for confirmation. “Yes… okay, we’re pulling everyone back on the line.”</p>
+<p class="body">New voices collided over the emergency channel:</p>
+<p class="body">‘Chicago, Fermilab—neutrino detectors are singing. Harmonic flux ratios. Impossible.’</p>
+<p class="body">‘Boston, MIT—our quantum AIs are rewriting themselves in recursive cycles. It’s composing code.’</p>
+<p class="body">‘Pasadena, JPL—Deep Space Network is echoing resonance from the heliopause. The sun is ringing like a bell.’</p>
+<p class="body">‘Geneva, CERN—lattice signatures match your modular forms exactly. Fifteen decimal places, Dr. McGrath. The harmonics are off the chart by a factor of—Jesus. Check this again!’</p>
+<p class="body">The channel dissolved into chaos.</p>
+<p class="body">‘Glitch!’</p>
+<p class="body">‘Artifact!’</p>
+<p class="body">‘Noise.’</p>
+<p class="body">‘Bug.’</p>
+<p class="body">‘Coincidence!’</p>
+<p class="body">‘Firmware!’</p>
+<p class="body">‘Delusional!’</p>
+<p class="body">‘Madness!’</p>
+<p class="body">‘Magical!’</p>
+<p class="body">‘Fraud!’</p>
+<p class="body">‘Hoax!’</p>
+<p class="body">‘Dream!’ </p>
+<p class="body">Single words flung like stones, brilliant minds reduced to blunt syllables, defending themselves with the vocabulary of the old world.</p>
+<p class="body">“We don’t have a framework for this!” Kovács cut through, accent thick with exhaustion. “None of our models work. None of our language fits!”</p>
+<p class="body">“Exactly!” Someone from MIT. “We need different vocabulary. Different…”</p>
+<p class="body">“We need a different language,” Rune said, barely above a breath.</p>
+<p class="body">Then Celeste: “Enough. All of you.” And the miraculous superpower of Celeste Armitage… Held. She had barely spoken in the speaker phone loud enough for Rune to hear her less ten feet away. But instantly, the line went still. The storm broke.</p>
+<p class="body">“It’s music,” she said. Plainly.</p>
+<p class="body">Silence still, across five continents. Her voice trembled, but each word struck with the clarity of a tuning fork:</p>
+<p class="body">“You’re all so desperate to label what you don’t understand that you’ve missed what’s right in front of you. This began with a cello—a man and a bow and a string. And now every detector, every satellite, every equation is showing the same thing: the universe has been tuned. It isn’t broken. It’s singing. David taught reality how to sing.”</p>
+<p class="body">Nothing. Processing…</p>
+<p class="body">At Fermilab, a physicist stared at neutrino flux resolving into scales.</p>
+<p class="body">At CERN, Kovács watched coefficients fold into harmonic lattices.</p>
+<p class="body">At JPL, an engineer muted his mic and listened to the heliosphere echo back a chord.</p>
+<p class="body">At MIT, their AI printed one word over and over: CANTUS.</p>
+<p class="body">Even McGrath, who lived to command, could only whisper into the silence:</p>
+<p class="body">“…Music.”</p>
+<p class="body">Rune’s hand shook on the desk, palm pressed against the glowing chalk. His voice came out raw, half prayer, half confession:</p>
+<p class="body">“My God… she’s right.”</p>
+<p class="body">And for the first time since the flares struck Earth, the world’s greatest minds fell quiet—because they finally understood what they were hearing.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-13.html">Chapter 13</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

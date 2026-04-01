@@ -12,11 +12,11 @@ Word Count:      5,777
 Paragraph Count: 223
 Scene Count:     5
 
-Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–545  |  Paragraphs 2–23
-Scene 2: II.  Andante: the salon  |  Émilie du Châtelet  --  Words 546–1,366  |  Paragraphs 24–52
-Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,367–3,044  |  Paragraphs 53–133
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,045–4,420  |  Paragraphs 134–184
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,421–5,777  |  Paragraphs 185–223
+Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–545  |  Paragraphs 2–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: II.  Andante: the salon  |  Émilie du Châtelet  --  Words 546–1,366  |  Paragraphs 24–52  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,367–3,044  |  Paragraphs 53–133  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,045–4,420  |  Paragraphs 134–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,421–5,777  |  Paragraphs 185–223  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

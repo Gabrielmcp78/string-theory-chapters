@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 15 · Scene 2: II.  The exhilaration of a walk downhill</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="15">
+<meta name="scene" content="2">
+<meta name="scene-count" content="2">
+<meta name="word-count" content="2564">
+<meta name="paragraph-count" content="84">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-15.html">Chapter 15: The Pivotal Encounter</a>
+    <a href="chapter-15-scene-01.html">← Scene 1</a>
+    
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 15 &middot; Scene 2 of 2</div>
+  <div class="chapter-heading">II.  The exhilaration of a walk downhill</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>2,564</strong>&thinsp;words&ensp;<strong>84</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>2</strong>&thinsp;of&thinsp;<strong>2</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 15 · Scene 2 of 2 ]
+Chapter Title:   The Pivotal Encounter
+Scene Heading:   II.  The exhilaration of a walk downhill
+Scene:           2 of 2
+Word Count:      2,564
+Paragraph Count: 84
+Chapter Words:   599–3,162 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">II.  The exhilaration of a walk downhill</div>
+<div class="tempo-1">Senza tempo (ma andante)</div>
+<p class="body">A sigh, a nod, and he began to walk. Below him the paths curved downward through the campus like pale veins through green flesh. Lamps still burned along the walkways, their light faint now against the strengthening sky. He stepped from the dew-glittered grass and onto the path towards his descent, moving without hurry, without destination. The slow incline drawing him through the familiar geometry of buildings and trees that seemed at once intimately known and strangely provisional, as though constructed only hours before for his use alone.</p>
+<p class="body">Lower East Hill emerged ahead in brick and shadow. Windows reflected the growing light but showed no interior life. A maintenance cart sat idle near the curb, its metal frame silvered by dew. The silence was not oppressive; it was simply complete.</p>
+<p class="body">He crossed the narrow bridge over the drainage creek, where the faint trickle of water moved with quiet indifference to human arrangements, and continued down toward the lower edge of campus. The sky brightened steadily behind him, washing the buildings in diluted gold, and by the time he passed through the gate and onto the street beyond, morning had fully declared itself.</p>
+<p class="body">He did not look back at the bench. He didn’t need to. The two of them had somehow reached an agreement of sorts and his mind was gracefully content with the ease that agreement planted in him.</p>
+<p class="body">Hunger too had settled in his belly. He had almost forgotten the sensation but as the corner store came into view, the dialect of hunger, nourishment and need all seemed to reconfigure—re-conjugate themselves into his vocabulary.</p>
+<p class="body">By the time he reached the corner store, the day had folded itself into afternoon and was preparing its descent into dusk. The journey from Arts Quad to corner store was only six to eight minutes usually, but the sky, the birds, the late afternoon breeze off the lake to the north and canyons flanking, they all suggested the passing of perhaps six or even eight hours. The sky had taken on that burnished tint which precedes darkness, as though the sun, reluctant to depart, had dragged copper filings across the clouds.</p>
+<p class="body">The neon in the store window flickered with its habitual hesitation.</p>
+<p class="body">Inside, the air held the mingled scents of citrus, detergent, and old cardboard. Hamid stood behind the counter, lowering the metal grating that shielded the cigarette rack for the night.</p>
+<p class="body">He glanced up as the doorbell chimed. “David… you look,” he said, squinting slightly as if adjusting focus, “as though you’ve been somewhere unintentional.”</p>
+<p class="body">David considered. “I may have been, Hamid. Not sure. How are you my friend?”</p>
+<p class="body">Hamid leaned his forearms on the counter. “Don’t change the subject. I’m still on your trip. Was it expensive?”</p>
+<p class="body">“Hard to say. But… it feels like it may have cost something, yes.”</p>
+<p class="body">A faint smile tugged at the corner of Hamid’s mouth. “Everything worth doing costs us, eh?”</p>
+<p class="body">David smiled slyly and nodded as he drifted toward the produce crate, lifted a clementine, tested its weight in his palm, its skin firm and faintly cool. He reached without looking toward the stack of newspapers by the door, slid one free—The New York Times and tucked it beneath his arm, the masthead facing inward, unseen.</p>
+<p class="body">As he approached the counter, Hamid noticed the paper and lack of pother staples in David’s highly patterned purchasing habits. “No ramen, no donuts… but a copy of The New York Times. What have you done with David Lang?”</p>
+<p class="body">“Well, citrus is good for me. And… I figure I might have some catching up to do, so…”</p>
+<p class="body">“What, no news where you came from?” Hamid teased.</p>
+<p class="body">“Not that I can recall. Any news worth noting?” David asked.</p>
+<p class="body">Hamid shrugged him off, “Man, when you remember where you went, will yah let me know. I’m beginning to like the sound of it.”</p>
+<p class="body">“Will do Hamid. Have a good night.”</p>
+<p class="body">“And you, David.”</p>
+<p class="body">The register drawer snapped shut with a small metallic certainty.</p>
+<p class="body">Outside, dusk had deepened. Streetlights blinked awake one by one.</p>
+<p class="body">David stepped onto the sidewalk and began tossing the clementine lightly into the air, catching it with the casual precision of someone needing his hands occupied.</p>
+<p class="body">Up.</p>
+<p class="body">Catch.</p>
+<p class="body">Up again, the small orange sphere turning once against the fading light.</p>
+<p class="body">Halfway across the street, as he moved toward his building at the corner, the world loosened.</p>
+<p class="body">Sound withdrew first. Engines muted. Footsteps dissolved. The electric hum thinned into absence.</p>
+<p class="body">The clementine rose from his hand and did not descend. It hung suspended in the air above him, as though the principle of falling had been temporarily rescinded.</p>
+<p class="body">The street lay empty. No cars. No pedestrians. Windows dark.</p>
+<p class="body">Deja Vu was on his lips and his mind as he took in the altered scene.</p>
+<p class="body">Then, near the entrance to his building—just beyond the threshold a figure stood.</p>
+<p class="body">He was neither approaching, nor retreating but merely present, as if they had always been assigned to that exact measure of pavement and had been waiting for him to notice.</p>
+<p class="body">A scrap of flyer or some other such scrap of paper tumbled across the asphalt near his feet the same pale rectangle, creased and restless, circling in the unmoving air.</p>
+<p class="body">Then—the return. Sound crashed back into place. Tires hissed against pavement. A door slammed somewhere behind him. </p>
+<p class="body">But the clementine failed to drop cleanly into his palm. David looked up, then to his feet. Nowhere. He took a step to move toward the safety of the curb when there, rolling towards him tentatively from the corner of his building, was a clementine. It slowed as it approached and came to rest at the toe of his shoe.</p>
+<p class="body">He leaned to pick it up and as he did, unnoticed by David, the figure that had been standing by his building, sauntered past him and off into the dying light of the city beyond. Davi straightened, clementine in hand to notice the figures absence from the entry, and moved with intention to close the gap. As he approached the out door, he realized his keys location might prove a challenge to discover. He scrambled into the right pocket, then, shifting the paper and orange, moved to the left pocket. And with his head and thoughts still squarely with his rummaging hands he heard it and stopped. “Click.” The lock released and the front door to the building leaked open by just an inch or so. David lifted his right foot and gently nudged at the lower frame. It yawned open, and he moved into the lobby.</p>
+<p class="body">Besides the obvious spook of the door, he was grateful for the assistance and so let the next moment slide as well as, with the same timing and gentility as the first remarkable unlocking, his apartment door all frost-green and glassily, clicked at the lock and eased open for him. </p>
+<p class="body">As he stepped across the threshold, he felt a slight tickle under his arms. Without looking or even really thinking how, his left foot reached back behind him and toe kicked the door to closing.</p>
+<p class="body"> The noise of the door connecting with it threshold served as a strange alternative declaratory, insisting that David stop to realize something altogether more palatable and strange than the uncanny unlocking of his doors moments prior. </p>
+<p class="body">The newspaper vanished from under his arm—not dropped, not fallen, just gone—while the clementine stayed pressed against his palm. A quick scan of the lobby revealed nothing, but stepping back into the entry hall brought the folded paper back between his shoes. Each crossing of the threshold undid it: carried inside, it dissolved; retreating two paces returned it to his feet. A third attempt, slower, deliberate—testing the tolerance of some unseen membrane—ended the same way. The paper vanishing mid-stride.</p>
+<p class="body">   <em>Fuck this. I must need sleep more than I realized. </em></p>
+<p class="body">He slammed the apartment door, stuttered down the hall, jolted up the spiral stairs, and in one grand movement, plopped onto the bed and was done.</p>
+<div class="ch-special"><strong>THE NEW YORK TIMES</strong></div>
+<p class="body">All The News Thats Fit To Print</p>
+<p class="body">November 30, 2026          $4.00</p>
+<p class="default"><strong>PRESIDENT CONvenes Emergency Session</strong><strong> With G</strong><strong>‑</strong><strong>7, NATO Leaders After Solar Event; MCGRATH </strong><strong> </strong><strong>Appointed Special Science Envoy</strong></p>
+<p class="default">Security Council Meets in Closed Session; White House Calls Phenomenon “Unprecedented but Contained”; Global‑Infrastructure Assessment Ongoing</p>
+<p class="default">By Peter Baker, Zolan Kanno‑Youngs, and David E. Sanger</p>
+<p class="default">WASHINGTON — President Elaine Marsh convened an emergency joint session on Friday with G‑7 leaders and the NATO Secretary‑General, the second such meeting in as many days, as governments worldwide continue to assess the scope of a solar‑electromagnetic event that knocked out digital infrastructure on six continents and produced what officials are calling “an anomalous broadcast signal of unknown origin.”</p>
+<p class="default">The White House announced late Friday that Dr. Marcus McGrath, Preston Chair of Astrophysics at UCLA and a MIT graduate, has been appointed Special Presidential Envoy for Anomalous Phenomena—a position with no modern precedent—effective immediately.</p>
+<p class="default">At a brief press availability outside the West Wing Friday afternoon, Dr. McGrath, 46, faced pointed questioning from the assembled press corps.</p>
+<p class="default">When asked to characterize the nature of the signal, Dr. McGrath described it as “a significant and genuine scientific event that will require the full cooperative attention of the international research community.” He declined to elaborate.</p>
+<p class="body">During a brief press availability outside the West Wing on Friday afternoon, Dr. Marcus McGrath – the newly appointed Special Presidential Envoy for Anomalous Phenomena – was asked by an Associated Press reporter to identify the figure seen in the viral video that has been circulating worldwide. </p>
+<p class="body">The reporter cited multiple sources that had linked the image to Professor David Lang, the Feynman Chair of Quantum Dynamics at Cornell University and a noted concert cellist, and sought confirmation. Dr. McGrath replied that he could not verify the individual’s identity on the basis of unverified footage and noted that the determination was being handled by the appropriate authorities. </p>
+<p class="body">When pressed about Cornell’s statement that Professor Lang was currently unreachable and about his own past graduate‑school ties with Lang at MIT, the envoy said he and Lang have known each other for many years, describing Lang as a brilliant scientist and remarkable human being, but declined to offer further comment. He also confirmed that he has not spoken with Lang since the solar event. After his response, a press aide stepped forward and the questioning concluded without additional queries.</p>
+<p class="body">The United Nations Security Council convened in a closed session Friday afternoon. No communiqué was issued. A spokesperson confirmed only that the session had taken place and that a follow‑up was scheduled for Monday.</p>
+<p class="default">Continued on A12: Full text of the White House statement; NATO Secretary‑General remarks; reactions from Beijing and Moscow.
+Continued on A14: What we know about the solar event; timeline of infrastructure disruption; power‑grid restoration updates.</p>
+<p class="default"><strong>‘</strong><strong>THE CELLIST</strong><strong>’</strong><strong>: </strong><strong>What Happened in Ithaca, and Why the World Can</strong><strong>’</strong><strong>t Stop Watching</strong></p>
+<p class="default">36 Hours After the Broadcast, Scientists, Artists, and Ordinary Viewers Struggle to Describe an Experience That Resists Description</p>
+<p class="default">By Joanna Kakissis, Apoorva Mandavilli, and Joshua Barone</p>
+<p class="default">In the 36 hours since a 47‑minute video began circulating across every surviving digital platform simultaneously, more than four billion people have watched it at least once; a substantial portion have viewed it repeatedly. Support hotlines in seven countries have reported unusual call volumes—not from people in distress, but from callers who say the video left them “more okay than I have been in years, and I don’t know what to do with that,” according to a London crisis centre.</p>
+<p class="default"><strong>The Video</strong></p>
+<p class="default">At first glance, the footage is unremarkable. A fixed camera angle—later identified as a phone propped against a music stand—captures a figure seated with a cello in what appears to be a private apartment. The figure’s face is never visible. </p>
+<p class="default">The recording quality is uneven, the lighting poor, and the performance shows no signs of staging or rehearsal.</p>
+<p class="default">What happens over the course of the 47 minutes, however, has proven extraordinarily difficult to describe in print.</p>
+<p class="default">“I keep trying to write about what I heard,” said Alex Ross, music critic for <em>The New Yorker</em>, who has published three attempts at a response and retracted all three. “Every time I reach for language it feels like reaching for something that isn’t there anymore. Not because the experience was vague, but because it was too specific for the words I have.”</p>
+<p class="default">Physicists have been no more precise. Spectrographic analysis of the audio, conducted independently by teams at MIT, CERN, and the University of Tokyo, produced results that one researcher described privately as “internally consistent and externally impossible.” </p>
+<p class="default">The harmonic structure of the performance encodes mathematical relationships that should not be audible on a cello—relationships that correspond, according to sources familiar with the analysis who requested anonymity, to fundamental constants of physics embedded in the overtone series.</p>
+<p class="default">“What the instrument is doing,” said an acoustic physicist who reviewed the data and declined to be named, “is not what instruments do.”</p>
+<p class="default"><strong>The Final Frames</strong></p>
+<p class="default">In the closing minutes, the figure becomes increasingly indistinct. Viewers and analysts have debated whether this is a camera artifact, a lighting effect, or something for which no adequate technical term yet exists. In the final frame—cut abruptly when the cello strikes the floor—the figure is no longer clearly present. The cello is.</p>
+<p class="default">“I watched it seventeen times,” said Mariana Pereira, a structural engineer in São Paulo who contacted the Times after posting about the video online. “The seventeenth time I finally stopped trying to understand what I was seeing and just… watched. That was different. That was something I don’t have a word for.”</p>
+<p class="default"><strong>The Question of Identity</strong></p>
+<p class="default">Cornell University issued a statement Friday confirming that Professor David Lang, Feynman Chair of Quantum Dynamics, has not reported to his office or responded to communications since Tuesday. The statement described Professor Lang as “a distinguished member of our faculty” and confirmed that university officials are “in contact with relevant authorities.” Cornell declined further comment.</p>
+<p class="default">Dr. McGrath, confronted directly at Friday’s press availability about his relationship with Professor Lang, confirmed only that the two men had “known each other for many years.” When asked whether he had spoken with Lang since the event, Dr. McGrath replied, “No. I have not.” He declined all further questions on the subject.</p>
+<p class="default"><strong>What Remains</strong></p>
+<p class="default">The video has not been removed. Attempts by several governments to restrict access have failed—the file appears to re‑propagate automatically across platforms from which it is removed, a behavior engineers at three major technology companies have described as “without precedent in the architecture of the Internet as we understand it.”</p>
+<p class="default">The harmonic‑flux anomalies first detected by neutrino sensors at Fermilab and confirmed by observatories in Chile, Japan, and South Africa have not dissipated. As of Friday evening, they were holding steady—a sustained signal, originating from no identifiable point source, at a frequency that one Fermilab researcher described in an internal memo obtained by the Times as “consistent with a very large, very stable, very patient note.”</p>
+<p class="default">No one has claimed authorship of the video. No one has come forward. </p>
+<p class="default">Correction: An earlier version of this article stated the video was first detected by European servers. It appears to have propagated simultaneously across all platforms. The Times regrets the error and notes that “simultaneously” may itself require qualification in the future. We are not yet certain what word would be more precise.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-15.html">Chapter 15</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

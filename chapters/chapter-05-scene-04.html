@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 5 · Scene 4: IV.  Everything he was not</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="5">
+<meta name="scene" content="4">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="848">
+<meta name="paragraph-count" content="20">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-05.html">Chapter 5: Twin Primes on the six</a>
+    <a href="chapter-05-scene-03.html">← Scene 3</a>
+    <a href="chapter-05-scene-05.html">Scene 5 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 5 &middot; Scene 4 of 7</div>
+  <div class="chapter-heading">IV.  Everything he was not</div>
+  <div class="chapter-subheading">a fantasia quasi sonata</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>848</strong>&thinsp;words&ensp;<strong>20</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>4</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 5 · Scene 4 of 7 ]
+Chapter Title:   Twin Primes on the six
+Scene Heading:   IV.  Everything he was not
+Scene:           4 of 7
+Word Count:      848
+Paragraph Count: 20
+Chapter Words:   2,922–3,769 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">IV.  Everything he was not</div>
+<div class="tempo-1">Andante cantabile</div>
+<p class="body">The dissonant symphony of his own day made the harmony of Celeste’s lecture hall feel like stepping into a sacred space. David slipped into the back of the room as she was mid-sentence, her voice a clear, carrying instrument that needed no amplification. She stood before a grand staff projected on the screen, one hand resting on the piano behind her, the other tracing patterns in the air.</p>
+<p class="body">“So if we accept that Bach’s <em>Art of Fugue</em> is essentially a study in mathematical permutation,” she was saying, “then the real question isn’t about the beauty of the variation, but about the constraints of the original theme. It’s a cosmological constant. A set of initial conditions from which an entire universe of music unfolds.”</p>
+<p class="body">She played a brief, complex phrase on the piano. The notes hung in the air, precise and inevitable.</p>
+<p class="body">“Now,” she continued, turning back to the whiteboard where she’d drawn a series of overlapping circles, “map that onto the Many-Worlds Interpretation of quantum mechanics. Each decision point in the composition—a modulation, a rhythmic shift—doesn’t replace the previous path. It branches from it. The fugue doesn’t choose a single reality. It contains all possible realities simultaneously, held in a state of… musical superposition.”</p>
+<p class="body">The students were riveted. She made the dizzying connection feel obvious, elegant. She used her hands to illustrate the branching paths, her gestures economical and sure. This was her element: the liminal space between disciplined structure and creative explosion, a space David had always tried to quantify but that she simply <em>inhabited</em>.</p>
+<p class="body">He watched, a familiar ache of professional admiration mixing with a deeper, more personal longing. She was everything he was not: grounded where he was untethered, communicatively graceful where he was clumsy, certain in her interdisciplinary leaps where he was plagued by doubt. Her dark hair was pulled back, emphasizing the focused intensity of her expression. She caught a student’s confused frown and rephrased the concept without condescension, using a metaphor about tectonic plates shifting to explain harmonic tension. The student’s face cleared. She was a maestro of clarity.</p>
+<p class="body">The lecture ended to a respectful, attentive silence followed by a genuine swell of applause. Celeste smiled, a real, unguarded expression that transformed her face. She gathered her notes, and her eyes scanned the room as the students began to pack up. They found him in the back. Her smile didn’t fade, but it shifted, becoming more complex, tinged with a question.</p>
+<p class="body">An hour later, they were at her house. The familiar chaos of her kitchen was a comfort. She poured wine while he sat at the table, the events of his day receding like a fever dream in the face of her calm presence. They slid into the old rhythms of their conversation with an ease that felt like forgiveness.</p>
+<p class="body">“So the Kepler group actually showed up?” she asked, shaking her head as she stirred a pot wide egg noodles boiling on the stove. “After that review they gave your tensor network paper?”</p>
+<p class="body">“They did. And they all said the same thing.”</p>
+<p class="body">“Let me guess,” Celeste leaned over the rising steam, fogging her glasses into blindness. Then she turned to David and with a straight face said, “I just don’t see it, Professor Long.” </p>
+<p class="body">David wasn’t laughing. She wiped the fog from her lenses just for visual confirmation. Yup, she bombed.</p>
+<p class="body">“Celeste, they all were falling over themselves to shake my hand. I can’t believe Word for word. It was like they’d been programmed.”</p>
+<p class="body">“And the student’s computer?”</p>
+<p class="body">“Glitching. Turning equations into musical notation. The department printer is probably still outputting sheet music for the apocalypse.”</p>
+<p class="body">She listened, her responses sharp and insightful, cutting to the heart of the absurdity. Their talk flowed from the eerie events to the solid ground of theory, to gossip about faculty politics, to a passionate digression about the use of the golden ratio in Bartók’s string quartets. Their hands brushed over the bowl of olives, over the bread basket—small, accidental contacts that sent a current of warmth through him each time.</p>
+<p class="body">The wine loosened the remaining knots of tension in his shoulders. The hum was still there, a faint presence at the very edge of hearing, but here, with her, it felt like a distant storm, not an imminent avalanche.</p>
+<p class="body">In her bedroom, the light was soft. Her fingers, which had traced equations on a board hours before, now traced the yellowing bruises on his ribs with a violinist’s precise tenderness. He flinched, then relaxed into the touch, the residual pain transforming under her attention from a memory of violence to a marker of present care. They found their way back to each other with the ease of a well-rehearsed piece of music, a familiar cadence in a world that was increasingly out of tune. For a few hours, the relentless hum was just background noise, drowned out by the more immediate frequencies of skin and breath and heartbeat. He fell asleep with the scent of her hair—rosin and lavender—in his lungs, a temporary, merciful silence in his head.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-05.html">Chapter 5</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

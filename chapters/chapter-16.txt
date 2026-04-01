@@ -12,13 +12,13 @@ Word Count:      9,206
 Paragraph Count: 343
 Scene Count:     7
 
-Scene 1: I.  The Ultimatum   |   Variation I (Tutti)  --  Words 1–1,307  |  Paragraphs 1–45
-Scene 2: II.  The Final Score   |   Variation II (Solo)  --  Words 1,308–2,266  |  Paragraphs 46–60
-Scene 3: III.  The Catwalks   |   Duetto / Contrapunto lirico  --  Words 2,267–5,970  |  Paragraphs 61–199
-Scene 4: IV.  Disappearance   |   Chorale (senza vibrato)  --  Words 5,971–6,594  |  Paragraphs 200–210
-Scene 5: V.1  Observed superposition  --  Words 6,595–6,746  |  Paragraphs 211–217
-Scene 6: V.2  Observed superposition  --  Words 6,747–7,929  |  Paragraphs 218–265
-Scene 7: V.2.1  en train  --  Words 7,930–9,206  |  Paragraphs 266–343
+Scene 1: I.  The Ultimatum   |   Variation I (Tutti)  --  Words 1–1,307  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html
+Scene 2: II.  The Final Score   |   Variation II (Solo)  --  Words 1,308–2,266  |  Paragraphs 46–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html
+Scene 3: III.  The Catwalks   |   Duetto / Contrapunto lirico  --  Words 2,267–5,970  |  Paragraphs 61–199  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html
+Scene 4: IV.  Disappearance   |   Chorale (senza vibrato)  --  Words 5,971–6,594  |  Paragraphs 200–210  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html
+Scene 5: V.1  Observed superposition  --  Words 6,595–6,746  |  Paragraphs 211–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
+Scene 6: V.2  Observed superposition  --  Words 6,747–7,929  |  Paragraphs 218–265  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
+Scene 7: V.2.1  en train  --  Words 7,930–9,206  |  Paragraphs 266–343  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

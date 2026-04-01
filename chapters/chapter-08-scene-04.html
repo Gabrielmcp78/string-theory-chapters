@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 8 · Scene 4: IV.  The Quartet</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="8">
+<meta name="scene" content="4">
+<meta name="scene-count" content="8">
+<meta name="word-count" content="782">
+<meta name="paragraph-count" content="20">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-08.html">Chapter 8: Skepticism and Ridicule</a>
+    <a href="chapter-08-scene-03.html">← Scene 3</a>
+    <a href="chapter-08-scene-05.html">Scene 5 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 8 &middot; Scene 4 of 8</div>
+  <div class="chapter-heading">IV.  The Quartet</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>782</strong>&thinsp;words&ensp;<strong>20</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>4</strong>&thinsp;of&thinsp;<strong>8</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 8 · Scene 4 of 8 ]
+Chapter Title:   Skepticism and Ridicule
+Scene Heading:   IV.  The Quartet
+Scene:           4 of 8
+Word Count:      782
+Paragraph Count: 20
+Chapter Words:   3,011–3,792 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">IV.  The Quartet</div>
+<div class="tempo-1">Adagio doloroso</div>
+<p class="body">The rehearsal room, once a crucible of conspiratorial energy and off-color jokes, had been scrubbed to a sterile echo chamber by the time Lang arrived. The fluorescent tubes overhead burned with the impersonal zeal of an autopsy theater, and the grand piano—usually flanked by a clutter of cases and half-drunk water bottles—sat alone at the far end, its lid shut, its voice silenced.</p>
+<p class="body">His own chair was gone, leaving a kidney-shaped void in the semicircle where the quartet always convened. The music stand, battered and proud, was folded and propped against the wall like a retired soldier. On the side table, his sheet music had been collected into a tidy packet, the pages squared and bound with a length of red twine more suited to a gift than an eviction notice.</p>
+<p class="body">The other musicians stood near the window, conferring in muted tones. Roger Linn noticed Lang’s entrance and nudged the others into a tableau of awkward solidarity. The second violinist, whose habit of biting the inside of her cheek had left a permanent dimple, nodded once and looked away. </p>
+<p class="body">The new cellist—a graduate student Lang knew only by the breakneck tempo of her gum chewing—loitered nearby, arms wrapped around her case like it might bolt at any second. Her eyes scanned the room in clipped, jittery bursts, as though rehearsing for a spotlight she hadn’t asked for. She didn’t speak. She didn’t have to. Her presence alone confirmed what the others were too polite to say outright: Lang’s chair was no longer his.</p>
+<p class="body">Linn cleared his throat, the sound brittle in the over-lit room.</p>
+<p class="body">“David,” he said, gingerly, “good to see you. I, ah, wasn’t sure you’d gotten the message.” He smiled, but it was the smile of a dentist about to broach a nerve.</p>
+<p class="body">Lang stood just inside the doorway, music packet in one hand, cello case in the other. He looked at the empty space where his chair had been, then at the cluster of his former colleagues, all of whom seemed to occupy the exact same square foot of linoleum despite their best efforts to suggest a welcoming openness.</p>
+<p class="body">“We’ve had some… communication from the department,” Linn continued, eyes darting from Lang’s face to the floor and back again. “Just temporary, until things are sorted out. You understand.”</p>
+<p class="body">Lang did not reply. He set the cello case down and rested the music packet on top, fingers lingering on the twine. The knot was tight but elegantly executed, and unmistakably Roger. A double loop with the ends trimmed to matching lengths—something he had done to present prepared sheet music since they were in high school. It was, in its own way, a benediction—a signal that Linn, and by extension, all of them, had wanted to make the severance painless, or at least quick.</p>
+<p class="body">The grad student said nothing, only hugged her case tighter and shuffled one shoe behind the other.</p>
+<p class="body">Linn continued. “We’ve been asked to perform at the Chancellor’s reception next week,” he said. “We’re doing the Dvořák.”</p>
+<p class="body">At that Eleanor tapped Roger gently on the elbow—gesture enough to make clear she would take it for a moment. </p>
+<p class="body">“David darling, you must know this isn’t us. It’s politics and, well, goodness… it’s goddamned funding. You know how this works. And I’m sure when you’re ready, we can… we will work you back in. Oh, darling David, I want you to take advantage of this, yes? Recharge. Reset. We all need these moments sometimes.” She glanced back to Roger as if to signal that was all she had.</p>
+<p class="body">“Yes,” Roger jumped back in. “Take all the time you need.”</p>
+<p class="body">Lang considered the group, the room, the absence of his own chair. He nodded, just once, the gesture so small it might have been a tic. He reached for the cello but stopped. Instead, he untied the music packet, let the sheets fall open on the table, and scanned the top page. His own notations—tiny arrows, circled accidentals, the occasional FIX THIS in capital letters—ran in a red current along the margins. Their transcribbling stood testament to a shared history of practice, of commitment, of joint struggle towards a threshold of excellence and the thousand small accommodations that had once made the group a single organism. </p>
+<p class="body">He closed the folder, replaced the twine, and tucked it under his arm. Roger moved towards him and gently placed a solemn hand on David’s shoulder. David turned back to meet his friends eyes—eyes that held decades of words that only silence dare say.</p>
+<p class="body">“I know, my friend,” David whispered, touching his hand to Roger’s.</p>
+<p class="body">“Good luck with the Dvořák,” he said to them all, and turned for the door.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-08.html">Chapter 8</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

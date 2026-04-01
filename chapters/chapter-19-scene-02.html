@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 19 · Scene 2: II.  Wander and Wonder</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="19">
+<meta name="scene" content="2">
+<meta name="scene-count" content="12">
+<meta name="word-count" content="372">
+<meta name="paragraph-count" content="34">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-19.html">Chapter 19: For All</a>
+    <a href="chapter-19-scene-01.html">← Scene 1</a>
+    <a href="chapter-19-scene-03.html">Scene 3 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 19 &middot; Scene 2 of 12</div>
+  <div class="chapter-heading">II.  Wander and Wonder</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>372</strong>&thinsp;words&ensp;<strong>34</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>2</strong>&thinsp;of&thinsp;<strong>12</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 19 · Scene 2 of 12 ]
+Chapter Title:   For All
+Scene Heading:   II.  Wander and Wonder
+Scene:           2 of 12
+Word Count:      372
+Paragraph Count: 34
+Chapter Words:   387–758 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">II.  Wander and Wonder</div>
+<div class="tempo-1">Andante con gratitudine</div>
+<p class="body">So many things look different. New buildings. Taller trees.</p>
+<p class="body">Yet so much remains the same.</p>
+<p class="body">He is struck most by the students. The way they carry themselves. The way they move through space.</p>
+<p class="body">He begins to wander, without destination—for he has long since released the pressures that come with needing to get places.</p>
+<p class="body">A squirrel scampers across his path.</p>
+<p class="body">He stumbles just slightly—moving out of its way.</p>
+<p class="body">Two undergraduates leap up from a bench to help the old man regain his footing.</p>
+<p class="body">They are kind and generous of spirit, and he’s grateful—not necessarily for the help.</p>
+<p class="body">He is not yet <em>that</em> old.</p>
+<p class="body">No, he is glad for the interaction, glad for the hands-on proof that goodness still resides.</p>
+<p class="body">One of them has an <em>Introduction to Quantum Harmonics</em> textbook slipping from her knapsack, with a foreword by Dr. Marcus McGrath—President Emeritus of the SolPhi Institute of Universology.</p>
+<p class="body">“Quantum Harmonics?” He asks. “How are you enjoying the course?”</p>
+<p class="body">The student gleams with enthusiasm. “My absolute favorite class. Im mesmerized!”</p>
+<p class="body">“Keep on.” He says. “Theres so very much more.”</p>
+<p class="body">His head is calm.</p>
+<p class="body">His heart is full.</p>
+<p class="body">He’s glad already that he made the trip.</p>
+<p class="body">But he has wandered now, in this elation state, long enough to lose his bearings.</p>
+<p class="body">A young man approaches. Perhaps he will help.</p>
+<p class="body">The student notices, without a word, that the elder seems “loosely directed.”</p>
+<p class="body">The old man asks if he might be guided to the music school chapel. </p>
+<p class="body">Though it’s just around the corner, the student offers to accompany him, as the hill is slick with rain and the way somewhat treacherous. </p>
+<p class="body">He lifts his right leg, showing a freshly grass and mud-stained knee, imparting that he’s just come from there.</p>
+<p class="body">They walk together.</p>
+<p class="body">The company is a blessing.</p>
+<p class="body">Again, the man’s heart is filled with the kindness he finds.</p>
+<p class="body">Before even a moment has passed, they are standing in front of the entrance to the chapel on the hill.</p>
+<p class="body">The old man’s hands begin to shake.</p>
+<p class="body">He is nervous now.</p>
+<p class="body">But he tells the young student he’ll be fine, and thanks him.</p>
+<p class="body">A deep breath… then another, for good measure.</p>
+<p class="body">And the old man moves to enter the now ancient sanctuary.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-19.html">Chapter 19</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

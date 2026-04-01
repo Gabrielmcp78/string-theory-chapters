@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 6 · Scene 2: II.  Andante: the salon  |  Émilie du Châtelet</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="6">
+<meta name="scene" content="2">
+<meta name="scene-count" content="5">
+<meta name="word-count" content="821">
+<meta name="paragraph-count" content="29">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-06.html">Chapter 6: Visions and Burdens… of Knowing</a>
+    <a href="chapter-06-scene-01.html">← Scene 1</a>
+    <a href="chapter-06-scene-03.html">Scene 3 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 6 &middot; Scene 2 of 5</div>
+  <div class="chapter-heading">II.  Andante: the salon  |  Émilie du Châtelet</div>
+  <div class="chapter-subheading">a symphony in five movements</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>821</strong>&thinsp;words&ensp;<strong>29</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>2</strong>&thinsp;of&thinsp;<strong>5</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 6 · Scene 2 of 5 ]
+Chapter Title:   Visions and Burdens… of Knowing
+Scene Heading:   II.  Andante: the salon  |  Émilie du Châtelet
+Scene:           2 of 5
+Word Count:      821
+Paragraph Count: 29
+Chapter Words:   546–1,366 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">II.  Andante: the salon  | <em> </em><em>É</em><em>milie du Ch</em><em>â</em><em>telet</em><em>  </em>            </div>
+<div class="tempo-1">Andante con grazia e logica</div>
+<p class="body">He set chalk to slate with unusual care. The first line restated what he had seen in the courtyard: the ratio of the fifth rendered as fraction, then carried into the curvature of a one-dimensional loop. The next step should have followed from it cleanly. Instead it held. He wrote the matrix element anyway, closing the bracket with a hand that had begun, against his will, to steady itself.</p>
+<p class="body">The chalk made a different sound.</p>
+<p class="body">It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. He stopped and looked at the board. The white line he had just drawn seemed to waver where it should have held. The wall behind it rippled once. The noise in his ears rose sharply, then vanished.</p>
+<p class="body">He was seated in another room.</p>
+<p class="body">The walls were papered in peacock blue, the pattern worked through with gold that lifted and disappeared in the candlelight as he moved his head. The floor was parquet worn dull and smooth by generations of use. Along the mantel stood clocks, instruments, small mechanical curiosities whose brass surfaces caught the light and returned it in fragments. The air held beeswax, perfume, and the stale press of too many bodies having spent too many hours in conversation.</p>
+<p class="body">At a narrow writing desk, a woman bent over a sheet of foolscap.</p>
+<p class="body">Her gown was copper-colored in the candlelight. Pearls were pinned into her hair. One hand moved across the page with controlled speed; the other worked a small abacus beside the paper, the beads clicking in measured groups. She did not look up. She finished the line, sanded it, read it through a lens, made a single correction, and rose.</p>
+<p class="body">The harpsichord stood open in the corner. She crossed to it and began to play.</p>
+<p class="body">The sound was dry, exact, almost severe. Her right hand built the line upward in thirds while the left fixed the ground beneath it. Nothing in the performance reached outward for charm. It advanced. Phrase by phrase, it established a structure and held to it. David listened as the intervals doubled and redoubled, the pattern extending itself with such confidence that he felt, for an instant, the obscene pleasure of believing that form could go on multiplying forever without cost.</p>
+<p class="body">Then one note struck slightly against the frame of the whole.</p>
+<p class="body">She did not falter. Only a listener already inside the pattern would have heard it: the brief strain of something nearing its limit. Her hands moved on. The line gathered itself and closed.</p>
+<p class="body">Only then did she speak, still facing the keys.</p>
+<p class="body">&quot;Le carré de la vitesse,&quot; she said, and after a beat, &quot;c&#x27;est le doublement de l&#x27;octave.&quot;</p>
+<p class="body">The words reached him as if they belonged to the music rather than to language. She played the figure again, more slowly this time, and he saw the relation in it before he understood it: doubling as increase, doubling as law. Her left hand left the keyboard long enough to touch the abacus on the nearby desk, as though number and sound required no translation between them.</p>
+<p class="body">She turned halfway toward him.</p>
+<p class="body">&quot;Comme si la nature préférait les puissances de deux à tout autre.&quot;</p>
+<p class="body">This time he understood enough to feel the shape of it. Powers of two. Velocity squared. The curve on his board. The equation he had been circling without entering now stood before him in another form, elegant enough to seem inevitable.</p>
+<p class="body">She returned to the desk, wrote a short line in the margin, and blotted it. For the first time he thought she might be aware of him, though she gave no sign beyond the precision with which she laid the quill aside.</p>
+<p class="body">&quot;C&#x27;est la nature même.&quot;</p>
+<p class="body">The room held the sentence a moment after she had spoken it. Then the clocks resumed their separate ticks, the candlelight shifted, and the page before her caught his attention more sharply than her face. One line of the margin note had been written without hesitation. Another dipped, corrected itself, and continued.</p>
+<p class="body">By the time he noticed that, the salon was already receding.</p>
+<p class="body">He was back in his office with his hand lifted toward the board and nothing between his fingers but a strip of heavy paper edged in gold.</p>
+<p class="body">The equation had advanced.</p>
+<p class="body">The new lines were lighter than his own, finer in pressure, and unmistakably not written by his hand. He followed them down the board until he reached the step that had resisted him all morning. It had been crossed cleanly now, almost contemptuously, as though the difficulty had existed only because he had insisted on meeting it from the wrong angle.</p>
+<p class="body">Near the margin, just below the solved transition, the chalk line thinned, wavered, and recovered.</p>
+<p class="body">David touched that place with one finger.</p>
+<p class="body">For the first time, the beauty of the thing did not reassure him.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-06.html">Chapter 6</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

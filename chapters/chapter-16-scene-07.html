@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 16 · Scene 7: V.2.1  en train</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="16">
+<meta name="scene" content="7">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="1277">
+<meta name="paragraph-count" content="78">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-16.html">Chapter 16: The Final Decision</a>
+    <a href="chapter-16-scene-06.html">← Scene 6</a>
+    
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 16 &middot; Scene 7 of 7</div>
+  <div class="chapter-heading">V.2.1  en train</div>
+  <div class="chapter-subheading">a passacaglia with chorale and coda</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,277</strong>&thinsp;words&ensp;<strong>78</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>7</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 16 · Scene 7 of 7 ]
+Chapter Title:   The Final Decision
+Scene Heading:   V.2.1  en train
+Scene:           7 of 7
+Word Count:      1,277
+Paragraph Count: 78
+Chapter Words:   7,930–9,206 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">V.2.1  en train   </div>
+<p class="body">The train came without incident. Quietly. In time.</p>
+<p class="body">David stepped inside, found a seat diagonal to the world. He preferred it that way.</p>
+<p class="body">The clasp of his coat struck the railing. Metal met metal. A tone rang out—sharp and sustained—a sound just beyond the laws of struck metal.</p>
+<p class="body">No one else noticed—but he did.</p>
+<p class="body">He smiled the way one does when a stranger says your name and you don’t know how they learned it.</p>
+<p class="body">A smile of simplicity—of recognition.</p>
+<p class="body">The train lurched forward, then was yanked back in linkage—a cascade of locks slamming car against car.</p>
+<p class="body">Beneath the scatter of shimmer and surface, a lower rhythm emerged—slow yet percussive, like a heartbeat abloom at the bottom of a well.</p>
+<p class="body">His body, which had been performing tension since it first learned the choreography of endurance, forgot the next page of lines.</p>
+<p class="body">The lights dimmed—then flickered black, as a tunnel wrapped around the world.</p>
+<p class="body">David closed his eyes, the darkness spiraling behind his lids; a dense, remembered aperture widening towards absence. A voice used but never heard. Laughter curving around him like water over stone. A mirror returning a borrowed face.</p>
+<p class="body">And it suddenly occurred to him that he’d lived most of his life entirely inside parentheses.</p>
+<p class="body">The train jolted. The tone shattered—scattering like coins into deep water.</p>
+<p class="body">The city returned: angular and loud. But David was no longer there. He was inside—shielded by the shape of things beyond his confidence to speak of—a geometry so sacred that he felt unworthy of its knowing.</p>
+<p class="body">As the train emerged from the tunnel and the overhead lights returned, a young boy tugged his mother&#x27;s sleeve and pointed across the aisle.</p>
+<p class="body">She looked with a frown. Moments earlier, she was sure, someone had been sitting in that seat. She could almost recall the impression of a figure. A presence.</p>
+<p class="body">Now: empty.</p>
+<p class="body">She whispered away the moment with a breath of disbelief.</p>
+<p class="body">The boy let the incident go—for his mother&#x27;s sake. But he was confident in what he had seen. For he still believed in the art of disappearing. And he knew, without question, that he had just witnessed a man dissolve into thin air.</p>
+<p class="body">David settled into the gravity of his emergent space—newly weighted. Sure.</p>
+<p class="body">The calm felt warm and unfamiliar. He had forgotten what it was to exist without the hum—without equations clawing at the edges of his thoughts. For the first time in decades, his mind held no calculations, no frequencies demanded translation.</p>
+<p class="body">Only presence.</p>
+<p class="body">And though the old reflexes stirred, he knew—they no longer fit his frame. The mind that brought him here was already dissolving.</p>
+<p class="body">The interior of the carriage—if carriage was still the correct word—had begun a dissolution of its own making, shedding its allegiance to the city and beyond. The windows no longer reported streets so much as translated curvature; light behaved like a thought attempting to remember itself. The familiar clatter of rails and couplings had thinned into a sustained condition, the way a room holds its breath before an answer. David understood then that he was no longer moving through space in any ordinary sense, but being re-indexed within it, shifted into a register where coincidence and intention were no longer reliably distinct.</p>
+<p class="body">He leaned over his knees, eyes falling toward the floor, to his feet. The world narrowing to leather, shadow, breath.</p>
+<p class="body">He exhaled. And in that simple breath, a new alignment emerged.</p>
+<p class="body">The geometry had changed, and he was no longer alone.</p>
+<p class="body">A pair of loafers appeared in front of his own—so polished they could have blocked out the sun. A blinding so complete that for a moment, it made clear what the impossible could not explain.</p>
+<p class="body">Then—</p>
+<p class="body">“You know, a man who holds his shoulders that low is begging to be relegated to another dimension.”</p>
+<p class="body">David lifted his shoulders up, tilting his head to see… And there he was. Immaculate. Absurd. Inevitable. </p>
+<p class="body">“Rune.”</p>
+<p class="body">He sat across from David, suit sharp enough to wound, pouring milk into two cups of Earl Grey.</p>
+<p class="body">David, dumbfounded, could only smile. Rune offered him a cup, then took a sip of his own. Casual and coy as ever. A moment passed before he looked back up. Then, startled by David’s wondering face, he said, “What? Surely you didn’t think I’d let you go about this business alone, did you?”</p>
+<p class="body">Rune tossed his head, and a new articulation was born. Suddenly both of them knew. They were no longer the men they had been just moments before.</p>
+<p class="body">Rune placed his hands together, palm against palm—a prayer of gesture, a silent humility.</p>
+<p class="body">“Thank you, David.”</p>
+<p class="body">“For what?”</p>
+<p class="body">“For making sure there was milk.”</p>
+<p class="body">With that, Rune Ishikawa let out a breath he’d been holding for half a century. David Lang felt inclined to join him.</p>
+<p class="body">Outside, light bent like a lens. Time staggered in its costume of sequence. Between them, a circle of tone vibrated forth, stacking each frequency towards coherence.</p>
+<p class="body">It was time, it seemed, and somehow both men knew the rituals of the new. Rune blinked, and his eyes held the light of galaxies. David could not help but rise to meet his gaze.</p>
+<p class="body">And in that instant, everything unspoken, unsettled, unknown, passed silently, gently between them. Final and full-stopped.</p>
+<p class="body">They stood shoulder to shoulder, clear-eyed and calm, in what was no longer a train, looking out windows that no longer showed the world as it had been.</p>
+<p class="body">Ahead: only the magic of the misunderstood.</p>
+<p class="body">“So,” David began, “are you sure you’re ready for this, old man?”</p>
+<p class="body">“I’ve been waiting fifty-five years for this train. Readiness simply doesn’t factor.”</p>
+<p class="body">David couldn’t hide his smirk. “You think we’ll run into any mathematical pareidolia out there?”</p>
+<p class="body">“Pareidolia?” Rune’s eyes lit up. “Oh, I certainly hope so, Mr. Lang. I do very much hope so.”</p>
+<p class="body">And they laughed… just laughed.</p>
+<p class="body">Then, speed surged—smooth, exponential. The engine’s clatter dropped to a tone that David knew with absolute certainty.</p>
+<p class="body">“Hear that?” Rune’s smirk widened. “Sixty-eight point four eight… is it not?”</p>
+<p class="body">“Without a doubt,” David said, blankly. And then… it hit him. “Wait—you can—?”</p>
+<p class="body">“You’re not the only one with an ear for music, David. You know, I once fancied myself a flautist.”</p>
+<p class="body">“I don’t buy that for a second.”</p>
+<p class="body">Rune turned, winked. “You’re right, of course. Didn’t take. Too tight-lipped, I’m afraid.”</p>
+<p class="body">“What else have you been keeping from me, Rune?”</p>
+<p class="body">“Oh, I think you’ll find I have a few surprises up my perfectly tailored sleeves.”</p>
+<p class="body">A million lines of inquiry came flooding into focus.</p>
+<p class="body">“Did you—”</p>
+<p class="body">“Yes,” Rune interrupted—full stop, and a smile.</p>
+<p class="body">“And all of the—”</p>
+<p class="body">“Oh, very much so, yes.”</p>
+<p class="body">The implications stacking through David’s head.</p>
+<p class="body">“Then… that means—”</p>
+<p class="body">&quot;Does it?&quot; </p>
+<p class="body">Dr. Ishikawa raised one gloved hand. “In time, David. All things, in time.”</p>
+<p class="body">David looked up, and realized that his questions no longer had words attached, and the answers were melted in silence. For forty-six seconds, the two men stared straight ahead, toward the wonder of wherever they were going.</p>
+<p class="body">When they spoke again, it was with new eyes.</p>
+<p class="body">“I… am impossibly glad to have you with me, sir.”</p>
+<p class="body">“My dear boy,” Rune said, “I have <em>always</em> been with you.”</p>
+<p class="body">Both men stood—pillars of calm in the churning gravity of something new, steadied only by the weight of one another. They drew a single, shared breath. Then one more—less for need than for measure.</p>
+<p class="body">“Well, Dr. Ishikawa…”</p>
+<p class="body">“Yes, Professor Lang…?”</p>
+<p class="body">“Shall we… begin?”</p>
+<p class="body">Rune placed a hand upon the shoulder of a boy genius he once knew—a son he never had, a man who had just rewritten the trajectory of the universe… with a bow, and a battered cello.</p>
+<p class="body">“Yes, David… Let’s begin.”</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 7 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-16.html">Chapter 16</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

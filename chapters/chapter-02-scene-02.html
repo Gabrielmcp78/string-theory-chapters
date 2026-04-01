@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 2 · Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="2">
+<meta name="scene" content="2">
+<meta name="scene-count" content="12">
+<meta name="word-count" content="1049">
+<meta name="paragraph-count" content="58">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-02.html">Chapter 2: The Edge of Discovery</a>
+    <a href="chapter-02-scene-01.html">← Scene 1</a>
+    <a href="chapter-02-scene-03.html">Scene 3 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 2 &middot; Scene 2 of 12</div>
+  <div class="chapter-heading">I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005</div>
+  <div class="chapter-subheading">an epistemic fugue in four voices</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,049</strong>&thinsp;words&ensp;<strong>58</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>2</strong>&thinsp;of&thinsp;<strong>12</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 2 · Scene 2 of 12 ]
+Chapter Title:   The Edge of Discovery
+Scene Heading:   I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005
+Scene:           2 of 12
+Word Count:      1,049
+Paragraph Count: 58
+Chapter Words:   243–1,291 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.2   ANSWER   |   <em>MIT - Boston, MA</em><em> </em><em>                           April 11, 2005</em></div>
+<div class="tempo-1">Con tensione, andante       21 years ago</div>
+<div class="tempo-1">|  Consensus  |</div>
+<p class="body">“You’re not listening,” David said. “I’m not saying music is mathematics. I’m saying they’re dialects. Same language. Different mouths.”</p>
+<p class="body">Marcus sprawled across the single chair he’d commandeered, legs draped over one arm, beer balanced on his chest with the casual entitlement of someone who’d never doubted his place in a room. “Dialects.” He let the word hang, flat and unimpressed. “And what’s the native tongue, then? What’s the ur-language they’re both bastardizing?”</p>
+<p class="body">“Consciousness.”</p>
+<p class="body">Marcus snorted. “Jesus Christ.”</p>
+<p class="body">“I’m serious.”</p>
+<p class="body">“Oh, I know you’re serious. That’s the problem.” Marcus swung his legs down, suddenly alert. “You’re always serious about the most dangerous possible thing you could be serious about. It’s like watching someone juggle grenades and congratulate themselves for their hand-eye coordination.”</p>
+<p class="body">Celeste sat on the floor opposite David, her back against the radiator that clanked arrhythmically—a percussive commentary she’d long since stopped noticing. She held her beer with both hands, the way someone cradles a warm cup in winter. Watching. Always watching first.</p>
+<p class="body">“What’s dangerous about it?” she asked.</p>
+<p class="body">“What’s dangerous?” Marcus leaned forward. “He’s proposing that the entire edifice of physics—which, by the way, has done pretty well with things like not dying in childbirth and satellites—is just one translation of a consciousness-language we haven’t decoded yet. You know what they call people who think like that?”</p>
+<p class="body">“Visionaries?” Celeste offered.</p>
+<p class="body">“Unemployed.”</p>
+<p class="body">David’s jaw tightened. “You’re reducing it—”</p>
+<p class="body">“I’m not reducing anything. You’re inflating. There’s a difference.” Marcus jabbed a finger toward him. “You want to know what kills careers, David? Not being wrong. Being right about something nobody’s ready to hear. And you don’t have the patience for that. You want the revelation now. You want to skip the thirty years of proving yourself and jump straight to the Nobel speech.”</p>
+<p class="body">“That’s not—”</p>
+<p class="body">“It is. It absolutely is. I’ve known you for two years. You’re the smartest person I’ve ever met with absolutely no survival instinct for academia.”</p>
+<p class="body">“Maybe academia should work differently.”</p>
+<p class="body">“Maybe.” Marcus stood, pacing now, the small room forcing him into a tight loop. “Maybe it should. But it doesn’t. And you know what happens to people who try to change it from the outside? Nothing. They become footnotes. Crackpots. That guy who could have done something if he’d just played the game. Put in the time. Earned the right to break the rules.”</p>
+<p class="body">Celeste watched David’s face—the way his eyes went unfocused when he was running internal calculations, the micro-twitch at the corner of his mouth that meant he was suppressing something.</p>
+<p class="body">“You think I want to play games,” David said quietly.</p>
+<p class="body">“Christ, David. You really don’t get it, do you? These aren’t games! They’re gates. You can’t get to the interesting work without passing through them first.”</p>
+<p class="body">“And if the gates are designed to filter out exactly the kind of thinking that might actually—”</p>
+<p class="body">“Then you beat them.” Marcus was in David’s space now, looming. “You beat them at their own game, and then you flip the table. That’s how revolutions work. Not from some grad student’s dorm room with a half-baked theory about consciousness and music and—what—harmonics?”</p>
+<p class="body"> “Resonance.”</p>
+<p class="body"> “Resonance.” Marcus laughed, but it wasn’t kind. “You want to publish a paper on resonance and expect anyone to take you seriously?”</p>
+<p class="body">David was on his feet before Celeste could react. “You don’t get to decide what’s serious.”</p>
+<p class="body">“Someone has to! Because you won’t!”</p>
+<p class="body">They were chest to chest now, or close enough—Marcus had three inches on him, a fact he’d never once made David feel until this moment. David’s hands were balled. Marcus’s chin was lifted, daring.</p>
+<p class="body">“Hey.” Celeste’s voice cut through like a tuning fork. Sharp. Singular.</p>
+<p class="body">They both turned.</p>
+<p class="body">She hadn’t moved from the floor, but something in her posture had shifted—a stillness that demanded attention precisely because it refused to compete for it.</p>
+<p class="body">“Sit down.” Not a request. “Both of you.”</p>
+<p class="body">Marcus opened his mouth.</p>
+<p class="body">“Sit.”</p>
+<p class="body">He sat. David remained standing for three more seconds—some autonomous system still running the calculations of masculine pride—then lowered himself back to the floor, shoulder blades finding the bed frame again.</p>
+<p class="body">Celeste let the silence build. Outside, a bus groaned through its gears, Doppler-shifting from minor to major as it passed.</p>
+<p class="body">“You’re both right,” she said finally. “That’s the problem.”</p>
+<p class="body">Marcus crossed his arms. “Explain.”</p>
+<p class="body">“David’s right that the connections are real. There’s something that lines up. The math underneath the music. Call it resonance, or pattern recognition, you can call it pareidolia. But it’s there. And it wants to be understood.”</p>
+<p class="body">David exhaled. Celeste held up a hand.</p>
+<p class="body">“And Marcus is right that it doesn’t matter. Not yet. At least, not the way you want it to matter. You can’t storm the gates with a manifesto. You have to earn the right to be taken seriously. It takes time, David… and  compromise. And I know, compromise feels like betrayal when you think you can see something nobody else can see.”</p>
+<p class="body">“I can see something nobody else—”</p>
+<p class="body">“I know.” Her voice was gentle. “I believe you. We both do. But belief isn’t proof. And proof takes time. And you don’t have to solve everything tonight.”</p>
+<p class="body">The radiator clanked.</p>
+<p class="body">Marcus reached for another beer, cracked it open, and took a long drink. When he spoke again, the fight had drained from his voice.</p>
+<p class="body">“I’m not trying to kill your idea, Dave. I’m trying to keep you alive long enough to prove it.”</p>
+<p class="body">David stared at the floor. His fingers moved against his thigh—unconscious, compulsive—playing a passage only he could hear.</p>
+<p class="body">“What if it takes thirty years,” he said. “What if I prove it and nobody’s left who remembers I was crazy for thinking it?”</p>
+<p class="body">“Then you’ll be vindicated.”</p>
+<p class="body">“That’s not the same as being heard.”</p>
+<p class="body">Celeste reached across the space between them and put her hand on David’s knee—a gesture so simple it embarrassed no one.</p>
+<p class="body">“We’ll remember,” she said. “Marcus and I. We’ll know what you were trying to say before you could say it.”</p>
+<p class="body">Marcus raised his beer in something that was almost a toast, but was undeniably an olive branch.</p>
+<p class="body">“To the lunatics.”</p>
+<p class="body">David looked at him. Something passed between them—old resentment meeting older affection—and finally, finally, his shoulders dropped.</p>
+<p class="body">“To the lunatics.”</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-02.html">Chapter 2</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,8 +220,8 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>584</strong>&thinsp;words&ensp;<strong>42</strong>&thinsp;paragraphs&ensp;<strong>2</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">Project ARGO</a><span class="scene-range">w.52–280 · ¶6–22</span></div>
-    <div class="scene-entry"><a href="#scene-2">ARCHIVE ENTRY: LOGBOOK ADDENDUM</a><span class="scene-range">w.281–584 · ¶23–42</span></div>
+    <div class="scene-entry"><a href="overture-scene-01.html">Project ARGO</a><span class="scene-range">w.52–280 · ¶6–22</span></div>
+    <div class="scene-entry"><a href="overture-scene-02.html">ARCHIVE ENTRY: LOGBOOK ADDENDUM</a><span class="scene-range">w.281–584 · ¶23–42</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -216,8 +230,8 @@ Title: (Fragment recovered from sealed archive)
 Word Count: 584
 Paragraph Count: 42
 Scene Count: 2
-Scene 1: Project ARGO -- Word Range: 52–280 | Paragraph Range: 6–22
-Scene 2: ARCHIVE ENTRY: LOGBOOK ADDENDUM -- Word Range: 281–584 | Paragraph Range: 23–42
+Scene 1: Project ARGO -- Word Range: 52–280 | Paragraph Range: 6–22 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture-scene-01.html
+Scene 2: ARCHIVE ENTRY: LOGBOOK ADDENDUM -- Word Range: 281–584 | Paragraph Range: 23–42 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture-scene-02.html
 [ End Manifest ]</div>
 <p class="default">(Fragment recovered from sealed archive)</p>
 <p class="default">CORNELL UNIVERSITY</p>

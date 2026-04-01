@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 3 · Scene 1: I.  Chorale   |   Wednesday Dinner</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="3">
+<meta name="scene" content="1">
+<meta name="scene-count" content="8">
+<meta name="word-count" content="1979">
+<meta name="paragraph-count" content="83">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-03.html">Chapter 3: Fruitful Eve, False Dawn, Fateful Night</a>
+    
+    <a href="chapter-03-scene-02.html">Scene 2 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 3 &middot; Scene 1 of 8</div>
+  <div class="chapter-heading">I.  Chorale   |   Wednesday Dinner</div>
+  <div class="chapter-subheading">a secular passion in eight movements</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,979</strong>&thinsp;words&ensp;<strong>83</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>8</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 3 · Scene 1 of 8 ]
+Chapter Title:   Fruitful Eve, False Dawn, Fateful Night
+Scene Heading:   I.  Chorale   |   Wednesday Dinner
+Scene:           1 of 8
+Word Count:      1,979
+Paragraph Count: 83
+Chapter Words:   1–1,979 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.  Chorale   |   <em>Wednesday Dinner</em></div>
+<div class="tempo-1">Dolce e semplice </div>
+<p class="body">The restaurant’s acoustic tiles couldn’t quite contain the Wednesday evening murmur, but Celeste had chosen their corner table precisely for its distance from the kitchen’s percussion section. David arrived seven minutes late, chalk still visible under his fingernails despite three washings.</p>
+<p class="body">“You look like you haven’t slept since Sunday,” she said, not looking up from her wine menu.</p>
+<p class="body">“Monday,” he corrected, settling into the booth. “I slept Monday. For three hours.”</p>
+<p class="body">She ordered wine for both of them—she always did when his eyes carried that particular frequency of exhaustion. When the pinot arrived, David watched her swirl it with the controlled precision of a bow hold.</p>
+<p class="body">Though this dinner was—by mutual agreement—no longer required under their dissolved romantic tethering, both had agreed exactly three-hundred eighty-seven days ago that ten years of Wednesday suppers was far too much ritual to be undone by the semantics of relationship status.</p>
+<p class="body">For David, the rhythms of these ninety weekly minutes had long since fused into bone, into the very rhythm of him. He could feel it hours before—the subtle prelude. His body began to prepare of its own accord: heart rate, brainwave, cortisol, and dopamine all aligning in rehearsal for what would come.</p>
+<p class="body">In truth, he was chemically addicted to what Celeste still did to his mind—the precise neural cortical pattern her presence evoked. He had once calculated, only half in jest, that there was a 92.7 percent certainty he would be sitting here each Wednesday evening whether she came or not.</p>
+<p class="body">It wasn’t because he liked the food—he used to, but the kitchen had declined into something halfway between “continental” and “short-order plus.” Nor was it the atmosphere—he found it unbearable now, the chatter of undergrads fraying the edge of his last nerves.</p>
+<p class="body">No, empirically, the reason was simple: he could no longer cope with the withdrawal. It was more efficient, he reasoned, to endure a mediocre meal than to recalibrate the neural circuitry that expected her. Missing this hour would mean chemical disarray, and he was too tired to recover from that kind of chaos again.</p>
+<p class="body">Of course, he could never—would never—admit this to Celeste. Not from compassion, but because it would violate the equation. If she was not there physically, then mathematically she must be canceled out emotionally by an equal and opposite force. </p>
+<p class="body">Balance restored. Equation satisfied.</p>
+<p class="body">That made sense. That was all…</p>
+<p class="body">That, and he was quite fond of the chicken piccata.</p>
+<p class="body">She watched the faint tremor in his wrist when he reached for the glass.</p>
+<p class="body">“Long day?” she asked.</p>
+<p class="body">He nodded without looking up. “They’re all long now.”</p>
+<p class="body">She wanted to touch his hand but settled for refolding her napkin instead. The candlelight made him look almost well. If she didn’t stare too hard, she could believe it.</p>
+<p class="body">“You’ve done something with your hair, yes?” David wondered, unsure which version of her he was ever seeing… twenty years congealing into one or a thousand looks.</p>
+<p class="body">“Mmm… no. No, I don’t think so.” But she was happy he noticed anything at all.</p>
+<p class="body">“You sure? Didn’t get it cut or—”</p>
+<p class="body">“No, David, I’d remember.” She smiled sheepishly.</p>
+<p class="body">“Well, you look… you look beautiful.”</p>
+<p class="body">She glanced up—with a blink and sideways smile as she tucked a wayward chunk of hair back around her right ear.</p>
+<p class="body">And that… that was all it ever took to make truth flood back in. That was all David’s heart needed to gain strength enough to retake the narrative. Because no matter the chemicals, the equational equilibrium, the cold math of the lack of her… he knew, when pressed to his core, that if a Wednesday ever came when she stopped coming—when she truly gave up and left him alone—it would end him. Beyond any doubt… he’d be finished.</p>
+<p class="body">He tried not to linger on the thought, but he hadn’t really slept. And when the mind weakens, the senses turn traitor—betraying all with triggers of scent and sound; of memory, of pain, of truth.</p>
+<p class="body">The penance was his. He knew what he had done, and what he had lost. From that final evening to this mirrored night, guilt had rooted and grown—its tendrils fresh again as new, mourning dew.</p>
+<p class="body">She sat that night as she did now—just three feet away, yet far beyond reach. Distance had become elastic and cruel. A vast ocean had opened between them: two plates of half-eaten pasta adrift like passing ships. Those three feet felt as wide and wicked as the river Styx itself.</p>
+<p class="body">He reached for words, old instruments once charged with meaning, but the current was gone. The air between them thinned. Sounds turned spectral. His words were husks now—hollow, weightless, falling like ash.</p>
+<p class="body">And in that silence came the final cruelty: the world no longer answered to speech. Meaning had gone ahead of him into the dark and would not turn back.</p>
+<p class="body">He took a sip of water. A tear fell into the glass.</p>
+<p class="body"><em>  </em><em>No. Just too much ic</em><em>e</em><em>—</em><em>a</em><em> clumsy hand. That was all.</em></p>
+<p class="body">He straightened the napkin, the menu, himself—small rituals of order. Stones on a grave.</p>
+<p class="body">They stared down at the menus in silence.</p>
+<p class="body">Celeste would always come. Her friends told her she was weak for it, that she was indulging his pathology, normalizing his self-absorption. They eventually stopped saying it—or stopped calling her at all.</p>
+<p class="body">Still, she came. Every Wednesday.</p>
+<p class="body">At intervals between six and seventeen seconds, while pretending to read the entrees, she glanced up from her laminated refuge to study the man she loved and lamented in equal measure. She hoped he didn’t notice. He always noticed.</p>
+<p class="body">She thought if he did, her friends would be vindicated—that he’d see her as weak. She needed him to believe that leaving had been an act of strength. She needed to believe that herself.</p>
+<p class="body"><em>  </em><em>Christ, stop looking. Where</em><em>’</em><em>s the damn waiter?</em></p>
+<p class="body">“Should we order?” she nudged. “Let’s get the waiter.”</p>
+<p class="body">  <em>Why do I come</em>?</p>
+<p class="body">She knew why she came—to check in, to see how he was: his mind, his demeanor, the shake of his hands.</p>
+<p class="body">That, and… she did so very much love the Linguine Caruso. She smiled faintly at the absurdity. David thought it smelled vaguely of dead rat. Maybe that’s why she loved it—because David did not.</p>
+<p class="body">“How’s your mom doing?” she asked. There was a delay.</p>
+<p class="body">“Hmm?—What was that?”</p>
+<p class="body">“I said, how’s your mom doing? I talked to her right after we got back from Boston—she sounded a little… lost.”</p>
+<p class="body">“Shit!”</p>
+<p class="body">“David, tell me you’ve spoken to your mother since the funeral. She’s alone in that house for the first time in almost 50 years.”</p>
+<p class="body">“No, I mean, yes… of course I have. I talked to her for 2 hours on the drive back. I even called her from Buffalo over the weekend. No, I just… The executors of Dad’s will. I keep missing their calls during lectures, and I—“</p>
+<p class="body">He stopped cold and turned his gaze out the window to the quiet street beyond. A street for which he could not find a focus point presently as he tried to shield a weak eye from the one woman on the planet who might actually understand and accept the shimmer.</p>
+<p class="body">“Hey…” Celeste reached her hand to his cheek, coaxing David back to her. “It’s okay. It’s what you hired lawyers for. So you can miss their calls a few times and everything your dad wanted done will still get done. Right?”</p>
+<p class="body">“Yeah,” he said. Turning back to her with a false, if brave attempt at a smile.</p>
+<p class="body">Something in him had to admit, as he sat there staring across the table at the only woman he’d ever truly needed, and now the only woman he’d truly thrown away in spite of it, that the missed calls with the lawyers: they were tactical. If the will had not yet been fully executed, the boy inside him could still keep on believing that Dad was still in the parlor, smoking a cigar and playing his violin all day. Just like he was last month, last year, since the day his son David had become a reality in this world. </p>
+<p class="body">“I miss him too, David. Best father-in-law a girl never had.”</p>
+<p class="body">The waiter arrived. He wasn’t allowed to deliver the specials nor suggest a beverage upgrade before—</p>
+<p class="body">“I’ll have the Caruso.”</p>
+<p class="body">“And the piccata for me.”</p>
+<p class="body">“Anything to drink with your meals? Another glass of—”</p>
+<p class="body">Together, in parallel: “No thanks. Water’s fine.”</p>
+<p class="body">They waited while the major-undeclared freshman faded from earshot.</p>
+<p class="body">&quot;Da-vid.&quot; Celeste&#x27;s voice stretched the two syllables into a reprimand that only ex-wives, girlfriends, and certain mothers can achieve—a precise instrument of calibrated disappointment.</p>
+<p class="body">&quot;Yes. You&#x27;re right, I&#x27;ll… I&#x27;ll keep up on… on all of that.&quot;</p>
+<p class="body">&quot;She needs you now more than she ever did. Don&#x27;t let your work do that thing you always let it do.&quot;</p>
+<p class="body">&quot;I know. I know. I&#x27;ll call her tomorrow. She&#x27;s fine. The old battle axe is fine.&quot;</p>
+<p class="body">&quot;You and I both know that&#x27;s not true. The same way we both know you are not fine.&quot; A pause. &quot;And that&#x27;s… okay.&quot;</p>
+<p class="body">&quot;Yeah… I know.&quot;</p>
+<p class="body">The conversation expanded from there, lightly tracing the familiar grooves of their shared geography. Department meetings. Ithaca gossip took the reins of focus for a time, that particular currency that circulated through faculty corridors and, more abundantly still, through the students they held in common. Who was dating whom, who had broken up with so-and-so and was now with blank—the sort of nonsense teachers can never quite avoid absorbing through osmotic exposure, students having long since abandoned any pretense of privacy within earshot of their professors.</p>
+<p class="body">Big school, small town. A fine line between professional and personal. A fine line between teacher and counselor, between mentor and friend, between humanity and something colder, more appropriate. Fine lines all around—invisible, permeable, and utterly unforgiving when crossed.</p>
+<p class="body">She feigned interest in frameworks in order to gather intel and report back to Dr. Ishikawa. Together they formed an unofficial sanity index. On this night, she found data abundant: his pulse in conversation, his coherence, the scatter of chalk on his cuffs. And while he talked and the plates cooled, a small idea began to emerge through the fog of digestion.</p>
+<p class="body">“David.” Her voice had the tone she used when tuning an ensemble. “When did you last play something just for pleasure? No equations, no frameworks. Just… music.”</p>
+<p class="body">He started to protest, then saw her expression. Twenty years had taught him it was in his best interest to attend to this particular intervention.</p>
+<p class="body">“There’s this tuning I’ve been thinking about,” she said. “Pythagorean, with modern alterations. Elegant in a purely musical sense. Nothing to do with quantum mechanics or—”</p>
+<p class="body">“Cele—”</p>
+<p class="body">“Just one evening. Let the physics sit in the corner like a good dog while you play with something that won’t give you a migraine.”</p>
+<p class="body">As the meals arrived, he found himself actually considering it. She talked him through the modified ratios, 3:2 fifths adjusted by comma variations to create new harmonic colors. Her hands moved as she explained, shaping intervals in the air.</p>
+<p class="body">He stared into her eyes, incomprehensibly eager to hear what he already knew. He’d toyed with the idea months ago and found it of mild value. But his face told Celeste only that he was willing, even eager to jump in with both feet… and a cello.</p>
+<p class="body">“We could try it tonight,” she said. “Back to the house. I’ve got the viola charts worked out… David…?”</p>
+<p class="body">He was staring, nodding, even smiling, but not responding.</p>
+<p class="body">“I say… David?”</p>
+<p class="body">Without a word he raised his hand for the check, threw down enough cash, grabbed her hand, practically lifted her from the booth, and in one short stretch from table three to the host stand, almost to the door, exclaimed, “Pythagorean tuning!”</p>
+<p class="body">Celeste erupted. “Adjusted perfect fifths, here we come!”</p>
+<p class="body">They made their spectacle and flew into the emergent evening.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-03.html">Chapter 3</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

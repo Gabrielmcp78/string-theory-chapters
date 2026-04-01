@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 1 · Scene 1: I.  THE CLASSROOM</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="1">
+<meta name="scene" content="1">
+<meta name="scene-count" content="4">
+<meta name="word-count" content="4358">
+<meta name="paragraph-count" content="183">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-01.html">Chapter 1: Opus No. 46  in D minor   “Of Life”</a>
+    
+    <a href="chapter-01-scene-02.html">Scene 2 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 1 &middot; Scene 1 of 4</div>
+  <div class="chapter-heading">I.  THE CLASSROOM</div>
+  <div class="chapter-subheading">a string quartet in four movements</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>4,358</strong>&thinsp;words&ensp;<strong>183</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>4</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 1 · Scene 1 of 4 ]
+Chapter Title:   Opus No. 46  in D minor   “Of Life”
+Scene Heading:   I.  THE CLASSROOM
+Scene:           1 of 4
+Word Count:      4,358
+Paragraph Count: 183
+Chapter Words:   7–4,364 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.  THE CLASSROOM     </div>
+<div class="tempo-1">Andante sostenuto—Presto agitato  </div>
+<p class="body">It was, perhaps, an unfortunate hour to be speaking of coherence.</p>
+<p class="body">Professor David Lang stood hunched before a blackboard that had grown suspicious of his intentions, inscribing symbols not with confidence but with the tragic diligence of a man increasingly convinced—by mounting evidence—of his own elite academic failure to rise. </p>
+<p class="body">The lecture hall, always five degrees too warm, was a quiet expanse of yellows and browns. Two back walls of impossibly thin, improbably tall windows overlooked the glacier-carved canyons of East Hill, their right-angled panes slicing daylight into shards. The light never arrived cleanly here—only fractured. False.</p>
+<p class="body">Now, the room was simply upholstery for the chair. And a very well-endowed one at that. David was the Feynman Chair of Quantum Dynamics at Cornell University—had been for nearly nineteen years. Though lately he could sense—in brittle emails, in the deflective eyes of students, in the way a chalk screech pierced from board to bone—that the title, once a reward, had become its own diagnosis: a public credential for a man in private decline.</p>
+<p class="body">It wounded him from within—this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were. A brushed-metal plaque by the door marked David’s assignment to the post. The inscription highlighted the room’s design, claiming its “unique ornamentation” aimed to “soothe the psyche and elicit heightened states of mental acuity.”</p>
+<p class="body"><em>They said the same things about heroin for a hundred years.</em></p>
+<p class="body">Though sixty-three students were on the roster, roll call revealed that, on this crystalline afternoon, only twenty-seven had deemed Professor Lang’s insights of greater value than a midday nap. Of these, David identified a mere thirteen who appeared present in any meaningful sense. A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.</p>
+<p class="body">David’s voice—once confident and of dry wit—had lately taken on a more resigned, ingratiating timbre as he explained superposition to the drowsy air.</p>
+<p class="body">“Imagine,” he began, “a coin—already in your pocket—its presence unknown, and therefore its value is…. Anyone?” Nothing. Not a sound from the peanut gallery. He continued, “Time’s up. Thank you for playing. Indeterminate is your answer for those keeping score.” </p>
+<p class="body">He looked about the room, dead eyes everywhere. “Also… indeterminate, I see. Okay. Only when your hand closes around it does the system collapse and a definite worth emerge. That’s when you learn whether you can afford a proper meal, or will have to settle for yet another pack of ramen noodles.”</p>
+<p class="body">A mild chuckle caught throughout the room.</p>
+<p class="body">  <em>They</em><em>’</em><em>re alive. A miracle. Use it.</em></p>
+<p class="body">“You think I’m joking? I’m not. Until observed, that coin lives in a cloud of probability. It could be a dime, a quarter, even some rare mis-strike worth more than your tuition. Though who are we kidding? No coin is worth that much. But, hey, take a look around the room. See if you can spot the person with the Ivy League tuition penny in their pocket.”</p>
+<p class="body">Students began pointing at each other. A few, emboldened, even pointed at David.</p>
+<p class="body">“Me?” He laughed. “Not a chance. I’m not that lucky.”</p>
+<p class="body">The room loosened. For a moment, they were with him.</p>
+<p class="body">“That’s the tyranny and the grace of superposition. Before you get involved: possibilities are endless. After you choose to engage: no choices left.” </p>
+<p class="body">They settled. The silence that followed was attentive, almost reverent. David let himself enjoy it, the faint rise of pride he did not bother to hide from himself. He had missed this. It used to come easier.</p>
+<p class="body">He stepped to the desk for a fresh stick of chalk, one hand still half-raised toward the students, as if to hold the thought in place until he turned back. When his fingers closed around the box, pain moved through them. Sudden. Familiar. His joints now remembering something they knew too well.</p>
+<p class="body">Dust hung in the slant of afternoon light, each mote briefly suspended in its own small uncertainty.</p>
+<p class="body">He turned back to the board before the moment could thin, his arm swinging wide like a conductor drawing in some distant section. The clean edge of the chalk struck sharp against the board.</p>
+<p class="body">“Now, look—here—” he said, scrawling the causal expansion across the slate:</p>
+<p class="body">“This,” he tapped the <strong>Ψ</strong>, “is the whole wave function—the system. Everything that can be, all at once. A probability cloud, if you like metaphors, which I do.”</p>
+<p class="body">He underlined the summation. “This sum—this <strong>Σ</strong> stacks up all the possible states the system could collapse into. Each<strong>|</strong>ϕᵢ⟩<strong> </strong>is a state, a version of reality. The little <strong>c</strong>ᵢ out front? That’s how likely each one is. Their weights. Their vote count, if you like democracy, which I do.”</p>
+<p class="body">He paused just a hair too long.</p>
+<p class="body">“But this,” he circled the final term, “this… is—” </p>
+<p class="body">Then—nothing.</p>
+<p class="body">Now… he wasn’t sure if he’d actually said the word <em>noise</em>—or if, at that exact moment, he’d only heard it.</p>
+<p class="body">But something… something answered.</p>
+<p class="body">A hum—no, a buzz. Deep, menacing, unforgiving. <em>68.48 Hz</em>. Not a guess. The number came to him without warning, instantly, as if calculated somewhere else and then inserted into his head.</p>
+<p class="body">It flooded his mind like seawater into a breached hull. The sound scraped deep into the soul of his belly—visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion. </p>
+<p class="body">They’d seen it. How could it be otherwise? And with that, the superposition of this lecture collapsed.</p>
+<p class="body">He had to pivot. He couldn’t think—the low droning in his ears, a blatant, involuntary confession disguised as formalism, mocking him from all sides. Still, David knew he could salvage this. He’d done it before. But he would have to abandon this tack.</p>
+<p class="body">“All right, you know what… let’s… let’s shift the frame. Honestly, I’m not even sure I understand what I‘m saying there, so...”</p>
+<p class="body">He turned back to the board, heartbeat—staccato. Maybe a switch to Einstein would do—something familiar. He had half a mind to ask if anyone had an apple, but decided to leave Newton out of this.</p>
+<p class="body">What came to him instead wasn’t strictly physics, but it was something, and David—unsettled and unsure—decided to give it a chance.</p>
+<div class="equation"><strong>How do you measure proximity</strong><strong>?</strong></div>
+<p class="body">Then underneath:</p>
+<p class="body">He stepped back. Squinted. Erased it—Rewrote:</p>
+<p class="body">Better. Maybe. He just wasn’t sure. He couldn’t hear himself—wasn’t thinking in tune—the buzz of memory cutting off the link of lecture.</p>
+<p class="body">“When the world resonates,” he said, voice gone soft and strange, “you feel less alone. Even when no one’s listening—you feel connected. Like there’s… structure underneath the noise. But drift just a little half a harmonic even, and that structure collapses. The space between intention and reception grows.”</p>
+<p class="body">He turned. Looked over the room. “It’s not theoretical. It’s measurable. There’s a fundamental frequency under everything. Beneath language. Beneath light.”</p>
+<p class="body">Silence. The kind that signals judgement.</p>
+<p class="body">And then, he saw him.</p>
+<p class="body">Dr. Rune Ishikawa.</p>
+<p class="body">Standing—no, placed—in the doorway. The chair of the department. The <em>Guardian of East Hill</em>. Arranged like a symbol. </p>
+<p class="body"><em>Shit! </em><em>How long had he been standing there?</em><em> How much of that dreck had he</em><em>…</em></p>
+<p class="body">Then Rune did the unthinkable. He piped in. “Are you not, in fact, describing… musical harmony, Professor Lang?”</p>
+<p class="body">David froze. Something inside him snapped taut. A tension string pulled too far, too fast.</p>
+<p class="body">“No, no I’m not, Rune. Christ! What an idiotic question.” He began careening back and forth. “Harmony is passive. It’s a fucking consequence. Resonance is physical. It builds.”</p>
+<p class="body">“Oh, I see, so—” and he smiled slyly, “vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”</p>
+<p class="body">“Well, yes. I mean…” Lang had lost the thread.</p>
+<p class="body">Ishikawa had most certainly not. “Resonant structure can alter without altering the base harmonics, isn’t that right?”</p>
+<p class="body">“That is a conveniently—“</p>
+<p class="body">“You know,” Rune continued, as if David was not even there, “it’s been a long time since my marching band days, so correct me if I’m wrong, but a minor third atop a major third creates a major triadic harmony. However, inverted, that same harmonic structure can be created by a major third and… oh, shoot—what is it… help me, won’t you, David? It’s a—”</p>
+<p class="body">“A perfect fourth,” David replied, begrudgingly.</p>
+<p class="body">“Of course,” Rune snapped his gloved fingers, “that’s right, a perfect fourth. Well… I must be missing something, yes?” Rune placed both his hands palms down into the front pockets of his suit jacket, and with a slight, elegant shrug finished the line, “or perhaps the inquiry is, as you say… idiotic.”</p>
+<p class="body"> David was seething now. Not lecturing. Not reasoning. Just raw. </p>
+<p class="body"> “Harmony happens when everything is already aligned. Resonance creates that alignment.”</p>
+<p class="body"> He swiveled back and pointed toward the doorway.</p>
+<p class="body"> “And you—you of all people, Rune—you know that—”</p>
+<p class="body"> Silence. Nothing. There was no one in the doorway. Rune was gone. No expression. No comment. Just gone. </p>
+<p class="body">David caught his breath. Let the fury settle like ash. Then, he turned back to the board—confused, embarrassed even. He simply wrote:</p>
+<p class="body"><strong>  </strong><strong>Resonance = Survival</strong></p>
+<p class="body">This time, he let it stay.</p>
+<p class="body">Behind him, the sound of shoes shuffling—soft leather, unhurried—the pace of administrative authority.</p>
+<p class="body">David stood there, frozen, staring into the void. The raw, reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it. He lunged toward the projector, flipped the power as if the switch alone could crack open the cage he’d built.</p>
+<p class="body">The machine whirred to life—light cutting through the fog of before—casting a silver glow across the dust-veiled room. The first slide flickered onscreen. And then, to complete this brute-force recovery, he shouted out his next command:</p>
+<p class="body">“Right then. Moving on! Now… this is a section from the Lang–Feldman Diagram. It maps the overlap between psychoacoustics and neural patterning in recursive feedback loops. Or at least it did, until someone rewrote the grant proposal as a ‘sound art initiative.’”</p>
+<p class="body">Mild laughter. Or maybe it was only static.</p>
+<p class="body">He clicked forward. A waveform graph.</p>
+<p class="body">Click. </p>
+<p class="body">An anatomical rendering of the cochlea—the inner ear.</p>
+<p class="body">Click—</p>
+<p class="body">Wait…</p>
+<p class="body">A photograph sliced through the photon mist and bled onto the screen. A Polaroid.</p>
+<p class="body">Within its thick white frame—evening fog, a vast field of frost-kissed northeastern green. At the center of the frame, a single tuning fork, half-buried in wet soil. The resonance prong pointed to the sky as if a question had been answered that no one was supposed to hear. </p>
+<p class="body">David nearly choked. He knew this image. He had taken this image. Or maybe…no—<em>Celeste</em><em> </em>had. Yes.</p>
+<p class="body">His mind began to tease him, the ancient moment unfurling again: the tuning fork, Celeste striking it against the bench.</p>
+<p class="body">The year of the agreement. The capsule. The year before everything…</p>
+<p class="body">The humming buzzsaw suddenly slammed back into his skull—deeply resonant, violent, modulant. It pulsed with an insistence that refused to be ignored. This was more than memory. This was menace!</p>
+<p class="body">His hands hovered over the remote, but he was unable to grab it. The mounting tremble in his forearm now bordering on quake. Menace or no, that picture was staring at him—unflinching. Immutable. He could not help but stare right back. The image swirled—an unencumbered recursive.</p>
+<p class="body">Fog. </p>
+<p class="body">    Field. </p>
+<p class="body">          Fork.        </p>
+<p class="body">He remembered the unholy stillness of that long-ago night. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe—it made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they&#x27;d all agreed must go to ground that night.</p>
+<p class="body">He could hear the click of the Polaroid afterwards… how long it took to develop. Celeste’s voice floating on air; freezing over the crystalline mist.</p>
+<p class="body"><em>If it&#x27;s real, it&#x27;ll </em><em>claw</em><em> its way out.</em><em> It will come back to us.</em></p>
+<p class="body">She had meant it to encourage, but it returned to David now as pure threat.</p>
+<p class="body">Now the hum burrowed deeper into David’s chest, the air turning dense, resistant. His lungs faltered. It felt like a hand had closed around his throat—tight, invisible, lifting him into stillness. Then, suddenly, the sound pulled back. The pressure eased. The air thinned, as if exhaling for him. And slowly, uncertainly, his voice returned.</p>
+<p class="body">It was softer than before. Not a lie exactly, but close enough—like telling someone the fall will only last a second, when you both know time stretches differently on the way down.</p>
+<p class="body">“My apologies,” he said. “Wrong… wrong file.”</p>
+<p class="body">He returned, tried to finish the line of inquiry as if nothing had happened, but clearly something had. Every thought suddenly arrived exsanguinate, dulled, useless. Something inside him had shifted and his ability to share knowledge was turning from him.</p>
+<p class="body">He shut off the projector. The image was gone, but the memory had not finished developing.</p>
+<p class="body">Then—quietly, and with unconscious intent—he reached out and touched the blackboard. Sweeping over its surface—just a few fingertips, no more. The chalk dust greeted him like an old friend, and for one brief, unknowable moment there was nothing. No hum. No room. Only the strange impression—impossible, immediate—of a string answering somewhere beyond him.</p>
+<p class="body">“Professor?” The voice rose from the front row, but it did not register to David. “Professor Lang?”</p>
+<p class="body">Still nothing. His fingers—his entire body—now presented as inanimate, stuck, mired in the act of reaching back and wondering through time.</p>
+<p class="body">The class sat poised on the edge of reaction—glassy-eyed—all crunching the same calculation. Was this a prank? Some kind of retribution for a class-wide lack of vigor? Or perhaps all was well—pedagogy in suspended motion—the point too clever by half. No one wanted to be the first to decide which.</p>
+<p class="body">A biology major auditing the course to fill a requirement found she had less fear or reverence for the subject of the frozen professor. She got up, walked around the edge of the bench, into the aisle, and marched right down to meet Lang’s frozen face. With a bravery that the remaining students found grotesquely admirable, she pressed her cheek against the blackboard, mirroring his sideways stare. Then with a tone suited to someone trying to speak through a windstorm shouted, “Will… this… be… on… the… mid…term… Professor?”</p>
+<p class="body">David’s eyelid twitched. The stunt had worked—jolting him back to the present. His arm and hand released their frozen hold and fell to his side. And without moving his body further, he locked his eyes with hers, cracked an absurdly exaggerated grin, and with a ghoulish voice replied, “All concepts presented are… potentially examinable.”</p>
+<p class="body">The tension shattered, students howled in laughter and relief. David dared not dwell on what he had just managed to wiggle out of.</p>
+<p class="body">With this impossible recovery firmly in hand, he exclaimed, “Oh, I had you guys so good just now!”</p>
+<p class="body">More laughter, though some of it felt less than genuine. David checked the clock. Exactly five minutes, twenty-eight seconds remained.</p>
+<p class="body">“I think I’ve put you all through enough for one day. Let’s end there, shall we?” he said. Then louder as the rustle of the end of things filled the air, “You’ll read Kozlowski’s ‘Sympathetic Structures’ for next time. Chapters two through six. Pay attention to the footnotes. The math is wrong, but the metaphors are sound.”</p>
+<p class="body">Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung, when the world was young and full of promise. But now it had hardened into a badge of purity. He found it, if not admirable, at the very least, useful.</p>
+<p class="body">The TA, a graduate student, was the last to leave. She handed him her doodle-covered lecture notes, a veritable travel log of geometric non sequiturs that concluded with a thinly scribbled block of text that read, “Clever save, David. Everything alright?”</p>
+<p class="body">Above the note of concern, something else—a crude declarative, only partially scribbled out—as if half intending to redact the words beneath, half to highlight them. It simply read, “<em>WHAT THE FUCK?</em><em>”</em></p>
+<p class="body">David blinked, then swallowed, finally remembering to inhale. It was the perfect transcription of the debacle that had been the last hour and a half, and he knew it.</p>
+<p class="body">As the last student exited and the door closed, he allowed his haunted gaze to drift towards the back of the hall. Winter light thinned to silver, stretching time in its wake as he looked out through the striated windows to the fall-frosted quad beyond. </p>
+<p class="body">He could hear it… flowing under the benches, creeping and climbing up the tree trunks beyond, flowing through the rapid falls of water and ice. It was out there… out there pacing… waiting for him… always patient, but now in punishment. The towering glass would not be protection enough—not remotely so. Whatever the source, whatever the reason, the message was clear. This chase was over. David knew it—felt it—heard it deep within. He could run no longer. </p>
+<p class="body">He dashed back to the desk, grabbed a fresh eraser, and began obliterating the afternoon&#x27;s wreckage. Chalk dust snowed over his oxfords like sand through an hourglass possessed of endless patience. In the haze of what he&#x27;d disappeared—in the instinct to distance himself from what he believed but couldn&#x27;t defend—lay everything. Not just to salvage a lecture, but to reclaim the life that was promised him—that he was so certain was his birthright; a life now buried with the theories he&#x27;d abandoned twenty years ago.</p>
+<p class="body">The clean boards now bore witness to an institutional truth: if it wasn’t declared in chalk, it hadn’t happened. Yet David stopped short of total erasure. Whether the choice came from bravery or foolishness, he could not say.</p>
+<p class="body">He stepped back, staring at the declaration. The backs of his knees struck the front bench, and his body yielded at once to the prompt. He sat, let his weight surrender the effort of holding itself upright, and within moments slipped into the kind of late-afternoon sleep that overtakes the overworked and the defeated.</p>
+<p class="body">Hours later he awoke slumped over in the front row, his neck cramped against the bench. The words remained on the board, gleaming white against the dull black surface.</p>
+<p class="body">David sat there, gazing, lingering, wondering… when a shadow in the doorway caught his eye.</p>
+<p class="body">“Do my eyes deceive, or is that Professor David Lang, still here on a Tuesday…and at moping hour?”</p>
+<p class="body">“Your eyes are true, Ralph. Evening.”</p>
+<p class="body">“I believe I predicted this one, Professor.”</p>
+<p class="body">Ralph stepped gently into the room, dragging his cart in tow.</p>
+<p class="body">“Yes sir. Even ran the math for you. Remember? What was it?”</p>
+<p class="body">“Yes, eighty-six percent of the time. You were right, of course.”</p>
+<p class="body">“That’s it, yeah. Eighty-six percent of the time, Tuesday evening rounds—Professor Lang’ll be fast asleep in his big, important Feynman chair, dreaming of chalkboards.”</p>
+<p class="body">David chuckled, exhausted and amused. As Ralph approached, David held out a twenty, pinched between two fingers. </p>
+<p class="body">“Got me pegged on this one, Ralph. I believe this belongs to you, then.” </p>
+<p class="body">The octogenarian waved it off with a scoff, then rested a worn, calloused hand on David’s shoulder.</p>
+<p class="body">“Some of us sleep for free. Folks like you gotta pay for it.” Ralph’s attention shifted to the single equation on the slate.</p>
+<p class="body"><em>  </em><strong><em>Resonance = Survival.</em></strong></p>
+<p class="body">“Now that’s something I’ve not heard before, Professor.”</p>
+<p class="body">“How does it strike you?” David asked, a half-smirk teetering on his lips. </p>
+<p class="body">“True… I think. But of course… well, you’re the Professor, David. I just clean your knowledge up at the end of the night, but… I mean…”</p>
+<p class="body">“Come on, Ralph. Out with it.”</p>
+<p class="body">“Resonance builds up. Makes things more than the sum of their parts, right? Makes ‘em dangerous. So, I guess if I’m resonance, then, yeah… I equal survival. I don’t know. What do you think? You’re the professor.”</p>
+<p class="body">“Honestly, I’ve no earthly idea anymore, my friend. Except that… maybe you should be the professor.”</p>
+<p class="body">“You wanna trade this mop for that chalk?” He waved the idea off without even a second thought.b “Not on your life.”</p>
+<p class="body">“You’re a wise man, Ralph.”</p>
+<p class="body">“I know,” Ralph nodded, then lingered a moment before wandering back to his cart and mop with a quiet grin tickling his lips. As he turned to go, David gently slipped the twenty-dollar bill into Ralph’s shirt pocket. </p>
+<p class="body">“Goodnight, Professor Lang. Watch those side roads tonight. Slick as thieves.”</p>
+<p class="body">David flicked his fingers in acknowledgment—his reply curling away like cigarette smoke through a row of abandoned slot machines.</p>
+<p class="body">As he collected his things in silence, that silence began collecting him. The hall of glass exhaled its last shards of daylight, casting him gently towards the slow-blackened hallway, and into the spinning world once more.</p>
+<p class="body">Yet in the space between his lecture hall and the building&#x27;s double doors—that long corridor of polished tile and flickering fluorescence—something shifted. Probabilities began to whirl and cry havoc.</p>
+<p class="body">The resignation and docility of acceptable scholastic procedure began crumbling all around him.</p>
+<p class="body">The Polaroid. Where the hell did it come from?</p>
+<p class="body">His pace quickened. The files were locked away! Password-protected. There was no pathway for that slide to end up in the deck. None.</p>
+<p class="body">And Rune.</p>
+<p class="body">Forty-eight hours advance notice. University policy—evaluation requirements—Section 4.7 of the faculty handbook.</p>
+<p class="body">The anger clarified with each step. Sharpened. By the time David hit the building&#x27;s double doors and burst through into the quad, he was boiling.</p>
+<p class="body">Snow attacked him immediately—fat flakes driving sideways in the wind—but couldn’t land. The moment they touched his coat, his face, his hair, they vaporized. Steam rose from his shoulders. The heat radiating off him turned the falling snow into a halo of negative space, flakes approaching and then repelling like he was magnetized wrong.</p>
+<p class="body">He barely noticed. No, his mind was angling towards the office and files. And that noise… the frequency… was this some sort of cruel joke? <em>68.48</em><em> </em><em>H</em><em>z</em>… That’s precisely the—</p>
+<p class="body">Then, as if simply naming the thing out loud was enough to re-awaken the beast, the buzz returned.</p>
+<p class="body">It was not gradual. It did not creep its way back. It came roaring.</p>
+<p class="body">It detonated in his inner ear like a depth charge—so sudden and violent he staggered mid-step, one oxford skidding on ice.</p>
+<p class="body">“No. Not now!” He said it loud, though he had not intended to. “I&#x27;m done with you!” He screamed it into the night air.</p>
+<p class="body">But the sound was clearly not done with <em>him</em>.</p>
+<p class="body">It grew. Doubled. The air thickened with it—each breath pulling the vibration deeper into his lungs. His vision blurred at the edges. The snow, still falling, still repelled, created an impossible halo about his head, and through it he could feel the hum <em>pulling</em>.</p>
+<p class="body">Directional now. Coming from—</p>
+<p class="body">Ahead. Somewhere in the quad.</p>
+<p class="body">David&#x27;s rage shifted. Turned predatory.</p>
+<p class="body">“Fine,” he yelled into the frigid night. “You want me to find you? I&#x27;ll fucking find you!”</p>
+<p class="body">He dredged out toward it—heading now away from his office—following the resonance like a blood trail. The hum intensified with each step. Not louder. <em>Denser</em>. His molars ached. His sternum vibrated. The frequency climbed into his sinuses, his eye sockets, the hollow spaces behind his ears.</p>
+<p class="body">Ten feet. Twenty. Thirty into the quad.</p>
+<p class="body">The snow and lamplight conspired against him—refracting, diffusing, turning distance into abstraction. He could barely see three feet ahead. But it was not sight he needed now.</p>
+<p class="body">He could <em>feel</em> it. Closer. Closer. Until…</p>
+<p class="body">His shin struck iron.</p>
+<p class="body">The bench materialized out of fury and snow—green paint weathered to gray-green, armrests pocked with rust, east-facing, twenty-eight feet off the main path.</p>
+<p class="body">The hum wasn&#x27;t coming from around it. It was coming from <em>beneath</em> it. Six feet down. Where the capsule had been sealed—buried with dirt and the collective certainty that some knowledge should stay buried.</p>
+<p class="body">David stood there—chest heaving, snow evaporating off his coat—staring down at the iron armrest, the weathered slats, the frozen ground beneath.</p>
+<p class="body">Twenty years in the earth, and it was still vibrating.</p>
+<p class="body">She&#x27;d said it would come back to them. He&#x27;d wanted to believe her then—needed to believe her—but the wanting had curdled into forgetting, and the forgetting had hardened into routine; a routine that had carried him past this bench four thousand times without incident.</p>
+<p class="body">Until today.</p>
+<p class="body">Now the hum was pushing at him. Compressing its wave deep within his skull. The oscillating dread-knot now hard-pressed against the very threshold of his sanity. David slammed his palms to his ears—the pressure building unchecked within him.</p>
+<p class="body">He would not allow it. It would not take him. Not after all this time. </p>
+<p class="body">And then… it happened.</p>
+<p class="body">Now… he didn’t mean to scream. He didn’t choose it. It wasn’t fear, or reason, or anything the mind could own. It rose from somewhere older—from a depth inside him that had no name.</p>
+<p class="body">Not voice. Not thought. Just pressure. Memory without memory.</p>
+<p class="body">And then: release.</p>
+<p class="body">A sound tore out of him so completely it stripped the world clean.</p>
+<p class="body">The windows shuddered. The stone walls answered. Even the air flinched.</p>
+<p class="body">And immediately, the hum—the awful, relentless hum—stopped<strong>.</strong></p>
+<p class="body">A silent moment passed over the quad. A whispering of wind. A cackling crow. The distant laughter of students in situ. He stood there in the snow, breath catching, throat scraped bare, not knowing what part of him had remembered how to make a sound like that.</p>
+<p class="body">David turned from the site. Rejected its call—its pull on him. Forced his feet, his body to turn and walk… <em>just start walking forward</em>—away. Just… walk… away.</p>
+<p class="body">Behind him, the bench, and all that lay beneath, would be waiting now. Truth still had fire, it seemed—with fuel to burn. It had all returned. Clawed its way back just as Celeste said it would. It was time. And time, it seemed, would wait no longer. </p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-01.html">Chapter 1</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

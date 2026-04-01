@@ -11,8 +11,8 @@ Word Count:      3,162
 Paragraph Count: 103
 Scene Count:     2
 
-Scene 1: I.  --  Words 8–598  |  Paragraphs 2–19
-Scene 2: II.  The exhilaration of a walk downhill  --  Words 599–3,162  |  Paragraphs 20–103
+Scene 1: I.  --  Words 8–598  |  Paragraphs 2–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
+Scene 2: II.  The exhilaration of a walk downhill  --  Words 599–3,162  |  Paragraphs 20–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

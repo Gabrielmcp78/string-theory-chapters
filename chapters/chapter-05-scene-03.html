@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 5 · Scene 3: III.  Groundbreaking</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="5">
+<meta name="scene" content="3">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="1116">
+<meta name="paragraph-count" content="35">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-05.html">Chapter 5: Twin Primes on the six</a>
+    <a href="chapter-05-scene-02.html">← Scene 2</a>
+    <a href="chapter-05-scene-04.html">Scene 4 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 5 &middot; Scene 3 of 7</div>
+  <div class="chapter-heading">III.  Groundbreaking</div>
+  <div class="chapter-subheading">a fantasia quasi sonata</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,116</strong>&thinsp;words&ensp;<strong>35</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>3</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 5 · Scene 3 of 7 ]
+Chapter Title:   Twin Primes on the six
+Scene Heading:   III.  Groundbreaking
+Scene:           3 of 7
+Word Count:      1,116
+Paragraph Count: 35
+Chapter Words:   1,806–2,921 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">III.  Groundbreaking</div>
+<div class="tempo-1">Allegretto meccanico</div>
+<p class="body">The bubble of focused energy from the lecture hall popped the moment he stepped into the corridor. The din of student chatter returned to normal frequencies, but the aftermath of his performance left a wake of awkwardness. Before he could retreat to his office, they descended upon him—the very colleagues whose presence had been so unnerving.</p>
+<p class="body">“David. Groundbreaking methodology,” said Professor Evans from condensed matter theory, his hand shooting out for a shake. The grip was firm, lasted a second too long, and his eyes seemed fixed on a point just past David’s left ear.</p>
+<p class="body">“Yes, just groundbreaking,” echoed Dr. Chen from astrophysics, emerging from behind Evans with the same vacant smile. She tilted her head at precisely the same angle. “The implications are… revolutionary.”</p>
+<p class="body">“Revolutionary implications,” said a third voice. It was Markov, the department’s resident pragmatist, who had once called David’s work “mathematical astrology.” He repeated the phrase with the same cadence, the same slight head tilt. Their congratulations were a round of cannon fire, each shot landing in the same crater. Their eyes held the same glazed quality, their handshakes the same prolonged firmness. It was like being congratulated by a trio of expertly crafted androids whose programming had a minor bug.</p>
+<p class="body">David extracted his hand from Markov’s grip, a cold knot tightening in his stomach. “Thank you,” he managed, his voice sounding thin. “I… I should get to office hours.”</p>
+<p class="body">He fled down the hall, the echo of their identical praise ringing in his ears. He locked his office door behind him, leaning against it for a moment, breathing in the familiar scent of old books and dust. The framed photo on his desk—a younger him and Celeste at a long-ago conference, smiling—seemed to accuse him of this sudden, unearned acclaim.</p>
+<p class="body">He tried to grade papers, but the symbols on the page swam. The hum was a constant presence, a bass note underscoring his anxiety. A soft knock came at the door. He sighed, expecting another robotic colleague.</p>
+<p class="body">It was a graduate student, Mia, one of his few remaining advisees. Her face was pale, her fingers nervously tracing the edge of her laptop. </p>
+<p class="body">“Professor Lang? Do you have a minute?”</p>
+<p class="body">“Of course, Mia. Come in.”</p>
+<p class="body">She sat in the worn chair opposite his desk, not meeting his eyes. “It’s about the lecture. And… your paper.” She opened her laptop, the screen flaring to life. It was open to the PDF of his <em>Nature Physics</em> publication. “I was trying to work through the derivation in section three, and…” she trailed off, chewing her lip.</p>
+<p class="body">“Uh… yes, of course. Section three. And?” David prompted, a familiar dread rising. The section was the most speculative, the part he’d expected the most criticism on.</p>
+<p class="body">“My computer… it’s doing something weird.” She turned the screen toward him.</p>
+<p class="body">The equations on the screen were his, but they were alive. They flickered, pixels dancing at the edges. As he watched, a sigma symbol morphed into a treble clef. A partial derivative dissolved into a shimmering staff of musical notation. The text of the peer review comments beside the equations scrolled upward on its own, the words breaking apart and recombining into nonsensical phrases: <em>“…</em><em>the eigenfrequency of regret</em><em>…” “…</em><em>superposition of lament</em><em>…” “…</em><em>harmonic decay of institutional memory</em><em>…”</em></p>
+<p class="body">“It started during your lecture,” Mia whispered, her voice tight with fear. “It’s not just mine.”</p>
+<p class="body">As if on cue, a rhythmic clicking started from the laser printer in the corner. It began printing sheet after sheet of paper covered not in text, but in dense, pulsating patterns of black and white that resembled both sound waves and fractal equations. Down the hall, a chorus of notification tones erupted from offices—not the usual random chirps, but a synchronized sequence of notes that perfectly outlined a descending minor scale. The fluorescent light above David’s desk flickered in time with it, 68.48 times per second.</p>
+<p class="body">David’s own phone, sitting on the desk, lit up. Notification after notification began cascading down the screen. </p>
+<p class="body">He glanced up from the phone with a bewildered grin. “Guess I’m… I’m pretty popular today.” </p>
+<p class="body">He had meant it to defuse. It did not defuse. Neither was it funny, that seemed clear. David looked back to the screen, giving way to the general awkwardness that, in truth, defined his entire career of student interaction. He tapped the next notification bubble to appear. The screen went completely black. At first, David thought he had perhaps clicked the damn thing back to sleep. But no. It came roaring back to life. Screaming in bold white text over and over against the black screen:</p>
+<p class="default">THE FIRST MARK SECOND ORDER NOT WHERE YOU LEFT IT…… 6</p>
+<p class="default">THE FIRST MARK OF THE SECOND ORDER IS NOT WHERE…8———5</p>
+<p class="default">THE FIRST MARK OF THE SECOND ORDER………4</p>
+<p class="default">THE SECOND MARK OF THE FIRST…8———————3</p>
+<p class="body">He instantly flipped the phone, slamming its face down on the desk to his left.</p>
+<p class="body">“Just… um… scam email nonsense. Do you get any of that?”</p>
+<p class="body">“Um, no. My boyfriend installed this blocker thing that pretty much kills that stuff. If… if you like, I could have him—“</p>
+<p class="body">“No. No.” David tried to play it off. Yet another instance of clear and demoralizing student technological superiority on full display. A sensation David feared was increasingly arthritis-inducing, full body, full stop. </p>
+<p class="body">“Thank you, Mia, but…”</p>
+<p class="body">Mia hugged herself, her eyes wide. She looked from the glitching laptop to the possessed printer to David’s frantic phone. The ambient hum in the room seemed to sharpen, becoming a physical force that vibrated the cup of pens on the corner of his desk. He reached over and slammed a palm over them, stomping the jitter out. A single, well-sharpened piece of no. 2 lead embedded into the center of his palm. He paused there for a moment, grimace-faced and coasting.</p>
+<p class="body">“Professor Lang,” she asked, her voice small and terrified, pointing at the impossible equations still dancing on her screen. “Is this… is this supposed to happen?”</p>
+<p class="body">The question hung in the air, the most sensible thing he’d heard all day. It shattered the last vestige of his triumphalist delusion. He looked at the terror on his student’s face, at the technology rebelling against reality, and the cool weight of the tuning fork in his pocket felt less like a key and more like a symptom.</p>
+<p class="body">“No, Mia,” he said, his voice hollow. “No, it is most definitely not… supposed… to happen.”</p>
+<p class="body">Mia, now amongst the very last of his core students still hanging on with the uncanny Professor, had witnessed moments like this before. With Lang, the prevailing wisdom was always to gracefully make your exit and leave him to it—what ever… <em>it </em>was. And so, she… did.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 3 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-05.html">Chapter 5</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

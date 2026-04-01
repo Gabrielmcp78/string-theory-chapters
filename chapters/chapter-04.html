@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,20 +220,20 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>9,700</strong>&thinsp;words&ensp;<strong>438</strong>&thinsp;paragraphs&ensp;<strong>14</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">The House on the Hill</a><span class="scene-range">w.1–863 · ¶1–46</span></div>
-    <div class="scene-entry"><a href="#scene-2">II.  Walk  A   |   for Roger, coffee, scone, and Mom</a><span class="scene-range">w.864–1,311 · ¶47–72</span></div>
-    <div class="scene-entry"><a href="#scene-3">III. The Apartment Assessment</a><span class="scene-range">w.1,312–2,186 · ¶73–103</span></div>
-    <div class="scene-entry"><a href="#scene-4">IV.  Walk   B   |   for David, Roger and Easy Hill incline</a><span class="scene-range">w.2,187–2,306 · ¶104–107</span></div>
-    <div class="scene-entry"><a href="#scene-5">V.  THE CHAPEL REHEARSAL</a><span class="scene-range">w.2,307–3,564 · ¶108–143</span></div>
-    <div class="scene-entry"><a href="#scene-6">VI.  Walk C     |    for David, Roger, towel, and crowbar</a><span class="scene-range">w.3,565–4,615 · ¶144–201</span></div>
-    <div class="scene-entry"><a href="#scene-7">VII.  THE CAFÉ</a><span class="scene-range">w.4,616–5,410 · ¶202–238</span></div>
-    <div class="scene-entry"><a href="#scene-8">VIII.  walk  D - Part 1    |    For Celeste and David</a><span class="scene-range">w.5,411–5,770 · ¶239–258</span></div>
-    <div class="scene-entry"><a href="#scene-9">IX. The bench</a><span class="scene-range">w.5,771–7,007 · ¶259–315</span></div>
-    <div class="scene-entry"><a href="#scene-10">X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light</a><span class="scene-range">w.7,008–7,276 · ¶316–323</span></div>
-    <div class="scene-entry"><a href="#scene-11">XI.  The house on the hill (return)</a><span class="scene-range">w.7,277–8,015 · ¶324–361</span></div>
-    <div class="scene-entry"><a href="#scene-12">XII.  The draft</a><span class="scene-range">w.8,016–8,816 · ¶362–403</span></div>
-    <div class="scene-entry"><a href="#scene-13">XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries</a><span class="scene-range">w.8,817–9,139 · ¶404–418</span></div>
-    <div class="scene-entry"><a href="#scene-14">XIV.  10 Minutes, Maybe Twelve</a><span class="scene-range">w.9,140–9,700 · ¶419–438</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-01.html">The House on the Hill</a><span class="scene-range">w.1–863 · ¶1–46</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-02.html">II.  Walk  A   |   for Roger, coffee, scone, and Mom</a><span class="scene-range">w.864–1,311 · ¶47–72</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-03.html">III. The Apartment Assessment</a><span class="scene-range">w.1,312–2,186 · ¶73–103</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-04.html">IV.  Walk   B   |   for David, Roger and Easy Hill incline</a><span class="scene-range">w.2,187–2,306 · ¶104–107</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-05.html">V.  THE CHAPEL REHEARSAL</a><span class="scene-range">w.2,307–3,564 · ¶108–143</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-06.html">VI.  Walk C     |    for David, Roger, towel, and crowbar</a><span class="scene-range">w.3,565–4,615 · ¶144–201</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-07.html">VII.  THE CAFÉ</a><span class="scene-range">w.4,616–5,410 · ¶202–238</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-08.html">VIII.  walk  D - Part 1    |    For Celeste and David</a><span class="scene-range">w.5,411–5,770 · ¶239–258</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-09.html">IX. The bench</a><span class="scene-range">w.5,771–7,007 · ¶259–315</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-10.html">X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light</a><span class="scene-range">w.7,008–7,276 · ¶316–323</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-11.html">XI.  The house on the hill (return)</a><span class="scene-range">w.7,277–8,015 · ¶324–361</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-12.html">XII.  The draft</a><span class="scene-range">w.8,016–8,816 · ¶362–403</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-13.html">XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries</a><span class="scene-range">w.8,817–9,139 · ¶404–418</span></div>
+    <div class="scene-entry"><a href="chapter-04-scene-14.html">XIV.  10 Minutes, Maybe Twelve</a><span class="scene-range">w.9,140–9,700 · ¶419–438</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -228,20 +242,20 @@ Title: Exercises in Humanity
 Word Count: 9,700
 Paragraph Count: 438
 Scene Count: 14
-Scene 1: The House on the Hill -- Word Range: 1–863 | Paragraph Range: 1–46
-Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom -- Word Range: 864–1,311 | Paragraph Range: 47–72
-Scene 3: III. The Apartment Assessment -- Word Range: 1,312–2,186 | Paragraph Range: 73–103
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline -- Word Range: 2,187–2,306 | Paragraph Range: 104–107
-Scene 5: V.  THE CHAPEL REHEARSAL -- Word Range: 2,307–3,564 | Paragraph Range: 108–143
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar -- Word Range: 3,565–4,615 | Paragraph Range: 144–201
-Scene 7: VII.  THE CAFÉ -- Word Range: 4,616–5,410 | Paragraph Range: 202–238
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David -- Word Range: 5,411–5,770 | Paragraph Range: 239–258
-Scene 9: IX. The bench -- Word Range: 5,771–7,007 | Paragraph Range: 259–315
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light -- Word Range: 7,008–7,276 | Paragraph Range: 316–323
-Scene 11: XI.  The house on the hill (return) -- Word Range: 7,277–8,015 | Paragraph Range: 324–361
-Scene 12: XII.  The draft -- Word Range: 8,016–8,816 | Paragraph Range: 362–403
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries -- Word Range: 8,817–9,139 | Paragraph Range: 404–418
-Scene 14: XIV.  10 Minutes, Maybe Twelve -- Word Range: 9,140–9,700 | Paragraph Range: 419–438
+Scene 1: The House on the Hill -- Word Range: 1–863 | Paragraph Range: 1–46 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom -- Word Range: 864–1,311 | Paragraph Range: 47–72 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 3: III. The Apartment Assessment -- Word Range: 1,312–2,186 | Paragraph Range: 73–103 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline -- Word Range: 2,187–2,306 | Paragraph Range: 104–107 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: V.  THE CHAPEL REHEARSAL -- Word Range: 2,307–3,564 | Paragraph Range: 108–143 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar -- Word Range: 3,565–4,615 | Paragraph Range: 144–201 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ -- Word Range: 4,616–5,410 | Paragraph Range: 202–238 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David -- Word Range: 5,411–5,770 | Paragraph Range: 239–258 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench -- Word Range: 5,771–7,007 | Paragraph Range: 259–315 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light -- Word Range: 7,008–7,276 | Paragraph Range: 316–323 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return) -- Word Range: 7,277–8,015 | Paragraph Range: 324–361 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft -- Word Range: 8,016–8,816 | Paragraph Range: 362–403 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries -- Word Range: 8,817–9,139 | Paragraph Range: 404–418 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve -- Word Range: 9,140–9,700 | Paragraph Range: 419–438 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 [ End Manifest ]</div>
 <div class="location" id="scene-1"> The House on the Hill</div>
 <div class="tempo-1">Largo con irritazione crescente</div>

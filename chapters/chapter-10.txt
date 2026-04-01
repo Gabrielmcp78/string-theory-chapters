@@ -11,11 +11,11 @@ Word Count:      3,980
 Paragraph Count: 168
 Scene Count:     5
 
-Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–575  |  Paragraphs 1–24
-Scene 2: II. Wander, Wonder and Wait  --  Words 576–1,044  |  Paragraphs 25–47
-Scene 3: III. Sundays  --  Words 1,045–1,573  |  Paragraphs 48–84
-Scene 4: IV.  A Preference for Precision  --  Words 1,574–2,100  |  Paragraphs 85–100
-Scene 5: V.  The Conduction  --  Words 2,101–3,980  |  Paragraphs 101–168
+Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–575  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. Wander, Wonder and Wait  --  Words 576–1,044  |  Paragraphs 25–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. Sundays  --  Words 1,045–1,573  |  Paragraphs 48–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV.  A Preference for Precision  --  Words 1,574–2,100  |  Paragraphs 85–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V.  The Conduction  --  Words 2,101–3,980  |  Paragraphs 101–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

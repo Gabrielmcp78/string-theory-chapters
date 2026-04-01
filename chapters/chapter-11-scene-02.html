@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 11 · Scene 2: II. The Grid</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="11">
+<meta name="scene" content="2">
+<meta name="scene-count" content="4">
+<meta name="word-count" content="658">
+<meta name="paragraph-count" content="14">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-11.html">Chapter 11: The Symmetry of Violence</a>
+    <a href="chapter-11-scene-01.html">← Scene 1</a>
+    <a href="chapter-11-scene-03.html">Scene 3 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 11 &middot; Scene 2 of 4</div>
+  <div class="chapter-heading">II. The Grid</div>
+  <div class="chapter-subheading">a fantasia on Bach&#x27;s Sarabande in four movements</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>658</strong>&thinsp;words&ensp;<strong>14</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>2</strong>&thinsp;of&thinsp;<strong>4</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 11 · Scene 2 of 4 ]
+Chapter Title:   The Symmetry of Violence
+Scene Heading:   II. The Grid
+Scene:           2 of 4
+Word Count:      658
+Paragraph Count: 14
+Chapter Words:   682–1,339 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">II. The Grid</div>
+<div class="tempo-1">Presto meccanico</div>
+<p class="body">Three blocks west, the substation that feeds the university district and the nearby homes groaned under a pressure no engineer had foreseen when the transformers were rated forty years ago. A tidal wave of coronal‑mass‑ejected particles—traveling ninety‑three million miles in seventeen hours—was now slamming into the delicate copper‑and‑silicon web we call infrastructure.</p>
+<p class="body">Above the atmosphere, a solar band spilled across the dark.</p>
+<p class="body">Wires held, taut and humming, until they thinned and separated in blue-white fractures that moved outward in sudden, branching vectors, and the failure, once it began, spoke to the next transformer in the language transformers understand—voltage—and the next transformer listened and agreed.</p>
+<p class="body">Inside the apartment, the music of the great master cradled David inside the arc of each phrase, his bow traveling steadily, shoulders loose, pulse aligned to the grave tread of the dance that had forgotten how to dance and chosen instead to endure. Three hundred and three years since the master had completed the work, and each note still obeyed his baton. Three minutes of notes, measured within those centuries between the two men, yet Bach had David entranced. Each note flowing from centuries of these same sixteen bars—a lineage of sound composition—the foundations of the Western musical world. Nothing could have been further from his attention than the happening of a power grid or industrial infrastructure. And he did not hear the first substation go, nor the second, nor the third. He did not, could not know that over the next three minutes, 744 transformers throughout greater upstate New York would follow suit, nor that 196,884 such marvels of electrical engineering worldwide would be rendered useless, and convince the next 196,884 of its colleagues to follow suit thereafter, and again just after, and again. It was order pretending to break apart—an overture to something vast and unseen.</p>
+<p class="body">The final descent came with the inward fold that Bach demanded. He let it settle exactly where it wished to land.</p>
+<p class="body">Resonance accrued—in the wood, in his ribs, in the air itself. As the Sarabande ended, something began to bloom, compelling David forward into open pages free of written notes. He dared not stop. He could not.</p>
+<p class="body">The vibration remaining in the strings climbed through his wrist and into his spine, spreading heat along the column of his back. His sorrow did not subside with resolution. It widened—finding architecture in what he had just played the way water finds the shape of the vessel that holds it. Years of frustration rose through his chest: failed proofs, abandoned models, the quiet humiliations he had folded into competence. And beneath all of it, underpinning all—the deeply entrenched buzz of the last weeks and months.</p>
+<p class="body">He could feel the shift in his own skin. The sweat gathering along his collarbone. The rosin dust on his fingertips growing tacky with the heat his body was producing.
+</p>
+<p class="body">He was, in every real sense, exuding his own field. Heart, mind, sorrow, and the last tattered edge of sanity—braided into a single low hum.
+</p>
+<p class="body">His grief had found its carrier.</p>
+<p class="body">The storm outside had found its mark. Frequency inscribed itself into every frame the camera caught—each pulse of hand and heart slipping into alignment with the rising swell of the heliosphere. The vessel had been tempered and, in playing, was being tuned. David had never thought to question the direction of the performance. Never stopped to ask which between them was instrument and which was player.</p>
+<p class="body">He could not know what next would come—he had no way to see it nor understand from whence it came. But beneath the cello’s grain pressed against his chest, a second pulse began to insist itself. Density turning volatile. Shame stirring into momentum. His grief was nearing a threshold, ready to break loose. All of it—the weight of his father’s death, the woman he couldn’t hold, the slow unraveling of every human thread he’d ignored—had gathered into something altogether and newly palpable.
+</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-11.html">Chapter 11</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

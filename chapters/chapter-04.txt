@@ -12,20 +12,20 @@ Word Count:      9,700
 Paragraph Count: 438
 Scene Count:     14
 
-Scene 1: The House on the Hill  --  Words 1–863  |  Paragraphs 1–46
-Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 864–1,311  |  Paragraphs 47–72
-Scene 3: III. The Apartment Assessment  --  Words 1,312–2,186  |  Paragraphs 73–103
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,187–2,306  |  Paragraphs 104–107
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,307–3,564  |  Paragraphs 108–143
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,565–4,615  |  Paragraphs 144–201
-Scene 7: VII.  THE CAFÉ  --  Words 4,616–5,410  |  Paragraphs 202–238
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,411–5,770  |  Paragraphs 239–258
-Scene 9: IX. The bench  --  Words 5,771–7,007  |  Paragraphs 259–315
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,008–7,276  |  Paragraphs 316–323
-Scene 11: XI.  The house on the hill (return)  --  Words 7,277–8,015  |  Paragraphs 324–361
-Scene 12: XII.  The draft  --  Words 8,016–8,816  |  Paragraphs 362–403
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,817–9,139  |  Paragraphs 404–418
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,140–9,700  |  Paragraphs 419–438
+Scene 1: The House on the Hill  --  Words 1–863  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 864–1,311  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 3: III. The Apartment Assessment  --  Words 1,312–2,186  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,187–2,306  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,307–3,564  |  Paragraphs 108–143  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,565–4,615  |  Paragraphs 144–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,616–5,410  |  Paragraphs 202–238  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,411–5,770  |  Paragraphs 239–258  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 5,771–7,007  |  Paragraphs 259–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,008–7,276  |  Paragraphs 316–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,277–8,015  |  Paragraphs 324–361  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,016–8,816  |  Paragraphs 362–403  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,817–9,139  |  Paragraphs 404–418  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,140–9,700  |  Paragraphs 419–438  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,18 +220,18 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>8,833</strong>&thinsp;words&ensp;<strong>500</strong>&thinsp;paragraphs&ensp;<strong>12</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">I.1  SUBJECT  |  Buffalo, NY  			      Present Day</a><span class="scene-range">w.11–242 · ¶3–13</span></div>
-    <div class="scene-entry"><a href="#scene-2">I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005</a><span class="scene-range">w.243–1,291 · ¶14–71</span></div>
-    <div class="scene-entry"><a href="#scene-3">I.3   SUBJECT   |    Buffalo, NY 			      Present Day</a><span class="scene-range">w.1,292–2,003 · ¶72–99</span></div>
-    <div class="scene-entry"><a href="#scene-4">I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005</a><span class="scene-range">w.2,004–2,492 · ¶100–138</span></div>
-    <div class="scene-entry"><a href="#scene-5">II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day</a><span class="scene-range">w.2,493–2,928 · ¶139–168</span></div>
-    <div class="scene-entry"><a href="#scene-6">II.2   THE WORKSHOP   |   Buffalo, NY - Present Day</a><span class="scene-range">w.2,929–3,470 · ¶169–202</span></div>
-    <div class="scene-entry"><a href="#scene-7">II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day</a><span class="scene-range">w.3,471–5,617 · ¶203–321</span></div>
-    <div class="scene-entry"><a href="#scene-8">III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005</a><span class="scene-range">w.5,618–7,583 · ¶322–433</span></div>
-    <div class="scene-entry"><a href="#scene-9">IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day</a><span class="scene-range">w.7,584–8,057 · ¶434–453</span></div>
-    <div class="scene-entry"><a href="#scene-10">IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day</a><span class="scene-range">w.8,058–8,420 · ¶454–473</span></div>
-    <div class="scene-entry"><a href="#scene-11">IV.3  THE CORRIDOR</a><span class="scene-range">w.8,421–8,705 · ¶474–491</span></div>
-    <div class="scene-entry"><a href="#scene-12">V.   RECOGNITION</a><span class="scene-range">w.8,706–8,833 · ¶492–500</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-01.html">I.1  SUBJECT  |  Buffalo, NY  			      Present Day</a><span class="scene-range">w.11–242 · ¶3–13</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-02.html">I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005</a><span class="scene-range">w.243–1,291 · ¶14–71</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-03.html">I.3   SUBJECT   |    Buffalo, NY 			      Present Day</a><span class="scene-range">w.1,292–2,003 · ¶72–99</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-04.html">I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005</a><span class="scene-range">w.2,004–2,492 · ¶100–138</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-05.html">II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day</a><span class="scene-range">w.2,493–2,928 · ¶139–168</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-06.html">II.2   THE WORKSHOP   |   Buffalo, NY - Present Day</a><span class="scene-range">w.2,929–3,470 · ¶169–202</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-07.html">II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day</a><span class="scene-range">w.3,471–5,617 · ¶203–321</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-08.html">III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005</a><span class="scene-range">w.5,618–7,583 · ¶322–433</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-09.html">IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day</a><span class="scene-range">w.7,584–8,057 · ¶434–453</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-10.html">IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day</a><span class="scene-range">w.8,058–8,420 · ¶454–473</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-11.html">IV.3  THE CORRIDOR</a><span class="scene-range">w.8,421–8,705 · ¶474–491</span></div>
+    <div class="scene-entry"><a href="chapter-02-scene-12.html">V.   RECOGNITION</a><span class="scene-range">w.8,706–8,833 · ¶492–500</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -226,18 +240,18 @@ Title: The Edge of Discovery
 Word Count: 8,833
 Paragraph Count: 500
 Scene Count: 12
-Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day -- Word Range: 11–242 | Paragraph Range: 3–13
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005 -- Word Range: 243–1,291 | Paragraph Range: 14–71
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day -- Word Range: 1,292–2,003 | Paragraph Range: 72–99
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005 -- Word Range: 2,004–2,492 | Paragraph Range: 100–138
-Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day -- Word Range: 2,493–2,928 | Paragraph Range: 139–168
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY - Present Day -- Word Range: 2,929–3,470 | Paragraph Range: 169–202
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day -- Word Range: 3,471–5,617 | Paragraph Range: 203–321
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005 -- Word Range: 5,618–7,583 | Paragraph Range: 322–433
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day -- Word Range: 7,584–8,057 | Paragraph Range: 434–453
-Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day -- Word Range: 8,058–8,420 | Paragraph Range: 454–473
-Scene 11: IV.3  THE CORRIDOR -- Word Range: 8,421–8,705 | Paragraph Range: 474–491
-Scene 12: V.   RECOGNITION -- Word Range: 8,706–8,833 | Paragraph Range: 492–500
+Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day -- Word Range: 11–242 | Paragraph Range: 3–13 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005 -- Word Range: 243–1,291 | Paragraph Range: 14–71 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day -- Word Range: 1,292–2,003 | Paragraph Range: 72–99 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005 -- Word Range: 2,004–2,492 | Paragraph Range: 100–138 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day -- Word Range: 2,493–2,928 | Paragraph Range: 139–168 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY - Present Day -- Word Range: 2,929–3,470 | Paragraph Range: 169–202 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day -- Word Range: 3,471–5,617 | Paragraph Range: 203–321 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005 -- Word Range: 5,618–7,583 | Paragraph Range: 322–433 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day -- Word Range: 7,584–8,057 | Paragraph Range: 434–453 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day -- Word Range: 8,058–8,420 | Paragraph Range: 454–473 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3  THE CORRIDOR -- Word Range: 8,421–8,705 | Paragraph Range: 474–491 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION -- Word Range: 8,706–8,833 | Paragraph Range: 492–500 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 [ End Manifest ]</div>
 <p class="scene">for shuttle bus, beer bottle, travel brochure, and bonfire</p>
 <div class="title-special">EXPOSITION</div>

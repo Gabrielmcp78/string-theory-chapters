@@ -12,12 +12,12 @@ Word Count:      5,427
 Paragraph Count: 315
 Scene Count:     6
 
-Scene 1: I.  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,148  |  Paragraphs 1–217
-Scene 2: II.  To Ground  --  Words 3,149–4,091  |  Paragraphs 218–256
-Scene 3: III.  Secret Sacrifice  --  Words 4,092–4,309  |  Paragraphs 257–264
-Scene 4: IV.  Outcomes  --  Words 4,310–4,416  |  Paragraphs 265–269
-Scene 5: V.  The Conversation     	   		March 21, 2005  --  Words 4,417–4,695  |  Paragraphs 270–281
-Scene 6: VI.  Two months later			   May 24, 2005  --  Words 4,696–5,427  |  Paragraphs 282–315
+Scene 1: I.  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,148  |  Paragraphs 1–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: II.  To Ground  --  Words 3,149–4,091  |  Paragraphs 218–256  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: III.  Secret Sacrifice  --  Words 4,092–4,309  |  Paragraphs 257–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: IV.  Outcomes  --  Words 4,310–4,416  |  Paragraphs 265–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 5: V.  The Conversation     	   		March 21, 2005  --  Words 4,417–4,695  |  Paragraphs 270–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
+Scene 6: VI.  Two months later			   May 24, 2005  --  Words 4,696–5,427  |  Paragraphs 282–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

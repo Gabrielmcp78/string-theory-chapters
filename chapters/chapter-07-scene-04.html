@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 7 · Scene 4: IV. Lossless Transfers</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="7">
+<meta name="scene" content="4">
+<meta name="scene-count" content="4">
+<meta name="word-count" content="4451">
+<meta name="paragraph-count" content="280">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-07.html">Chapter 7: The Solar Maximus Connection</a>
+    <a href="chapter-07-scene-03.html">← Scene 3</a>
+    
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 7 &middot; Scene 4 of 4</div>
+  <div class="chapter-heading">IV. Lossless Transfers</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>4,451</strong>&thinsp;words&ensp;<strong>280</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>4</strong>&thinsp;of&thinsp;<strong>4</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 7 · Scene 4 of 4 ]
+Chapter Title:   The Solar Maximus Connection
+Scene Heading:   IV. Lossless Transfers
+Scene:           4 of 4
+Word Count:      4,451
+Paragraph Count: 280
+Chapter Words:   2,839–7,289 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">IV. Lossless Transfers</div>
+<p class="body">He had all three boards open.</p>
+<p class="body">The black panels stood floor to ceiling, chalked over, wiped down, chalked again, the whole center one crowded with ratios and substitutions, the white marks driven hard enough into slate to leave a bruise behind them. He had gone at the same transition from six directions and ruined it from each. The line he was on now had nearly the right shape. Nearly. The body frequency averaged, doubled, borne upward into a relation that wanted to lock and would not.</p>
+<p class="body">He wrote through the last bracket.</p>
+<p class="body">For one thin instant the structure held. He felt it gather. Then it broke exactly where it would have had to survive contact with the world. Then it crumbled before him. The joints of his hands pulled inward. Cramping as though they knew the man they were attached to must stop. Must break. Must breathe and eat and sleep.</p>
+<p class="body">He dragged the side of his hand across the chalkboard, leaving a white wound. The dust from the failed structures, once solid thoughts expressed in chalk, dispersed into the air and fell, failing toward the depths below. Their addition into the room seemed to thicken everything surrounding it, when, from above him, from the grated bridge crossing over the chalkboards, a voice joined the dust, filling the room. </p>
+<p class="body">“If you are a scientist you cannot stop such a thing.”</p>
+<p class="body">The chalk dropped from his fingers and struck the floor.</p>
+<p class="body">He looked up.</p>
+<p class="body">Nothing there. Only the catwalk’s dark grid suspended in higher dark, a deeper shadow among shadows. Yet the voice had come from directly above him, then hit brick and glass and metal and come back down altered, so that by the time the sentence reached him it seemed to be behind him too.</p>
+<p class="body">“If you are a scientist,” it went on, “you believe that it is good to find out how the world works… it is good to turn over to mankind at large the greatest possible power to control the world and to deal with it according to its lights and its values.”</p>
+<p class="body">He knew the words. That was not the terror. The terror was how well they fit in the room. They landed here like something the apartment had been waiting years to say.</p>
+<p class="body">David stepped back from the boards and turned.</p>
+<p class="body">Below the loft line the apartment held itself in strata: the low red of the fire, the kitchen dark under the sleeping loft, the long window holding a thin wash of city light, the spiral stair rising between levels like a black coil of wire. Nothing moved.</p>
+<p class="body">“No,” he said.</p>
+<p class="body">The voice came down through the grating again, patient and merciless.</p>
+<p class="body">“It is not possible to be a scientist unless you believe that the knowledge of the world, and the power which this gives, is a thing which is of intrinsic value to humanity, and that you are using it to help in the spread of knowledge and are willing to take the consequences.”</p>
+<p class="body">He was moving before he decided to, one hand on the stair rail, taking the spiral too fast, his shoulder brushing the inner column as he climbed. Halfway up he looked across at the bridge over the boards.</p>
+<p class="body">Empty.</p>
+<p class="body">He kept going.</p>
+<p class="body">At the top he stepped onto the catwalk. The grating gave a hollow complaint under his weight. Directly beneath him the boards rose like a black altar slashed with white. The fireplace sat lower than it should have, centered in the brick wall beyond. To his right the kitchen sank under the loft. Ahead, the balcony door reflected the room in broken planes.</p>
+<p class="body">“Where are you?” he said.</p>
+<p class="body">Only his own breath answered him.</p>
+<p class="body">Then the balcony door behind him slammed wide.</p>
+<p class="body">Cold struck him so hard it emptied his lungs. He turned and crossed the loft at once, pushed through into the late-November night, and stood out on the deck with the city dropping away below him.</p>
+<p class="body">East Hill rose in tiers of scattered light. Rooflines fell off into dark. The ravine held its own deeper blackness. Above all of it the moon hung almost full, lucid and remote, so bright it seemed at first to have authored itself. Then the old fact entered him again: all that light was borrowed. The sun was nowhere in sight, hidden below the world, impossibly distant, and still its reach governed what could be seen.</p>
+<p class="body">A cloud passed over the moon.</p>
+<p class="body">Nothing dramatic. Just gathered vapor, water in air. Yet at once the whole visible city softened and lost its hard edges. The roofs dulled. The brick dimmed. The deck rail under his hand changed its relation to the dark. Force had not ceased. It had only been diffused.</p>
+<p class="body">The cloud moved on. The white resumed its dominion.</p>
+<p class="body">He stood in the cold a moment longer, breathing through the sting in his chest, then turned back in.</p>
+<p class="body">The room had changed.</p>
+<p class="body">Not the arrangement of things. Their charge. The fire had lifted a little. One page on the coffee table had shifted. The apartment no longer felt unoccupied. It felt taken</p>
+<p class="body">Something sat in the chair by the hearth.</p>
+<p class="body">At first it was only a density in the half-dark, a shape the eye could not quite close on. Then the body made its mistake before the mind could intervene: the broadness through the chest, the angle of the head, one arm resting where Arthur used to let it fall when he sat up too late with a score in his lap.</p>
+<p class="body">“Dad,” David said.</p>
+<p class="body">The figure lifted its head.</p>
+<p class="body">Wrong.</p>
+<p class="body">Not because the face came clear all at once. Because time entered it where it did not belong. Age gathered under the skin with appalling speed. The mouth thinned. The cheeks sank. The brow sharpened under another burden entirely. What had seemed, for one humiliating beat, like Arthur returned became instead the future Arthur had feared all his life.</p>
+<p class="body">Elliot came through the distortion.</p>
+<p class="body">Not the softened grandfather memory kept for kindness. Not the old man by the window with a child asleep against his chest. This was the harder man inside him, the one Arthur had looked at and seen warning in. Firelight caught one side of his face and left the other in reserve. His hands lay folded in his lap. He sat upright, as if effort still mattered.</p>
+<p class="body">David stayed where he was at the top of the stairs, one hand locked on the rail.</p>
+<p class="body">Elliot looked at him.</p>
+<p class="body">“You hear him,” he said.</p>
+<p class="body">“I heard Oppenheimer.”</p>
+<p class="body">“Yes.”</p>
+<p class="body">“That was you.”</p>
+<p class="body">Elliot’s face altered slightly, the ghost of impatience there. “I lived long enough with his voice.”</p>
+<p class="body">David came down three steps in a rush.</p>
+<p class="body">“Don’t do that.”</p>
+<p class="body">“Do what.”</p>
+<p class="body">“Come at me through him.”</p>
+<p class="body">The old man’s gaze did not shift. “I came where you could hear me.”</p>
+<p class="body">David laughed once through his nose. There was nothing in it but strain.</p>
+<p class="body">“You knew.”</p>
+<p class="body">Elliot said nothing.</p>
+<p class="body">“You altered the cello. You left the fork. You knew enough to build half my life around this thing and then never tell me what it was.”</p>
+<p class="body">“I knew enough to be afraid.”</p>
+<p class="body">“And still you put it in my hands.”</p>
+<p class="body">“I put a counterweight in your hands because by then it was already in your blood.”</p>
+<p class="body">That stopped him for one beat. Only one.</p>
+<p class="body">“You hummed it to me.”</p>
+<p class="body">A flicker crossed Elliot’s face. Pain, maybe. Or simple accuracy.</p>
+<p class="body">“Yes.”</p>
+<p class="body">“As a child.”</p>
+<p class="body">“Yes.”</p>
+<p class="body">“What kind of man does that?”</p>
+<p class="body">“The kind who runs out of vessels.”</p>
+<p class="body">David came down farther, dragging one hand on the rail as if the metal kept the room from tilting.</p>
+<p class="body">“Arthur saw what it did to you. That’s why he pushed music, why he fought me every time I chose the boards over the instrument, why every conversation ended in the same dead place—”</p>
+<p class="body">“I know what your father thought.”</p>
+<p class="body">“No,” David snapped. “You know what he said. You don’t know what it was to have him looking at me like I was walking straight at the fire.”</p>
+<p class="body">Elliot rose.</p>
+<p class="body">He did not rise like a ghost. He rose like an old man, with effort in the knees and hips, one hand briefly on the chair arm, the motion human enough to make the room close around him.</p>
+<p class="body">“Your father thought he could save you by changing forms,” he said. “He thought music would pull you clear of what science had done to me.”</p>
+<p class="body">David had reached the last turn of the stair.</p>
+<p class="body">“And?”</p>
+<p class="body">“He was wrong.”</p>
+<p class="body">“Easy for you to say.”</p>
+<p class="body">“No,” Elliot said. “Hard for me to say. He mistook the vessel for the burden.”</p>
+<p class="body">David came down the last steps and stood on the floor, the stair at his back, the old man by the fire, the boards behind him still full of failed white weather.</p>
+<p class="body">“The cello,” he said. “The fork.”</p>
+<p class="body">Elliot nodded once.</p>
+<p class="body">“You made them for me.”</p>
+<p class="body">“I made what I could.”</p>
+<p class="body">“And left me to guess.”</p>
+<p class="body">“I left you alive.”</p>
+<p class="body">The words cracked across the room.</p>
+<p class="body">David took a step toward him. “Alive.”</p>
+<p class="body">“Yes.”</p>
+<p class="body">“In ignorance.”</p>
+<p class="body">“In childhood.”</p>
+<p class="body">“In a family that never said the thing itself.”</p>
+<p class="body">“In a family trying not to make one body bear the whole of it.”</p>
+<p class="body">David stopped.</p>
+<p class="body">Something in the line had gone in too deep.</p>
+<p class="body">His eyes slid, involuntarily, toward the dark where the cello case stood, then toward the desk beyond, where the tuning fork lay among papers. Not heirlooms. Measures. Countermeasures. The old man had not merely passed something on. He had built around it with the tools he had left—wood, string, metal, breath.</p>
+<p class="body">“You should have told me.”</p>
+<p class="body">Elliot’s face changed under that. Not softened. Opened a fraction.</p>
+<p class="body">“Yes,” he said.</p>
+<p class="body">“Why didn’t you?”</p>
+<p class="body">“Because what I knew would not hold still. Because certainty claimed too early had already killed enough in my lifetime. Because your father was watching me disappear inside it and I could not bear to watch him watch it happen again.”</p>
+<p class="body">The room went very quiet.</p>
+<p class="body">David’s mouth had gone dry. “It was held in a room.”</p>
+<p class="body">Elliot did not answer.</p>
+<p class="body">“In bodies,” David said. “Do you understand that. It saturated them. It built and built and had nowhere to go.”</p>
+<p class="body">“I understand.”</p>
+<p class="body">“It nearly destroyed—”</p>
+<p class="body">“It did destroy.”</p>
+<p class="body">The interruption hit like a slap.</p>
+<p class="body">David stared at him.</p>
+<p class="body">And there, in Elliot’s face, something shifted.</p>
+<p class="body">A family angle. The tightening mouth. A younger severity coming up through the old features.</p>
+<p class="body">Rune.</p>
+<p class="body">The recognition was false and instantaneous and for that reason full of relief. Rune was the living world. Rune could still be argued with. Rune meant bloodline, history, cunning, survival—anything but this absolute trespass from the dead.</p>
+<p class="body">David took a step forward.</p>
+<p class="body">“Rune—”</p>
+<p class="body">The face gave way.</p>
+<p class="body">Not into Rune. Through him.</p>
+<p class="body">Age rushed in like ruin. The skin pulled tight across the bones. The eyes widened with a fury so concentrated it seemed to burn the air between them. Not warning. Not grief. Rage stripped of all social use. The rage of a man who had died inside misunderstanding and now saw the whole humiliating geometry of it: his own, Elliot’s, David’s, all one long line of men touching one fragment and calling the wound insight.</p>
+<p class="body">Tsukino.</p>
+<p class="body">The tuning fork began to sound.</p>
+<p class="body">Not struck. Sounding.</p>
+<p class="body">From the desk behind David the first tone rose clean and low: 68.48.</p>
+<p class="body">He felt it in his sternum before he located it in air.</p>
+<p class="body">Then came the octave.</p>
+<p class="body">Then the next.</p>
+<p class="body">Then again.</p>
+<p class="body">Each ascent went through the apartment like a knife finding every seam. The bridge over the boards took it. The loft rail took it. The kitchen steel answered. Window glass trembled. Hidden cavities in brick woke and rang. The whole place became one resonant instrument and his body, caught inside it, only another chamber to be found and forced open.</p>
+<p class="body">David’s hand hit the stair post.</p>
+<p class="body">The next doubling struck his jaw.</p>
+<p class="body">The next went in behind his eyes.</p>
+<p class="body">By the next he could no longer tell whether the sound was in the room or in the fluid of his own body. His teeth sang. His ribs felt less like bone than tuning surfaces. The pressure climbed cleanly, terribly, no distortion, only more and more exact force entering him.</p>
+<p class="body">Tsukino watched him with incandescent contempt.</p>
+<p class="body">Everything David had arranged about himself went down under that look. Not caution. Not genius. Not stewardship. A man with one shard in his hand admiring the cut of his own reflection and calling that admiration knowledge.</p>
+<p class="body">Another doubling.</p>
+<p class="body">He dropped to one knee.</p>
+<p class="body">Another.</p>
+<p class="body">The room vanished. No fire, no stair, no boards, no city. Only pattern and pain and the unbearable fact that the fork was not attacking him. It was holding a line against something worse by giving the violence form.</p>
+<p class="body">Tsukino came nearer without moving.</p>
+<p class="body">The rage in that face was beyond accusation. It was correction, total and pitiless. You do not know what you are touching. None of you did. Still each of you wanted to stand up inside the little you knew and feel tall.</p>
+<p class="body">David tried to speak. The first sound that came out was raw and small and childlike. He hated it for one second before the next rise cut even hatred away.</p>
+<p class="body">68.48.</p>
+<p class="body">136.96.</p>
+<p class="body">273.92.</p>
+<p class="body">547.84.</p>
+<p class="body">He could not think through it. Could not reason. Could not hold one coherent sentence in his head. The frequencies found every wet, hidden place in him and turned thought to suffering.</p>
+<p class="body">He folded toward the floorboards, one palm flat to the wood, and felt the whole apartment trembling under his hand.</p>
+<p class="body">The only way through was down.</p>
+<p class="body">Not argument. Not brilliance. Not endurance.</p>
+<p class="body">Yield.</p>
+<p class="body">He put his forehead to the floor.</p>
+<p class="body">Not in worship. In acquiescence. In the plain acknowledgment that he was not equal to what he had touched, that none of them had been, that genius was often only ignorance with posture.</p>
+<p class="body">At once the edge changed.</p>
+<p class="body">Not gone. Changed.</p>
+<p class="body">The highest tearing note thinned first. Then the brightness in his teeth. Then the splitting pressure behind the eyes. The base tone remained, low and absolute, but no longer slicing him into white.</p>
+<p class="body">When he lifted his head, Tsukino was receding.</p>
+<p class="body">Not soothed. Never soothed. Drawn backward into some farther chamber of witness and wrath, as if the rage had stepped out of the front of the room but not gone anywhere at all.</p>
+<p class="body">Through that withdrawal another shape bent toward him.</p>
+<p class="body">Arthur—</p>
+<p class="body">No. Only the body’s old need making one last mistake.</p>
+<p class="body">Elliot knelt beside him with visible difficulty, old in the knees, old in the breath. One hand came to the back of David’s head. The other settled across his shoulder and held him there, practical, steady, the way you hold someone whose body has forgotten where it ends.</p>
+<p class="body">“Hush,” Elliot said.</p>
+<p class="body">David was shaking hard. He had not known it until the hand told him.</p>
+<p class="body">“Hush now.”</p>
+<p class="body">And beneath the words, under breath, Elliot began to hum.</p>
+<p class="body">The lullaby.</p>
+<p class="body">Low at first, almost lost under the fading base tone, then clearer: the same wandering line David had heard before he had words for it, before physics, before grief, before Arthur’s arguments had put names to any of the factions in the house. The old tune moved without hurry, refusing resolution, making a shape the body recognized before the mind could.</p>
+<p class="body">David made one broken sound and then another. The hand at the back of his head shifted once, broad and certain, thumb moving in the old unconscious way.</p>
+<p class="body">Elliot hummed on.</p>
+<p class="body">The fork still held 68.48 under everything, low and animal and real. The melody moved above it, not conquering it, not erasing it, only giving the body another path through.</p>
+<p class="body">For a long while the old man said nothing else. He kept humming, and the hand on David’s shoulder kept him from coming apart, and little by little the shaking changed register, grew less violent, became something the body might survive.</p>
+<p class="body">Only then did Elliot speak.</p>
+<p class="body">“The trouble with secrecy,” he said quietly, “is that it makes one body try to bear what belongs to relation.”</p>
+<p class="body">David shut his eyes.</p>
+<p class="body">“If I let it go,” he whispered, his face still near the boards, “it could hurt them.”</p>
+<p class="body">“It will,” Elliot said.</p>
+<p class="body">The truth of it hurt worse than comfort would have.</p>
+<p class="body">“So will grief. So will music. So will love, if it is real enough.” The hand at his head did not move. “Nothing makes it safe.”</p>
+<p class="body">The hum continued a little under the words now, as if speech rode on it.</p>
+<p class="body">“Then what,” David said.</p>
+<p class="body">Elliot bent lower. David could feel the old man’s breath in his hair.</p>
+<p class="body">“A form that does not become a chamber.”</p>
+<p class="body">The sentence entered him before he understood it.</p>
+<p class="body">The cello in the dark.</p>
+<p class="body">The fork on the desk.</p>
+<p class="body">Arthur trying all his life to save him by moving him toward music.</p>
+<p class="body">Elliot trying all his late life to temper what he had passed by building instruments around it.</p>
+<p class="body">The family mistake that had never really been about science and music at all, but about what could carry a thing without enclosing it to death.</p>
+<p class="body">Elliot’s hand moved once over the back of David’s head, broad and almost tender, and the hum widened under the words that followed.</p>
+<p class="body">“A song, David.”</p>
+<p class="body">The apartment answered in minute distributed sympathies. A wire somewhere above. The steel lip in the kitchen. A frail acceptance in the window glass. Nothing theatrical. Only enough to let him feel that the room had heard.</p>
+<p class="body">David lay still under the old man’s hand. The lullaby moved through him in its old wandering line, and under it the fork held its base tone, low and steady, the earthnote of something that would never disappear, only be borne.</p>
+<p class="body">Then the hum broke.</p>
+<p class="body">It snagged, thinned, lost one overtone and then another, as if something at the edge of the room had put a hand into the web of it and torn a hole there. Elliot’s fingers tightened once at the back of David’s head. The apartment, which had been answering in small hidden places, went listening-still.</p>
+<p class="body">From the hall beyond the door came a soft sound.</p>
+<p class="body">A footstep, or perhaps no… not exactly. Weight redistributed. A presence making up its mind.</p>
+<p class="body">David lifted his head.</p>
+<p class="body">The fire had dropped. The room seemed larger suddenly and less inhabited, as if the dark beyond the chalkboards and under the loft had resumed rights it had briefly surrendered. Elliot’s face had already begun to lose its human edges. Not vanishing. Going thin.</p>
+<p class="body">There it was again.</p>
+<p class="body">A scrape. The faintest pressure against the outer wood. Someone standing there long enough to forget embarrassment. Long enough to become intention.</p>
+<p class="body">Elliot’s hand left him.</p>
+<p class="body">The loss of it was immediate. The body knew before the mind: warmth gone, steadiness gone, the old lullaby no longer crossing the threshold between them but falling back into breath, into memory, into whatever medium the dead must use when they have nearly spent themselves.</p>
+<p class="body">David pushed himself upright too fast. The room tilted and righted. The poker by the hearth caught a thread of firelight.</p>
+<p class="body">Then the pounding came. The flat-palmed urgent percussion of someone who had been standing in the hall longer than was polite and had stopped caring about polite.</p>
+<p class="body">David did not move at first.</p>
+<p class="body">The pounding came again. Harder. The door shuddered once in its frame.</p>
+<p class="body">His eyes went to the poker before he chose to look at it. Old reflex. New body. The underpass still lived in his jaw, his ribs, the hands that had learned pavement too well to forget it.</p>
+<p class="body">He crossed the room and took the poker from its stand.</p>
+<p class="body">The weight of it was familiar in a way that shamed him slightly. He took it anyway.</p>
+<p class="body">He set himself to the side of the door, not in front of it. Years of Cornell and one bad November had rearranged his geometry.</p>
+<p class="body">“Who is it?”</p>
+<p class="body">A warning dressed as one.</p>
+<p class="body">A beat.</p>
+<p class="body">Then: “David. It’s me. Open the door.”</p>
+<p class="body">He knew her voice in every register. Including this one. The one she used when she had been frightened for days and had come through fear into something colder and more functional.</p>
+<p class="body">He opened the door.</p>
+<p class="body">Celeste.</p>
+<p class="body">She was still in her coat. She had not stopped to take it off downstairs, had not paused in the lobby, had come straight up. The cold from outside still lived in the fabric. Her hair was wind-caught. Her face had that fixed, lucid strain it took on when she had done the arithmetic of disaster and disliked the answer.</p>
+<p class="body">She looked at him.</p>
+<p class="body">Then at the poker in his hand.</p>
+<p class="body">Then back at him.</p>
+<p class="body">Something crossed her face—not quite a laugh, not quite a sob, something exact and private to the space between them—and David felt the poker leave his hand without deciding to let it go.</p>
+<p class="body">He never knew which of them moved first.</p>
+<p class="body">Only that suddenly he was in the doorway with her coat under his hands and her cold hair against his face, and the sound coming out of him was not language, had never been language, belonged to a register below speech where the body kept its truest accounting.</p>
+<p class="body">She held him with both arms.</p>
+<p class="body">Not tenderly. Competently. Like someone who had been preparing to hold a person upright for days and was at last doing it.</p>
+<p class="body">“I know,” she said into his shoulder. “I know. I’m here.”</p>
+<p class="body">After a long moment—long enough to matter, short enough that neither of them had to name it—she pulled back. She kept her hands on his arms and looked at him with the clinical tenderness she reserved for damage assessment.</p>
+<p class="body">“When did you last sleep?”</p>
+<p class="body">He opened his mouth.</p>
+<p class="body">“Eat,” she said.</p>
+<p class="body">He did not answer.</p>
+<p class="body">She gave one small nod, as if the answer had been expected and logged.</p>
+<p class="body">Then she stepped inside. He stepped back. She closed the door behind her with the quiet authority of someone reclaiming a space she had never entirely relinquished.</p>
+<p class="body">She saw the room.</p>
+<p class="body">She did not comment on it. She took it in—the open boards, the chalk, the fork on the desk, the days of accumulation—the way a person takes in a disaster site she has already decided to enter. Not with horror. With stillness.</p>
+<p class="body">Then she said, “Rune called me.”</p>
+<p class="body">The name landed in the room like a stone dropped into deep water.</p>
+<p class="body">David felt his face change. Felt the hour behind him—Elliot, the argument, Tsukino’s face, the fork’s merciless line—compress itself inside his chest to make room for this new weight.</p>
+<p class="body">“When?”</p>
+<p class="body">“Five days ago.” A pause. “I’ve been calling you.”</p>
+<p class="body">“I know.”</p>
+<p class="body">“David.”</p>
+<p class="body">“I know.”</p>
+<p class="body">He turned back to the boards. He could not help it. The hypothesis was still there, still luminous, still the most complete thing he had ever built.</p>
+<p class="body">“Rune doesn’t understand what I have here,” he said. “When I show him this—the full hypothesis, the dispersal math, the solar alignment—he won’t be able to dismiss it. It isn’t like before. This is different.”</p>
+<p class="body">Celeste stood very still.</p>
+<p class="body">“He’s already drafted the papers,” she said.</p>
+<p class="body">“He hasn’t seen—”</p>
+<p class="body">“It doesn’t matter what he’s seen.”</p>
+<p class="body">Her voice stayed level. It was the voice she used when she had already had the argument with herself and come out the other side.</p>
+<p class="body">“David. He called me because he said you were the most brilliant man he had ever watched destroy himself, and he couldn’t watch it happen again.” She paused. “He said I was the only one you might still hear.”</p>
+<p class="body">David’s hand found the chalk. His back was to her.</p>
+<p class="body">“I can prove it,” he said. “The hypothesis alone will—”</p>
+<p class="body">“Stop.”</p>
+<p class="body">He stopped.</p>
+<p class="body">She crossed the room. She did not look at the boards. She looked only at him—at the back of him, the set of his shoulders, the chalk-grey hand—with an expression nobody else on earth would have recognized as love because it contained too much grief to resemble softness.</p>
+<p class="body">She went to the desk. Found a loose page. Turned it over to the blank side. Wrote.</p>
+<p class="body">It took less than ten seconds.</p>
+<p class="body">She folded the paper once and set it beneath the tuning fork with deliberate care, weighting it against any draft, any future carelessness.</p>
+<p class="body">“When it doesn’t work,” she said, “and it won’t, not the way you mean, read that.”</p>
+<p class="body">He turned.</p>
+<p class="body">“Celeste—”</p>
+<p class="body">“I’m not arguing with you.” She picked up her bag. She was already moving toward the door. “I never could, and I’m not starting tonight.”</p>
+<p class="body">At the door she stopped.</p>
+<p class="body">She did not turn around. Her hand rested on the frame—the same frame she had stood in a hundred times—and for a moment she seemed to gather into herself every version she had ever been here: the woman who had believed in him before he believed in himself, the woman who had left when belief was no longer enough, the woman Rune had called because even now, after everything, she was still the one.</p>
+<p class="body">Then she turned just enough for him to see her face.</p>
+<p class="body">“I loved you, David Lang. I love you still, goddamn it.” Her eyes turned fully, holding his through the dark of the hall with such force it seemed they might break the world open. “Don’t you dare make me mourn you too. Don’t you dare do it.”</p>
+<p class="body">Then she closed the door.</p>
+<p class="body">Not a slam. Not a statement. The quiet click of a woman who had done what she came to do and was trusting him with the rest.</p>
+<p class="body">The apartment received the silence badly.</p>
+<p class="body">It did not settle. It widened.</p>
+<p class="body">David stood where she had left him. The boards glowed faintly across the room, chalk-white marks suspended in black like weather caught in the act of becoming law. The fork pinned her folded note to the desk. The fire had burned low again. Somewhere above him the bridge over the boards gave off a small contracting tick, metal answering cold.</p>
+<p class="body">He did not cross to the note.</p>
+<p class="body">He did not call her back.</p>
+<p class="body">For a long moment he only stood in the altered room, feeling what remained: the ghost of Elliot’s hand at the back of his head, the lullaby not heard now but remembered by the body, the low implacable line of 68.48 still moving under everything like a truth too deep for argument.</p>
+<p class="body">Then he turned to the boards.</p>
+<p class="body">The chalk lay where he had dropped it.</p>
+<p class="body">He picked it up.</p>
+<p class="body">And in the black glass of the center panel, before he wrote, he saw himself standing there alone.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-07.html">Chapter 7</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 5 · Scene 6: VI.  Ishikawa’s Island</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="5">
+<meta name="scene" content="6">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="1857">
+<meta name="paragraph-count" content="96">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-05.html">Chapter 5: Twin Primes on the six</a>
+    <a href="chapter-05-scene-05.html">← Scene 5</a>
+    <a href="chapter-05-scene-07.html">Scene 7 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 5 &middot; Scene 6 of 7</div>
+  <div class="chapter-heading">VI.  Ishikawa’s Island</div>
+  <div class="chapter-subheading">a fantasia quasi sonata</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,857</strong>&thinsp;words&ensp;<strong>96</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>6</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 5 · Scene 6 of 7 ]
+Chapter Title:   Twin Primes on the six
+Scene Heading:   VI.  Ishikawa’s Island
+Scene:           6 of 7
+Word Count:      1,857
+Paragraph Count: 96
+Chapter Words:   4,250–6,106 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">VI.  Ishikawa’s Island</div>
+<div class="tempo-1">Grave controllato</div>
+<p class="body">The only light in Rune Ishikawa’s office came from the green‑shaded lamp on his desk, a small island of order in the encroaching night. As he sat, he removed from his pocket a note from his secretary marked CONFIDENTIAL EYES ONLY ISHIKAWA. He unfolded it and laid it flat upon the desk in front of him. It simply read:</p>
+<p class="body"><em>  Contacted. Assessed. Delivered. Done. Yours now. </em><em>—</em><em>E.G.</em></p>
+<p class="body">He sat there in a silence that had just been compactified. Deeper… darker. Yet Rune had already contained and compressed the information and it’s implications into the geometry of both room and reality alike. The silence of density confirming isolation. Then more silence… and more. Fifty three seconds after he had first read the confidential note, he reached to answer the phone. It had not rung. His hand hovered, open, ready above the receiver. The phone’s ring sliced through the silence like a scalpel—sharp, present—collapsing his held palm over the receiver. He answered with a single, economical word that was both name and declaration of territory:</p>
+<p class="body">“Ishikawa.”</p>
+<p class="body">Julian Kline’s voice was barely human, stripped down to signal and static, a raw nerve of fear vibrating along the wire.</p>
+<p class="body">“It’s happening… again.”</p>
+<p class="body">Rune’s grip on the receiver tightened. The polished bakelite warmed under his fingers, as if the plastic itself remembered previous calls like this.</p>
+<p class="body">He said nothing.</p>
+<p class="body">“The conference was just the beginning.” Kline’s voice twitched an octave upward, trying to stabilize. “It’s worse now. It’s bleeding outward. Campus‑wide.”</p>
+<p class="body">Rune kept his silence. Let him say it all.</p>
+<p class="body">Kline’s breathing hitched. “The physics building network hub has been broadcasting a steady <em>68.48 </em><em>Hz.</em> signal for over eighteen hours. It’s not just noise—it’s rewriting packet structures. Recursive behavior. The main library’s cooling fans have locked into harmonic resonance. They’re singing, Rune. I mean literally. The harmonic sequence matches the cello note described by—by over a dozen students in Lang’s lecture.”</p>
+<p class="body">Rune closed his eyes—not from fatigue, but for focus. His mind began constructing the shape of the breach.</p>
+<p class="body">“Manifestations  Julian,” rune assured him, “Thats all.” </p>
+<p class="body">“Identical auditory hallucinations across multiple subjects. Lissajous curves forming on oscilloscopes in labs running separate iterations of Lang’s equations. Curves that shouldn’t even be possible with their setups. And the people—”</p>
+<p class="body">He faltered.</p>
+<p class="body">Rune waited.</p>
+<p class="body">“Their behavior. Faculty, staff. Repetitive language. Recycled cadence. Vacant expression. Not admiration—resonance. Like they’re… syncing.”</p>
+<p class="body">Rune spoke, flat; a diagnostic inquisition. “The acceleration curve?”</p>
+<p class="body">“Matches the projections from the classified models,” Kline said. “Almost exactly. Local anomalies shifting toward full-spectrum phase invasion. We’re at the inflection point, Rune. Maybe past it.”</p>
+<p class="body">Rune’s voice sharpened. “You’re off‑site.”</p>
+<p class="body">“CUNY gateway sniff. Remote tap. I looped in Ithaca’s net admin just to cross-check protocol drift. They bounced me to campus security. Now I’ve got Legal requesting a formal statement on ‘extraordinary data artifacts.’” A dry, bitter laugh. “They want me to confirm or deny with reference to the 1971 event.”</p>
+<p class="body">Rune didn’t flinch, but something inside him stilled.</p>
+<p class="body">“Only three people on the planet have clearance to speak to that directly,” Kline said. “You’re… the least likely to trip an alarm.”</p>
+<p class="body">Rune looked around his office, the lamplight casting old edges into long shadows. “What do you want from me, Julian?”</p>
+<p class="body">“I want you to admit you see it. Like last time. Like the signs were there then too. Because this isn’t isolated. It’s the same pattern—same harmonics, same mathematical drift toward phase‑lock. And now it’s not just data. It’s behavior.”</p>
+<p class="body">Rune let the silence do its work. Across the line, Kline’s breathing trembled with the weight of what he wasn’t saying.</p>
+<p class="body">Rune spoke evenly. “You’ll be asked to join a containment task force. You will accept. No publication. No independent communication. If anyone begins documenting without clearance, you shut it down.”</p>
+<p class="body">A pause.</p>
+<p class="body">“Do not reference Tsukino’s models by name. Don’t mention Guare at all. Someone is still listening.”</p>
+<p class="body">A dangerous beat, then Kline said, quieter, “They said you’ve been tracking the echo ever since.”</p>
+<p class="body">Rune exhaled. “In my possession. Secure. Not relevant to the present vector.”</p>
+<p class="body">Kline let out a sound—not quite a laugh, not quite a breath.</p>
+<p class="body">“You know, when I first sent you his work—twenty years ago—I thought I was being responsible. Undergraduate with an unsettling grasp of harmonics, odd affect, questions that didn’t land right. I figured you’d glance at it, tell me I was being dramatic, and that would be the end of it.”</p>
+<p class="body">“You were being dramatic,” Rune said.</p>
+<p class="body">“Sure. But you still told me to keep an eye on him.”</p>
+<p class="body">A beat passed.</p>
+<p class="body">“I was supposed to age out of this,” Kline said. “Become the guy who warns his niece about predatory journals and tells undergrads they’re not as original as they think they are.”</p>
+<p class="body">“You do that anyway,” Rune replied.</p>
+<p class="body">“It was meant to be <em>that</em> scale of problem, Rune. Footnotes. Archival weirdness. Archaeology.”</p>
+<p class="body">“This isn’t archaeology,” Rune said.</p>
+<p class="body">“I know. Which is why I’m saying—I’m not Indiana Jones.”</p>
+<p class="body">“No.”</p>
+<p class="body">“So why does it feel like every time this kid opens his mouth, I’m being chased by a boulder?”</p>
+<p class="body">“Because you are.”</p>
+<p class="body">Then silence—longer this time. The joking stopped where it always had to.</p>
+<p class="body">“If Lang shows up again,” Kline said, the edge back in his voice, “do I engage?”</p>
+<p class="body">“Do not,” Rune said. “Not directly. Not until instructed.”</p>
+<p class="body">There was no protest. Just the soft hiss of the line.</p>
+<p class="body">“Are we safe, Rune?”</p>
+<p class="body">Rune didn’t answer immediately.</p>
+<p class="body">He thought back—not to the moment in ’71 itself, but to the aftermath: the survivors no one ever talked about, who had exited academia with blank stares and shallow breaths, who never published again, never taught again. Some died quietly. Some vanished. A few… kept watching.</p>
+<p class="body">“Stay off the main grid after midnight,” Rune said, and hung up.</p>
+<p class="body">He allowed himself thirty seconds—an indulgence by his standards—to stare at the bookshelf.</p>
+<p class="body">Then he moved.</p>
+<p class="body">His fingers found a particular leather volume—<em>Theoretical Calorimetrics, 1887</em>—and pulled it downward. A soft metallic click. The shelf unlocked, swinging inward a fraction. He wedged the tip of his pen into the seam and pulled.</p>
+<p class="body">Behind the hidden panel was a shallow compartment. A single object waited there: a navy-blue metal filing box, chipped and scuffed like something rescued from a forgotten war. A brass key was taped to the lid.</p>
+<p class="body">Rune carried it to the desk like hazardous material. Set it in the lamp’s green glow. Turned the key.</p>
+<p class="body">The box sighed open.</p>
+<p class="body">PROJECT ARGO—TSUKINO / GUARE—INCIDENT 11/28/71—EYES ONLY.</p>
+<p class="body">He laid out the contents with the precision of a coroner. Yellowed photos of a lab torn apart from within. Witness statements, half redacted, later retracted. The fear still bled through, as if embedded in the ink itself. And the equations—first in Tsukino’s elegant hand, later overrun with Guare’s frantic, collapsing script. Notes tumbling into corrections, the margins cracking under desperation.</p>
+<p class="body">As he removed that last page, he placed his finger into the back right corner of the box and pressed gently. A slight mechanical click sounded, and the bottom flipped up, revealing a slim hidden compartment underneath. Inside, a single envelope, yellowed with age but carefully preserved. He took it out with a reverence that, even for Rune, seemed uncommon. The letter was addressed to Kenji Tsukino. Its return address—St. John, U.S. Virgin Islands. Posted March of 1965.</p>
+<p class="body">Rune exuded the letter, unfolded the stationery, and took a deep, solemn breath.</p>
+<p class="body"><em>Dear Dr. Tsukino,  March 1</em><em>, 1965</em></p>
+<p class="body"><em>I write to on behalf of myself, Elliot Lang, and the brave scientists who we both had the privilege of working with at L.A.  Dr. Lang has informed me that he relayed to you certain data packs and research touching on the Frequency problem, and that you intend to pick up the work. I very much regret that anyone has been further burdened with this subject. </em></p>
+<p class="body"><em>If not for my health, I would be standing in front of you now to deliver this admonishment in person. I fear you do not understand the weight of what you are brushing up against. No one can, until it has touched them and played them for fools.</em></p>
+<p class="body"><em>Kenji, you are a brilliant man of science, but you and I both know that brilliance does not, should not equal permission.</em></p>
+<p class="body"><em>There. Enough from me. My love to your dear wife. Please be careful in this, old friend.</em></p>
+<p class="body"><em>  Yours,</em></p>
+<p class="body"><em>            J.R.O.</em></p>
+<p class="body"><em>P.S. I</em><em>’</em><em>ve enclosed a small reminder of that which I speak.    0.7 grams. That</em><em>’</em><em>s all we did. Tuned  0.7 grams.</em></p>
+<p class="body">As he folded the letter and picked up the envelope, a small object rustled inside. Rune tipped it up and into his palm slid a small, rusted-over paperclip. </p>
+<p class="body">He held it in the palm of his hand and turned to gaze out the window onto the quad beyond. </p>
+<p class="body"><em>  Less than a gram</em><em>… </em><em>tuned to calamity.</em></p>
+<p class="body">Then, restoring the object and the letter into the envelope and, once housed, all three into the compartment, he withdrew from the shallow desk drawer to his left. Rune pulled Lang’s most recent preprint and placed it beside the old files.</p>
+<p class="body">They were not similar. They were not inspired by. They were… identical.</p>
+<p class="body">Recursive harmonic functions. Coupling coefficients linking acoustic resonance to quantum collapse. The same beautiful, impossible idea: that the substrate of reality could be tuned.</p>
+<p class="body">In the final page of Tsukino’s notes, a line circled so violently the paper had torn:</p>
+<p class="body"><em>68.48 Hz</em>—The Frequency—Initiates phase‑lock—DO NOT allow sustained resonance.</p>
+<p class="body">Lang hadn’t plagiarized. He hadn’t theorized. He’d rediscovered.</p>
+<p class="body">The system was converging around him, folding reality into a new harmonic configuration. Peer review, instant publication, algorithmic favor—they weren’t coincidence. They were symptoms.</p>
+<p class="body">He picked up the phone again, this time to his secretary.</p>
+<p class="body">“Jessica, would you get me on Professor Armitage’s schedule—I need the next 20 minutes she’s got, please.”</p>
+<p class="body">“Certainly, sir.”</p>
+<p class="body">He held the line as she linked calendars.</p>
+<p class="body">“Dr. Ishikawa, Celeste has office hours posted this afternoon. She’s available in just over an hour.”</p>
+<p class="body">“Not anymore, she’s not. I’ll take it. Thank you, Jessica.”</p>
+<p class="body">“Certainly, sir.”</p>
+<p class="body">He hung the receiver back in its cradle, then slid open the center drawer of his desk and withdrew an elegant silver cigar lighter. He looked to the note from Guare, considering it one last time. </p>
+<p class="body">  <em>Yours now.</em></p>
+<p class="body">Then, lifting the confidential page from the desktop between his index and middle fingers—as if it were something contaminated—he held it over the wastebasket at his feet and struck the flint.</p>
+<p class="body">The paper caught quickly, curling inward as flame and smoke consumed its edges. Just before the heat reached his fingers, he released it into the empty bin below. A faint hiss rose from the flames as trapped moisture fled into vapor under the growing heat. Brief crackles followed, rigid fibers giving way, leaving behind a fragile lattice of ash that finally let slip a ribbon of smoke, thinning as it rose, until it dissolved into the stillness of the room.</p>
+<p class="body">Rune sat back, letting the chair creak beneath him like a ship under pressure. He had tried, years ago, to divert Lang’s trajectory. Subtly. Quietly. But the boy hadn’t just veered off course.</p>
+<p class="body">He’d built a ramp.</p>
+<p class="body">And the world was already mid‑air.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 6 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-05.html">Chapter 5</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

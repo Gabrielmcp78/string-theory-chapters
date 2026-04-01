@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,14 +220,14 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>5,350</strong>&thinsp;words&ensp;<strong>226</strong>&thinsp;paragraphs&ensp;<strong>8</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">I.  Chorale   |   Wednesday Dinner</a><span class="scene-range">w.1–1,979 · ¶1–83</span></div>
-    <div class="scene-entry"><a href="#scene-2">II.  ARIOSO   |   The Tuning</a><span class="scene-range">w.1,980–2,129 · ¶84–91</span></div>
-    <div class="scene-entry"><a href="#scene-3">III.  Recitativum   |  The Office</a><span class="scene-range">w.2,130–2,373 · ¶92–101</span></div>
-    <div class="scene-entry"><a href="#scene-4">IV.  TURBA  |   The Guillotine</a><span class="scene-range">w.2,374–3,198 · ¶102–135</span></div>
-    <div class="scene-entry"><a href="#scene-5">V.  Via Dolorosa   |   Into the Storm</a><span class="scene-range">w.3,199–3,462 · ¶136–145</span></div>
-    <div class="scene-entry"><a href="#scene-6">VI.  Crucifixio   |   It takes a Beating</a><span class="scene-range">w.3,463–3,884 · ¶146–163</span></div>
-    <div class="scene-entry"><a href="#scene-7">VII.  Depositio / Sepultura   |  Up From the Depths</a><span class="scene-range">w.3,885–4,649 · ¶164–204</span></div>
-    <div class="scene-entry"><a href="#scene-8">VIII.  Reliquia   |   Up From the Depths</a><span class="scene-range">w.4,650–5,350 · ¶205–226</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-01.html">I.  Chorale   |   Wednesday Dinner</a><span class="scene-range">w.1–1,979 · ¶1–83</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-02.html">II.  ARIOSO   |   The Tuning</a><span class="scene-range">w.1,980–2,129 · ¶84–91</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-03.html">III.  Recitativum   |  The Office</a><span class="scene-range">w.2,130–2,373 · ¶92–101</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-04.html">IV.  TURBA  |   The Guillotine</a><span class="scene-range">w.2,374–3,198 · ¶102–135</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-05.html">V.  Via Dolorosa   |   Into the Storm</a><span class="scene-range">w.3,199–3,462 · ¶136–145</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-06.html">VI.  Crucifixio   |   It takes a Beating</a><span class="scene-range">w.3,463–3,884 · ¶146–163</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-07.html">VII.  Depositio / Sepultura   |  Up From the Depths</a><span class="scene-range">w.3,885–4,649 · ¶164–204</span></div>
+    <div class="scene-entry"><a href="chapter-03-scene-08.html">VIII.  Reliquia   |   Up From the Depths</a><span class="scene-range">w.4,650–5,350 · ¶205–226</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -222,14 +236,14 @@ Title: Fruitful Eve, False Dawn, Fateful Night
 Word Count: 5,350
 Paragraph Count: 226
 Scene Count: 8
-Scene 1: I.  Chorale   |   Wednesday Dinner -- Word Range: 1–1,979 | Paragraph Range: 1–83
-Scene 2: II.  ARIOSO   |   The Tuning -- Word Range: 1,980–2,129 | Paragraph Range: 84–91
-Scene 3: III.  Recitativum   |  The Office -- Word Range: 2,130–2,373 | Paragraph Range: 92–101
-Scene 4: IV.  TURBA  |   The Guillotine -- Word Range: 2,374–3,198 | Paragraph Range: 102–135
-Scene 5: V.  Via Dolorosa   |   Into the Storm -- Word Range: 3,199–3,462 | Paragraph Range: 136–145
-Scene 6: VI.  Crucifixio   |   It takes a Beating -- Word Range: 3,463–3,884 | Paragraph Range: 146–163
-Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths -- Word Range: 3,885–4,649 | Paragraph Range: 164–204
-Scene 8: VIII.  Reliquia   |   Up From the Depths -- Word Range: 4,650–5,350 | Paragraph Range: 205–226
+Scene 1: I.  Chorale   |   Wednesday Dinner -- Word Range: 1–1,979 | Paragraph Range: 1–83 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
+Scene 2: II.  ARIOSO   |   The Tuning -- Word Range: 1,980–2,129 | Paragraph Range: 84–91 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
+Scene 3: III.  Recitativum   |  The Office -- Word Range: 2,130–2,373 | Paragraph Range: 92–101 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
+Scene 4: IV.  TURBA  |   The Guillotine -- Word Range: 2,374–3,198 | Paragraph Range: 102–135 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
+Scene 5: V.  Via Dolorosa   |   Into the Storm -- Word Range: 3,199–3,462 | Paragraph Range: 136–145 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
+Scene 6: VI.  Crucifixio   |   It takes a Beating -- Word Range: 3,463–3,884 | Paragraph Range: 146–163 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
+Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths -- Word Range: 3,885–4,649 | Paragraph Range: 164–204 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths -- Word Range: 4,650–5,350 | Paragraph Range: 205–226 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 [ End Manifest ]</div>
 <div class="location" id="scene-1">I.  Chorale   |   <em>Wednesday Dinner</em></div>
 <div class="tempo-1">Dolce e semplice </div>

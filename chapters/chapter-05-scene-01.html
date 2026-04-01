@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 5 · Scene 1: I.  Falsifiable Fame</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="5">
+<meta name="scene" content="1">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="789">
+<meta name="paragraph-count" content="24">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-05.html">Chapter 5: Twin Primes on the six</a>
+    
+    <a href="chapter-05-scene-02.html">Scene 2 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 5 &middot; Scene 1 of 7</div>
+  <div class="chapter-heading">I.  Falsifiable Fame</div>
+  <div class="chapter-subheading">a fantasia quasi sonata</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>789</strong>&thinsp;words&ensp;<strong>24</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 5 · Scene 1 of 7 ]
+Chapter Title:   Twin Primes on the six
+Scene Heading:   I.  Falsifiable Fame
+Scene:           1 of 7
+Word Count:      789
+Paragraph Count: 24
+Chapter Words:   15–803 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.  Falsifiable Fame</div>
+<div class="tempo-1">Moderato inquieto</div>
+<p class="body">The notifications found him in the shallow waters of sleep, a school of electric minnows nibbling at the edge of consciousness. David surfaced slowly, the ache in his ribs a dull compass orienting him to the reality of his own body in the dim apartment. His phone, face-up on the nightstand, pulsed with a persistent, arrhythmic light that seemed to bleed into the room’s pre-dawn grey.</p>
+<p class="body">He reached for it, the movement costing him a sharp intake of breath. The screen was a frantic scroll of subject lines from academic journal servers, a chorus of institutional names he’d long since associated with rejection. <em>Physical Review Letters. Nature Physics. The Journal of Mathematical Physics.</em> The sheer volume was the first impossibility; it was 6:47 a.m. He’d received more emails in the last ten minutes than in the previous month.</p>
+<p class="body">A low thrum began in the floorboards, a sensation more than a sound. The 68.48 Hz frequency. It had been a distant presence when he’d fallen asleep, a bass note to his exhaustion. Now it was closer, tuning the very air to its insistence. The phone’s vibrations in his hand seemed to sync with it, the digital pings acting as percussive accents to the sustaining drone.</p>
+<p class="body">He opened the first email. The header was from <em>Physical Review Letters</em>, but the formatting was off-kilter, the font a pixelated serif he didn’t recognize. The message was terse, devoid of the usual bureaucratic niceties.</p>
+<p class="body"><em>  </em><em>Professor Lang</em><em>—</em></p>
+<p class="body"><em>Your manuscript </em><em>“</em><em>Harmonic Convergence in Non-Linear Quantum Fields</em><em>” </em><em>has been accepted for immediate publication. Congratulations on your pioneering methodology. The peer review commentary is attached.</em></p>
+<p class="body">  <em>—</em><em>The Editors</em></p>
+<p class="body">Pioneering methodology. The phrase landed with the weight of a stone in his stomach. He’d been told his methodology was “speculative at best, numerically unsound at worst” by the same journal eight weeks ago.</p>
+<p class="body">He opened the attached peer review. The text was a labyrinth of near-sense. <em>“…</em><em>the author demonstrates a profound, if unorthodox, grasp of the vibrational substrate, though the trans-dimensional coupling coefficients require further justification within the prevailing paradigm of</em><em>…”</em> </p>
+<p class="body">It spiraled into jargon that gestured toward profundity but dissolved under scrutiny, like a figure seen through frosted glass. One reviewer’s comment was just a string of numbers: </p>
+<p class="body">  <em>137.28</em><em>…</em></p>
+<p class="body"><em>  </em><em> 432</em><em>…</em><em> </em></p>
+<p class="body"><em>  </em><em>68.48</em></p>
+<p class="body"><em>   5   3</em></p>
+<p class="body"><em>  </em><em>68.48</em>…</p>
+<p class="body">Another email chimed. <em>Nature Physics.</em> Same story. Acceptance. Immediate publication. The review contained a paragraph that began with a coherent sentence about eigenfrequency analysis and ended with the phrase <em>“…</em><em>the music of the spheres is not a metaphor but a measurable perturbation in the quantum foam.</em><em>”</em> </p>
+<p class="body">Another notification. And another. A cascade of validation from institutions that had built walls to keep his kind of thinking out. He scrolled through the officially published versions online. </p>
+<p class="body">The PDFs were there, proper formatting, his name in bold type. But the citations—he checked them—were ghosts. References to papers that didn’t exist in any database, attributed to journals that had never been printed.</p>
+<p class="body">A laugh escaped him, sharp and brittle, pulling at the bruised muscles of his torso. It was a hideous joke, a cosmic mockery of everything he’d ever wanted. Yet, beneath the revulsion, a treacherous current of warmth spread through his chest. <em>Validation.</em> The drug he’d been starving for. It didn’t matter that the meal was poisoned; his hunger was too great. To see his work, his equations, laid out in the sacred formats of legitimate science… it short-circuited his higher criticism. The hum in the room seemed to amplify, resonating with this ugly, glorious feeling.</p>
+<p class="body">He pushed himself out of bed, the world tilting slightly before righting itself. The ritual of preparation for his morning lecture took on a new, surreal quality. The hot water in the shower beat against his skin in waves that felt syncopated, out of phase with itself. As he dressed, his fingers trembled slightly buttoning his shirt. He chose the one with the least chalk dust.</p>
+<p class="body">His gaze fell on the tuning fork, lying on the rumpled sheets where it had fallen from his pocket during the night. The faint cerulean stain on its prongs seemed to glow in the weak light. He picked it up. The metal was cool, but it carried a latent energy, a silent potential. He slipped it into his breast pocket, the weight of it a familiar anchor against his sternum.</p>
+<p class="body">The hum deepened, vibrating up through the soles of his feet. It was no longer just a sound; it was a pressure, a presence tuning the apartment, tuning him, for whatever was coming next. He looked at his reflection in the dark screen of his laptop—a pale man with a bruised face, wearing the clothes of a professor who had, against all reason and logic, just become an overnight success.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-05.html">Chapter 5</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

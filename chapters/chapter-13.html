@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,13 +220,13 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>5,672</strong>&thinsp;words&ensp;<strong>283</strong>&thinsp;paragraphs&ensp;<strong>7</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">I.  THE NETWORK 				             	November 29, 2026</a><span class="scene-range">w.1–460 · ¶1–20</span></div>
-    <div class="scene-entry"><a href="#scene-2">II.  THE CALL</a><span class="scene-range">w.461–1,420 · ¶21–65</span></div>
-    <div class="scene-entry"><a href="#scene-3">III.  THE DISCOVERY</a><span class="scene-range">w.1,421–2,142 · ¶66–97</span></div>
-    <div class="scene-entry"><a href="#scene-4">IV.  Around The Horn</a><span class="scene-range">w.2,143–3,678 · ¶98–178</span></div>
-    <div class="scene-entry"><a href="#scene-5">V.  THE WEIGHT OF NAMES 			     September 1971</a><span class="scene-range">w.3,679–4,426 · ¶179–221</span></div>
-    <div class="scene-entry"><a href="#scene-6">VI.  TEMPORALity</a><span class="scene-range">w.4,427–4,808 · ¶222–244</span></div>
-    <div class="scene-entry"><a href="#scene-7">VII.  CANTUS</a><span class="scene-range">w.4,809–5,672 · ¶245–283</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-01.html">I.  THE NETWORK 				             	November 29, 2026</a><span class="scene-range">w.1–460 · ¶1–20</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-02.html">II.  THE CALL</a><span class="scene-range">w.461–1,420 · ¶21–65</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-03.html">III.  THE DISCOVERY</a><span class="scene-range">w.1,421–2,142 · ¶66–97</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-04.html">IV.  Around The Horn</a><span class="scene-range">w.2,143–3,678 · ¶98–178</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-05.html">V.  THE WEIGHT OF NAMES 			     September 1971</a><span class="scene-range">w.3,679–4,426 · ¶179–221</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-06.html">VI.  TEMPORALity</a><span class="scene-range">w.4,427–4,808 · ¶222–244</span></div>
+    <div class="scene-entry"><a href="chapter-13-scene-07.html">VII.  CANTUS</a><span class="scene-range">w.4,809–5,672 · ¶245–283</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -221,13 +235,13 @@ Title: Phenom de Guare
 Word Count: 5,672
 Paragraph Count: 283
 Scene Count: 7
-Scene 1: I.  THE NETWORK 				             	November 29, 2026 -- Word Range: 1–460 | Paragraph Range: 1–20
-Scene 2: II.  THE CALL -- Word Range: 461–1,420 | Paragraph Range: 21–65
-Scene 3: III.  THE DISCOVERY -- Word Range: 1,421–2,142 | Paragraph Range: 66–97
-Scene 4: IV.  Around The Horn -- Word Range: 2,143–3,678 | Paragraph Range: 98–178
-Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971 -- Word Range: 3,679–4,426 | Paragraph Range: 179–221
-Scene 6: VI.  TEMPORALity -- Word Range: 4,427–4,808 | Paragraph Range: 222–244
-Scene 7: VII.  CANTUS -- Word Range: 4,809–5,672 | Paragraph Range: 245–283
+Scene 1: I.  THE NETWORK 				             	November 29, 2026 -- Word Range: 1–460 | Paragraph Range: 1–20 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
+Scene 2: II.  THE CALL -- Word Range: 461–1,420 | Paragraph Range: 21–65 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: III.  THE DISCOVERY -- Word Range: 1,421–2,142 | Paragraph Range: 66–97 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: IV.  Around The Horn -- Word Range: 2,143–3,678 | Paragraph Range: 98–178 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971 -- Word Range: 3,679–4,426 | Paragraph Range: 179–221 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: VI.  TEMPORALity -- Word Range: 4,427–4,808 | Paragraph Range: 222–244 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: VII.  CANTUS -- Word Range: 4,809–5,672 | Paragraph Range: 245–283 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 [ End Manifest ]</div>
 <div class="location" id="scene-1">I.  THE NETWORK                <em>  </em><em>November 29, 2026</em></div>
 <div class="tempo-1">UCLA Keck Observatory  |   9:48 A.M. Pacific</div>

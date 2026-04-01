@@ -11,10 +11,10 @@ Word Count:      7,289
 Paragraph Count: 357
 Scene Count:     4
 
-Scene 1: I.  Preliminary Observations  --  Words 1–1,202  |  Paragraphs 1–28
-Scene 2: II.  Method and Resonance  --  Words 1,203–2,013  |  Paragraphs 29–56
-Scene 3: III.  Findings and Implications  --  Words 2,014–2,838  |  Paragraphs 57–77
-Scene 4: IV. Lossless Transfers  --  Words 2,839–7,289  |  Paragraphs 78–357
+Scene 1: I.  Preliminary Observations  --  Words 1–1,202  |  Paragraphs 1–28  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: II.  Method and Resonance  --  Words 1,203–2,013  |  Paragraphs 29–56  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: III.  Findings and Implications  --  Words 2,014–2,838  |  Paragraphs 57–77  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 4: IV. Lossless Transfers  --  Words 2,839–7,289  |  Paragraphs 78–357  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

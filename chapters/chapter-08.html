@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,14 +220,14 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>6,572</strong>&thinsp;words&ensp;<strong>194</strong>&thinsp;paragraphs&ensp;<strong>8</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">I.  The Lounge</a><span class="scene-range">w.1–1,090 · ¶1–22</span></div>
-    <div class="scene-entry"><a href="#scene-2">II.  The Lecture</a><span class="scene-range">w.1,091–1,936 · ¶23–42</span></div>
-    <div class="scene-entry"><a href="#scene-3">III.  The Fall</a><span class="scene-range">w.1,937–3,010 · ¶43–75</span></div>
-    <div class="scene-entry"><a href="#scene-4">IV.  The Quartet</a><span class="scene-range">w.3,011–3,792 · ¶76–95</span></div>
-    <div class="scene-entry"><a href="#scene-5">V.  The Journey</a><span class="scene-range">w.3,793–5,200 · ¶96–153</span></div>
-    <div class="scene-entry"><a href="#scene-6">VI.  The Attic					Present Day</a><span class="scene-range">w.5,201–5,505 · ¶154–163</span></div>
-    <div class="scene-entry"><a href="#scene-7">VII.  Home</a><span class="scene-range">w.5,506–6,108 · ¶164–178</span></div>
-    <div class="scene-entry"><a href="#scene-8">VIII.  Solitude</a><span class="scene-range">w.6,109–6,572 · ¶179–194</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-01.html">I.  The Lounge</a><span class="scene-range">w.1–1,090 · ¶1–22</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-02.html">II.  The Lecture</a><span class="scene-range">w.1,091–1,936 · ¶23–42</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-03.html">III.  The Fall</a><span class="scene-range">w.1,937–3,010 · ¶43–75</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-04.html">IV.  The Quartet</a><span class="scene-range">w.3,011–3,792 · ¶76–95</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-05.html">V.  The Journey</a><span class="scene-range">w.3,793–5,200 · ¶96–153</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-06.html">VI.  The Attic					Present Day</a><span class="scene-range">w.5,201–5,505 · ¶154–163</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-07.html">VII.  Home</a><span class="scene-range">w.5,506–6,108 · ¶164–178</span></div>
+    <div class="scene-entry"><a href="chapter-08-scene-08.html">VIII.  Solitude</a><span class="scene-range">w.6,109–6,572 · ¶179–194</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -222,14 +236,14 @@ Title: Skepticism and Ridicule
 Word Count: 6,572
 Paragraph Count: 194
 Scene Count: 8
-Scene 1: I.  The Lounge -- Word Range: 1–1,090 | Paragraph Range: 1–22
-Scene 2: II.  The Lecture -- Word Range: 1,091–1,936 | Paragraph Range: 23–42
-Scene 3: III.  The Fall -- Word Range: 1,937–3,010 | Paragraph Range: 43–75
-Scene 4: IV.  The Quartet -- Word Range: 3,011–3,792 | Paragraph Range: 76–95
-Scene 5: V.  The Journey -- Word Range: 3,793–5,200 | Paragraph Range: 96–153
-Scene 6: VI.  The Attic					Present Day -- Word Range: 5,201–5,505 | Paragraph Range: 154–163
-Scene 7: VII.  Home -- Word Range: 5,506–6,108 | Paragraph Range: 164–178
-Scene 8: VIII.  Solitude -- Word Range: 6,109–6,572 | Paragraph Range: 179–194
+Scene 1: I.  The Lounge -- Word Range: 1–1,090 | Paragraph Range: 1–22 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
+Scene 2: II.  The Lecture -- Word Range: 1,091–1,936 | Paragraph Range: 23–42 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
+Scene 3: III.  The Fall -- Word Range: 1,937–3,010 | Paragraph Range: 43–75 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
+Scene 4: IV.  The Quartet -- Word Range: 3,011–3,792 | Paragraph Range: 76–95 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
+Scene 5: V.  The Journey -- Word Range: 3,793–5,200 | Paragraph Range: 96–153 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-05.html
+Scene 6: VI.  The Attic					Present Day -- Word Range: 5,201–5,505 | Paragraph Range: 154–163 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-06.html
+Scene 7: VII.  Home -- Word Range: 5,506–6,108 | Paragraph Range: 164–178 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-07.html
+Scene 8: VIII.  Solitude -- Word Range: 6,109–6,572 | Paragraph Range: 179–194 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-08.html
 [ End Manifest ]</div>
 <div class="location" id="scene-1">I.  The Lounge </div>
 <div class="tempo-1">Moderato inquieto</div>

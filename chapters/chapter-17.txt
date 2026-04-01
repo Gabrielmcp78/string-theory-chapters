@@ -12,9 +12,9 @@ Word Count:      3,111
 Paragraph Count: 133
 Scene Count:     3
 
-Scene 1: I.  Observed superposition  --  Words 1–808  |  Paragraphs 1–18
-Scene 2: II.  The Letters  --  Words 809–1,834  |  Paragraphs 19–47
-Scene 3: III.   Tonal Activation  --  Words 1,835–3,111  |  Paragraphs 48–133
+Scene 1: I.  Observed superposition  --  Words 1–808  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: II.  The Letters  --  Words 809–1,834  |  Paragraphs 19–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: III.   Tonal Activation  --  Words 1,835–3,111  |  Paragraphs 48–133  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

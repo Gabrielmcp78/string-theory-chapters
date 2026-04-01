@@ -12,8 +12,8 @@ Word Count:      584
 Paragraph Count: 42
 Scene Count:     2
 
-Scene 1: Project ARGO  --  Words 52–280  |  Paragraphs 6–22
-Scene 2: ARCHIVE ENTRY: LOGBOOK ADDENDUM  --  Words 281–584  |  Paragraphs 23–42
+Scene 1: Project ARGO  --  Words 52–280  |  Paragraphs 6–22  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture-scene-01.html
+Scene 2: ARCHIVE ENTRY: LOGBOOK ADDENDUM  --  Words 281–584  |  Paragraphs 23–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

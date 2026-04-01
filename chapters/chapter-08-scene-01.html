@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 8 · Scene 1: I.  The Lounge</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="8">
+<meta name="scene" content="1">
+<meta name="scene-count" content="8">
+<meta name="word-count" content="1090">
+<meta name="paragraph-count" content="22">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-08.html">Chapter 8: Skepticism and Ridicule</a>
+    
+    <a href="chapter-08-scene-02.html">Scene 2 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 8 &middot; Scene 1 of 8</div>
+  <div class="chapter-heading">I.  The Lounge</div>
+  
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,090</strong>&thinsp;words&ensp;<strong>22</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>8</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 8 · Scene 1 of 8 ]
+Chapter Title:   Skepticism and Ridicule
+Scene Heading:   I.  The Lounge
+Scene:           1 of 8
+Word Count:      1,090
+Paragraph Count: 22
+Chapter Words:   1–1,090 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.  The Lounge </div>
+<div class="tempo-1">Moderato inquieto</div>
+<p class="body">The faculty lounge, a misnomer if ever there was one, resisted the notion of gathering as ardently as a well-cultivated Petri dish resists sterilization. The battered vinyl sofa offered the tactile experience of a low-wage dentist’s waiting room. The adjacent Formica table—permanently indented with the ringworm pattern of neglected mugs—held the day’s most pressing object: twenty-seven freshly minted copies of David’s manifesto.</p>
+<p class="body">They were not professionally bound, nor even collated by the standards of a competent office clerk, but rather stapled at the upper left in a way that forced the reader’s thumb to snap each page over the next, like breaking the seal on a series of illicit confessions. The paper itself was heavy, faintly embossed with the tooth of a specialty stock. On the title page, a dense spray of notation—treble and bass clefs entwined with Dirac brackets—created a visual contradiction that recoiled at the prospect of linear reading. Fermion operators, scrawled across the grand staff lines like parasitic instructions, announced the document’s subtitle: </p>
+<p class="body">“<em>A Physical Manifesto of Cosmic Resonance: </em></p>
+<p class="body"><em>Music, Mathematics, and the Harmonic Genesis of Genius.</em><em>”</em></p>
+<p class="body">Each copy bore its own ecosystem of secondary stains: a burnt-umber thumbprint left by the departmental secretary, who handled the batch with the caution of a hazmat technician; a faint, almost ceremonial dusting of rosin from the morning’s cello practice, embedded in the fiber; a corner already curled by a junior faculty member’s triple-shot Americano. In the margin, a tiny bloodstain—hardly more than a pinprick—attested to David’s longstanding cuticle-nibbling habit.</p>
+<p class="body">The first to notice the pile was the thermodynamics chair, a man with a gait engineered for ostentatious suffering and a wardrobe in the improbable hues of burnt peach and suicide blue. He hovered at the coffee station, eyeing the pile with proprietary skepticism. His fingers, stained to the knuckle by dry-erase markers, hovered over the nearest copy before retracting with visible distaste.</p>
+<p class="body">He murmured, “Christ,” as if the word itself were a hedge against contamination, and circled the pile, seeking a route to the refrigerator that did not pass directly through the zone of potential responsibility. He executed a flawless avoidance maneuver, retrieved his non-dairy creamer, and departed without once breaking eye contact with the document—or with David, now hovering at the perimeter.</p>
+<p class="body">David, for his part, was already rehearsing the impossible. He had not slept since the previous afternoon, barring the micro-naps induced by caffeine withdrawal. His shirt was not just wrinkled but pleated by the mechanics of stress, the left cuff permanently tinged blue by a spill of Pilot G-2 ink. He’d positioned himself at the threshold, not so much a participant as a warden, his body blocking both ingress and egress with the passive menace of a border checkpoint.</p>
+<p class="body">He watched as the second reader, a quantum-field theorist notorious for her ability to weaponize silence, approached the table. She did not touch the pile but instead performed a forensic survey, scanning the title page and then, with a minute furrow of the brow, the copyright line at the bottom. Her lips pursed; she released a single, unsourced “Huh,” then made a show of moving her phone exactly two inches further from the document.</p>
+<p class="body">The others, alerted by the low hum of mutual dread, entered in staggered pairs: the string theorist (tie adorned with illegible equations), the applied mathematician whose dueling hemispheres warred daily over whether to despise or condescend to physicists, the ancient emeritus who believed all knowledge past 1968 was morally bankrupt. They formed a loose, self-sorting cluster at the end of the table, each finding a reason not to touch the document, their eyes meeting above the pile in silent, communal bafflement.</p>
+<p class="body">Only the young graduate student—face still animated by the hope that academia would someday be more than a mechanism for debt accrual and existential scarring—dared to engage. She approached the pile with the hesitant reverence of a person handling the relics of a recently canonized saint. Her name tag read Rebecca. She lifted a copy, weighed it, and thumbed through the first few pages, brow knitting as the logic lapsed from baroque to lunatic within the first two paragraphs.</p>
+<p class="body">She read a line aloud, her voice soft but unashamed: “The cosmic background hum—a B-flat just at the threshold of measurable wave energy—is the root resonance from which all structure arises: in physics, in cells, even in cognition. Patterns echo patterns. Harmony recurses.” She stopped, uncertain whether to be amused or alarmed, then set the document down with a care that was almost motherly.</p>
+<p class="body">David saw it all: the department chair’s thumb hovering then retreating, the microsecond of fear on the theorist’s face, the way even the grad student’s hope could not withstand the density of his prose. He watched as, one by one, the copies became islands on the Formica surface, each a quarantine zone, untouched and unremarked except for the gradually spreading perimeter of social discomfort they engendered.</p>
+<p class="body">He stood at the threshold, right hand twitching with the restless energy of a musician denied his instrument, fingers flexing in the air as if playing an inaudible ostinato. His left arm, pressed hard against his ribcage, cradled a fresh stack of staff paper annotated with the next phase of his project: the translation of resonance from thought to deed.</p>
+<p class="body">The silence had not grown quieter, but it had a barometric density, as if the room itself were holding its breath. The air vibrated with all that was left unsaid—that David wasn’t just eccentric, but somehow defective. Contagious.</p>
+<p class="body">Rebecca glanced at him. Instead of solidarity, she offered a tight, pitying smile—the smile reserved for the terminally ill.</p>
+<p class="body">David returned the smile, or tried to. His lips shaped the gesture, but the rest of his face did not follow, and the effect was more grimace than greeting. He pivoted on his heel, moving with a speed that betrayed the depth of his disappointment, and exited the lounge in three long strides, leaving behind the scent of sweat and failed ambition.</p>
+<p class="body">As he moved down the corridor, the muffled voices receded, replaced by the familiar undertones of his inner soundtrack. His fingers, now unoccupied, resumed their phantom playing—drawing invisible arcs through the air, pinky keeping tempo against his trousers. He imagined the music of the spheres as a real, audible thing, vibrating through the bones of the building.</p>
+<p class="body">He did not pause to check if anyone followed. He already knew the answer.</p>
+<p class="body">Behind him, in the lounge, the manifesto sat like a failed experiment—unobserved, unmeasured, and already decaying toward equilibrium.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-08.html">Chapter 8</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>

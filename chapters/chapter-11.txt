@@ -12,10 +12,10 @@ Word Count:      3,477
 Paragraph Count: 104
 Scene Count:     4
 
-Scene 1: I.  The SARABANDE  --  Words 22–681  |  Paragraphs 5–18
-Scene 2: II. The Grid  --  Words 682–1,339  |  Paragraphs 19–32
-Scene 3: III.  Invitations of ill  --  Words 1,340–1,965  |  Paragraphs 33–47
-Scene 4: IV.  The Reckoning  --  Words 1,966–3,477  |  Paragraphs 48–104
+Scene 1: I.  The SARABANDE  --  Words 22–681  |  Paragraphs 5–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
+Scene 2: II. The Grid  --  Words 682–1,339  |  Paragraphs 19–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
+Scene 3: III.  Invitations of ill  --  Words 1,340–1,965  |  Paragraphs 33–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
+Scene 4: IV.  The Reckoning  --  Words 1,966–3,477  |  Paragraphs 48–104  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

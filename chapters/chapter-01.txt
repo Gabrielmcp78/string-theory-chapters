@@ -12,10 +12,10 @@ Word Count:      10,784
 Paragraph Count: 370
 Scene Count:     4
 
-Scene 1: I.  THE CLASSROOM  --  Words 7–4,364  |  Paragraphs 2–184
-Scene 2: II.  THE OFFICE  --  Words 4,365–6,459  |  Paragraphs 185–241
-Scene 3: III.  THE REHEARSAL HALL  --  Words 6,460–9,527  |  Paragraphs 242–341
-Scene 4: IV.  THE APARTMENT  --  Words 9,528–10,784  |  Paragraphs 342–370
+Scene 1: I.  THE CLASSROOM  --  Words 7–4,364  |  Paragraphs 2–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
+Scene 2: II.  THE OFFICE  --  Words 4,365–6,459  |  Paragraphs 185–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
+Scene 3: III.  THE REHEARSAL HALL  --  Words 6,460–9,527  |  Paragraphs 242–341  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: IV.  THE APARTMENT  --  Words 9,528–10,784  |  Paragraphs 342–370  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

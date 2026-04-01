@@ -140,6 +140,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -206,13 +220,13 @@ footer a:hover { color: #b8785a; }
   <div class="chapter-stats">
   <div class="stats-row"><strong>9,206</strong>&thinsp;words&ensp;<strong>343</strong>&thinsp;paragraphs&ensp;<strong>7</strong>&thinsp;scenes</div>
   <div class="scene-inventory">
-    <div class="scene-entry"><a href="#scene-1">I.  The Ultimatum   |   Variation I (Tutti)</a><span class="scene-range">w.1–1,307 · ¶1–45</span></div>
-    <div class="scene-entry"><a href="#scene-2">II.  The Final Score   |   Variation II (Solo)</a><span class="scene-range">w.1,308–2,266 · ¶46–60</span></div>
-    <div class="scene-entry"><a href="#scene-3">III.  The Catwalks   |   Duetto / Contrapunto lirico</a><span class="scene-range">w.2,267–5,970 · ¶61–199</span></div>
-    <div class="scene-entry"><a href="#scene-4">IV.  Disappearance   |   Chorale (senza vibrato)</a><span class="scene-range">w.5,971–6,594 · ¶200–210</span></div>
-    <div class="scene-entry"><a href="#scene-5">V.1  Observed superposition</a><span class="scene-range">w.6,595–6,746 · ¶211–217</span></div>
-    <div class="scene-entry"><a href="#scene-6">V.2  Observed superposition</a><span class="scene-range">w.6,747–7,929 · ¶218–265</span></div>
-    <div class="scene-entry"><a href="#scene-7">V.2.1  en train</a><span class="scene-range">w.7,930–9,206 · ¶266–343</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-01.html">I.  The Ultimatum   |   Variation I (Tutti)</a><span class="scene-range">w.1–1,307 · ¶1–45</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-02.html">II.  The Final Score   |   Variation II (Solo)</a><span class="scene-range">w.1,308–2,266 · ¶46–60</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-03.html">III.  The Catwalks   |   Duetto / Contrapunto lirico</a><span class="scene-range">w.2,267–5,970 · ¶61–199</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-04.html">IV.  Disappearance   |   Chorale (senza vibrato)</a><span class="scene-range">w.5,971–6,594 · ¶200–210</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-05.html">V.1  Observed superposition</a><span class="scene-range">w.6,595–6,746 · ¶211–217</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-06.html">V.2  Observed superposition</a><span class="scene-range">w.6,747–7,929 · ¶218–265</span></div>
+    <div class="scene-entry"><a href="chapter-16-scene-07.html">V.2.1  en train</a><span class="scene-range">w.7,930–9,206 · ¶266–343</span></div>
   </div>
 </div>
   <div class="chapter-text">
@@ -221,13 +235,13 @@ Title: The Final Decision
 Word Count: 9,206
 Paragraph Count: 343
 Scene Count: 7
-Scene 1: I.  The Ultimatum   |   Variation I (Tutti) -- Word Range: 1–1,307 | Paragraph Range: 1–45
-Scene 2: II.  The Final Score   |   Variation II (Solo) -- Word Range: 1,308–2,266 | Paragraph Range: 46–60
-Scene 3: III.  The Catwalks   |   Duetto / Contrapunto lirico -- Word Range: 2,267–5,970 | Paragraph Range: 61–199
-Scene 4: IV.  Disappearance   |   Chorale (senza vibrato) -- Word Range: 5,971–6,594 | Paragraph Range: 200–210
-Scene 5: V.1  Observed superposition -- Word Range: 6,595–6,746 | Paragraph Range: 211–217
-Scene 6: V.2  Observed superposition -- Word Range: 6,747–7,929 | Paragraph Range: 218–265
-Scene 7: V.2.1  en train -- Word Range: 7,930–9,206 | Paragraph Range: 266–343
+Scene 1: I.  The Ultimatum   |   Variation I (Tutti) -- Word Range: 1–1,307 | Paragraph Range: 1–45 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html
+Scene 2: II.  The Final Score   |   Variation II (Solo) -- Word Range: 1,308–2,266 | Paragraph Range: 46–60 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html
+Scene 3: III.  The Catwalks   |   Duetto / Contrapunto lirico -- Word Range: 2,267–5,970 | Paragraph Range: 61–199 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html
+Scene 4: IV.  Disappearance   |   Chorale (senza vibrato) -- Word Range: 5,971–6,594 | Paragraph Range: 200–210 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html
+Scene 5: V.1  Observed superposition -- Word Range: 6,595–6,746 | Paragraph Range: 211–217 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
+Scene 6: V.2  Observed superposition -- Word Range: 6,747–7,929 | Paragraph Range: 218–265 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
+Scene 7: V.2.1  en train -- Word Range: 7,930–9,206 | Paragraph Range: 266–343 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-07.html
 [ End Manifest ]</div>
 <div class="location" id="scene-1">I.  The Ultimatum   |   <em>Variation I (Tutti)</em></div>
 <div class="tempo-1">Allegro agitato, con pressione</div>

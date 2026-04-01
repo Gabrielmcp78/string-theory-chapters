@@ -4,10 +4,11 @@ build.py — String Theory Chapter Site Builder (DOCX Edition)
 Source: DOCX export from Pages (preserves bold, italic, paragraph styles)
 
 Outputs per chapter:
-  chapters/chapter-NN.html   — styled reader page
-  chapters/chapter-NN.txt    — plain text (parser/LLM-friendly, no HTML)
-  manifest.json              — full site index with chapter metadata + scene spans
-  String Theory.epub         — EPUB 2 for reading apps
+  chapters/chapter-NN.html              — styled full reader page
+  chapters/chapter-NN-scene-MM.html     — individual scene pages (direct LLM access)
+  chapters/chapter-NN.txt               — plain text (parser/LLM-friendly, no HTML)
+  manifest.json                         — full site index with chapter + scene URLs
+  String Theory.epub                    — EPUB 2 for reading apps
 """
 
 import re, sys, html, zipfile, json
@@ -180,6 +181,20 @@ h3.subchapter {
 .scene-entry a:hover { color: #b8785a; }
 .scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
 
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
 /* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
 .chapter-manifest {
     font-family: 'Courier New', Courier, monospace;
@@ -228,6 +243,10 @@ footer a:hover { color: #b8785a; }
 # -- Helpers ------------------------------------------------------------------
 def slugify(n):
     return "overture" if n == 0 else f"chapter-{int(n):02d}"
+
+def scene_slug(num, scene_n):
+    """URL slug for an individual scene page, e.g., chapter-01-scene-01"""
+    return f"{slugify(num)}-scene-{scene_n:02d}"
 
 def chapter_label(n):
     return "Overture" if n == 0 else f"Chapter {n}"
@@ -339,6 +358,36 @@ def strip_header_paras(paras):
             idx += 1
     return paras[idx:]
 
+def extract_scenes(body_paras):
+    """
+    Group body_paras into scenes by location markers.
+    Returns list of {'n': int, 'heading': str, 'paras': [docx.Paragraph, ...]}
+    If no location paragraphs exist, returns a single scene with all paragraphs.
+    """
+    scenes = []
+    current = None
+    for p in body_paras:
+        if p.style.name == 'location' and p.text.strip():
+            if current is not None:
+                scenes.append(current)
+            current = {
+                'n':       len(scenes) + 1,
+                'heading': p.text.strip(),
+                'paras':   [p],
+            }
+        else:
+            if current is not None:
+                # Only accumulate once we're inside a scene
+                current['paras'].append(p)
+            # Pre-scene paragraphs (before first location marker) are skipped —
+            # they render in the full chapter HTML but not on individual scene pages
+    if current is not None:
+        scenes.append(current)
+    # Re-number cleanly
+    for i, s in enumerate(scenes):
+        s['n'] = i + 1
+    return scenes
+
 def render_body_html(paras):
     """Render body HTML with scene anchors; return (html_str, stats)."""
     parts      = []
@@ -366,6 +415,7 @@ def render_body_html(paras):
             scene_id = f'scene-{scene_n}'
             scenes.append({
                 'id':         scene_id,
+                'n':          scene_n,
                 'heading':    t,
                 'word_start': word_count - w + 1,
                 'para_start': para_count,
@@ -422,10 +472,12 @@ def make_chapter_txt(num, title, subtitle, body_paras, stats):
         '',
     ]
     for i, s in enumerate(sc_list, 1):
+        scene_url = f'{PAGES_URL}/chapters/{scene_slug(num, i)}.html'
         lines.append(
             f'Scene {i}: {s["heading"]}'
             f'  --  Words {s["word_start"]:,}\u2013{s["word_end"]:,}'
             f'  |  Paragraphs {s["para_start"]}\u2013{s["para_end"]}'
+            f'  |  URL: {scene_url}'
         )
     lines += [
         bar,
@@ -472,6 +524,7 @@ def make_manifest_json(chapters_full, build_date):
                     'word_end':   s['word_end'],
                     'para_start': s['para_start'],
                     'para_end':   s['para_end'],
+                    'html_url':   f'{PAGES_URL}/chapters/{scene_slug(num, i)}.html',
                 }
                 for i, s in enumerate(scenes, 1)
             ],
@@ -486,6 +539,127 @@ def make_manifest_json(chapters_full, build_date):
     }, indent=2, ensure_ascii=False)
 
 # -- HTML page builders -------------------------------------------------------
+
+def make_scene_html(num, title, subtitle, scene_group, sc_stat,
+                    total_scenes, all_nums, build_date):
+    """
+    Standalone HTML page for a single scene.
+    scene_group: {'n', 'heading', 'paras'} from extract_scenes()
+    sc_stat:     scene entry from stats['scenes'] with word/para ranges
+    """
+    ch_slug  = slugify(num)
+    sc_n     = scene_group['n']
+    sc_slug  = scene_slug(num, sc_n)
+    ch_label = chapter_label(num)
+
+    # Render scene body from its own paragraphs
+    scene_body_parts = []
+    for p in scene_group['paras']:
+        scene_body_parts.append(para_to_html(p))
+    scene_body_html = ''.join(scene_body_parts)
+
+    # Scene-level stats (derived from chapter cumulative ranges)
+    sc_words = sc_stat['word_end'] - sc_stat['word_start'] + 1
+    sc_paras = sc_stat['para_end'] - sc_stat['para_start'] + 1
+
+    # Prev / next scene nav (within this chapter)
+    prev_link = ''
+    next_link = ''
+    if sc_n > 1:
+        prev_link = (f'<a href="{scene_slug(num, sc_n - 1)}.html">'
+                     f'\u2190 Scene {sc_n - 1}</a>')
+    if sc_n < total_scenes:
+        next_link = (f'<a href="{scene_slug(num, sc_n + 1)}.html">'
+                     f'Scene {sc_n + 1} \u2192</a>')
+
+    page_title = (f"{BOOK_TITLE} \u00b7 {ch_label} \u00b7 "
+                  f"Scene {sc_n}: {html.escape(scene_group['heading'])}")
+
+    stats_bar = (
+        f'<div class="chapter-stats">\n'
+        f'  <div class="stats-row">'
+        f'<strong>{sc_words:,}</strong>&thinsp;words'
+        f'&ensp;<strong>{sc_paras:,}</strong>&thinsp;paragraphs'
+        f'&ensp;\u00b7&ensp;Scene&thinsp;<strong>{sc_n}</strong>'
+        f'&thinsp;of&thinsp;<strong>{total_scenes}</strong>'
+        f'</div>\n</div>'
+    )
+
+    manifest_lines = [
+        f'[ Scene Manifest: {BOOK_TITLE} \u00b7 {ch_label} \u00b7 Scene {sc_n} of {total_scenes} ]',
+        f'Chapter Title:   {title}',
+        f'Scene Heading:   {scene_group["heading"]}',
+        f'Scene:           {sc_n} of {total_scenes}',
+        f'Word Count:      {sc_words:,}',
+        f'Paragraph Count: {sc_paras:,}',
+        f'Chapter Words:   {sc_stat["word_start"]:,}\u2013{sc_stat["word_end"]:,} (within full chapter)',
+        f'[ End Scene Manifest ]',
+    ]
+    manifest_block = (
+        f'<div class="chapter-manifest">'
+        f'{html.escape(chr(10).join(manifest_lines))}</div>'
+    )
+
+    sentinel = (
+        f'<div class="chapter-sentinel" id="scene-end">'
+        f'&#8212; End of Scene {sc_n} &#8212;</div>'
+    )
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{page_title}</title>
+<meta name="book" content="{html.escape(BOOK_TITLE)}">
+<meta name="chapter" content="{num}">
+<meta name="scene" content="{sc_n}">
+<meta name="scene-count" content="{total_scenes}">
+<meta name="word-count" content="{sc_words}">
+<meta name="paragraph-count" content="{sc_paras}">
+<style>{CSS}</style>
+</head>
+<body>
+<header>
+  <div class="book-title">{html.escape(BOOK_TITLE)} &middot; {html.escape(AUTHOR)}</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">{BOOK_TITLE}</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="{ch_slug}.html">{ch_label}: {html.escape(title)}</a>
+    {prev_link}
+    {next_link}
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">{html.escape(BOOK_TITLE)} &middot; {html.escape(AUTHOR)}</div>
+  <div class="chapter-number">{ch_label} &middot; Scene {sc_n} of {total_scenes}</div>
+  <div class="chapter-heading">{html.escape(scene_group["heading"])}</div>
+  {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
+
+  {stats_bar}
+
+  <div class="chapter-text">
+{manifest_block}
+{scene_body_html}
+{sentinel}
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>{BOOK_TITLE} &mdash; {AUTHOR}</span>
+  <span>Built {build_date}
+    &middot; <a href="{ch_slug}.html">{ch_label}</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>"""
+
+
 def make_chapter_html(num, paras, all_nums, build_date,
                       prebuilt_body=None, prebuilt_stats=None):
     slug  = slugify(num)
@@ -515,15 +689,16 @@ def make_chapter_html(num, paras, all_nums, build_date,
     sc_words = stats['words']
     sc_paras = stats['paragraphs']
 
-    # Visual stats bar
+    # Scene inventory — links go to individual scene pages
     scene_entries = ''
     for s in sc_list:
+        sc_page  = f"{scene_slug(num, s['n'])}.html"
         w_range  = f'w.{s["word_start"]:,}\u2013{s["word_end"]:,}'
         p_range  = f'\u00b6{s["para_start"]}\u2013{s["para_end"]}'
         rng_span = f'<span class="scene-range">{w_range}\u00a0\u00b7\u00a0{p_range}</span>'
         scene_entries += (
             f'    <div class="scene-entry">'
-            f'<a href="#{s["id"]}">{html.escape(s["heading"])}</a>'
+            f'<a href="{sc_page}">{html.escape(s["heading"])}</a>'
             f'{rng_span}</div>\n'
         )
     scene_inv_html = (
@@ -548,10 +723,12 @@ def make_chapter_html(num, paras, all_nums, build_date,
         f'Scene Count: {sc_count}',
     ]
     for i, s in enumerate(sc_list, 1):
+        sc_url = f'{PAGES_URL}/chapters/{scene_slug(num, i)}.html'
         manifest_lines.append(
             f'Scene {i}: {s["heading"]}'
             f' -- Word Range: {s["word_start"]:,}\u2013{s["word_end"]:,}'
             f' | Paragraph Range: {s["para_start"]}\u2013{s["para_end"]}'
+            f' | URL: {sc_url}'
         )
     manifest_lines.append('[ End Manifest ]')
     manifest_block = (
@@ -699,11 +876,13 @@ h2{{font-size:1.2rem;font-weight:normal;margin:2rem 0 .5rem;color:#b8785a}}
 <p style="font-size:.9rem;color:#555;margin-bottom:1rem">
   Each chapter has two access paths. The <strong>.txt URL</strong> is plain text with no HTML —
   use it when your retrieval layer may strip or flatten HTML structure.
-  The manifest.json contains the full chapter inventory with scene spans.
+  Individual scenes have their own pages for focused LLM access.
+  The manifest.json contains the full inventory with every scene URL.
 </p>
-<pre>Plain text (no HTML):  GET {PAGES_URL}/chapters/chapter-NN.txt
-HTML page:             GET {PAGES_URL}/chapters/chapter-NN.html
-Full site manifest:    GET {PAGES_URL}/manifest.json</pre>
+<pre>Full chapter (plain text):  GET {PAGES_URL}/chapters/chapter-NN.txt
+Full chapter (HTML):        GET {PAGES_URL}/chapters/chapter-NN.html
+Individual scene (HTML):    GET {PAGES_URL}/chapters/chapter-NN-scene-MM.html
+Full site manifest (JSON):  GET {PAGES_URL}/manifest.json</pre>
 <h2>Saving an Edit</h2>
 <pre>PUT https://api.github.com/repos/{REPO}/contents/edits/chapter-01.json
 Authorization: token &lt;API_KEY&gt;</pre>
@@ -864,14 +1043,14 @@ def build(src_path=None):
 
     for num, paras in chapters:
         title, subtitle, word_count = extract_meta(paras)
-        body_paras      = strip_header_paras(paras)
+        body_paras       = strip_header_paras(paras)
         body_html, stats = render_body_html(body_paras)
 
         chapters_meta.append((num, title, subtitle, word_count))
         chapters_full.append((num, title, subtitle,
                                stats['words'], stats['paragraphs'], stats['scenes']))
 
-        # HTML chapter page
+        # Full chapter HTML page
         out_html = CHAPTER_DIR / f"{slugify(num)}.html"
         out_html.write_text(
             make_chapter_html(num, paras, all_nums, date,
@@ -879,15 +1058,28 @@ def build(src_path=None):
             encoding='utf-8'
         )
 
-        # Plain text companion (parser/LLM access)
+        # Plain text companion
         out_txt = CHAPTER_DIR / f"{slugify(num)}.txt"
         out_txt.write_text(
             make_chapter_txt(num, title, subtitle, body_paras, stats),
             encoding='utf-8'
         )
 
+        # Individual scene HTML pages
+        scenes_grouped = extract_scenes(body_paras)
+        total_sc = len(scenes_grouped)
+        for sg in scenes_grouped:
+            sc_stat   = stats['scenes'][sg['n'] - 1]
+            sc_file   = CHAPTER_DIR / f"{scene_slug(num, sg['n'])}.html"
+            sc_file.write_text(
+                make_scene_html(num, title, subtitle, sg, sc_stat,
+                                total_sc, all_nums, date),
+                encoding='utf-8'
+            )
+
         lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
-        print(f"  \u2713 {lbl}: {title[:55]}")
+        scene_summary = f"{total_sc} scene{'s' if total_sc != 1 else ''}"
+        print(f"  \u2713 {lbl}: {title[:45]}  [{scene_summary}]")
 
         epub_chapters.append((num, title, subtitle, body_html))
 
@@ -908,7 +1100,7 @@ def build(src_path=None):
 
     (EDITS_DIR / ".gitkeep").touch()
 
-    print(f"\nDone \u2014 {len(chapters)} sections + EPUB + manifest written to {OUT_DIR}")
+    print(f"\nDone \u2014 {len(chapters)} sections + scene pages + EPUB + manifest written to {OUT_DIR}")
     print(f"Live at: {PAGES_URL}")
     print(f"Manifest: {PAGES_URL}/manifest.json")
 

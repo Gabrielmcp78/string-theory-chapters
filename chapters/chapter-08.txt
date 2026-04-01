@@ -11,14 +11,14 @@ Word Count:      6,572
 Paragraph Count: 194
 Scene Count:     8
 
-Scene 1: I.  The Lounge  --  Words 1–1,090  |  Paragraphs 1–22
-Scene 2: II.  The Lecture  --  Words 1,091–1,936  |  Paragraphs 23–42
-Scene 3: III.  The Fall  --  Words 1,937–3,010  |  Paragraphs 43–75
-Scene 4: IV.  The Quartet  --  Words 3,011–3,792  |  Paragraphs 76–95
-Scene 5: V.  The Journey  --  Words 3,793–5,200  |  Paragraphs 96–153
-Scene 6: VI.  The Attic					Present Day  --  Words 5,201–5,505  |  Paragraphs 154–163
-Scene 7: VII.  Home  --  Words 5,506–6,108  |  Paragraphs 164–178
-Scene 8: VIII.  Solitude  --  Words 6,109–6,572  |  Paragraphs 179–194
+Scene 1: I.  The Lounge  --  Words 1–1,090  |  Paragraphs 1–22  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
+Scene 2: II.  The Lecture  --  Words 1,091–1,936  |  Paragraphs 23–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
+Scene 3: III.  The Fall  --  Words 1,937–3,010  |  Paragraphs 43–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
+Scene 4: IV.  The Quartet  --  Words 3,011–3,792  |  Paragraphs 76–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
+Scene 5: V.  The Journey  --  Words 3,793–5,200  |  Paragraphs 96–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-05.html
+Scene 6: VI.  The Attic					Present Day  --  Words 5,201–5,505  |  Paragraphs 154–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-06.html
+Scene 7: VII.  Home  --  Words 5,506–6,108  |  Paragraphs 164–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-07.html
+Scene 8: VIII.  Solitude  --  Words 6,109–6,572  |  Paragraphs 179–194  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

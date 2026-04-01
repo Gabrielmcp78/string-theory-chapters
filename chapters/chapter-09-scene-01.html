@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 9 · Scene 1: I.  Ithaca, NY    |   				May 25, 2005</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="9">
+<meta name="scene" content="1">
+<meta name="scene-count" content="6">
+<meta name="word-count" content="3148">
+<meta name="paragraph-count" content="217">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.1rem;
+    line-height: 1.85;
+    color: #1a1a1a;
+    background: #fafaf8;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (plain-text block for LLM retrieval) ===== */
+.chapter-manifest {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.76rem; color: #999; line-height: 1.75;
+    background: #f7f5f2; border-left: 2px solid #d4c8bc;
+    padding: 0.8rem 1rem; margin-bottom: 2rem;
+    white-space: pre-wrap; border-radius: 0 4px 4px 0;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 2rem; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+/* ===== Index ===== */
+.chapter-list { list-style: none; }
+.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-09.html">Chapter 9: To Ground</a>
+    
+    <a href="chapter-09-scene-02.html">Scene 2 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 9 &middot; Scene 1 of 6</div>
+  <div class="chapter-heading">I.  Ithaca, NY    |   				May 25, 2005</div>
+  <div class="chapter-subheading">Spatio-Symbolic Drift in Recursive Harmonic Environments</div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>3,148</strong>&thinsp;words&ensp;<strong>217</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>6</strong></div>
+</div>
+
+  <div class="chapter-text">
+<div class="chapter-manifest">[ Scene Manifest: String Theory · Chapter 9 · Scene 1 of 6 ]
+Chapter Title:   To Ground
+Scene Heading:   I.  Ithaca, NY    |   				May 25, 2005
+Scene:           1 of 6
+Word Count:      3,148
+Paragraph Count: 217
+Chapter Words:   1–3,148 (within full chapter)
+[ End Scene Manifest ]</div>
+<div class="location">I.  Ithaca, NY    |     <em>May 25, </em><em>2005</em> </div>
+<div class="tempo-1">Andante grave</div>
+<p class="body">The hallway felt too narrow for a university—too quiet, too long, too private.</p>
+<p class="body">They moved down it in uncertain sync: Celeste first, walking like her breath was on a timer; David next, one hand still half-clenched from the drive; Marcus trailing behind them, a little too loud in his silence.</p>
+<p class="body">A student—barely older than an undergrad—had led them through the eastern wing. He hadn’t introduced himself. Just said, “He’s waiting,” then walked without looking back.</p>
+<p class="body">He left them outside the one open door in the corridor.</p>
+<p class="body">Light leaked from it—low, warm, and strange, a golden pool on the flagstone floor. The fading blue of dusk stretched long across the window glass beside them.</p>
+<p class="body">Marcus exhaled hard. “This feels like a trap.”</p>
+<p class="body">Celeste gently closed her eyes, then re- opened; a sort of reverse eye roll that conveyed roughly the same thing. </p>
+<p class="body">The three of them paused collectively at the threshold, before David decided to take the leap and, with a brave step forward, entered the room first.</p>
+<p class="body">Rune’s office was spacious, clean, and oddly bare—furnished for containment instead of comfort. The walls were mostly blackboard, marked in looping half-erased equations that layered over one another like sediment. One massive window let in the last of the day’s light, while a desk lamp cast a tighter glow over a central desk.</p>
+<p class="body">The desk itself was nearly empty. No computer. No clutter. Just a thick manila folder and a porcelain cup of tea, untouched.</p>
+<p class="body">Rune sat behind it. He didn’t rise.</p>
+<p class="body">“Close the door, Mr. McGrath,” he said.</p>
+<p class="body">Marcus hesitated, then obeyed.</p>
+<p class="body">The sound of the door shutting echoed longer than it should have.</p>
+<p class="body">“Have a seat, won’t you.”</p>
+<p class="body">Three chairs had been placed in a wide arc in front of the desk. They didn’t match the space—older, heavier, polished like they’d been pulled from a waiting room somewhere and repurposed for judgment.</p>
+<p class="body">David took the middle seat. Celeste sat to his right, still clutching the roll of notes. Marcus hung back, then slumped into the third chair with a performative huff. </p>
+<p class="body"><em>The quartet had now been seated.</em></p>
+<p class="body">Rune didn’t speak. He just looked at them. The silence stretched until David nearly said something just to end it.</p>
+<p class="body">Finally:</p>
+<p class="body">“You’re late.”</p>
+<p class="body">David opened his mouth, but Marcus beat him to it. “We hit traffic.”</p>
+<p class="body">“No,” Rune said. “You hesitated.”</p>
+<p class="body">He pulled the folder slightly closer. Its contents were invisible under the cover.</p>
+<p class="body">“Where did it begin?”</p>
+<p class="body">The question was directed at no one in particular.</p>
+<p class="body">David cleared his throat. “September. Marcus’s harmonics draft had some… anomalies.”</p>
+<p class="body">Rune’s tone didn’t change. “What kind?”</p>
+<p class="body">“Feedback patterns. Non-local echoes. The kind that shouldn’t survive an averaging pass.”</p>
+<p class="body">Celeste spoke next. Quietly. “I was working with an older glyph set at the time. Some of the curvature… matched.”</p>
+<p class="body">Rune nodded, just once.</p>
+<p class="body">“So it began as an alignment.”</p>
+<p class="body">“No,” Marcus snapped. “It began as a mistake. A weird one. Until we ran it backward.”</p>
+<p class="body">Rune watched him closely. “And it stayed consistent?”</p>
+<p class="body">“Too consistent.”</p>
+<p class="body">Rune said nothing, then opened the folder.</p>
+<p class="body">Inside, he produced a single page—worn, yellowed, the ink faded but visible. He laid it flat between them and turned it slightly toward the light.</p>
+<p class="body">“Do any of you recognize this?”</p>
+<p class="body">David leaned forward.</p>
+<p class="body">The shape was unmistakable.</p>
+<p class="body">A recursive loop, notated by hand. The core structure of their model, sketched in an older notation. Fractal repetition. Three central collapse points. Glyphs worked into the edges.</p>
+<p class="body">It was theirs. Or rather—they’d found it again. David’s stomach dropped. He didn’t speak. Rune’s eyes didn’t leave their faces.</p>
+<p class="body">“This comes from an internal document archived in Cornell’s private collection. Dated 1971. Part of a failed cross-departmental research initiative involving quantum formalism, symbolic mapping, solar cycles and speculative calendar theory.”</p>
+<p class="body">He tapped the page with two fingers.</p>
+<p class="body">“The file was never published. The program was shut down mid-year. The memo sealed. The author,” and Rune very carefully turned his gaze towards David in particular as he said, “Dr. Tsukino.”</p>
+<p class="body">David’s eye darted up. “Wait, Tsukino? Kenji Tsukino?” David’s brain scattered through the mist of childhood filing systems. His grandfather Elliot… Stories of his research posts at Harvard… mentions of many fellows and associates, but Tsukino he spoke of like a lost, second son… David was sure of it. </p>
+<p class="body">“Yes,” Rune affirmed. “Kenji Tsukino. A name I was surprised recently to discover held connection to your own grandfather Dr Elliot Lang. Isn’t that so, David?”</p>
+<p class="body">David glanced to the others timidly, and then, “Yes… Tsukino was a… a research fellow of my grandfather’s at Harvard. Early 60’s, I think. I heard stories about him often. He carried Kenji’s disappearance like pure guilt.”</p>
+<p class="body">Celeste glanced up from the page. “What were they trying to build?”</p>
+<p class="body">Rune’s tone stayed even. “A predictive engine. Based on harmonic convergence and symbolic resonance. In theory, the engine aimed to identify high-correlation events ahead of their statistical curve.”</p>
+<p class="body">“And in practice?” Marcus asked.</p>
+<p class="body">Rune was silent for a moment.</p>
+<p class="body">“According to the few internal notes that survived, the engine worked briefly. Briefly. And then something failed. There was an… incident. Most of the staff assigned to the project were reassigned or resigned. Two were listed as deceased under ambiguous circumstances.”</p>
+<p class="body">He paused.</p>
+<p class="body">“Everything else was redacted.”</p>
+<p class="body">David’s voice was very quiet. “And you have this file?”</p>
+<p class="body">Rune looked at him.</p>
+<p class="body">“I’ve studied the archived materials,” he said. “What I could access. This page is the only original schematic that survived intact.”</p>
+<p class="body">Marcus scoffed, incredulous. “And no one outside of Cornell has heard of it?”</p>
+<p class="body">“Correct.”</p>
+<p class="body">Celeste watched him, so close Rune could not ignore the bite of her unspoken glare. “Ms. Armitage, your formidable lens is quite more advanced than I anticipated. Out with it. I’m not here to hide things from you.”</p>
+<p class="body">“You know more… about what actually happened. There’s more.”</p>
+<p class="body">“You must understand, such minuscule evidence survived, it is most difficult to definitively—“</p>
+<p class="body">Marcus jumped on the obvious hedge, “Come on! So it’s not definitive, we get it. But Celeste is right. If there’s more, we deserve to know. You brought us all the way up here.”</p>
+<p class="body">“The final sequence, according to damaged audio archive remnants, produced a response. An auditory anomaly. A low frequency impulse who’s amplitude quickly escaped containment.”</p>
+<p class="body">“Feedback?” David asked.</p>
+<p class="body">“No. The effect was far more destabilizing. Lethal.”</p>
+<p class="body">“Celeste slowly moved he left hand towards David, grabbing his forearm as understanding washed over. “They were screamed to death.”</p>
+<p class="body">“Your words,” Rune replied, “but, crudely put… Ms. Armitage is correct.”</p>
+<p class="body">Marcus sank back into his chair. “ Jesus Christ.”</p>
+<p class="body">“So why show us now?”</p>
+<p class="body">Rune didn’t answer immediately. He let the silence breathe again.</p>
+<p class="body">Then:</p>
+<p class="body">“Because your model is identical. Too identical. Line for line.”</p>
+<p class="body">He closed the folder.</p>
+<p class="body">“And because you’re closer to completing it than Tsukino ever was.”</p>
+<p class="body">David watched the folder close like it was sealing something in.</p>
+<p class="body">Rune steepled his fingers lightly in front of his mouth, then let them drop.</p>
+<p class="body">“You understand, I hope,” he said, “why I called you here.”</p>
+<p class="body">The words came gently. Almost polite. Which only made them worse.</p>
+<p class="body">Marcus sat forward. “What exactly are you accusing us of?”</p>
+<p class="body">Rune didn’t blink. “Nothing. Yet.”</p>
+<p class="body">“Then why the theatrics?” Marcus gestured toward the desk, the office, the ancient page still resting near Rune’s tea. “You dig up a fifty-year-old file and act like we’re playing with the ghost of Chernobyl.”</p>
+<p class="body">“No,” Rune said. “Chernobyl had oversight.”</p>
+<p class="body">A beat passed.</p>
+<p class="body">Marcus looked ready to launch again, but Celeste touched his sleeve. It was a small gesture. Her fingers barely made contact.</p>
+<p class="body">It was enough.</p>
+<p class="body">Rune shifted his gaze to her.</p>
+<p class="body">“You understood it before either of them, didn’t you.”</p>
+<p class="body">It wasn’t a question, so Celeste didn’t answer. But they both had attained the information they needed from the exchange.</p>
+<p class="body">Rune leaned back, watching her.</p>
+<p class="body">“There’s a moment,” he said, “when a model stops behaving like a model. When the data begins responding instead of resolving. When you stop asking, ‘Is this true?’ and start wondering, ‘What did I just wake up?’”</p>
+<p class="body">He looked back at David.</p>
+<p class="body">“You hit that moment a week ago.”</p>
+<p class="body">David didn’t respond.</p>
+<p class="body">“You gave a talk,” Rune went on, “to an audience that included three faculty members from Princeton, one consultant from DARPA, and a man who now won’t answer calls without running them through a voice distorter. Would you like to know how I learned that?”</p>
+<p class="body">David stayed very still.</p>
+<p class="body">“Because he used to be mine,” Rune said. “Before they poached him. Before they built him a lab in the desert.”</p>
+<p class="body">David swallowed.</p>
+<p class="body">Rune opened the drawer beside him—just an inch—and pulled out a small bundle of printed pages, clipped at the top.</p>
+<p class="body">He laid them on the desk. The title on the first page was familiar.</p>
+<h3 class="ch-title-alt">Spatio-Symbolic Drift in Recursive Harmonic Environments</h3>
+<h3 class="ch-title-alt">Draft 1.2 – Internal Notes Only – D.L. / M.M. / C.A.</h3>
+<p class="body">David stared at it. “That was never uploaded.”</p>
+<p class="body">“No,” Rune agreed. “It wasn’t.”</p>
+<p class="body">Marcus sat back hard in his chair.</p>
+<p class="body">Celeste’s voice was very quiet. “You’ve been watching us.”</p>
+<p class="body">Rune didn’t look ashamed. He didn’t look pleased either.</p>
+<p class="body">“I have been… aware,” he said, “of the shape of your work for some time. It is my business to be aware of dangerous geometries. Yours is very nearly circular.”</p>
+<p class="body">“You had no right,” Marcus said.</p>
+<p class="body">Rune met his gaze. “I had every right. The moment you crossed into mapped stellar intervals. The moment you started charting them against symbolic logic sets. The moment your work began to echo something buried and sealed for your own protection.”</p>
+<p class="body">He paused.</p>
+<p class="body">“For all our protection.”</p>
+<p class="body">Celeste turned her eyes toward the window. The last light was almost gone now. Only outlines remained outside—the skeletal shapes of trees, the spill of golden streetlamp on red stone.</p>
+<p class="body">Rune stood for the first time.</p>
+<p class="body">He didn’t raise his voice.</p>
+<p class="body">“There is something you haven’t said,” he said. “And I would very much like to know why.”</p>
+<p class="body">He walked to the chalkboard behind him and picked up a piece of white chalk, already worn down to a nub.</p>
+<p class="body">In three strokes, he drew the spiral.</p>
+<p class="body">The same loop. Then another beside it. Tilted. Then a third. And in the center—he drew a shape. A glyph, not from Celeste’s set. Not from anything they’d used. It was small. Closed. Contained.</p>
+<p class="body">“Did this appear in your notes?”</p>
+<p class="body">They didn’t answer.</p>
+<p class="body">Rune turned to face them.</p>
+<p class="body">“I’m asking,” he said, “because in 1971, this appeared—spontaneously—in the final iteration of Tsukino’s engine. No one input it. No one derived it. It simply… resolved there.”</p>
+<p class="body">He held up his hand before Marcus could interrupt.</p>
+<p class="body">“And before you call it a coincidence, I’ll tell you: the same glyph has appeared four times since. Once in a defunded NASA astrometric project in 1993. Once in a closed Israeli AI lab. Once in a facility we no longer acknowledge. And now—”</p>
+<p class="body">He looked at the three of them.</p>
+<p class="body">“Now here.”</p>
+<p class="body">A silence fell.</p>
+<p class="body">Not just in the room. In the walls. In the air. Something stopped.</p>
+<p class="body">David felt the shape of it behind his ribs.</p>
+<p class="body">He could tell Marcus wanted to call it bullshit. Wanted to throw his weight at Rune like a blunt instrument and break something in the process.</p>
+<p class="body">But the room didn’t feel breakable anymore.</p>
+<p class="body">Celeste’s hand was resting on the tube of notes. She hadn’t moved in minutes.</p>
+<p class="body">Rune stepped forward, resting one hand lightly on the desk.</p>
+<p class="body">“I don’t care if you believe me,” he said. “I care if you’re stupid enough to go further.”</p>
+<p class="body">His voice didn’t rise.</p>
+<p class="body">“But if you are—then you should know what Tsukino wrote in his last entry before the file was sealed. He wrote: ‘<em>It began responding. The signal is not noise. The drift is deliberate. We are no longer alone inside the equation.</em><em>’”</em></p>
+<p class="body">Rune looked down at the spiral. At the glyph. At whatever it had once been.</p>
+<p class="body">“Don’t give it shape,” he said quietly. “Don’t give it language. That was their mistake.”</p>
+<p class="body">He looked up.</p>
+<p class="body">“I want everything. Tonight.”</p>
+<p class="body">Rune didn’t move from where he stood. One hand resting on the edge of the desk. The other still holding the chalk like a match he hadn’t struck yet.</p>
+<p class="body">Outside the window, the dusk had turned to full dark.</p>
+<p class="body">Inside, the spiral he’d drawn on the board—looped, tilted, repeated—glowed faintly under the desk lamp’s reach. It looked older than it should have. Like it had been drawn years ago and kept waiting.</p>
+<p class="body">David couldn’t stop staring at it. The glyph inside the shape. The small, closed symbol at the center. He’d never seen it in Celeste’s work. But it felt familiar. Like a word you know in a language you don’t remember learning.</p>
+<p class="body">Rune’s voice cut through the quiet, low and deliberate.</p>
+<p class="body">“The final iteration of the original model reached stability just after midnight on October 19th, 1971. According to what remains in the records, the researchers on-site had been attempting to scale the drift structure across twenty-seven mapped star positions. They believed the equation had begun to self-correct.”</p>
+<p class="body">He paused, tilting the chalk once in his fingers.</p>
+<p class="body">“It wasn’t self-correcting. It was… aligning.”</p>
+<p class="body">Marcus made a sound—skeptical, half-audible—but didn’t speak.</p>
+<p class="body">“The model began producing outputs no one had requested,” Rune continued. “Dates. Coordinates. Names. Some real. Some that didn’t register in any database. When they checked the room for microphones, the system returned a series of phrases written phonetically—replications of conversations that had occurred in the room five to seven seconds prior.”</p>
+<p class="body">David blinked.</p>
+<p class="body">Celeste’s spine went perfectly straight.</p>
+<p class="body">“Needless to say, they shut the system down immediately,” Rune said. “Three times they shut it down. Each time it restarted. The engine began rewriting its own access protocols. Someone joked it was defending itself.”</p>
+<p class="body">He let the silence thicken.</p>
+<p class="body">“But… no one joked the following night.”</p>
+<p class="body">He turned to the chalkboard, his fingers brushing the drawn glyph.</p>
+<p class="body">“They’d connected it to a temporal harmonics array. Primitive, but functional. Enough to project several hundred years forward. Enough to let the model see. That’s when the loop narrowed.”</p>
+<p class="body">“Narrowed?” Celeste asked.</p>
+<p class="body">Rune nodded. “Instead of branching outward, it began folding back. The interval tightened. The projected timelines converged.”</p>
+<p class="body">“To what?” David said. His voice was hoarse.</p>
+<p class="body">“To a date.”</p>
+<p class="body">Rune crossed back to the desk. Opened the folder. Removed a single page and laid it flat between them.</p>
+<p class="body">A photocopy. A yellowed typewritten report. In the margin, scrawled by hand, a sequence. A date:</p>
+<p class="body">  Δt = 5T☉ + 28.47 d…</p>
+<p class="body">  … November 28, 2026</p>
+<p class="body">Celeste turned toward David, slow as a dying music box. The color drained from her face.</p>
+<p class="body">Behind his ribs, something shifted and compressed. Pressure. Terror. If there was a difference, he couldn’t feel it. He cut her off with a glance, forcing himself to look back at Rune, as if the paper did not exist.</p>
+<p class="body">Rune hadn’t broken eye contact once.</p>
+<p class="body">“They didn’t understand what they’d made,” he said. “They thought they were mapping correlations. They weren’t. They were building resonance.”</p>
+<p class="body">His gaze drifted into the shadows of the room.</p>
+<p class="body">“Resonance has consequences.”</p>
+<p class="body">Celeste swallowed. “What happened to them?”</p>
+<p class="body">Rune was quiet a moment too long. Then, letting the chalk roll across the desk like a one-sided pendulum to nowhere, he continued.</p>
+<p class="body">“There were six researchers,” he said. “Two resigned before the final iteration. Three stayed. One… was off-campus that night.”</p>
+<p class="body">A beat.</p>
+<p class="body">“They found evidence someone ran the engine again. Alone. After the shutdown. The data from that session was corrupted.”</p>
+<p class="body">Marcus finally spoke. “So what… you’re saying the model got loose?”</p>
+<p class="body">“I’m saying,” Rune replied, “that after the events of that night, everyone who remained left academia. Quietly. The lab was sealed. The only reason I have any of this is because I spent ten years persuading one person who was there to show me what survived.”</p>
+<p class="body">David studied Rune’s face.</p>
+<p class="body">No flicker of uncertainty. No signs of invention. But still—something was wrong. The timeline didn’t add up. Rune was too young to have been apart of that team. But he was too specific in the way he described the room. The restart times. The joke that hadn’t been a joke. None of it read like research. It read like memory.</p>
+<p class="body">“So you think we’ve rebuilt it,” David said slowly. “This model. The same one.”</p>
+<p class="body">Rune didn’t blink. “No.”</p>
+<p class="body">He stepped back around the desk and looked down at the notes Celeste still held.</p>
+<p class="body">“I think you’ve taken it further.”
+Rune closed the folder slowly. Deliberately. As though the act itself settled a boundary in the room.</p>
+<p class="body">David could feel it, the way one feels a dropped altitude on a plane. Subtle but wrong. His ears almost popped.</p>
+<p class="body">Rune placed both hands on the folder’s cover, fingers spread evenly across the surface.</p>
+<p class="body">“I am not interested in policing your ambition,” he said. “You’re not the first brilliant people to think the rules don’t apply to your work.”</p>
+<p class="body">He looked at Marcus.</p>
+<p class="body">“You might not even be wrong.”</p>
+<p class="body">Marcus didn’t look away. But his hands clenched on the arms of the chair.</p>
+<p class="body">Rune’s voice remained level. “But you’ve left the realm of theory. This stopped being academic the moment your data began to correlate with non-local events.”</p>
+<p class="body">Celeste finally spoke. “You still haven’t said what happened to the one who ran it alone.”</p>
+<p class="body">Rune’s eyes flicked to her.</p>
+<p class="body">“No,” he said. “I haven’t.”</p>
+<p class="body">She held his gaze.</p>
+<p class="body">He didn’t elaborate.</p>
+<p class="body">Instead, he moved to the side of the desk and pulled open a lower drawer—deep, wide. From it, he withdrew a long, rectangular metal case. Black, matte, sealed at both ends. It looked like a box designed to be buried.</p>
+<p class="body">He set it on the desk between them.</p>
+<p class="body">“There are no offers,” Rune said. “Not anymore.”</p>
+<p class="body">His voice didn’t rise. If anything, it lowered.</p>
+<p class="body">“There are two outcomes. Either you seal this structure here and now, under university grounds, with me as witness—and you never open it again. Never study it. Never speak of it. You let it die. Quietly. Fully.”</p>
+<p class="body">A pause.</p>
+<p class="body">“Or you leave here and try to finish it anyway.”</p>
+<p class="body">Marcus frowned. “You just said—”</p>
+<p class="body">Rune cut him off with a glance that, from any other man would surely have registered as anger. But Rune was not at all. He was simply done.</p>
+<p class="body">“You won’t finish it.”</p>
+<p class="body">He tapped the box.</p>
+<p class="body">“Because I will make sure the world forgets you. I will scatter your work into recursive dead-ends. I will erase every chain of provenance that connects your names to this discovery. The field will eat itself and start over. Again.”</p>
+<p class="body">He looked down at the desk.</p>
+<p class="body">“This is your only ending that doesn’t take something else down with it.”</p>
+<p class="body">David didn’t speak. Marcus couldn’t think. Celeste’s gaze unrelenting, unmoved from Rune’s callused face. No one moved for a moment.</p>
+<p class="body">Then Rune nodded once.</p>
+<p class="body">“I’ll meet you in the quad.”</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-03-31
+    &middot; <a href="chapter-09.html">Chapter 9</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+</body>
+</html>
