@@ -8,7 +8,7 @@ Subtitle:        a secular passion in eight movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,350
+Word Count:      5,351
 Paragraph Count: 226
 Scene Count:     8
 
@@ -16,10 +16,10 @@ Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–1,979  |  Paragraphs 
 Scene 2: II.  ARIOSO   |   The Tuning  --  Words 1,980–2,129  |  Paragraphs 84–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
 Scene 3: III.  Recitativum   |  The Office  --  Words 2,130–2,373  |  Paragraphs 92–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
 Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,374–3,198  |  Paragraphs 102–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
-Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,199–3,462  |  Paragraphs 136–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
-Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,463–3,884  |  Paragraphs 146–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
-Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,885–4,649  |  Paragraphs 164–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
-Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,650–5,350  |  Paragraphs 205–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
+Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,199–3,463  |  Paragraphs 136–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
+Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,464–3,885  |  Paragraphs 146–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
+Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,886–4,650  |  Paragraphs 164–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,651–5,351  |  Paragraphs 205–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -322,7 +322,7 @@ V.  Via Dolorosa   |   Into the Storm
 
 The November wind encircled him as he stepped from the physics building. Sleet drove horizontally across the quad, erasing footpaths and landmarks with the same indifference Rune had shown his equations.
 
-Fifteen years of chasing mathematical ghosts. The folder under his arm felt like it contained the corpses of his own delusions.
+Twenty years of chasing mathematical ghosts. The folder under his arm felt like it contained the corpses of his own delusions.
 
 The storm swallowed him whole, and David Lang disappeared into the white.
 
@@ -330,7 +330,7 @@ He didn’t see the two figures until they had him surrounded in the darkened ca
 
 It began with an eyelash in his left eye. He blinked at the sodium-vapor world; the tear beaded and stung in the wind. His collar felt too tight; the left cuff clung damply to his wrist. City water pooled at curb corners, reflecting the cadence of traffic lights counting down to the next cycle.
 
-He walked homeward in the storm’s early stages. The sleet, at first, was a polite intermezzo. By the fourth block it had thickened into percussion against his briefcase, the hiss of tires overdubbing distant sirens. He traced side alleys behind the administration buildings, drawn to the anonymity of streets that never stood a chance of being called thoroughfares.
+He walked homeward in the storm’s early stages. The sleet, at first, merely a polite intermezzo. By the fourth block, however, it had thickened into percussion against his briefcase, the hiss of tires overdubbing distant sirens. He traced side alleys behind the administration buildings, drawn to the anonymity of streets that never stood a chance of being called thoroughfares.
 
 The pharmacy window at the shuttered Health Center glowed with the after-hours promise of insulin. The alley’s concrete slouched under graffiti. Broken glass and fossilized gum mapped the ground.
 
@@ -505,8 +505,6 @@ He laughed, despite the pain, and the laughter came out clear. He tucked the for
 His gait as he walked home was altered: not lighter, not more confident—vectorized. Every stride aligned with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.
 
 Blind to the bloom of a fresh bruise, he walked.
-
-
 
 
 

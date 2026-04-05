@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,833
-Paragraph Count: 500
+Word Count:      8,836
+Paragraph Count: 499
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005  --  Words 243–1,291  |  Paragraphs 14–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,292–2,003  |  Paragraphs 72–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,004–2,492  |  Paragraphs 100–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day  --  Words 2,493–2,928  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY - Present Day  --  Words 2,929–3,470  |  Paragraphs 169–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day  --  Words 3,471–5,617  |  Paragraphs 203–321  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005  --  Words 5,618–7,583  |  Paragraphs 322–433  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day  --  Words 7,584–8,057  |  Paragraphs 434–453  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day  --  Words 8,058–8,420  |  Paragraphs 454–473  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3  THE CORRIDOR  --  Words 8,421–8,705  |  Paragraphs 474–491  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 8,706–8,833  |  Paragraphs 492–500  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005  --  Words 243–1,276  |  Paragraphs 14–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,277–1,994  |  Paragraphs 72–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 1,995–2,495  |  Paragraphs 100–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day  --  Words 2,496–2,931  |  Paragraphs 138–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY - Present Day  --  Words 2,932–3,473  |  Paragraphs 168–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day  --  Words 3,474–5,620  |  Paragraphs 202–320  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005  --  Words 5,621–7,586  |  Paragraphs 321–432  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day  --  Words 7,587–8,060  |  Paragraphs 433–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day  --  Words 8,061–8,423  |  Paragraphs 453–472  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3  THE CORRIDOR  --  Words 8,424–8,708  |  Paragraphs 473–490  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 8,709–8,836  |  Paragraphs 491–499  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -134,7 +134,7 @@ Marcus opened his mouth.
 
 “Sit.”
 
-He sat. David remained standing for three more seconds—some autonomous system still running the calculations of masculine pride—then lowered himself back to the floor, shoulder blades finding the bed frame again.
+He sat. David remained standing for three more seconds, then lowered himself back to the floor, shoulder blades finding the bed frame again.
 
 Celeste let the silence build. Outside, a bus groaned through its gears, Doppler-shifting from minor to major as it passed.
 
@@ -166,7 +166,7 @@ David stared at the floor. His fingers moved against his thigh—unconscious, co
 
 “That’s not the same as being heard.”
 
-Celeste reached across the space between them and put her hand on David’s knee—a gesture so simple it embarrassed no one.
+Celeste reached across the space between them and put her hand on David’s knee.
 
 “We’ll remember,” she said. “Marcus and I. We’ll know what you were trying to say before you could say it.”
 
@@ -207,7 +207,7 @@ He couldn’t be the only one to hear it, could he? His head was racing. He coul
 
 He grabbed a ‘Local Tourist Info’ brochure from the front desk and began to sketch the harmonic relationships on the rear panel.
 
-The moment the concierge handed him a pen, yet another source—ambient, unknown—joined the chorus at precisely 137.28 Hz.
+The moment the concierge handed him a pen, yet another source, ambient and unknown, joined the chorus at precisely 137.28 Hz.
 
 And then he saw him.
 
@@ -221,7 +221,7 @@ Kline looked up.
 
 Their eyes met.
 
-For exactly 4.47 seconds, neither moved. David watched his own name flood Kline’s face—the cascading effect: first confusion, then clarity, then something that looked like dread.
+For exactly 4.47 seconds, neither moved. David watched his own name flood Kline’s face. The cascading effect: first confusion, then clarity, then something that looked like dread.
 
 Kline turned sharply, unwilling to risk a casual, even knowing second glance. He fumbled his program, flapping at it twice as it escaped his grip and fell to the ground. Then, with a sweep to the floor that flat out looked like distaste, he reared the item of his perturbation and stormed toward the opposite corridor with the stride of a man who had just remembered an urgent appointment that never was.
 
@@ -229,7 +229,7 @@ The phone at the registration desk rang out. Two octaves above the root frequenc
 
 Either way, exactly as the ring octivated upwards, David swore he saw Dr. Kline jerk forward, as if someone had yanked a wire running through his spine. He caught himself against the doorframe—one hand shooting out, program fluttering to the floor. He froze there for half a breath.
 
-Then slowly, intentionally—desiring exactly no one to have reason to notice—he straightened. Picked up the program without looking at it. And disappeared down the opposing corridor.
+Then slowly, intentionally, desiring exactly no one to have reason to notice, he straightened. Picked up the program without looking at it. And disappeared down the opposing corridor.
 
 David looked down at his own brochure, only to notice that his hands were shaking. His left, with the flyer in grip—violently.
 
@@ -265,39 +265,39 @@ A pause. Then her breath hitched—a soft, involuntary intake, as if the floor b
 
 “David… you didn’t. Not the data?”
 
-“I did. I showed him everything,” David said, voice thinning now. “The plots. The resonance curves. I thought—God, I thought he could take it.”
+“I did. I showed him everything,” David said, voice thinning now. “The plots. The resonance curves. I thought… God, I thought he could take it.”
 
 “You thought?”
 
-In the background, a rustle—footsteps on tile, a muffled exhale. Then Marcus’s voice tore through the line:
+In the background, a rustle of footsteps on tile, a muffled exhale. Then Marcus’s voice tore through the line:
 
-“What the fuck, David?!”
+“What the fuck, David?”
 
-“Marcus, just hold on now. The moment Kline saw the data—he froze. Went white.”
+“Marcus, just hold on now. The moment Kline saw the data, he froze. Went white.”
 
-“David, man! We talked about this. We agreed. No acoustic harmonic data. Not at NYU.”
+“David, man. We talked about this. We agreed. No acoustic harmonic data. Not at NYU.”
 
-“You weren’t there. It was a judgment call. I told you, I had to know—Had to see if he… I thought I had him.”
+“You weren’t there. It was a judgment call. I told you I had to know. Had to see if he… I thought I had him.”
 
-“Fuck!” Marcus’s scream detonated into the phone. Then, to Celeste: confirmation by panic.
+“Fuck.” Marcus’s scream detonated into the phone. Then, to Celeste: confirmation by panic.
 
 “I’m telling you, Marcus, something hit him—hit him deep. He staggered like the numbers had gut-punched him or something.”
 
 “You are unbelievable. Do you have any idea what this means?”
 
-David knew exactly what it meant. The stupidity—so constant, so thick—it made him dizzy. He stepped off the curb and almost vanished beneath a blur of screaming cabs slicing through the roundabout.
+David knew exactly what it meant. The stupidity, so constant, so thick it made him dizzy. He stepped off the curb and almost vanished beneath a blur of screaming cabs slicing through the roundabout.
 
-“Julian Kline? And you gave him resonance?” Marcus was past fury now—his voice curdled into mockery. “Congratulations, genius. It’s not theory anymore. You just took it live—you opened the goddamn door.”
+“Julian Kline? And you gave him resonance?” Marcus was past fury now. His voice curdled into mockery. “Congratulations, genius. It’s not theory anymore. You just took it live. You opened the goddamn door.”
 
 “It’ll hold,” David said. “It’s not—”
 
-“You don’t know that! Jesus, David, you’re so naïve. The whole damn world is going to come flooding in! You’ve fucked us—all of us!”
+“You don’t know that! Jesus, David, you’re so naïve. The whole damn world is going to come flooding in! You’ve fucked us. All of us!”
 
 David could hear him pacing, the voice jerking sideways as Marcus turned on Celeste.
 
 “Your boy just dragged us off a cliff.”
 
-“Marcus—listen to me. It’s going to be okay. You have to trust—”
+“Marcus, listen to me. It’s going to be okay. You have to trust—”
 
 “Trust you?” Marcus snapped. “After this? No. No more. I’m not doing this over the phone. Get your ass home. Now. Before you wipe out another wing of science and take our careers with you.”
 
@@ -311,11 +311,9 @@ Celeste took the phone before he even felt her move.
 
 She didn’t yell. She never did. Not when her father vanished. Not when David cracked the ceiling. Not even now.
 
-“David,” she said—soft, precise.
+“David,” she said, soft. Precisely.
 
-And that was all it took.
-
-He froze. Exhaled. Silence pressed in like gravity.
+And that was all it took.  He froze. Exhaled. Silence pressed in like gravity.
 
 “I’m on my way.”
 

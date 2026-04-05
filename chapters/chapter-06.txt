@@ -8,15 +8,15 @@ Subtitle:        a symphony in five movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,777
-Paragraph Count: 223
+Word Count:      6,133
+Paragraph Count: 236
 Scene Count:     5
 
-Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–545  |  Paragraphs 2–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: II.  Andante: the salon  |  Émilie du Châtelet  --  Words 546–1,366  |  Paragraphs 24–52  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,367–3,044  |  Paragraphs 53–133  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,045–4,420  |  Paragraphs 134–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,421–5,777  |  Paragraphs 185–223  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–927  |  Paragraphs 2–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: II. Andante: the salon | Émilie du Châtelet  --  Words 928–1,722  |  Paragraphs 36–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,723–3,400  |  Paragraphs 66–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,401–4,776  |  Paragraphs 147–197  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,777–6,133  |  Paragraphs 198–236  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -30,55 +30,81 @@ I.  Overture: The Monochord   |   Pythagoras
 
 [Adagio misterioso]
 
-The study was a wreck. Books stratified by citation frequency, clothes from yesterday still sweat-stippled, an espresso demitasse gathering salts atop a treatise on superstring compactification. The chalkboard held twelve iterations of the same equation, each one warping closer to something that felt true.
+The place was a wreck. Books stood in unstable strata organized by citation frequency, because of course that was the system, while clothes from yesterday or last week carpeted the floor, the distinction no longer worth making. An espresso demitasse had gathered a crust of salts atop a treatise on superstring compactification. Laundry and entropy were running neck and neck, and both were winning.
 
-David had stopped tracking time around hour twenty-eight. He sat cross-legged on the desk now, one sleeve dusted with chalk and magnesium oxide. His hand trembled as he reached for the tuning fork in his breast pocket.
+The chalkboard looked like a crime scene for integers. Twelve iterations of the same equation marched across it, each one warped a little further toward something that felt less like proof than like proximity. Truth, perhaps. Or merely better chalk dust.
 
-He struck it against the desk rim. A-432, perfect and pure.
+David had stopped tracking time somewhere around hour twenty-eight. He sat cross-legged on the desk, one sleeve furred with chalk and magnesium oxide, his sweater making him look like the world’s most self-important blackboard. His hand trembled as he reached into his breast pocket for the tuning fork.
+
+Not a good sign.
+
+Note to self: eat something that isn’t existential dread.
+
+He struck the fork against the desk rim. A-432. Pure as a confession. The note rang out clean and unwavering, too precise for the room that held it. It seemed to pass through the clutter without touching it, as if the sound belonged to a more disciplined universe and had only briefly agreed to visit his own.
 
 If it be not now, then it may never come.
 
-The phrase arrived in his skull like something spoken aloud by someone who was not there. He closed his eyes. It was time.
+The phrase arrived in his skull like something spoken aloud by someone who was not there. It sounded, absurdly, a little like his grandfather, if his grandfather had ever quoted Hamlet and haunted tuning forks.
 
-The world buckled. The desk dissolved. The room's geometry failed. For a moment David was nowhere—then here: air raw and ionized, a sun nearer than his own, shadows sharp on flagstones worn smooth by centuries of feet.
+David closed his eyes. Here goes nothing. The room buckled.
 
-He stood barefoot in a rectangular enclosure, columns at each corner. The ground vibrated with a note that would not fade.
+At first it felt almost explainable, a blood-sugar lurch, an edge-of-vision failure, the ordinary revenge of sleep deprivation. Then the geometry of the study gave way in earnest. The desk dissolved. The blackboard’s flat face bowed and arched. Lamplight blued, then thinned toward darkness. For one dislocated instant he was nowhere.
 
-Ahead, a bearded figure bent over a plank suspended between two stone benches. On the plank, a single string stretched between bronze pegs, its bridge a sliver of bone. He plucked it. The fundamental rang clean; the overtone—a perfect fifth—rose upward, tracing invisible arcs against the sky.
+Then he was somewhere else.
 
-Lang felt the interval in his ribs. Integer ratios aligned with blood-pulse. He watched as the man marked the string with a wedge of ivory, dividing it in measured increments. When the figure looked up, there was no solemnity in his face, no performance—only the concentration of someone demonstrating a truth too simple to require persuasion.
+The air was raw and ionized, filling his lungs like an electric first breath. Above him stretched a sky of impossible blue, mineral blue, a blue ground out of centuries. The sun felt nearer than his own. Shadows fell hard across flagstones worn smooth by generations of feet. The air tasted of salt, goat fat, and wild thyme.
 
-He pointed: at Lang, at the string, at the sky, at the carved slab beside the bench.
+He stood barefoot in a rectangular enclosure, columns at each corner, their surfaces pitted by touch and weather. The ground beneath him vibrated with a note that would not fade.
 
-The message needed no translation. The workbench grew near. The figure's outline blurred.
+Ahead, a bearded man bent over a plank suspended between two stone benches. A single string stretched across it between bronze pegs, bridged by a sliver of bone. The man plucked it.
 
-And then he was gone.
+The fundamental rang clean. Then the overtone rose above it, a perfect fifth, opening into the air with such clarity that David felt the interval in his ribs before he understood it. The man marked the string with a wedge of ivory, dividing it in measured increments. Ratio made visible. Music reduced to law without losing any of its strangeness.
 
-David felt suddenly like an intruder. The demonstration had ended; the master had left. He lowered his hand toward the monochord—a gesture bordering on scientific trespass—then fixed his gaze upon the slab.
+David watched, suddenly aware of himself as an intruder and a student, though no invitation had been offered and no lesson announced.
+
+The man looked up at last.
+
+There was no solemnity in his face, no theatrical aura of ancient wisdom, only the concentration of someone demonstrating a truth too simple to require persuasion.
+
+He pointed: at David, at the string, at the sky, and then at the carved slab beside the bench.
+
+The gesture needed no translation.
+
+As David stepped forward, the workbench sharpened and the figure began to blur, as if one could approach the knowledge or the teacher, but not both at once. He lowered a hand toward the monochord, a gesture bordering on scientific trespass, then stopped and looked instead at the slab.
 
 All things move in harmony.
 
-The courtyard faded. The study materialized around him.
+The courtyard dissolved.
 
-His right hand still gripped the tuning fork. His left lay flat on the desk, streaked with charcoal deep in the creases of his palm. The fork had opened something. Whether he could hold it open was another matter.
+He was back in the study, blinking at his own disorder.
 
-On the blackboard, the equation had shifted. The ratios were clean now, too clean, as if they had been carried through by a hand that understood their destination before he did. He had not solved the problem. He had received it.
+The tuning fork was still in his right hand. His left lay flat on the desk, charcoal ground deep into the creases of his palm like a mark he had not consented to receive. Something had opened. Whether he could hold it open was another matter.
 
-He struck the fork again. The room did not warp this time, but the walls seemed farther away than before. Each object—cup, book, chair, lamp—had acquired a frequency. His heartbeat, frantic a moment earlier, settled into a metronomic calm. He felt his pulse and the fork fall into a perfect fifth.
+On the blackboard, the equation had changed.
 
-The fork was louder. It always would be.
+The ratios were clean now, too clean, as if they had been carried through by a hand that understood their destination before he did. He had not solved the problem. He had received it. A gift, not a solution. He was the recipient, not the solver. Maybe that was the point.
 
-The night had grown thicker. The silence between intervals had become legible, and whatever in him could read it no longer felt entirely his own.
+He struck the fork again.
+
+The room did not warp this time, but everything in it answered. Cup, chair, lamp, book, radiator, even the cheap bones of the building, each seemed to declare its own frequency. His heartbeat, frantic a moment earlier, settled into metronomic calm. He felt pulse and pitch fall into a perfect fifth.
+
+The fork was louder now. Maybe it always had been.
+
+He turned back to the board with the caution of someone unsure the room would hold.
+
+Then setting the chalk to slate with unusual care, he wrote the interval. First: the fifth as ratio, the ratio as fraction, the fraction bent at once toward the curvature of a one-dimensional loop. The next step should have followed cleanly. It did not. He wrote the matrix element anyway, closing the bracket with a hand that had begun, against his own expectations, to steady itself.
 
 
 
-II.  Andante: the salon  |  Émilie du Châtelet
+II. Andante: the salon | Émilie du Châtelet
 
 [Andante con grazia e logica]
 
-He set chalk to slate with unusual care. The first line restated what he had seen in the courtyard: the ratio of the fifth rendered as fraction, then carried into the curvature of a one-dimensional loop. The next step should have followed from it cleanly. Instead it held. He wrote the matrix element anyway, closing the bracket with a hand that had begun, against his will, to steady itself.
-
 The chalk made a different sound.
+
+He stopped and looked at the board. The white line he had just drawn seemed to waver where it should have held. The wall behind it rippled once. The noise in his ears rose sharply, then vanished.
+
+He was seated in another room.
 
 It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. He stopped and looked at the board. The white line he had just drawn seemed to waver where it should have held. The wall behind it rippled once. The noise in his ears rose sharply, then vanished.
 
@@ -481,7 +507,6 @@ A clean 3:2.
 Beside him, the cello began to vibrate again, a drone in the key of what was to come.
 
 He laughed, and the laugh was not lonely but layered—the sound of a man who had at last, in a life of ratios and regret, found an harmonic home.
-
 
 
 
