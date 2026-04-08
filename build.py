@@ -973,6 +973,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
       document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
       document.querySelector('.chapter-text').innerHTML
     )">&#8675; Word</button>
+    <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
   </div>
   {stats_bar}
   <div class="chapter-text">
