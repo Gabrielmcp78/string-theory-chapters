@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-04-07",
-  "total_words": 105891,
+  "total_words": 106057,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -577,8 +577,8 @@
       "label": "Chapter 7",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
-      "word_count": 8202,
-      "paragraph_count": 189,
+      "word_count": 8368,
+      "paragraph_count": 191,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
@@ -614,9 +614,9 @@
           "n": 4,
           "heading": "IV. Lossless Transfers",
           "word_start": 2950,
-          "word_end": 8202,
+          "word_end": 8368,
           "para_start": 81,
-          "para_end": 189,
+          "para_end": 191,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"
         }
       ]
