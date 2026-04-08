@@ -9,14 +9,14 @@ Subtitle:        a symphony in five movements
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      6,133
-Paragraph Count: 236
+Paragraph Count: 234
 Scene Count:     5
 
 Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–927  |  Paragraphs 2–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
 Scene 2: II. Andante: the salon | Émilie du Châtelet  --  Words 928–1,722  |  Paragraphs 36–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
 Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,723–3,400  |  Paragraphs 66–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,401–4,776  |  Paragraphs 147–197  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,777–6,133  |  Paragraphs 198–236  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,401–4,776  |  Paragraphs 147–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,777–6,133  |  Paragraphs 196–234  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -387,17 +387,13 @@ The lab dissolved.
 
 He was back in the apartment, cello in hand, bow still carrying the last arc of a down-bow. The string vibrated under his finger, but the pitch had shifted subtly, as if the instrument had recalibrated itself in the interval between worlds. His hands shook. He set the cello gently in its stand and stumbled to the desk, where a stack of staff paper waited.
 
-He wrote.
-
-Not words. Notation. The sequence of intervals he had heard, the sand patterns, the ratios from the courtyard, the equation from the foolscap. The pages filled with a speed that made his wrist ache. Counterpoint became proof. Proof became structure. Structure became something he could follow.
+Notation became his sentence structure. The sequence of intervals he had heard, the sand patterns, the ratios from the courtyard, the equation from the foolscap. The pages filled with a speed that made his wrist ache. Counterpoint became proof. Proof became structure. Structure became something he could follow.
 
 He worked for hours.
 
 The tuning fork in his pocket warmed and cooled in sympathetic pulses. The staff paper rose in uneven stacks. At some point his left hand reached for the charcoal fragment from the first vision and pressed it to the page. A black line bloomed into a diagram whose geometry he could not have planned and yet could read at once.
 
-The music was not his.
-
-It was what appeared when he stopped trying to compose and allowed the pattern to use his hands.
+The music was not his, but instead, what appeared when he stopped trying to compose and allowed the pattern to use his hands.
 
 At some point he slept, or passed into something adjacent to sleep. When he came back to himself, the apartment had grown colder. The radiator had gone silent. The room held the stillness of a place waiting to see what would happen next.
 

@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-04-07",
-  "total_words": 105232,
+  "total_words": 105891,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -519,7 +519,7 @@
       "title": "Visions and Burdens… of Knowing",
       "subtitle": "a symphony in five movements",
       "word_count": 6133,
-      "paragraph_count": 236,
+      "paragraph_count": 234,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -557,7 +557,7 @@
           "word_start": 3401,
           "word_end": 4776,
           "para_start": 147,
-          "para_end": 197,
+          "para_end": 195,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
         },
         {
@@ -565,8 +565,8 @@
           "heading": "V.  Finale:  minimums  |  Isaac  Newton",
           "word_start": 4777,
           "word_end": 6133,
-          "para_start": 198,
-          "para_end": 236,
+          "para_start": 196,
+          "para_end": 234,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html"
         }
       ]
@@ -577,8 +577,8 @@
       "label": "Chapter 7",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
-      "word_count": 7543,
-      "paragraph_count": 354,
+      "word_count": 8202,
+      "paragraph_count": 189,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
@@ -605,18 +605,18 @@
           "n": 3,
           "heading": "III.  Findings and Implications",
           "word_start": 2031,
-          "word_end": 2855,
+          "word_end": 2949,
           "para_start": 56,
-          "para_end": 76,
+          "para_end": 80,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
         },
         {
           "n": 4,
           "heading": "IV. Lossless Transfers",
-          "word_start": 2856,
-          "word_end": 7543,
-          "para_start": 77,
-          "para_end": 354,
+          "word_start": 2950,
+          "word_end": 8202,
+          "para_start": 81,
+          "para_end": 189,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"
         }
       ]
