@@ -8,14 +8,14 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      10,769
+Word Count:      10,778
 Paragraph Count: 370
 Scene Count:     4
 
 Scene 1: I.  THE CLASSROOM  --  Words 7–4,349  |  Paragraphs 2–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
-Scene 2: II.  THE OFFICE  --  Words 4,350–6,444  |  Paragraphs 185–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: III.  THE REHEARSAL HALL  --  Words 6,445–9,512  |  Paragraphs 242–341  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: IV.  THE APARTMENT  --  Words 9,513–10,769  |  Paragraphs 342–370  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 2: II.  THE OFFICE  --  Words 4,350–6,452  |  Paragraphs 185–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
+Scene 3: III.  THE REHEARSAL HALL  --  Words 6,453–9,521  |  Paragraphs 242–341  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: IV.  THE APARTMENT  --  Words 9,522–10,778  |  Paragraphs 342–370  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -499,21 +499,21 @@ And there, in the far-right corner of the desk, lay the manila envelope from Sch
 
 They had argued—sometimes mildly, sometimes with real force—about science and music: one obedient to law, the other disciplined only so it could remain human. His father had not wanted to lose him to physics. He had wanted music for David: beauty, honesty, clarity. Music offered such things without embarrassment. Physics, as Arthur had learned from his own father, did not exactly advertise the same rewards in the cheerful pamphlet titled Welcome to Scientific Academia: A Few Things to Expect Before Your Journey Begins.
 
-David had insisted both were possible—that science and music need not remain separate islands. Somewhere in the distant past, he believed, there must have been a land bridge between them; someone merely had to go looking. Now he thought, with a bitter flicker of amusement, that truth was less often buried than eroded. Discovery was never the hardest part. Learning to distinguish fortitude from foolishness was.
+David had insisted both were possible; that science and music need not remain separate islands. Somewhere in the distant past, he believed, there must have been a land bridge between them; someone merely had to go looking. Now he thought, with a bitter flicker of amusement, that truth was less often buried than eroded. Discovery was never the hardest part. Learning to distinguish fortitude from foolishness was.
 
 Then, with all that and more lingering in his head, he nudged the envelope back into its corner—touched, considered, still unsigned—and turned once more toward the glass, toward the campus trees and the darkening grass.
 
 “I will, Dad,” he muttered. “Goddamn it. I… I will.”
 
-Beyond the window, snow thickened into sleet, and sleet turned to ice, laying a fresh sheen of treachery over the quad’s footpaths. Yet the ground around the bench—along with the narrow track by which David had stumbled upon it—remained oddly bare, untouched by the accumulating glaze, as if the moment itself still radiated some after-heat that refused the world’s new terms.
+Beyond the window, snow thickened into sleet, and sleet turned to ice, laying a fresh sheen of treachery over the quad’s footpaths. Yet the ground around the bench, along with the narrow track by which David had stumbled upon it, remained oddly bare. Untouched by the accumulating glaze, it felt as if the moment itself still radiated some after-heat that refused the world’s new terms.
 
 His mind kept circling back: the bench, the fork, the capsule, the data. A recursion he dreaded. A momentum he could not, for the moment, break.
 
-Somewhere beneath the grass—under layers of dense clay and root-striated soil—lay the capsule he, Celeste, and Marcus had buried: their graduate-school manifestos on revolutionizing acoustic physics, sealed up like a promise and a dare. David’s fingernail traced the rim of his coffee cup, finding the enamel chip where he’d dropped it while trying to convince his father that they were doing the right thing. With that constant voice of challenge in his life now silenced, that long ago foggy evening seemed to have found a voice in him once more. A voice he knew in youth, in new discovery, before they shook hands and agreed it was a song sung before its time—a melody no one was ready, or willing, to hear.
+Somewhere beneath the grass, under layers of dense clay and root-striated soil, lay the capsule he, Celeste, and Marcus had buried: their graduate-school manifestos on revolutionizing acoustic physics, sealed up like a promise and a dare. David’s fingernail traced the rim of his coffee cup, finding the enamel chip where he’d dropped it while trying to convince his father that they were doing the right thing. With that constant voice of challenge in his life now silenced, that long ago foggy evening seemed to have found a voice in him once more. A voice he knew in youth, in new discovery, before they shook hands and agreed it was a song sung before its time—a melody no one was ready, or willing, to hear.
 
 He exhaled, shutting all of it from his mind, for ahead waited the relief of rehearsal, the comfort of trusted, true friends of care, and a cello that had always shielded him from true harm.
 
-He looked up at the clock, then down at his own—for the day had proven less than reliable already. Confirmed:
+He looked up at the clock, then down at his own, for the day had proven less than reliable already. Confirmed:
 
 It was one minute, forty-seven seconds from time.
 
@@ -526,7 +526,7 @@ III.  THE REHEARSAL HALL
 
 The Music School’s residence on East Hill had never resolved into a single, settled idea—more of a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered and thickened over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.
 
-By the seventies, the place had been reborn—rebranded, really—as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber that seemed, even now, to remember life before being pressed into the service of sound.
+By the seventies, the place had been reborn, rebranded as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber that seemed, even now, to remember life before being pressed into the service of sound.
 
 Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks, spare and watchful. Above the musicians hung the acoustic clouds—those pale, suspended planes—stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward, slipping through the gaps into rafters, into the chapel attic, where it gathered and lingered: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
 

@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-04-07",
-  "total_words": 106057,
+  "built": "2026-04-08",
+  "total_words": 105834,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -43,7 +43,7 @@
       "label": "Chapter 1",
       "title": "Opus No. 46  in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 10769,
+      "word_count": 10778,
       "paragraph_count": 370,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
@@ -62,7 +62,7 @@
           "n": 2,
           "heading": "II.  THE OFFICE",
           "word_start": 4350,
-          "word_end": 6444,
+          "word_end": 6452,
           "para_start": 185,
           "para_end": 241,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
@@ -70,8 +70,8 @@
         {
           "n": 3,
           "heading": "III.  THE REHEARSAL HALL",
-          "word_start": 6445,
-          "word_end": 9512,
+          "word_start": 6453,
+          "word_end": 9521,
           "para_start": 242,
           "para_end": 341,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
@@ -79,8 +79,8 @@
         {
           "n": 4,
           "heading": "IV.  THE APARTMENT",
-          "word_start": 9513,
-          "word_end": 10769,
+          "word_start": 9522,
+          "word_end": 10778,
           "para_start": 342,
           "para_end": 370,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
@@ -577,8 +577,8 @@
       "label": "Chapter 7",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
-      "word_count": 8368,
-      "paragraph_count": 191,
+      "word_count": 8136,
+      "paragraph_count": 255,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
@@ -614,9 +614,9 @@
           "n": 4,
           "heading": "IV. Lossless Transfers",
           "word_start": 2950,
-          "word_end": 8368,
+          "word_end": 8136,
           "para_start": 81,
-          "para_end": 191,
+          "para_end": 255,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"
         }
       ]
