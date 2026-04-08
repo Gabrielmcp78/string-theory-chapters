@@ -678,6 +678,28 @@ function _exportWord(filename, headingText, subText, contentHTML) {
 }
 
 function exportPDF() { window.print(); }
+async function copyChapterText(txtUrl, btn) {
+  try {
+    var resp = await fetch(txtUrl);
+    if (!resp.ok) throw new Error('fetch failed: ' + resp.status);
+    var text = await resp.text();
+    await navigator.clipboard.writeText(text);
+    var orig = btn.innerHTML;
+    btn.innerHTML = '&#10003; Copied!';
+    btn.style.background = '#4a7a4a';
+    btn.style.color = '#fff';
+    btn.style.borderColor = '#4a7a4a';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }, 2000);
+  } catch(e) {
+    btn.innerHTML = '&#10007; Failed — check permissions';
+    setTimeout(function() { btn.innerHTML = '&#9776; Copy Text'; }, 2500);
+  }
+}
 </script>"""
 
 
@@ -706,6 +728,8 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
     sc_paras = sc_stat['para_end'] - sc_stat['para_start'] + 1
     sc_export_filename = (f"{BOOK_TITLE} - {chapter_label(num)} - "
                           f"Scene {sc_n} - {scene_group['heading']}.doc").replace('/', '-')
+    # txt_url points to the full chapter plain-text file (scenes share it)
+    txt_url = f"{PAGES_URL}/chapters/{ch_slug}.txt"
 
     # Prev / next scene nav (within this chapter)
     prev_link = ''
@@ -794,6 +818,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
       document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
       document.querySelector('.chapter-text').innerHTML
     )">&#8675; Word</button>
+    <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
   </div>
 
   {stats_bar}
