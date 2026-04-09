@@ -8,14 +8,14 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      10,778
-Paragraph Count: 370
+Word Count:      10,883
+Paragraph Count: 373
 Scene Count:     4
 
-Scene 1: I.  THE CLASSROOM  --  Words 7–4,349  |  Paragraphs 2–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
-Scene 2: II.  THE OFFICE  --  Words 4,350–6,452  |  Paragraphs 185–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: III.  THE REHEARSAL HALL  --  Words 6,453–9,521  |  Paragraphs 242–341  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: IV.  THE APARTMENT  --  Words 9,522–10,778  |  Paragraphs 342–370  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 1: I.  THE CLASSROOM  --  Words 7–4,453  |  Paragraphs 2–187  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
+Scene 2: II.  THE OFFICE  --  Words 4,454–6,556  |  Paragraphs 188–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
+Scene 3: III.  THE REHEARSAL HALL  --  Words 6,557–9,625  |  Paragraphs 245–344  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: IV.  THE APARTMENT  --  Words 9,626–10,883  |  Paragraphs 345–373  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -36,23 +36,25 @@ The lecture hall, always five degrees too warm, was a quiet expanse of yellows a
 
 Of course, the hall was merely upholstery for the chair. And a very well-endowed one it was. David was the Feynman Chair of Quantum Dynamics at Cornell University—had been for nearly nineteen years. Though lately he could sense—in brittle emails, in the deflective eyes of students, in the way a chalk screech pierced from board to bone—that the title, once a reward, had become its own diagnosis: a public credential for a man in private decline.
 
-It wounded him from within—this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were. A brushed-metal plaque by the door marked David’s assignment to the post. The inscription highlighted the room’s design, claiming its “unique ornamentation” aimed to “soothe the psyche and elicit heightened states of mental acuity.”
+It wounded him from within—this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were.
+
+A brushed-metal plaque by the door marked David’s assignment to the post. The inscription highlighted the room’s design, claiming its “unique ornamentation” aimed to “soothe the psyche and elicit heightened states of mental acuity.”
 
 They said the same things about heroin for a hundred years.
 
-Though sixty-three students were on the roster, roll call revealed that, on this crystalline afternoon, only twenty-seven had deemed Professor Lang’s insights of greater value than a midday nap. Of these, David identified a mere thirteen who appeared present in any meaningful sense. A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.
-
 David’s voice—once confident and of dry wit—had lately taken on a more resigned, ingratiating timbre as he explained superposition to the drowsy air.
 
-“Imagine,” he began, “a coin—already in your pocket—but if its presence remains unknown, its value is…. Anyone?” Nothing. Not a sound from the peanut gallery. He continued, “Time’s up. Thank you for playing. Indeterminate is your answer for those keeping score.”
+“Imagine,” he began, “a coin, already in your pocket. As long as its presence remains unknown, its value is… anyone?” Nothing. Not a sound. “Time’s up. Thank you for playing.”
 
-He looked about the room. eyes everywhere. “Also… indeterminate, I see. Okay. Well, fine. Only when your hand closes around it does the system collapse and a definite worth emerge. That’s when you learn whether you can afford a proper meal, or will have to settle for the usual pack of ramen noodles.”
+Though sixty-three students were on the roster, roll call revealed that, on this crystalline afternoon, only twenty-seven had deemed Professor Lang’s insights of greater value than a midday nap. Of these, David identified a mere thirteen who appeared present in any meaningful sense. A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.
+
+“Indeterminate is your answer for those keeping score.” He looked about the room. Dead eyes everywhere. “Also indeterminate, I see. Okay. Well, fine. Only when your hand closes around it does the system collapse and a definite worth emerge. That’s when you learn whether you can afford a proper meal, or will have to settle for the usual pack of ramen noodles.”
 
 A mild chuckle caught throughout the room.
 
 They’re alive. A miracle. Use it.
 
-“You think I’m joking? I’m not. Until observed, that coin could be a dime, a quarter, even some rare mis-strike worth more than your tuition. Though who are we kidding? No coin is worth that much. But, hey, take a look around the room. See if you can spot the person with the Ivy League tuition penny in their pocket.”
+“You think I’m joking? I’m not. Until observed, that coin could be worth more than your tuition. Take a look around the room. See if you can spot the person with the Ivy League penny in their pocket.”
 
 Students began pointing at each other. A few, emboldened, even pointed at David.
 
@@ -60,17 +62,17 @@ Students began pointing at each other. A few, emboldened, even pointed at David.
 
 The room loosened. For a moment, they were with him.
 
-“That’s the tyranny and the grace of superposition. Before you get involved: possibilities are endless. After you choose to engage: no choices left.”
+“That… that is the tyranny and the grace of superposition. Before you get involved: possibilities are endless. After you choose to engage: no choices left.”
 
 They settled. The silence that followed was attentive, almost reverent. David let himself enjoy it, the faint rise of pride he did not bother to hide from himself. He had missed this. It used to come easier.
 
-He stepped to the desk for a fresh stick of chalk, one hand still half-raised toward the students, as if to hold the thought in place until he turned back. When his fingers closed around the box, pain moved through them. Sudden. Familiar. His joints now remembering something they knew too well.
+He stepped to the desk for a fresh stick of chalk, one arm still half-raised behind him, holding the thought in place until he turned back. When his fingers closed around the box, pain shot through them. Sudden. Familiar. His joints remembering something they knew too well.
 
 Dust hung in the slant of afternoon light, each mote briefly suspended in its own small uncertainty.
 
 He turned back to the board before the moment could thin, his arm swinging wide like a conductor drawing in some distant section. The clean edge of the chalk struck sharp against the board.
 
-“Now, look—here—” he said, scrawling the causal expansion across the slate:
+“Now, look here,” he said, scrawling the causal expansion across the slate:
 
 
 
@@ -82,77 +84,87 @@ He paused just a hair too long.
 
 “But this,” he circled the final term, “this… is—”
 
-Then—nothing.
+Then nothing.
 
-Now… he wasn’t sure if he’d actually said the word noise—or if, at that exact moment, he’d only heard it.
+Now… he wasn’t sure if he’d actually said the word noise, or if, at that exact moment, he’d only heard it. But something… something answered.
 
-But something… something answered.
+A hum. No, a buzz. Deep, menacing, unforgiving. 68.48 Hz. Not a guess. The number came to him without warning, instantly, as if calculated somewhere else and then inserted into his head.
 
-A hum—no, a buzz. Deep, menacing, unforgiving. 68.48 Hz. Not a guess. The number came to him without warning, instantly, as if calculated somewhere else and then inserted into his head.
-
-It flooded his mind like seawater into a breached hull. The sound scraped deep into the soul of his belly—visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion.
+The sound scraped deep into the soul of his belly—visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion.
 
 They’d seen it. How could it be otherwise? And with that, the superposition of this lecture collapsed.
 
-He had to pivot. He couldn’t think—the low droning in his ears, a blatant, involuntary confession disguised as formalism, mocking him from all sides. Still, David knew he could salvage this. He’d done it before. But he would have to abandon this tack.
+He couldn’t think or even see straight. The low droning in his ears, this blatant confession disguised as formalism, mocking him from the board. Still, David knew he could salvage this. He’d done it before. But he would have to abandon this tack.
 
-“All right, you know what… let’s… let’s shift the frame. Honestly, I’m not even sure I understand what I‘m saying there, so...”
+“All right, you know what, let’s… let’s shift the frame. Honestly, I’m not even sure I understand what I‘m saying there, so...”
 
-He turned back to the board, heartbeat—staccato. Maybe a switch to Einstein would do—something familiar. He had half a mind to ask if anyone had an apple, but decided to leave Newton out of this.
+He turned back to the board. Heartbeat: staccato. Maybe a switch to Einstein would do. Something familiar. He had half a mind to ask if anyone had an apple, but decided to leave Newton out of this.
 
-What came to him instead wasn’t strictly physics, but it was something, and David—unsettled and unsure—decided to give it a chance.
+What came to him instead wasn’t strictly physics, but it was something, and something would have to be enough.
 
-  How do you measure proximity?
+How do you measure proximity?
 
 Then underneath:
 
 
 
 
-He stepped back. Squinted. Erased it—Rewrote:
+He stepped back. Squinted. Erased it. Rewrote:
 
 
 
 
-Better. Maybe. He just wasn’t sure. He couldn’t hear himself—wasn’t thinking in tune—the buzz of memory cutting off the link of lecture.
+Better. Maybe. He just wasn’t sure. He couldn’t hear himself. The buzz, stabbing into his brain, scratching at the back of his eyeballs, submerged the man. He turned away, shielding his thread-bare face from the eyes of the room.
 
-“When the world resonates,” he said, voice gone soft and strange, “you feel less alone. Even when no one’s listening—you feel connected. Like there’s… structure underneath the noise. But drift just a little, half a harmonic even, and that structure collapses.”
+Come on Lang. Focus, you fool.
 
-He looked over the room. “This is not theoretical. There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
+He ticked his head to one side, then the other. For no reason he could name, the unrelenting eased. A block of useful thought took shape in his head, and David leapt at the moment of lucidity.
 
-Silence. The kind that signals judgement.
+“When the world resonates,” he said, voice gone soft and strange, “you feel less alone, even connected. Like there’s… structure underneath the noise. But drift just a little, and that structure collapses.”
 
-And then, he saw him.
+He looked over the room, then past them to the crazed glass towering above it, and closed his eyes. “There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
+
+The silence screamed judgment. David opened his eyes, streaks of window light forcing him back into alignment.
+
+And then he saw him.
 
 Dr. Rune Ishikawa.
 
-Standing—no, placed—in the doorway. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
+Standing. No, placed in the doorway. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
 
-Shit! How long had he been standing there? How much of that dreck had he…
+Shit. He had no idea how long Rune had been standing there. No idea how much of that he’d heard.
 
-Then Rune decided to join the class.
+David reset. A formal introduction was required; anything less would concede the room. He drew the necessary breath, but Rune was far too quick. Rune stepped in and took the polite breath from his lungs.
 
 “Are you not, in fact, describing… musical harmony, Professor Lang?”
 
 David froze. Something inside him snapped taut. A tension string pulled too far, too fast.
 
-“No, no I’m not, Rune. Christ! What an idiotic question.” He began careening back and forth. “Harmony is passive. It’s a fucking consequence. Resonance is physical. It builds.”
+“No. No, I’m not, Rune. Christ! What an idiotic question.” He began careening back and forth. “Harmony is passive. It’s a fucking consequence. Resonance is physical. It builds.”
 
-“Oh, I see, so—” and he smiled slyly, “vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”
+“Oh, I see, so… ” and he smiled slyly, “vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”
 
 “Well, yes. I mean…” Lang had lost the thread.
 
-Ishikawa had most certainly not. “But  resonant structures can alter without altering the base harmonics, isn’t that right?”
+Ishikawa had most certainly not. “But resonant structures can alter without corrupting the base harmonics, isn’t that right?”
 
 “That is a conveniently—“
 
-“You know,” Rune continued, as if David was not even there, “it’s been a long time since my marching band days, so correct me if I’m wrong, but a minor third atop a major third creates a major triadic harmony. However, inverted, that same harmonic structure can be created by a major third and… oh, shoot—what is it… help me, won’t you, David? It’s a—”
+“You know,” Rune continued, as if David was not even there, “it’s been a long time since my marching band days.” He turned with a smile to address the students, already mesmerized by the strange unknowable elegance of the man. “I once fancied myself a bassoonist. Fabulous instrument. Terrible embouchure, I’m afraid.”
+
+“Dr. Ishikawa, was there something you…”
+
+“Oh, it’s a trifle, Professor Lang, and, correct me if I’m wrong, but a minor third atop a major third creates a major triadic harmony, yes?”
+
+“Well… “ David stuttered back. Rune had no interest in his answer.
+
+“Right. Yet that same harmonic structure, when inverted, can be created by a major third and… oh, shoot—what is it… help me, won’t you, David? It’s a—”
 
 “A perfect fourth,” David replied, begrudgingly.
 
-“Of course,” Rune snapped his gloved fingers, “that’s right, a perfect fourth. Well… I must be missing something, yes?” Rune placed both his hands palms down into the front pockets of his suit jacket, and with a slight, elegant shrug finished the line, “or perhaps the inquiry is, as you say… idiotic.”
+“Of course,” Rune snapped his gloved fingers, “a perfect fourth. Well… I must be missing something, no?” Rune placed both his hands palms down into the front pockets of his suit jacket, and with a slight, elegant shrug finished the line. “Or perhaps the inquiry is, as you say… idiotic.”
 
-David was seething now. Not lecturing. Not reasoning. Just raw.
+David was seething now. Not lecturing. Not reasoning.
 
 “Harmony happens when everything is already aligned. Resonance creates that alignment.”
 
@@ -162,21 +174,23 @@ He swiveled back and pointed toward the doorway.
 
 Silence. Nothing. There was no one in the doorway. Rune was gone. No expression. No comment. Just gone.
 
-David caught his breath. Let the fury settle like ash. Then, he turned back to the board.  confused, embarrassed even. He simply wrote:
-
+David caught his breath. Let the fury settle like ash. He turned, stoically back to the boards. Confused. Embarrassed even. He simply wrote:
 
 Resonance = Survival
-
 
 This time, he let it stay.
 
 Behind him, the sound of shoes shuffling—soft leather, unhurried—the pace of administrative authority.
 
-David stood there, frozen, staring into the void. The raw, reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it. He lunged toward the projector, flipped the power as if the switch alone could crack open the cage he’d built.
+David stood there, frozen, staring into the slated void. The  reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it.
 
-The machine whirred to life—light cutting through the fog of before—casting a silver glow across the dust-veiled room. The first slide flickered onscreen. And then, to complete this brute-force recovery, he shouted out his next command:
+He snapped a false grin and gestured toward the empty doorway. “Dr. Ishikawa, ladies and gentlemen. Always an honor to have his… unique perspective.” The smile had dropped too nothing. “What a legend.”
 
-“Right then. Moving on! Now… this is a section from the Lang–Feldman Diagram. It maps the overlap between psychoacoustics and neural patterning in recursive feedback loops. Or at least it did, until someone rewrote the grant proposal as a ‘sound art initiative.’”
+He blinked, then again. A breath. A gulp. “Alright then. Moving on.”
+
+David lunged toward the projector, flipped the power as if the switch alone could crack open the cage he’d built. The machine whirred to life, light cutting through the fog of before. The first slide flickered on-screen.
+
+“Now… this is a section from the Lang–Feldman Diagram. It maps the overlap between psychoacoustics and neural patterning in recursive feedback loops. Or at least it did, before someone rewrote the grant proposal as a ‘sound art initiative.’”
 
 Mild laughter. Or maybe it was only static.
 
@@ -184,25 +198,25 @@ He clicked forward. A waveform graph.
 
 Click.
 
-An anatomical rendering of the cochlea—the inner ear.
+An anatomical rendering of the cochlea, the inner ear.
 
-Click—
+Click.
 
 Wait…
 
 A photograph sliced through the photon mist and bled onto the screen. A Polaroid.
 
-Within its thick white frame—evening fog, a vast field of frost-kissed northeastern green. At the center of the frame, a single tuning fork, half-buried in wet soil. The resonance prong pointed to the sky as if a question had been answered that no one was supposed to hear.
+Within its thick white frame: evening fog, a vast field of frost-kissed northeastern green. At the center, a single tuning fork, half-buried in wet soil. The resonance prong pointed to the sky as if a question had been answered that no one was supposed to hear.
 
-David nearly choked. He knew this image. He had taken this image. Or maybe…no—Celeste had. Yes.
+David nearly choked. He knew this image. He had taken this image. Or maybe… no. Celeste had. Yes.
 
-His mind began to tease him, the ancient moment unfurling again: the tuning fork, Celeste striking it against the bench.
+His mind braced as the ancient moment unfurled: the tuning fork, Celeste striking it against the bench. The year of the agreement. The capsule. The year before everything…
 
-The year of the agreement. The capsule. The year before everything…
+What the hell was happening. David ached for an empty room. If he could scream all 26 of them forward 20 minutes, or better yet back an hour…
 
-The humming buzzsaw suddenly slammed back into his skull—deeply resonant, violent, modulant. It pulsed with an insistence that refused to be ignored. This was more than memory. This was menace!
+The fork on screen, the buzz in his skull, entangled before him. A horror dance, involuntary, infected. This was more than memory. This was menace!
 
-His hands hovered over the remote, but he was unable to grab it. The mounting tremble in his forearm now bordering on quake. Menace or no, that picture was staring at him—unflinching. Immutable. He could not help but stare right back. The image swirled—an unencumbered recursive.
+His hands hovered over the remote, but he was unable to grab it. The mounting tremble in his forearm now bordering on quake. He could not help but stare into the screen. Menace or no, the image was staring right back. Unflinching. Immutable. An unencumbered recursive.
 
 Fog.
 
@@ -210,7 +224,7 @@ Field.
 
 Fork.
 
-He remembered the unholy stillness of that long-ago night. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe—it made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they'd all agreed must go to ground that night.
+He remembered the unholy stillness of that long-ago night. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe. It made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they'd all agreed must go to ground that night.
 
 He could hear the click of the Polaroid afterwards… how long it took to develop. Celeste’s voice floating on air; freezing over the crystalline mist.
 
@@ -232,13 +246,15 @@ Then—quietly, and with unconscious intent—he reached out and touched the bla
 
 “Professor?” The voice rose from the front row, but it did not register to David. “Professor Lang?”
 
-Still nothing. His fingers—his entire body—now presented as inanimate, stuck, mired in the act of reaching back and wondering through time.
+Still nothing. His fingers, his entire body, now presented as inanimate; stuck, mired in the act of reaching back and wondering through time.
 
-The class sat poised on the edge of reaction—glassy-eyed—all crunching the same calculation. Was this a prank? Some kind of retribution for a class-wide lack of vigor? Or perhaps all was well—pedagogy in suspended motion—the point too clever by half. No one wanted to be the first to decide which.
+The class sat poised on the edge of reaction. Was he teaching or breaking? No one wanted to be the first to decide.
 
-A biology major auditing the course to fill a requirement found she had less fear or reverence for the subject of the frozen professor. She got up, walked around the edge of the bench, into the aisle, and marched right down to meet Lang’s frozen face. With a bravery that the remaining students found grotesquely admirable, she pressed her cheek against the blackboard, mirroring his sideways stare. Then with a tone suited to someone trying to speak through a windstorm shouted, “Will… this… be… on… the… mid…term… Professor?”
+A biology major auditing the course to fill a requirement found she had less fear or reverence for the subject of the frozen professor. She got up, walked around the edge of the bench, into the aisle, and marched right down to meet Lang’s frozen face. With a bravery that the remaining students found grotesquely admirable, she pressed her cheek against the blackboard, mirroring his sideways stare.
 
-David’s eyelid twitched. The stunt had worked—jolting him back to the present. His arm and hand released their frozen hold and fell to his side. And without moving his body further, he locked his eyes with hers, cracked an absurdly exaggerated grin, and with a ghoulish voice replied, “All concepts presented are… potentially examinable.”
+Then, with a tone suited to someone trying to speak through a windstorm, she shouted, “Will… this… be… on… the… mid…term… Professor?”
+
+David’s eyelid twitched. The stunt had worked—jolting him back into the room. His arm and hand released their frozen hold and fell to his side. And without moving his body further, he locked his eyes with hers, cracked an absurdly exaggerated grin, and with a ghoulish voice replied, “All concepts presented are… potentially examinable.”
 
 The tension shattered, students howled in laughter and relief. David dared not dwell on what he had just managed to wiggle out of.
 
@@ -248,29 +264,29 @@ More laughter, though some of it felt less than genuine. David checked the clock
 
 “I think I’ve put you all through enough for one day. Let’s end there, shall we?” he said. Then louder as the rustle of the end of things filled the air, “You’ll read Kozlowski’s ‘Sympathetic Structures’ for next time. Chapters two through six. Pay attention to the footnotes. The math is wrong, but the metaphors are sound.”
 
-Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung, when the world was young and full of promise. But now it had hardened into a badge of purity. He found it, if not admirable, at the very least, useful.
+Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung when the world was young and full of promise. But now it had hardened into a badge of purity. He found it, if not admirable, at the very least, useful.
 
-The TA, a graduate student, was the last to leave. She handed him her doodle-covered lecture notes, a veritable travel log of geometric non sequiturs that concluded with a thinly scribbled block of text that read, “Clever save, David. Everything alright?”
+The TA, a graduate student, was the last to leave. She handed him her doodle-covered lecture notes, a veritable travel log of geometric non-sequiturs that concluded with a thinly scribbled block of text that read, “Clever save, David. Everything alright?”
 
-Above the note of concern, something else—a crude declarative, only partially scribbled out—as if half intending to redact the words beneath, half to highlight them. It simply read, “WHAT THE FUCK?”
+Above the note of concern, something else: a crude declarative, only partially scribbled out, as if half intending to redact the words beneath, half to highlight them. It simply read, “WHAT THE FUCK?”
 
 David blinked, then swallowed, finally remembering to inhale. It was the perfect transcription of the debacle that had been the last hour and a half, and he knew it.
 
 As the last student exited and the door closed, he allowed his haunted gaze to drift towards the back of the hall. Winter light thinned to silver, stretching time in its wake as he looked out through the striated windows to the fall-frosted quad beyond.
 
-He could hear it… flowing under the benches, creeping and climbing up the tree trunks beyond, flowing through the rapid falls of water and ice. It was out there,  pacing, waiting for him; always patient, but now in punishment. The towering glass would not be protection enough—not remotely so. Whatever the source, whatever the reason, the message was clear. This chase was over. David knew it—felt it deep within. He could run no longer.
+He could hear it… flowing under the benches, creeping and climbing up the tree trunks beyond, flowing through the rapid falls of water and ice. It was out there, pacing, waiting for him; always patient, but now in punishment. The towering glass would not be protection enough. Whatever the source, whatever the reason, the message was clear. This chase was over. David knew it, felt it deep within. He could run no longer.
 
-He dashed back to the desk, grabbed a fresh eraser, and began obliterating the afternoon's wreckage. Chalk dust snowed over his oxfords like sand through an hourglass possessed of endless patience. In the haze of what he'd disappeared—in the instinct to distance himself from what he believed but couldn't defend—lay everything. Not just to salvage a lecture, but to reclaim the life that was promised him—that he was so certain was his birthright; a life now buried with the theories he'd abandoned twenty years ago.
+He dashed back to the desk, grabbed a fresh eraser, and began obliterating the afternoon’s wreckage. Chalk dust snowed over his oxfords like sand through an hourglass possessed of endless patience. In the instinct to erase what he believed but could not defend lay everything: not just the salvage of a lecture, but the life he had once thought his birthright, now buried with the theories he had abandoned twenty years ago.
 
-The clean boards now bore witness to an institutional truth: if it wasn’t declared in chalk, it hadn’t happened. Yet David stopped short of total erasure. Whether the choice came from bravery or foolishness, he could not say.
+The clean boards now bore witness to an institutional truth: if it wasn’t declared in chalk, it hadn’t happened. Yet David stopped short of total erasure.
 
-He stepped back, staring at the declaration. The backs of his knees struck the front bench, and his body yielded at once to the prompt. He sat, let his weight surrender the effort of holding itself upright, and within moments slipped into the kind of late-afternoon sleep that overtakes the overworked and the defeated.
+He stepped back, staring at the declaration. The backs of his knees struck the front bench, and his body yielded at once. He sat and, within moments, slipped into the late-afternoon sleep of the overworked and the defeated.
 
-Hours later he awoke slumped over in the front row, his neck cramped against the bench. The words remained on the board, gleaming white against the dull black surface.
+Hours later he awoke slumped in the front row, his neck cramped against the bench. The words remained on the board, gleaming white against the dull black surface.
 
-David sat there, gazing, lingering, wondering… when a shadow in the doorway caught his eye.
+David sat there, gazing, lingering, wondering, when a shadow in the doorway caught his eye.
 
-“Do my eyes deceive, or is that Professor David Lang, still here on a Tuesday…and at moping hour?”
+“Do my eyes deceive, or is that Professor David Lang, still here on a Thursday…and at moping hour?”
 
 “Your eyes are true, Ralph. Evening.”
 
@@ -278,11 +294,9 @@ David sat there, gazing, lingering, wondering… when a shadow in the doorway ca
 
 Ralph stepped gently into the room, dragging his cart in tow.
 
-“Yes sir. Even ran the math for you. Remember? What was it?”
+David smiled softly. “You were right, of course.”
 
-“Yes, eighty-six percent of the time. You were right, of course.”
-
-“That’s it, yeah. Eighty-six percent of the time, Tuesday evening rounds—Professor Lang’ll be fast asleep in his big, important Feynman chair, dreaming of chalkboards.”
+“Thursday evening rounds: Professor Lang’ll be fast asleep in his big, important Feynman chair, dreaming of chalkboards.”
 
 David chuckled, exhausted and amused. As Ralph approached, David held out a twenty, pinched between two fingers.
 
@@ -302,11 +316,11 @@ Resonance = Survival.
 
 “Come on, Ralph. Out with it.”
 
-“Resonance builds up. Makes things more than the sum of their parts, right? Makes ‘em dangerous. So, I guess if I’m resonance, then, yeah… I equal survival. I don’t know. What do you think? You’re the professor.”
+“Well, as I understand it, resonance builds up. Makes things more than what they are, right? Makes ‘em powerful. Dangerous. So, I guess if I’m resonance, then, yeah… I equal survival. I don’t know. What do you think? You’re the professor.”
 
 “Honestly, I’ve no earthly idea anymore, my friend. Except that… maybe you should be the professor.”
 
-“You wanna trade this mop for that chalk?” He waved the idea off without even a second thought.b “Not on your life.”
+“You wanna trade mop for chalk?” He waved the idea off without even a second thought. “Not on your life.”
 
 “You’re a wise man, Ralph.”
 
@@ -314,11 +328,11 @@ Resonance = Survival.
 
 “Goodnight, Professor Lang. Watch those side roads tonight. Slick as thieves.”
 
-David flicked his fingers in acknowledgment—his reply curling away like cigarette smoke through a row of abandoned slot machines.
 
-As he collected his things in silence, that silence began collecting him. The hall of glass exhaled its last shards of daylight, casting him gently towards the slow-blackened hallway, and into the spinning world once more.
 
-Yet in the space between his lecture hall and the building's double doors—that long corridor of polished tile and flickering fluorescence—something shifted. Probabilities began to whirl and cry havoc.
+As he collected his things in silence, that same silence began its own collection in return. The hall of glass exhaled its last shards of daylight, casting him gently towards the slow-blackened hallway, and into the spinning world beyond.
+
+Yet in the space between his lecture hall and the building's double doors, that long corridor of polished tile and flickering fluorescence, something shifted. Probabilities began to whirl and cry havoc.
 
 The resignation and docility of acceptable scholastic procedure began crumbling all around him.
 
@@ -328,33 +342,29 @@ His pace quickened. The files were locked away! Password-protected. There was no
 
 And Rune.
 
-Forty-eight hours advance notice. University policy—evaluation requirements—Section 4.7 of the faculty handbook.
+Forty-eight hours advance notice. University policy:  evaluation requirements, Section 4.7 of the faculty handbook.
 
 The anger clarified with each step. Sharpened. By the time David hit the building's double doors and burst through into the quad, he was boiling.
 
-Snow attacked him immediately—fat flakes driving sideways in the wind—but couldn’t land. The moment they touched his coat, his face, his hair, they vaporized. Steam rose from his shoulders. The heat radiating off him turned the falling snow into a halo of negative space, flakes approaching and then repelling like he was magnetized wrong.
+Snow attacked him immediately. Fat flakes drove sideways in the wind, but couldn’t land. The moment they touched his coat, his face, his hair, they vaporized. Steam rose from his shoulders. The heat radiating off him turned the falling snow into a halo of negative space, flakes approaching and then repelling like he was magnetized wrong.
 
-He barely noticed. No, his mind was angling towards the office and files. And that noise… the frequency… was this some sort of cruel joke? 68.48 Hz… That’s precisely the—
+He barely noticed. No, his mind was angling towards the office and files. And that noise… the frequency… How the hell could he know it, name it so precisely? 68.48 Hz… It wasn’t even a dead-on pitch. Almost C#2, sure. But, not exactly. Almost half the Fine-structure… Jesus, Lang. Don’t do that.
 
 Then, as if simply naming the thing out loud was enough to re-awaken the beast, the buzz returned.
 
-It was not gradual. It did not creep its way back. It came roaring, detonating in his inner ear like a depth charge—so sudden and violent he staggered mid-step, one oxford skidding on ice.
+It came roaring, detonating in his inner ear like a depth charge, so sudden and violent that he staggered mid-step, one oxford skidding on ice.
 
-“No. Not now!” He said it loud, though he had not intended to. “I'm done with you!” He screamed it into the night air.
-
-But the sound was clearly not done with him.
+“No. Get out.” He said it loud, though he had not intended to. “I'm done with you!” He was screaming into the night air. But the sound was clearly not done with him.
 
 It grew. Doubled. The air thickened with it—each breath pulling the vibration deeper into his lungs. His vision blurred at the edges. The snow, still falling, still repelled, created an impossible halo about his head, and through it he could feel the hum pulling.
 
-Directional now. Coming from—
-
-Ahead. Somewhere in the quad.
+Directional now. Coming from… ahead. Somewhere in the quad.
 
 David's rage shifted. Turned predatory.
 
 “Fine,” he yelled into the frigid night. “You want me to find you? I'll fucking find you!”
 
-He dredged out toward it—heading now away from his office—following the resonance like a blood trail. The hum intensified with each step. Not louder. Denser. His molars ached. His sternum vibrated. The frequency climbed into his sinuses, his eye sockets, the hollow spaces behind his ears.
+He dredged out toward it, heading now away from his office, following the resonance like a blood trail. The hum intensified with each step. Not louder. Denser. His molars ached. His sternum vibrated. The frequency climbed into his sinuses, his eye sockets, the hollow spaces behind his ears.
 
 Ten feet. Twenty. Thirty into the quad.
 
@@ -366,9 +376,9 @@ His shin struck iron.
 
 The bench materialized out of fury and snow—green paint weathered to gray-green, armrests pocked with rust, east-facing, twenty-eight feet off the main path.
 
-The hum wasn't coming from around it. It was coming from beneath it. Six feet down. Where the capsule had been sealed—buried with dirt and the collective certainty that some knowledge should stay buried.
+The hum wasn't coming from the bench, nor the surrounding grounds. It was coming from beneath. Below. Six feet down. Where the capsule had been sealed; buried with dirt and the collective certainty that some knowledge should stay buried.
 
-David stood there—chest heaving, snow evaporating off his coat—staring down at the iron armrest, the weathered slats, the frozen ground beneath.
+David stood there, chest heaving, snow evaporating off his coat, staring down at the iron armrest, the weathered slats, the frozen ground beneath.
 
 Twenty years in the earth, and it was still vibrating.
 
@@ -376,29 +386,25 @@ She'd said it would come back to them. He'd wanted to believe her then—needed 
 
 Until today.
 
-Now the hum was pushing at him. Compressing its wave deep within his skull. The oscillating dread-knot now hard-pressed against the very threshold of his sanity. David slammed his palms to his ears—the pressure building unchecked within him.
+Now the hum was pushing at him. Compressing its wave deep within his skull. The oscillating dread-knot now hard-pressed against the very threshold of his sanity. David slammed his palms to his ears, the pressure building unchecked within him.
 
 He would not allow it. It would not take him. Not after all this time.
 
 And then… it happened.
 
-Now… he didn’t mean to scream. He didn’t choose it. It wasn’t fear, or reason, or anything the mind could own. It rose from somewhere older—from a depth inside him that had no name.
-
-Not voice. Not thought. Just pressure. Memory without memory.
-
-And then: release.
+Now… he didn’t mean to scream. He didn’t choose it. It wasn’t fear, or reason, or anything the mind could own. It rose from somewhere older, from a depth inside him that had no name.
 
 A sound tore out of him so completely it stripped the world clean.
 
 The windows shuddered. The stone walls answered. Even the air flinched.
 
-And immediately, the hum—the awful, relentless hum—stopped.
+And immediately, the awful, relentless buzz, slid quickly down and out of his boned. The world went still. Silence blanketed the quad. Then, a whisper of wind, a cackling crow, a hint of distant laughter, of students in situ. He stood there in the snow, breath catching, throat scraped bare, not knowing what part of him had remembered how to make a sound like that.
 
-A silent moment passed over the quad. A whispering of wind. A cackling crow. The distant laughter of students in situ. He stood there in the snow, breath catching, throat scraped bare, not knowing what part of him had remembered how to make a sound like that.
+David turned from the site, rejecting its call, denying its pull on him. He forced his feet, begged his body to turn and walk.
 
-David turned from the site. Rejected its call—its pull on him. Forced his feet, his body to turn and walk… just start walking forward—away. Just… walk… away.
+Just start walking, Lang. Move it. Go.
 
-Behind him, the bench, and all that lay beneath, would be waiting now. Truth still had fire, it seemed—with fuel to burn. It had all returned. Clawed its way back just as Celeste said it would. It was time. And time, it seemed, would wait no longer.
+Behind him, the bench, and all that lay beneath, would be waiting now. Truth still had fire, with fuel to burn. It had all returned. Clawed its way back just as Celeste said it would. It was time. And time, it seemed, would wait no longer.
 
 
 
@@ -781,7 +787,7 @@ He shifted his gaze to the mirror above the mantel, studying a face assembled fr
 
 David raised his hand and with two fingers touched his own face in the glass. For one flickering moment, he felt he could see himself and his father separated in the mirror before him, could feel the touch on his actual cheek. But then… gone.
 
-His right iris contracted, catching some shift of light, and with it came a sudden photonic epiphany: his best work lived only in the liminal shimmer between tremolos and theorems, forever fleeing the act of observation. To document it was to lose it; to share it was to distort it. Perhaps that was the cruelty of his inheritance—not the burden of unfinished conversation, but the knowledge that some things are not meant for an audience.
+His right iris contracted, catching some shift of light, and with it came a sudden photonic epiphany: his best work lived only in the liminal shimmer between tremolos and theorems, forever fleeing the act of observation. To document it was to lose it; to share it was to distort it. Perhaps that was the cruelty of his inheritance, not the burden of unfinished conversation, but the knowledge that some things are not meant for an audience.
 
 By 2:47 a.m. the room had become a triangle of potentials. He stood equidistant from stove, chalkboard wall, and cello case—each a vertex, none resolved.
 
