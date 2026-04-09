@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-04-08",
-  "total_words": 105834,
+  "built": "2026-04-09",
+  "total_words": 105939,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -43,8 +43,8 @@
       "label": "Chapter 1",
       "title": "Opus No. 46  in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 10778,
-      "paragraph_count": 370,
+      "word_count": 10883,
+      "paragraph_count": 373,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt",
@@ -53,36 +53,36 @@
           "n": 1,
           "heading": "I.  THE CLASSROOM",
           "word_start": 7,
-          "word_end": 4349,
+          "word_end": 4453,
           "para_start": 2,
-          "para_end": 184,
+          "para_end": 187,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html"
         },
         {
           "n": 2,
           "heading": "II.  THE OFFICE",
-          "word_start": 4350,
-          "word_end": 6452,
-          "para_start": 185,
-          "para_end": 241,
+          "word_start": 4454,
+          "word_end": 6556,
+          "para_start": 188,
+          "para_end": 244,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
         },
         {
           "n": 3,
           "heading": "III.  THE REHEARSAL HALL",
-          "word_start": 6453,
-          "word_end": 9521,
-          "para_start": 242,
-          "para_end": 341,
+          "word_start": 6557,
+          "word_end": 9625,
+          "para_start": 245,
+          "para_end": 344,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
         },
         {
           "n": 4,
           "heading": "IV.  THE APARTMENT",
-          "word_start": 9522,
-          "word_end": 10778,
-          "para_start": 342,
-          "para_end": 370,
+          "word_start": 9626,
+          "word_end": 10883,
+          "para_start": 345,
+          "para_end": 373,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
         }
       ]
