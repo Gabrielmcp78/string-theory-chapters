@@ -8,14 +8,14 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      10,883
-Paragraph Count: 373
+Word Count:      10,898
+Paragraph Count: 376
 Scene Count:     4
 
-Scene 1: I.  THE CLASSROOM  --  Words 7–4,453  |  Paragraphs 2–187  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
-Scene 2: II.  THE OFFICE  --  Words 4,454–6,556  |  Paragraphs 188–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: III.  THE REHEARSAL HALL  --  Words 6,557–9,625  |  Paragraphs 245–344  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: IV.  THE APARTMENT  --  Words 9,626–10,883  |  Paragraphs 345–373  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 1: I.  THE CLASSROOM  --  Words 7–4,468  |  Paragraphs 2–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
+Scene 2: II.  THE OFFICE  --  Words 4,469–6,571  |  Paragraphs 191–247  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
+Scene 3: III.  THE REHEARSAL HALL  --  Words 6,572–9,640  |  Paragraphs 248–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: IV.  THE APARTMENT  --  Words 9,641–10,898  |  Paragraphs 348–376  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -36,19 +36,23 @@ The lecture hall, always five degrees too warm, was a quiet expanse of yellows a
 
 Of course, the hall was merely upholstery for the chair. And a very well-endowed one it was. David was the Feynman Chair of Quantum Dynamics at Cornell University—had been for nearly nineteen years. Though lately he could sense—in brittle emails, in the deflective eyes of students, in the way a chalk screech pierced from board to bone—that the title, once a reward, had become its own diagnosis: a public credential for a man in private decline.
 
-It wounded him from within—this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were.
+It wounded him from within, this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were.
 
 A brushed-metal plaque by the door marked David’s assignment to the post. The inscription highlighted the room’s design, claiming its “unique ornamentation” aimed to “soothe the psyche and elicit heightened states of mental acuity.”
 
 They said the same things about heroin for a hundred years.
 
-David’s voice—once confident and of dry wit—had lately taken on a more resigned, ingratiating timbre as he explained superposition to the drowsy air.
+David’s voice, once confident and of dry wit, had lately taken on a more resigned, ingratiating timbre as he explained superposition to the drowsy air.
 
 “Imagine,” he began, “a coin, already in your pocket. As long as its presence remains unknown, its value is… anyone?” Nothing. Not a sound. “Time’s up. Thank you for playing.”
 
-Though sixty-three students were on the roster, roll call revealed that, on this crystalline afternoon, only twenty-seven had deemed Professor Lang’s insights of greater value than a midday nap. Of these, David identified a mere thirteen who appeared present in any meaningful sense. A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.
+Though sixty-three students were on the roster, roll call revealed that, on this crystalline afternoon, only twenty-seven had deemed Professor Lang’s insights of greater value than a midday nap. Of these, David identified a mere thirteen who appeared present in any meaningful sense.
 
-“Indeterminate is your answer for those keeping score.” He looked about the room. Dead eyes everywhere. “Also indeterminate, I see. Okay. Well, fine. Only when your hand closes around it does the system collapse and a definite worth emerge. That’s when you learn whether you can afford a proper meal, or will have to settle for the usual pack of ramen noodles.”
+“Indeterminate is the answer for those of you keeping score.” He looked about the room. Dead eyes everywhere. “Also indeterminate, I see.”
+
+A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.
+
+“Okay. Well, fine. Only when your hand closes around this elusive coin does the system collapse and a definite worth emerge. That’s when you learn whether you can afford a proper meal, or will have to settle for the usual pack of ramen noodles.”
 
 A mild chuckle caught throughout the room.
 
@@ -62,7 +66,7 @@ Students began pointing at each other. A few, emboldened, even pointed at David.
 
 The room loosened. For a moment, they were with him.
 
-“That… that is the tyranny and the grace of superposition. Before you get involved: possibilities are endless. After you choose to engage: no choices left.”
+“That… that is the tyranny and the grace of superposition. Before you get involved: endless possibilities. After you choose to engage: no choices left.”
 
 They settled. The silence that followed was attentive, almost reverent. David let himself enjoy it, the faint rise of pride he did not bother to hide from himself. He had missed this. It used to come easier.
 
@@ -78,7 +82,7 @@ He turned back to the board before the moment could thin, his arm swinging wide 
 
 “This,” he tapped the Ψ, “is the whole wave function—the system. Everything that can be, all at once. A probability cloud, if you like metaphors, which I do.”
 
-He underlined the summation. “This sum—this Σ stacks up all the possible states the system could collapse into. Each|ϕᵢ⟩ is a state, a version of reality. The little cᵢ out front? That’s how likely each one is. Their weights. Their vote count, if you like democracy, which I do.”
+He underlined the summation. “This sum, this Σ stacks up all the possible states the system could collapse into. Each|ϕᵢ⟩ is a state, a version of reality. The little cᵢ out front? That’s how likely each one is. Their weights. Their vote count, if you like democracy, which I do.”
 
 He paused just a hair too long.
 
@@ -90,7 +94,7 @@ Now… he wasn’t sure if he’d actually said the word noise, or if, at that e
 
 A hum. No, a buzz. Deep, menacing, unforgiving. 68.48 Hz. Not a guess. The number came to him without warning, instantly, as if calculated somewhere else and then inserted into his head.
 
-The sound scraped deep into the soul of his belly—visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion.
+The sound scraped deep into the soul of his belly. It was visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion.
 
 They’d seen it. How could it be otherwise? And with that, the superposition of this lecture collapsed.
 
@@ -122,9 +126,11 @@ He ticked his head to one side, then the other. For no reason he could name, the
 
 “When the world resonates,” he said, voice gone soft and strange, “you feel less alone, even connected. Like there’s… structure underneath the noise. But drift just a little, and that structure collapses.”
 
-He looked over the room, then past them to the crazed glass towering above it, and closed his eyes. “There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
+He looked over the room, then past them to the crazed glass beyond, and closed his eyes.
 
-The silence screamed judgment. David opened his eyes, streaks of window light forcing him back into alignment.
+“There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
+
+The silence screamed judgment. As David opened his eyes, streaks of window light forced him back towards alignment.
 
 And then he saw him.
 
@@ -132,9 +138,9 @@ Dr. Rune Ishikawa.
 
 Standing. No, placed in the doorway. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
 
-Shit. He had no idea how long Rune had been standing there. No idea how much of that he’d heard.
+Shit. He had no idea how long Rune had been standing there. No idea how much he’d heard.
 
-David reset. A formal introduction was required; anything less would concede the room. He drew the necessary breath, but Rune was far too quick. Rune stepped in and took the polite breath from his lungs.
+David swallowed, hard, then reset. With the students staged between them, decorum required a formal introduction; anything less would concede the room. He drew the necessary breath, but Rune stepped in first and took it from him. The room followed the good doctor’s lead.
 
 “Are you not, in fact, describing… musical harmony, Professor Lang?”
 
@@ -142,7 +148,7 @@ David froze. Something inside him snapped taut. A tension string pulled too far,
 
 “No. No, I’m not, Rune. Christ! What an idiotic question.” He began careening back and forth. “Harmony is passive. It’s a fucking consequence. Resonance is physical. It builds.”
 
-“Oh, I see, so… ” and he smiled slyly, “vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”
+“Oh, I see, so…” and he smiled slyly, “vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”
 
 “Well, yes. I mean…” Lang had lost the thread.
 
