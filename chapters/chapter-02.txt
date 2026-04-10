@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,836
-Paragraph Count: 499
+Word Count:      8,850
+Paragraph Count: 494
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005  --  Words 243–1,276  |  Paragraphs 14–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,277–1,994  |  Paragraphs 72–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 1,995–2,495  |  Paragraphs 100–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day  --  Words 2,496–2,931  |  Paragraphs 138–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY - Present Day  --  Words 2,932–3,473  |  Paragraphs 168–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day  --  Words 3,474–5,620  |  Paragraphs 202–320  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005  --  Words 5,621–7,586  |  Paragraphs 321–432  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day  --  Words 7,587–8,060  |  Paragraphs 433–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day  --  Words 8,061–8,423  |  Paragraphs 453–472  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3  THE CORRIDOR  --  Words 8,424–8,708  |  Paragraphs 473–490  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 8,709–8,836  |  Paragraphs 491–499  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                   April 11, 2005  --  Words 243–1,296  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,297–2,019  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,020–2,522  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day  --  Words 2,523–2,963  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,964–3,504  |  Paragraphs 169–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,505–5,629  |  Paragraphs 203–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA   		    May 24, 2005  --  Words 5,630–7,600  |  Paragraphs 316–427  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day  --  Words 7,601–8,074  |  Paragraphs 428–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day  --  Words 8,075–8,437  |  Paragraphs 448–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3  THE CORRIDOR  --  Words 8,438–8,722  |  Paragraphs 468–485  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 8,723–8,850  |  Paragraphs 486–494  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -50,7 +50,6 @@ WELCOME TO THE NORTH EASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
 
 NO FOOD. NO DRINK. NO QUESTIONS.
 
-
 A persistent though fluctuant hum threaded through the vents, carrying a narrow interval he couldn’t place. The forty-six-minute ride lasted twelve minutes according to the onboard display, and forty-seven according to David’s watch. He found no reason to trust either.
 
 Across the aisle, a young postdoc held her laptop open to a half-completed grant proposal. The progress bar had been stuck at fourteen percent for the duration of the ride, though no uploads were in progress.
@@ -70,7 +69,9 @@ I.2   ANSWER   |   MIT - Boston, MA                            April 11, 2005
 
 “You’re not listening,” David said. “I’m not saying music is mathematics. I’m saying they’re dialects. Same language. Different mouths.”
 
-Marcus sprawled across the single chair he’d commandeered, legs draped over one arm, beer balanced on his chest with the casual entitlement of someone who’d never doubted his place in a room. “Dialects.” He let the word hang, flat and unimpressed. “And what’s the native tongue, then? What’s the ur-language they’re both bastardizing?”
+Marcus sprawled across the single chair he’d commandeered, legs draped over one arm, beer balanced on his chest with the casual entitlement of someone who’d never doubted his place in a room.
+
+“Dialects.” He let the word hang, flat and unimpressed. “And what’s the native tongue, then? What’s the ur-language they’re both bastardizing?”
 
 “Consciousness.”
 
@@ -78,9 +79,9 @@ Marcus snorted. “Jesus Christ.”
 
 “I’m serious.”
 
-“Oh, I know you’re serious. That’s the problem.” Marcus swung his legs down, suddenly alert. “You’re always serious about the most dangerous possible thing you could be serious about. It’s like watching someone juggle grenades and congratulate themselves for their hand-eye coordination.”
+“Oh, I know you’re serious, Dave. That’s the problem.” Marcus swung his legs down, suddenly alert. “You’re always serious about the most dangerous possible thing you could be serious about. It’s like watching someone juggle grenades and congratulate themselves for their hand-eye coordination.”
 
-Celeste sat on the floor opposite David, her back against the radiator that clanked arrhythmically—a percussive commentary she’d long since stopped noticing. She held her beer with both hands, the way someone cradles a warm cup in winter. Watching. Always watching first.
+Celeste sat on the floor opposite David, her back against the radiator that clanked arrhythmically. It was a percussive commentary she’d long since stopped noticing. She held her beer with both hands, the way someone cradles a warm cup in winter. Watching. Always watching first.
 
 “What’s dangerous about it?” she asked.
 
@@ -90,31 +91,31 @@ Celeste sat on the floor opposite David, her back against the radiator that clan
 
 “Unemployed.”
 
-David’s jaw tightened. “You’re reducing it—”
+David’s jaw tightened. “You’re reducing it.”
 
-“I’m not reducing anything. You’re inflating. There’s a difference.” Marcus jabbed a finger toward him. “You want to know what kills careers, David? Not being wrong. Being right about something nobody’s ready to hear. And you don’t have the patience for that. You want the revelation now. You want to skip the thirty years of proving yourself and jump straight to the Nobel speech.”
+“I’m not reducing anything. You’re inflating. There’s a difference.” Marcus jabbed a finger toward him. “You want to know what kills careers, David? It’s not being wrong. Being right about something nobody’s ready to hear. And you don’t have the patience for that. You want the revelation now. You want to skip the thirty years of proving yourself and jump straight to the Nobel speech.”
 
 “That’s not—”
 
-“It is. It absolutely is. I’ve known you for two years. You’re the smartest person I’ve ever met with absolutely no survival instinct for academia.”
+“It is, man. It absolutely is. I’ve known you for two years. You’re the smartest person I’ve ever met with absolutely no survival instinct for academia.”
 
 “Maybe academia should work differently.”
 
 “Maybe.” Marcus stood, pacing now, the small room forcing him into a tight loop. “Maybe it should. But it doesn’t. And you know what happens to people who try to change it from the outside? Nothing. They become footnotes. Crackpots. That guy who could have done something if he’d just played the game. Put in the time. Earned the right to break the rules.”
 
-Celeste watched David’s face—the way his eyes went unfocused when he was running internal calculations, the micro-twitch at the corner of his mouth that meant he was suppressing something.
+Celeste watched David’s face: the way his eyes went unfocused when he was running internal calculations, the micro-twitch at the corner of his mouth that meant he was suppressing something.
 
-“You think I want to play games,” David said quietly.
+“You think I want to play games,” David said, indignantly.
 
 “Christ, David. You really don’t get it, do you? These aren’t games! They’re gates. You can’t get to the interesting work without passing through them first.”
 
 “And if the gates are designed to filter out exactly the kind of thinking that might actually—”
 
-“Then you beat them.” Marcus was in David’s space now, looming. “You beat them at their own game, and then you flip the table. That’s how revolutions work. Not from some grad student’s dorm room with a half-baked theory about consciousness and music and—what—harmonics?”
+“Then you beat them.” Marcus was in David’s space now, looming. “You beat them at their own game, and then you flip the table. Last I checked, that’s how revolutions work. Not from some grad student’s dorm room with a half-baked theory about consciousness and music and… what? Harmonics?”
 
 “Resonance.”
 
-“Resonance.” Marcus laughed, but it wasn’t kind. “You want to publish a paper on resonance and expect anyone to take you seriously?”
+“Resonance?” Marcus laughed, but it wasn’t kind. “You want to publish a paper on resonance and expect anyone to take you seriously?”
 
 David was on his feet before Celeste could react. “You don’t get to decide what’s serious.”
 
@@ -122,11 +123,11 @@ David was on his feet before Celeste could react. “You don’t get to decide w
 
 They were chest to chest now, or close enough—Marcus had three inches on him, a fact he’d never once made David feel until this moment. David’s hands were balled. Marcus’s chin was lifted, daring.
 
-“Hey.” Celeste’s voice cut through like a tuning fork. Sharp. Singular.
+“Hey.” Celeste’s voice cut through like a lightning bolt. Sharp. Singular.
 
 They both turned.
 
-She hadn’t moved from the floor, but something in her posture had shifted—a stillness that demanded attention precisely because it refused to compete for it.
+She hadn’t moved from the floor, but something in her posture had shifted: a stillness that demanded attention precisely because it refused to compete for it.
 
 “Sit down.” Not a request. “Both of you.”
 
@@ -146,7 +147,7 @@ Marcus crossed his arms. “Explain.”
 
 David exhaled. Celeste held up a hand.
 
-“And Marcus is right that it doesn’t matter. Not yet. At least, not the way you want it to matter. You can’t storm the gates with a manifesto. You have to earn the right to be taken seriously. It takes time, David… and  compromise. And I know, compromise feels like betrayal when you think you can see something nobody else can see.”
+“And Marcus is also right that it doesn’t matter. Not yet. At least, not the way you want it to matter. No one in their right mind storms the gates with a manifesto. You have to earn the right to be taken seriously. It takes time, David… and compromise. And I know, compromise feels like betrayal when you think you can see something nobody else can see.”
 
 “I can see something nobody else—”
 
@@ -174,7 +175,7 @@ Marcus raised his beer in something that was almost a toast, but was undeniably 
 
 “To the lunatics.”
 
-David looked at him. Something passed between them—old resentment meeting older affection—and finally, finally, his shoulders dropped.
+David looked at him. Something passed between them; old resentment meeting older affection. And finally… finally, his shoulders dropped.
 
 “To the lunatics.”
 
@@ -197,15 +198,15 @@ David hovered before deciding he belonged in the H–R line, though the voluntee
 
 The exhibitor hall buzzed with intellectual self-importance. Posters leaned on collapsible frames, each promising incremental advances in fields that seemed to repel one another. A theorist lectured animatedly to a graduate student who nodded while staring into the middle distance. Someone dropped a stack of pamphlets advertising a paid workshop on interdisciplinary synergy; no one offered to help.
 
-A senior physicist explained topological insulators to his winter coat. The coat seemed unwilling to change its mind.
+A senior physicist explained topological insulators to his winter coat. But the coat seemed unwilling to change its mind.
 
 David kept hearing the same hum from the shuttle whispered through the projector fans, carrying the same unresolved interval. He listened to the opening plenary with the attention one reserves for a fire alarm test: dutiful, doubtful, already bracing for the second round.
 
 His own talk was scheduled for the late afternoon. Location: The Morning Room. He wanted to believe this meant nothing, but he was beginning to find himself less and less convincing.
 
-He couldn’t be the only one to hear it, could he? His head was racing. He could feel the frequency flutter up out of the objects he’d blamed—it had overtone resonance now—enough that he couldn’t tell which frequency was origin and which was harmonic.
+He couldn’t be the only one to hear it, could he? His head was racing. He could feel the frequency flutter up out of the objects he’d blamed. It had overtone resonance now, enough that he couldn’t tell which frequency was origin and which was harmonic.
 
-He grabbed a ‘Local Tourist Info’ brochure from the front desk and began to sketch the harmonic relationships on the rear panel.
+At the front desk, he grabbed a ‘Local Tourist Info’ brochure and began to sketch the harmonic relationships on the rear panel.
 
 The moment the concierge handed him a pen, yet another source, ambient and unknown, joined the chorus at precisely 137.28 Hz.
 
@@ -221,13 +222,13 @@ Kline looked up.
 
 Their eyes met.
 
-For exactly 4.47 seconds, neither moved. David watched his own name flood Kline’s face. The cascading effect: first confusion, then clarity, then something that looked like dread.
+For exactly 4.47 seconds, neither moved. David watched his own name flood Kline’s face. The cascading effect: first confusion, then clarity, then something that looked remarkably like dread.
 
 Kline turned sharply, unwilling to risk a casual, even knowing second glance. He fumbled his program, flapping at it twice as it escaped his grip and fell to the ground. Then, with a sweep to the floor that flat out looked like distaste, he reared the item of his perturbation and stormed toward the opposite corridor with the stride of a man who had just remembered an urgent appointment that never was.
 
 The phone at the registration desk rang out. Two octaves above the root frequency. David heard it before it happened—or maybe it had been ringing all along and only now achieved audibility.
 
-Either way, exactly as the ring octivated upwards, David swore he saw Dr. Kline jerk forward, as if someone had yanked a wire running through his spine. He caught himself against the doorframe—one hand shooting out, program fluttering to the floor. He froze there for half a breath.
+Either way, exactly as the ring octavated upwards, David swore he saw Dr. Kline jerk forward, as if someone had yanked a wire running through his spine. He caught himself against the doorframe, one hand shooting out, program fluttering to the floor. He froze there for half a breath.
 
 Then slowly, intentionally, desiring exactly no one to have reason to notice, he straightened. Picked up the program without looking at it. And disappeared down the opposing corridor.
 
@@ -261,7 +262,7 @@ Celeste’s voice hit the line like a rupture.
 
 “Dr. Kline.”
 
-A pause. Then her breath hitched—a soft, involuntary intake, as if the floor beneath her had shifted.
+A pause. Then her breath hitched. A soft, involuntary intake, as if the floor beneath her had shifted.
 
 “David… you didn’t. Not the data?”
 
@@ -297,7 +298,7 @@ David could hear him pacing, the voice jerking sideways as Marcus turned on Cele
 
 “Your boy just dragged us off a cliff.”
 
-“Marcus, listen to me. It’s going to be okay. You have to trust—”
+“Marcus, listen to me. It’s going to be okay. You have to trust me.”
 
 “Trust you?” Marcus snapped. “After this? No. No more. I’m not doing this over the phone. Get your ass home. Now. Before you wipe out another wing of science and take our careers with you.”
 
@@ -339,7 +340,7 @@ INSTRUMENT REPAIRS. CONSULTATIONS.
 QUIET. YOU CAN HEAR IT, YES?
 
 
-He stared through the window like a child before a toy shop but did not enter. Just stood—mid-gaze, mid-thought, perhaps no thought at all.
+He stared through the window like a child before a toy shop but did not enter. Just stood, mid-gaze, mid-thought, perhaps no thought at all.
 
 The proprietor, an older woman with kind, piercing eyes, saw him lingering and shuffled towards the door.
 
@@ -347,7 +348,7 @@ The proprietor, an older woman with kind, piercing eyes, saw him lingering and s
 
 The air in the shop smelled of cedar oil, brass polish, and long-kept vows.
 
-A viola lay open-bodied on the counter, its belly split like a confession. Nearby, a cracked cello rib rested on linen—patient, poised for repair.
+A viola lay open-bodied on the counter, its belly split like a confession. Nearby, a cracked cello rib rested on linen, patient and poised for repair.
 
 She gestured for him to look around, then returned to restringing the viola.
 
@@ -369,7 +370,7 @@ She paused. “Do you… have a cello in for repair?”
 
 “How did you know I played the… cello?”
 
-She smiled but made no answer. Whatever lay in her pocket, however, did—a faint, low shimmer rooting the same thin interval he’d heard since the shuttle. He moved toward the sound, but as he neared, it stilled. Silenced.
+She smiled but made no answer. Whatever lay in her pocket, however, answered with a faint, low shimmer, rooting the same thin interval he’d heard since the shuttle. He moved toward the sound, but as he neared, it stilled. Silenced.
 
 Something in him contracted, then softened—like memory returning in a language he no longer spoke.
 
@@ -390,7 +391,7 @@ He lingered longer than he meant. Saw less than he wanted. He left quieter than 
 
 
 
-II.2   THE WORKSHOP   |   Buffalo, NY - Present Day
+II.2   THE WORKSHOP   |   Buffalo, NY
 
 [Largo irreale]
 
@@ -398,7 +399,7 @@ II.2   THE WORKSHOP   |   Buffalo, NY - Present Day
 
 The signage ended at Room 6D.
 
-Room 7B wasn’t listed. David found it by accidental inattention—half a floor past logic, behind a door that stuck before yielding with a sound like paperwork being forcibly approved. The number was written in pencil. Faint. Unsigned.
+Room 7B wasn’t listed. David found it by accidental inattention, half a floor past logic, behind a door that stuck before yielding with a sound like paperwork being forcibly approved. The number was written in pencil. Faint. Unsigned.
 
 Inside: twelve chairs, arranged in a hesitant oval. No one looked like they had chosen their seat. No one seemed as if they remembered how they’d gotten there.
 
@@ -454,14 +455,14 @@ The woman collected the forms without looking at them. When she approached to co
 
 NON-COMPLIANT, and left the room without a goodbye. Her shape already fading, as if memory were erasing her in real time.
 
-David looked down. His form was blank—it remained uncollected. His pen was dry—he didn’t know if this was on purpose, or in protest.
+David looked down. His form was blank—it remained uncollected. His pen was dry. He didn’t know if this was on purpose, or in protest.
 
 Had he stayed the whole time? He wasn’t entirely sure. By the time he looked up from the page, it was empty. The room. He was the only person left.
 
 
 
 
-II.3   THE HOTEL ROOM   |   Buffalo, NY - Present Day
+II.3   THE HOTEL ROOM   |   Buffalo, NY
 
 [Andante luminoso]
 
@@ -481,9 +482,7 @@ He drew the bow from the case and tightened it slowly.
 
 The first open C entered the room and stayed there. Not louder than expected. Deeper. It passed beneath the vent hum and found it. The two frequencies did not merge. They approached. Hovered. The contact point shivered just outside coherence—enough to raise the hair along his forearms.
 
-He played the note again, holding it longer.
-
-A page on the desk shifted a quarter inch. A water glass on the nightstand drew a minute ring along its inner surface. Somewhere in the wall a cheap screw answered with a sympathetic rattle. The room had not come into tune. It had revealed the degree to which it wanted to.
+When he played the note again, a page on the desk shifted a quarter inch. A water glass on the nightstand drew a minute ring along its inner surface. Somewhere in the wall a cheap screw answered with a sympathetic rattle. The room had not come into tune. It had revealed the degree to which it wanted to.
 
 He shifted to G, then back to C, then took the octave above. The cello answered with something that felt less like projection than recognition. His sternum vibrated. In the afterring he could almost hear some thinner structure pressing toward form and stopping just short of it.
 
@@ -493,9 +492,7 @@ On the desk, one of his conference pages had shifted enough to expose a penciled
 
 The hum in the room thickened, or his hearing moved closer to its center. He raised the bow again and played a stopped fifth against the open string. For one held instant the instrument seemed to gather itself inward. The lamp filament thinned to a thread. His notes on the desk drew into rough order as if touched by a draft too subtle to feel and too precise to dismiss.
 
-Then the alignment broke.
-
-The note fell back into ordinary decay. The vent resumed its mechanical breathing. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
+Then the alignment broke, falling back into ordinary decay, as the vent resumed its mechanical breathing. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
 
 He lowered the bow and stood very still, listening to the residue.
 
@@ -505,9 +502,7 @@ REPAIR SHOP FOR STRINGS. E. Guare, Proprietor.
 
 Cream stock. Black ink. No ornament. In fact, no other markings of any kind. This card assumed you either knew where to go or never would.
 
-Buffalo. Shop. Cello.
-
-He lifted the instrument toward the lamp and angled the treble f-hole into the light. The maker’s label sat where it always had. Behind it, deeper in the cavity, something caught the yellow spill: a narrow repair strip glued to the inner rib. The graphite had faded at the edges, the hand softening where time had thinned it. What he could make out, holding the cello there under the lamp, was this:
+He lifted the instrument toward the lamp and angled the treble f-hole into the light. The maker’s label sat where it always had. Behind it, deeper in the cavity, something caught the yellow spill: a narrow repair strip glued to the inner rib. The graphite had faded at the edges, hand softening where time had thinned it. What he could make out, holding the cello there under the lamp, was this:
 
 BFL 11/85. C.G. for C.L.
 
@@ -525,7 +520,7 @@ Call Mom.
 
 No. Jesus. She’d be dead asleep.
 
-Still—C.L. In the cello. Buffalo, 1985. Nothing about it seemed right, but there it was.
+Still, C.L. In the cello. Buffalo, 1985. Nothing about it seemed right, but there it was.
 
 He turned toward the chair and started digging through the conference duffel. There had been a penlight in the swag somewhere, buried under brochures and branded junk. If he could find the thing, he could take a proper look before he called and risked sounding insane.
 
@@ -539,23 +534,23 @@ For one unsettled instant the timing itself seemed to answer him. Then he lunged
 
 “Oh good, I didn’t wake you.”
 
-“Mother, I haven’t gone to sleep before 11pm since I was five years old. You didn’t wake me. I barely start breathing by this time of day.”
+“Mother, I haven’t gone to sleep before 11pm since I was five years old. No, you didn’t wake me. I barely start breathing by this time of day.”
 
 A slight giggle. “Well that settles it,” she said, apparently to no one at all.
 
 He closed his eyes. “Mom, you are in the middle of someone else’s conversation again.”
 
-“What? Oh—yes. Sorry, sweetheart.” A pause. “Well, I was trying to decide if I should just call and tell you about this…”
+“What? Oh, yes. Sorry, sweetheart.” A pause. “Well, I was trying to decide if I should just call and tell you about this.”
 
 He sat down on the edge of the bed. “Funny. I was just standing here wondering if I should call you.”
 
-“Well then,” she said, “I’ve saved you the trouble. So what’s the skinny. ”
+“Well then,” she said, “I’ve saved you the trouble. So what’s the skinny, darling.”
 
-He looked back at the open cello, the f-hole turned slightly toward the lamp like an opened mouth. Well, I’m not sure I just  fell into this tonight but, mom did you ever have any work done on my cello?”
+He looked back at the open cello, the f-hole turned slightly toward the lamp like an opened mouth. Well, I’m not sure I just  fell into this tonight but, mom, did you ever have any work done on my cello?”
 
 “Me? David, darling. This soprano has never touched a stringed instrument in her life! What makes you think…”
 
-“Well there is a… a luthier's log slip pasted inside, I’ve never noticed it until now but it bears your initials C.L.”
+“Well, there is a… a luthier's log slip pasted inside, I’ve never noticed it until now, but it bears your initials, C.L.”
 
 “In the cello?”
 
@@ -575,7 +570,7 @@ Then faintly, Cassie’s familiar self-murmur began to bleed through the silence
 
 “What’s not?”
 
-“The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” A breath. “No, sweetheart. The cello was Elliot’s thing. I mean, I remember he bought it for you, worked out the whole plan with you father when you were barely 4… maybe 5. It was years before I allowed the two of them to actually give it to you. I was sure the thing would crush my baby whole.”
+“The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” A breath. “No, sweetheart. The cello was your grandfather’s thing. I mean, I remember he bought it for you, worked out the whole plan with you father when you were barely 4… maybe 5. It was years before I allowed the two of them to actually give it to you. I was sure the thing would crush my baby whole.”
 
 
 
@@ -587,7 +582,7 @@ His hand tightened around the repair slip. “What is it?”
 
 She did not need to say which Bach. Arthur had kept one score of the Suites always by his chair, its pages thick with years of pencil.
 
-“I was looking for something else,” she said. “I opened it because I thought maybe there’d be a note, something he’d written to me in the margins I’d never noticed. And I found this folded paper tucked inside the Prelude. Staff paper. One line. Eight bars. In his hand, but not his usual hand—careful, like he was copying something. At the bottom he wrote: E.L. — heard this once.”
+“I was looking for something else,” she said. “I opened it because I thought maybe there’d be a note, something he’d written to me in the margins I’d never noticed. And I found this folded paper tucked inside the Prelude. Staff paper. There’s just one line here, really. Eight bars. In his hand, but not his usual hand. It was careful, like he was copying something. At the bottom he wrote: E.L. — heard this once.”
 
 David’s breath stopped.
 
@@ -685,19 +680,13 @@ Another silence.
 
 The line clicked quiet.
 
-He sat on the edge of the bed, the slip in one hand, the phone warm in the other. The melody moved through his mind the way it always had—wandering, unresolved, never quite landing. He had fallen asleep to it a thousand times. He had never once thought to ask where it entered the world.
+He sat on the edge of the bed, the slip in one hand, the phone warm in the other. The melody moved through his mind the way it always had: wandering, unresolved, never quite landing. He had fallen asleep to it a thousand times. He had never once thought to ask where it entered the world.
 
-He wrote what he could before the thought thinned:
-
-Buffalo. November 1985. E.G. for E.L. internal adjustment — responsive body / incomplete trigger?
-
-He stopped there.
-
-The cello lay open at the foot of the bed. Something had moved from atmosphere into fact, and fact—however partial—carried its own narcotic authority.
+The cello lay open at the foot of the bed. Something had moved from atmosphere into fact, and fact, however partial, carried its own narcotic authority.
 
 David lay back, the slip pressed against his chest, and let the room take him.
 
-And then: firelight, ash lifting on wind, a yard bright with ruin.
+And then: firelight, ash lifting on wind, a field bright with ruin.
 
 
 
@@ -706,7 +695,7 @@ EPISODE II
 
 III.  THE FIREBIRDS   |   MIT - Boston, MA         May 24, 2005
 
-[Furioso tragico]
+[Furioso tragico      21 years ago]
 
 [|  Suppression  |]
 
@@ -718,13 +707,13 @@ David didn’t think. He was out of the car and across the grass before the park
 
 “Marcus!” He screamed, desperation into the blazing night. “Marcus, no!”
 
-Marcus didn’t look back. He reached into the box and lifted a notebook, already warping in the heat. He held it out—dangling it over the pit as if to force a confession from every line of ink.
+Marcus didn’t look back. He reached into the box and lifted a notebook, already warping in the heat. He held it out, dangling it over the pit as if to force a confession from every line of ink.
 
 David reached for it, but he was far too slow. Pulling it back, with a mocking breath, Marcus held… and then let it fall into the flames. The pages caught instantly. Ink dissolved before David could process what he’d lost.
 
 He switched focus and lunged for the box and what remained of the fever dreams of the endangered treatise. As Marcus stepped in front of him, the box tipped, spilling drafts and notes across the ground. Some caught fire immediately; others lifted and scattered on the wind like birds fleeing the impact of a gunshot.
 
-He dropped to his knees, grabbing whatever came within reach—Marcus’s annotations, Celeste’s harmonic interval notes, pieces of the early proof. Dirt smudged the edges, firelight flickered across the equations, and something in his chest cracked wider than the burn pit.
+He dropped to his knees, grabbing whatever came within reach: Marcus’ annotations, Celeste’s harmonic interval notes, pieces of the early proof. Dirt smudged the edges, firelight flickered across the equations, and something in his chest cracked wider than the burn pit.
 
 He looked up at Marcus, papers shaking in his hands.
 
