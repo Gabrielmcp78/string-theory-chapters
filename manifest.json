@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-04-11",
-  "total_words": 106072,
+  "total_words": 106156,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -43,47 +43,92 @@
       "label": "Chapter 1",
       "title": "Opus No. 46  in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 11002,
-      "paragraph_count": 385,
-      "scene_count": 4,
+      "word_count": 11022,
+      "paragraph_count": 395,
+      "scene_count": 9,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt",
       "scenes": [
         {
           "n": 1,
-          "heading": "I.  THE CLASSROOM",
+          "heading": "MOVEMENTS",
           "word_start": 7,
-          "word_end": 4490,
+          "word_end": 20,
           "para_start": 2,
-          "para_end": 194,
+          "para_end": 6,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html"
         },
         {
           "n": 2,
-          "heading": "II.  THE OFFICE",
-          "word_start": 4491,
-          "word_end": 6635,
-          "para_start": 195,
-          "para_end": 253,
+          "heading": "I",
+          "word_start": 21,
+          "word_end": 21,
+          "para_start": 7,
+          "para_end": 7,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
         },
         {
           "n": 3,
-          "heading": "III.  THE REHEARSAL HALL",
-          "word_start": 6636,
-          "word_end": 9737,
-          "para_start": 254,
-          "para_end": 355,
+          "heading": "THE CLASSROOM",
+          "word_start": 22,
+          "word_end": 4508,
+          "para_start": 8,
+          "para_end": 201,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
         },
         {
           "n": 4,
-          "heading": "IV.  THE APARTMENT",
-          "word_start": 9738,
-          "word_end": 11002,
-          "para_start": 356,
-          "para_end": 385,
+          "heading": "II",
+          "word_start": 4509,
+          "word_end": 4509,
+          "para_start": 202,
+          "para_end": 202,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "THE OFFICE",
+          "word_start": 4510,
+          "word_end": 6653,
+          "para_start": 203,
+          "para_end": 261,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "III",
+          "word_start": 6654,
+          "word_end": 6654,
+          "para_start": 262,
+          "para_end": 262,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "THE REHEARSAL HALL",
+          "word_start": 6655,
+          "word_end": 9757,
+          "para_start": 263,
+          "para_end": 364,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "IV",
+          "word_start": 9758,
+          "word_end": 9758,
+          "para_start": 365,
+          "para_end": 365,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html"
+        },
+        {
+          "n": 9,
+          "heading": "THE APARTMENT",
+          "word_start": 9759,
+          "word_end": 11022,
+          "para_start": 366,
+          "para_end": 395,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html"
         }
       ]
     },
@@ -93,7 +138,7 @@
       "label": "Chapter 2",
       "title": "The Edge of Discovery",
       "subtitle": "an epistemic fugue in four voices",
-      "word_count": 8850,
+      "word_count": 8849,
       "paragraph_count": 494,
       "scene_count": 12,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
@@ -110,7 +155,7 @@
         },
         {
           "n": 2,
-          "heading": "I.2   ANSWER   |   MIT - Boston, MA       \t                   April 11, 2005",
+          "heading": "I.2   ANSWER   |   MIT - Boston, MA       \t                 April 11, 2005",
           "word_start": 243,
           "word_end": 1296,
           "para_start": 14,
@@ -137,7 +182,7 @@
         },
         {
           "n": 5,
-          "heading": "II.1   THE INSTRUMENT SHOP   |   Buffalo, NY             Present Day",
+          "heading": "II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day",
           "word_start": 2523,
           "word_end": 2963,
           "para_start": 139,
@@ -164,7 +209,7 @@
         },
         {
           "n": 8,
-          "heading": "III.  THE FIREBIRDS   |   MIT - Boston, MA   \t\t    May 24, 2005",
+          "heading": "III.  THE FIREBIRDS   |   MIT - Boston, MA  \t    May 24, 2005",
           "word_start": 5630,
           "word_end": 7600,
           "para_start": 316,
@@ -173,18 +218,18 @@
         },
         {
           "n": 9,
-          "heading": "IV.1   DISSOLUTION   |   Cornell - Ithaca, NY - Present Day",
+          "heading": "IV.1   DISSOLUTION   |   Cornell - Ithaca, NY \t      Present Day",
           "word_start": 7601,
-          "word_end": 8074,
+          "word_end": 8073,
           "para_start": 428,
           "para_end": 447,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html"
         },
         {
           "n": 10,
-          "heading": "IV.2   THE CLASSROOM   |   Cornell - Ithaca, NY               Present Day",
-          "word_start": 8075,
-          "word_end": 8437,
+          "heading": "IV.2   THE CLASSROOM   |  Cornell - Ithaca, NY            Present Day",
+          "word_start": 8074,
+          "word_end": 8436,
           "para_start": 448,
           "para_end": 467,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html"
@@ -192,8 +237,8 @@
         {
           "n": 11,
           "heading": "IV.3  THE CORRIDOR",
-          "word_start": 8438,
-          "word_end": 8722,
+          "word_start": 8437,
+          "word_end": 8721,
           "para_start": 468,
           "para_end": 485,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html"
@@ -201,8 +246,8 @@
         {
           "n": 12,
           "heading": "V.   RECOGNITION",
-          "word_start": 8723,
-          "word_end": 8850,
+          "word_start": 8722,
+          "word_end": 8849,
           "para_start": 486,
           "para_end": 494,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html"
@@ -215,7 +260,7 @@
       "label": "Chapter 3",
       "title": "Fruitful Eve, False Dawn, Fateful Night",
       "subtitle": "a secular passion in eight movements",
-      "word_count": 5351,
+      "word_count": 5353,
       "paragraph_count": 226,
       "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html",
@@ -270,7 +315,7 @@
           "n": 6,
           "heading": "VI.  Crucifixio   |   It takes a Beating",
           "word_start": 3464,
-          "word_end": 3885,
+          "word_end": 3886,
           "para_start": 146,
           "para_end": 163,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html"
@@ -278,8 +323,8 @@
         {
           "n": 7,
           "heading": "VII.  Depositio / Sepultura   |  Up From the Depths",
-          "word_start": 3886,
-          "word_end": 4650,
+          "word_start": 3887,
+          "word_end": 4652,
           "para_start": 164,
           "para_end": 204,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html"
@@ -287,8 +332,8 @@
         {
           "n": 8,
           "heading": "VIII.  Reliquia   |   Up From the Depths",
-          "word_start": 4651,
-          "word_end": 5351,
+          "word_start": 4653,
+          "word_end": 5353,
           "para_start": 205,
           "para_end": 226,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html"
@@ -441,8 +486,8 @@
       "label": "Chapter 5",
       "title": "Twin Primes on the six",
       "subtitle": "a fantasia quasi sonata",
-      "word_count": 6392,
-      "paragraph_count": 217,
+      "word_count": 6455,
+      "paragraph_count": 224,
       "scene_count": 7,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.txt",
@@ -450,8 +495,8 @@
         {
           "n": 1,
           "heading": "I.  Falsifiable Fame",
-          "word_start": 15,
-          "word_end": 803,
+          "word_start": 16,
+          "word_end": 804,
           "para_start": 3,
           "para_end": 26,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html"
@@ -459,55 +504,55 @@
         {
           "n": 2,
           "heading": "II.  Dream Lecture",
-          "word_start": 804,
-          "word_end": 1805,
+          "word_start": 805,
+          "word_end": 1824,
           "para_start": 27,
-          "para_end": 42,
+          "para_end": 43,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html"
         },
         {
           "n": 3,
           "heading": "III.  Groundbreaking",
-          "word_start": 1806,
-          "word_end": 2921,
-          "para_start": 43,
-          "para_end": 77,
+          "word_start": 1825,
+          "word_end": 2937,
+          "para_start": 44,
+          "para_end": 78,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html"
         },
         {
           "n": 4,
           "heading": "IV.  Everything he was not",
-          "word_start": 2922,
-          "word_end": 3769,
-          "para_start": 78,
-          "para_end": 97,
+          "word_start": 2938,
+          "word_end": 3785,
+          "para_start": 79,
+          "para_end": 99,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html"
         },
         {
           "n": 5,
           "heading": "v.  Friendly forensics",
-          "word_start": 3770,
-          "word_end": 4249,
-          "para_start": 98,
-          "para_end": 110,
+          "word_start": 3786,
+          "word_end": 4313,
+          "para_start": 100,
+          "para_end": 117,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html"
         },
         {
           "n": 6,
           "heading": "VI.  Ishikawa’s Island",
-          "word_start": 4250,
-          "word_end": 6106,
-          "para_start": 111,
-          "para_end": 206,
+          "word_start": 4314,
+          "word_end": 6169,
+          "para_start": 118,
+          "para_end": 213,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html"
         },
         {
           "n": 7,
           "heading": "VII. The Thickening",
-          "word_start": 6107,
-          "word_end": 6392,
-          "para_start": 207,
-          "para_end": 217,
+          "word_start": 6170,
+          "word_end": 6455,
+          "para_start": 214,
+          "para_end": 224,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html"
         }
       ]
