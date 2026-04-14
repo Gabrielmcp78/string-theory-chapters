@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,022
-Paragraph Count: 395
+Word Count:      11,157
+Paragraph Count: 396
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–20  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 21–21  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE CLASSROOM  --  Words 22–4,508  |  Paragraphs 8–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 4,509–4,509  |  Paragraphs 202–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE OFFICE  --  Words 4,510–6,653  |  Paragraphs 203–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 6,654–6,654  |  Paragraphs 262–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 6,655–9,757  |  Paragraphs 263–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 9,758–9,758  |  Paragraphs 365–365  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 9,759–11,022  |  Paragraphs 366–395  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE CLASSROOM  --  Words 22–4,540  |  Paragraphs 8–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 4,541–4,541  |  Paragraphs 202–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE OFFICE  --  Words 4,542–6,788  |  Paragraphs 203–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 6,789–6,789  |  Paragraphs 263–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 6,790–9,892  |  Paragraphs 264–365  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 9,893–9,893  |  Paragraphs 366–366  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 9,894–11,157  |  Paragraphs 367–396  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -149,9 +149,10 @@ He turned back to the board. Heartbeat: staccato. Maybe a switch to Einstein wou
 
 What came to him instead wasn’t strictly physics, but it was something, and something would have to be enough.
 
+
 How do you measure proximity?
 
-Then underneath:
+He wrote it in block letters across the board. Then underneath:
 
 
 
@@ -165,15 +166,15 @@ Better. Maybe. He just wasn’t sure. He couldn’t hear himself. The buzz, stab
 
 Come on Lang. Focus, you fool.
 
-He ticked his head to one side, then the other. For no reason he could name, the unrelenting eased. A block of useful thought took shape in his head, and David leapt at the moment of lucidity.
+He ticked his head to one side, then the other. Almost immediately , and for no reason he could name, the frequency’s grip on him eased. A block of useful thought took shape in his head, and David leapt at the moment of lucidity.
 
 “When the world resonates,” he said, voice gone soft and strange, “you feel less alone, even connected. Like there’s… structure underneath the noise. But drift just a little, and that structure collapses.”
 
-He looked over the room, then past them to the crazed glass beyond, and closed his eyes.
+He looked over the room, already searching for the point. As his eyes moved toward the back of the hall, the crazed glass began rewriting the rooms geometry in light. He closed his eyes, trying desperately to gain some purchase in his own head once more.
 
 “There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
 
-The silence screamed judgment. As David opened his eyes, streaks of window light forced him back towards alignment.
+The silence followed close behind each sentence he spoke into the room. It  refused to represent attention or even interest, but seemed more than comfortable standing in for judgment. Then something tapped on the shoulder of his mind, causing his eyes to re-engage with the room.
 
 And then he saw him.
 
@@ -231,11 +232,11 @@ This time, he let it stay.
 
 Behind him, the sound of shoes shuffling—soft leather, unhurried—the pace of administrative authority.
 
-David stood there, frozen, staring into the slated void. The  reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it.
+David stood there, frozen, staring into the slated void. The reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it.
 
 He snapped a false grin and gestured toward the empty doorway. “Dr. Ishikawa, ladies and gentlemen. Always an honor to have his… unique perspective.” The smile had dropped too nothing. “What a legend.”
 
-He blinked, then again. A breath. A gulp. “Alright then. Moving on.”
+He blinked once, then again. A breath. A gulp. “Alright then. Moving on.”
 
 
 ⁂
@@ -267,9 +268,9 @@ His mind braced as the ancient moment unfurled: the tuning fork, Celeste strikin
 
 What the hell was happening. David ached for an empty room. If he could scream all 26 of them forward 20 minutes, or better yet back an hour…
 
-The fork on screen, the buzz in his skull, entangled before him. A horror dance, involuntary, infected. This was more than memory. This was menace!
+The fork on screen, the buzz in his skull, both ghosts of a singular  breakthrough never allowed to become.
 
-His hands hovered over the remote, but he was unable to grab it. The mounting tremble in his forearm now bordering on quake. He could not help but stare into the screen. Menace or no, the image was staring right back. Unflinching. Immutable. An unencumbered recursive.
+He stared at the screen, the image an immutable, unencumbered recursive.
 
 Fog.
 
@@ -279,7 +280,7 @@ Fork.
 
 He remembered the unholy stillness of that long-ago night. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe. It made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they'd all agreed must go to ground that night.
 
-He could hear the click of the Polaroid afterwards… how long it took to develop. Celeste’s voice floating on air; freezing over the crystalline mist.
+He could hear the click of the Polaroid. Felt in his ribs long it took to develop. Celeste’s voice, freezing over the crystalline mist:
 
 If it's real, it'll claw its way out. It will come back to us.
 
@@ -317,7 +318,7 @@ More laughter, though some of it felt less than genuine. David checked the clock
 
 “I think I’ve put you all through enough for one day. Let’s end there, shall we?” he said. Then louder as the rustle of the end of things filled the air, “You’ll read Kozlowski’s ‘Sympathetic Structures’ for next time. Chapters two through six. Pay attention to the footnotes. The math is wrong, but the metaphors are sound.”
 
-Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung when the world was young and full of promise. But now it had hardened into a badge of purity. He found it, if not admirable, at the very least, useful.
+Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung when the world was young and full of promise. But it had since hardened into a badge of purity. He found it, if not admirable, at the very least, useful.
 
 
 ⁂
@@ -488,9 +489,11 @@ THE OFFICE
 
 [Moderato, ma non troppo]
 
-David’s office resisted occupancy like a poorly tuned instrument resisted pitch. Light bled through warped Venetian blinds, striping the stacked Annalen der Physik journals into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookshelf, its leather scuffed in the precise pattern of subway-platform collisions from a commute to lessons he now scheduled only in daydreams.
+David’s office sat two buildings and a partial crossing of the arts quad from the main cluster of physics buildings, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could reach it through the unending mid-century administrative hallways, but long ago, in all weather, he had made a habit of taking the scenic route instead, if only to avoid the corridor haunted by the nearly emeritus tenure set and the half-muttered conversational ordeals they imposed.
 
-David burst through the door, his coat sailing toward a hook, bag thudding to the floor, papers cascading in a controlled avalanche across the desk. He didn’t even notice Rune Ishikawa, already seated in the corner, sipping on a cup of Earl Grey. He was  almost indistinguishable from the furniture.
+His suite of offices felt lost to time. It was nothing of his doing or design; he had simply allowed what was there before him to remain. Late afternoon light seeped through warped Venetian blinds, striping stacked Annalen der Physik into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookcase, its leather scuffed in the precise pattern of subway-platform collisions from a commute to lessons he now scheduled only in daydreams.
+
+David burst through the door. His coat sailed toward a hook, bag thudding to the floor, papers cascading in a controlled avalanche across the desk. He didn’t even notice Rune Ishikawa, already seated in the corner, attentively stirring a fresh cup of Earl Grey. He was almost indistinguishable from the furniture.
 
 Before David could orient himself, Rune’s voice floated out into the room, unhurried, already mid-thought, as if none of the preceding spectacle had occurred.
 
@@ -608,6 +611,8 @@ He exhaled, shutting all of it from his mind, for ahead waited the relief of reh
 He looked up at the clock, then down at his own, for the day had proven less than reliable already. Confirmed:
 
 It was one minute, forty-seven seconds from time.
+
+
 
 
 

@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,136
-Paragraph Count: 255
+Word Count:      8,266
+Paragraph Count: 257
 Scene Count:     4
 
 Scene 1: I.  Preliminary Observations  --  Words 1–1,219  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
 Scene 2: II.  Method and Resonance  --  Words 1,220–2,030  |  Paragraphs 28–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
 Scene 3: III.  Findings and Implications  --  Words 2,031–2,949  |  Paragraphs 56–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,950–8,136  |  Paragraphs 81–255  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 4: IV. Lossless Transfers  --  Words 2,950–8,266  |  Paragraphs 81–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -318,41 +318,43 @@ The old man's gaze did not waver. He blinked once, slow, as if the lids had weig
 
 David turned toward the boards. The chalk dust was still on his fingers from earlier. The failed equations ran in layers across the wall, each erasure leaving its ghost in the grain.
 
-The old man rose. He rose like an old man, with effort in the knees and hips, one hand briefly on the chair arm. The motion human enough to make the room close around him. He stood by the fire, the boards behind David still full of failed white weather.
+The old man rose, effort in the knees and hips, one hand briefly on the chair arm. The motion human enough to make the room close around him. He stood by the fire, the boards behind David still full of failed white weather.
 
-"The trouble with secrecy," he said quietly, "is that it makes one body try to bear what belongs to relation."
+"The trouble with secrecy," he said quietly, "is that it makes one body try to bear what should belong to many."
 
 David's hand came up. His fingers touched the wall where the 68.48 was written, the numbers smudged but legible. "If I let it go," he said, "it could hurt them."
 
-"It will." The truth of it landed harder than comfort would have. "So will grief. So will music. So will love, if it is real enough." The old man's voice stayed level. "Nothing makes it safe."
+"It will hurt them.” The truth of it landed harder than comfort would have. "So will grief. So will music. So will love, if it is real enough." Eliot’s voice stayed level. "Nothing you do can make it safe."
 
-David's hand dropped from the wall. He turned back to face the old man, his grandfather, present and impossible, standing by the fire. "Then what."
+David's hand dropped from the wall. He turned back to face the old man, his grandfather, present and impossible, standing by the fire. "Then what?”
 
-"A form that does not become a chamber," the old man said.
+“You need a form that cannot become a chamber," the old man said.
 
-The sentence entered David before he understood it. The cello in the dark. The fork on the desk. Arthur trying all his life to save him by moving him toward music. Elliot trying all his late life to temper what he had passed by building apparatus around it—frames, housings, protocols—anything that kept power from turning personal. The family mistake that had never truly been about science and music at all, but about what could carry a thing without enclosing it to death.
+The sentence entered David before he understood it. The cello in the dark. The fork on the desk. Arthur trying all his life to save him by moving him toward music. Elliot trying all his late life to temper what he had passed by building apparatus around it. Frames, housings, protocols, they all kept power from turning personal. The family mistake that had never truly been about science and music at all, but about what could hold a thing without suffocating it to death.
 
 "A song, David."
 
 The apartment answered in minute distributed sympathies. A wire somewhere above. The steel lip in the kitchen. A frail acceptance in the window glass. Nothing theatrical. Only enough to let him feel that the room had heard.
 
-Then the hum began. Low at first, almost lost under the base tone of the fork that had not yet begun to sound but was already present in the walls. Elliot hummed the lullaby, the same wandering line David had heard before he had words for it, before physics, before grief, before Arthur's arguments had put names to any of the factions in the house. The old tune moved without hurry, refused resolution, made a shape the body recognized before the mind could.
+Then the hum began. Low at first, almost lost under the base tone of the fork that had not yet begun to sound but was already present in the walls. Elliot hummed the lullaby, the same wandering line David had heard before he had words for it, before physics, before grief, before Arthur's arguments had put names to any of the factions in the house. David made one broken sound and then another. Elliot hummed on.
 
-David made one broken sound and then another. Elliot hummed on.
+And then the melody broke. It snagged, thinned, lost one overtone and then another, as if something at the edge of the room put a hand into the web of it and tore a hole there. The apartment, which had been answering in small hidden places, went listening-still.
 
-And then the hum broke. It snagged, thinned, lost one overtone and then another, as if something at the edge of the room put a hand into the web of it and tore a hole there. The apartment, which had been answering in small hidden places, went listening-still. Elliot's face began to change. Age rushed in like ruin. Skin pulled tight across bone. The eyes widened with a fury so concentrated it seemed to burn the air between them. Warning and grief fell away. Rage remained, rage stripped of social use. The rage of a man who had died inside misunderstanding and now saw the humiliating geometry of it: his own, Arthur's, David's, a long line of men touching one fragment and calling the wound insight.
+Elliot's face began to change. Age rushed in like ruin. Skin pulled tight across bone. The eyes widened with a fury so concentrated it seemed to burn the air between them. Warning and grief fell away. Rage surged forward, rage stripped of all social use. The indignation of a man who had died inside misunderstanding and now saw the humiliating geometry of it: his own, Arthur's, David's, a long line of men touching mere fragments and calling the contact insight.
 
-Tsukino.
+An then, with a disembodies scream that threatened to rip ear drums and assault the air, a tortured barely human new face emerged, wiping the visage of this grandfather clean away.
 
-The tuning fork began to sound. Unstruck. Sounding. From the desk behind David the first tone rose clean and low: 68.48. He felt it in his sternum before he located it in air. Then came the octave. Then the next. Then again.
+Even through the horror of whatever this newly formed specter had endured, it was clear to David the identity of what stood before him. Dr. Kenji Tsukino.
+
+The tuning fork began to wobble and screech. Un-struck. Sounding. From the table behind David the first tone rose clean and low: 68.48 Hz. He felt it in his sternum before he located it in air. Then came the octave. Then the next. Then again.
 
 Each ascent went through the apartment like a knife finding every seam. The bridge over the boards took it. The loft rail took it. The kitchen steel answered. Window glass trembled. Hidden cavities in brick woke and rang. A spoon in the sink gave one thin, treacherous cry and fell still. The whole place became one resonant instrument and his body, caught inside it, became another chamber to be found and forced open.
 
-David's hand hit the stair post. The next doubling struck his jaw. The next went in behind his eyes. By the next he could no longer tell whether the sound lived in the room or in the fluid of his own body. His teeth sang. His ribs felt less like bone than tuning surfaces. The pressure climbed cleanly, terribly, no distortion, only more and more exact force entering him.
+David stumbled back, his hand hitting the stair post. The next doubling struck his jaw. The next went in behind his eyes. By the next he could no longer tell whether the sound lived in the room or in the fluid of his own body. His teeth sang. His ribs felt less like bone than tuning surfaces. The pressure climbed cleanly, terribly, no distortion, only more and more exact force entering him.
 
-Tsukino watched him with a contempt so bright it seemed to cauterize the air. Everything David had arranged about himself went down under that look. Caution. Genius. Stewardship. All of it collapsed into a single image: a man with one shard in his hand admiring the cut of his own reflection and calling that admiration knowledge.
+Tsukino watched him with a contempt so bright it seemed to cauterize the air. Everything David had arranged about himself went down under that look. Caution. Genius. Stewardship. All of it collapsing into a single image: a man with one shard in his hand admiring the cut of his own reflection and calling that admiration knowledge.
 
-Another doubling. He dropped to one knee. Another. The room vanished. Fire, stair, boards, city, gone. Pattern remained. Pain remained. Then the unbearable fact arrived: the fork did not attack him. It held a line against something worse by giving the violence form.
+Another doubling. He dropped to one knee. Another. The room vanished. Fire, stair, boards, city, gone. Pattern remained. Pain remained.
 
 Tsukino came nearer without moving. Rage held the face like a mask set too tightly. You do not know what you are touching. None of you did. Still each of you wanted to stand up inside the little you knew and feel tall.
 
@@ -370,7 +372,9 @@ Yield.
 
 He put his forehead to the floor. Worship had nothing to do with it. Acquiescence did. Plain acknowledgment: he was not equal to what he had touched, none of them had been, genius often amounted to ignorance with posture.
 
-At once the edge changed. It did not vanish. It changed. The highest tearing note thinned first. Then the brightness in his teeth. Then the splitting pressure behind the eyes. The base tone remained, low and absolute, yet it stopped slicing him into white.
+Then, as if awakened into service, poised to rescue, the cello began to commune with the tuning fork and the frequencies bearing down atop David’s skull and body. The effect was like a wolf tone: that exact, dreaded place where a pitch finds the instrument’s answering weakness and seizes it, drawing the blow out of the air and into wood, string, and cavity. What had been rising vertically through him—each octave narrowing into cleaner, more punishing force—struck the cello instead and spread there, opening through the body of the instrument, dispersing across grain and varnish and hollow space. The pressure did not vanish, but it changed medium. It became audible as matter, absorbable, less lethal. The fork , in some strange concert with the cello’s body had held the line against something worse by giving the violence form.
+
+The highest tearing note thinned first. Then the brightness in his teeth. Then the splitting pressure behind the eyes. The base tone remained, low and absolute, yet it stopped slicing him into white.
 
 When he lifted his head, Tsukino was receding. Soothing never entered it. The figure drew backward into some farther chamber of witness and wrath, as if the rage stepped out of the front of the room and took up residence elsewhere.
 
@@ -384,7 +388,7 @@ David was shaking hard. He had not known it until the hand told him.
 
 "Hush now."
 
-And beneath the words, under breath, Elliot began to hum again. The lullaby. Low at first, almost lost under the fading base tone, then clearer: the same wandering line. The old tune moved without hurry, refused resolution, made a shape the body recognized before the mind could.
+And beneath the words, Elliot began to hum once more. Low at first, almost lost under the fading base tone, then clearer: the same wandering lullaby David remembered from his youth.
 
 David made one broken sound and then another. The hand at the back of his head shifted once, broad and certain, thumb moving in an old unconscious way. Elliot hummed on. The fork still held 68.48 under everything, low and animal and real. The melody moved above it, conquered nothing, erased nothing, gave the body another path through.
 
@@ -394,11 +398,11 @@ Then the hum broke. It snagged, thinned, lost one overtone and then another, as 
 
 From the hall beyond the door came a soft sound. A footstep, or perhaps the redistribution of weight. A presence making up its mind.
 
-David lifted his head. The fire had dropped. The room seemed larger suddenly and less inhabited, as if the dark beyond the chalkboards and under the loft resumed rights it had briefly surrendered. Elliot's face had already begun to lose its human edges. It did not vanish. It went thin.
+David lifted his head. The fire had dropped. The room seemed larger suddenly and less inhabited, as if the dark beyond the chalkboards and under the loft resumed rights it had briefly surrendered. Elliot's face had already begun to lose its human edges. Then all of him began to thin away.
 
 There it was again. A scrape. The faintest pressure against the outer wood. Someone standing there long enough to forget embarrassment. Long enough to become intention.
 
-Elliot's hand left him. The loss of it was immediate. The body knew before the mind: warmth gone, steadiness gone, the old lullaby no longer crossing the threshold between them but falling back into breath, into memory, into whatever medium the dead must use when they have nearly spent themselves.
+Elliot's hand left him. The loss of it was immediate: warmth gone, steadiness gone, the old lullaby no longer crossing the threshold between them but falling back into breath, into memory, into whatever medium the dead must use when they have nearly spent themselves.
 
 David pushed himself upright too fast. The room tilted and righted. The poker by the hearth caught a thread of firelight.
 
@@ -542,7 +546,17 @@ Behind him the note remained folded under the fork. He could tell himself he wou
 
 He wrote as if holding the seam meant making it safe. He wrote as if making it legible kept it from spreading. He wrote as if a thing rendered lossless would remain contained.
 
-Outside, the city lay quiet under its borrowed moonlight. Inside, David wrote the line that would carry.
+Outside, the city lay quiet under dits borrowed moonlight. Inside, David wrote the line that would carry.
+
+
+
+
+
+
+
+
+
+
 
 
 
