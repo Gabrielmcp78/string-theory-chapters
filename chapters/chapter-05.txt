@@ -8,7 +8,7 @@ Subtitle:        a fantasia quasi sonata
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,454
+Word Count:      6,455
 Paragraph Count: 224
 Scene Count:     7
 
@@ -17,8 +17,8 @@ Scene 2: II.  Dream Lecture  --  Words 805–1,824  |  Paragraphs 27–43  |  UR
 Scene 3: III.  Groundbreaking  --  Words 1,825–2,937  |  Paragraphs 44–78  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
 Scene 4: IV.  Everything he was not  --  Words 2,938–3,785  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
 Scene 5: v.  Friendly forensics  --  Words 3,786–4,313  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
-Scene 6: VI.  Ishikawa’s Island  --  Words 4,314–6,168  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
-Scene 7: VII. The Thickening  --  Words 6,169–6,454  |  Paragraphs 214–224  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
+Scene 6: VI.  Ishikawa’s Island  --  Words 4,314–6,169  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
+Scene 7: VII. The Thickening  --  Words 6,170–6,455  |  Paragraphs 214–224  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -27,6 +27,25 @@ a fantasia quasi sonata
 
 
 for scientific journal, lecture hall, colleague sync, and high back booth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -82,6 +101,7 @@ He pushed himself out of bed, the world tilting slightly before righting itself.
 His gaze fell on the tuning fork, lying on the rumpled sheets where it had fallen from his pocket during the night. The faint cerulean stain on its prongs seemed to glow in the weak light. He picked it up. The metal was cool, but it carried a latent energy, a silent potential. He slipped it into his breast pocket, the weight of it a familiar anchor against his sternum.
 
 The hum deepened, vibrating up through the soles of his feet. It was no longer just a sound; it was a pressure, a presence tuning the apartment, tuning him, for whatever was coming next. He looked at his reflection in the dark screen of his laptop—a pale man with a bruised face, wearing the clothes of a professor who had, against all reason and logic, just become an overnight success.
+
 
 
 
@@ -289,7 +309,7 @@ VI.  Ishikawa’s Island
 
 [Grave controllato]
 
-The only light in Rune Ishikawa’s office came from the green‑shaded lamp on his desk, a small island of order in the encroaching night. As he sat, he removed from his pocket a note from his secretary marked: CONFIDENTIAL EYES ONLY ISHIKAWA. He unfolded the slip,laiying it flat upon the desk in front of him. It simply read:
+The only light in Rune Ishikawa’s office came from the green‑shaded lamp on his desk, a small island of order in the encroaching night. As he sat, he removed from his pocket a note from his secretary marked: CONFIDENTIAL EYES ONLY ISHIKAWA. He unfolded the slip, laying it flat upon the desk in front of him. It simply read:
 
 Contacted. Assessed. Delivered. Done. Yours now. —E.G.
 
@@ -482,8 +502,6 @@ And the world was already mid‑air.
 
 
 
-
-
 VII. The Thickening
 
 
@@ -504,6 +522,26 @@ He stumbled to the cello case and pressed the vibrating fork against its side. T
 The hum rushed back louder than before, and now it carried the ghost of the pure tone he'd introduced into something dissonant. The cello's strings began to vibrate in sympathy.
 
 He sank to the floor, back against the instrument, the silent fork in his hand. The hum was in the floorboards, in the building, in his bones. His thoughts began to align to its rhythm. Panic gave way to something else—something altogether quieter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .

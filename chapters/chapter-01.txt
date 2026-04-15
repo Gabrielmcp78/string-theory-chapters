@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,157
-Paragraph Count: 396
+Word Count:      11,110
+Paragraph Count: 395
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–20  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 21–21  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE CLASSROOM  --  Words 22–4,540  |  Paragraphs 8–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 4,541–4,541  |  Paragraphs 202–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE OFFICE  --  Words 4,542–6,788  |  Paragraphs 203–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 6,789–6,789  |  Paragraphs 263–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 6,790–9,892  |  Paragraphs 264–365  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 9,893–9,893  |  Paragraphs 366–366  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 9,894–11,157  |  Paragraphs 367–396  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE CLASSROOM  --  Words 22–4,493  |  Paragraphs 8–200  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 4,494–4,494  |  Paragraphs 201–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE OFFICE  --  Words 4,495–6,741  |  Paragraphs 202–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 6,742–6,742  |  Paragraphs 262–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 6,743–9,845  |  Paragraphs 263–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 9,846–9,846  |  Paragraphs 365–365  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 9,847–11,110  |  Paragraphs 366–395  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -73,9 +73,9 @@ It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 Professor David Lang stood hunched before a blackboard that had grown suspicious of his intentions, inscribing symbols not with confidence but with the tragic diligence of a man increasingly convinced—by mounting evidence—of his own elite academic failure to rise.
 
-The lecture hall, always five degrees too warm, was a quiet expanse of yellows and browns. Two back walls of impossibly thin, improbably tall windows overlooked the glacier-carved canyons of East Hill, their angled panes slicing daylight into shards. The light never arrived cleanly here, only fractured. False.
+The lecture hall, always five degrees too warm, was a quiet expanse of yellows and browns. Two back walls of improbably tall windows overlooked the glacier-carved canyons of East Hill, their angled panes slicing daylight into shards. The light never arrived cleanly here, only fractured. False.
 
-Of course, the hall merely served as upholstery for the chair. And a very well-endowed one it was. David was the Feynman Chair of Quantum Dynamics at Cornell University—had been for nearly nineteen years. Though lately he could sense, in brittle emails, in the deflective eyes of students, in the way a chalk screech pierced from board to bone, that the title, once a reward, had become its own diagnosis: a public credential for a man in private decline.
+Of course, the hall merely served as upholstery for the chair. And a very well-endowed one it was. David was the Feynman Chair of Quantum Dynamics at Cornell University—had been for nearly nineteen years. Though lately he could sense, in brittle emails, in the deflective eyes of students, in the way chalk screeched from board to bone, that the title, once a reward, had become its own diagnosis: a public credential for a man in private decline.
 
 It wounded him from within, this institutionalized impulse to guard truth, teach safely, hedge science. He’d played the role so long, even he couldn’t say where the performance boundaries were.
 
@@ -95,7 +95,7 @@ Though sixty-three students were on the roster, roll call revealed that, on this
 
 A young woman in the first row drew elaborate mollusk shells in her notebook’s margin that, in their recursive curvature, seemed to mirror the lecture’s content through cryptic isomorphism. Her glazed-over eyes, however, told David everything he needed to know about the depth of that correspondence.
 
-“Okay. Fine… Early days, so… See, only when your hand closes around this coin does the system collapse and a definite worth emerge. That’s when you learn whether the laws of physics just bought you a steak diner, or a pack of ramen noodles.”
+“Okay. Fine. Early days. Only when your hand closes around this coin does the system collapse and a definite worth emerge. That’s when you learn whether the laws of physics just bought you a steak diner, or a pack of ramen noodles.”
 
 A mild chuckle caught throughout the room.
 
@@ -135,9 +135,9 @@ Then nothing.
 
 Now… he wasn’t sure if he’d actually said the word noise, or if, at that exact moment, he’d only heard it. But something… something answered.
 
-A hum. No, a buzz. Deep, menacing, unforgiving. 68.48 Hz. Not a guess. The number came at him without warning, instantly, as if calculated somewhere else and then inserted into his head.
+A hum. No, a buzz. Deep, menacing, unforgiving. 68.48 Hz. Not a guess. The number came at him without warning, as if calculated somewhere else and then inserted into his head.
 
-The sound scraped deep into the soul of his belly. It was visceral, remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room melted out of cohesion.
+The sound scraped deep into him. It was remembered, yet horribly present. His hand hovered. He couldn’t move, could barely breathe, as the room lost cohesion.
 
 They’d seen it. How could it be otherwise? And with that, the superposition of this lecture collapsed.
 
@@ -145,7 +145,7 @@ He couldn’t think or even see straight. The low droning in his ears, this blat
 
 “All right, you know what, let’s… let’s shift the frame. Honestly, I’m not even sure I understand what I‘m saying there, so...”
 
-He turned back to the board. Heartbeat: staccato. Maybe a switch to Einstein would do. Something familiar. He had half a mind to ask if anyone had an apple, but decided to leave Newton out of this.
+He turned back to the board. Heartbeat: staccato. Maybe a switch to Einstein would do. Something familiar. He had half a mind to ask if anyone had an apple, but decided to leave Newton out of it.
 
 What came to him instead wasn’t strictly physics, but it was something, and something would have to be enough.
 
@@ -168,9 +168,9 @@ Come on Lang. Focus, you fool.
 
 He ticked his head to one side, then the other. Almost immediately , and for no reason he could name, the frequency’s grip on him eased. A block of useful thought took shape in his head, and David leapt at the moment of lucidity.
 
-“When the world resonates,” he said, voice gone soft and strange, “you feel less alone, even connected. Like there’s… structure underneath the noise. But drift just a little, and that structure collapses.”
+“When the world resonates,” he said, voice gone soft and strange, “you feel less alone. Like there’s structure underneath the noise. But drift just a little, and that structure collapses.”
 
-He looked over the room, already searching for the point. As his eyes moved toward the back of the hall, the crazed glass began rewriting the rooms geometry in light. He closed his eyes, trying desperately to gain some purchase in his own head once more.
+He looked over the room, already searching for the point. As his eyes moved toward the back of the hall, the crazed glass began rewriting the rooms geometry in light. He closed his eyes, trying to gain some purchase in his own head once more.
 
 “There’s a fundamental frequency beneath everything. Beneath language. Beneath light.”
 
@@ -232,7 +232,7 @@ This time, he let it stay.
 
 Behind him, the sound of shoes shuffling—soft leather, unhurried—the pace of administrative authority.
 
-David stood there, frozen, staring into the slated void. The reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it.
+David stood there, frozen, staring into the slate. The reckless edge of what he’d said tore through him line by line. There was no taking it back; no apologizing for it either. Any absolution would only dissolve him in his students’ eyes. He needed a way out. But he’d have to own it.
 
 He snapped a false grin and gestured toward the empty doorway. “Dr. Ishikawa, ladies and gentlemen. Always an honor to have his… unique perspective.” The smile had dropped too nothing. “What a legend.”
 
@@ -258,7 +258,7 @@ Click.
 
 Wait…
 
-A photograph sliced through the photon mist and bled onto the screen. A Polaroid.
+An unexpected photograph cut through the light and landed on the screen. A Polaroid.
 
 Within its thick white frame: evening fog, a vast field of frost-kissed northeastern green. At the center, a single tuning fork, half-buried in wet soil. The resonance prong pointed to the sky as if a question had been answered that no one was supposed to hear.
 
@@ -266,11 +266,9 @@ David nearly choked. He knew this image. He had taken this image. Or maybe… no
 
 His mind braced as the ancient moment unfurled: the tuning fork, Celeste striking it against the bench. The year of the agreement. The capsule. The year before everything…
 
-What the hell was happening. David ached for an empty room. If he could scream all 26 of them forward 20 minutes, or better yet back an hour…
+What the hell was happening. David ached for an empty room. If only he could scream all 26 of them forward 20 minutes, or better yet back an hour.
 
-The fork on screen, the buzz in his skull, both ghosts of a singular  breakthrough never allowed to become.
-
-He stared at the screen, the image an immutable, unencumbered recursive.
+He stared at the screen.
 
 Fog.
 
@@ -278,9 +276,9 @@ Field.
 
 Fork.
 
-He remembered the unholy stillness of that long-ago night. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe. It made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they'd all agreed must go to ground that night.
+The unholy stillness of that long-ago night returned to him, newly made. The smell of dug-up earth, of guilty evening dew. The added weight that held the distance between what they knew and what anyone else would believe. It made each shovelful land like a hundred pounds of darkness falling, pressing down, blotting out the light of knowledge they'd all agreed must go to ground that night.
 
-He could hear the click of the Polaroid. Felt in his ribs long it took to develop. Celeste’s voice, freezing over the crystalline mist:
+He could hear the click of the Polaroid. Felt in his ribs how long it took to develop. Celeste’s voice, freezing over the crystalline mist:
 
 If it's real, it'll claw its way out. It will come back to us.
 
@@ -296,11 +294,11 @@ He returned, tried to finish the line of inquiry as if nothing had happened, but
 
 He shut off the projector. The image was gone, but the memory had not finished developing.
 
-Then, quietly, and with unconscious intent, he reached out and touched the blackboard. Sweeping over its surface, just a few fingertips, no more. The chalk dust greeted him like an old friend, and for one brief, unknowable moment there was nothing. No hum. No room. Only the strange impression, impossible and immediate, of a string answering somewhere beyond him.
+Then, quietly, and with unconscious intent, he reached out and touched the blackboard. Sweeping over its surface, just a fingertip, no more. The chalk dust greeted him like an old friend, and for one brief, unknowable moment there was nothing. No hum. No room. Only the strange impression, impossible and immediate, of a string answering somewhere beyond him.
 
 “Professor?” The voice rose from the front row, but it did not register to David. “Professor Lang?”
 
-Still nothing. His fingers, his entire body, now presented as inanimate; stuck, mired in the act of reaching back and wondering through time.
+Still nothing. His fingers, his entire body, seemed inanimate; stuck in the act of reaching back and wandering through time.
 
 The class sat poised on the edge of reaction. Was he teaching or breaking? No one wanted to be the first to decide.
 
@@ -328,7 +326,7 @@ The TA, a graduate student, was the last to leave. She handed him her doodle-cov
 
 Above the note of concern, something else: a crude declarative, only partially scribbled out, as if half intending to redact the words beneath, half to highlight them. It simply read, “WHAT THE FUCK?”
 
-David blinked, then swallowed, finally remembering to inhale. It was the perfect transcription of the debacle that had been the last hour and a half, and he knew it.
+David blinked, then swallowed, finally remembering to inhale. It was the perfect transcription of the last hour and a half, and he knew it.
 
 As the last student exited and the door closed, he allowed his haunted gaze to drift towards the back of the hall. Winter light thinned to silver, stretching time in its wake as he looked out through the striated windows to the fall-frosted quad beyond.
 
