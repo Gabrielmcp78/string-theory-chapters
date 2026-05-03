@@ -7,17 +7,17 @@ Title:           Ratios of One
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,535
-Paragraph Count: 39
+Word Count:      1,537
+Paragraph Count: 48
 Scene Count:     1
 
-Scene 1: I.  The Apartment			        November 30th, 2026  --  Words 1–1,535  |  Paragraphs 1–39  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 1: I.  The Apartment			   November 30th, 2026  --  Words 1–1,537  |  Paragraphs 1–48  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  The Apartment          November 30th, 2026
+I.  The Apartment     November 30th, 2026
 
 [Largo senza tempo        3:48 am EST]
 
@@ -36,7 +36,6 @@ At last, shimmer gave way to the room itself.
 It was not large, nor arranged to impress. It possessed the density of a place long inhabited by thought. Books stood open and marked. Manuscripts rested in uneven stacks. Letters lay gathered with the care of someone who valued the letter more than the filing of it. Shelves climbed from floor to ceiling, ordered according to a private system only their keeper could read. David moved through it as one moves through a cathedral: aware of scale, and of having entered something meant to contain more than himself.
 
 On the desk, beside a lamp casting the amber light of late afternoon, a journal lay open. He did not read it, yet felt at once the familiar pull of the thoughts within.
-
 
 The room continued to open to him, and he gladly engaged its study. Letters from names that would have stilled any faculty room in any decade. Correspondence with minds that had shaped the last century’s understanding of itself. Margins thick with argument. Draft essays. Notes where philosophy crossed literature, where music crossed physics, where no boundary held for long. David did not yet know whose room this was, but he knew the kind of mind it belonged to. Published. Cited. Permanent. The sort of mind for which buildings were named. And yet the room itself seemed meant for no audience at all.
 
@@ -62,7 +61,9 @@ David crossed the room and stood behind the chair, watching his father’s hands
 
 The music stopped. The violin was set down carefully. The chair creaked. Then a voice, thin with age and bright with astonishment. “David?”
 
-His father turned and rose with surprising speed. A moment later he was against him, arms thrown around his neck with sudden fierce strength. “David, my boy.” He was shaking—whether from laughter or tears David could not tell. “I’m so glad you’ve come,” he whispered. “I was just playing for you. Did you hear it?” “Yeah, Dad,” David said softly. “I heard it.”
+His father turned and rose with surprising speed. A moment later he was against him, arms thrown around his neck with sudden fierce strength. “David, my boy.” He was shaking—whether from laughter or tears David could not tell. “I’m so glad you’ve come,” he whispered. “I was just playing for you. Did you hear it?”
+
+“Yeah, Dad,” David said softly. “I heard it.”
 
 Arthur patted the place beside him near the hearth. Somehow there was room there now, a chair that had not existed a moment earlier. “Sit,” he said. “Push all that nonsense aside and sit.” David did.
 
@@ -70,19 +71,35 @@ They spoke first of small things, then larger ones. The conversation moved with 
 
 The upper shelves held journals carrying David’s name. Beneath them stood thick binders, each labeled in Arthur’s careful hand: David’s Big Swings.
 
-David pulled one free. It was heavy. Inside were rejected papers, abandoned theories, strange speculative models that had collapsed under scrutiny or time. Arthur watched him with gentle amusement. “The ones that didn’t land are my favorite.” David looked up. “Favorite?” “Of course,” Arthur said, tapping the binder. “That’s where a mind lives. Not in the finished thing. In the reach. In the almost-there.”
+David pulled one free. It was heavy. Inside were rejected papers, abandoned theories, strange speculative models that had collapsed under scrutiny or time. Arthur watched him with gentle amusement. “The ones that didn’t land are my favorite.”
 
-David ran a hand along the spines. His father had been archiving his failures. “I didn’t know you kept any of this,” David said quietly. Arthur shrugged. “How else would I keep up with you?”
+David looked up. “Favorite?”
 
-The room grew very still. For years David had imagined those papers vanishing into institutional silence. But here they were, preserved in his father’s room. “You were always in the room, David,” Arthur said.
+“Of course,” Arthur said, tapping the binder. “That’s where a mind lives. Not in the finished thing. In the reach. In the almost-there.”
 
-David stared into the fire. “I thought I had to prove something first,” he admitted. “I thought if I could just get it right… then maybe I’d finally—” “Be allowed in?” David nodded. Arthur shook his head gently. “You were always welcome.”
+David ran a hand along the spines. His father had been archiving his failures.
+
+“I didn’t know you kept any of this,” David said quietly.
+
+Arthur shrugged. “How else would I keep up with you?”
+
+The room grew very still. For years David had imagined those papers vanishing into institutional silence. But here they were, preserved in his father’s room.
+
+“You were always in the room, David,” Arthur said.
+
+David stared into the fire. “I thought I had to prove something first,” he admitted. “I thought if I could just get it right… then maybe I’d finally—”
+
+“Be allowed in?”
+
+David nodded.
+
+Arthur shook his head gently. “You were always welcome.”
 
 Arthur’s thumb moved once against David’s wrist. The fire shifted inward. “I never stopped hoping you might come sit with me again.” He looked down at their hands. “I missed you.”
 
 David looked at him fully then, and something inside him loosened at last. “I missed you too.”
 
-They sat together as the fire lowered into coals. Arthur picked up the violin again, not to play, only to hold. His fingers followed the worn grain of the wood. “Young players are always afraid of the silence between notes,” he said quietly. “They rush past it.” He tapped the instrument lightly. “But that pause—that little interval—that’s where the music lives.
+They sat together as the fire lowered into coals. Arthur picked up the violin again, not to play, only to hold. His fingers followed the worn grain of the wood. “Young players are always afraid of the silence between notes,” he said quietly. “They rush past it.” He tapped the instrument lightly. “But that pause, that little interval, that’s where the music lives.
 
 The room had begun to loosen. Shelves softened. Firelight blurred. Arthur looked at David carefully, as if memorizing him. “You were always welcome,” he said again.
 
