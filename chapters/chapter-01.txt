@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,721
-Paragraph Count: 593
+Word Count:      12,824
+Paragraph Count: 557
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–20  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 21–21  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE CLASSROOM  --  Words 22–6,102  |  Paragraphs 8–398  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 6,103–6,103  |  Paragraphs 399–399  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE OFFICE  --  Words 6,104–8,350  |  Paragraphs 400–459  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 8,351–8,351  |  Paragraphs 460–460  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 8,352–11,456  |  Paragraphs 461–562  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 11,457–11,457  |  Paragraphs 563–563  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 11,458–12,721  |  Paragraphs 564–593  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE CLASSROOM  --  Words 22–6,205  |  Paragraphs 8–362  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 6,206–6,206  |  Paragraphs 363–363  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE OFFICE  --  Words 6,207–8,453  |  Paragraphs 364–423  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 8,454–8,454  |  Paragraphs 424–424  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 8,455–11,559  |  Paragraphs 425–526  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,560–11,560  |  Paragraphs 527–527  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,561–12,824  |  Paragraphs 528–557  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -72,834 +72,490 @@ THE CLASSROOM
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
+David Lang left his Lower East Hill apartment at exactly the intended hour. He was, as ever, punctual. That fact had always been sufficient to guarantee the rest of him.
 
-David Lang was late.
+This morning it did not.
 
+His feet had begun to revise the terms. They advanced in small, unauthorized surges, quickening him into brief, ugly bursts that broke the measured dignity of his usual walk to campus. It was not quite running, but it was no longer obedience.
 
-Not for class. Worse.
+This was irritating, since by every civilized measure there was no reason to hurry. Sweeney could not yet have the floor. There was, technically, no floor to have. No gaggle below the first rise, no faculty and staff and graduate students drawn into their usual migrating clot.
 
+Not yet.
 
-He was late for the walk uphill.
+Still, David quickened.
 
-
-The gaggle would already be forming below the first rise: faculty, staff, graduate students, the usual migrating clot assembling itself into hierarchy by instinct. By now Sweeney would have the floor. Of course he would. Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, expanded when unopposed.
-
-
-David meant to take it back.
-
-
-He moved quickly through the neighborhood streets south of campus, then broke into a run the moment the block went empty. Not a real run. Nothing so humiliating. A controlled academic trot, brief and ugly, coat tugging at his shoulders, breath clipping in the cold.
-
-
-A woman appeared ahead with a dog.
-
+He crossed the narrow streets south of campus with his coat tugging at his shoulders and his breath clipping in the cold. At the corner, a woman appeared with a dog.
 
 David slowed at once, arranging his face into reflective morning purpose.
 
+They passed. David counted three steps for dignity, then let his feet resume their treason.
 
-They passed.
+Cold had sharpened the morning. Bare branches scraping at a pale sky overhung rooftops that had yet to shed their coil of frost. The town’s final porches sat slick and accusatory as Ithaca’s final blocks began to acquiesce to the grand gates of the Ivy League.
 
+By the time Cornell’s lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
-He counted three steps.
+Then he saw them. Just as his feet had feared, the gaggle had formed early.
 
+Faculty, staff, graduate students: the usual migrating clot already moving up the path below the first rise. And there, near the center, Sweeney was talking. Of course he was.
 
-Then he ran again.
+Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, expanded when unopposed.
 
+David felt something in him sharpen.
 
-Cold had sharpened the morning bright. Bare trees scraped at a pale sky. Porches sat damp and accusatory. Bins stood at the curb. Ithaca looked rinsed, thinned, overused.
+Ah.
 
+There it was. The explanation. Not illness, not grief, not whatever childish panic had been rising from the lower architecture of him. Territory. A morning ritual improperly occupied. An imbalance awaiting correction.
 
-At the southernmost gate, Cornell’s lower East Hill rose before him like home, heaven, and slum entwined.
+David meant to take it back.
 
-
-He saw them almost at once: the gaggle already moving up the path.
-
-
-David cut left through the trees that flanked the south side, taking the slope at an angle. Dead leaves broke underfoot. He kept low without meaning to, ridiculous and predatory, pacing them from cover until he drew parallel.
-
+He cut left through the trees that flanked the south side, taking the slope at an angle. Dead leaves broke underfoot. He kept low without meaning to, ridiculous and predatory, pacing them from cover until he drew parallel.
 
 Sweeney was already talking.
 
-
 “—I’m telling you, he said cross-disciplinary intimacy to my face,” Sweeney was saying. “In a budget meeting. To my face. Can you imagine?”
-
 
 David stepped out from the trees and into the migration.
 
-
 “My God, Sweeney, intimacy and face in the same sentence? And in mixed company?”
-
 
 Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
 
-
 “Lang. Welcome back.”
-
 
 “Don’t.”
 
-
 “Don’t what?”
-
 
 “Lower the room temperature with your humanity. It’s undignified.”
 
-
 Naomi Feld, walking just behind Sweeney, hid a smile behind her coffee. Bardon from History gave David a cautious nod, the kind people gave at funerals and department votes. Two graduate students drifted in their wake, uncertain whether they were witnessing collegial affection or the prelude to violence.
-
 
 Sweeney recovered first. “You look almost refreshed.”
 
-
 “Yes,” David said. “It’s true what they say. Burying a parent can be remarkably restorative. Takes ten years off the face, and five off your life.”
 
-
-Silence.
-
-
-He let it hold just long enough to punish them.
-
+Silence. He let it hold just long enough to punish them.
 
 “Oh, come on. I’m back. No more kid gloves. That was better than cross-disciplinary intimacy.”
 
-
 Naomi lost the fight first. Sweeney followed, slower, appalled at himself. The graduate students smiled dutifully at the pavement.
-
 
 “And for the record,” David said, “there are only two ways disciplinary intimacy lands.”
 
-
 Sweeney made a low sound that might have been caution if David had any intention of being cautioned.
-
 
 “Title IX,” David said, “or tenure.”
 
-
 That broke them properly.
-
 
 Bardon, who had never met a good moment he could not maim by entering, leaned forward. “Speaking from experience, are we, Professor Lang?”
 
-
 David glanced at him. “I don’t know, Bardon. Shouldn’t you wait to see which side wins, then dodge conclusions for the rest of your career and let the next man make the call? History: always two steps behind.”
 
-
 What remained of their composure did not survive it.
-
 
 “Good to have you back, Lang,” Sweeney said a moment later, roughening the line so it would not have to count as sincerity.
 
 
-“Yes, well. I should plant you all in my dying 201 right now,” David said. “You’re already warmed over and morally underprepared.”
-
-
 The group adjusted around him. News passed backward in glances. Half the gossip, apparently, had been about him. David caught the little nods, the softened faces, the quick professional rearrangements of sympathy into banter. He ignored all of it. That was the agreement, whether they knew it or not. He had returned, and the world would resume its proper cruelties.
-
 
 They reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad.
 
-
-David stopped.
-
-
-He did not decide to. His body simply refused the next step.
-
+David stopped. He had not decide to. His body simply refused the next step.
 
 The effect was immediate. The line behind him collapsed into itself: shoes scuffing, brief apologies, Sweeney’s hand coming up to steady Naomi’s coffee before it betrayed everyone.
 
-
 “Lang?” Sweeney said.
-
 
 At first the sensation was almost ordinary. Indigestion, perhaps. A pressure under the sternum. A sour inward lurch.
 
-
-Then the sound arrived.
-
-
-No. Not sound.
-
-
-Pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing, unforgiving.
-
-
-A number came with it.
-
-
-68.48 Hz.
-
-
-Not a guess. Not calculation. The number arrived whole, absurdly precise, and not in his voice.
-
+Then the sound arrived. Grating under pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing, unforgiving.
 
 David took one hard breath. Or tried to. The air would not quite enter. For one impossible second, he assumed they had all heard it.
 
-
 Then his stomach turned with the sickening sensation of a body briefly released from time. He felt at once twenty years younger and twenty years older, as though either side of him had rushed inward to make competing claims. For a flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sank the other way, into some greyed and brittle age not yet his.
 
-
-Then it snapped back.
-
-
-Cold air. Stone underfoot. Sweeney staring.
-
+Then it snapped him back into the now.
 
 “You heard that,” David said.
 
-
 Sweeney glanced around. “Heard what?”
-
 
 “That tone just now.”
 
-
 Naomi looked from one to the other. “Oh, we heard your tone, Professor.”
-
 
 A small nervous laugh ran through the group and died young.
 
-
 David took a half step back.
-
 
 The pressure eased.
 
-
-Not vanished. Eased.
-
-
 His gaze dropped to the seam in the paving. The darker stones began there, running uphill toward the quad as though the campus had drawn a line through itself and left it waiting.
-
 
 Sweeney circled back, now genuinely concerned and therefore harder to mock.
 
-
 “Hey,” he said, lowering his voice. “Really. Glad you’re back, David. I heard the service was a who’s who of Boston’s best. He was a great man, your dad. Be proud of a big life, yeah?”
 
+“Yeah thanks, Hank.” David forced the words through his teeth. “He was. Appreciate it.”
 
-“Thanks, Hank.” David forced the words through his teeth. “He was. Appreciate it.”
-
-
-Sweeney studied him. “You okay? You’re sweating like a bullet. It’s six degrees out here.”
-
+Sweeney studied him. “You okay? You’re sweating like it’s eighty degrees out here.” He paused to take in the fridgid moment of the morning. “More like eight, yeah?”
 
 Naomi took one step closer. The movement was small but unmistakable: a handoff being prepared.
 
-
-“Fine,” David said. “Long few days.”
-
+“I’m… I’m fine,” David said. “Long few days is all.”
 
 “Of course. Take it easy, all right? Don’t let those quantum undergrads take you down.”
 
-
 “Please. They’ll need a quorum first.”
 
+David’s intact humor served as sufficient reassurance for Sweeney and he allowed the tug of another conversation to take him. Within moments he had been absorbed back into the advancing clot, his voice rising toward some new administrative obscenity.
 
-That reassured Sweeney enough to be moved along by the tug of another conversation. Within moments he had been absorbed back into the advancing clot, his voice rising toward some new administrative obscenity.
-
-
-David remained at the seam.
-
-
-Naomi stayed with him.
-
+Only David and Naomi remained.
 
 “You’re not fine,” she said.
 
-
 “No,” he said, still looking at the stones. “But I am late.”
-
 
 She followed his gaze. “What happened?”
 
-
 “I don’t know.”
 
-
-That was too honest. He regretted it immediately.
-
-
-The darker paving waited.
-
-
-David stepped across it.
-
-
-The frequency returned at once, harder now, driving behind his eyes with such force that his lids clamped shut on instinct. Both hands shot out for the nearest tree trunk. His body folded toward it. Teeth. Sternum. Sockets. Base of the skull. The sound was everywhere and nowhere, less heard than imposed.
-
-
-A guttural cough tore out of him, wet and ugly. Saliva flooded his mouth. His body, affronted by whatever had entered it, tried to reject the intrusion by any available means.
-
-
-“David.”
-
-
-Naomi’s voice came from far away.
-
-
-The ordinary world had flattened to vibration and force and that impossible wrench through time. Bark bit his palms. Cold air scraped his throat. He bent closer to the tree, trying with furious privacy not to come apart where students might see him.
-
-
-Then Naomi touched his shoulder.
-
-
-The screaming world released him.
-
-
-Not faded. Released.
-
-
-Breath returned so violently it hurt. David opened his eyes and dragged air into himself like a man hauled back from underwater.
-
-
-“Jesus,” Naomi said.
-
-
-He straightened too fast, caught himself, then let go of the trunk.
-
-
-“I’m fine,” he said, and heard at once that he was not.
-
-
-“No,” Naomi said. “You aren’t.”
-
-
-“No,” he agreed, wiping his mouth with the back of one hand. “But I am late.”
-
+That was too honest. He regretted it immediately. Ahead, the darker paving lay waiting.
 
 “Do you want me to call someone?”
 
-
 His glance returned to the seam. It lay there dark and entirely without confession.
-
 
 “No.”
 
-
 “Walk in with you, then.”
-
 
 He adjusted the satchel against his shoulder. His hands were shaking, which offended him more than the nausea.
 
-
 “I think I’d rather preserve the illusion of dignity, if nothing else.”
-
 
 “David.”
 
-
 It was the first time that morning she had used his name without title.
-
 
 He stood there breathing once, then again, and forced the air to settle him back into a shape the world would accept.
 
-
 “I know,” he said.
-
 
 She waited.
 
-
 “I know,” he repeated, more quietly.
-
 
 Naomi studied him another moment, then nodded toward campus. “I’ll be nearby.”
 
-
 “How ominous.”
-
 
 “Good.”
 
-
 She moved off toward the hall.
-
 
 David waited until she had gone on ahead before stepping again. This time he gave the seam a wide berth.
 
+At the building doors he paused with one hand on the handle. Under his watch, he could feel the skin of his wrist begin to stretch and pulse. He was surely late now. He glanced at the face of it. Eight minutes and forty-seven seconds late. Christ.
 
-At the building doors he paused with one hand on the handle.
-
-
-Eight minutes and forty-seven seconds late.
-
-
-Christ.
-
-
-He drew one breath. Then another.
-
-
-Stand up straight. Smile on. Pull.
-
+He drew one breath. Then another. Stand up straight. Smile on. Pull.
 
 “Good morning.”
 
-
 The room looked up. Unenthusiastic mumbles of good morning returned from the benches.
-
 
 David gave them a smile just bright enough to be suspicious and looked across the practically empty hall. Sixty-three on the roster. Thirteen in the benches.
 
-
 Entropy in midterm made evidence. Verdict.
-
 
 “My,” he said. “A full house.”
 
-
 He set his satchel on the desk and glanced down at the roster with a show of uncertainty.
-
 
 “Let me make sure you’re all in the right place. This is…” He traced a line with one finger. “Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork agree.”
 
-
 A few students lifted their heads.
-
 
 Good. Not dead. Merely under-resourced.
 
-
 “And I am—” He checked the page again, “David Lang. The Feynman Chair of Quantum Dynamics.”
-
 
 A beat.
 
-
 “A grand title, I know. Cornell mentions it more often than I do, and with noticeably greater satisfaction.”
 
-
-That got one or two of them.
-
-
-He took the chalk from the tray.
-
+That got one or two of them. He took the chalk from the tray.
 
 “If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating for sustained exposure, then by all means go to lunch.” He tipped the chalk lightly toward the door. “Nobody’s hungry?”
 
-
 Nothing.
-
 
 “Right. Heroism all around.”
 
-
 As he turned, the brushed-metal plaque by the door caught his eye. It praised the room’s unique ornamentation, claiming it had been designed to soothe the psyche and elicit heightened states of mental acuity.
-
 
 They said the same things about heroin for a hundred years.
 
-
-“Let’s try this again,” he said.
-
-
-He wrote across the board:
-
+“Let’s try this again,” he said. He wrote across the board:
 
 CAUSALITY
 
-
 “The old narcotic.”
-
 
 The chalk clicked once against the slate.
 
 
 “We left off last time pretending, for the sake of civilization, that effects follow causes in a clean and obedient line. A charming belief. Useful in courts of law, middle management, and certain marriages.”
 
-
 The room offered a mild pulse of amusement.
-
 
 David felt the old register find him. Dry, amused, faintly lethal. The ease of it irritated him. Even his gifts had begun lying on his behalf.
 
-
 “Imagine,” he said, “a coin already in your pocket. As long as its presence remains unknown, its value is…”
-
 
 He waited.
 
-
 “Anyone?”
-
 
 Nothing.
 
-
 “Time’s up. Thank you for playing.”
-
 
 More heads lifted.
 
-
 “Indeterminate was the answer, for those of you keeping score.” He looked about the room. “Also indeterminate, I see.”
-
 
 That got the laugh. Small, but real.
 
-
 “Only when your hand closes around the coin does the system collapse and definite worth emerge. That is when you learn whether the laws of physics have bought you a steak dinner or a pack of ramen noodles.”
-
 
 A larger laugh now. Relief disguised as attention.
 
-
 They were alive. A miracle. Use it.
-
 
 “You think I’m joking? I’m not. Until observed, that coin could be worth more than your tuition. Take a look around the room. See if you can spot the person with the Ivy League penny in their pocket.”
 
-
 Students began pointing at each other. A few, emboldened, pointed at David.
-
 
 “Me?” He laughed. “Not a chance. I’m not that lucky.”
 
-
 The room loosened.
-
 
 For one clean minute, David Lang had them.
 
-
 “That,” he said, letting the word settle, “is the tyranny and the grace of superposition. Before you get involved: endless possibilities. After you engage: no choices left.”
-
 
 The silence afterward was different. Not reverence. Christ, no, he was not dead yet. But attention of the grudging, undergraduate kind.
 
-
 He stepped to the desk for a fresh stick of chalk, one arm still half-raised behind him, holding the thought in place until he turned back. When his fingers closed around the box, pain shot through them. Sudden. Familiar. His joints remembering something they knew too well.
-
 
 He ignored it.
 
-
 Dust hung in the slant of morning light, each mote briefly suspended in its own small uncertainty.
-
 
 David turned back to the board, his arm swinging wide like a conductor drawing in some distant section. The clean edge of the chalk struck sharp against the slate.
 
-
 “Now. Look here.”
-
 
 He wrote the causal expansion across the board:
 
-
 Ψ = Σ cᵢ |ϕᵢ⟩
-
 
 “This,” he said, tapping the Ψ, “is the whole wave function. The system. Everything that can be, all at once. A probability cloud, if you like metaphors, which I do.”
 
-
 He underlined the summation.
-
 
 “This sum stacks up the possible states the system could collapse into. Each |ϕᵢ⟩ is a state, a version of reality. The little cᵢ out front? That’s how much each one contributes. Its weight. Its vote count, if you like democracy, which I do in theory and try not to watch in practice.”
 
-
 Another laugh.
 
+He paused a fraction too long at the end of the line, chalk still resting against the slate as though the equation had not quite finished with him.
 
-He paused just a fraction too long.
-
-
-Then his hand moved without him.
-
-
-Beneath the equation, in the same chalk, in his own unmistakable script, he wrote:
+Then his hand carried the expression forward with a calm that did not belong to him, adding what might, to a careless eye, have looked like a minor correction: a small concession to disorder, the sort of term one permits a model when one wishes to admit, without quite surrendering, that no system survives contact with the world entirely clean.
 
 
 + η(68.48 Hz)
 
+David stared at the addition. It was not even good notation. Yes, noise belonged in models; error terms had their uses. But not here. Not tacked onto the wave function like an accusation.
 
-David stared at it.
+He looked at it again.
 
+68.48 Hz.
 
-He had not meant to write noise into the equation.
+And then, with a slow inward horror that seemed at first like thought and only later revealed itself as recognition, the morning crossing returned to him in pieces: the seam in the paving, the pressure beneath his sternum, Sweeney’s voice gone thin beside him, Naomi’s face arranging itself into concern, the sickening rush of being, for one impossible instant, both younger and older than himself.
 
+The pressure.
 
-Worse, he knew it was correct.
+The pitch.
 
+The number.
 
-The hum returned.
+That was it. Exactly.
 
-
-Deep. Menacing. Unforgiving.
-
+He had heard it, felt it long before he knew it’s address.
 
 The number no longer merely sat on the board. It pressed into him. His chest tightened around it. His fingers locked on the chalk. The room lost cohesion at the edges, the tall windows slicing daylight into hard panes behind the students’ heads.
 
-
 They had seen it. How could they not have seen it?
-
 
 With that, the superposition of the lecture collapsed.
 
-
 He heard himself say, “And if the system admits noise—”
-
 
 The words were his. The mouth was his. The thought was not clearly his at all.
 
-
 The hum scraped deeper. Remembered and present. A confession disguised as formalism, mocking him from the board.
-
 
 Still, David knew he could salvage this. He had done it before. Not this, exactly. But rooms. Rooms could be saved. Authority was ninety percent timing and ten percent refusing to bleed visibly.
 
-
 “All right,” he said, forcing brightness into the line. “You know what, let’s shift the frame. Honestly, I’m not even sure I understand what I’m saying there, so…”
-
 
 A few students laughed, uncertainly grateful for permission.
 
-
 He turned back to the board. Heartbeat: staccato.
-
 
 Maybe Einstein. Something familiar. He had half a mind to ask whether anyone had an apple, but decided to leave Newton out of it.
 
-
 What came to him instead was not strictly physics, but it was something, and something would have to be enough.
-
 
 He erased a section of the board and wrote in block letters:
 
-
 HOW DO YOU MEASURE PROXIMITY?
 
-
 Then underneath:
-
 
 d(x,y) = ?
 
 
 He stepped back.
 
-
 Squinted.
-
 
 Erased it.
 
-
 Rewrote:
-
 
 PROXIMITY ≠ DISTANCE
 
-
 Better. Maybe.
-
 
 He could not hear himself. The buzz hovered at the threshold of submerging him, pressure building just behind his eyes, poised to drown thought at its source. He turned away, shielding his face from the room.
 
-
 Come on, Lang. Focus, you fool.
-
 
 He ticked his head to one side, then the other.
 
-
 Almost immediately, for no reason he could name, the frequency’s grip eased.
-
 
 A block of useful thought took shape in his head, and David seized it.
 
-
 “When the world resonates,” he said, voice gone soft and strange, “you feel less alone. Like there’s structure underneath the noise. But drift just a little, and that structure collapses.”
-
 
 The room gave him nothing back.
 
-
 “There is a fundamental frequency beneath everything. Beneath language. Beneath light.”
-
 
 Something touched the edge of his mind.
 
-
 When his sight returned fully to the room, Rune Ishikawa was standing in the doorway.
 
-
-No. Not standing exactly.
-
-
-Placed there.
-
-
-The chair of the department. The Guardian of East Hill. Arranged like a symbol.
-
+No. Not standing exactly. Placed there. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
 
 Shit.
 
-
 David had no idea how long Rune had been there. No idea how much he had heard.
-
 
 He swallowed hard, then reset. With the students staged between them, decorum required a formal introduction. Anything less would concede the room.
 
-
 He drew the necessary breath, but Rune stepped in first and took it from him.
-
 
 “Are you not, in fact, describing musical harmony, Professor Lang?”
 
-
-David froze.
-
-
-Something inside him snapped taut. A tension string pulled too far, too fast.
-
+David froze. Something inside him snapped taut. A tension string pulled too far, too fast.
 
 “No. No, I’m not, Rune. Christ. What an idiotic question.”
 
-
 The room went still.
-
 
 David heard the sentence after he said it. Too late. It had left him and begun its institutional life.
 
-
 “Harmony is passive,” he continued, because stopping now would be death. “It’s a consequence. Resonance is physical. It builds.”
-
 
 “Oh, I see.” Rune smiled slightly. “Vulgarity notwithstanding, you’re saying harmony is a result of the intrinsic resonant forces underpinning the intervals?”
 
-
 “Well, yes. I mean—”
-
 
 David had lost the thread.
 
-
 Ishikawa had not.
-
 
 “But resonant structures can alter without corrupting the base harmonics, isn’t that right?”
 
-
 “That is a conveniently flattened—”
-
 
 “You know,” Rune continued, as if David were not there, “it’s been a long time since my marching band days.”
 
-
 He turned to the students with an apologetic smile, and somehow the interruption became his room.
-
 
 “I once fancied myself a bassoonist. Fabulous instrument. Terrible embouchure, I’m afraid.”
 
-
 “Dr. Ishikawa,” David said, “was there something you—”
-
 
 “Oh, it’s a trifle, Professor Lang. Correct me if I’m wrong, but a minor third atop a major third creates a major triadic harmony, yes?”
 
-
 “Well…”
-
 
 Rune had no interest in his answer.
 
-
 “Right. Yet that same harmonic structure, when inverted, can be created by a major third and… oh, shoot, what is it? Help me, won’t you, David? It’s a…”
-
 
 “A perfect fourth,” David replied.
 
-
 “Of course.” Rune snapped his gloved fingers. “A perfect fourth.”
-
 
 He placed both hands, palms down, into the front pockets of his suit jacket and gave a slight elegant shrug.
 
-
 “Well. I must be missing something, no? Or perhaps the inquiry is, as you say, idiotic.”
 
-
-David was seething now.
-
-
-Not lecturing. Not reasoning.
-
+David was seething now. Not lecturing. Not reasoning.
 
 “Harmony happens when everything is already aligned,” he said. “Resonance creates that alignment.”
 
-
 He swiveled back and pointed toward the doorway.
-
 
 “And you—you of all people, Rune—you know that.”
 
-
-Silence.
-
-
-Nothing.
-
-
-There was no one in the doorway.
-
-
-Rune was gone.
-
+Silence. Nothing. There was no one in the doorway. Rune was gone.
 
 No expression. No comment. Just gone.
 
-
-David caught his breath. Let the fury settle like ash. Then he turned, stoically, back to the board.
-
-
-Confused.
-
-
-Embarrassed.
-
+David caught his breath. Let the fury settle like ash. Then he turned, stoically, back to the board. Confused. Embarrassed.
 
 He wrote:
 
-
 RESONANCE = SURVIVAL
-
 
 This time, he let it stay.
 
+Behind him came the sound of shoes shifting away. Soft leather. Unhurried. The pace of administrative authority. Or a student changing posture. Or no sound at all. David could no longer trust the room’s acoustics, which meant he could no longer trust the room.
 
-Behind him came the sound of shoes shifting. Soft leather. Unhurried. The pace of administrative authority. Or a student changing posture. Or no sound at all. David could no longer trust the room’s acoustics, which meant he could no longer trust the room.
+He stood there, frozen, staring into the slate. The reckless edge of what he had said tore through him line by line. There was no taking it back. No apologizing for it either. Any absolution would only dissolve him in his students’ eyes.
 
-
-He stood there, frozen, staring into the slate.
-
-
-The reckless edge of what he had said tore through him line by line. There was no taking it back. No apologizing for it either. Any absolution would only dissolve him in his students’ eyes.
-
-
-He needed a way out.
-
-
-He would have to own it.
-
+He needed a way out, but he would have to own it.
 
 He snapped a false grin and gestured toward the empty doorway.
-
 
 “Dr. Ishikawa, ladies and gentlemen. Always an honor to have his unique perspective.”
 
 
 The smile dropped to something just north of nothing.
 
-
 “What a legend.”
-
 
 He blinked once, then again.
 
-
 A breath. A gulp.
-
 
 “All right then,” David said. “Moving on.”
 
