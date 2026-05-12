@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,266
+Word Count:      8,295
 Paragraph Count: 257
 Scene Count:     4
 
 Scene 1: I.  Preliminary Observations  --  Words 1–1,219  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: II.  Method and Resonance  --  Words 1,220–2,030  |  Paragraphs 28–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: III.  Findings and Implications  --  Words 2,031–2,949  |  Paragraphs 56–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,950–8,266  |  Paragraphs 81–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 2: II.  Method and Resonance  --  Words 1,220–2,037  |  Paragraphs 28–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: III.  Findings and Implications  --  Words 2,038–2,956  |  Paragraphs 56–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 4: IV. Lossless Transfers  --  Words 2,957–8,295  |  Paragraphs 81–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -100,7 +100,7 @@ He sat. The cello pressed to his sternum, a second ribcage. Cold. Resonant. He a
 
 The tuning fork sat six inches from the C-bout.
 
-He drew the bow—rosined to excess—and struck the open A. Clean, but its decay quivered, beating against the harmonic. He let it ring, then shifted into third position, stopping the D string at F♯.
+He drew the bow, rosined to excess, and struck the open A. Clean, but its decay quivered, beating against the harmonic. He let it ring, then shifted into third position, stopping the D string at F♯.
 
 The interval didn’t fill the room. It shaped it. Air between f-holes and chalkboard thickened into a standing wave. The fork responded. It skittered in a microscopic orbit, singing a phantom overtone two octaves above the note.
 
@@ -120,7 +120,7 @@ He set the cello down with care and returned to the board. The formula was close
 
 The dates resolved like a fugue’s final cadence. He marked them, linked the dots, drew an arc—connecting peaks, intervals, moments of genius rising from background noise. In that arc: the universe, written in the grammar of sound.
 
-Chalk dust fell from his fingertips. His heart kicked forward—wild, sure—the rhythm of a mind just past climax, when everything clicks and the air shifts.
+Chalk dust fell from his fingertips. His heart kicked forward, wild and sure; the rhythm of a mind pushed just past climax, when everything clicks and the air shifts.
 
 The light had changed, angling low across the board. Still, the numbers glowed, the story indelible.
 
@@ -130,7 +130,7 @@ And in the hush, the old woman’s voice returned, softer now, veiled in a kind 
 
 “You are close,” she had said. “Soon…”
 
-Lang smiled—without irony, without self-reproach.
+Lang smiled, without irony, without self-reproach.
 
 He picked up the chalk, now steady, and wrote the phrase that would define the rest of his life:
 
@@ -259,7 +259,7 @@ East Hill rose before him in tiers of scattered light. Rooflines fell off into d
 
 David looked up, breath heavy. He stood there, eyes narrowing against the great moon's glare, willing the night sky to supply answers.
 
-The moon hung silent before him, almost full, lucid and remote. So bright it seemed to have authored itself. Then the old fact came to him plain: all that light was borrowed. The moon served as emissary, stand-in, filter for the great star. Her Majesty the Sun lay out of sight, hidden below the world, impossibly distant, and still its reach governed what could be seen.
+The moon hung silent before him, almost full, lucid and remote. So bright it seemed to have authored itself. Then the old fact came to him plain: all that light was borrowed. The moon served as emissary, stand-in, a filter for the great star. Her Majesty the Sun lay out of sight, hidden below the world, impossibly distant, and still its reach governed what could be seen.
 
 David watched as a whispered cloud passed over the lunar glow. Gathered vapor, water in air. At once the whole visible city softened and lost its edges. Roofs dulled, brick dimmed. The deck rail under his hand altered its relation to the dark. Force continued. It had shifted, diffused, redistributed.
 
@@ -269,13 +269,13 @@ David stayed in the cold a moment longer, breathing through the sting in his che
 
 He stepped back inside onto the catwalk high above the main room and pulled the balcony door shut. As the door sealed behind him, he knew the room below had altered. The arrangement of things remained, but their charge had shifted. Perhaps the fire had lifted a little. Perhaps a page on the coffee table had moved. The apartment no longer felt unoccupied. It felt taken.
 
-He moved slowly to his left and leaned over the railing atop the stairs.
-
-The deep leathered core of the old seat by the hearth sat occupied. At first only a density in the half-dark, a shape the eye could not quite close on. The fire had burned low enough that the form was more suggestion than fact, a dark that held when the rest of the room moved.
+He moved slowly to his left and leaned over the railing atop the stairs. At once, even through distance and the haze of dark, he understood: the occupancy of the room had fully altered. Deep in the leathered core of the old seat by the hearth, a presence was newly seated. A density of shadow and shape that the eye could not quite close on. The fire had burned low enough that the form was more suggestion than fact, a dark that held when the rest of the room moved.
 
 Then a figure emerged. The body made its mistake before the mind could intervene: the broadness through the chest, the angle of the head, one arm resting the way Arthur used to let it fall when he sat up too late with a part book open across his knees, pencil tucked behind his ear.
 
-"Dad." The word came out of him before he knew he was speaking. Relief and dread and the raw, unthinking hope of a man who had been calling into absence for so long he no longer expected an answer. The word went out into the room and landed somewhere, on someone.
+“Dad?"
+
+The word came out of him before he knew he was speaking. Relief and dread and the raw, unthinking hope of a man who had been calling into absence for so long he no longer expected an answer. The word went out into the room and landed somewhere, on someone.
 
 The figure lifted its head.
 
