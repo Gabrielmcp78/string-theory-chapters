@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,612
-Paragraph Count: 469
+Word Count:      11,636
+Paragraph Count: 470
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: The Ivy League  --  Words 23–4,987  |  Paragraphs 8–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 4,988–4,988  |  Paragraphs 271–271  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 4,989–7,232  |  Paragraphs 272–331  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,233–7,233  |  Paragraphs 332–332  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,234–10,379  |  Paragraphs 333–438  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,380–10,380  |  Paragraphs 439–439  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,381–11,612  |  Paragraphs 440–469  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: The Ivy League  --  Words 23–5,011  |  Paragraphs 8–271  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,012–5,012  |  Paragraphs 272–272  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,013–7,256  |  Paragraphs 273–332  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,257–7,257  |  Paragraphs 333–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,258–10,403  |  Paragraphs 334–439  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,404–10,404  |  Paragraphs 440–440  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,405–11,636  |  Paragraphs 441–470  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -71,21 +71,21 @@ The Ivy League
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
-David Lang had not slept. Three energy drinks of the insulin-requiring variety and four hundred miles of Massachusetts interstate had pushed his nervous system into the next day despite his body's objections. He had compensated with a sensible breakfast: mini donuts and coffee. He had organized himself precisely. He had achieved ten minutes early.
+David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. He had compensated with a sensible breakfast: mini donuts and coffee. He had organized himself precisely. He had achieved ten minutes early.
 
-Then he remembered the book. A trifle for Celeste: something on tuning methods in eighteenth-century Europe, bought in town before Boston and left in the still-packed suitcase alongside all the other gestures too delicate to survive travel.
+Then he remembered the apology gift. For what, he rarely knew, only that it would soon be required. A book for Celeste, something on tuning methods in eighteenth-century Europe, now lay in his still-packed suitcase with all the other gestures too delicate to survive travel.
 
-For one professionally indefensible moment, David considered remembering it enough.
+For one professionally indefensible moment, David considered remembering it to be enough.
 
-Then standards, those old tyrants, returned.
+Then standards returned. He climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, open and still packed.
 
-He reached into the suitcase and pulled the book free from beneath the laundry. A glance at the opening pages was enough to start that dangerous calculation: still early enough to close his eyes for a minute. The rest of him agreed immediately, and David fell into an unintended morning nap.
+He pulled the book from beneath a heap of dirty laundry. A glance at the opening pages began the fatal arithmetic: still early enough to close his eyes for one minute. The rest of him agreed immediately, and David fell into an unintended morning nap.
 
-When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm. His watch, pressed tight against the tendon of his wrist, reported the damage without apology.
+When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm.
 
 Fifteen minutes.
 
-Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he calculated, forty-seven seconds past his time.
+Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and forty-seven seconds past his time.
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. As he looked down over the burgeoning morning, the short distance between him and the southern entrance of Cornell's Ithaca campus spread out before him. He could just make out what looked like the familiar patterns of the gang already gathered below, already drawing themselves into their usual migratory clot, already moving toward the first rise without him.
 
@@ -257,6 +257,7 @@ He stood there clutching his lecture notes too tightly, listening to nothing at 
 
 Behind the doors, thirteen students waited to be disappointed. The outcome was all but preordained, but David, as always, entered with the intention to win them over entirely. All he required was a provisional level of trust, temporary as it might be, sufficient to allow for a moment or two of genuine, suspended belief.
 
+
 ⁂
 
 "Good morning."
@@ -345,17 +346,15 @@ d = √(Δx² + Δy²)
 
 He stepped back. The hum pressed against his eardrums. The windows were doing strange things to the light.
 
-"When the world resonates," he said, his voice gone softer now, stranger, "you feel less alone. Like there's structure underneath the noise. Drift just a little—" He snapped his fingers. "And that structure collapses."
+"When the world resonates," he said, his voice gone softer now, stranger, "you feel less alone. Like there's structure underneath the noise. Drift just a little…” He snapped his fingers. "And that structure collapses."
 
 He scanned the room.
 
-"There is a fundamental frequency beneath everything. Beneath language. Beneath light. Beneath—"
+"There is a fundamental frequency beneath everything. Beneath language. Beneath light."
 
 Then something tapped on the shoulder of his mind.
 
-He opened his eyes.
-
-Dr. Rune Ishikawa. Standing in the doorway. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
+He opened his eyes to find Dr. Rune Ishikawa standing, no placed, in the doorway. The chair of the department. The Guardian of East Hill. Arranged like a symbol.
 
 David had no idea how long Rune had been standing there.
 
@@ -365,11 +364,11 @@ He drew breath for an introduction, but Rune stepped in first and took it from h
 
 David froze. Something inside him pulled taut—a string tuned too high for too long.
 
-"No," he said. "No, I'm not, Rune. Christ. Harmony is passive. It's a consequence. Resonance is physical. It builds."
+"No," he said. "No, I'm not, Rune. Christ. What an idiotic question. Harmony is passive. It's a fucking consequence. Resonance is physical. It builds."
 
 The room went still.
 
-"Oh, I see." Rune smiled—a thin, elegant blade of a smile. "Vulgarity notwithstanding, you're saying harmony is a result of the intrinsic resonant forces underpinning the intervals?"
+"Oh, I see." Rune smiled a thin, elegant blade of a smile. "Vulgarity notwithstanding, you're saying harmony is a result of the intrinsic resonant forces underpinning the intervals?"
 
 "Well, yes. I mean—"
 
@@ -381,7 +380,11 @@ The room went still.
 
 "Dr. Ishikawa, was there something you needed?”
 
-“Oh, it’s a trifle, and correct me if I'm wrong, but a minor third atop a major third creates a major triadic harmony, yes? Yet that same harmonic structure, when inverted, can be created by a major third and—oh, help me, won't you? It's a…"
+“Oh, it’s a trifle David, and correct me if I'm wrong, but a minor third atop a major third creates a major triadic harmony, yes?”
+
+“Well, yes.” David had to concede that.
+
+“Yet that same harmonic structure, when inverted, can be created by a major third and—oh, help me David, won't you? It's a…"
 
 "A perfect fourth," David said through his teeth.
 
