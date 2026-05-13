@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-05-12",
-  "total_words": 106809,
+  "total_words": 106741,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -11,8 +11,8 @@
       "label": "Overture",
       "title": "(Fragment recovered from sealed archive)",
       "subtitle": "",
-      "word_count": 351,
-      "paragraph_count": 26,
+      "word_count": 282,
+      "paragraph_count": 21,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt",
@@ -24,7 +24,7 @@
       "label": "Chapter 1",
       "title": "Opus No. 46 in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 11611,
+      "word_count": 11612,
       "paragraph_count": 469,
       "scene_count": 9,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
@@ -34,7 +34,7 @@
           "n": 1,
           "heading": "MOVEMENTS",
           "word_start": 7,
-          "word_end": 20,
+          "word_end": 21,
           "para_start": 2,
           "para_end": 6,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html"
@@ -42,8 +42,8 @@
         {
           "n": 2,
           "heading": "I",
-          "word_start": 21,
-          "word_end": 21,
+          "word_start": 22,
+          "word_end": 22,
           "para_start": 7,
           "para_end": 7,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
@@ -51,8 +51,8 @@
         {
           "n": 3,
           "heading": "The Ivy League",
-          "word_start": 22,
-          "word_end": 4986,
+          "word_start": 23,
+          "word_end": 4987,
           "para_start": 8,
           "para_end": 270,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
@@ -60,8 +60,8 @@
         {
           "n": 4,
           "heading": "II",
-          "word_start": 4987,
-          "word_end": 4987,
+          "word_start": 4988,
+          "word_end": 4988,
           "para_start": 271,
           "para_end": 271,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
@@ -69,8 +69,8 @@
         {
           "n": 5,
           "heading": "THE Office",
-          "word_start": 4988,
-          "word_end": 7231,
+          "word_start": 4989,
+          "word_end": 7232,
           "para_start": 272,
           "para_end": 331,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html"
@@ -78,8 +78,8 @@
         {
           "n": 6,
           "heading": "III",
-          "word_start": 7232,
-          "word_end": 7232,
+          "word_start": 7233,
+          "word_end": 7233,
           "para_start": 332,
           "para_end": 332,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html"
@@ -87,8 +87,8 @@
         {
           "n": 7,
           "heading": "THE REHEARSAL HALL",
-          "word_start": 7233,
-          "word_end": 10378,
+          "word_start": 7234,
+          "word_end": 10379,
           "para_start": 333,
           "para_end": 438,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html"
@@ -96,8 +96,8 @@
         {
           "n": 8,
           "heading": "IV",
-          "word_start": 10379,
-          "word_end": 10379,
+          "word_start": 10380,
+          "word_end": 10380,
           "para_start": 439,
           "para_end": 439,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html"
@@ -105,8 +105,8 @@
         {
           "n": 9,
           "heading": "THE APARTMENT",
-          "word_start": 10380,
-          "word_end": 11611,
+          "word_start": 10381,
+          "word_end": 11612,
           "para_start": 440,
           "para_end": 469,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html"

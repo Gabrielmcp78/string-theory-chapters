@@ -7,8 +7,8 @@ Title:           (Fragment recovered from sealed archive)
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      351
-Paragraph Count: 26
+Word Count:      282
+Paragraph Count: 21
 Scene Count:     0
 
 ========================================================================
@@ -25,54 +25,41 @@ CLASSIFICATION: UNKNOWN
 ITHACA, NY - Fall, 1971
 
 
+Six researchers. Five disciplines. One hypothesis none of them wrote down.
 
-Six researchers. Five disciplines. One unstated hypothesis.
+Beneath East Hill, in a corridor absent from the public plans, they called it ARGO.
 
-The project had no paper trail, no official budget, and no faculty designation. Beneath East Hill, in the concrete corridors of Sub-level Two, they named it:
+Tsukino’s earliest surviving note gives the cleanest version:
 
-Project ARGO
+We are testing whether structure can recognize itself across impossible distances.
 
-Autonomous Resonance Generation and Observation
+The inputs were chosen for symmetry, not meaning: star positions, ritual calendars, obsolete tuning systems, linguistic trees.
 
-The system was designed to detect non-local structural recognition across temporal, semantic, and mathematical distance. Dr. Kenji Tsukino, project lead, laid out the objective saying, “We are testing whether structure can recognize itself across impossible distances.
+For forty-six runs, ARGO produced noise.
 
-Input sets were selected for symmetry rather than meaning:
+Sequence 47 began at 01:47 a.m.
 
-
-* Positional star charts
-
-* Ritual calendars
-
-* Ancient tuning systems
-
-* Phylogenetic linguistic trees
-
-
-For forty-six iterations, the output was indistinguishable from noise.
-
-Then came Sequence 47. 01:47 a.m.
-
-The system activated without external command. For nine minutes and forty-seven seconds, the thermal printer bypassed shutdown protocols and produced a repeating linguistic sequence assembled from overlapping astronomical and linguistic datasets:
-
+No operator initiated it. The printer ran for nine minutes and forty-seven seconds before power could be cut. The output repeated one line, assembled from incompatible datasets:
 
 47… THE FIRST MARK OF THE SECOND ORDER IS NOT WHERE YOU LEFT IT… 53
 
+The logbook addendum, unsigned:
 
-ARCHIVE ENTRY: LOGBOOK ADDENDUM
+The output coheres only when all inputs are read at once. It is not generating. It is mirroring.
 
-The output is coherent only when all inputs are referenced simultaneously. It suggests the data is not being generated, but mirrored.
+A second hand, later:
 
-Unknown hand, written beneath:
-
-The error was assuming we initiated the contact. We did not build a transmitter. We built a doorway.
+We assumed transmission. The later evidence suggests aperture.
 
 Three days later, Tsukino failed to appear for lectures. His office remained untouched. His apartment was locked from the inside. Every clock in the room had stopped at 01:47:47. Within a week, ARGO was sealed. The remaining researchers signed relocation agreements they were not permitted to read. Tsukino was never declared missing. His records were removed.
 
 Only the terminal remained active. Every forty-seven seconds, the monitor rendered a closed glyph composed of thirty-two lines. Each iteration differed slightly from the last.
 
-The only recovered artifact was a schematic for the tuning core folded into a textbook. In the margin, a final note:
+A final recovered note was found folded into a tuning-core schematic:
 
-We believed resonance required observation. We failed to consider that resonance requires reciprocity. We tuned to something. And when that something found coherence: It looked back. 68——48
+We believed resonance required observation. We failed to consider that resonance requires reciprocity. We tuned to something. And when that something found coherence: It looked back.
+
+
 
 
 
