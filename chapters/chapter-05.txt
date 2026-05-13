@@ -8,8 +8,8 @@ Subtitle:        a fantasia quasi sonata
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,455
-Paragraph Count: 224
+Word Count:      6,497
+Paragraph Count: 228
 Scene Count:     7
 
 Scene 1: I.  Falsifiable Fame  --  Words 16–804  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
@@ -18,7 +18,7 @@ Scene 3: III.  Groundbreaking  --  Words 1,825–2,937  |  Paragraphs 44–78  |
 Scene 4: IV.  Everything he was not  --  Words 2,938–3,785  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
 Scene 5: v.  Friendly forensics  --  Words 3,786–4,313  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
 Scene 6: VI.  Ishikawa’s Island  --  Words 4,314–6,169  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
-Scene 7: VII. The Thickening  --  Words 6,170–6,455  |  Paragraphs 214–224  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
+Scene 7: VII. The Thickening  --  Words 6,170–6,497  |  Paragraphs 214–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -27,10 +27,6 @@ a fantasia quasi sonata
 
 
 for scientific journal, lecture hall, colleague sync, and high back booth
-
-
-
-
 
 
 
@@ -105,6 +101,7 @@ The hum deepened, vibrating up through the soles of his feet. It was no longer j
 
 
 
+
 II.  Dream Lecture
 
 [Andante sostenuto - Andante luminoso]
@@ -138,6 +135,7 @@ He answered them all. The answers came from somewhere beyond his conscious mind,
 Finally, after ninety minutes, the spell broke. The department chair in the back row stood, giving a curt nod that seemed to release everyone else from their trance. The room erupted into genuine applause before floating down into the low buzz of conversation. Students gathered their things slowly, as if waking from a deep sleep.
 
 David stood at the podium, his skin buzzing, his mind eerily quiet. The triumph was there, a bright, hot coal in his gut. He had delivered the lecture of his life. But as the hall emptied, the hum returned to its baseline drone, and he was left with the cold, metallic taste of a question: What, exactly, had just happened?
+
 
 
 
@@ -213,6 +211,7 @@ The question hung in the air, the most sensible thing he’d heard all day. It s
 “No, Mia,” he said, his voice hollow. “No, it is most definitely not supposed to happen.”
 
 Mia, now amongst the very last of his core students still hanging on, had witnessed moments like this before. With Lang, the prevailing wisdom was always to gracefully make one’s exit and leave him to it, what ever… it was. And so, she… did.
+
 
 
 
@@ -504,24 +503,31 @@ And the world was already mid‑air.
 
 VII. The Thickening
 
+[Morendo]
 
-The air in David's apartment had thickened into something he moved through rather than breathed. The 68.48 Hz frequency was no longer a sound but a medium—resistant, filling, present in his lungs with every breath.
+The air in David's apartment had thickened into something he moved through rather than breathed. The 68.48 Hz frequency was no longer a sound but a medium: resistant, filling, present in his lungs with every breath.
 
 He stood in the kitchen watching a glass of water. Its surface quivered with impossible precision: standing waves formed a perfect grid, peaks and nodes holding steady. When he touched it, the pattern shattered, then reasserted itself stronger than before.
 
-A low groan came from the wall. The plaster had beaded with moisture that shivered in time with the hum. He pressed his palm flat against it. The vibration traveled up his arm, into his jaw.
+The air in David’s apartment had thickened into something he moved through rather than breathed. The 68.48 Hz frequency was no longer a sound but a medium: resistant, filling, present in his lungs with every breath.
 
-He found the tuning fork in his pocket—cool, certain. He struck it against the counter.
+A low groan came from the wall, where the plaster had beaded with moisture that shivered in time with the hum. Pressing his palm flat against it, he felt the vibration travel up his arm and into his jaw.
 
-The tone cut through. For three seconds, the room settled. The water stilled. The wall stopped trembling. The pressure in his head abated.
+From his pocket came the tuning fork, cool in his hand, certain. One sharp strike against the counter, and the tone cut through. For three seconds, the room settled: the water stilled, the wall stopped trembling, and the pressure in his head abated.
 
-Then the note decayed. The hum returned, amplified now, almost angry. Water splashed over the glass rim. The wall pulsed.
+Then came the note’s decay.
 
-He stumbled to the cello case and pressed the vibrating fork against its side. The instrument responded, its hollow body weaving the tone into a richer chord. The room held its breath again. Another few seconds of peace. Another decay.
+The hum returned, amplified now, almost angry. Over the glass rim, water splashed; the wall pulsed.
 
-The hum rushed back louder than before, and now it carried the ghost of the pure tone he'd introduced into something dissonant. The cello's strings began to vibrate in sympathy.
+Stumbling to the cello case, he pressed the vibrating fork against its side. The instrument responded, its hollow body weaving the tone into a richer chord. Again came the brief illusion of peace.
 
-He sank to the floor, back against the instrument, the silent fork in his hand. The hum was in the floorboards, in the building, in his bones. His thoughts began to align to its rhythm. Panic gave way to something else—something altogether quieter.
+Then another decay.
+
+Louder than before, the hum rushed back, and now it carried the ghost of the pure tone he’d introduced, twisted into something dissonant. In sympathy, the cello’s strings began to vibrate.
+
+He sank to the floor, back against the instrument, the silent fork still in his hand. The hum lived in the floorboards, in the building, in his bones. His thoughts began to align to its rhythm.
+
+Panic gave way to attunement.
 
 
 

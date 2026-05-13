@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-05-13",
-  "total_words": 106881,
+  "total_words": 106907,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -467,8 +467,8 @@
       "label": "Chapter 5",
       "title": "Twin Primes on the six",
       "subtitle": "a fantasia quasi sonata",
-      "word_count": 6455,
-      "paragraph_count": 224,
+      "word_count": 6497,
+      "paragraph_count": 228,
       "scene_count": 7,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.txt",
@@ -531,9 +531,9 @@
           "n": 7,
           "heading": "VII. The Thickening",
           "word_start": 6170,
-          "word_end": 6455,
+          "word_end": 6497,
           "para_start": 214,
-          "para_end": 224,
+          "para_end": 228,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html"
         }
       ]
@@ -544,8 +544,8 @@
       "label": "Chapter 6",
       "title": "Visions and Burdens… of Knowing",
       "subtitle": "a symphony in five movements",
-      "word_count": 6133,
-      "paragraph_count": 234,
+      "word_count": 6117,
+      "paragraph_count": 235,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -590,9 +590,9 @@
           "n": 5,
           "heading": "V.  Finale:  minimums  |  Isaac  Newton",
           "word_start": 4777,
-          "word_end": 6133,
+          "word_end": 6117,
           "para_start": 196,
-          "para_end": 234,
+          "para_end": 235,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html"
         }
       ]
