@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,636
-Paragraph Count: 470
+Word Count:      11,710
+Paragraph Count: 472
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEGUE  --  Words 23–5,011  |  Paragraphs 8–271  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,012–5,012  |  Paragraphs 272–272  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,013–7,256  |  Paragraphs 273–332  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,257–7,257  |  Paragraphs 333–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,258–10,403  |  Paragraphs 334–439  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,404–10,404  |  Paragraphs 440–440  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,405–11,636  |  Paragraphs 441–470  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,085  |  Paragraphs 8–273  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,086–5,086  |  Paragraphs 274–274  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,087–7,330  |  Paragraphs 275–334  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,331–7,331  |  Paragraphs 335–335  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,332–10,477  |  Paragraphs 336–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,478–10,478  |  Paragraphs 442–442  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,479–11,710  |  Paragraphs 443–472  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -65,7 +65,7 @@ IV.  The Apartment
 I
 
 
-THE IVY LEGUE
+THE IVY LEAGUE
 
 [Andante sostenuto—Presto agitato]
 
@@ -77,9 +77,9 @@ Then he remembered the apology gift. For what, he rarely knew, only that it woul
 
 For one professionally indefensible moment, David considered remembering it to be enough.
 
-Then standards returned. He climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, open and still packed.
+Then standards returned. He climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, unattended from the moment he had returned.
 
-He pulled the book from beneath a heap of dirty laundry. A glance at the opening pages began the fatal arithmetic: still early enough to close his eyes for one minute. The rest of him agreed immediately, and David fell into an unintended morning nap.
+He pulled the book from beneath a heap of dirty dress socks. A glance at the opening pages began the fatal arithmetic: still early enough to close his eyes for one minute. The rest of him agreed immediately, and David fell into an unintended morning nap.
 
 When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm.
 
@@ -97,13 +97,17 @@ He crossed the narrow streets south of campus with his coat tugging at his shoul
 
 Cold had sharpened the morning. The town's final porches sat slick and accusatory as Ithaca's last residential blocks began to acquiesce to the grand gates of the Ivy League.
 
-By the time Cornell's lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
+By the time Cornell’s lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
 The gaggle was already assembled below the first rise. Faculty, staff, graduate students: the usual cohort moving up the path. And there, near the center, Sweeney was talking. Of course he was.
 
-Four days of David's absence had left a vacuum, and Sweeney, like all soft men with tenure, expanded when unopposed.
+Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
 
 David felt something in him sharpen. Territory. A morning ritual improperly occupied. An imbalance awaiting correction.
+
+He looked down and found sabotage in full bloom: both laces dangling across his shoes. The initial looping and knotting had not survived the scramble toward the first rise. Begrudgingly, he knelt to repair the debacle, one eye on the task at foot and one on the task ahead.
+
+Finally done, he sprang upright and broke into the short, undignified spurts of speed required to catch them.
 
 He cut left through the trees that flanked the south side, taking the slope at an angle. Dead leaves broke underfoot. He kept low without meaning to, ridiculous and predatory, pacing them from cover until he drew parallel.
 
@@ -240,8 +244,8 @@ At the door he paused with one hand on the handle. Under his watch, he could fee
 He drew one breath. Then another. Stand up straight. Smile on. Pull.
 
 
-⁂
 
+⁂
 
 Deep in Sub-level Two, in a concrete corridor omitted from every floor plan since the Nixon administration, a copper bypass valve surrendered at last to the pressure of its own history. It did exactly what any dying thing must: it exhaled.
 
@@ -570,7 +574,7 @@ Until—his shin struck iron.
 
 The bench materialized out of fury and snow. Green paint weathered to gray-green, armrests pocked with rust, east-facing, twenty-eight feet off the main path.
 
-The hum was coming from beneath. Below. Six feet down. Where the capsule had been sealed—held in the deep by dirt and clay and the collective certainty that some knowledge should remain unknown.
+The hum was coming from beneath. Below. Six feet down. Where the capsule had been sealed, held in the deep by dirt and clay and the collective certainty that some knowledge should remain unknown.
 
 David stood there, chest heaving, snow evaporating off his coat, staring down at the iron armrest, the weathered slats, the frozen ground beneath.
 
