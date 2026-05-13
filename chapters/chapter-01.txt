@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,710
+Word Count:      11,779
 Paragraph Count: 472
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,085  |  Paragraphs 8–273  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,086–5,086  |  Paragraphs 274–274  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,087–7,330  |  Paragraphs 275–334  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,331–7,331  |  Paragraphs 335–335  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,332–10,477  |  Paragraphs 336–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,478–10,478  |  Paragraphs 442–442  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,479–11,710  |  Paragraphs 443–472  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,154  |  Paragraphs 8–273  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,155–5,155  |  Paragraphs 274–274  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,156–7,399  |  Paragraphs 275–334  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,400–7,400  |  Paragraphs 335–335  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,401–10,546  |  Paragraphs 336–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,547–10,547  |  Paragraphs 442–442  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,548–11,779  |  Paragraphs 443–472  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -85,7 +85,7 @@ When he woke fifteen minutes later, he found all plans for the morning already f
 
 Fifteen minutes.
 
-Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and forty-seven seconds past his time.
+Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. As he looked down over the burgeoning morning, the short distance between him and the southern entrance of Cornell's Ithaca campus spread out before him. He could just make out what looked like the familiar patterns of the gang already gathered below, already drawing themselves into their usual migratory clot, already moving toward the first rise without him.
 
@@ -99,7 +99,7 @@ Cold had sharpened the morning. The town's final porches sat slick and accusator
 
 By the time Cornell’s lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
-The gaggle was already assembled below the first rise. Faculty, staff, graduate students: the usual cohort moving up the path. And there, near the center, Sweeney was talking. Of course he was.
+The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort mingling and co-mingling. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
 
 Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
 
@@ -155,7 +155,7 @@ The group adjusted around him. Half the gossip had been about him. David caught 
 
 They reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad.
 
-David stopped. His body simply refused the next step.
+David stopped. His body suddenly refused the next step.
 
 The effect was immediate. Behind him, the line collapsed into itself: shoes scuffing, brief apologies, Sweeney's hand coming up to steady Naomi's coffee before it betrayed everyone.
 
@@ -163,11 +163,9 @@ The effect was immediate. Behind him, the line collapsed into itself: shoes scuf
 
 At first the sensation was almost ordinary. Indigestion, perhaps. A pressure under the sternum. A sour inward lurch.
 
-Then the sound arrived. Grating under pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing, unforgiving.
+Then the sound arrived. Grating under pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing. He felt as though he was about to vomit as the tone ro led through his guts. David took one hard breath, or tried to. The air would not quite enter. For one impossible second, he assumed they had all heard it.
 
-David took one hard breath, or tried to. The air would not quite enter. For one impossible second, he assumed they had all heard it.
-
-Then his stomach turned with the sickening sensation of a body briefly released from time. For a flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sank the other way, into some greyed and brittle age not yet his.
+Then his stomach turned again, this time with the sickening sensation of a body briefly released from time. For a flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sank the other way, into some greyed and brittle age not yet his.
 
 Then the present snapped shut around him.
 
@@ -213,49 +211,51 @@ She followed his gaze to the stones. "What happened?"
 
 That was too honest. He regretted it immediately.
 
-"Do you want me to call someone?"
+"Do you want me to call someone? Celeste, maybe?”
 
-"No."
+“No. God, no.”
 
 "Walk in with you, then."
 
 He adjusted the satchel. His hands were shaking, which offended him more than the nausea.
 
-"I think I'd rather preserve the illusion of dignity, if nothing else."
+“I think I’d rather preserve the illusion of dignity, if nothing else.”
 
-"David."
+“David.”
 
-He stood there breathing once, then again, and forced the air to settle him back into a shape the world would accept.
+He stood there breathing once, then again, until the tremor in his chest settled into something manageable.
 
-"I know," he said. Then, more quietly: "I know."
+“I know,” he said. After a moment: “I know.”
 
-Naomi nodded toward campus. "I'll be nearby."
+Naomi nodded toward campus. “I’ll be nearby.”
 
-"How ominous."
+“How ominous.”
 
-"Good."
+“Good.”
 
-She moved off toward the hall.
+She turned and headed toward the hall.
 
-David waited until she had gone fully around the corner and out of sight. Then, affording the seam a wide berth, he slowly continued toward the main entrance to Feynman Hall.
+David waited until she disappeared fully around the corner before continuing toward the entrance to Feynman Hall, keeping well clear of the seam.
 
-At the door he paused with one hand on the handle. Under his watch, he could feel the skin of his wrist begin to stretch and pulse. A glance down: eight minutes and forty-seven seconds past his time.
+The main doubt oak doors of the building clasped shut behind him as he rounded the corner to the hall, at about 30 feet from the door, he stopped. Beneath his grandfather’s Rolex, the skin of his wrist had begun to pulse and stretch.
 
-He drew one breath. Then another. Stand up straight. Smile on. Pull.
+Eight minutes and forty-seven seconds behind his time. Shit.
 
+He drew a deep breath, then another, squared his shoulders, and arranged himself into something resembling professor. The smile came easily after that. He knew it wasn’t entirely true. Anyone paying even slight attention could see that. But it was true enough for the moment, and the momentum in the room would carry it the rest of the way toward the threshold of student buy-in. His feet received the signal of general readiness and moved to close the remaining distance and deliver him to class.
 
 
 ⁂
 
-Deep in Sub-level Two, in a concrete corridor omitted from every floor plan since the Nixon administration, a copper bypass valve surrendered at last to the pressure of its own history. It did exactly what any dying thing must: it exhaled.
 
-A thin grey trickle of 1971-era oxygen leaked into the ventilation shaft—air trapped for fifty-five years, stagnant and mildewed, carrying the ghost of Kenji Tsukino's last cigarette. The same atmosphere that had been present for Sequence 47 now threaded through the ducts and conduits beneath East Hill, an air that had once vibrated at a frequency the universe had been reluctant to reveal.
+Deep in Sub-level Two, in a concrete corridor omitted from every floor plan since the Nixon administration, a copper bypass valve finally failed.
+
+A thin grey trickle of 1971-era oxygen leaked into the ventilation shaft—air trapped for fifty-five years, stagnant and mildewed, carrying the ghost of Kenji Tsukino's last cigarette. The same atmosphere that had been present for Sequence 47 now threaded through the ducts and conduits beneath East Hill.
 
 The vapor rose, a silent passenger in the building's circulatory system, climbing the dark verticality of the service shafts past the biology labs, past the bursar's recycled breath, until it found the primary intake for Feynman Hall.
 
 David Lang was thirty feet from the classroom door when the first tendril of it reached him.
 
-The hallway cooled around his ankles. Behind him, sunlight lay in white bands across the striated glass, but the chill rose from below, precise as a hand. Something brushed his cheek: dry, light, intimate. He wiped at it. Nothing. Only sweat, chalk dust, and the sudden scent of radiator steam; a smell that began to dissolve as he neared the hall into something that felt less like odor than memory: a past-tense being catalogued before he had agreed to name its source.
+The hallway cooled around his ankles. Behind him, sunlight lay in white bands across the striated glass, but the chill rose from below, precise as a hand. Something brushed his cheek: dry and intimate. He wiped at it, but nothing was there. Nothing except the faintest scent of radiator steam; a smell that began to dissolve as he neared the hall into something that felt less like odor than memory: a past-tense being catalogued before he had agreed to name its source.
 
 He stood there clutching his lecture notes too tightly, listening to nothing at all. And then one thing became brilliantly clear: he was being watched, actively seen from a very short and punishing distance.
 
