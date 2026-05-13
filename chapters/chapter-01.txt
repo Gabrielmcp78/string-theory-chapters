@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,563
-Paragraph Count: 467
+Word Count:      11,611
+Paragraph Count: 469
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–20  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 21–21  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE Ivy League  --  Words 22–4,973  |  Paragraphs 8–271  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 4,974–4,974  |  Paragraphs 272–272  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 4,975–7,218  |  Paragraphs 273–332  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,219–7,219  |  Paragraphs 333–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,220–10,328  |  Paragraphs 334–436  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,329–10,329  |  Paragraphs 437–437  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,330–11,563  |  Paragraphs 438–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: The Ivy League  --  Words 22–4,986  |  Paragraphs 8–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 4,987–4,987  |  Paragraphs 271–271  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 4,988–7,231  |  Paragraphs 272–331  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,232–7,232  |  Paragraphs 332–332  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,233–10,378  |  Paragraphs 333–438  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,379–10,379  |  Paragraphs 439–439  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,380–11,611  |  Paragraphs 440–469  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -65,17 +65,15 @@ IV.  The Apartment
 I
 
 
-THE Ivy League
+The Ivy League
 
 [Andante sostenuto—Presto agitato]
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
-David Lang had not slept. Three energy drinks of the insulin-requiring variety and four hundred miles of Massachusetts interstate had pushed his nervous system into the next day despite his body's objections. He had compensated with mini donuts and coffee. He had organized himself precisely. He had achieved ten minutes early.
+David Lang had not slept. Three energy drinks of the insulin-requiring variety and four hundred miles of Massachusetts interstate had pushed his nervous system into the next day despite his body's objections. He had compensated with a sensible breakfast: mini donuts and coffee. He had organized himself precisely. He had achieved ten minutes early.
 
-Then he remembered the book.
-
-It was for Celeste: something on tuning methods in eighteenth-century Europe, bought in town before Boston and left in the still-packed suitcase alongside all the other gestures too delicate to survive travel.
+Then he remembered the book. A trifle for Celeste: something on tuning methods in eighteenth-century Europe, bought in town before Boston and left in the still-packed suitcase alongside all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered remembering it enough.
 
@@ -381,9 +379,9 @@ The room went still.
 
 "You know," Rune continued, turning to address the students as if David had ceased to exist, "it's been a long time since my marching band days. I once fancied myself a bassoonist. Fabulous instrument. Terrible embouchure, I'm afraid."
 
-"Dr. Ishikawa, was there something you—"
+"Dr. Ishikawa, was there something you needed?”
 
-"Correct me if I'm wrong, but a minor third atop a major third creates a major triadic harmony, yes? Yet that same harmonic structure, when inverted, can be created by a major third and—oh, help me, won't you? It's a…"
+“Oh, it’s a trifle, and correct me if I'm wrong, but a minor third atop a major third creates a major triadic harmony, yes? Yet that same harmonic structure, when inverted, can be created by a major third and—oh, help me, won't you? It's a…"
 
 "A perfect fourth," David said through his teeth.
 
@@ -472,7 +470,7 @@ More laughter. He let it wash over him, already calculating how many minutes rem
 Students packed their notes and slipped out one by one.
 
 
-The TA was the last to leave. She handed him her doodle-covered lecture notes—a veritable travel log of geometric non-sequiturs—concluding with a thinly scribbled block of text:
+The TA was the last to leave. She handed him her doodle-covered lecture notes. They were a veritable travel log of geometric non-sequiturs, concluding with a thinly scribbled block of text:
 
 Clever save, David. Everything alright?
 
@@ -530,7 +528,6 @@ David stared at the old man for a long moment.
 Ralph wandered back to his cart. As he turned, David slipped the twenty into his shirt pocket.
 
 "Goodnight, Professor Lang. Watch those side roads tonight. Slick as thieves."
-
 
 As he collected his things, the hall exhaled the last of the day's light. He walked into the corridor.
 
@@ -772,7 +769,7 @@ The original 1907 Elizabethan chapel sat at its center, a masonry heart, cool an
 
 By the seventies, the place had been reborn, rebranded as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber that seemed, even now, to remember life before being pressed into the service of sound.
 
-Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks, spare and watchful. Above the musicians hung the acoustic clouds—those pale, suspended planes—stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward, slipping through the gaps into rafters, into the chapel attic, where it gathered and lingered: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
+Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks, spare and watchful. Above the musicians hung the acoustic clouds, those pale, suspended planes, stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward, slipping through the gaps into rafters, into the chapel attic, where it gathered and lingered: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
 
 Below, fluorescent corridors lined with practice rooms tunneled under the hill, binding the old stone house to the defiant 1974 annex, a towering, unclassifiable mass that fused acoustics to geology with a kind of stubborn confidence. Concrete, here, did not simply contain music; it held it. It caught vibrato in the hidden lattice of rebar and returned it, faintly, even when no one was present to deserve it—so that in the silences between terms, the walls seemed to keep a low, borrowed life, as if the building could not quite bring itself to forget.
 
@@ -804,7 +801,7 @@ Eleanor Rieger, the quartet’s second violin, entered next in a flurry of wool 
 
 And then she stopped.
 
-She had not seen David since the funeral, and the recognition arrived in her face with a small, genuine hitch—sincere and deeply rendered.
+She had not seen David since the funeral, and the recognition arrived in her face with a small hitch, sincere even deeply rendered.
 
 “Oh, David, darling. How are you, my dear? Your mother… oh, I’m just so sorry. For you both. How is she doing?”
 
@@ -814,9 +811,13 @@ She had not seen David since the funeral, and the recognition arrived in her fac
 
 “You know,” Linn offered, “Eleanor and I were trying to figure out which of us caught more performances of the BSO back when your father was second chair. What did we decide, Eleanor—between us, maybe one-hundred-twenty? One-twenty-five?”
 
-“Oh, easily,” Eleanor said, allowing him the larger share with an elegant little concession. “Though you had me by a mile, Roger.” She smiled and drifted away toward her chair, already breaking open the small private rites that preceded her playing, as if there were a door inside her she had to unlock before sound could enter.
+“Oh, easily,” Eleanor said, allowing him the larger share with an elegant little concession. “Though you had me by a mile, Roger.”
 
-By the time she sat, she was humming—some interior pitch only she could hear—her body tuning itself with the slow seriousness of an instrument brought too quickly from cold air into warmth.
+“Sound like you both had me by about… a hundred and twenty-five,” David said, the quip only slightly exaggerating the numbers.
+
+Eleanor smiled, sloughing it off as she drifted away toward her chair, already breaking open the small private rites that preceded her playing, as if there were a door inside her she had to unlock before sound could enter.
+
+By the time she sat, she was humming some interior pitch only she could hear, her body tuning itself with the slow seriousness of an instrument brought too quickly from cold air into warmth.
 
 Roger caught David’s eye. They’d surrendered the attempt to understand Eleanor’s preparation years ago, accepting it the way one accepts a relative’s harmless superstition: with affection, with fatigue, with quiet relief that not everything needed translating.
 
@@ -826,27 +827,31 @@ Roger caught David’s eye. They’d surrendered the attempt to understand Elean
 
 “Wouldn’t have been anywhere else. Was honored to be with you, my friend.”
 
-And then, the small contacts. Pats to the back, a grip to the shoulder. They were the gestures of attempts, bearing thirty years of friendship and family, and all the things people mean but never quite manage to say. The sort of things you swear, at eighty-one, you wish you’d begun saying freely at thirteen—only to realize, too late, how little time is left to make up for the silence… the assumptions.
+What followed were the usual, small contacts. Pats to the back, a grip to the shoulder. They were the gestures of attempts, bearing thirty years of friendship and family, and all the things people mean but never quite manage to say. The sort of things you swear, at eighty-one, you wish you’d begun saying freely at thirteen, only to realize too late how little time is left to make up for the silence… the assumptions.
 
 And then Celeste Armitage appeared in the doorway.
 
-She did not enter as Eleanor entered, in motion first; she arrived as if the room had been waiting for her and she had known it. She paused there, scanning the space with a calm, unhurried assurance, viola snug against her back, and then stepped forward. As she passed David—still turned toward the coat pegs—she reached out and touched his elbow, firm and warm, a real hello: not tentative, not ceremonial or managed.
+She did not enter as Eleanor entered, in motion first; she arrived as if the room had been waiting for her and she had known it. She paused there, scanning the space with a calm, unhurried assurance, viola snug against her back, and then stepped forward. As she passed David, still turned toward the coat pegs, she reached out and touched his elbow, firm and warm, a real hello: not tentative, not ceremonial or managed.
 
 David glanced back, caught her eye, and gave the smallest nod, half greeting, half something quieter that did not yet have words. He hung his coat. When he turned again, she was already at her chair, settled as if she had always been there.
 
 No one asked where the music was. Linn tapped the corner of his stand with a knuckle, glanced around once, letting the room collect itself.
 
-Then he raised his bow and sounded a clear A that hung in the air like a plumb line. One by one, the others followed. Eleanor’s second violin, Celeste’s viola, finally David’s cello—each coaxing their open strings into alignment with that pure, unwavering pitch. For a few moments, the air thickened with a dissonant tapestry of fifths, a purposeful cacophony of micro-adjustments as fine tuners were tweaked and pegs nudged. Then, as if a single breath were released, the sounds coalesced into a luminous, resonant chord. A moment of silence fell, the tension of preparation giving way to the collective focus of now.
+Then he raised his bow and sounded a clear A that hung in the air like a plumb line. One by one, the others followed: Eleanor’s second violin, Celeste’s viola, finally David’s cello, each coaxing their open strings into alignment with that pure, unwavering pitch. For a few moments, the air thickened with a dissonant tapestry of fifths, a purposeful cacophony of micro-adjustments as fine tuners were tweaked and pegs nudged.
+
+Then, as if a single breath were released, the sounds coalesced into a luminous, resonant chord. A moment of silence fell, the tension of preparation giving way to the collective focus of now.
 
 “The Kabardinian,” Roger said, smiling now, the name spoken like a private signal. “Shall we?”
 
-Chairs creaked into readiness. Bows lifted in a loose, coordinated arc. A shared breath—gathered more than taken—moved through the group as if it belonged to them all.
+Chairs creaked into readiness. Bows lifted in a loose, coordinated arc. A shared breath, gathered more than taken, moved through the group as if it belonged to them all.
 
 And then, at last, Prokofiev arrived.
 
 
 
 ⁂
+
+
 
 
 
@@ -862,6 +867,7 @@ SERGEI PROKOFIEV
 Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
 
 By measure twelve, David's attention fractured. The cello's G-string resonated at 196 Hz. It was close enough to the room's natural mode at 161.8 Hz that the interference pattern became visible.
+
 
 
 Not metaphorically. Actually visible: dust motes tessellating in the standing wave, golden ratio spirals unfolding in three dimensions.
@@ -1060,7 +1066,7 @@ By 2:47 a.m. the room had become a triangle of potentials. He stood equidistant 
 
 The refrigerator compressor droned a perfect fourth above the bathroom faucet’s drip. Chalk dust shimmered in the spill from the vertical window, suspended like cosmic background radiation.
 
-Outside the brick, beyond the city’s pall of light, the universe hummed its eternal B-flat, waiting for a listener in tuned enough to decode its musings.
+Outside the brick, beyond the city’s pall of light, earth hummed its eternal B-flat, waiting for a listener in-tune enough to decode its musings.
 
 
 
