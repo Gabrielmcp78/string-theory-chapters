@@ -7,8 +7,8 @@ Title:           (Fragment recovered from sealed archive)
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      352
-Paragraph Count: 27
+Word Count:      351
+Paragraph Count: 26
 Scene Count:     0
 
 ========================================================================
@@ -55,7 +55,7 @@ Then came Sequence 47. 01:47 a.m.
 The system activated without external command. For nine minutes and forty-seven seconds, the thermal printer bypassed shutdown protocols and produced a repeating linguistic sequence assembled from overlapping astronomical and linguistic datasets:
 
 
-THE FIRST MARK OF THE SECOND ORDER IS NOT WHERE YOU LEFT IT
+47… THE FIRST MARK OF THE SECOND ORDER IS NOT WHERE YOU LEFT IT… 53
 
 
 ARCHIVE ENTRY: LOGBOOK ADDENDUM
@@ -70,11 +70,9 @@ Three days later, Tsukino failed to appear for lectures. His office remained unt
 
 Only the terminal remained active. Every forty-seven seconds, the monitor rendered a closed glyph composed of thirty-two lines. Each iteration differed slightly from the last.
 
-The only recovered artifact was a schematic for the tuning core folded into a textbook. In the margin, the unknown hand offered a final note:
+The only recovered artifact was a schematic for the tuning core folded into a textbook. In the margin, a final note:
 
-We believed resonance required observation. We failed to consider that resonance requires reciprocity. We tuned to something. And when that something found coherence:
-
-It looked back.
+We believed resonance required observation. We failed to consider that resonance requires reciprocity. We tuned to something. And when that something found coherence: It looked back. 68——48
 
 
 

@@ -8,18 +8,18 @@ Subtitle:        a secular passion in eight movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,357
+Word Count:      5,397
 Paragraph Count: 226
 Scene Count:     8
 
-Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–1,983  |  Paragraphs 1–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
-Scene 2: II.  ARIOSO   |   The Tuning  --  Words 1,984–2,133  |  Paragraphs 84–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
-Scene 3: III.  Recitativum   |  The Office  --  Words 2,134–2,377  |  Paragraphs 92–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
-Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,378–3,202  |  Paragraphs 102–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
-Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,203–3,467  |  Paragraphs 136–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
-Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,468–3,890  |  Paragraphs 146–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
-Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,891–4,656  |  Paragraphs 164–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
-Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,657–5,357  |  Paragraphs 205–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
+Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–2,023  |  Paragraphs 1–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
+Scene 2: II.  ARIOSO   |   The Tuning  --  Words 2,024–2,173  |  Paragraphs 84–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
+Scene 3: III.  Recitativum   |  The Office  --  Words 2,174–2,417  |  Paragraphs 92–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
+Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,418–3,242  |  Paragraphs 102–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
+Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,243–3,507  |  Paragraphs 136–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
+Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,508–3,930  |  Paragraphs 146–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
+Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,931–4,696  |  Paragraphs 164–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,697–5,397  |  Paragraphs 205–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -49,7 +49,7 @@ It wasn’t because he liked the food—he used to, but the kitchen had declined
 
 No, empirically, the reason was simple: he could no longer cope with the withdrawal. It was more efficient, he reasoned, to endure a mediocre meal than to recalibrate the neural circuitry that expected her. Missing this hour would mean chemical disarray, and he was too tired to recover from that kind of chaos again.
 
-Of course, he could never—would never—admit this to Celeste. Not from compassion, but because it would violate the equation. If she was not there physically, then mathematically she must be canceled out emotionally by an equal and opposite force.
+Of course, he could never, would never admit this to Celeste. He was not necessarily concerned for how she would take such a revelation. She was easily and always ten times the man he ever could hope to be. She could take it. But no, it was simply a matter of mathematics, a desire to avoid violating the equation. If she was not there physically, then mathematically she must be canceled out emotionally by an equal and opposite force.
 
 
 

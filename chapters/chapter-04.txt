@@ -8,24 +8,24 @@ Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,700
-Paragraph Count: 438
+Word Count:      9,765
+Paragraph Count: 441
 Scene Count:     14
 
-Scene 1: The House on the Hill  --  Words 1–863  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
-Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 864–1,311  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
-Scene 3: III. The Apartment Assessment  --  Words 1,312–2,186  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,187–2,306  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,307–3,564  |  Paragraphs 108–143  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,565–4,615  |  Paragraphs 144–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,616–5,410  |  Paragraphs 202–238  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,411–5,770  |  Paragraphs 239–258  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 5,771–7,007  |  Paragraphs 259–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,008–7,276  |  Paragraphs 316–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,277–8,015  |  Paragraphs 324–361  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,016–8,816  |  Paragraphs 362–403  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,817–9,139  |  Paragraphs 404–418  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,140–9,700  |  Paragraphs 419–438  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 1: The House on the Hill  --  Words 1–900  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 901–1,348  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 3: III. The Apartment Assessment  --  Words 1,349–2,223  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,224–2,343  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,344–3,629  |  Paragraphs 108–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,630–4,680  |  Paragraphs 147–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,681–5,475  |  Paragraphs 205–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,476–5,835  |  Paragraphs 242–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 5,836–7,072  |  Paragraphs 262–318  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,073–7,341  |  Paragraphs 319–326  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,342–8,080  |  Paragraphs 327–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,081–8,881  |  Paragraphs 365–406  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,882–9,204  |  Paragraphs 407–421  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,205–9,765  |  Paragraphs 422–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -43,7 +43,7 @@ The House on the Hill
 
 Something had changed in the night.
 
-Celeste couldn’t name it. A misalignment, perhaps—as if the air had shifted half a degree to the north. It wasn’t something seen or heard, but felt. Maybe. Like most things in her life, it remained untrustworthy until caffeine had been applied.
+Celeste couldn’t name it. A misalignment, perhaps, as if the air had shifted half a degree north. Nothing visible announced itself, yet Celeste had never required evidence to intuit arrival. She felt everything, anything, and moved from there. Still, like most things in her life, it would remain untrustworthy until caffeine had been applied.
 
 In the shower, she stood beneath the spray, suds tracing slow paths down her temples. With her eyes squeezed shut, a heavy, dimensional blackness bloomed behind her lids. Floating in that dark void, she found she couldn’t remember if she’d actually started the coffee, or if the memory was just another intention left at the bedside.
 
@@ -65,17 +65,17 @@ The pipes gave a final, convulsive cough, then whined into silence.
 
 She fumbled for the towel, blinking suds from her lashes. Cold ran a precise line down her spine. Downstairs, the kettle was done asking politely. Its tone full-throated; harder now—metallic, furious.
 
-“Oh, for God sake—”
+“Oh, for God sake.”
 
 She stumbled out of the claw-foot tub, half-blind, reaching for the towel just as it slipped from the rack and hit the floor.
 
-“Great. Come here, you little— ”
+“Great. Come here, you little shit.”
 
 She snatched it up, wiped her face dry, knotted the fabric, pulled the wet hair from her neck.
 
 “I’m coming!”
 
-As she barreled out of the bathroom, the trick tile in the last row before the door shifted under her heel. It was just enough to force the slight overcorrection that sent her careening toward the overlook. She caught herself hard on the banister, vertigo flickering, then settled. She took a deep breath. There were a million ways that could have gone downhill—downstairs—fast.
+As she barreled out of the bathroom, the trick tile in the last row before the door shifted under her heel. It was just enough to force the slight overcorrection that sent her careening toward the overlook. She caught herself hard on the banister, vertigo flickering, then settled. She took a deep breath. There were a million ways that could have gone downhill, actually downstairs, fast.
 
 From the landing, the foyer opened below her in clean rectangles of morning light.
 
@@ -99,7 +99,7 @@ The house talked. It always had. And it remembered.
 
 Somewhere in its foundation, or sealed into its walls, lived a meticulous archive: weight, hands, pressure, the order in which things were touched and then left. An impressive memory, she thought, for a house so chronically unfinished.
 
-Since David left, the tone of that memory had changed. Not grief. Something closer to irritation. A click where there hadn’t been one before. A rattle in the windowpane that vibrated only when she approached, as if the glass were shivering at her touch. Even some hinges exhaled if you passed too quietly, annoyed to be surprised.
+Since David left, the tone of that memory had changed. Anger had turned to resentment, had morphed towards sadness and even grief. But lately and to Celeste actual delight, something closer to irritation had settled into residence. A click where there hadn’t been one before. A rattle in the windowpane that vibrated only when she approached, as if the glass were shivering at her touch. Even some hinges exhaled if you passed too quietly, annoyed to be surprised.
 
 She read its moods better than she read most people. This morning, it was clear all right. Something was off.
 
@@ -308,9 +308,16 @@ Rieger’s posture held calculation. Linn’s weight shifted forward, readiness 
 
 David drew the tuning fork from his pocket. The cool metal flashed in the light. He pressed it firmly to the wooden pew. The vibration traveled through the structure immediately—clean, exact, a pure reference tone offered to the room itself. The faint cerulean stain on his hand seemed to pulse in time with it.
 
-He turned toward Celeste. “A fifth,” he said. “Compressed by a syntonic comma.”
+He turned toward Celeste.
+“A fifth,” he said. “Compressed by a syntonic comma.”
 
-The implication settled over them at once. Not a command, but a shared leap. Celeste adjusted her viola with meticulous care, listening into the new pressure rather than past it. Linn followed her lead without hesitation, his ear tracing the nascent chord. Rieger held for a single, skeptical breath, then matched them.
+The risk in it landed immediately. Unrehearsed. Sharp enough to fail in public.
+
+Eleanor answered first, a light stroke of the bow—easy. Celeste caught Roger’s eye and smiled once. Roger looked to David. David nodded.
+
+And then they moved toward a tuning.
+
+Celeste adjusted her viola with meticulous care, listening into the new pressure rather than past it. Linn followed her lead without hesitation, his ear tracing the nascent chord. Rieger held for a single, skeptical breath, then matched them.
 
 The atmosphere shifted before a note was played. The persistent hum from above suddenly had a context. The oppressive pressure redistributed, becoming a participant in the field, not an obstacle to it.
 
