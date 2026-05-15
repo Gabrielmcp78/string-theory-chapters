@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,886
+Word Count:      8,891
 Paragraph Count: 494
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,296  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,297–2,024  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,025–2,527  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,528–2,968  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,969–3,504  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,505–5,661  |  Paragraphs 204–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,662–7,633  |  Paragraphs 316–427  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,634–8,112  |  Paragraphs 428–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2   THE CLASSROOM   |  Cornell - Ithaca, NY            Present Day  --  Words 8,113–8,477  |  Paragraphs 448–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3  THE CORRIDOR  --  Words 8,478–8,758  |  Paragraphs 468–485  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 8,759–8,886  |  Paragraphs 486–494  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,301  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,302–2,029  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,030–2,532  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,533–2,973  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,974–3,509  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,510–5,666  |  Paragraphs 204–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,667–7,638  |  Paragraphs 316–427  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,639–8,117  |  Paragraphs 428–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2   THE CLASSROOM   |  Cornell - Ithaca, NY            Present Day  --  Words 8,118–8,482  |  Paragraphs 448–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3  THE CORRIDOR  --  Words 8,483–8,763  |  Paragraphs 468–485  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 8,764–8,891  |  Paragraphs 486–494  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -97,7 +97,7 @@ Marcus sprawled across the single chair he’d commandeered, legs draped over on
 
 Marcus snorted. “Jesus Christ.”
 
-“I’m serious.”
+“I’m serious, damn it.”
 
 “Oh, I know you’re serious, Dave. That’s the problem.” Marcus swung his legs down, suddenly alert. “You’re always serious about the most dangerous possible thing you could be serious about. It’s like watching someone juggle grenades and congratulate themselves for their hand-eye coordination.”
 
@@ -115,7 +115,7 @@ David’s jaw tightened. “You’re reducing it.”
 
 “I’m not reducing anything. You’re inflating. There’s a difference.” Marcus jabbed a finger toward him. “You want to know what kills careers, David? It’s not being wrong. Being right about something nobody’s ready to hear. And you don’t have the patience for that. You want the revelation now. You want to skip the thirty years of proving yourself and jump straight to the Nobel speech.”
 
-“That’s not—”
+“That’s not true.”
 
 “It is, man. It absolutely is. I’ve known you for two years. You’re the smartest person I’ve ever met with absolutely no survival instinct for academia.”
 
@@ -179,7 +179,7 @@ Marcus reached for another beer, cracked it open, and took a long drink. When he
 
 “I’m not trying to kill your idea, Dave. I’m trying to keep you alive long enough to prove it.”
 
-David stared at the floor. His fingers moved against his thigh—unconscious, compulsive—playing a passage only he could hear.
+David stared at the floor. His fingers moved against his thigh, unconscious, compulsive: playing a passage only he could hear.
 
 “What if it takes thirty years,” he said. “What if I prove it and nobody’s left who remembers I was crazy for thinking it?”
 
@@ -304,7 +304,7 @@ In the background, a rustle of footsteps on tile, a muffled exhale. Then Marcus�
 
 “David, man. We talked about this. We agreed. No acoustic harmonic data. Not at NYU.”
 
-“You weren’t there. It was a judgment call. I told you I had to know. Had to see if he… I thought I had him.”
+“You weren’t there. It was a judgment call. I told you, I had to know. Had to see if he… I thought I had him.”
 
 “Fuck.” Marcus’s scream detonated into the phone. Then, to Celeste: confirmation by panic.
 

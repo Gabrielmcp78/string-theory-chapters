@@ -8,8 +8,8 @@ Subtitle:        a fantasia quasi sonata
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,497
-Paragraph Count: 228
+Word Count:      6,496
+Paragraph Count: 227
 Scene Count:     7
 
 Scene 1: I.  Falsifiable Fame  --  Words 16–804  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
@@ -18,7 +18,7 @@ Scene 3: III.  Groundbreaking  --  Words 1,825–2,937  |  Paragraphs 44–78  |
 Scene 4: IV.  Everything he was not  --  Words 2,938–3,785  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
 Scene 5: v.  Friendly forensics  --  Words 3,786–4,313  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
 Scene 6: VI.  Ishikawa’s Island  --  Words 4,314–6,169  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
-Scene 7: VII. The Thickening  --  Words 6,170–6,497  |  Paragraphs 214–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
+Scene 7: VII. The Thickening  --  Words 6,170–6,496  |  Paragraphs 214–227  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -533,24 +533,6 @@ Panic gave way to attunement.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
 
 
 
