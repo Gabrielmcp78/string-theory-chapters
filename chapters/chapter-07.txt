@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,295
+Word Count:      8,303
 Paragraph Count: 257
 Scene Count:     4
 
-Scene 1: I.  Preliminary Observations  --  Words 1–1,219  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: II.  Method and Resonance  --  Words 1,220–2,037  |  Paragraphs 28–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: III.  Findings and Implications  --  Words 2,038–2,956  |  Paragraphs 56–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,957–8,295  |  Paragraphs 81–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 1: I.  Preliminary Observations  --  Words 1–1,226  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: II.  Method and Resonance  --  Words 1,227–2,044  |  Paragraphs 28–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: III.  Findings and Implications  --  Words 2,045–2,963  |  Paragraphs 56–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 4: IV. Lossless Transfers  --  Words 2,964–8,303  |  Paragraphs 81–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -24,13 +24,13 @@ I.  Preliminary Observations
 
 [Moderato con scoperta crescente]
 
-If any sunlight survived the city’s particulate haze, it entered the study by way of refracted conspiracy—filtered through three competing windowpanes and a sash that hadn’t seen weatherstripping since the Eisenhower administration. The glass, occluded by yellowing NASA flux graphs and annotated calendars, cast a jaundiced pall across the tabletop and the man hunched above it.
+If any sunlight survived the city’s particulate haze, it entered the study by way of refracted conspiracy, filtered through three competing windowpanes and a sash that hadn’t seen weatherstripping since the Eisenhower administration. The glass, occluded by yellowing NASA flux graphs and annotated calendars, cast a jaundiced pall across the tabletop and the man hunched above it.
 
-His cheek, still marked by the fading glyph of the assault, had shifted from deep aubergine to a convalescent gray, the kind of battle scar no scientist expects to encounter in the mirror. Yet David had grown accustomed to it. He saw it as a marker now, a talisman, a weapon he wasn’t afraid to wield.
+His cheek, still marked by the fading glyph of the assault, had shifted from deep aubergine to a convalescent gray, the kind of battle scar no scientist expects to encounter in the mirror. Yet David had grown accustomed to its shadowed presence on his face. He saw it as a marker now, a talisman, a weapon he wasn’t afraid to wield.
 
 He presided over the center of the room like a medieval abbot, though in his mind he felt closer to a knight: wrapped in severity of purpose, existential in scope. He knew it was a scientist’s conceit—but it gave him focus. It cloaked him in the robes of truth, of bravery, the kind noble causes had been invented to cradle. He felt, in a real if heady way, that he stood in the lineage of warrior-scientists: Newton, Galileo, Semmelweis, Boltzmann. He straightened. The bruise pulsed once, then quieted.
 
-The table was a topography of obsession. Manuscript folios, birth registers, death rolls mingled with solar ephemerides and a monograph on “The Waxing and Waning of Geniuses, 1640–1911.” At the edge, a row of index cards advanced like tectonic plates, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it. The arrangement obeyed no alphabet or timeline—only the architecture of the idea forming behind his bruised brow.
+The table was a topography of obsession. Manuscript folios, birth registers, death rolls mingled with solar ephemerides and a monograph on “The Waxing and Waning of Geniuses, 1640–1911.” At the edge, a row of index cards advanced like tectonic plates, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it. The arrangement obeyed no alphabet or timeline, only the architecture of the idea forming behind his bruised brow.
 
 He worked in half-motions: fingertips grazing a volume’s edge, thumb pressing a page while the other hand hovered, then descended. Each movement was precise but tremored, as if the information carried voltage his body wasn’t built to bear. Every few minutes, his right hand returned to the orbit of his left eye, confirming the bruise’s perimeter like checking a bandaged wound in a fugue.
 
@@ -233,7 +233,7 @@ He looked up. The catwalk's dark grid hung in higher darkness, a deeper shadow a
 
 "If you are a scientist," it went on, "you believe that it is good to find out how the world works… it is good to turn over to mankind at large the greatest possible power to control the world and to deal with it according to its lights and its values."
 
-He knew the words—thin audio from an old reel Elliot kept like a relic, the syllables worn flat by rewinds. The terror lay in how well they fit the room. They landed as if the apartment had been waiting years to say them.
+He knew the words, thin audio from an old reel Elliot kept like a relic, the syllables worn flat by rewinds. The terror lay in how well they fit the room. They landed as if the apartment had been waiting years to say them.
 
 David stepped back from the boards and turned. Below the loft line the apartment held itself in strata: the low red of the fire, the kitchen dark under the sleeping loft, the long window holding a thin wash of city light, the spiral stair rising between levels like a black coil of wire.
 

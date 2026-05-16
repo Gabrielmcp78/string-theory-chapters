@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-05-14",
-  "total_words": 107087,
+  "built": "2026-05-16",
+  "total_words": 107125,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -24,8 +24,8 @@
       "label": "Chapter 1",
       "title": "Opus No. 46 in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 11955,
-      "paragraph_count": 477,
+      "word_count": 11985,
+      "paragraph_count": 476,
       "scene_count": 9,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt",
@@ -52,63 +52,63 @@
           "n": 3,
           "heading": "THE IVY LEAGUE",
           "word_start": 23,
-          "word_end": 5246,
+          "word_end": 5287,
           "para_start": 8,
-          "para_end": 276,
+          "para_end": 275,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
         },
         {
           "n": 4,
           "heading": "II",
-          "word_start": 5247,
-          "word_end": 5247,
-          "para_start": 277,
-          "para_end": 277,
+          "word_start": 5288,
+          "word_end": 5288,
+          "para_start": 276,
+          "para_end": 276,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
         },
         {
           "n": 5,
           "heading": "THE Office",
-          "word_start": 5248,
-          "word_end": 7491,
-          "para_start": 278,
-          "para_end": 337,
+          "word_start": 5289,
+          "word_end": 7532,
+          "para_start": 277,
+          "para_end": 336,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html"
         },
         {
           "n": 6,
           "heading": "III",
-          "word_start": 7492,
-          "word_end": 7492,
-          "para_start": 338,
-          "para_end": 338,
+          "word_start": 7533,
+          "word_end": 7533,
+          "para_start": 337,
+          "para_end": 337,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html"
         },
         {
           "n": 7,
           "heading": "THE REHEARSAL HALL",
-          "word_start": 7493,
-          "word_end": 10714,
-          "para_start": 339,
-          "para_end": 446,
+          "word_start": 7534,
+          "word_end": 10755,
+          "para_start": 338,
+          "para_end": 445,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html"
         },
         {
           "n": 8,
           "heading": "IV",
-          "word_start": 10715,
-          "word_end": 10715,
-          "para_start": 447,
-          "para_end": 447,
+          "word_start": 10756,
+          "word_end": 10756,
+          "para_start": 446,
+          "para_end": 446,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html"
         },
         {
           "n": 9,
           "heading": "THE APARTMENT",
-          "word_start": 10716,
-          "word_end": 11955,
-          "para_start": 448,
-          "para_end": 477,
+          "word_start": 10757,
+          "word_end": 11985,
+          "para_start": 447,
+          "para_end": 476,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html"
         }
       ]
@@ -603,7 +603,7 @@
       "label": "Chapter 7",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
-      "word_count": 8295,
+      "word_count": 8303,
       "paragraph_count": 257,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
@@ -613,7 +613,7 @@
           "n": 1,
           "heading": "I.  Preliminary Observations",
           "word_start": 1,
-          "word_end": 1219,
+          "word_end": 1226,
           "para_start": 1,
           "para_end": 27,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html"
@@ -621,8 +621,8 @@
         {
           "n": 2,
           "heading": "II.  Method and Resonance",
-          "word_start": 1220,
-          "word_end": 2037,
+          "word_start": 1227,
+          "word_end": 2044,
           "para_start": 28,
           "para_end": 55,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html"
@@ -630,8 +630,8 @@
         {
           "n": 3,
           "heading": "III.  Findings and Implications",
-          "word_start": 2038,
-          "word_end": 2956,
+          "word_start": 2045,
+          "word_end": 2963,
           "para_start": 56,
           "para_end": 80,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
@@ -639,8 +639,8 @@
         {
           "n": 4,
           "heading": "IV. Lossless Transfers",
-          "word_start": 2957,
-          "word_end": 8295,
+          "word_start": 2964,
+          "word_end": 8303,
           "para_start": 81,
           "para_end": 257,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"

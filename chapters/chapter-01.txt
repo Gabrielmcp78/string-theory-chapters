@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,955
-Paragraph Count: 477
+Word Count:      11,985
+Paragraph Count: 476
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,246  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,247–5,247  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,248–7,491  |  Paragraphs 278–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,492–7,492  |  Paragraphs 338–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,493–10,714  |  Paragraphs 339–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,715–10,715  |  Paragraphs 447–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,716–11,955  |  Paragraphs 448–477  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,287  |  Paragraphs 8–275  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,288–5,288  |  Paragraphs 276–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,289–7,532  |  Paragraphs 277–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,533–7,533  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,534–10,755  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,756–10,756  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,757–11,985  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -71,35 +71,35 @@ THE IVY LEAGUE
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
-David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. He had compensated with a sensible breakfast: mini donuts and coffee. He had organized himself precisely. He had achieved ten minutes early.
+David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. Naturally, he compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of care, and, with his ablutions now complete, allowed himself one small nod of satisfaction. He had achieved ten minutes early.
 
-Then he remembered the apology gift. For what, he rarely knew, only that it would soon be required. A book for Celeste, something on tuning methods in eighteenth-century Europe, sat buried in the suitcase upstairs, a gem amongst lesser gestures too delicate to survive travel.
+Then he remembered the apology gift. For what, he rarely knew, only that it would soon be required. A book for Celeste, something on tuning methods in eighteenth-century Europe, sat buried in the suitcase upstairs with all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered remembering it to be enough.
 
-Then standards returned. A slight grumble sounded from him as he climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, unattended from the moment he had returned.
+Then standards returned. He made a small sound of protest and climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, untouched since his return.
 
-He pulled the book from beneath a heap of dirty dress socks. A glance at the opening pages began the fatal arithmetic: still early enough to close his eyes for one minute. The rest of him agreed immediately, and David fell into an unintended morning nap.
+He pulled the book from beneath a heap of dirty dress socks and, since it was already in his hands, permitted himself one glance at the opening pages. At once the fatal arithmetic began: still early enough, technically, to close his eyes for one minute. The room took on the dangerous softness of permission. Before any responsible part of him could assemble an objection, David had slipped into a second morning sleep.
 
 When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm.
 
 Fifteen minutes.
 
-Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
+Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and forty-seven seconds past his time.
 
-David leapt up, scrambling across the grated bridge and out onto the balcony. As he looked down over the burgeoning morning, the short distance between him and the southern entrance of Cornell's Ithaca campus spread out before him. He could just make out what looked like the familiar patterns of the gang already gathered below, already drawing themselves into their usual migratory clot, already moving toward the first rise without him.
+David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched into accusation. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
 
-David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today was clearly different from yesterday. The fear of surrendering forever to this new reality, one of substandard timing and forgotten gestures, caused him to take more than the ordinary measures in hand. He took the stairs two at a time, even leapt from the third-from-last step down to the oak floors below, and neglected to grab the essential armor of his sunglasses on the way out the door.
+David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today was clearly different from yesterday. The fear of surrendering forever to this new reality, one of substandard timing and forgotten gestures, caused him to take more than the ordinary measures in hand. He took the stairs two at a time, even leapt from the third step down to the oak floors below, neglecting to grab the essential armor of his sunglasses on the way out the door.
 
 The moment he hit the street, something was wrong with his feet. They advanced in small, unauthorized surges, quickening him into brief, ugly bursts that broke the measured dignity of his usual walk to campus. It was almost running, though running at least would have possessed the decency of confession. This was haste pretending to be judgment.
 
 He crossed the narrow streets south of campus with his coat tugging at his shoulders and his breath clipping in the cold. At the corner, a woman appeared with a yippy little nut of a dog. David slowed at once, arranging his face into reflective morning purpose. He pretended to be interested in the animal so as to avoid direct engagement with the owner attached to it. They passed. David counted three steps for dignity, then let his feet resume their treason.
 
-Cold had sharpened the morning. The town's final porches sat slick and accusatory as Ithaca's last residential blocks began to acquiesce to the grand gates of the Ivy League.
+The town thinned toward campus, its porches slick with cold, its modesty already surrendering to Cornell’s gates.
 
 By the time Cornell’s lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
-The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort mingling and co-mingling. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
+The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort, already congealing. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
 
 Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
 
@@ -109,7 +109,7 @@ He looked down and found sabotage in full bloom: both laces dangling across his 
 
 Finally done, he sprang upright and broke into the short, undignified spurts of speed required to catch them.
 
-He cut left through the trees that flanked the south side, taking the slope at an angle. Dead leaves broke underfoot. He kept low without meaning to, ridiculous and predatory, pacing them from cover until he drew parallel.
+David cut left through the trees flanking the south side and took the slope at an angle, dead leaves breaking underfoot as he lowered himself into a ridiculous, predatory crouch, effectively pacing the group from cover until he drew parallel.
 
 Sweeney was mid-anecdote. Useless as ever, charming as dirt.
 
@@ -117,7 +117,7 @@ Sweeney was mid-anecdote. Useless as ever, charming as dirt.
 
 David stepped out from the trees and into the migration.
 
-"My God, Sweeney, intimacy and face in the same sentence? And in mixed company? You must have some excellent lawyers on retainer."
+"My God, Sweeney, intimacy and face in the same sentence? And in mixed company, no less? You must have an excellent harem of lawyers on retainer."
 
 Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
 
@@ -181,33 +181,31 @@ David took a half step back. The pressure eased, and his gaze dropped to the sea
 
 Sweeney circled back, now genuinely concerned and therefore harder to mock.
 
-"Hey," he said, lowering his voice. "Really. Glad you're back, David. He was a great man, your dad. Be proud of a big life, yeah?"
-
-"Yeah, thanks, Hank. He was. Appreciate it."
-
-Sweeney studied him. "You okay? You're sweating like it's eighty degrees out here." A pause. "More like eight, yeah?"
-
-Naomi took one step closer.
+"You okay, Lang? You're sweating like it's eighty degrees out here." A quick glance to the surrounding freeze. "More like eight, yeah?"
 
 "I'm fine," David said. "Long few days is all."
 
-"Of course. Take it easy. Don't let those quantum undergrads take you down."
+“Of course,” Sweeney said, studying David’s brow, following the eyes as they scattered focus. “Well,” he said, lowering his voice, "Really. Glad you're back, David. He was a great man, your dad. Be proud of a big life, yeah?"
+
+"Yeah, thanks, Hank. He was. Appreciate it."
+
+“And… don’t let those quantum undergrads take you down."
 
 "Please. They'd need a quorum first."
 
-Sweeney allowed himself to be absorbed back into the advancing clot.
+Sweeney, taking David’s continuity of humor as proof enough for stability, allowed himself to be absorbed back into the advancing clot.
 
 Only David and Naomi remained.
 
 "You're not fine," she said.
 
-"No. But I am late."
+“No. But I am late."
 
 She followed his gaze to the stones. "What happened?"
 
 "I don't know."
 
-That was too honest. He regretted it immediately.
+That was far too honest. He regretted it immediately.
 
 "Do you want me to call someone? Celeste, maybe?”
 
@@ -1008,7 +1006,7 @@ THE APARTMENT
 
 [Adagio, con malinconia]
 
-As he left the music school, David felt the city return in sharp lines and pale silence. The snow-lit quad stretched before him, a frozen ledger of the passing of souls. Two sets of footprints: hers and his, running parallel until they split. At that point, the path they’d shared for years broke quietly apart: hers turning toward the bridge, his descending into the dark fold of Lower East Hill.
+As he left the music school, the snow-lit quad stretched before him, a frozen ledger of the passing of souls. Two sets of footprints: hers and his, running parallel until they split. At that point, the path they’d shared for years broke quietly apart: hers turning toward the bridge, his descending into the dark fold of Lower East Hill.
 
 He didn’t look back. He couldn’t, for he knew what he’d see: his own solitude, pressed into the snow like a sentence without end. Winter, unblinking, recorded everything.
 
