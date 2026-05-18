@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,022
-Paragraph Count: 476
+Word Count:      12,140
+Paragraph Count: 477
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,324  |  Paragraphs 8–275  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,325–5,325  |  Paragraphs 276–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,326–7,569  |  Paragraphs 277–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,570–7,570  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,571–10,792  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,793–10,793  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,794–12,022  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,442  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,443–5,443  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,444–7,687  |  Paragraphs 278–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,688–7,688  |  Paragraphs 338–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,689–10,910  |  Paragraphs 339–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,911–10,911  |  Paragraphs 447–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,912–12,140  |  Paragraphs 448–477  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -73,7 +73,7 @@ It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. Naturally, he compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of care, and, with his ablutions now complete, allowed himself one small nod of satisfaction. He had achieved ten minutes early.
 
-Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. The topic hardly mattered. If she loved it, the gesture might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
+Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. The topic hardly mattered. If she loved it, such a gift might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered remembering it to be enough.
 
@@ -89,7 +89,7 @@ Which meant, allowing for the hill, the crossing, and the pedestrian uselessness
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched into accusation. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
 
-David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today had already begun its slide toward the unreliable. The fear of surrendering forever to this new reality, of substandard timing and forgotten gestures, sent him to more drastic measures. He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
+David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today had begun its slide toward the unreliable, and the fear of surrendering forever to a life of substandard timing and forgotten gestures sent him to more drastic measures. He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
 
 The moment he hit the street, something was wrong with his feet. They advanced in small, unauthorized surges, quickening him into brief, ugly bursts that broke the measured dignity of his usual walk to campus. It was almost running, though running at least would have possessed the decency of confession. This was haste pretending to be judgment.
 
@@ -445,27 +445,29 @@ Then, suddenly, the sound pulled back. The pressure eased and  slowly, his voice
 
 He shut off the projector. The image was gone. The memory was not.
 
+Then, quietly, with hazed intention, he reached out and touched the blackboard; sweeping over its surface, just a fingertip. The chalk dust met his skin. For one brief moment, there was nothing. No hum. No room. Only the strange impression, impossible and immediate, of a string answering somewhere beyond him.
+
 "Professor?"
 
 The voice rose from the front row. It did not register.
 
 "Professor Lang?"
 
-The class sat poised on the edge of reaction. Teaching and breaking had become, for the moment, difficult to distinguish.
+Still nothing.
 
-A biology major auditing the course found she had less fear or reverence for the subject than the others. She got up, walked to the aisle, and marched straight down to meet Lang's frozen face. With a bravery the remaining students found grotesquely admirable, she pressed her cheek against the blackboard, mirroring his sideways stare, and shouted:
+The class sat poised on the edge of reaction. Was he teaching or breaking? No one wanted to be the first to decide.
 
-"Will… this… be… on… the… midterm… Professor?"
+A biology major auditing the course found she had less fear or reverence for the subject than the others. She got up, walked around the edge of the bench, into the aisle, and marched straight down to meet Lang's frozen face. With a bravery the remaining students found grotesquely admirable, she pressed her cheek against the blackboard, mirroring his sideways stare.
+
+Then, in a tone better suited to someone trying to speak through a windstorm, she shouted, "Will... this... be... on... the... midterm... Professor?"
 
 David's eyelid twitched.
 
-His arm fell to his side. Without moving the rest of his body, he locked his eyes with hers, cracked an absurdly exaggerated grin, and replied in a ghoulish voice:
+His arm and hand released their frozen hold and fell to his side. Without moving the rest of his body, he locked his eyes with hers, cracked an absurdly exaggerated grin, and replied in a ghoulish voice, "All concepts presented are... potentially examinable."
 
-"All concepts presented are… potentially examinable."
+The tension shattered. Students howled in laughter and relief. David dared not dwell on what he had just managed to wiggle out of. The recovery was a lie, but a useful one. He let it wash over him, already calculating how many minutes remained.
 
-The tension shattered. Students howled in laughter and relief.
-
-"I had you all so good just now."
+"Oh, I had you all so good just now."
 
 More laughter. He let it wash over him, already calculating how many minutes remained.
 
