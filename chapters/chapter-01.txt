@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,985
+Word Count:      12,022
 Paragraph Count: 476
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,287  |  Paragraphs 8–275  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,288–5,288  |  Paragraphs 276–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,289–7,532  |  Paragraphs 277–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,533–7,533  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,534–10,755  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,756–10,756  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,757–11,985  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,324  |  Paragraphs 8–275  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,325–5,325  |  Paragraphs 276–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,326–7,569  |  Paragraphs 277–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,570–7,570  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,571–10,792  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,793–10,793  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,794–12,022  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -73,23 +73,23 @@ It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. Naturally, he compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of care, and, with his ablutions now complete, allowed himself one small nod of satisfaction. He had achieved ten minutes early.
 
-Then he remembered the apology gift. For what, he rarely knew, only that it would soon be required. A book for Celeste, something on tuning methods in eighteenth-century Europe, sat buried in the suitcase upstairs with all the other gestures too delicate to survive travel.
+Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. The topic hardly mattered. If she loved it, the gesture might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered remembering it to be enough.
 
-Then standards returned. He made a small sound of protest and climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, untouched since his return.
+Then standards returned. With a small, resentful grunt, he climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, untouched since his return.
 
-He pulled the book from beneath a heap of dirty dress socks and, since it was already in his hands, permitted himself one glance at the opening pages. At once the fatal arithmetic began: still early enough, technically, to close his eyes for one minute. The room took on the dangerous softness of permission. Before any responsible part of him could assemble an objection, David had slipped into a second morning sleep.
+He pulled the book from beneath a heap of dirty dress socks and, since it was already in his hands, allowed himself a glance at the opening pages. At once the arithmetic began: still early enough, technically, to close his eyes for one minute. The room took on the dangerous softness of permission. Before any responsible part of him could assemble an objection, David had slipped into a gentle,  second-hand slumber.
 
 When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm.
 
 Fifteen minutes.
 
-Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and forty-seven seconds past his time.
+Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched into accusation. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
 
-David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today was clearly different from yesterday. The fear of surrendering forever to this new reality, one of substandard timing and forgotten gestures, caused him to take more than the ordinary measures in hand. He took the stairs two at a time, even leapt from the third step down to the oak floors below, neglecting to grab the essential armor of his sunglasses on the way out the door.
+David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today had already begun its slide toward the unreliable. The fear of surrendering forever to this new reality, of substandard timing and forgotten gestures, sent him to more drastic measures. He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
 
 The moment he hit the street, something was wrong with his feet. They advanced in small, unauthorized surges, quickening him into brief, ugly bursts that broke the measured dignity of his usual walk to campus. It was almost running, though running at least would have possessed the decency of confession. This was haste pretending to be judgment.
 
@@ -97,7 +97,7 @@ He crossed the narrow streets south of campus with his coat tugging at his shoul
 
 The town thinned toward campus, its porches slick with cold, its modesty already surrendering to Cornell’s gates.
 
-By the time Cornell’s lower East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
+By the time East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
 The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort, already congealing. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
 
@@ -275,7 +275,7 @@ Sixty-three names on the roster. Twenty-seven bodies in the seats. Of those, per
 
 He set his satchel on the desk and glanced down at the roster with a small show of uncertainty.
 
-"Let me make sure you're all in the right place. This is…" He traced a line with one finger and, with a false search, found, "Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork agree."
+"Let me make sure we’re all in the right place. This is…" He traced a line with one finger and, with a false search, found, "Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork agree."
 
 "And I am—" He checked once more, letting the front row in on the insincerity. "David Lang. The Feynman Chair of Quantum Dynamics. A grand title, I know. And aren't you lucky? My speciality and the class focus are uncommonly aligned."
 
@@ -291,7 +291,7 @@ He turned to the board and wrote:
 
 "This," he said, tapping the Ψ, "is the whole wave function. Everything that can be, gathered into one expression. A probability cloud, if you like metaphors." A pause. "I like metaphors. They're all we have."
 
-"Here's the part that matters," he said, and something in his voice shifted. Less performance. More confession. "Before you get involved, endless possibilities. After you engage, no choices left. That's the grace. And the trap."
+"Here's the part that matters," he said, and something in his voice shifted. Less performance. More confession. "Before you get involved, endless possibilities. After you engage, no choices left. That's the grace. And the trap of superposition."
 
 He let it land.
 
