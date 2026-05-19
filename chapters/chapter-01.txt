@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,183
-Paragraph Count: 478
+Word Count:      12,301
+Paragraph Count: 482
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,485  |  Paragraphs 8–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,486–5,486  |  Paragraphs 278–278  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,487–7,730  |  Paragraphs 279–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,731–7,731  |  Paragraphs 339–339  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,732–10,953  |  Paragraphs 340–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,954–10,954  |  Paragraphs 448–448  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,955–12,183  |  Paragraphs 449–478  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,610  |  Paragraphs 8–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,611–5,611  |  Paragraphs 282–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,612–7,856  |  Paragraphs 283–342  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,857–7,857  |  Paragraphs 343–343  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,858–11,071  |  Paragraphs 344–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,072–11,072  |  Paragraphs 452–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,073–12,301  |  Paragraphs 453–482  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -71,7 +71,7 @@ THE IVY LEAGUE
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
-David Lang had not slept. Since the phone call from his mother three weeks earlier, exhaustion had settled gradually into him, until it no longer felt temporary but structural. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
+David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
 
 He compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence and, with the morning ritual complete, allowed himself one small nod of satisfaction.
 
@@ -83,15 +83,28 @@ For one professionally indefensible moment, David considered remembering it to b
 
 Then standards returned. With a small, resentful grunt, he climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, untouched since his return.
 
-He pulled the book from beneath a heap of dirty dress socks and, since it was already in his hands, allowed himself a glance at the opening pages. At once the arithmetic began: still early enough, technically, to close his eyes for one minute. The room took on the dangerous softness of permission. Before any responsible part of him could assemble an objection, David had slipped into a gentle,  second-hand slumber.
 
-When he woke fifteen minutes later, he found all plans for the morning already failing at the test vector. For several seconds he remained beside the bed, listening to the apartment arrange itself around the fact. The coffee had gone cold. The clock had advanced with indecent calm.
+He pulled the book from beneath a heap of dirty dress socks and, since it was already in his hands, allowed himself a glance at the opening pages.
 
-Fifteen minutes.
+The text quickly dissolved into some bitter eighteenth-century dispute over tuning methods and interval purity. David smirked faintly. Academics had once destroyed one another over fractions of a semitone. Comforting, in its way.
 
-Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
+As he reached to turn the page, his left hand glitched. The arm simply dropped to his side, heavy and useless for one brief, bewildering second before sensation returned all at once.
 
-David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched into accusation. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
+David frowned, flexing the fingers hard. No pain. No numbness. Just a momentary lapse, like a skipped stair in the dark.
+
+Exhaustion, obviously.
+
+Annoyed more than concerned, he glanced down at the Rolex while rotating the stiffness from his wrist.
+
+What he saw stopped everything else.
+
+Five minutes late. He stared at the watch, waiting for the numbers to correct themselves.
+
+They did not.
+
+David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched out below him. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
+
+That confirmed it. Ten minutes early had jumped to 5 minutes late. Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
 
 David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today had begun its slide toward the unreliable, and the fear of surrendering forever to a life of substandard timing and forgotten gestures sent him to more drastic measures. He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
 
@@ -237,11 +250,9 @@ She turned and headed toward the hall.
 
 David waited until she disappeared fully around the corner before continuing toward the entrance to Feynman Hall, keeping well clear of the seam.
 
-The double oak doors of the buildings main entrance clasped shut behind him as he rounded the corner to the hall, at about 30 feet from the door, he stopped. Beneath his grandfather’s Rolex, the skin of his wrist had begun to pulse and stretch.
+The double oak doors of the buildings main entrance clasped shut behind him as he rounded the corner to the hall. At exactly thirty feet from the door, he stopped. Beneath his grandfather’s Rolex, the skin of his wrist had begun to pulse and stretch. He glanced down to find that he was now eight minutes and forty-seven seconds behind his time. Shit.
 
-Eight minutes and forty-seven seconds behind his time. Shit.
-
-He drew a deep breath, then another, squared his shoulders, and arranged himself into something resembling professor. The smile came easily after that. He knew it wasn’t entirely true. Anyone paying even slight attention could see that. But it was true enough for the moment, and the momentum in the room would carry it the rest of the way toward the threshold of student buy-in. His feet received the signal of general readiness and moved to close the remaining distance and deliver him to class.
+He drew a deep breath, then another, squared his shoulders, and arranged himself into something resembling professor. The smile came easily after that. It wasn’t entirely convincing; anyone paying even slight attention would see the seams. But it would hold for a minute or two, and a minute or two would be enough. His feet accepted the signal of readiness and carried him the remaining distance toward class.
 
 
 ⁂
@@ -451,7 +462,7 @@ Then, quietly, with hazed intention, he reached out and touched the blackboard; 
 
 "Professor?"
 
-The voice rose from the front row. It did not register.
+The voice rose from the front row, but it did not register.
 
 "Professor Lang?"
 
@@ -467,23 +478,20 @@ David's eyelid twitched.
 
 His arm and hand released their frozen hold and fell to his side. Without moving the rest of his body, he locked his eyes with hers, cracked an absurdly exaggerated grin, and replied in a ghoulish voice, "All concepts presented are... potentially examinable."
 
-The tension shattered. Students howled in laughter and relief. David dared not dwell on what he had just managed to wiggle out of. The recovery was a lie, but a useful one. He let it wash over him, already calculating how many minutes remained.
+The tension shattered, students howling in laughter and relief.
 
-"Oh, I had you all so good just now."
+With this impossible recovery firmly in hand, he exclaimed, “Oh, I had you guys so good just now!”
 
-More laughter. He let it wash over him, already calculating how many minutes remained.
+More laughter, though some of it felt less than genuine. David checked the clock. Exactly five minutes, twenty-eight seconds remained.
 
 "I think I've put you through enough for one day. Let's end there, shall we?" Then, louder, as the rustle of the end of things filled the air: "You'll read Kozlowski's Sympathetic Structures for next time. Chapters two through six. Pay attention to the footnotes. The math is wrong, but the metaphors are sound."
 
-Students packed their notes and slipped out one by one.
+Students, at once relieved and confused, packed their notes and slipped out one by one, shuffling and whispering as they passed. Some smiled with admiration. Others avoided his gaze completely. Lang felt the reluctance; he always had. That faint dread had long been part of his professorial mystique. Early in his career, this knowledge had stung, when the world was young and full of promise. But now it had hardened into a badge of purity. He found it, if not admirable, at the very least, useful.
 
-The TA was the last to leave. She handed him her doodle-covered lecture notes. They were a veritable travel log of geometric non-sequiturs, concluding with a thinly scribbled block of text:
+The TA, a graduate student, was the last to leave. She handed him her doodle-covered lecture notes, a veritable travel log of geometric non sequiturs that concluded with a thinly scribbled block of text that read, “Clever save, David. Everything alright?”
 
-Clever save, David. Everything alright?
+Above the note of concern, something else—a crude declarative, only partially scribbled out—as if half intending to redact the words beneath, half to highlight them. It simply read, “WHAT THE FUCK?”
 
-Above it, something only partially scribbled out:
-
-WHAT THE FUCK?
 
 David blinked, then swallowed, finally remembering to inhale. She had earned her stipend.
 
@@ -547,9 +555,13 @@ David stared at the old man for a long moment.
 
 "Goodnight, Professor Lang. Watch those side roads tonight. Slick as thieves."
 
-As he collected his things, the hall exhaled the last of the day's light. He walked into the corridor.
 
-Yet in the space between the lecture hall and the building's double doors, something shifted.
+⁂
+
+
+As he collected his things in silence, that silence began collecting him. The hall of glass exhaled its last shards of daylight, casting him gently towards the slow-blackened hallway, and into the spinning world once more.
+
+Yet in the space between his lecture hall and the building's double doors, something shifted. Probabilities began to whirl and cry havoc.
 
 The Polaroid. Where the hell did it come from?
 
@@ -627,7 +639,7 @@ II
 
 THE Office
 
-[Andante sostenuto—Presto agitato]
+[Moderato, ma non troppo]
 
 David’s office sat two buildings and a partial crossing of the arts quad from the main cluster of physics buildings, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could reach it through the unending mid-century administrative hallways, but long ago, in all weather, he had made a habit of taking the scenic route instead, if only to avoid the corridor haunted by the nearly emeritus tenure set and the half-muttered conversational ordeals they imposed.
 
@@ -911,7 +923,7 @@ By the midpoint of the Adagio, the violinists were visibly discouraged. Roger ha
 
 Her plea lingered. Her pain trembled through each soaring buttress of the lofted annex until she could endure it no longer.
 
-At the end of the second movement, she called the break herself. “Can we just—” She didn’t finish. She set down her viola and, with one miraculous surge of grace and courage, reached for him.
+At the end of the second movement, she called the break herself. “Can we just—” She didn’t finish. She set down her viola and reached for him.
 
 Her hand found his forearm, shaking him gently. “David. David, darling. Come back. Hey. You in there?”
 
