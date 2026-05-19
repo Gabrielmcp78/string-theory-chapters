@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,140
-Paragraph Count: 477
+Word Count:      12,183
+Paragraph Count: 478
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,442  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,443–5,443  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,444–7,687  |  Paragraphs 278–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,688–7,688  |  Paragraphs 338–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,689–10,910  |  Paragraphs 339–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,911–10,911  |  Paragraphs 447–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,912–12,140  |  Paragraphs 448–477  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,485  |  Paragraphs 8–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,486–5,486  |  Paragraphs 278–278  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,487–7,730  |  Paragraphs 279–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,731–7,731  |  Paragraphs 339–339  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,732–10,953  |  Paragraphs 340–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,954–10,954  |  Paragraphs 448–448  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,955–12,183  |  Paragraphs 449–478  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -71,9 +71,13 @@ THE IVY LEAGUE
 
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
-David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him remained behind to object. Naturally, he compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of care, and, with his ablutions now complete, allowed himself one small nod of satisfaction. He had achieved ten minutes early.
+David Lang had not slept. Since the phone call from his mother three weeks earlier, exhaustion had settled gradually into him, until it no longer felt temporary but structural. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
 
-Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. The topic hardly mattered. If she loved it, such a gift might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
+He compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence and, with the morning ritual complete, allowed himself one small nod of satisfaction.
+
+He had managed ten minutes early.
+
+Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. The topic hardly mattered. If she loved it, and she would, such a gift might keep him in her better graces. Indeed, such a gift was of constant requirement. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered remembering it to be enough.
 
@@ -161,7 +165,7 @@ The effect was immediate. Behind him, the line collapsed into itself: shoes scuf
 
 At first the sensation was almost ordinary. Indigestion, perhaps. A pressure under the sternum. A sour inward lurch.
 
-Then the sound arrived. Grating under pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing. He felt as though he was about to vomit as the tone ro led through his guts. David took one hard breath, or tried to. The air would not quite enter. For one impossible second, he assumed they had all heard it.
+Then the sound arrived. Grating under pressure, pitched low enough to feel structural, as if one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep, menacing. He felt as though he was about to vomit as the tone rolled through his guts. David took one hard breath, or tried to. The air would not quite enter. For one impossible second, he assumed they had all heard it.
 
 Then his stomach turned again, this time with the sickening sensation of a body briefly released from time. For a flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sank the other way, into some greyed and brittle age not yet his.
 
@@ -325,9 +329,7 @@ The figure arrived in his mind with impossible authority. Fully formed. Calibrat
 
 68.48 Hz.
 
-A frequency beneath speech. Beneath thought. Too low to belong to the room and too precise to be imagined.
-
-It scraped through him, deep and remembered. It passed under the sternum, found the hinge of his jaw, touched the small bones inside his ear with the cold familiarity of a key entering a lock.
+A frequency beneath speech. Beneath thought. Too low to belong to the room and too precise to be imagined. It scraped through him, deep and remembered, passing under the sternum, towards the hinge of his jaw, then touched the small bones inside his ear with the cold familiarity of a key entering a lock.
 
 His hand hovered over the board. The chalk trembled between his fingers. A white fleck broke loose and landed on the cuff of his sleeve.
 
@@ -393,7 +395,7 @@ The room went still.
 
 David was seething. A cornered animal in a room full of witnesses.
 
-"Harmony happens when everything is already aligned," he said, voice low and dangerous. "Resonance creates that alignment."
+"Harmony happens when everything is already aligned," he said, voice low and dangerous. "Resonance creates that alignment. And you, you of all people, Rune… you know that.”
 
 He turned toward the doorway. A few students turned with him, but most stared at David, as there was nothing else to look at.
 
