@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,301
+Word Count:      12,288
 Paragraph Count: 482
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,610  |  Paragraphs 8–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,611–5,611  |  Paragraphs 282–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,612–7,856  |  Paragraphs 283–342  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,857–7,857  |  Paragraphs 343–343  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,858–11,071  |  Paragraphs 344–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 11,072–11,072  |  Paragraphs 452–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 11,073–12,301  |  Paragraphs 453–482  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,597  |  Paragraphs 8–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,598–5,598  |  Paragraphs 282–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,599–7,843  |  Paragraphs 283–342  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,844–7,844  |  Paragraphs 343–343  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,845–11,058  |  Paragraphs 344–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,059–11,059  |  Paragraphs 452–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,060–12,288  |  Paragraphs 453–482  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -73,7 +73,7 @@ It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
 
-He compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence and, with the morning ritual complete, allowed himself one small nod of satisfaction.
+He compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence and, with the morning ritual complete, allowed one small nod towards satisfaction.
 
 He had managed ten minutes early.
 
@@ -88,21 +88,22 @@ He pulled the book from beneath a heap of dirty dress socks and, since it was al
 
 The text quickly dissolved into some bitter eighteenth-century dispute over tuning methods and interval purity. David smirked faintly. Academics had once destroyed one another over fractions of a semitone. Comforting, in its way.
 
-As he reached to turn the page, his left hand glitched. The arm simply dropped to his side, heavy and useless for one brief, bewildering second before sensation returned all at once.
+As he reached to turn the page, his left arm went slack.
+It dropped to his side, heavy and useless for a single bewildering second before sensation rushed back all at once.
 
-David frowned, flexing the fingers hard. No pain. No numbness. Just a momentary lapse, like a skipped stair in the dark.
+David frowned and flexed his fingers. No pain. No numbness. Just the sickening misstep of a stair that wasn’t there.
 
-Exhaustion, obviously.
+Exhaustion.
 
-Annoyed more than concerned, he glanced down at the Rolex while rotating the stiffness from his wrist.
+As he rolled the stiffness from his wrist and glanced down at his watch, his breath caught.
 
-What he saw stopped everything else.
+Five minutes late.
 
-Five minutes late. He stared at the watch, waiting for the numbers to correct themselves.
+He stared at the display, waiting for the numbers to correct themselves.
 
-They did not.
+They didn’t.
 
-David leapt up, scrambling across the grated bridge and out onto the balcony. Below him, the short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched out below him. He could just make out the familiar pattern of the gang already gathered below, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
+David leapt up, scrambling across the grated bridge and out onto the balcony. The short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched out before him. He could just make out the familiar pattern of the gang already gathered, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
 
 That confirmed it. Ten minutes early had jumped to 5 minutes late. Which meant, allowing for the hill, the crossing, and the pedestrian uselessness of human legs, that he was already eight minutes and, he further calculated, forty-seven seconds past his time.
 
