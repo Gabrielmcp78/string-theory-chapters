@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-05-20",
-  "total_words": 107563,
+  "total_words": 107562,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -119,7 +119,7 @@
       "label": "Chapter 2",
       "title": "The Edge of Discovery",
       "subtitle": "an epistemic fugue in four voices",
-      "word_count": 9656,
+      "word_count": 9655,
       "paragraph_count": 639,
       "scene_count": 12,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
@@ -183,7 +183,7 @@
           "n": 7,
           "heading": "II.3   THE HOTEL ROOM   |   Buffalo, NY",
           "word_start": 3514,
-          "word_end": 5810,
+          "word_end": 5809,
           "para_start": 204,
           "para_end": 367,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html"
@@ -191,8 +191,8 @@
         {
           "n": 8,
           "heading": "III.  THE FIREBIRDS   |   MIT - Boston, MA  \t    May 24, 2005",
-          "word_start": 5811,
-          "word_end": 7782,
+          "word_start": 5810,
+          "word_end": 7781,
           "para_start": 368,
           "para_end": 479,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html"
@@ -200,8 +200,8 @@
         {
           "n": 9,
           "heading": "IV.1   DISSOLUTION   |   Cornell - Ithaca, NY \t      Present Day",
-          "word_start": 7783,
-          "word_end": 8345,
+          "word_start": 7782,
+          "word_end": 8344,
           "para_start": 480,
           "para_end": 518,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html"
@@ -209,8 +209,8 @@
         {
           "n": 10,
           "heading": "IV.2 THE CLASSROOM | Cornell \t\t\t       Ithaca, NY",
-          "word_start": 8346,
-          "word_end": 9057,
+          "word_start": 8345,
+          "word_end": 9056,
           "para_start": 519,
           "para_end": 592,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html"
@@ -218,8 +218,8 @@
         {
           "n": 11,
           "heading": "IV.3 THE CORRIDOR",
-          "word_start": 9058,
-          "word_end": 9528,
+          "word_start": 9057,
+          "word_end": 9527,
           "para_start": 593,
           "para_end": 630,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html"
@@ -227,8 +227,8 @@
         {
           "n": 12,
           "heading": "V.   RECOGNITION",
-          "word_start": 9529,
-          "word_end": 9656,
+          "word_start": 9528,
+          "word_end": 9655,
           "para_start": 631,
           "para_end": 639,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html"

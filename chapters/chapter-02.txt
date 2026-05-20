@@ -8,7 +8,7 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,656
+Word Count:      9,655
 Paragraph Count: 639
 Scene Count:     12
 
@@ -18,12 +18,12 @@ Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,305�
 Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,033–2,535  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
 Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,536–2,976  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
 Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,977–3,513  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,810  |  Paragraphs 204–367  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,811–7,782  |  Paragraphs 368–479  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,783–8,345  |  Paragraphs 480–518  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,346–9,057  |  Paragraphs 519–592  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3 THE CORRIDOR  --  Words 9,058–9,528  |  Paragraphs 593–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 9,529–9,656  |  Paragraphs 631–639  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,809  |  Paragraphs 204–367  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,810–7,781  |  Paragraphs 368–479  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,782–8,344  |  Paragraphs 480–518  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,345–9,056  |  Paragraphs 519–592  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3 THE CORRIDOR  --  Words 9,057–9,527  |  Paragraphs 593–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 9,528–9,655  |  Paragraphs 631–639  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -499,7 +499,7 @@ II.3   THE HOTEL ROOM   |   Buffalo, NY
 
 [|  Revelation  |]
 
-The room had the over-insulated density peculiar to conference hotels, a heat that did not warm so much as accumulate. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts: frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
+The room had the over-insulated density peculiar to conference hotels, a heat that seemed to accumulate rather than warm. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts: frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
 
 David closed the door and stood for a moment without taking off his coat. The television flickered on when his bag brushed the remote. A weather anchor in a violent blue tie stood before a radar map warning western New York about lake-effect snow with the solemnity of nuclear war.
 
