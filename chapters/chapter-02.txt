@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,891
-Paragraph Count: 494
+Word Count:      11,411
+Paragraph Count: 677
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,301  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,302–2,029  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,030–2,532  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,533–2,973  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,974–3,509  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,510–5,666  |  Paragraphs 204–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,667–7,638  |  Paragraphs 316–427  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,639–8,117  |  Paragraphs 428–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2   THE CLASSROOM   |  Cornell - Ithaca, NY            Present Day  --  Words 8,118–8,482  |  Paragraphs 448–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3  THE CORRIDOR  --  Words 8,483–8,763  |  Paragraphs 468–485  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 8,764–8,891  |  Paragraphs 486–494  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,304  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,305–2,032  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,033–2,535  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,536–2,976  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,977–3,513  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–8,186  |  Paragraphs 204–498  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 8,187–10,158  |  Paragraphs 499–610  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 10,159–10,637  |  Paragraphs 611–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2   THE CLASSROOM   |  Cornell - Ithaca, NY            Present Day  --  Words 10,638–11,002  |  Paragraphs 631–650  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3  THE CORRIDOR  --  Words 11,003–11,283  |  Paragraphs 651–668  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 11,284–11,411  |  Paragraphs 669–677  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -105,7 +105,7 @@ Celeste sat on the floor opposite David, her back against the radiator that clan
 
 “What’s dangerous about it?” she asked.
 
-“What’s dangerous?” Marcus leaned forward. “He’s proposing that the entire edifice of physics—which, by the way, has done pretty well with things like not dying in childbirth and satellites—is just one translation of a consciousness-language we haven’t decoded yet. You know what they call people who think like that?”
+“What’s dangerous?” Marcus leaned forward. “He’s proposing that the entire edifice of physics, which, by the way, has done pretty well with things like not dying in childbirth and satellites, is just one translation of a consciousness-language we haven’t decoded yet. You know what they call people who think like that?”
 
 “Visionaries?” Celeste offered.
 
@@ -141,7 +141,7 @@ David was on his feet before Celeste could react. “You don’t get to decide w
 
 “Someone has to! Because you won’t!”
 
-They were chest to chest now, or close enough—Marcus had three inches on him, a fact he’d never once made David feel until this moment. David’s hands were balled. Marcus’s chin was lifted, daring.
+They were chest to chest now, or close enough. Marcus had three inches on him, a fact he’d never once made David feel until this moment. David’s hands were balled. Marcus’s chin was lifted, daring.
 
 “Hey.” Celeste’s voice cut through like a lightning bolt. Sharp. Singular.
 
@@ -483,7 +483,7 @@ The woman collected the forms without looking at them. When she approached to co
 
 NON-COMPLIANT, and left the room without a goodbye. Her shape already fading, as if memory were erasing her in real time.
 
-David looked down. His form was blank—it remained uncollected. His pen was dry. He didn’t know if this was on purpose, or in protest.
+David looked down. His form was blank. It remained uncollected. His pen was dry. He didn’t know if this was on purpose, or in protest.
 
 Had he stayed the whole time? He wasn’t entirely sure. By the time he looked up from the page, it was empty. The room. He was the only person left.
 
@@ -499,6 +499,333 @@ II.3   THE HOTEL ROOM   |   Buffalo, NY
 
 [|  Revelation  |]
 
+The room had the over-insulated density peculiar to conference hotels, a heat that did not warm so much as accumulate. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts: frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
+
+David closed the door and stood for a moment without taking off his coat. The television flickered on when his bag brushed the remote. A weather anchor in a violent blue tie stood before a radar map warning western New York about lake-effect snow with the solemnity of nuclear war.
+
+“…travel advisory remains in effect through Thurs—”
+
+David muted it. For a second canned laughter burst from some commercial before the silence swallowed it again. The room smelled faintly of industrial detergent and somebody else’s cologne beneath the heat.
+
+The silence in the room was not silence. The hum had followed him up from the lobby, thinned now and distributed through vent-work, lamp ballast, refrigeration, the hidden workings of the building continuing beneath all appearances of rest.
+
+He set the conference duffel on the chair. The plastic conference badge still hung around his neck. He tore it off irritably and missed the trash can by three feet.
+
+When he turned, the cello case was already drawing the eye.
+
+He knelt and opened the latches. The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. Familiar, yes. But after the shop, familiarity no longer felt simple. He touched the neck, then the shoulder, then lifted the body toward the lamp. A smell rose from the open case: rosin, old wood, horsehair; and beneath it, something that did not belong to any conference room. Cedar oil. Brass polish. The shop again, impossibly present in the instrument.
+
+He drew the bow from the case and tightened it slowly.
+
+The first open C entered the room and stayed there—not louder than expected, only deeper. It passed beneath the vent hum and found it. The two frequencies did not merge. They approached instead, hovered just outside one another, the contact point trembling near coherence strongly enough to raise the hair along his forearms.
+
+When he played the note again, a page on the desk shifted a quarter inch. A water glass on the nightstand drew a minute ring along its inner surface. Somewhere in the wall a cheap screw answered with a sympathetic rattle. The room had not come into tune. It had revealed the degree to which it wanted to.
+
+He shifted to G, then back to C, then took the octave above. The cello answered with something that felt less like projection than recognition. His sternum vibrated. In the afterring he could almost hear some thinner structure pressing toward form and stopping just short of it so that when he stopped playing, the room did not wholly let go.
+
+On the desk, one of his conference pages had shifted enough to expose a penciled ratio:
+
+3:2. holds, but does not open.
+
+He stared at the line with immediate irritation. Christ. Was he becoming one of those people now? Three days around theoretical acousticians and suddenly every legal pad in America looked like the notebook of a desert prophet.
+
+The hum in the room thickened, or his hearing moved closer to its center. He raised the bow again and played a stopped fifth against the open string. For one held instant the instrument seemed to gather itself inward. The lamp filament narrowed to a trembling wire. His notes on the desk slid subtly into rough alignment as though brushed by a draft too delicate to feel and too precise to dismiss.
+
+Then the alignment broke. The vent resumed its dull mechanical breathing and the pages settled back against the desk. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
+
+Down the hall an ice machine detonated with apocalyptic violence.
+
+David blinked. “Jesus Christ.”
+
+He lowered the bow and stood very still, listening to the residue.
+
+Only then did he notice the business card on the desk, half exposed beneath the shifted page.
+
+REPAIR SHOP FOR STRINGS. E. Guare, Proprietor.
+
+Cream stock. Black ink. No ornament. In fact, no other markings of any kind. The card assumed you either knew where to go or never would.
+
+He lifted the instrument toward the lamp and angled the treble f-hole into the light. The maker’s label sat where it always had. Behind it, deeper in the cavity, something caught the yellow spill: a narrow repair strip glued to the inner rib. The graphite had faded at the edges.
+
+What he could make out was this:
+
+BFL 11/85. C.G. for C.L.
+
+He stared.
+
+C.L.
+
+Cassandra Lang.
+
+The thought arrived only partially reasoned. What the hell were his mother’s initials doing inside his cello?
+
+He lowered the instrument carefully onto the bed and stood over it.
+
+Call Mom. No. Jesus. She’d be asleep.
+
+Then again, his mother considered midnight a perfectly reasonable time to reorganize closets or become emotionally devastated in the kitchen.
+
+He turned toward the chair and started digging through the conference duffel. There had been a penlight in the swag bag somewhere beneath brochures, branded pens, and a stress ball shaped like a brain.
+
+His hand was still buried in the bag when the phone rang.
+
+He jerked hard enough to nearly knock the cello sideways off the bed. The bow clipped the lamp.
+
+“Shit.”
+
+“David?”
+
+He grabbed the phone. “Hey, Mom.”
+
+“Oh good, I didn’t wake you.”
+
+“You absolutely woke me.”
+
+“No I didn’t.”
+
+“Mom, it’s midnight.”
+
+“Well midnight’s not a real time anyway. Nothing important has ever happened at midnight except murders and babies.”
+
+Despite himself, he smiled and sat down on the edge of the bed. “Mother, you are in the middle of someone else’s conversation again.”
+
+“What? Oh. Sorry, sweetheart.” A pause. “Somebody in this house has to maintain a lively social calendar.”
+
+“You live alone.”
+
+“That has literally never stopped me.”
+
+A slight giggle escaped her. He closed his eyes.
+
+“Well,” she said, “I was trying to decide if I should just call and tell you about this.”
+
+“Funny,” he said. “I was just standing here wondering if I should call you.”
+
+“Well then, I’ve saved you the trouble. So what’s the skinny, darling?”
+
+He looked back toward the open cello, the f-hole turned slightly toward the lamp like an opened mouth. “I’m not sure yet. I just found something weird.”
+
+“With you that could mean literally anything.”
+
+“There’s a repair mark inside the cello. I’ve never noticed it before.”
+
+“Inside?”
+
+“Yeah. Buffalo, nineteen eighty-five. And initials.”
+
+“What initials?”
+
+“C.L. I think. Maybe.”
+
+“My initials?”
+
+“Looks like it.”
+
+A small incredulous laugh burst through the line. “Honey, why on earth would my initials be inside your cello? I don’t even know how to hold the thing correctly. That was your father’s department.”
+
+“Yeah, I know. I just thought maybe…”
+
+“Well if I secretly became a luthier and forgot to mention it, this is very exciting news.”
+
+He laughed softly.
+
+“Anyway,” she said, “I had something too.”
+
+The line quieted.
+
+“Mom?”
+
+Faintly he could hear her murmuring to herself.
+
+“Well now… no, that doesn’t… unless…”
+
+“No,” she said at last, quieter now. “That’s not right either.”
+
+“What isn’t?”
+
+“The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” A breath. “No, sweetheart. The cello was your grandfather’s thing.”
+
+David frowned.
+
+“I remember he bought it for you. Worked the whole thing out with your father when you were tiny. Four maybe? Five? Your father wanted something practical and Elliot disappeared for three weeks like he was running guns for the French Resistance.”
+
+David smiled despite himself. “Buffalo.”
+
+“What?”
+
+“The repair slip. Buffalo, eighty-five.”
+
+“Oh, that sounds right. They drove there together at least once.” A pause. “No, twice. Because your grandfather got that speeding ticket.”
+
+“He got a speeding ticket?”
+
+“Oh lord yes. Arthur acted scandalized for weeks. You’d have thought Elliot robbed a bank.”
+
+A chair creaked softly on her end.
+
+“They came home freezing to death and acting very strange afterward.”
+
+“Strange how?”
+
+“Secretive. Whispering in the kitchen. Stopping when I walked in.” She paused. “Honestly I thought they’d lost money gambling somewhere.”
+
+David looked back toward the cello lying open across the hotel bed.
+
+“Once it arrived, Elliot barely let anyone touch it. Not even your father.”
+
+“Why?”
+
+“He kept saying it needed to settle.”
+
+“Settle.”
+
+“I don’t know. Wood acclimating, strings adjusting, moon phases. With those two it was always half science and half witchcraft.”
+
+David’s eyes drifted again to the penciled notation on the desk:
+
+3:2. holds, but does not open.
+
+A pressure gathered slowly behind his ribs.
+
+“Mom,” he said carefully, “did Grandpa ever talk about hearing things?”
+
+“Hearing things?”
+
+“Not voices. Just… tones. Patterns maybe.”
+
+The silence on the line sharpened.
+
+Then:
+
+“I found something too,” she said quietly. “A few days ago.”
+
+His hand tightened around the repair slip. “What?”
+
+“Music. In your father’s Bach.”
+
+She did not need to say which Bach.
+
+“I was looking for a note,” she said. “Something sentimental. You know your father. He hid emotions in books like a Soviet spy.”
+
+David smiled faintly.
+
+“There was a folded sheet tucked into the Prelude. Eight bars. In his handwriting, but very careful. Like he was copying it from somewhere else.” She paused. “At the bottom he wrote: E.L.—heard this once.”
+
+David felt something inside him go very still.
+
+“Your grandfather,” she said.
+
+The room contracted.
+
+“I’ve been trying to play it on the piano,” she continued. “It’s strange.”
+
+“How?”
+
+“It keeps sounding like it’s about to resolve and then it just… refuses.”
+
+“Can you read me the notes?”
+
+She did. One by one. Patiently.
+
+David listened.
+
+And suddenly he was six years old again, half asleep against his grandfather’s chest while Elliot hummed near the window during a thunderstorm. The melody wandering in circles that never quite closed. He had known this music his entire life—not consciously, but the way the body knows a staircase in darkness.
+
+“Mom,” he said softly, “that’s Grandpa’s song.”
+
+A long silence.
+
+“Oh, honey,” she whispered. “You’re right.”
+
+Another pause.
+
+“Arthur used to joke it was the only damn tune Elliot knew.”
+
+Not because he had written it. Because he had heard it once and never escaped it.
+
+“David?”
+
+“I’m here.”
+
+He bent toward the f-hole again, this time with the penlight. Under the harsher beam the letters changed. Not C’s. E’s. The graphite had faded just enough to close the upper arms.
+
+The marking read plainly now:
+
+BFL 11/85. E.G. for E.L.
+
+At the bottom of the case, half trapped beneath the shoulder rest, lay a folded receipt he had barely noticed before. He opened it carefully.
+
+REPAIR SHOP FOR STRINGS, Buffalo, N.Y.
+client: E. Lang.
+internal adjustment completed / see verbal instructions only.
+
+Not Cassandra.
+
+Elliot.
+
+Near the saddle, where the grain tightened toward the endpin, the minute irregularity beneath the varnish returned to him with new force. Around the endpin collar, the ebony looked fractionally newer than the surrounding wear suggested it should. Someone had opened the instrument and closed it so carefully the fact survived only as hesitation in the surface.
+
+“David?” she said again. “What on earth does it mean?”
+
+He almost answered:
+
+Nothing. Probably nothing.
+
+But the sentence would not come. Not because he believed otherwise yet. Only because some older part of him had already started listening.
+
+He looked from the slip to the open cello case, and from the case to the card on the desk.
+
+“I think he heard something,” David said slowly. “And I think music got to it before language did.”
+
+She was quiet a moment.
+
+“Well,” she said at last, “that sounds deeply unhealthy.”
+
+He laughed unexpectedly. “Probably.”
+
+“You’ll tell me what you figure out though, right?”
+
+“I will.”
+
+A deep-breathed pause lingered across the line.
+
+“It’s so quiet without him,” she said softly.
+
+David looked automatically toward the television, still flashing silent weather maps into the dark room.
+
+“Oh, Mom.”
+
+“I hate the quiet.”
+
+Neither of them spoke.
+
+Finally she sighed. “Well. I should let you go. I love you, sweetheart.”
+
+“Love you too.”
+
+The line clicked dead.
+
+David sat motionless on the edge of the bed, the repair slip in one hand, the cooling phone in the other. The melody moved through him again, wandering, unresolved, never arriving where it seemed destined to land. He had fallen asleep to it a thousand times without ever asking where it came from.
+
+The cello lay open at the foot of the bed.
+
+Something had moved from atmosphere into fact.
+
+And fact, however partial, carried its own narcotic authority.
+
+He lay back slowly, the slip resting against his chest. The vent continued breathing overhead. Somewhere beyond the sealed hotel glass a snowplow dragged metal against pavement.
+
+And then:
+
+firelight,
+
+ash lifting into wind,
+
+a field bright with ruin.
+
+
+
+
 The room had the over-insulated density peculiar to conference hotels, a heat that did not warm so much as accumulate. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts—frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
 
 David closed the door and stood for a moment without taking off his coat. The silence in the room was not silence. The hum had followed him up from the lobby, thinned now and distributed through vent-work, lamp ballast, refrigeration—the hidden workings of the building continuing beneath all appearances of rest.
@@ -507,7 +834,7 @@ He set the conference duffel on the chair. When he turned, the cello case was al
 
 He knelt and opened the latches.
 
-The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. Familiar, yes. But after the shop, familiarity no longer felt simple. He touched the neck, then the shoulder, then lifted the body toward the lamp. A smell rose from the open case: rosin, old wood, horsehair—and beneath it, something that did not belong to any conference room. Cedar oil. Brass polish. The shop again, impossibly present in the instrument.
+The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. Familiar, yes. But after the shop, familiarity no longer felt simple. He touched the neck, then the shoulder, then lifted the body toward the lamp. A smell rose from the open case: rosin, old wood, horsehair; and beneath it, something that did not belong to any conference room. Cedar oil. Brass polish. The shop again, impossibly present in the instrument.
 
 He drew the bow from the case and tightened it slowly.
 
@@ -603,7 +930,49 @@ Then faintly, Cassie’s familiar self-murmur began to bleed through the silence
 
 “The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” A breath. “No, sweetheart. The cello was your grandfather’s thing. I mean, I remember he bought it for you, worked out the whole plan with your father when you were barely 4… maybe 5. It was years before I allowed the two of them to actually give it to you. I was sure the thing would crush my baby whole.”
 
+“I mean, I remember he bought it for you, worked out the whole plan with your father when you were barely 4… maybe 5. It was years before I allowed the two of them to actually give it to you. I was sure the thing would crush my baby whole.”
 
+David looked back toward the cello lying open across the hotel bed.
+
+“Grandpa picked it out himself?”
+
+“Oh, lord yes. Elliot treated that thing like a diplomatic operation.” A small laugh. “Your father wanted something practical. Student-grade, sensible, durable. Elliot disappeared for three weeks and came back acting like he’d smuggled state secrets across the border.”
+
+David frowned slightly. “Buffalo.”
+
+“What?”
+
+“The repair slip. Buffalo, eighty-five.”
+
+“Oh, that sounds right.” Her voice drifted, searching backward. “They drove there together at least once. Maybe twice. Arthur said there was some old craftsman your grandfather trusted. I remember because they came home freezing to death and absolutely impossible to live with for about a week afterward.”
+
+“Impossible how?”
+
+“Oh, secretive.” A chair creaked softly on her end of the line. “Whispering in the kitchen. Stopping when I walked in. Your grandfather would get that faraway look and Arthur would pretend not to notice it.” She paused. “I honestly thought they were hiding gambling debts from me.”
+
+Despite himself, David smiled.
+
+“But the strange part,” she continued more quietly, “was afterward. Once the cello finally arrived at the house, Elliot barely let anyone touch it. Not even your father at first. He kept saying it needed to settle.”
+
+“Settle?”
+
+“I don’t know. Wood acclimating, strings adjusting, moon phases.” Another faint laugh, thinner this time. “With those two, music always sounded half scientific and half superstitious.”
+
+David’s eyes drifted again to the penciled notation exposed on the desk:
+
+3:2. holds, but does not open.
+
+A pressure gathered slowly behind his ribs.
+
+“Mom,” he said carefully, “did Grandpa ever talk about hearing things?”
+
+“Hearing things?”
+
+“Not voices. Just…” He searched for language that did not sound insane. “Tones. Resonances. Patterns in sound.”
+
+The silence on the line sharpened.
+
+Then:
 
 “I found something too,” she said. “I’ve been sitting with it for a few days. I didn’t know who to call.”
 

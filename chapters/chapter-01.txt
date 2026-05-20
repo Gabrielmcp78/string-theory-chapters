@@ -8,7 +8,7 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,288
+Word Count:      12,294
 Paragraph Count: 482
 Scene Count:     9
 
@@ -18,9 +18,9 @@ Scene 3: THE IVY LEAGUE  --  Words 23–5,597  |  Paragraphs 8–281  |  URL: ht
 Scene 4: II  --  Words 5,598–5,598  |  Paragraphs 282–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 Scene 5: THE Office  --  Words 5,599–7,843  |  Paragraphs 283–342  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
 Scene 6: III  --  Words 7,844–7,844  |  Paragraphs 343–343  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,845–11,058  |  Paragraphs 344–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 11,059–11,059  |  Paragraphs 452–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 11,060–12,288  |  Paragraphs 453–482  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,845–11,064  |  Paragraphs 344–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,065–11,065  |  Paragraphs 452–452  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,066–12,294  |  Paragraphs 453–482  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -793,13 +793,13 @@ The main rehearsal hall smelled of rosin and old wool, with the faint tang of br
 ⁂
 
 
-Roger Linn, the 1st Violinist, and Professor of String Performance, was already there, spreading music across the stands when David shouldered through the door, and for a moment the room held him the way it held every arrival—without comment, without mercy, simply making space.
+Roger Linn, the 1st Violinist, and Professor of String Performance, was already there, spreading music across the stands when David shouldered through the door, and for a moment the room held him the way it held every arrival: without comment, without mercy, simply making space.
 
-Prokofiev’s Second sat atop the pile, corners weighted flat, the familiar pages worn soft at the edges. Months ago they’d penciled bowings into the margins—thick, insistent annotations that looked less like instructions than an ongoing argument with the composer himself, a private negotiation between living bodies and dead certainty.
+Prokofiev’s Second sat atop the pile, corners weighted flat, the familiar pages worn soft at the edges. Months ago they’d penciled bowings into the margins, thick, insistent annotations that looked less like instructions than an ongoing argument with the composer himself, a private negotiation between living bodies and dead certainty.
 
 David set the cello case down with a heavy, unmusical thud. His coat still held the cold.
 
-Linn looked up, and the grin came easily—an old reflex—his arms opening for a brief second as if to embrace and then thinking better of it, bow dangling from one hand like a thought he hadn’t finished forming.
+Linn looked up, and the grin came easily, an old reflex, his arms opening for a brief second as if to embrace and then thinking better of it, bow dangling from one hand like a thought he hadn’t finished forming.
 
 David gave a low laugh and dragged his sleeve across his face, as though he could wipe away whatever clung there.
 
@@ -807,7 +807,7 @@ Linn lifted the bow in a small, fluent gesture that read: how was your day? Or p
 
 David shrugged, and the slump of his shoulders answered plainly enough.
 
-They had been speaking this grammar since Boston—exhaustion as syntax, the old recursive loop of who’s-worse-off-this-week rendered wordless by long practice, the sort of intimacy that doesn’t require confession because it has already seen everything confession would contain.
+They had been speaking this grammar since Boston: exhaustion as syntax, the old recursive loop of who’s-worse-off-this-week rendered wordless by long practice, the sort of intimacy that doesn’t require confession because it has already seen everything confession would contain.
 
 Eleanor Rieger, the quartet’s second violin, entered next in a flurry of wool and efficiency, moving as if she were late to something important even when she wasn’t, dispensing a cheek kiss to Linn, and the same to David, each deployed with the semi-sincere warmth of a diplomat working a reception line. Her overcoat swung off mid-stride, a practiced flourish, as if the body beneath it had no time for weather.
 
@@ -821,7 +821,7 @@ She had not seen David since the funeral, and the recognition arrived in her fac
 
 “Bless her heart. You’ll send her my love, won’t you.” Eleanor took his forearm in that official, pressurized manner whose unspoken grammar was universal: You hang in there now.
 
-“You know,” Linn offered, “Eleanor and I were trying to figure out which of us caught more performances of the BSO back when your father was second chair. What did we decide, Eleanor—between us, maybe one-hundred-twenty? One-twenty-five?”
+“You know,” Linn offered, “Eleanor and I were trying to figure out which of us caught more performances of the BSO back when your father was second chair. What did we decide, Eleanor?Between us, maybe one-hundred-twenty? One-twenty-five?”
 
 “Oh, easily,” Eleanor said, allowing him the larger share with an elegant little concession. “Though you had me by a mile, Roger.”
 
@@ -973,7 +973,7 @@ She turned to the empty doorway. “Hey, you guys, David was playing Haydn all e
 
 They collapsed again, laughter spilling into glances, folding into blinks and nods, the gestures that live so close to regret they can borrow milk from each other without having to knock.
 
-Later, and often, David would call himself an idiot—that he could keep her through the chaotic early years only to lose her once he was grown and supposed to be wise. Twenty years together, never married, and somehow that difference hurt more. He had lost her to the purity of his numeric mania, and he knew it.
+Later, and often, David would call himself an idiot, that he could keep her through the chaotic early years only to lose her once he was grown and supposed to be wise. Twenty years together, never married, and somehow that difference hurt more. He had lost her to the purity of his numeric mania, and he knew it.
 
 At the double doors, she paused, scarf coiled, hand on the push bar. Something in the corridor behind her had changed. A shift in the air.
 
