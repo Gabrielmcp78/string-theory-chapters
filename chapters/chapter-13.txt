@@ -7,17 +7,17 @@ Title:           Phenom de Guare
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,672
+Word Count:      5,685
 Paragraph Count: 283
 Scene Count:     7
 
 Scene 1: I.  THE NETWORK 				             	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
-Scene 2: II.  THE CALL  --  Words 461–1,420  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
-Scene 3: III.  THE DISCOVERY  --  Words 1,421–2,142  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: IV.  Around The Horn  --  Words 2,143–3,678  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,679–4,426  |  Paragraphs 179–221  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: VI.  TEMPORALity  --  Words 4,427–4,808  |  Paragraphs 222–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: VII.  CANTUS  --  Words 4,809–5,672  |  Paragraphs 245–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 2: II.  THE CALL  --  Words 461–1,422  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: III.  THE DISCOVERY  --  Words 1,423–2,155  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: IV.  Around The Horn  --  Words 2,156–3,691  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,692–4,439  |  Paragraphs 179–221  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: VI.  TEMPORALity  --  Words 4,440–4,821  |  Paragraphs 222–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: VII.  CANTUS  --  Words 4,822–5,685  |  Paragraphs 245–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -148,11 +148,11 @@ The battle axe rang again.
 
 “What do you mean? Rune, what’s wrong with David? Is he there? Can I talk to him?”
 
-“Oh God, Marcus. No. He’s… not himself. I suspended him two weeks ago—for his own safety.”
+“Oh God, Marcus. No. He’s… not himself. I suspended him two weeks ago, for his own safety.”
 
-“Wait, wait.” McGrath’s voice spiked with urgency. “Consciousness mathematics? Eleven dimensions? Rune, don’t you see? He was onto something! Everything he was ‘mumbling about’—this is it!”
+“Wait, wait.” McGrath’s voice spiked with urgency. “Consciousness mathematics? Eleven dimensions? Rune, don’t you see? He was onto something! Everything he was ‘mumbling about,’ this is it!”
 
-Understanding crashed over Ishikawa. “Marcus, I’m looking at the footage now. Those equations—Jesus Christ, they’re covering David’s chalkboards. His office, his lecture hall— they’re both plastered with it.”
+Understanding crashed over Ishikawa. “Marcus, I’m looking at the footage now. Those equations—Jesus Christ, they’re covering David’s chalkboards. His office, his lecture hall, they’re both plastered with it.”
 
 “His boards?” Marcus’s voice sharpened. “They’re still there?”
 
@@ -167,7 +167,7 @@ III.  THE DISCOVERY
 
 [Cornell Physics Building—David’s Lecture Hall]
 
-Ishikawa’s footsteps echoed through empty corridors as he ran across the quad, mind racing. Every “crazy” theory David had been developing, every impossible mathematical framework he’d dismissed as brilliant but unmoored from reality—what if it had all been breakthrough disguised as breakdown?
+Ishikawa burst through the front entrance to the lab and raced across the quad toward Feynman Hall, mind racing. Every crazy theory David had been developing, every impossible mathematical framework he’d dismissed as brilliant but unmoored from reality came rushing into his head. What if it had all been breakthrough disguised as breakdown?
 
 The phone was already ringing when he reached David’s building, the sound echoing down the hallway like an emergency alarm.
 
