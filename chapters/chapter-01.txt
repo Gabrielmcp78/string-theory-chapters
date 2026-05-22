@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,658
-Paragraph Count: 488
+Word Count:      11,708
+Paragraph Count: 486
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–4,961  |  Paragraphs 8–287  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 4,962–4,962  |  Paragraphs 288–288  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 4,963–7,207  |  Paragraphs 289–348  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,208–7,208  |  Paragraphs 349–349  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,209–10,428  |  Paragraphs 350–457  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,429–10,429  |  Paragraphs 458–458  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,430–11,658  |  Paragraphs 459–488  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,011  |  Paragraphs 8–285  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,012–5,012  |  Paragraphs 286–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,013–7,257  |  Paragraphs 287–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,258–7,258  |  Paragraphs 347–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,259–10,478  |  Paragraphs 348–455  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,479–10,479  |  Paragraphs 456–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,480–11,708  |  Paragraphs 457–486  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -69,10 +69,6 @@ THE IVY LEAGUE
 
 [Andante sostenuto—Presto agitato]
 
-THE IVY LEAGUE
-
-[Andante sostenuto—Presto agitato]
-
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
@@ -83,15 +79,15 @@ He had managed ten minutes early.
 
 Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. If she loved it, and she would, such a gift might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
 
-Then standards returned. With a small, resentful grunt, he climbed the spiral staircase to the bedroom loft. The suitcase sat where he had left it, untouched since his return.
+For one professionally indefensible moment, David considered whether the mere remembering of it might be enough.
 
-He pulled the book from beneath a heap of dirty dress socks.
+Then standards returned. With a small, resentful grunt, he climbed the spiral staircase to the bedroom loft, moved with direct haste to bed and suitcase, then sat and pulled the book from beneath a heap of dirty dress socks.
 
-As he reached to turn the page, his left arm went slack. It dropped to his side, heavy and useless for a single bewildering second before sensation rushed back all at once.
+As he reached to crack open the cover, his left arm went slack. It dropped to his side, heavy and useless for a single bewildering second before sensation rushed back all at once.
 
-David frowned and flexed his fingers. No pain. No numbness. Just the sickening misstep of a stair that wasn’t there.
+David frowned and flexed his fingers. No pain. No numbness. Just the sickening misstep of an extra stair in the dark.
 
-Exhaustion.
+Exhaustion certainly.
 
 As he rolled the stiffness from his wrist and glanced down at his watch, the world tilted subtly out of sequence.
 
@@ -101,15 +97,11 @@ The watch face stared back at him with mechanical indifference.
 
 David blinked once. Twice.
 
-No.
-
 He looked toward the loft windows as though the angle of the light itself might contradict the numbers. The apartment remained perfectly ordinary. Heat clicking through the radiators. Morning glare across the railing. Traffic somewhere downhill beyond the glass.
 
 But the missing minutes remained missing.
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. The short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched out before him. He could just make out the familiar pattern of the gang already gathered, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
-
-That confirmed it.
 
 David Lang was never late. Never.
 
@@ -125,7 +117,11 @@ By the time East Hill rose before him, David had restored his pace to something 
 
 The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort, already congealing. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
 
-David looked down and found sabotage in full bloom: both laces dangling across his shoes. Begrudgingly, he knelt to repair the debacle, one eye on the task at foot and one on the task ahead.
+Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
+
+David felt something in him sharpen. Territory. A morning ritual improperly occupied. An imbalance awaiting correction.
+
+He looked down at his shoes to found sabotage in full bloom: both laces dangling across his shoes. Begrudgingly, he knelt to repair the debacle, one eye on the task at foot and one on the task ahead.
 
 Finally done, he sprang upright and broke into the short, undignified spurts of speed required to catch them.
 
@@ -147,7 +143,7 @@ Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
 
 “Don’t what?”
 
-“Lower the room temperature with your humanity. It’s undignified.”
+“Lower the room temperature with your no humanity. It’s undignified.”
 
 Naomi Feld, walking just behind Sweeney, hid a smile behind her coffee. Bardon from History gave David a cautious nod, the kind people gave at funerals and department votes. Two graduate students drifted in their wake.
 
@@ -171,7 +167,7 @@ Naomi lost the fight first. Sweeney followed, slower, appalled at himself.
 
 That broke them properly.
 
-As they reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad, David was suddenly halted. Stopped by inner force that had full sway over his faculties. His body refused the next step.
+As they reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad, David was suddenly halted. Stopped by an inner force that had full sway over his faculties. His body refused the next step.
 
 The effect was immediate. Behind him, the line collapsed into itself: shoes scuffing, brief apologies, Sweeney’s hand coming up to steady Naomi’s coffee before it betrayed everyone.
 
@@ -656,7 +652,7 @@ David burst through the door. His coat sailed toward a hook, bag thudding to the
 
 Before David could orient himself, Rune’s voice floated out into the room—unhurried, already mid-thought—as if none of the preceding spectacle had occurred.
 
-“You know, David,” he took another delicate sip from his cup and with a faint upturn of the right side of his lips, continued. “There simply doesn’t seem to be milk anywhere. I searched and searched, even dared to cross over into the chemistry department. Dreadful world, terrible mistake. Still… nothing.
+“You know, David,” he took another delicate sip from his cup and with a faint upturn of the right side of his lips, continued. “There simply doesn’t seem to be milk anywhere. I searched and searched, even dared to cross over into the chemistry department. Dreadful world, terrible mistake. Still… nothing.”
 
 “Rune. Come on in.”
 
@@ -1003,7 +999,7 @@ She lingered a moment longer, a slight smile cracking her defenses. The moment l
 ⁂
 
 
-Deep in the tunnel beneath, or perhaps in the back pew of the old chapel, someone took a deep, laden breath, praying through the resonance of music and memory. The annex still lived, still served, still listened.
+Deep in the tunnel beneath, or perhaps in the back pew of the old chapel, someone took a long, heavy breath, praying through the resonance of music and memory. The annex still lived, still served, still listened.
 
 David melted back into the rehearsal hall, pulled on his overcoat, and sealed the cello away with the care of a man handling something both precious and dangerous. In the corridor, a distant vibraphone aligned perfectly with his tinnitus, a pure sustained note that would ring in his ears until well past two a.m.
 

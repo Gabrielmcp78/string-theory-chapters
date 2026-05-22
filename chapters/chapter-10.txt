@@ -7,15 +7,15 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,980
-Paragraph Count: 168
+Word Count:      3,811
+Paragraph Count: 167
 Scene Count:     5
 
-Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–575  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: II. Wander, Wonder and Wait  --  Words 576–1,044  |  Paragraphs 25–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: III. Sundays  --  Words 1,045–1,573  |  Paragraphs 48–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: IV.  A Preference for Precision  --  Words 1,574–2,100  |  Paragraphs 85–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V.  The Conduction  --  Words 2,101–3,980  |  Paragraphs 101–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–588  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. Wander, Wonder and Wait  --  Words 589–1,053  |  Paragraphs 25–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. Sundays  --  Words 1,054–1,533  |  Paragraphs 48–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV.  A Preference for Precision  --  Words 1,534–2,061  |  Paragraphs 85–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V.  The Conduction  --  Words 2,062–3,811  |  Paragraphs 101–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -25,9 +25,9 @@ I.  Street Smarts   |   November 28, 2026
 
 [Allegretto irreale]
 
-The queue inside Genoa’s shimmered in odd little micro-pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. Cold leaked in along his spine.
+The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there with intimate precision.
 
-Two customers ahead stood a young man in a brown Carhartt jacket. Broad shoulders. Chin tucked. Defensive spine. Thornden. David felt the faint, reflexive lift—teacher recognizing student in the wild, proof that years had accumulated somewhere, that time had a vector. The same severe haircut. The same left ear angled out just enough to project stubbornness.
+Two customers ahead stood a young man in a brown Carhartt jacket. Broad shoulders. Chin tucked. Defensive spine. Thornden. David felt the faint, reflexive lift: teacher recognizing student in the wild, proof that years had accumulated somewhere, that time had a vector. The same severe haircut. The same left ear angled out just enough to project stubbornness.
 
 Thornden was staring at a point in midair roughly three feet in front of his chest. Nothing occupied it. He didn’t blink.
 
@@ -37,7 +37,7 @@ No movement.
 
 “Intro to Electrodynamics. Two years ago. You rewired the lab supply backward and nearly took out the building.”
 
-His jaw stayed set, and in the cold, his breath should have fogged—but it didn’t. That registered. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David blinked hard, but the outline held.
+His jaw stayed set, and in the cold, his breath should have fogged. It didn’t. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David narrowed his eyes and let the image gather itself again, as though focus were a negotiation rather than an act of will.
 
 When the cashier called “next,” the woman in front of Thornden moved forward. Thornden did not.
 
@@ -47,7 +47,7 @@ A hand touched his shoulder. Firm. Real.
 
 “Hey.”
 
-David turned. Hamid stood behind him—thick wool cap, half-smile permanently etched into the left side of his face, the beer case balanced against his hip.
+David turned. Hamid stood behind him with a thick wool cap pulled low, a beer case balanced against his hip, and one side of his mouth lifted in its old permanent conspiracy with amusement.
 
 “You good, man?” Hamid asked quietly. “You’re just talking to, like… nobody.”
 
@@ -61,13 +61,13 @@ The single fruit on the counter gleamed. Its skin was darker than the others, br
 
 He closed his hand around it and stepped forward. As the register resumed its steady beep, the fluorescent light above him softened back to normal. He paid, nodded to the cashier, and headed toward the exit.
 
-Outside, the cold was different. Less surgical. More honest. As he stepped onto the sidewalk. Something struck the toe of his shoe.
+Outside, the cold was different. Less surgical. More honest. As he stepped onto the sidewalk, something struck the toe of his shoe.
 
-He stumbled and looked down. A clementine rolled past him along the curb, wobbling once before steadying toward the gutter. He looked back at the doors of Genoa’s Market. No one.
+He looked down. A clementine rolled along the curb, wobbled once, and stopped near the lip of the storm drain. He looked back at the doors of Genoa’s Market. No one.
 
-David turned in time to watch the fruit reach the lip of the storm drain and stop. It didn’t fall in. He approached it and nudged it with his foot. But the small orange did not respond in kind. It did not roll forward. In fact, it rolled in opposition, back toward him in a slow arc and came to rest against his shoe.
+David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
 
-He bent, picked it up, and straightened. When his eyes refocused into the middle distance, everything that regained hard edges felt fractionally misplaced. A receipt fluttered near the entrance, then froze—pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
+He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
 
 
 
@@ -76,47 +76,48 @@ II. Wander, Wonder and Wait
 
 [Andante sospeso]
 
-David stepped off the curb and into the middle of the intersection. He stood there, untroubled by oncoming traffic, as though the road had relinquished its claim on him. The standard power line buzz was still there—60 Hz as always. Above it, clearer now, a precise overtone threaded the silence.
+David stepped off the curb and into the middle of the intersection. He stood there, untroubled by oncoming traffic, as though the road had relinquished its claim on him. The standard power line buzz was still there: 60 Hz as always. Above it, clearer now, a precise overtone threaded the silence.
 
 86.84 hertz.
 
 The power lines overhead trembled in a wind he could not feel, their vibration carrying the higher tone cleanly, like a filament drawn tight between invisible anchors. He walked the yellow center line, each step deliberate, testing. The storefront windows reflected no motion because there was none to reflect. He was the only thing disturbing it.
 
-A block down, rounding the corner of Maple and Third—Carhartt jacket. Thornden.
+A block down, rounding the corner of Maple and Third: Carhartt jacket. Thornden.
 
 He was tossing something in his right hand. Up. A small arc. Catch. Up again. Orange flashed in the thin light. A clementine.
 
 He did not look back. He rounded the corner and disappeared. The overtone swelled.
 
-David stood there, staring at the empty corner until a car horn cut through the air and reality snapped back. Traffic moved, engines idled. He was in the way again. He lifted a hand in apology and turned for home.
+David stood there, staring at the empty corner until a car horn cut through the air. Traffic moved. Engines idled. The road remembered him at once, rudely, in full municipal volume. He lifted a hand in apology and turned for home.
 
-Somewhere between the corner and his building, the sound field of the entire block folded in on itself. Not visibly. The overtone did not remain fixed. It pressed downward as he closed the distance to his buildings front door, settling into his jaw, his spine, the small bones of his wrists.
+Somewhere between the corner and his building, the sound field of the entire block folded in on itself. The overtone pressed downward as he closed the distance to his building’s front door, settling into his jaw, his spine, the small bones of his wrists, each step lowering the interval as if the street itself were turning a peg.
 
 86.84. Lower. Tightening as it fell.
 
-When he reached his door and closed his hand around the key, it settled—cleanly, unmistakably—at 68.48.
+When he reached his door and closed his hand around the key, it settled, cleanly, unmistakably, at 68.48.
 
 He stood there, listening. Lingering.
 
-Then he checked his watch. Fifty-three minutes since he had left the store across the street. Fifty-three minutes since the orange in his hand had refused the drain. Almost an hour lost to what? Crossing the street?
+Then he checked his watch. Fifty three minutes since he had left the store across the street. Fifty three minutes since the orange in his hand had refused the drain. Almost an hour lost to what? Crossing the street?
 
-“Fifty-three minutes,” he muttered. “Prime.”
+“Fifty three minutes,” he muttered. “Prime.”
 
 He unlocked the door and removed himself from all things public.
 
-The air in the room had thickened in the interval, uncomfortably so. He stood absolutely still, counting his own pulse. It took a moment to understand what he was doing: waiting. Not for the wind or the wires, but for something unfinished, hovering just out of frame.
+The air in the room had thickened in the interval, uncomfortably so. He stood absolutely still, counting his own pulse. It took a moment to understand what he was doing: waiting. Waiting for the wind, the wires, the unspent remainder of whatever had followed him home.
 
 Then, closer than breath, so near it might have been mistaken for his own thought:
 
 “Symmetry attracts violence. Listen.”
 
-He whipped around, pulse misfiring, mouth sharp with blood and an old memory—the underpass, a woman, the taste of terror if you froze—
+He whipped around, pulse misfiring.
 
 Nothing.
 
 The hallway stood empty beneath the dim light. The door remained sealed. The high frequency continued through the walls, steady and invasive, a second heartbeat slightly out of phase with his own.
 
-Jesus Christ. Make a choice. Solar storm or horror film? Settle Lang.
+Jesus Christ. Make a choice. Solar storm or horror film? Settle, Lang.
+
 
 
 
@@ -124,55 +125,55 @@ III. Sundays
 
 [Adagio cantabile]
 
-David looked at his phone. Five missed calls from his mother. There had been none moments ago. And then, in that way one startles when anticipation and reception arrive in such complete unison that you cannot tell them apart, the phone rang. That piano sonata ringtone he’d chosen for her four phones ago, every upgrade failing to restore it to anything less maternal.
+David looked at his phone. Five missed calls from his mother. There had been none moments ago.
 
-“Shit,” he breathed and tapped the green circle. “Hey—hey, Mom. No… I’m here.”
+Then the phone rang.
 
-“David? Honey, are you okay? I just missed five calls from you in the last 5 minutes! What’s going on?!”
+That piano sonata ringtone he’d chosen for her four phones ago, every upgrade failing to restore it to anything less maternal.
 
-“I was just across the—Mother… hey crazy lady, you called me.”
+“Shit,” he breathed and tapped the green circle. “Hey. Hey, Mom. No… I’m here.”
 
-“Yes honey, just now—”
+“David? Honey, are you okay? I just missed five calls from you in the last five minutes! What’s going on?!”
 
-“No, I mean I just missed five calls from you, Mom! I didn't call you five times in a row. Think about it, mother. Does that sound like me?”
+“I was just across the… Mother… hey, crazy lady, you called me.”
 
-“No dear,” in her best sarcastic tone, “It certainly does not sound like my son.”
+“Yes honey, just now.”
+
+“No, I mean I just missed five calls from you, Mom! I didn’t call you five times in a row. Think about it, Mother. Does that sound like me?”
+
+“No dear. It certainly does sound like an emergency involving your personality, but it does not sound like my son.”
 
 “Nice,” David quipped.
 
-“Well, news said it might be bad, the storm.” A clever chuckle bounced across the line. “I guess they were right honey. So you’re okay then?”
+“Well, news said it might be bad, the storm.” A clever chuckle bounced across the line. “I guess they were right, honey. So you’re okay then?”
 
-“I’m—Mom… I’m fine.”
+“I’m… Mom… I’m fine.”
 
 “You always say that.” And she continued under her breath. “Your father… always fine too.”
 
-A pause. Her particular silence—the one she had learned since his father died. The silence of sentences she no longer knew how to assemble.
+A pause. Her particular silence: the one she had learned since his father died. The silence of sentences she no longer knew how to assemble.
 
-When she continued, her voice carried the weight of ages and that opposite of light. “I was thinking about him earlier today,” she said. “The way he used to play on Sunday mornings. That wonderful Bach. You remember?”
+When she continued, her voice carried  new weight. “I was thinking about him earlier today,” she said. “The way he used to play on Sunday mornings. That wonderful Bach. You remember?”
 
 “I remember.” And he did. “Suite number one, Mom.”
 
-“That’s it, yes. He’d just close his eyes and… disappear into it. I used to watch him and think—he’s sure not playing for me. He’s just playing.”
+“That’s it, yes. He’d just close his eyes and… disappear into it. I used to watch him and think, he’s sure not playing for me. He’s just playing.”
 
 “Some things aren’t meant for an audience.” The words left him without intention.
 
 “Yes,” she whispered. “Yes, honey. Exactly that. Oh, you remember.”
 
-A breath. “I swear I can see you sitting there with your cello, your dad standing behind you—reaching in to correct a position…”
+A breath. “I swear I can see you sitting there with your cello, your dad standing behind you, reaching in to correct a position…”
 
 At the same moment, they both said, “He was a great teacher.”
 
-“Sure was,” she replied softly. “Hey… have you played lately? Your cello? The one your grandfather—”
-
-“I know. Designed himself and had made three times before it was right. I know Mom.”
-
-“That’s not why I’m asking, David. I’m just asking if you’ve played.”
+“Sure was,” she replied softly. “Hey… have you played lately? Your cello?”
 
 “Not for a while.” He lied, and he knew exactly why.
 
 “Maybe today. With everything happening. Maybe today’s a good day.”
 
-“Maybe… Well Mom, I really should–”
+“Maybe… Well, Mom, I really should…”
 
 “Oh… David, there was something else I had to tell you. Shoot.”
 
@@ -188,11 +189,12 @@ He exhaled. “There it is. Thank you, Mother.”
 
 “I love you.”
 
-He closed his eyes and let her words settle before answering. “Love you too, mom.”
+He closed his eyes and let her words settle before answering. “Love you too, Mom.”
 
 “Happy birthday, sweetheart.”
 
 The line clicked quiet. He remained there anyway, phone balanced in his palm, screen dark against his hand.
+
 
 
 
@@ -202,31 +204,32 @@ IV.  A Preference for Precision
 
 And then the detail that should have vanished did not vanish.
 
-A fine shimmer continued in the tiny speaker—steady, needle-bright. He lifted the phone closer, attending to it the way he would a tuning fork. The field had found something in the apartment it could occupy: a place to sit, to press, to hold. He could feel it in his ribs in the same blunt way he could feel hunger.
+A fine shimmer continued in the tiny speaker: steady, needle bright. He lifted the phone closer, attending to it the way he would a tuning fork. The field had found something in the apartment it could occupy, a place to sit, to press, to hold. He could feel it in his ribs in the same blunt way he could feel hunger.
 
-His mother's image returned and brightened in him—himself small with the cello between his knees, his father behind, hands hovering, correcting everything by seeing the whole. You don't trust your ground-level body with geometry. You give the geometry a witness.
+His mother’s image returned and brightened in him: himself small with the cello between his knees, his father behind, hands hovering, correcting everything by seeing the whole. You don’t trust your ground level body with geometry. You give the geometry a witness.
 
-David moved, or rather, the room pulled him. He found the stairs—those cold wedges of thick glass—and climbed until the air thinned. The phone clipped to the railing; metal on metal. A click of teeth. From the third step, the room below ceased to be a home and became a diagram, a spill of late amber light waiting for a ghost to fill it.
+David moved, or rather, the room pulled him. He found the stairs, those cold wedges of thick glass, and climbed until the air thinned. The phone clipped to the railing; metal on metal. A click of teeth. From the third step, the room below ceased to be a home and became a diagram, a spill of late amber light waiting for a ghost to fill it.
 
 He descended.
 
-At the base of the stairs, the cello case waited. Its latch parted with that familiar, time-heavy click—the sound of something preserved, something held in suspension against the day it might be needed. He lifted the instrument out and held it close. Weightless, full. The union of body and wood required no thought; it had been written into him decades ago, in a cramped studio with his father's hands shaping his own.
+At the base of the stairs, the cello case waited. Its latch parted with that familiar, time heavy click: the sound of something preserved, something held in suspension against the day it might be needed. He lifted the instrument out and held it close. Weightless, full. The union of body and wood required no thought; it had been written into him decades ago, in a cramped studio with his father’s hands shaping his own.
 
 But first: the wall.
 
-He crossed to the far side of the room and set his palm against the seamless white surface. Cool to the touch. Unremarkable. The panel that had, for weeks, hidden everything. A push. A slide. The mechanism breathed open on its track, and there it stood: the wall of slate, floor to ceiling, dense with the architecture of his obsession.
+He crossed to the far side of the room and set his palm against the seamless white surface. Cool to the touch. Unremarkable. A push. A slide. The panel breathed open on its track, and the slate appeared from floor to ceiling, dense with the architecture of his obsession.
 
-Equations climbed toward the high ceiling in cascading generations—first principles giving way to derived terms, boundary conditions nested inside proofs, the entire grammar of his inquiry rendered in chalk. Here stood the Bekenstein bound. There, the holographic principle rendered operative. Symmetry groups branched across the lower register like a figured bass line. And at the center, enclosed in a border of double-struck lines, the sequence that mattered most: the resonant frequencies mapped against the forecasted crest of the storm, the precise alignment of downbeat and magnetosphere, the moment when intention might—if the universe was listening—find its mark.
+Equations climbed toward the high ceiling in cascading generations: first principles giving way to derived terms, boundary conditions nested inside proofs, the entire grammar of his inquiry rendered in chalk. Here stood the Bekenstein bound. There, the holographic principle rendered operative. Symmetry groups branched across the lower register like a figured bass line. At the center, enclosed in a border of double struck lines, waited the sequence that mattered most: the resonant frequencies mapped against the forecasted crest of the storm, the precise alignment of downbeat and magnetosphere, the moment when intention might, if the universe was listening, find its mark.
 
 His teleprompter. His score.
 
-The slate waited. The chalk waited. He had prepared everything except himself. And so to that work, he moved. Back tot he cello and the work ahead.
+The slate waited. The chalk waited. He had prepared everything except himself. And so to that work, he moved. Back to the cello and the work ahead.
 
 He picked up the bow, rosined it with care. Dust bloomed into the strange light, each particle catching the glow before settling. On the desk, the tuning fork began to vibrate without being struck. Outside, car alarms rose in dissonant chorus, an overture to something vast and unseen.
 
-He closed his eyes. He raised the bow, horsehair hovering a micrometer above the A-string. In that infinitesimal gap, the energy of the solar storm gathered.
+He closed his eyes. He raised the bow, horsehair hovering a micrometer above the A string. In that infinitesimal gap, the energy of the solar storm gathered.
 
-If it be not now…
+If it be now…
+
 
 
 
@@ -234,13 +237,11 @@ V.  The Conduction
 
 [Presto - Poi adagio - Poi ripresa]
 
-Every experiment has an origin, a point where it must begin. David felt the weight of that point like a hand on his shoulder. He had finished every equation. Laid out every instrument. The storm was rising beyond the walls, whether he moved or not. If he lingered, the work would turn to hesitation, and hesitation would turn to decay. There was no further refinement left to hide inside.
+Every experiment has an origin, a point where it must begin. David felt the weight of that point like a hand on his shoulder. He had finished every equation. Laid out every instrument. The storm was rising beyond the walls, whether he moved or stayed. If he lingered, the work would turn to hesitation, and hesitation would turn to decay. There was no further refinement left to hide inside.
 
-He drew a slow breath, counting it the way he had counted the seconds in his charts. Each inhale measured and deliberate. Every angle rehearsed. Every resonant sequence mapped against the crest his data implied was building in the magnetosphere. Weeks of preparation had narrowed to this single alignment. He knew he was ready. The plan was airtight. The variables constrained, contingencies accounted for. In his mind, it could not fail.
+At exactly 7:14 p.m., he set the bow to the A string and drew it across: the calculated intersection of storm and downbeat.
 
-At exactly 7:14 p.m., he set the bow to the A-string and drew it across—the calculated intersection of storm and downbeat.
-
-Nothing opened. Nothing sounded. The note, when executed, never came. It just scraped—dry, thin, resistant. Friction without lift. Nothing happened. Nothing burned. Nothing spoke. Nothing. Full stop.
+Nothing opened. Nothing sounded. The note, when executed, arrived as a dry scrape of hair against metal, a thin and resistant friction with no lift in it, no bloom, no answering body from the instrument or the room. Nothing happened. Nothing burned. Nothing spoke. Nothing. Full stop.
 
 He checked his angle. Pressure. Placement. They were all perfect.
 
@@ -248,67 +249,67 @@ He tried again. The same thin collapse.
 
 A third pull yielded a sharp, high squeal that died almost immediately, as if ashamed of itself.
 
-Now David began to feel it. The window he had so carefully calculated—that sliver of time where the door he dreamed of might actually be vulnerable to breach—was slipping away. All of it.
+Now David began to feel it. The window he had so carefully calculated, that sliver of time where the door he dreamed of might actually be vulnerable to breach, was slipping away. All of it.
 
-His throat tightened. Months of structure dissolved in seconds. It felt as though he had thrown himself upon the sea in fluent theorem and been judged not wrong—but irrelevant.
+His throat tightened. Months of structure dissolved in seconds. He had thrown himself upon the sea in fluent theorem only to discover the sea possessed no interest in answering him.
 
 And then he heard it once again.
 
 Symmetry attracts violence. Listen.
 
-But in his desperation to prevail—to force the universe to acknowledge his work—the wounded part of him took control. Blinded by the sting of failure, the fool he thought he'd buried allowed the very violence he'd been warned about to seduce him.
+His grip tightened on the bow.
 
-His grip on the bow tightened, twisting from precision into a chokehold. Pride, flayed raw by repeated failure, pulsed through him, poisoning the philosophical currents he had once trusted for clarity. That disciplined energy, meant to steady his hands, now threatened to burn them outright. Stripped of any care for consequence, his fully bruised ego began planting charges of pure guilt and rage deep in his gut.
+“What do you want?”
 
-He lurched forward. A stream of combusted anger poured from his mouth—muttered chains of mangled words, curses tangled just behind his teeth. Something deeper and older, something not entirely human, was tearing its way out: charred, ruined pieces of a self he dared not claim, but was now perilously close to embracing.
+The words struck the walls and fell away. He waited, chest moving hard.
 
-“What do you want?!"
+The air did not answer. The tuning fork on the table continued its narrow, indifferent vibration. Outside, the distant chorus of car alarms kept sounding their mindless refrain. Nothing bent toward him.
 
-The words struck the walls and fell to the floor, dead weight. He waited, chest heaving.
+“Why won’t you just…”
 
-The air did not answer. The tuning fork on the table continued its narrow, indifferent vibration. Outside, the distant chorus of car alarms kept sounding their mindless refrain. Nothing bent toward him. The silence that answered was not empty—it was a wall, solid and utterly unmoved.
+He stopped. The unfinished sentence hung there, ugly and small.
 
-“Why won’t you just—"
+A page slipped from the music stand and landed at his feet. Then another. He set the bow down on the table with a care so deliberate it felt almost punitive, and for a moment the care itself became unbearable. His hand moved through the papers, first searching for the chart that would tell him which part of the world had betrayed him, then pushing one stack aside, then another, until the neat architecture of the desk began to surrender its edges. Forecasts slid across proofs. Correspondence folded under tables of resonance. His own marginalia, weeks of cramped insistence, came loose from the grid of its necessity and scattered into meaningless white.
 
-He seized the bow and cut it through the air. The gesture was absurd from the start—less music than reprisal, a useless but satisfying act of war against every false structure that had presumed to contain him. He slashed across the room in disgust, striking counters, tables, and couch alike. Papers burst upward at each pass, torn from their resting places and sent whirling into the air. Every surface presented itself as an accomplice—of data, of order, of the smug administrative fiction that information, properly arranged, could still amount to truth. The pages scattered across the floor in loose white brigades, floating briefly before collapse.
+“Take it,” he said. His voice was almost steady, which made it worse. “I gave you everything I had.”
 
-“Take it. I gave you everything I had!”
+No shift. No tremor. No concession.
 
-The cello pressed against his chest like a brace. No shift. No tremor. No concession.
+He turned toward the slate. Equations climbed there with infuriating calm, still elegant, still legible, still presenting themselves as if order had ever been a form of mercy. He took up the chalk from the tray and pressed it beneath his thumb until it snapped. The sound was small, obscene, intimate. White dust bloomed across his fingertips.
 
-“And for what? To sit here and prove something that nobody will ever—? To lose everyone I ever—"
+“And for what? To sit here and prove something that nobody will ever…? To lose everyone I ever…”
 
 The sentence broke apart before it finished.
 
-Silence settled again. It did not rush in—it had never left. His voice had been the disturbance.
+Silence settled again. It had never left. His voice had been the disturbance.
 
-He stood there, breathing hard, the bow hanging useless from his hand. The storm outside did not pause for him. The room remained intact, unmoved. Just him. Breathless for nothing it seemed, waiting for no one.
+He stood there, breathing hard, the bow resting safely on the table, the cello still upright beside his body, the room intact in every way that mattered. The storm outside did not pause for him. The numbers on the slate did not degrade into confession. The experiment, having failed, had acquired a terrible serenity.
 
-"I don't know what you want.”
+“I don’t know what you want.”
 
-The words smaller now.
+The words came smaller now.
 
-He pulled the cello close, holding it in his arms like nothing in the world could know him or protect him more than this pressured forge of wood and wire. Hunched over, every sob, every choke, and cough reverberated through the chambered wooden body. So much so that when he fell to his lowest whisper, his weakened voice resounded through the room as though there were fifty Davids at once.
+He pulled the cello close, holding it in his arms like nothing in the world could know him or protect him more than this pressured forge of wood and wire. Hunched over, every sob, every choke, every cough reverberated through the chambered wooden body. So much so that when he fell to his lowest whisper, his weakened voice resounded through the room as though there were fifty Davids at once.
 
-“I don't know who I'm supposed to be,” they said.
+“I don’t know who I’m supposed to be,” they said.
 
 The words left him and seemed, for one brief moment, to belong to something more than silence, more than self. An undeniable realignment settled into the cracks of the room. Something had shifted.
 
-He lowered himself to the floor among scattered pages and rosin dust, the bow still loose in one hand, the cello leaning into him like a living weight. All around, the apartment settled into that peculiar stillness that follows grief when it has exhausted its first violence and become something heavier, more patient.
+He lowered himself to the floor among scattered pages and rosin dust, the cello leaning into him like a living weight. All around, the apartment settled into that peculiar stillness that follows grief when it has exhausted its first violence and become something heavier, more patient.
 
-On the kitchen island just above him, the manila envelope that had carried Arthur Lang’s last will and testament lay open near the counter’s edge. The official papers, exhumed only the day before, had finally been signed and sent back to Boston, granting permission for the attorney to put in motion the tying up of all that remained after a long and exacting life had come to its close. The documents were ordinary, or so he had been told. Extensive, certainly, but ordinary in the way the machinery of death is—formal, competent, indifferent to the magnitude of what it arranges.
+On the kitchen island just above him, the manila envelope that had carried Arthur Lang’s last will and testament lay open near the counter’s edge. The official papers, exhumed only the day before, had finally been signed and sent back to Boston, granting permission for the attorney to put in motion the tying up of all that remained after a long and exacting life had come to its close. The documents were ordinary, or so he had been told. Extensive, certainly, but ordinary in the way the machinery of death is: formal, competent, indifferent to the magnitude of what it arranges.
 
-Now the envelope had been disturbed. In the wake of David’s collapse, things had shifted slightly from their places. A single sheet had worked itself loose and hung half-free, as though the room had quietly revised its own sense of what mattered.
+Now the envelope had been disturbed. In the wake of David’s collapse, things had shifted slightly from their places. A single sheet had worked itself loose and hung half free, as though the room had quietly revised its own sense of what mattered.
 
 The silence deepened. Beneath it, something opened.
 
-His father’s voice came to him with the force of recognition, more immediate than memory. It had never left him entirely, only sunk beneath performance, pride, ambition, injury—the bright, useless clamor with which he had defended himself against love.
+His father’s voice came to him with the force of recognition, more immediate than memory. It had never left him entirely, only sunk beneath performance, pride, ambition, injury: the bright, useless clamor with which he had defended himself against love.
 
 Some things are not meant for an audience.
 
 David went still.
 
-The voice carried no urgency. It was clear, level, unhurried—the calm of something that had been there all along. It had always lived there. He had simply spent too many years drowning it out.
+The voice carried no urgency. It was clear, level, unhurried: the calm of something that had been there all along. It had always lived there. He had simply spent too many years drowning it out.
 
 A draft moved through the apartment. Its passage was strange enough that David glanced toward the front hall, half expecting to find the door ajar. The hallway stood empty. Only the air had shifted. When he turned back, the loosened page tipped free, slipped from the envelope, and drifted to the floor before him with quiet finality.
 
@@ -316,15 +317,15 @@ He reached for it, then stopped, his hand suspended above the page as though sti
 
 For a moment, time loosened.
 
-Christmas morning rose before him in broken brightness: Grandpa Elliot arriving with a present so large it seemed to dwarf him; the first glimpse of polished wood beneath torn wrapping paper; the faint tack of fresh oil beneath his fingertips. Then in the present moment, the slip of his actual left hand caused the cello beside him to answer with the gentlest accidental resonance.
+Christmas morning rose before him in broken brightness: Grandpa Elliot arriving with a present so large it seemed to dwarf him; the first glimpse of polished wood beneath torn wrapping paper; the faint tack of fresh oil beneath his fingertips. Then, in the present moment, the slip of his actual left hand caused the cello beside him to answer with the gentlest accidental resonance.
 
 The room returned all at once.
 
-He bent and slid his fingers beneath the edge of the page. As soon as he lifted it, he caught the scent: citrus, quick and unmistakable. Faint, long-settled, yet present enough to stop him where he was.
+He bent and slid his fingers beneath the edge of the page. As soon as he lifted it, he caught the scent: citrus, quick and unmistakable. Faint, long settled, yet present enough to stop him where he was.
 
 His father.
 
-Arthur had never worked without a bowl of clementines somewhere within reach. David remembered the lessons: peel folding back in his father’s hands, brightness entering the room with the released oils, the trace of it carried onto the strings when Arthur leaned over to adjust a wrist, correct a position, reshape a phrase. Even now, the back of the page seemed to hold the lightest ghosts of orange-tinted prints.
+Arthur had never worked without a bowl of clementines somewhere within reach. David remembered the lessons: peel folding back in his father’s hands, brightness entering the room with the released oils, the trace of it carried onto the strings when Arthur leaned over to adjust a wrist, correct a position, reshape a phrase. Even now, the back of the page seemed to hold the lightest ghosts of orange tinted prints.
 
 And in the wreckage of himself, David smiled.
 
@@ -336,27 +337,29 @@ Then he turned the page over.
 
 On the other side was a single piece of music: Bach’s Cello Suite No. 1, Sarabande.
 
-It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. Thirty-two measures that looked almost austere in their simplicity and yet required, from anyone foolish enough to underestimate them, an honesty nearly impossible to give.
+It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. Thirty two measures that looked almost austere in their simplicity and yet required, from anyone foolish enough to underestimate them, an honesty nearly impossible to give.
 
 Beneath the music, in his father’s beautifully measured hand, was a note.
 
 
 David,
 
+
 Don’t judge it, my son. Just once, for me, just play.
 
 I always loved listening to you play.
 
-—Dad
+
+Dad
 
 
 He stared at the page until the ink blurred.
 
-What he wanted then was not reasonable. Not possible. Not permitted by the architecture of the world. He wanted to pick up the phone and dial the number that still lived, uncorrected, in his hands. He wanted to hear his father answer on the second ring and say, in that unadorned voice: Hello, son. He wanted to hear in the background, the soundscape of the study coming through the line—the fire giving off its low and companionable crackle, the turntable in the corner, some mono recording of the old masters breathing softly into the room. He wanted, with all the useless force of love, to be returned to the ordinary facts of him.
+What he wanted then was not reasonable. Impossible. Forbidden by the architecture of the world. He wanted to pick up the phone and dial the number that still lived, uncorrected, in his hands. He wanted to hear his father answer on the second ring and say, in that unadorned voice: Hello, son. He wanted to hear in the background the soundscape of the study coming through the line: the fire giving off its low and companionable crackle, the turntable in the corner, some mono recording of the old masters breathing softly into the room. He wanted, with all the useless force of love, to be returned to the ordinary facts of him.
 
 But the dead do not answer. However fervently they are summoned, the other end remains silent. And yet…
 
-David sat with the page in one hand and the cello beneath the other, and let that silence become what it had always been—not emptiness, but presence stripped of consolation. It had always belonged to the room. He had simply been too loud to hear it.
+David sat with the page in one hand and the cello beneath the other, and let that silence become what it had always been: presence stripped of consolation. It had always belonged to the room. He had simply been too loud to hear it.
 
 Under his palm, the strings gave a faint, involuntary tremor, and he closed his eyes in response.
 
@@ -367,6 +370,12 @@ He set the page before him. Reached for the bow. Drew in a breath that did not s
 Play.
 
 Just play.
+
+
+
+
+
+
 
 
 
