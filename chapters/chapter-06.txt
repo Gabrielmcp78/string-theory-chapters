@@ -8,20 +8,21 @@ Subtitle:        a symphony in five movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,117
+Word Count:      6,119
 Paragraph Count: 235
 Scene Count:     5
 
 Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–927  |  Paragraphs 2–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
 Scene 2: II. Andante: the salon | Émilie du Châtelet  --  Words 928–1,722  |  Paragraphs 36–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,723–3,400  |  Paragraphs 66–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,401–4,776  |  Paragraphs 147–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,777–6,117  |  Paragraphs 196–235  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,723–3,402  |  Paragraphs 66–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,403–4,778  |  Paragraphs 147–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,779–6,119  |  Paragraphs 196–235  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 [for charcoal, foolscap, Chladni plate and prism]
+
 
 
 
@@ -194,7 +195,7 @@ He purged with annihilating focus. One chair shrieked as he hurled it into the h
 
 Then the second, which had concealed a fossilized sandwich beneath its cushion.
 
-When the rug resisted—glued by decades of neglect—he ripped it up, releasing a cloud of dust into the morning light.
+When the rug resisted, glued by decades of neglect, he ripped it up, releasing a cloud of dust into the morning light.
 
 Papers followed. Books, cables, a structurally impossible lamp, loose chalk, paperweights, a sea lion-shaped eraser. His intellectual history became a corridor landfill.
 
