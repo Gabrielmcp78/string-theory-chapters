@@ -7,15 +7,15 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,811
-Paragraph Count: 167
+Word Count:      3,793
+Paragraph Count: 166
 Scene Count:     5
 
 Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–588  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
 Scene 2: II. Wander, Wonder and Wait  --  Words 589–1,053  |  Paragraphs 25–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
 Scene 3: III. Sundays  --  Words 1,054–1,533  |  Paragraphs 48–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
 Scene 4: IV.  A Preference for Precision  --  Words 1,534–2,061  |  Paragraphs 85–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V.  The Conduction  --  Words 2,062–3,811  |  Paragraphs 101–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 5: V.  The Conduction  --  Words 2,062–3,793  |  Paragraphs 101–166  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -68,6 +68,7 @@ He looked down. A clementine rolled along the curb, wobbled once, and stopped ne
 David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
 
 He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
+
 
 
 
@@ -342,22 +343,20 @@ It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. T
 Beneath the music, in his father’s beautifully measured hand, was a note.
 
 
-David,
 
+
+David,
 
 Don’t judge it, my son. Just once, for me, just play.
 
 I always loved listening to you play.
 
-
-Dad
+—Dad
 
 
 He stared at the page until the ink blurred.
 
 What he wanted then was not reasonable. Impossible. Forbidden by the architecture of the world. He wanted to pick up the phone and dial the number that still lived, uncorrected, in his hands. He wanted to hear his father answer on the second ring and say, in that unadorned voice: Hello, son. He wanted to hear in the background the soundscape of the study coming through the line: the fire giving off its low and companionable crackle, the turntable in the corner, some mono recording of the old masters breathing softly into the room. He wanted, with all the useless force of love, to be returned to the ordinary facts of him.
-
-But the dead do not answer. However fervently they are summoned, the other end remains silent. And yet…
 
 David sat with the page in one hand and the cello beneath the other, and let that silence become what it had always been: presence stripped of consolation. It had always belonged to the room. He had simply been too loud to hear it.
 
@@ -370,14 +369,6 @@ He set the page before him. Reached for the bow. Drew in a breath that did not s
 Play.
 
 Just play.
-
-
-
-
-
-
-
-
 
 
 

@@ -8,8 +8,8 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,689
-Paragraph Count: 604
+Word Count:      9,780
+Paragraph Count: 583
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
@@ -21,9 +21,9 @@ Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,977–3,513  |  Para
 Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,829  |  Paragraphs 204–369  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
 Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,830–7,801  |  Paragraphs 370–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
 Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,802–8,367  |  Paragraphs 482–506  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,368–9,083  |  Paragraphs 507–573  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3 THE CORRIDOR  --  Words 9,084–9,570  |  Paragraphs 574–598  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 9,571–9,689  |  Paragraphs 599–604  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,368–9,141  |  Paragraphs 507–556  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3 THE CORRIDOR  --  Words 9,142–9,661  |  Paragraphs 557–577  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 9,662–9,780  |  Paragraphs 578–583  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -1130,6 +1130,7 @@ Reality steadied slightly. For the moment, it was enough.
 
 
 
+
 IV.2 THE CLASSROOM | Cornell          Ithaca, NY
 
 [Allegro dissonante
@@ -1169,45 +1170,31 @@ That got a better response.
 
 Movement helped. Equations still produced comfort through motion. Tensor relationships unfolded cleanly enough once his hand started moving. Harmonic ratios appeared beside them almost unconsciously.
 
-Halfway through the derivation he realized he had unconsciously replaced part of the tensor notation with musical staff lines.
-
-He erased it too quickly.
+Halfway through the derivation he realized he had unconsciously replaced part of the tensor notation with musical staff lines. He erased it too quickly.
 
 “Unless quantum chromodynamics has recently become much more melodic than I remember,” he said, “ignore the last thirty seconds.”
 
-Actual laughter this time.
+Actual laughter this time. Good. For a moment the room almost stabilized around it.
 
-Good.
+The very idea of the standing wave had always bothered him aesthetically. It was nothing more than motion disguised as stillness, energy trapped inside apparent stability.
 
-For a moment the room almost stabilized around it.
-
-Standing waves had always bothered him aesthetically. Motion disguised as stillness. Energy trapped inside apparent stability.
-
-At the back of the room someone coughed three times in even succession.
-
-Another cough answered several rows away.
-
-The fluorescent buzz overhead thickened.
-
-David stopped writing.
-
-Nobody else reacted.
+At the back of the room someone coughed three times in even succession. Another cough answered several rows away. The fluorescent buzz overhead thickened. David stopped writing, perhaps in response, perhaps not, but no one else seemed to react at all.
 
 One student continued typing without looking up. Another stared blankly through him with the dead-eyed endurance unique to second-semester physics majors. Near the windows, somebody had fallen halfway asleep already.
 
-“This,” David said, gesturing vaguely at the board, “will absolutely not be on the exam.”
+“Rest assured, all of this,” David said, gesturing vaguely at the board, “will absolutely be on the exam.”
 
 Immediate attention returned to the room.
 
 “Good,” he murmured. “Nice to know terror still works pedagogically.”
 
-More laughter. Smaller this time. Then a smartwatch chirped nearby. Minor third interval. Without fully deciding to, David adjusted one of the equations on the board. The realization arrived immediately afterward and froze him where he stood.
+More laughter. Smaller this time. Then a smartwatch chirped nearby. Minor third interval. Without fully deciding to, David adjusted one of the equations on the board to compensate for the tone. The realization arrived immediately afterward and froze him where he stood.
 
-Why had he done that?
+What the hell are we doing, Lang. Let’s go.
 
 Silence settled across the room again, though not entirely. Ventilation moved through the ceiling ducts. Fabric shifted. Fingers tapped keyboards. Beneath it all the electrical hum widened almost imperceptibly, as though the room were slowly phase-locking around some deeper carrier frequency.
 
-Earlier that semester he had spent two weeks lecturing on synchronization in coupled oscillators—pendulum clocks, electrical grids, neural entrainment. Systems drifting toward coherence simply because proximity made independence energetically expensive.
+Earlier that semester he had spent two weeks lecturing on synchronization in coupled oscillators: pendulum clocks, electrical grids, neural entrainment. Systems drifting toward coherence simply because proximity made independence energetically expensive.
 
 The thought landed badly.
 
@@ -1215,31 +1202,15 @@ White dust streaked across his cuff where the chalk had broken in his grip.
 
 “Professor Lang?”
 
-Concern now.
+And just like that, concern entered the room in earnest. He looked back at the board. The equations remained mathematically valid. Well, most of them remained… mostly… valid.
 
-Real concern.
+Though, as he gave the board further examination, he had to admit that several symbols had drifted sideways into notation he did not remember writing.
 
-He looked back at the board.
+A radiator hissed sharply behind him. Then, another cough entered the room in exact time with the fluorescent pulse overhead.
 
-The equations remained mathematically valid.
+Three-four. Three-four. Three-four. The classroom pulsed in meter.
 
-Mostly.
-
-But several symbols had drifted sideways into notation he did not remember writing.
-
-A radiator hissed sharply behind him.
-
-Another cough entered the room in exact time with the fluorescent pulse overhead.
-
-Three-four.
-
-Three-four.
-
-Three-four.
-
-The classroom pulsed in meter.
-
-David stepped backward too fast and struck the desk behind him hard enough to rattle a stack of exams onto the floor.
+David stepped backward too fast, stricking the desk behind him hard enough to rattle a stack of exams onto the floor.
 
 “Okay,” he said automatically, too quickly, “that looked significantly more dramatic than it actually was.”
 
@@ -1247,15 +1218,11 @@ A nervous laugh moved uncertainly through the room.
 
 “Whoever’s watch just made that sound,” he added without turning around, “congratulations. You’re now part of the lecture.”
 
-Another small ripple of laughter.
-
-Then, after a second too long:
+Another small ripple of laughter. Then, after a second too long:
 
 “Actually, that may have been more true than intended.”
 
-The silence afterward felt wrong immediately.
-
-A few students exchanged glances.
+The silence afterward felt wrong immediately. A few students exchanged glances.
 
 “You okay?”
 
@@ -1275,32 +1242,23 @@ IV.3 THE CORRIDOR
 
 By evening the building had mostly emptied. Classroom doors stood open along the corridor like abandoned compartments. Weak amber emergency lighting flattened the hallway into alternating bands of shadow and pale color.
 
-One hand remained against the wall while he walked.
+One hand remained against the wall while he walked. He had reached for it initially for surety of balance, but now realized what he had gained was much closer to the assurance of contact.
 
-Not balance.
-
-Contact.
-
-Somewhere inside his office the cello had begun resonating again. Open G string. Barely audible unless he stopped moving entirely. The tone seemed distributed through the building rather than located inside a single room—in pipes, vents, fluorescent housings, hollow spaces behind drywall.
+Somewhere inside his office the cello began resonating again: and open G string. It was barely audible unless he stopped moving entirely. The tone seemed distributed through the building rather than located inside a single room: in pipes, vents, fluorescent housings, hollow spaces behind drywall.
 
 His breathing had shortened gradually over the last hour.
 
-Every few steps the corridor lengthened ahead of him before settling back into proportion. Fatigue explained some of it. Lack of sleep explained more.
-
-Not enough.
+Every few steps the corridor lengthened ahead of him before settling back into proportion. Fatigue through lack of sleep could explained some of it, but certainly not all.
 
 A half-open classroom farther down the hall spilled fluorescent light across the tile in a perfect rectangle. Passing it produced the sudden irrational certainty that someone inside had been waiting quietly for him to cross that exact point in the corridor.
 
-The room was empty.
-
-Still, his pace quickened afterward.
+Of course, the room was empty, but his pace quickened afterward, in spite of himself.
 
 The hum underneath the building had stopped feeling external. Ventilation, blood flow, fluorescent ballast, memory; the distinctions no longer held steady. Somewhere along the way the sound had crossed into him.
 
 Ahead, near the stairwell turn, the ceiling dipped unexpectedly lower. Or was it closer. He could not tell, but it stopped him cold. The sensation vanished almost at once, leaving behind only the unpleasant awareness that his own perception had become negotiable.
 
 Years earlier, while working on signal latency models, David had become briefly obsessed with recursive return behavior in closed acoustic systems. Most of the anomalies were theoretical: feedback structures generated by delayed self-reference, systems reorganizing themselves around echoes of their own output.
-
 
 The math had bothered him enough that he eventually abandoned the paper halfway through publication review. He never fully articulated why.
 
@@ -1317,14 +1275,6 @@ The memory arrived alongside another realization, quieter and far worse: whateve
 The corridor stretched ahead beneath weak amber light while the building settled softly around him, pipes knocking somewhere below, ventilation dragging through old ducts, fluorescent current humming overhead.
 
 And underneath all of it, patient as breath, the frequency remained.
-
-
-
-
-
-
-
-
 
 
 

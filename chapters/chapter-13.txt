@@ -7,17 +7,17 @@ Title:           Phenom de Guare
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,685
-Paragraph Count: 283
+Word Count:      5,695
+Paragraph Count: 282
 Scene Count:     7
 
 Scene 1: I.  THE NETWORK 				             	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
 Scene 2: II.  THE CALL  --  Words 461–1,422  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
 Scene 3: III.  THE DISCOVERY  --  Words 1,423–2,155  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: IV.  Around The Horn  --  Words 2,156–3,691  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,692–4,439  |  Paragraphs 179–221  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: VI.  TEMPORALity  --  Words 4,440–4,821  |  Paragraphs 222–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: VII.  CANTUS  --  Words 4,822–5,685  |  Paragraphs 245–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 4: IV.  Around The Horn  --  Words 2,156–3,685  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,686–4,435  |  Paragraphs 179–220  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: VI.  TEMPORALity  --  Words 4,436–4,821  |  Paragraphs 221–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: VII.  CANTUS  --  Words 4,822–5,695  |  Paragraphs 244–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -370,7 +370,7 @@ Then Celeste: “Enough. All of you.” And the miraculous superpower of Celeste
 
 Silence still, across five continents. Her voice trembled, but each word struck with the clarity of a tuning fork:
 
-“You’re all so desperate to label what you don’t understand that you’ve missed what’s right in front of you. This began with a cello—a man and a bow and a string. And now every detector, every satellite, every equation is showing the same thing: the universe has been tuned. It isn’t broken. It’s singing. David taught reality how to sing.”
+“You’re all so desperate to label what you don’t understand that you’ve missed what’s right in front of you. This began with a cello—a man and a bow and a string. And now every detector, every satellite, every equation is showing the same thing: the universe has been tuned. It isn’t broken. It’s singing.”
 
 Nothing. Processing…
 
@@ -464,7 +464,6 @@ Beneath him, locked and sealed from within, the lab was still running. Still tun
 
 Some experiments do not end. They wait…
 
-
 WESTERN UNION TELEGRAM—NL
 
 PD NYK 214 14MAR71 0945A
@@ -476,17 +475,13 @@ ITHACA NY
 TO JULIAN KLINE
 NEW YORK NY
 
-SUB IS SEALED STOP
-REPAIRS MADE STOP
-32 EVERY 47 STOP
-INFINITY STOP
+SUB IS SEALED STOP. REPAIRS MADE STOP. 32 EVERY 47 STOP. INFINITY STOP . SILENCE STOP .
 
-SILENCE STOP
-
-JUST YOU AND ME STOP
+JUST YOU AND ME STOP.
 
 
 ISHIKAWA
+
 
 
 
@@ -513,9 +508,9 @@ At CERN, Kovács leaned into her terminal. “Marcus, are you getting duplicate 
 
 “What?”
 
-“I just logged your last sentence—word for word—thirteen seconds ago.”
+“I just logged your last sentence word for word, thirteen seconds ago.”
 
-Rune Ishikawa watched the chalk glow intensify, symbols advancing across the boards like text from an unseen typist. “It’s echoing us,” he murmured. “The system’s anticipating dialogue. It’s building harmonic expectation—the way a melody knows its own resolution.”
+Rune Ishikawa watched the chalk glow intensify, symbols advancing across the boards like text from an unseen typist. “It’s echoing us,” he murmured. “The system’s anticipating dialogue. It’s building harmonic expectation, the way a melody knows its own resolution.”
 
 Celeste stared at the blackboard equation that had begun to pulse:
 
@@ -536,7 +531,7 @@ Then the harmonics converged, compressing to silence.
 
 McGrath exhaled, half-laughing. “Hey, I bet I can tell you all what’s gonna happen in about twenty-eight seconds.”
 
-Laughter trickled in, forced at first, but needed—everyone knew that much. Until the twenty-eight seconds passed and with the clockwork of just-before-this, the sound mist of temporal static flanged back at them—current. It was zero minutes : zero second in time.
+Laughter trickled in, forced at first, but needed. Everyone knew that much. Until the twenty-eight seconds passed and with the clockwork of just-before-this, the sound mist of temporal static flanged back at them. It was zero minutes : zero second in time.
 
 
 
@@ -544,7 +539,7 @@ Laughter trickled in, forced at first, but needed—everyone knew that much. Unt
 VII.  CANTUS
 
 
-McGrath paused, needing an assurance from his people that the temporal drift had indeed stabilized, then leaned toward the mic. The leaning was slower than time. He was searching, in this moment; reaching toward something to say—anything that might stand a chance at being enough. He knew the look of what was coming, and owed them yet another grim, clear glimpse into the future.
+McGrath paused, needing an assurance from his people that the temporal drift had indeed stabilized, then leaned toward the mic. The leaning was slower than time. He was searching, in this moment, reaching toward something to say, anything that might stand a chance at being enough. He knew the look of what was coming, and owed them yet another grim, clear glimpse into the future.
 
 “All right, team. Whatever this is, it’s rewriting the protocols faster than any government can react. But, mark my words… they will most definitely react. Before they clamp down, we have a chance to decide what must survive.”
 
@@ -556,7 +551,7 @@ At Cornell, Celeste wiped chalk dust from her hands and glanced at Rune, his fac
 
 “He wanted the world to hear itself,” she said. “If they bury this, it dies in silence.”
 
-“Celeste, we keep it alive—quietly,” McGrath answered. “A frequency this volatile needs a sanctuary, not a stage.”
+“Celeste, we keep it alive, quietly,” McGrath answered. “A frequency this volatile needs a sanctuary, not a stage.”
 
 “A cantus firmus,” Kovács said from Geneva, voice steady now. “The fixed melody that holds the counterpoint together.”
 
@@ -570,9 +565,9 @@ Across the room, his assistant called, voice sharp against the static. “It’s
 
 “Hold it a moment more.”
 
-He came back to the line. “They’re going to lock this down,” he said quietly. “Every channel, every packet. The line will stay open only a few seconds once the order lands. Until then, send everything—raw data, local logs, uncompressed. When the blackout hits, this is gone.”
+He came back to the line. “They’re going to lock this down,” he said quietly. “Every channel, every packet. The line will stay open only a few seconds once the order lands. Until then, send everything: raw data, local logs, uncompressed. When the blackout hits, this is gone.”
 
-Acknowledgments rolled in—Rune from Cornell, Kovács at CERN, Celeste somewhere in the background, calm amid the static. Packets began to pour: neutrino flux, magnetometer harmonics, solar telemetry, code fragments, and the living waveform itself. Transfer meters crawled. Around the world, grids flickered; containment protocols stirred.
+Acknowledgments rolled in: Rune from Cornell, Kovács at CERN, Celeste somewhere in the background, calm amid the static. Packets began to pour: neutrino flux, magnetometer harmonics, solar telemetry, code fragments, and the living waveform itself. Transfer meters crawled. Around the world, grids flickered; containment protocols stirred.
 
 “I’ll collate and seal what we have. When the power drops, one node remains off-registry,” McGrath said. “Rune, that node is yours.”
 
@@ -580,9 +575,9 @@ Acknowledgments rolled in—Rune from Cornell, Kovács at CERN, Celeste somewher
 
 Through the distortion, Celeste’s voice carried clean as a bell: “Cantus.”
 
-“Project Cantus,” McGrath agreed. “We are tied to one another from this day forward. Few know what David Lang has discovered. It’s our job to hold it tight—to wait for a way to bring this to the world. Call me naïve, but I believe that day will come. Until it does, we are the keepers of this silent flame.”
+“Project Cantus,” McGrath agreed. “We are tied to one another from this day forward. Few know what David Lang has discovered. It’s our job to hold it tight, to wait for a way to bring this to the world. Call me naïve, but I believe that day will come. Until it does, we are the keepers of this silent flame.”
 
-He turned to his team. “Begin encryption. Off-registry node—Cornell physics, Ishikawa’s credentials. Package all harmonic data under a single tag.”
+He turned to his team. “Begin encryption. Off-registry node. Cornell physics, Ishikawa’s credentials. Package all harmonic data under a single tag.”
 
 The name propagated instantly through the channels, appearing as filenames, packet headers, directory roots: CANTUS-01, CANTUS-SIGMA, CANTUS-ARCHIVE. Every scientist on the line felt a small, irrational relief—naming the impossible made it human again.
 
@@ -610,15 +605,38 @@ The update sped toward Washington. He keyed the final command and routed the com
 
 “Sing quietly, my friends,” he said into the dying connection. “Sing until it’s safe.”
 
-One by one, the channels went dark under the NSA seal. The aurora outside his window dimmed, leaving only the faint echo of harmonic vibration in the power lines—a planetary lullaby fading toward silence.
+One by one, the channels went dark under the NSA seal. The aurora outside his window dimmed, leaving only the faint echo of harmonic vibration in the power lines: a planetary lullaby fading toward silence.
 
 Somewhere deep in Cornell’s server racks, the archive settled into dormancy, wrapped in encryption no algorithm could quite keep from humming.
 
-In the lab—Sub-level Two—a screen alive for fifty-four years, a forty-seven-second continuous cycle of glyph and creation, went dark. A menace of misunderstanding released—by promise, by coherence.
+In the lab, Sub-level Two, a screen alive for fifty-four years, a forty-seven-second continuous cycle of glyph and creation, went dark. A menace of misunderstanding released by promise, by coherence.
 
 A heartbeat later, the clocks resumed their steady tick, perfectly in sync.
 
 Reality, for now, had retuned itself.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

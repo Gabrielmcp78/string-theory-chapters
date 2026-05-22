@@ -8,21 +8,40 @@ Subtitle:        a secular passion in eight movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,341
-Paragraph Count: 223
+Word Count:      5,374
+Paragraph Count: 227
 Scene Count:     8
 
 Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–1,967  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
 Scene 2: II.  ARIOSO   |   The Tuning  --  Words 1,968–2,117  |  Paragraphs 81–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
 Scene 3: III.  Recitativum   |  The Office  --  Words 2,118–2,361  |  Paragraphs 89–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
-Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,362–3,186  |  Paragraphs 99–132  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
-Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,187–3,451  |  Paragraphs 133–142  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
-Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,452–3,874  |  Paragraphs 143–160  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
-Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,875–4,640  |  Paragraphs 161–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
-Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,641–5,341  |  Paragraphs 202–223  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
+Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,362–3,203  |  Paragraphs 99–136  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
+Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,204–3,468  |  Paragraphs 137–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
+Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,469–3,899  |  Paragraphs 147–164  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
+Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,900–4,668  |  Paragraphs 165–205  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,669–5,374  |  Paragraphs 206–227  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -245,9 +264,17 @@ IV.  TURBA  |   The Guillotine
 
 “David, take a seat, please.” Rune Ishikawa didn’t look up immediately. On his screen:
 
-PROFESSOR DAVID LANG:
+PROFESSOR DAVID LANG
 
-EVIDENTIARY INCIDENT SUMMARY—three pages compiled by his secretary and the Dean’s. At the bottom, checkboxes: Recommend Letter of Direction—Check. Recommend Disciplinary Action—Check. Recommend Administrative Leave—Check.
+EVIDENTIARY INCIDENT SUMMARY
+
+Three pages compiled by his secretary and the Dean’s. At the bottom, checkboxes:
+
+Recommend Letter of Direction—Check.
+
+Recommend Disciplinary Action—Check.
+
+Recommend Administrative Leave—Check.
 
 The last option was accompanied by an asterisk, and marginalia in the Dean’s own hand:
 
@@ -259,21 +286,21 @@ All checked, the Dean’s signature affixed. Rune twisted his glasses off, peere
 
 David spread diagrams across the mahogany like a riverboat gambler laying a royal flush. “The breakthrough is unification, Rune. These aren’t arbitrary correspondences.”
 
-Rune leaned forward, reading glasses catching harsh light. For forty-three seconds—David counted—silence. Then: “Yes, and talk to me about this π-to-color spectral mapping.”
+Rune leaned forward, reading glasses catching harsh light. For forty-three seconds, David counted silence. Then: “Yes, and talk to me about this π-to-color spectral mapping.”
 
-“The ratios scale directly with electromagnetic frequencies—”
+“The ratios scale directly with electromagnetic frequencies.”
 
 “David, stop.” The pen tapped a notation. “This ‘harmonic frequency.’ 432 Hz. Where did you source this constant?”
 
 “It’s a core baseline for Western tuning before the early twentieth century. And 432 is also—” He faltered.
 
-“—a number popularized by new-age pseudoscience claiming some ancient significance,” Rune said, implacable as stone. “There is no basis in physics here, David.”
+“A number popularized by new-age pseudoscience claiming some ancient significance,” Rune said, implacable as stone. “There is no basis in physics here, David.”
 
-The pen moved. “Powers of six determining dimensional structure? I ‘m quite sure I don’t have to tell you—that’s not how dimensional analysis works. You’re conflating mathematical dimensions with arbitrary numerology.”
+The pen moved. “Powers of six determining dimensional structure? I ‘m quite sure I don’t have to tell you, that’s not how dimensional analysis works. You’re conflating mathematical dimensions with arbitrary numerology.”
 
-Another cut. “This wave function, here—do I have you correctly…you’re trying to map constants as spatial coordinates? David, π is not a location. π is a ratio.”
+Another cut. “This wave function here, do I have you correctly? You’re trying to map constants as spatial coordinates? David, π is not a location. π is a ratio.”
 
-David’s mouth opened, then closed. He felt the room contract—the space between certainty and collapse measured now in angstroms. “But the patterns—the harmonic relationships—”
+David’s mouth opened, then closed. He felt the room contract, the space between certainty and collapse measured now in angstroms. “But the patterns, the harmonic relationships…”
 
 “Are pareidolia.” Rune removed his glasses, cleaned them with deliberate care. “Mathematical pareidolia. You have cleverly arranged these unrelated objects in order to create the appearance of profound connection.”
 
@@ -281,19 +308,19 @@ Rune’s eyes continued the critique where his words left off. His stare piercin
 
 The space between them felt thick and slow. Rune would give him every moment of the time he needed to prove these assessments wrong. But the longer the air remained untouched by words between them, the clearer the truth came to be. David had nothing. His new findings had already collapsed, and Rune had barely even put weight upon them.
 
-The two men sat in silence, both heavy with the moment. Rune waited, trusting the right words would come. They always had before—a story, a poem, a prayer—born from care when the dark was near.
+The two men sat in silence, both heavy with the moment. Rune waited, trusting the right words would come. They always had before: a story, a poem, a prayer, born from care when the dark was near.
 
-Rune circled round the desk, and sat on its edge directly in front of David. With one hand on his shoulder, the other resting beside him, Rune leaned in—close enough to share the air, low enough to meet his friend’s eyes. It wasn’t much, but he wanted it to help.
+Rune circled round the desk, and sat on its edge directly in front of David. With one hand on his shoulder, the other resting beside him, Rune leaned in, close enough to share the air, low enough to meet his friend’s eyes. It wasn’t much, but he wanted it to help.
 
 “David,” he began, “When I was twenty-six, I spent eight months convinced I’d tied Fibonacci spirals to dark matter distribution. Four articles. Two conferences. For a while, a Nobel laureate cared. Beautiful work. Elegant mathematics. Complete nonsense. I don’t know if you’ve ever watched your own error metastasize in real time as a room of people smarter than you realize it before you do,” a rueful smile. “It is a very specific kind of death.”
 
-The words echoed an older grief that lived in the department’s halls—the shared wound of believing too long in beauty mistaken for truth.
+The words echoed an older grief that lived in the department’s halls: the shared wound of believing too long in beauty mistaken for truth.
 
-“You’re not the first,” Rune said. “You won’t be the last. The greatest minds lose themselves in patterns. We’re primates—with the burden of abstraction. Sometimes the mathematics is so beautiful we mistake it for real.”
+“You’re not the first,” Rune said. “You won’t be the last. The greatest minds lose themselves in patterns. We’re primates with the burden of abstraction. Sometimes the mathematics is so beautiful we mistake it for real.”
 
 David stared out the window. The quad blazed with indifferent sunlight; undergraduates shouted over ultimate frisbee. Life, in motion, ignorant of his defeat.
 
-“You’ve been running on fumes,” Rune continued, counselor now. “This isn’t your first misstep. The quantum synesthesia paper—Nature Physics said it was ‘not well founded.’ Your teaching evaluations—poor. Celeste told me about your collapse at the seminar. She’s worried. So am I. You’re burning out.”
+“You’ve been running on fumes,” Rune continued, counselor now. “This isn’t your first misstep. The quantum synesthesia paper. Nature Physics said it was ‘not well founded.’ Your teaching evaluations: poor. Celeste told me about your collapse at the seminar. She’s worried. So am I. You’re burning out.”
 
 Rune stood, moving away from comfort. “You haven’t published meaningful work in three years. You’ve missed two major conferences in four months. Your graduate students are transferring.”
 
@@ -305,7 +332,7 @@ The phone buzzed. “Dr., the Dean of Students on line one.”
 
 “Thank you, Jessica,” he said, gesturing to David the universal, non-verbal signal for, ‘I have to take this in private, could you wait out in the lobby for just a moment.’
 
-By the time Rune finished the two-minute call, Professor Lang was three buildings and half a parking lot away. He—and his demolished work—had escaped the guillotine for a day.
+By the time Rune finished the two-minute call, Professor Lang was three buildings and half a parking lot away. He and his demolished work had escaped the guillotine for a day.
 
 
 
@@ -357,13 +384,13 @@ David lay there, stunned and humiliated. Outnumbered, out-muscled—reduced to b
 
 But it wasn’t them he hated most. It was himself.
 
-He pushed up—knees buckling, hands scraping asphalt—got halfway to vertical before the boot caught him temple-first.
+He pushed up, knees buckling, hands scraping asphalt. He even got halfway to vertical before the boot caught him temple-first.
 
 The world went white. Then black.
 
 A final kick to the abdomen dragged him back to consciousness. He curled around the pain. Two loogies landed on his forehead and crown, and with that last indignity administered, they retreated up the ramp, their footfalls blending into the metronomic patter of rain.
 
-He lay there for a minute or an hour. Copper and bile in his mouth; warmth radiating through his cheekbone against the cold. He catalogued injuries like a scientist: left cheekbone swollen but likely intact; lower lip split; right wrist abraded. The cello case lay against his back, sheltering him from the worst of the water, its synthetic hide a parody of comfort.
+He lay there for a minute or an hour with the taste of copper and bile in his mouth; warmth radiating through his cheekbone against the cold. He catalogued injuries like a scientist: left cheekbone swollen but likely intact; lower lip split; right wrist abraded. The cello case lay against his back, sheltering him from the worst of the water, its synthetic hide a parody of comfort.
 
 The sodium lamps flickered, stabilized. He rolled to his side and watched rainwater sluice his blood into branching runnels.
 
@@ -416,7 +443,7 @@ She settled beside him, eyes raised to the particulate blue of pre-dawn. “You 
 
 “You know me?”
 
-She shrugged. “I know your vibrations.” She said it flatly, as if stating a postal code. “Your mathematics—you are not seeking numbers. You are trying to say something the language won’t hold.”
+She shrugged. “I know your vibrations.” She said it flatly, as if stating a postal code. “Your mathematics: you are not seeking numbers. You are trying to say something the language won’t hold.”
 
 He barked a wet laugh. “What language?”
 
@@ -430,7 +457,7 @@ She drew out a small object, rolled it between thumb and forefinger, and opened 
 
 She motioned for him to take it. His rattled head lagged behind the gesture, so she pressed the object into his fingers.
 
-The tines gave off a frequency too high for the ear, but David felt his injured jaw align to its music. A resonance—ghostly, even familiar—began to stir within his battered bones. Behind his eyelids, patterns propagated: curves folding into lattices, sine waves threading into braid, until his skull seemed lined with light.
+The tines gave off a frequency too high for the ear, but David felt his injured jaw align to its music. A resonance, ghostly, even familiar, began to stir within his battered bones. Behind his eyelids, patterns propagated: curves folding into lattices, sine waves threading into braid, until his skull seemed lined with light.
 
 He stared at the fork, unsure if he held it or it held him.
 
@@ -485,9 +512,9 @@ He reached for pen, paper. He had to write this down. But the notebook and phone
 
 He tilted his head back, breath rising slow and clean into the cold. Above him, the storm was drifting north, its grip loosening.
 
-Breaks in the cloud let light seep through—thin, silvery threads that touched the ground in places, softening puddles, catching the wet edges of stone. Along the eastern ridge, the hills began to show color again.
+Breaks in the cloud let light seep through in thin, silvery threads that touched the ground in places, softening puddles, catching the wet edges of stone. Along the eastern ridge, the hills began to show color again.
 
-He flexed his fingers around the object, hesitant to hide it away. On his palm, it had left a deep blue mark—a line that pulsed gently in time with his heart.
+He flexed his fingers around the object, hesitant to hide it away. On his palm, it had left a deep blue mark, a line that pulsed gently in time with his heart.
 
 He scanned the alley, half expecting the woman to reappear. Only silence, and the residual hum of a world recalibrating.
 
@@ -497,11 +524,9 @@ He pressed the tuning fork to the case’s side and struck it again against the 
 
 He laughed, despite the pain, and the laughter came out clear. He tucked the fork into his breast pocket, where it vibrated against his sternum like a second, artificial heartbeat.
 
-His gait as he walked home was altered: not lighter, not more confident—vectorized. Every stride aligned with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.
+His gait as he walked home was altered: not lighter, not more confident, but vectorized. Every stride aligned with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.
 
 Blind to the bloom of a fresh bruise, he walked.
-
-
 
 
 
