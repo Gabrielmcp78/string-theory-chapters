@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,708
+Word Count:      11,707
 Paragraph Count: 486
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,011  |  Paragraphs 8–285  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,012–5,012  |  Paragraphs 286–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,013–7,257  |  Paragraphs 287–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,258–7,258  |  Paragraphs 347–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,259–10,478  |  Paragraphs 348–455  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,479–10,479  |  Paragraphs 456–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,480–11,708  |  Paragraphs 457–486  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,010  |  Paragraphs 8–285  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,011–5,011  |  Paragraphs 286–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,012–7,256  |  Paragraphs 287–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,257–7,257  |  Paragraphs 347–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,258–10,477  |  Paragraphs 348–455  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,478–10,478  |  Paragraphs 456–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,479–11,707  |  Paragraphs 457–486  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -282,9 +282,9 @@ Behind the doors, twenty-seven students waited to be disappointed. The outcome w
 ⁂
 
 
-The lecture hall was tall. Very tall. One part classroom, two parts bakehouse, its narrow window bank running floor to ceiling along the rear wall, overlooking the glacier-carved canyons of East Hill. The panes sliced the daylight into fractured shards, casting them across the hall with a suspicion of intent.
+The lecture hall was tall. Very tall. One part classroom, two parts bakehouse, its narrow window bank running floor to ceiling along the rear wall overlooked the glacier-carved canyons of East Hill, their angled panes slicing daylight into shards. The light never arrived cleanly here, only fractured. False.
 
-A brushed-metal plaque by the door marked his assignment to the post. The inscription praised the room's "unique ornamentation," claiming it had been designed to "soothe the psyche and elicit heightened states of mental acuity."
+A brushed-metal plaque by the door marked the advent of the halls construction. The inscription praised the room's "unique ornamentation," claiming it had been designed to "soothe the psyche and elicit heightened states of mental acuity."
 
 They said the same things about heroin for a hundred years.
 

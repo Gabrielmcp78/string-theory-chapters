@@ -8,8 +8,8 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,655
-Paragraph Count: 639
+Word Count:      9,689
+Paragraph Count: 604
 Scene Count:     12
 
 Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
@@ -18,12 +18,12 @@ Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,305�
 Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,033–2,535  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
 Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,536–2,976  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
 Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,977–3,513  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,809  |  Paragraphs 204–367  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,810–7,781  |  Paragraphs 368–479  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,782–8,344  |  Paragraphs 480–518  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,345–9,056  |  Paragraphs 519–592  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3 THE CORRIDOR  --  Words 9,057–9,527  |  Paragraphs 593–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 9,528–9,655  |  Paragraphs 631–639  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,829  |  Paragraphs 204–369  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,830–7,801  |  Paragraphs 370–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,802–8,367  |  Paragraphs 482–506  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,368–9,083  |  Paragraphs 507–573  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3 THE CORRIDOR  --  Words 9,084–9,570  |  Paragraphs 574–598  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 9,571–9,689  |  Paragraphs 599–604  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -270,6 +270,18 @@ David flashed a slick smile of assurance at the young man to release him from fu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 I.4   ANSWER   |   MIT - Boston, MA                                      May 24, 2005
 
 [Presto drammatico       21 years ago]
@@ -344,8 +356,6 @@ And that was all it took.  He froze. Exhaled. Silence pressed in like gravity.
 
 “I’m on my way.”
 
-
-
 EPISODE I
 
 
@@ -410,6 +420,13 @@ Moving to leave, he stopped at the threshold.
 “You already have,” she replied.
 
 He lingered longer than he meant. Saw less than he wanted. He left quieter than he arrived.
+
+
+
+
+
+
+
 
 
 
@@ -593,7 +610,7 @@ Despite himself, he smiled and sat down on the edge of the bed. “Mother, you a
 
 “You live alone.”
 
-“That has literally never stopped me.”
+“Thanks for the oh-so-delicate reminder, dear. Besides, that sort of thing has literally never stopped me.”
 
 A slight giggle escaped her. He closed his eyes.
 
@@ -709,7 +726,7 @@ She did not need to say which Bach.
 
 David smiled faintly.
 
-“There was a folded sheet tucked into the Prelude. Eight bars. In his handwriting, but very careful. Like he was copying it from somewhere else.” She paused. “At the bottom he wrote: E.L.—heard this once.”
+“There was a folded sheet tucked into the Prelude. Eight bars. In his handwriting, but very careful. Like he was copying it from somewhere else.” She paused. “And then there’s… there is something here at the bottom: E.L.—heard this once.”
 
 David felt something inside him go very still.
 
@@ -762,6 +779,10 @@ internal adjustment completed / see verbal instructions only.
 Not Cassandra.
 
 Elliot.
+
+Not C.G. either. E.G.
+
+E.Guare.
 
 Near the saddle, where the grain tightened toward the endpin, the minute irregularity beneath the varnish returned to him with new force. Around the endpin collar, the ebony looked fractionally newer than the surrounding wear suggested it should. Someone had opened the instrument and closed it so carefully the fact survived only as hesitation in the surface.
 
@@ -1065,13 +1086,7 @@ IV.1   DISSOLUTION   |   Cornell - Ithaca, NY         Present Day
 
 Morning arrived through the blinds in thin white bands that stopped just short of the bed. Heat clung stubbornly to the apartment despite the cracked window above the radiator. Sometime during the night he had kicked half his notes onto the floor. Others remained spread across the blankets beside him, wrinkled, coffee-stained, covered in calculations he only partially remembered writing.
 
-One page contained nothing except:
-
-3:2
-
-repeated down the margin until the numbers collapsed into scratches.
-
-He stared at it too long before realizing the shower had already been running several minutes.
+One page contained nothing except: 3:2 repeated down the margin until the numbers collapsed into scratches. He stared at it too long before realizing the shower had already been running several minutes.
 
 The water helped less than expected. Exhaustion had moved past ordinary tiredness sometime yesterday and become something flatter, harder to classify. Heat registered unevenly across his skin. His hands felt delayed by half a second.
 
@@ -1083,19 +1098,11 @@ Still there.
 
 David had meant to move it weeks ago.
 
-Outside, late-autumn wind drove leaves in frantic circles across the commons. Students crossed campus carrying coffee cups and backpacks, shoulders folded inward against the cold. Somewhere downhill a maintenance truck beeped steadily while reversing near the loading docks behind Goldwin Smith.
+Outside, late-autumn wind drove leaves in frantic circles across the commons. Students crossed campus carrying coffee cups and backpacks, shoulders folded inward against the cold. Somewhere uphill a maintenance truck beeped steadily while reversing near the loading docks behind Goldwin Smith.
 
-Ordinary things still obeyed ordinary rules.
+Ordinary things still obeyed ordinary rules. The illusion lasted almost to upper campus.
 
-The illusion lasted almost to lower campus.
-
-Halfway down the slope toward Feynman Hall, the concrete face of Clark Hall flashed violently green at the edge of his vision.
-
-Not tinted green.
-
-Green.
-
-Saturated enough to hurt.
+Halfway up the slope toward Feynman Hall, the concrete face of Clark Hall flashed violently green at the edge of his vision. Not tinted green. Green. Saturated enough to hurt.
 
 Morning glare struck the narrow window bands a second later, and by the time he turned fully toward it the building had settled back into its usual brutalist gray.
 
@@ -1109,19 +1116,9 @@ Graduate work on signal latency had trained him to notice timing errors almost p
 
 He kept moving.
 
-Crossing the Arts Quad just beyond Goldwin Smith, the lawn flashed magenta in his peripheral vision.
+Crossing the Arts Quad just beyond Goldwin Smith, the lawn flashed magenta in his peripheral vision. Not pink. Magenta. The color vanished the moment he looked directly at it, but his body had already reacted. He stepped instinctively off the grass and back onto the walkway before realizing what he was doing.
 
-Not pink.
-
-Magenta.
-
-The color vanished the moment he looked directly at it, but his body had already reacted. He stepped instinctively off the grass and back onto the walkway before realizing what he was doing.
-
-A few undergraduates glanced at him briefly, then away again.
-
-Good.
-
-Nobody else appeared to see anything unusual.
+A few undergraduates glanced at him briefly, then away again. Good. Nobody else appeared to see anything unusual.
 
 By the time Feynman Hall came into view, concentration had narrowed into something procedural. Numbers still behaved correctly. Angles mostly held. Counting breaths helped. So did velocity calculations.
 
@@ -1129,11 +1126,7 @@ The trick, apparently, was to remain inside systems that could still be measured
 
 Inside the physics building, overheated air carried burnt coffee, dust, wet wool, and the faint mineral smell old Cornell radiators released every winter once the steam system kicked on. Somewhere down the corridor a copier jammed repeatedly while two faculty members argued about NSF funding outside a seminar room.
 
-Reality steadied slightly.
-
-Not fully.
-
-Enough.
+Reality steadied slightly. For the moment, it was enough.
 
 
 
@@ -1146,13 +1139,9 @@ The fluorescent lights had started flickering before class even began.
 
 Nobody else seemed especially bothered by it. Students unpacked laptops, dug through backpacks, checked phones. Someone near the back unwrapped a protein bar with excruciating slowness. Two students were still quietly arguing about partial credit on the midterm when David shut the door behind him.
 
-The lock clicked beneath his hand.
+The lock clicked beneath his hand. Too loud.
 
-Too loud.
-
-Thirty-seven students today.
-
-He counted them twice without meaning to.
+Thirty-seven students today. He counted them twice without meaning to.
 
 At the front of the room the chalk tray overflowed with broken fragments and pale dust. One piece snapped immediately when he picked it up.
 
@@ -1162,7 +1151,7 @@ The sentence disappeared.
 
 For a second he stood facing the board with nothing behind his eyes except fluorescent buzzing and the awareness that his right hand had started shaking hard enough to dust chalk across the floor.
 
-Professional voice. Use the professional voice.
+Professional voice. Use the professional voice Lang.
 
 “Consider,” he tried again, “the structural similarities between recursive Feynman mapping and ornamental recursion in late Baroque composition.”
 
@@ -1212,17 +1201,7 @@ Immediate attention returned to the room.
 
 “Good,” he murmured. “Nice to know terror still works pedagogically.”
 
-More laughter.
-
-Smaller this time.
-
-Then a smartwatch chirped nearby.
-
-Minor third interval.
-
-Without fully deciding to, David adjusted one of the equations on the board.
-
-The realization arrived immediately afterward and froze him where he stood.
+More laughter. Smaller this time. Then a smartwatch chirped nearby. Minor third interval. Without fully deciding to, David adjusted one of the equations on the board. The realization arrived immediately afterward and froze him where he stood.
 
 Why had he done that?
 
@@ -1282,9 +1261,9 @@ A few students exchanged glances.
 
 Processing the question took effort.
 
-“Yes,” he said.
+“Yes…” he said.
 
-The answer sounded rehearsed.
+The answer sounded suspiciously like a question.
 
 
 
@@ -1316,57 +1295,40 @@ The room was empty.
 
 Still, his pace quickened afterward.
 
-The hum underneath the building had stopped feeling external. Ventilation, blood flow, fluorescent ballast, memory—the distinctions no longer held steady. Somewhere along the way the sound had crossed into him.
+The hum underneath the building had stopped feeling external. Ventilation, blood flow, fluorescent ballast, memory; the distinctions no longer held steady. Somewhere along the way the sound had crossed into him.
 
-Ahead, near the stairwell turn, the ceiling dipped unexpectedly lower.
+Ahead, near the stairwell turn, the ceiling dipped unexpectedly lower. Or was it closer. He could not tell, but it stopped him cold. The sensation vanished almost at once, leaving behind only the unpleasant awareness that his own perception had become negotiable.
 
-No.
+Years earlier, while working on signal latency models, David had become briefly obsessed with recursive return behavior in closed acoustic systems. Most of the anomalies were theoretical: feedback structures generated by delayed self-reference, systems reorganizing themselves around echoes of their own output.
 
-Closer.
 
-David stopped walking immediately.
+The math had bothered him enough that he eventually abandoned the paper halfway through publication review. He never fully articulated why.
 
-The sensation vanished almost at once, leaving behind only the unpleasant awareness that his own perception had become negotiable.
-
-Years earlier, while working on signal latency models, David had become briefly obsessed with recursive return behavior in closed acoustic systems. Most of the anomalies were theoretical—feedback structures generated by delayed self-reference, systems reorganizing themselves around echoes of their own output.
-
-The math had bothered him enough that he eventually abandoned the paper halfway through publication review.
-
-He never fully articulated why.
-
-Further down the corridor the frequency thickened again.
-
-Waiting.
+Further down the corridor the frequency thickened again. Waiting.
 
 For the first time all day he stopped trying to explain it through exhaustion, grief, or neurological overload. None of those explanations disappeared exactly. They simply no longer covered the full shape of what was happening.
 
 One lecture every spring covered the missing fundamental—the mind’s tendency to reconstruct absent frequencies from harmonic residue alone. Students loved the phenomenon because it sounded mystical.
 
-It wasn’t mystical.
+It wasn’t mystical. Of that he had to be sure. It was predictive compression.
 
-It was predictive compression.
-
-The memory arrived alongside another realization, quieter and far worse:
-
-whatever this thing was, some part of him had been hearing it for years.
-
-Beneath music.
-
-Beneath lecture halls.
-
-Beneath his grandfather humming near the window while rain struck the house at night.
-
-Not newly discovered.
-
-Recognized.
+The memory arrived alongside another realization, quieter and far worse: whatever this thing was, some part of him had been hearing it for years. Beneath music. Beneath lecture halls. Beneath his grandfather humming near the window while rain struck the house at night. Not newly discovered. Recognized.
 
 The corridor stretched ahead beneath weak amber light while the building settled softly around him, pipes knocking somewhere below, ventilation dragging through old ducts, fluorescent current humming overhead.
 
 And underneath all of it, patient as breath, the frequency remained.
 
 
-CODA
 
+
+
+
+
+
+
+
+
+CODA
 
 
 
@@ -1374,19 +1336,13 @@ V.   RECOGNITION
 
 [Largo fatale]
 
-Behind him, twenty years collapsed into twenty seconds. Ahead, the frequency waited—patient, inevitable, no longer foreign, yet fiendish still.
+Behind him, twenty years collapsed into twenty seconds. Ahead, the frequency waited patiently, no longer foreign, yet fiendish still.
 
-He had always been tuning towards this. The corridor stretched. The lights dimmed. The frequency sang.
+And it occurred to him that, perhaps, he had always been tuning towards this. He stood still and determined: just listen. And in the listening, a question filled his head.
 
-And David Lang, physicist, cellist, lunatic, finally stopped running from the sound of his own resonance.
+What if the call never sought response? What if he was not the answer? Might he then become the aperture, the way through, and now, even the vessel?
 
-He stood still. He listened. And in the listening, a question filled his head.
-
-What if the call never sought response? What if he was not the answer?
-
-Might he then become the aperture—the way through, and now, the vessel for something that would not speak its name?
-
-He looked at… nothing at all and found that it was ninety-two seconds… it was forty-one hours… it was one minute, forty-six seconds before time.
+A moment of involuntary shiver overtook him, though he wasn’t the least bit cold. He looked at his watch and found that it was ninety-two seconds… it was forty-one hours… it was one minute, forty-six seconds before time.
 
 
 
