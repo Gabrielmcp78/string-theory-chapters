@@ -8,18 +8,18 @@ Subtitle:        a secular passion in eight movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,397
-Paragraph Count: 226
+Word Count:      5,341
+Paragraph Count: 223
 Scene Count:     8
 
-Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–2,023  |  Paragraphs 1–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
-Scene 2: II.  ARIOSO   |   The Tuning  --  Words 2,024–2,173  |  Paragraphs 84–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
-Scene 3: III.  Recitativum   |  The Office  --  Words 2,174–2,417  |  Paragraphs 92–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
-Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,418–3,242  |  Paragraphs 102–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
-Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,243–3,507  |  Paragraphs 136–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
-Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,508–3,930  |  Paragraphs 146–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
-Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,931–4,696  |  Paragraphs 164–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
-Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,697–5,397  |  Paragraphs 205–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
+Scene 1: I.  Chorale   |   Wednesday Dinner  --  Words 1–1,967  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
+Scene 2: II.  ARIOSO   |   The Tuning  --  Words 1,968–2,117  |  Paragraphs 81–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
+Scene 3: III.  Recitativum   |  The Office  --  Words 2,118–2,361  |  Paragraphs 89–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-03.html
+Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,362–3,186  |  Paragraphs 99–132  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-04.html
+Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,187–3,451  |  Paragraphs 133–142  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
+Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,452–3,874  |  Paragraphs 143–160  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
+Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,875–4,640  |  Paragraphs 161–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,641–5,341  |  Paragraphs 202–223  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -85,21 +85,15 @@ She glanced up—with a blink and sideways smile as she tucked a wayward chunk o
 
 And that… that was all it ever took to make truth flood back in. That was all David’s heart needed to gain strength enough to retake the narrative. Because no matter the chemicals, the equational equilibrium, the cold math of the lack of her… he knew, when pressed to his core, that if a Wednesday ever came when she stopped coming, when she truly gave up and left him alone, it would end him. Beyond any doubt… he’d be finished.
 
-He tried not to linger on the thought, but he hadn’t really slept. And when the mind weakens, the senses turn traitor—betraying all with triggers of scent and sound; of memory, of pain, of truth.
+He tried not to linger on the thought, but he hadn’t really slept. And when the mind weakens, the senses turn traitor, betraying all with triggers of scent and sound; of memory, of pain, of truth.
 
-The penance was his. He knew what he had done, and what he had lost. From that final evening to this mirrored night, guilt had rooted and grown—its tendrils fresh again as new, mourning dew.
+The penance was his. He knew what he had done, and what he had lost. She sat that night as she did now, just three feet away, yet far beyond reach. Distance had become elastic and cruel.
 
-She sat that night as she did now—just three feet away, yet far beyond reach. Distance had become elastic and cruel. A vast ocean had opened between them: two plates of half-eaten pasta adrift like passing ships. Those three feet felt as wide and wicked as the river Styx itself.
-
-He reached for words, old instruments once charged with meaning, but the current was gone. The air between them thinned. Sounds turned spectral. His words were husks now—hollow, weightless, falling like ash.
+He reached for words, old instruments once charged with meaning, but the current was gone. The air between them thinned. Sounds turned spectral. His words were husks now, hollow, weightless, falling like ash.
 
 And in that silence came the final cruelty: the world no longer answered to speech. Meaning had gone ahead of him into the dark and would not turn back.
 
-He took a sip of water. A tear fell into the glass.
-
-No. Just too much ice—a clumsy hand. That was all.
-
-He straightened the napkin, the menu, himself—small rituals of order. Stones on a grave.
+He took a sip of water., then straightened the napkin, the menu, himself. Small rituals of order. Stones on a grave.
 
 They stared down at the menus in silence.
 
@@ -156,7 +150,7 @@ Together, in parallel: “No thanks. Water’s fine.”
 
 They waited while the major-undeclared freshman faded from earshot.
 
-"Da-vid." Celeste's voice stretched the two syllables into a reprimand that only ex-wives, girlfriends, and certain mothers can achieve—a precise instrument of calibrated disappointment.
+"Da-vid." Celeste's voice stretched the two syllables into a reprimand that only ex-wives, girlfriends, and certain mothers can achieve, a precise instrument of calibrated disappointment.
 
 "Yes. You're right, I'll… I'll keep up on… on all of that."
 
@@ -168,11 +162,11 @@ They waited while the major-undeclared freshman faded from earshot.
 
 "Yeah… I know."
 
-The conversation expanded from there, lightly tracing the familiar grooves of their shared geography. Department meetings. Ithaca gossip took the reins of focus for a time, that particular currency that circulated through faculty corridors and, more abundantly still, through the students they held in common. Who was dating whom, who had broken up with so-and-so and was now with blank—the sort of nonsense teachers can never quite avoid absorbing through osmotic exposure, students having long since abandoned any pretense of privacy within earshot of their professors.
+The conversation expanded from there, lightly tracing the familiar grooves of their shared geography. Department meetings. Ithaca gossip took the reins of focus for a time, that particular currency that circulated through faculty corridors and, more abundantly still, through the students they held in common. Who was dating whom, who had broken up with so-and-so and was now with blank, the sort of nonsense teachers can never quite avoid absorbing through osmotic exposure, students having long since abandoned any pretense of privacy within earshot of their professors.
 
-Big school, small town. A fine line between professional and personal. A fine line between teacher and counselor, between mentor and friend, between humanity and something colder, more appropriate. Fine lines all around—invisible, permeable, and utterly unforgiving when crossed.
+Big school, small town. A fine line between professional and personal. A fine line between teacher and counselor, between mentor and friend, between humanity and something colder, more appropriate. Fine lines all around; invisible, permeable, and utterly unforgiving when crossed.
 
-She feigned interest in frameworks in order to gather intel and report back to Dr. Ishikawa. Together they formed an unofficial sanity index. On this night, she found data abundant: his pulse in conversation, his coherence, the scatter of chalk on his cuffs. And while he talked and the plates cooled, a small idea began to emerge through the fog of digestion.
+She feigned interest in frameworks in order to gather intel and report back to Dr. Ishikawa. Together they formed an unofficial sanity index on David. On this night, she found data abundant: his pulse in conversation, his coherence, the scatter of chalk on his cuffs. And while he talked and the plates cooled, a small idea began to emerge through the fog of digestion.
 
 “David.” Her voice had the tone she used when tuning an ensemble. “When did you last play something just for pleasure? No equations, no frameworks. Just… music.”
 
