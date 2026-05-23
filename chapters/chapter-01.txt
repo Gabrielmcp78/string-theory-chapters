@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,707
-Paragraph Count: 486
+Word Count:      11,773
+Paragraph Count: 487
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,010  |  Paragraphs 8–285  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,011–5,011  |  Paragraphs 286–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,012–7,256  |  Paragraphs 287–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,257–7,257  |  Paragraphs 347–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,258–10,477  |  Paragraphs 348–455  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,478–10,478  |  Paragraphs 456–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,479–11,707  |  Paragraphs 457–486  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,076  |  Paragraphs 8–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,077–5,077  |  Paragraphs 287–287  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,078–7,322  |  Paragraphs 288–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,323–7,323  |  Paragraphs 348–348  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,324–10,543  |  Paragraphs 349–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,544–10,544  |  Paragraphs 457–457  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,545–11,773  |  Paragraphs 458–487  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -73,11 +73,11 @@ It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medicinally inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
 
-He compensated with a sensible breakfast: mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence.
+He compensated by administering a sensible breakfast consisting of mini donuts and black coffee, then arranged himself, as ever, into the appearance of competence.
 
-He had managed ten minutes early.
+He had managed to ready himself, against the morning's odds, a full ten minutes and thirteen seconds before his time.
 
-Then he remembered the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP, languishing in the front parlor of his parents’ house: something about tuning methods in eighteenth-century Europe. If she loved it, and she would, such a gift might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
+Then he remembered: the book. A groveling gift for Celeste, though the offense it answered rarely became clear until the gift became necessary. He’d found it languishing in the front parlor of his parents’ house, crammed between a collection of Wagner scores and a Bartók-Meets-the-BSO LP: something about tuning methods in eighteenth-century Europe. If she loved it, and she would, such a gift might keep him in her better graces. But damn, it was buried upstairs in the suitcase with all the other gestures too delicate to survive travel.
 
 For one professionally indefensible moment, David considered whether the mere remembering of it might be enough.
 
@@ -143,7 +143,7 @@ Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
 
 “Don’t what?”
 
-“Lower the room temperature with your no humanity. It’s undignified.”
+“Lower the room temperature with your humanity. It’s undignified.”
 
 Naomi Feld, walking just behind Sweeney, hid a smile behind her coffee. Bardon from History gave David a cautious nod, the kind people gave at funerals and department votes. Two graduate students drifted in their wake.
 
@@ -201,9 +201,9 @@ Sweeney circled back, now genuinely concerned and therefore harder to mock.
 
 “I’m fine,” David said. “Long few days is all.”
 
-“Really. Glad you’re back, David. He was a great man, your dad.”
+“Of course. Glad you’re back, David. He was a great man, your dad. Be proud of a big life, yeah?.”
 
-“Yeah,” David said. “He was.”
+“Yeah,” David said. “Thanks Hank. Appreciate that.”
 
 “And don’t let those quantum undergrads take you down.”
 
@@ -298,6 +298,8 @@ He set his satchel on the desk and glanced down at the roster with a small show 
 
 "And I am—" He checked once more, letting the front row in on the insincerity. "David Lang. The Feynman Chair of Quantum Dynamics. A grand title, I know. And aren't you lucky? My speciality and the class focus are uncommonly aligned."
 
+A rustling of bags and a few hints of general amusement
+
 "If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating, then by all means go to lunch." He tipped the chalk toward the door. "Otherwise, remain with us and starve on science and superposition."
 
 The room offered a mild pulse of amusement. David felt the old register find him. Dry, amused, even occasionally lethal. The ease of it irritated him. Even his gifts had begun lying on his behalf.
@@ -362,7 +364,7 @@ Then underneath:
 
 d = √(Δx² + Δy²)
 
-He stepped back. The hum pressed against his eardrums. The windows were doing strange things to the light.
+He stepped back. The hum pressed against his eardrums. In the back of the hall, the bank of windows began to work their scattered magic. David usually had no trouble blocking out their signature glare, but at this moment, they seemed to have the better of him.
 
 "When the world resonates," he said, his voice gone softer now, stranger, "you feel less alone. Like there's structure underneath the noise. Drift just a little…” He snapped his fingers. "And that structure collapses."
 
