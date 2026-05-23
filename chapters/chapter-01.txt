@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,773
-Paragraph Count: 487
+Word Count:      11,981
+Paragraph Count: 477
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,076  |  Paragraphs 8–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,077–5,077  |  Paragraphs 287–287  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,078–7,322  |  Paragraphs 288–347  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,323–7,323  |  Paragraphs 348–348  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,324–10,543  |  Paragraphs 349–456  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,544–10,544  |  Paragraphs 457–457  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,545–11,773  |  Paragraphs 458–487  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,284  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,285–5,285  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,286–7,530  |  Paragraphs 278–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,531–7,531  |  Paragraphs 338–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,532–10,751  |  Paragraphs 339–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,752–10,752  |  Paragraphs 447–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,753–11,981  |  Paragraphs 448–477  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -103,41 +103,27 @@ But the missing minutes remained missing.
 
 David leapt up, scrambling across the grated bridge and out onto the balcony. The short distance between the apartment and the southern entrance of Cornell’s Ithaca campus stretched out before him. He could just make out the familiar pattern of the gang already gathered, already drawing itself into its usual migratory clot, already moving toward the first rise without him.
 
-David Lang was never late. Never.
-
-He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
-
-The moment he hit the street, something was wrong with his feet. They advanced in small, unauthorized surges, quickening him into brief, ugly bursts that broke the measured dignity of his usual walk to campus. It was almost running, though running at least would have possessed the decency of confession.
+David Lang was never late. Never. That fact had always been sufficient to guarantee the rest of him. But today had begun its slide toward the unreliable, and the fear of surrendering forever to a life of substandard timing and forgotten gestures sent him to more drastic measures. He took the stairs two at a time, even leapt from the third step to the floor below, neglecting to grab the essential armor of his sunglasses on the way out.
 
 He crossed the narrow streets south of campus with his coat tugging at his shoulders and his breath clipping in the cold. At the corner, a woman appeared with a yippy little nut of a dog. David slowed at once, arranging his face into reflective morning purpose. He pretended to be interested in the animal so as to avoid direct engagement with the owner attached to it. They passed. David counted three steps for dignity, then let his feet resume their treason.
 
-The town thinned toward campus, its porches slick with cold, its modesty already surrendering to Cornell’s gates.
+The town thinned toward campus, its porches slick with cold, its modesty already surrendering to Cornell’s gates. By the time East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
 
-By the time East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking.
-
-The gaggle was already assembled and on the move. Faculty, staff, graduate students: the usual cohort, already congealing. And there, near the center, was Sweeney: talking, talking, talking. Of course he was.
+The gaggle was already assembled and on the move: faculty, staff, graduate students, the usual cohort already congealing into ritual. And there, near the center, was Sweeney, talking, talking, talking. Of course he was.
 
 Four days of David’s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
 
 David felt something in him sharpen. Territory. A morning ritual improperly occupied. An imbalance awaiting correction.
 
-He looked down at his shoes to found sabotage in full bloom: both laces dangling across his shoes. Begrudgingly, he knelt to repair the debacle, one eye on the task at foot and one on the task ahead.
-
-Finally done, he sprang upright and broke into the short, undignified spurts of speed required to catch them.
-
-David cut through the trees and rejoined the group halfway up the slope.
+He looked down and found sabotage in full bloom: both laces dangling across his shoes. Begrudgingly, he knelt to repair the debacle, one eye on the task at foot and one on the task ahead. Finally done, he sprang upright and broke into the short, undignified spurts of speed required to catch them, cutting through the trees and rejoining the group halfway up the slope.
 
 Sweeney was mid-anecdote. Useless as ever, charming as dirt.
 
 “—I’m telling you, he said cross-disciplinary intimacy to my face,” Sweeney was saying. “In a budget meeting. To my face. Can you imagine?”
 
-David stepped into the migration.
+David stepped into the migration. “My God, Sweeney, intimacy and face in the same sentence? And in mixed company, no less? You must have an excellent harem of lawyers on retainer.”
 
-“My God, Sweeney, intimacy and face in the same sentence? And in mixed company, no less? You must have an excellent harem of lawyers on retainer.”
-
-Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
-
-“Lang. Welcome back.”
+Sweeney turned, barked a laugh, then almost ruined it by becoming kind. “Lang. Welcome back.”
 
 “Don’t.”
 
@@ -147,17 +133,11 @@ Sweeney turned, barked a laugh, then almost ruined it by becoming kind.
 
 Naomi Feld, walking just behind Sweeney, hid a smile behind her coffee. Bardon from History gave David a cautious nod, the kind people gave at funerals and department votes. Two graduate students drifted in their wake.
 
-Sweeney recovered first.
-
-“You know, you look almost refreshed.”
+Sweeney recovered first. “You know, you look almost refreshed.”
 
 “Yes,” David said. “Well, it’s true what they say. Burying a parent can be remarkably restorative.”
 
-The line landed too hard.
-
-He felt it immediately: the microscopic withdrawal in posture around him, the brief uncertainty over whether the joke had granted permission to laugh.
-
-So he smiled wider than necessary.
+The line landed too hard. He felt it immediately: the microscopic withdrawal in posture around him, the uncertainty over whether the joke had granted permission to laugh. So he smiled wider than necessary.
 
 “Takes ten years off the face,” he added, “and approximately five off your lifespan.”
 
@@ -167,19 +147,27 @@ Naomi lost the fight first. Sweeney followed, slower, appalled at himself.
 
 That broke them properly.
 
-As they reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad, David was suddenly halted. Stopped by an inner force that had full sway over his faculties. His body refused the next step.
+Bardon leaned forward. “Speaking from experience, are we, Professor Lang?”
 
-The effect was immediate. Behind him, the line collapsed into itself: shoes scuffing, brief apologies, Sweeney’s hand coming up to steady Naomi’s coffee before it betrayed everyone.
+David glanced at him. “I don’t know, Bardon. Shouldn’t you wait to see which side wins, then dodge conclusions for the next thirty years and let the younger scholars retrofit morality onto your cowardice? History, after all, is just procrastination with archives.”
+
+“Good to have you back, Lang,” Sweeney said, roughening the line so it would not have to count as sincerity.
+
+The group adjusted around his return. Half the gossip prepared for the morning had clearly been about him. David caught the little nods, the softened faces, the quick rearrangements of sympathy into banter. He ignored all of it. He had returned, and the world would resume its proper cruelties.
+
+As they reached the lower crossing, where the older paving stones gave way to the darker run laid nearer the quad, David stopped.
+
+Not hesitated. Stopped.
+
+The effect was immediate. Behind him, the line collapsed into itself: shoes scuffing, brief apologies, Sweeney’s hand rising automatically to steady Naomi’s coffee before it betrayed everyone.
 
 “Lang?”
 
-At first the sensation was almost ordinary. A pressure under the sternum. A sour inward lurch.
-
-Then came the sound: grating under pressure, pitched low enough to feel structural, as though one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep. Menacing. He felt suddenly certain he was about to vomit.
+At first the sensation was almost ordinary. A pressure under the sternum. A sour inward lurch. Then came the sound: grating under pressure, pitched low enough to feel structural, as though one of the buried utilities beneath campus had mistaken his rib cage for pipe. It moved through his chest before it reached his ears. Deep. Menacing. He felt suddenly certain he was about to vomit.
 
 David took one hard breath, or tried to. The air would not quite enter.
 
-Then his stomach turned again, this time with the sickening sensation of a body briefly released from time. For a flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sank the other way, into some greyed and brittle age not yet his.
+Then his stomach turned again, this time with the sickening sensation of a body briefly released from time itself. For one flashing instant he swore the skin of his face had drawn tight; then, just as quickly, it sagged the other way into some greyed and brittle age not yet his.
 
 Then the present snapped shut around him.
 
@@ -191,37 +179,35 @@ Sweeney glanced around. “Heard what?”
 
 Naomi looked from one to the other. “Oh, we heard your tone, Professor.”
 
-A small nervous laugh ran through the group and died young.
+A nervous laugh passed briefly through the group and died young.
 
-David took a half step back. The pressure eased, and his gaze dropped to the seam in the paving.
+David took a half step back. The pressure eased, and his gaze dropped to the seam in the paving stones.
 
-Sweeney circled back, now genuinely concerned and therefore harder to mock.
-
-“You okay, Lang? You’re sweating like it’s eighty degrees out here.”
+Sweeney circled back, now genuinely concerned and therefore much harder to tolerate. “You okay, Lang? You’re sweating like it’s eighty degrees out here.”
 
 “I’m fine,” David said. “Long few days is all.”
 
-“Of course. Glad you’re back, David. He was a great man, your dad. Be proud of a big life, yeah?.”
+“Of course.” Sweeney lowered his voice slightly. “Really, though. Glad you’re back, David. He was a great man, your dad. Be proud of a big life, yeah?”
 
-“Yeah,” David said. “Thanks Hank. Appreciate that.”
+“Yeah,” David said. “Thanks, Hank. Appreciate that.”
 
 “And don’t let those quantum undergrads take you down.”
 
 “Please. They’d need a quorum first.”
 
-Sweeney allowed himself to be absorbed back into the advancing clot.
+Sweeney, accepting David’s continuity of humor as sufficient proof of stability, allowed himself to be absorbed back into the advancing clot.
 
-Only David and Naomi remained.
+Only Naomi remained.
 
 “You’re not fine,” she said.
 
-“No,” David admitted. “But I am late.”
+“No,” David admitted. He looked past her toward the quad, now thinning into silence as students vanished into classrooms. “But I am late.”
 
-She followed his gaze to the stones.
-
-“What happened?”
+She followed his gaze to the seam in the stones. “What happened?”
 
 “I don’t know.”
+
+The honesty escaped him before he could revise it into something more survivable.
 
 “Do you want me to call someone? Celeste, maybe?”
 
@@ -229,7 +215,7 @@ She followed his gaze to the stones.
 
 “Walk in with you, then.”
 
-He adjusted the satchel. His hands were shaking.
+He adjusted the satchel. His hands were shaking, which offended him more than the nausea.
 
 “I think I’d rather preserve the illusion of dignity, if nothing else.”
 
@@ -237,11 +223,9 @@ He adjusted the satchel. His hands were shaking.
 
 He stood there breathing once, then again, until the tremor in his chest settled into something manageable.
 
-“I know,” he said.
+“I know,” he said quietly.
 
-Naomi nodded toward campus.
-
-“I’ll be nearby.”
+Naomi nodded toward campus. “I’ll be nearby.”
 
 “How ominous.”
 
@@ -251,33 +235,32 @@ She turned and headed toward the hall.
 
 David waited until she disappeared fully around the corner before continuing toward the entrance to Feynman Hall, keeping well clear of the seam.
 
-At exactly thirty feet from the doors, he stopped.
+At exactly thirty feet from the doors, he stopped again.
 
-The skin beneath his watch had begun to pulse.
-
-He glanced down.
+The skin beneath his watch had begun to pulse. He glanced down.
 
 Eight minutes and forty-seven seconds behind his time.
 
 Shit.
 
-Deep in Sub-level Two, in a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed.
 
-A thin breath of trapped air slipped into the ventilation system.
+⁂
 
-The shaft carried it upward through the buried architecture of East Hill: past biology labs, steam conduits, abandoned storage rooms, electrical chases sealed decades earlier behind institutional renovations no one fully remembered.
 
-By the time it reached Feynman Hall, the air no longer smelled stale.
+Deep in Sub-level Two, in a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed. A thin breath of trapped air slipped into the ventilation system.
 
-It smelled faintly of radiator steam, machine oil, and the hot mineral dust of old laboratory equipment—the same dry metallic scent that used to cling to his grandfather’s sweaters after long nights in the physics building.
+The shaft carried it upward through the buried architecture of East Hill: past biology labs, steam conduits, abandoned storage rooms, electrical chases sealed decades earlier behind renovations no one fully remembered.
 
-The hallway cooled around his ankles. Behind him, sunlight lay in white bands across the striated glass, but the chill rose from below. Something brushed his cheek. He wiped at it, but nothing was there.
+By the time it reached Feynman Hall, the air no longer smelled stale. It smelled faintly of radiator steam, machine oil, and the hot mineral dust of old laboratory equipment, the same dry metallic scent that used to cling to his grandfather’s sweaters after long nights in the physics building.
 
-He stood there clutching his lecture notes too tightly, listening to nothing at all.
+The hallway cooled around his ankles. Behind him, sunlight lay in white bands across the striated glass, but the chill rose from below, precise as a hand. Something brushed his cheek. He wiped at it, but nothing was there.
 
-Behind the doors, twenty-seven students waited to be disappointed. The outcome was all but preordained, but David, as always, entered with the intention to win them over entirely.
+He stood there clutching his lecture notes too tightly, listening to nothing at all while becoming aware, with terrible and immediate certainty, that he was being observed from a very short distance by something unwilling to announce itself further.
+
+Behind the doors, twenty-seven students waited to be disappointed. The outcome was all but preordained, but David, as always, entered with the intention to win them over entirely. All he required was a provisional level of trust, temporary as it might be, sufficient to allow for a moment or two of genuine, suspended belief.
 
 “Good morning.”
+
 
 ⁂
 
