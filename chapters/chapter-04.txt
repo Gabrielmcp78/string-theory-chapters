@@ -8,24 +8,24 @@ Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,765
+Word Count:      9,754
 Paragraph Count: 441
 Scene Count:     14
 
-Scene 1: The House on the Hill  --  Words 1–900  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
-Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 901–1,348  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
-Scene 3: III. The Apartment Assessment  --  Words 1,349–2,223  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,224–2,343  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,344–3,629  |  Paragraphs 108–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,630–4,680  |  Paragraphs 147–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,681–5,475  |  Paragraphs 205–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,476–5,835  |  Paragraphs 242–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 5,836–7,072  |  Paragraphs 262–318  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,073–7,341  |  Paragraphs 319–326  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,342–8,080  |  Paragraphs 327–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,081–8,881  |  Paragraphs 365–406  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,882–9,204  |  Paragraphs 407–421  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,205–9,765  |  Paragraphs 422–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 1: The House on the Hill  --  Words 1–889  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 890–1,337  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 3: III. The Apartment Assessment  --  Words 1,338–2,212  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,213–2,332  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,333–3,618  |  Paragraphs 108–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,619–4,669  |  Paragraphs 147–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,670–5,464  |  Paragraphs 205–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,465–5,824  |  Paragraphs 242–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 5,825–7,061  |  Paragraphs 262–318  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,062–7,330  |  Paragraphs 319–326  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,331–8,069  |  Paragraphs 327–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,070–8,870  |  Paragraphs 365–406  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,871–9,193  |  Paragraphs 407–421  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,194–9,754  |  Paragraphs 422–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -49,7 +49,7 @@ Somewhere in the kitchen below her, the kettle began to object to being neglecte
 
 “Shit.”
 
-The sequence mattered. It always did. Now the water was doing no work at all—sitting there boiling, sputtering away.
+The sequence mattered. It always did. Now the water was doing no work at all, sitting there boiling, sputtering away.
 
 It’s surprisingly difficult to remember to make coffee before you’ve had coffee.
 
@@ -101,23 +101,23 @@ Since David left, the tone of that memory had changed. Anger had turned to resen
 
 She read its moods better than she read most people. This morning, it was clear all right. Something was off.
 
-She paused at the corner of the kitchen. The light wasn’t wrong exactly—just displaced. As if the room had rotated a fraction and not bothered to tell her.
+She paused at the corner of the kitchen. The light wasn’t wrong exactly, just displaced.
 
 She didn’t say his name. But the thought arrived intact.
 
 What on earth has David done this time?
 
-She stood there a beat longer than necessary. Lingering. Listening.
+She stood there a beat longer than necessary.. Listening.
 
 No. On to things you actually control.
 
 On to coffee.
 
-The kettle was ready to quit—walk right off the job. She caught it just before the metal turned. Steam hit her wrist.
+The kettle was ready to quit, walk right off the job. She caught it just before the metal turned. Steam hit her wrist.
 
 Then, beans to grind, grinds to press, water on top. She waited.
 
-Three excruciating minutes which afforded her time enough to forget all the things she might otherwise remember if the damned coffee were already made.
+Three excruciating minutes of wait afforded her time enough to forget all the things she might otherwise remember if the damned coffee were already made.
 
 Then finally, done. A pour to mug and off she went.
 
