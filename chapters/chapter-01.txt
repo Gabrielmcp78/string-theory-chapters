@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,981
-Paragraph Count: 477
+Word Count:      11,945
+Paragraph Count: 476
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,284  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,285–5,285  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,286–7,530  |  Paragraphs 278–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,531–7,531  |  Paragraphs 338–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,532–10,751  |  Paragraphs 339–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,752–10,752  |  Paragraphs 447–447  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,753–11,981  |  Paragraphs 448–477  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,282  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,283–5,283  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,284–7,494  |  Paragraphs 278–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,495–7,495  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,496–10,715  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,716–10,716  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,717–11,945  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -251,7 +251,7 @@ Deep in Sub-level Two, in a concrete corridor omitted from university floor plan
 
 The shaft carried it upward through the buried architecture of East Hill: past biology labs, steam conduits, abandoned storage rooms, electrical chases sealed decades earlier behind renovations no one fully remembered.
 
-By the time it reached Feynman Hall, the air no longer smelled stale. It smelled faintly of radiator steam, machine oil, and the hot mineral dust of old laboratory equipment, the same dry metallic scent that used to cling to his grandfather’s sweaters after long nights in the physics building.
+By the time it reached Feynman Hall, the air no longer smelled stale. It smelled of radiator steam, machine oil, and the hot mineral dust of old laboratory equipment, the same dry metallic scent that used to cling to his grandfather’s sweaters after long nights in the physics building.
 
 The hallway cooled around his ankles. Behind him, sunlight lay in white bands across the striated glass, but the chill rose from below, precise as a hand. Something brushed his cheek. He wiped at it, but nothing was there.
 
@@ -285,15 +285,15 @@ A rustling of bags and a few hints of general amusement
 
 "If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating, then by all means go to lunch." He tipped the chalk toward the door. "Otherwise, remain with us and starve on science and superposition."
 
-The room offered a mild pulse of amusement. David felt the old register find him. Dry, amused, even occasionally lethal. The ease of it irritated him. Even his gifts had begun lying on his behalf.
+The room offered a mild pulse of amusement. David felt the old register find him. Dry, amused, even occasionally lethal. The ease of it irritated him.Even his had begun lying on his behalf.
 
 "Let's jump right back in today, yes? Try this again. Causality: the old narcotic."
 
 He turned to the board and wrote:
 
-|Ψ⟩ = Σ cᵢ |ϕᵢ⟩
+|Ψ⟩ = Σ cᵢ |ϕᵢ⟩ gifts
 
-"This," he said, tapping the Ψ, "is the whole wave function. Everything that can be, gathered into one expression. A probability cloud, if you like metaphors." A pause. "I like metaphors. They're all we have."
+This," he said, tapping the Ψ, "is the whole wave function. Everything that can be, gathered into one expression. A probability cloud, if you like metaphors." A pause. "I like metaphors. They're all we have."
 
 "Here's the part that matters," he said, and something in his voice shifted. Less performance. More confession. "Before you get involved, endless possibilities. After you engage, no choices left. That's the grace. And the trap of superposition."
 
@@ -669,11 +669,9 @@ A pause hung between them. Not quite awkward. Not quite comfortable.
 
 “Yes. Thanks. Thank you, sir.”
 
-The surface nicety was about to spin his mind into primordial goo. David searched for immediate deflective focus material… found.
+As David lowered his gaze, he drifted, his mind finding distraction in the parallelogram of pale sunlight bisecting his left wrist, where dust motes performed Brownian dances above a stack of Slovakian musicology journals from 1987.
 
-The espresso had grown a skin reminiscent of volcanic lakes. A leathery membrane quivering whenever a delivery truck passed the building. He found further distraction in the parallelogram of pale sunlight bisecting his left wrist, where dust motes performed Brownian dances above a stack of Slovakian musicology journals from 1987.
-
-As the spin subsided, David was mildly surprised to find Dr. Ishikawa still in the room. Worse, the man had made himself at home with a decades-old issue of Scientific Educators Quarterly, a publication so barren that forty-seven of its hundred and seventy-one pages had been surrendered to advertisements without any obvious loss to human knowledge. Yet there he stood, absorbed in page sixty-three, then sixty-four, and now sixty-five, as though revelation might yet crawl from the wreckage. David did not remember seeing him rise, cross to the bookshelf, or even take the thing down at all.
+As the drift subsided, David was mildly surprised to find Dr. Ishikawa still in the room. Worse, the man had made himself at home with a decades-old issue of Scientific Educators Quarterly, a publication so barren that forty-seven of its hundred and seventy-one pages had been surrendered to advertisements without any obvious loss to human knowledge. Yet there he stood, absorbed in page sixty-three, then sixty-four, and now sixty-five, as though revelation might yet crawl from the wreckage. David did not remember seeing him rise, cross to the bookshelf, or even take the thing down at all.
 
 Then, with sudden reanimation, Rune made a side-click of his mouth and a corresponding flip-flap closing of the magazine, as if reminded of something he’d left off his check-in-with-Lang list.
 

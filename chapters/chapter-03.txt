@@ -8,7 +8,7 @@ Subtitle:        a secular passion in eight movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,374
+Word Count:      5,379
 Paragraph Count: 227
 Scene Count:     8
 
@@ -19,7 +19,7 @@ Scene 4: IV.  TURBA  |   The Guillotine  --  Words 2,362–3,203  |  Paragraphs 
 Scene 5: V.  Via Dolorosa   |   Into the Storm  --  Words 3,204–3,468  |  Paragraphs 137–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-05.html
 Scene 6: VI.  Crucifixio   |   It takes a Beating  --  Words 3,469–3,899  |  Paragraphs 147–164  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-06.html
 Scene 7: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 3,900–4,668  |  Paragraphs 165–205  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-07.html
-Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,669–5,374  |  Paragraphs 206–227  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
+Scene 8: VIII.  Reliquia   |   Up From the Depths  --  Words 4,669–5,379  |  Paragraphs 206–227  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -524,7 +524,7 @@ He pressed the tuning fork to the case’s side and struck it again against the 
 
 He laughed, despite the pain, and the laughter came out clear. He tucked the fork into his breast pocket, where it vibrated against his sternum like a second, artificial heartbeat.
 
-His gait as he walked home was altered: not lighter, not more confident, but vectorized. Every stride aligned with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.
+His gait as he walked home was altered: lighter, yes. More  confident, perhaps. Bit importantly, it felt vectorized. Every stride seemed to align with the city’s invisible grid. His right eye fed the mind with phase-shifted images of streets he had passed a thousand times but never seen this way.
 
 Blind to the bloom of a fresh bruise, he walked.
 
