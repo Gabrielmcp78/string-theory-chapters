@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,946
+Word Count:      11,953
 Paragraph Count: 476
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,282  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,283–5,283  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,284–7,494  |  Paragraphs 278–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,495–7,495  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,496–10,715  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 10,716–10,716  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,717–11,946  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,284  |  Paragraphs 8–276  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,285–5,285  |  Paragraphs 277–277  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,286–7,503  |  Paragraphs 278–336  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,504–7,504  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,505–10,722  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 10,723–10,723  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 10,724–11,953  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -557,9 +557,9 @@ And Rune. Forty-eight hours' advance notice. University policy. The man had wait
 
 The anger clarified with each step. By the time David hit the building's double doors and burst through into the quad, he was boiling.
 
-Snow attacked him immediately. Fat flakes drove sideways in the wind, but could not land. The moment they touched his coat, his face, his hair, they vaporized. Steam rose from his shoulders. The heat radiating off him turned the falling snow into a halo of negative space—flakes approaching and then repelling as though he were magnetized wrong.
+Snow attacked him immediately. Fat flakes drove sideways in the wind, but could not land. The moment they touched his coat, his face, his hair, they vaporized. Steam rose from his shoulders. The heat radiating off him turned the falling snow into a halo of negative space, flakes approaching and then repelling as though he were magnetized wrong.
 
-He barely noticed. His mind was angling toward the office and the files. And that noise—the frequency—how the hell could he know it, name it so precisely? 68.48 Hz. It wasn't even a dead-on pitch. Almost C#2, sure. But not exactly. Almost half the fine-structure —
+He barely noticed. His mind was angling toward the office and the files. And that noise, the frequency. How the hell could he know it, name it so precisely? 68.48 Hz. It wasn't even a dead-on pitch. Almost C#2, sure. But not exactly. Almost half the fine-structure.
 
 Jesus, Lang. Don't do that.
 
@@ -639,7 +639,7 @@ His suite of offices felt lost to time. It was nothing of his doing or design; h
 
 David burst through the door. His coat sailed toward a hook, bag thudding to the floor, papers cascading in a controlled avalanche across the desk. He didn’t even notice Rune Ishikawa, already seated in the corner, attentively stirring a fresh cup of Earl Grey. He was almost indistinguishable from the furniture.
 
-Before David could orient himself, Rune’s voice floated out into the room—unhurried, already mid-thought—as if none of the preceding spectacle had occurred.
+Before David could orient himself, Rune’s voice floated out into the room, unhurried, already mid-thought. If the preceding spectacle had indeed occurred, Rune showed no signs of the offense.
 
 “You know, David,” he took another delicate sip from his cup and with a faint upturn of the right side of his lips, continued. “There simply doesn’t seem to be milk anywhere. I searched and searched, even dared to cross over into the chemistry department. Dreadful world, terrible mistake. Still… nothing.”
 
@@ -835,9 +835,9 @@ Some people enter a room; Celeste arrived in it. The distinction was difficult t
 
 She paused in the doorway only briefly, one hand resting near the neck of the viola strapped against her back. The stillness that accompanied her felt chosen rather than accidental, a tempo imposed upon the room simply by existing within it.
 
-As she passed David, still standing near the coat pegs, she touched his elbow with a firm warmth that startled him slightly in its certainty: immediate recognition, offered without caution. And for one disorienting moment, the hum beneath the building seemed to recede, as though listening for her too.
+As she passed David, still standing near the coat pegs, she touched his elbow with a firm warmth that startled him slightly in its certainty. For one disorienting moment, the frequency beneath the building seemed less important, as though the room itself had recalibrated around her arrival.
 
-David glanced back, caught her eye, and gave the smallest nod, half greeting, half something quieter that did not yet have words. He hung his coat. When he turned again, she was already at her chair, settled as if she had always been there.
+David glanced back, caught her eye, and gave the smallest nod, half greeting, half something quieter that did not yet have words. He hung his coat. When he turned again, she was already at her chair, settled as though she had always been there.
 
 No one asked where the music was. Linn tapped the corner of his stand with a knuckle, glanced around once, letting the room collect itself.
 
@@ -1091,7 +1091,7 @@ By 2:47 a.m. the room had become a triangle of potentials. He stood equidistant 
 
 The refrigerator compressor droned a perfect fourth above the bathroom faucet’s drip. Chalk dust shimmered in the spill from the vertical window, suspended like cosmic background radiation.
 
-Outside the brick, beyond the city’s pall of light, earth hummed its eternal B-flat, waiting for a listener desperate enough to mistake melody for meaning.
+Outside the brick, beyond the city’s pall of light, earth sounded its eternal B-flat, waiting for a listener desperate enough to mistake melody for meaning.
 
 
 

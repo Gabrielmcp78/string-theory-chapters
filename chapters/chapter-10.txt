@@ -7,15 +7,15 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,793
-Paragraph Count: 166
+Word Count:      3,822
+Paragraph Count: 168
 Scene Count:     5
 
-Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–588  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: II. Wander, Wonder and Wait  --  Words 589–1,053  |  Paragraphs 25–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: III. Sundays  --  Words 1,054–1,533  |  Paragraphs 48–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: IV.  A Preference for Precision  --  Words 1,534–2,061  |  Paragraphs 85–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V.  The Conduction  --  Words 2,062–3,793  |  Paragraphs 101–166  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–617  |  Paragraphs 1–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. Wander, Wonder and Wait  --  Words 618–1,082  |  Paragraphs 27–49  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. Sundays  --  Words 1,083–1,562  |  Paragraphs 50–86  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV.  A Preference for Precision  --  Words 1,563–2,090  |  Paragraphs 87–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V.  The Conduction  --  Words 2,091–3,822  |  Paragraphs 103–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -25,45 +25,49 @@ I.  Street Smarts   |   November 28, 2026
 
 [Allegretto irreale]
 
-The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there with intimate precision.
+The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there.
 
-Two customers ahead stood a young man in a brown Carhartt jacket. Broad shoulders. Chin tucked. Defensive spine. Thornden. David felt the faint, reflexive lift: teacher recognizing student in the wild, proof that years had accumulated somewhere, that time had a vector. The same severe haircut. The same left ear angled out just enough to project stubbornness.
+Two customers ahead stood a young man in a brown Carhartt jacket. He had broad shoulders and a defensive spine that seemed to pull his chin downward, nestling his face deep within his jacket collar. Thornden. David felt the faint, reflexive lift: teacher recognizing student in the wild, proof that years had accumulated somewhere, that time had a vector. Surely it was him. The same severe haircut. The same left ear angled out just enough to project stubbornness.
 
-Thornden was staring at a point in midair roughly three feet in front of his chest. Nothing occupied it. He didn’t blink.
+Thornden was staring at a point in midair roughly three feet in front of his chest. Nothing occupied it.
 
-David shifted forward half a step. “Mr. Thornden?”
+David shifted forward half a step and put on his usual professorial voice.
+
+“Mr. Thornden?”
 
 No movement.
 
-“Intro to Electrodynamics. Two years ago. You rewired the lab supply backward and nearly took out the building.”
+“Intro to Electrodynamics? Two years ago. You rewired the lab supply backward and nearly took out the building.”
 
 His jaw stayed set, and in the cold, his breath should have fogged. It didn’t. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David narrowed his eyes and let the image gather itself again, as though focus were a negotiation rather than an act of will.
 
-When the cashier called “next,” the woman in front of Thornden moved forward. Thornden did not.
+When the cashier called “next,” the woman in front of Thornden moved forward, but he did not.
 
 “Thornden?”
 
-A hand touched his shoulder. Firm. Real.
+Nothing still. Then, from behind, a hand touched his shoulder. Firm and real.
 
-“Hey.”
+“Hey, David?”
 
-David turned. Hamid stood behind him with a thick wool cap pulled low, a beer case balanced against his hip, and one side of his mouth lifted in its old permanent conspiracy with amusement.
+He turned to find Hamid standing behind him with a thick wool cap pulled low, a rack of pineapples balanced against his hip.
 
 “You good, man?” Hamid asked quietly. “You’re just talking to, like… nobody.”
 
 When David turned back, the conveyor belt was already advancing a loaf of rye through the space where the young man had been.
 
-The cashier slid a single clementine across the counter. It rolled once and stopped against the plastic divider. “Someone left that,” she said. “Yours?”
+The cashier slid a single clementine across the counter. It rolled once and stopped against the plastic divider.
+
+“Someone left that,” she said. “Yours?”
 
 David looked down at his basket. The netted bag of clementines sat intact. He counted them again. Seven.
 
-The single fruit on the counter gleamed. Its skin was darker than the others, bruised blue at the stem. He reached out. The cold bit his fingertips. He picked it up and for a moment had the disorienting sense that it pulsed faintly against his palm.
+The single fruit on the counter gleamed. Its skin was darker than the others, bruised blue at the stem. He reached out. The cold bit his fingertips as he picked it up, and for a moment, he had the disorienting sense that it pulsed faintly against his palm. He closed his hand around it and stepped forward.
 
-He closed his hand around it and stepped forward. As the register resumed its steady beep, the fluorescent light above him softened back to normal. He paid, nodded to the cashier, and headed toward the exit.
+As the register resumed its steady beep, the fluorescent light above him seemed to soften back to normal. He paid, nodded to the cashier, and headed toward the exit.
 
 Outside, the cold was different. Less surgical. More honest. As he stepped onto the sidewalk, something struck the toe of his shoe.
 
-He looked down. A clementine rolled along the curb, wobbled once, and stopped near the lip of the storm drain. He looked back at the doors of Genoa’s Market. No one.
+He looked down to find a clementine rolling along the curb. It wobbled once, then stopped near the lip of the storm drain at the corner. He looked back at the doors of Genoa’s Market. No one.
 
 David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
 

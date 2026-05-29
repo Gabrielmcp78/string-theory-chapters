@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,780
+Word Count:      9,940
 Paragraph Count: 583
 Scene Count:     12
 
-Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–242  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,304  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,305–2,032  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,033–2,535  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,536–2,976  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,977–3,513  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,514–5,829  |  Paragraphs 204–369  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,830–7,801  |  Paragraphs 370–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,802–8,367  |  Paragraphs 482–506  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,368–9,141  |  Paragraphs 507–556  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3 THE CORRIDOR  --  Words 9,142–9,661  |  Paragraphs 557–577  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 9,662–9,780  |  Paragraphs 578–583  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–253  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 254–1,315  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,316–2,043  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,044–2,546  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,547–2,987  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,988–3,524  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,525–5,989  |  Paragraphs 204–369  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,990–7,961  |  Paragraphs 370–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,962–8,527  |  Paragraphs 482–506  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,528–9,301  |  Paragraphs 507–556  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3 THE CORRIDOR  --  Words 9,302–9,821  |  Paragraphs 557–577  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 9,822–9,940  |  Paragraphs 578–583  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -67,7 +67,8 @@ WELCOME TO THE NORTH EASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
 
 NO FOOD. NO DRINK. NO QUESTIONS.
 
-A persistent though fluctuant hum threaded through the vents, carrying a narrow interval he couldn’t place. The forty-six-minute ride lasted twelve minutes according to the onboard display, and forty-seven according to David’s watch. He found no reason to trust either.
+
+A persistent though fluctuant buzz threaded through the vents, carrying a narrow interval he wanted desperately to ignore. The forty-six-minute ride lasted twelve minutes according to the onboard display, forty-seven according to David’s watch, and a near eternity according to his mind. He found no reason to trust any of them.
 
 Across the aisle, a young postdoc held her laptop open to a half-completed grant proposal. The progress bar had been stuck at fourteen percent for the duration of the ride, though no uploads were in progress.
 
@@ -219,11 +220,11 @@ UNCERTAINTY PRINCIPLE.
 
 David hovered before deciding he belonged in the H–R line, though the volunteer behind the table glanced at his badge and said, “Oh. You’re one of those,” in a tone suggesting the category was well-known but rarely defined.
 
-The exhibitor hall buzzed with intellectual self-importance. Posters leaned on collapsible frames, each promising incremental advances in fields that seemed to repel one another. A theorist lectured animatedly to a graduate student who nodded while staring into the middle distance. Someone dropped a stack of pamphlets advertising a paid workshop on interdisciplinary synergy; no one offered to help.
+The exhibitor hall vibrated with intellectual self-importance. Posters leaned on collapsible frames, each promising incremental advances in fields that seemed to repel one another. A theorist lectured animatedly to a graduate student who nodded while staring into the middle distance. Someone dropped a stack of pamphlets advertising a paid workshop on interdisciplinary synergy; no one offered to help.
 
 A senior physicist explained topological insulators to his winter coat. But the coat seemed unwilling to change its mind.
 
-David kept hearing the same hum from the shuttle whispered through the projector fans, carrying the same unresolved interval. He listened to the opening plenary with the attention one reserves for a fire alarm test: dutiful, doubtful, already bracing for the second round.
+David kept hearing the same sound from the shuttle whispered through the projector fans, carrying the same unresolved interval. He listened to the opening plenary with the attention one reserves for a fire alarm test: dutiful, doubtful, already bracing for the second round.
 
 His own talk was scheduled for the late afternoon. Location: The Morning Room. He wanted to believe this meant nothing, but he was beginning to find himself less and less convincing.
 
@@ -534,7 +535,7 @@ He knelt and opened the latches. The instrument lay inside with its usual gravit
 
 He drew the bow from the case and tightened it slowly.
 
-The first open C entered the room and stayed there—not louder than expected, only deeper. It passed beneath the vent hum and found it. The two frequencies did not merge. They approached instead, hovered just outside one another, the contact point trembling near coherence strongly enough to raise the hair along his forearms.
+The first open C blossomed into the room,  deeper than he had expected. It passed beneath the vents’ tone, like the two were actively listening for one another. They seemed to approach but then failed to merge, hovering just outside one another. The contact point trembled near coherence strongly enough to raise the hair along his forearms.
 
 When he played the note again, a page on the desk shifted a quarter inch. A water glass on the nightstand drew a minute ring along its inner surface. Somewhere in the wall a cheap screw answered with a sympathetic rattle. The room had not come into tune. It had revealed the degree to which it wanted to.
 
@@ -546,23 +547,23 @@ On the desk, one of his conference pages had shifted enough to expose a penciled
 
 He stared at the line with immediate irritation. Christ. Was he becoming one of those people now? Three days around theoretical acousticians and suddenly every legal pad in America looked like the notebook of a desert prophet.
 
-The hum in the room thickened, or his hearing moved closer to its center. He raised the bow again and played a stopped fifth against the open string. For one held instant the instrument seemed to gather itself inward. The lamp filament narrowed to a trembling wire. His notes on the desk slid subtly into rough alignment as though brushed by a draft too delicate to feel and too precise to dismiss.
+The frequency in the room thickened, or his hearing drifted closer to its center. He raised the bow again and played a stopped fifth against the open string. For one held instant the instrument gathered itself inward. Across the room, atop the desk, a collection of loose pages, notes he had taken on this and that throughout the day, slid subtly into rough alignment, seemingly brushed by a draft too delicate to feel and too precise to dismiss.
 
-Then the alignment broke. The vent resumed its dull mechanical breathing and the pages settled back against the desk. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
+Then, with no warning to speak of, the alignment broke. The vent resumed its dull mechanical breathing and the pages settled back against the desk. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
 
-Down the hall an ice machine detonated with apocalyptic violence.
+Down the hall an ice machine emptied a fresh tray into its holding bin. The crash startled David, hitting him like a dropped sheet of metal. He flinched so hard that the bow skipped across the string.
 
-David blinked. “Jesus Christ.”
+“Jesus Christ.”
 
-He lowered the bow and stood very still, listening to the residue.
+He lowered the bow and sat it down on the bed, then stood very still, not sure what exactly he was listening to,  the residue perhaps, or maybe nothing at all. Either way, he was content to let the moment fall away into the rest of a moments quiet.
 
-Only then did he notice the business card on the desk, half exposed beneath the shifted page.
+It was within the calm of that quiet that his gaze drifted back to the desk. There, half exposed beneath the shifted pages, lay the business card from the Instrument Repair Shop. He moved to pick it up, turning it over in his fingers as he read and reread the name.
 
 REPAIR SHOP FOR STRINGS. E. Guare, Proprietor.
 
-Cream stock. Black ink. No ornament. In fact, no other markings of any kind. The card assumed you either knew where to go or never would.
+The card was striking, singular in its strange simplicity. Cream stock. Black ink. No ornament. In fact, no other markings of any kind. The card assumed you either knew where to go or never would.
 
-He lifted the instrument toward the lamp and angled the treble f-hole into the light. The maker’s label sat where it always had. Behind it, deeper in the cavity, something caught the yellow spill: a narrow repair strip glued to the inner rib. The graphite had faded at the edges.
+Then a glint of white caught his attention, only a flash, strange and out of place against the belly of the cello in the corner. He crossed to it, lifted the instrument into the lamplight, and angled the treble f-hole toward its glow. The maker’s label sat where it always had. Behind it, deeper in the cavity, something caught the yellow spill: a narrow repair strip glued to the inner rib. The graphite had faded at the edges.
 
 What he could make out was this:
 
@@ -1254,7 +1255,7 @@ A half-open classroom farther down the hall spilled fluorescent light across the
 
 Of course, the room was empty, but his pace quickened afterward, in spite of himself.
 
-The hum underneath the building had stopped feeling external. Ventilation, blood flow, fluorescent ballast, memory; the distinctions no longer held steady. Somewhere along the way the sound had crossed into him.
+The buzz underneath the building had stopped feeling external. Ventilation, blood flow, fluorescent ballast, memory; the distinctions no longer held steady. Somewhere along the way the sound had crossed into him.
 
 Ahead, near the stairwell turn, the ceiling dipped unexpectedly lower. Or was it closer. He could not tell, but it stopped him cold. The sensation vanished almost at once, leaving behind only the unpleasant awareness that his own perception had become negotiable.
 
