@@ -8,15 +8,15 @@ Subtitle:        a symphony in five movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,119
-Paragraph Count: 235
+Word Count:      6,226
+Paragraph Count: 233
 Scene Count:     5
 
 Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–927  |  Paragraphs 2–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
 Scene 2: II. Andante: the salon | Émilie du Châtelet  --  Words 928–1,722  |  Paragraphs 36–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: III.  Scherzo: The Purge  |  Chair Clearing  --  Words 1,723–3,402  |  Paragraphs 66–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,403–4,778  |  Paragraphs 147–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,779–6,119  |  Paragraphs 196–235  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 3: III.  Scherzo: The Purge  |  --  Words 1,723–3,509  |  Paragraphs 66–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,510–4,885  |  Paragraphs 145–193  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,886–6,226  |  Paragraphs 194–233  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -181,67 +181,65 @@ For the first time, the beauty of the thing did not reassure him.
 
 
 
-III.  Scherzo: The Purge  |  Chair Clearing
+III.  Scherzo: The Purge  |
 
 [Presto distruttivo]
 
-The aftertaste of the vision lingered in David's occipital lobe. He expected hallucination, or at least the unreality of an all-nighter. Instead he got clarity, as if everything not tied to integer ratios had been erased.
+The aftertaste of the vision lingered in David’s occipital lobe. He expected hallucination, or at least the unreality of an all-nighter. Instead he got clarity, as if everything not tied to integer ratios had been erased by a silent, benevolent god.
 
 Everything except his office.
 
-He stood in the doorway and saw it all at once: the steel desk with its faux-industrial pretensions, the mismatched chairs, the unvacuumed rug, the sagging bookshelf, binders fat with equations he no longer believed. None of it could survive what he had become.
+He stood in the doorway and saw it all at once: the steel desk with its faux-industrial pretensions, the mismatched chairs, the unvacuumed rug, the sagging bookshelf, binders fat with equations he no longer believed. He was repulsed by the life he had curated in this room. None of it could survive what he had become.
 
-He purged with annihilating focus. One chair shrieked as he hurled it into the hallway.
+He purged with annihilating focus. One chair shrieked as he hurled it into the hallway. Then the second, which had concealed a fossilized sandwich beneath its cushion. When the rug resisted, glued by decades of neglect, he ripped it up, releasing a cloud of dust into the morning light.
 
-Then the second, which had concealed a fossilized sandwich beneath its cushion.
+Papers followed. Books, cables, a structurally impossible lamp, loose chalk, paperweights, a sea lion-shaped eraser. His intellectual history became a corridor landfill. Soon the hallway looked as though the office had been surgically removed and dumped into the arterial corridor outside his door.
 
-When the rug resisted, glued by decades of neglect, he ripped it up, releasing a cloud of dust into the morning light.
-
-Papers followed. Books, cables, a structurally impossible lamp, loose chalk, paperweights, a sea lion-shaped eraser. His intellectual history became a corridor landfill.
-
-Inside, however: clean surfaces. Blank board. Emptiness. Order.
+Inside, however: clean surfaces. Blank board. Emptiness.
 
 Almost.
 
-One chair remained. One he could stomach.
+One chair remained. One he could stomach. It needed a counterpart.
 
-It needed a counterpart.
-
-He grabbed it by the backrest and stormed into the hallway, the chair dragging behind him in a continuous shriek of metal on tile. His feet were bare. His pace was manic. Each step struck the floor with the damp, flat percussion of a man whose relationship with standard procedure had collapsed.
+He grabbed it by the backrest and stormed into the hallway, the chair dragging behind him in a continuous shriek of metal on tile. His feet were bare, his pace manic. Each step struck the floor with the damp, flat percussion of a man whose relationship with standard procedure had collapsed.
 
 Room 317.
 
-He knew exactly where its twin resided. He had lifted the first chair from Professor Garrin's classroom nine months earlier—just the one. At the time it had felt like parity. Gentleman's larceny. Academic détente. But the stakes had shifted. Important work waited. The chair was essential infrastructure. Institutional decorum could metabolize its own obsolescence.
+He knew exactly where its twin resided. He had lifted the first chair from Professor Garrin’s classroom nine months earlier—just the one. At the time it had felt like parity. Gentleman’s larceny. Academic détente. But the stakes had shifted. Important work waited. The chair was essential infrastructure. Institutional decorum could metabolize its own obsolescence.
 
 David opened the rear door mid-lecture.
 
-The class turned as one organism—thirty faces executing synchronized acknowledgment. At the board stood Professor Garrin, marker suspended mid-diagram, caught in the collapse between thought and notation.
+The class turned as one organism, thirty faces executing synchronized acknowledgment. At the board stood Professor Garrin, marker suspended mid-diagram, caught in the collapse between thought and notation.
 
-David stepped inside. Scanned the back wall. Located the chair.
+David stepped inside, scanned the back wall, and located the chair. He moved forward without acknowledgment, the first chair behind him carving a trajectory between desks like agricultural equipment through fragile soil. Students leaned back, less from fear than from the pressure of witnessing such a violation in real time.
 
-He moved forward without acknowledgment, the first chair behind him carving a trajectory between desks like agricultural equipment through fragile soil. Students leaned back, less from fear than from the pressure of witnessing such a violation in real time.
 
-“Professor Lang,” Garrin's voice emerged, then thinned. “Can I… help you with something?”
+“Professor Lang,” Garrin’s voice emerged, then thinned. “Can I… help you with something?”
 
 No response.
 
-David bent, lifted the second chair, tested its weight, then turned for the door. On his way out he delivered a single nod—gratitude and dismissal in equal measure.
+David bent, lifted the second chair, tested its weight, then turned for the door. On his way out he delivered a single nod, whether in thanks or dismissal was impossible to tell.
 
-He walked back into the hall, both chairs trailing behind him in overlapping frequencies of protest.
+The door settled into its frame with a soft click. Then nothing. Silence. The moment however brief, could’ve stood in for an  eternity.
 
-The door settled into its frame with a soft click.
+Then, in perfect unison, the room detonated into whispers and scattered giggles before the natural decorum of an Ivy League classroom reasserted itself. Heads pivoted. Notebooks tilted backward for urgent conference. Someone produced a phone but did not raise it, holding it instead like an object whose use might make the event irreversible.
 
-Silence.
+At the front, Professor Garrin remained motionless, his gaze fixed on the rear door as if staring might reverse what had occurred. A few students began to giggle as they noticed, before the professor did, that he was quite far from arms’ reach of the wall-mounted phone.
 
-Then the room detonated into whispers. Heads pivoted. Notebooks tilted backward for urgent conference. Someone produced a phone but did not raise it, holding it instead like an object whose use might make the event irreversible.
+Finally, this knowledge reached Garrin as well.
 
-At the front, Professor Garrin remained motionless, his gaze fixed on the rear door as if staring might reverse what had occurred. Students watched his face with fascinated attention, his processing visible in stages.
+Without taking his eyes from the door, he began drifting sideways across the front of the room. His outstretched arm served simultaneously as navigation system and braking mechanism.
 
-Finally he reached toward the wall-mounted phone. Realizing he was nowhere near it, he began moving sideways while his face remained locked forward. His outstretched hand served as both navigation and brake. It found the handset. He stopped. Lifted the receiver. Pressed the Dean's direct line by procedural memory alone.
+When his hand finally found the receiver, he lifted it in near slow motion, pressed the Dean’s direct line by procedural memory alone, and brought the handset to his still-disbelieving head.
 
-Then he stepped into the hallway in time to see David disappearing into the corner office suite at the far end, two chairs dragging behind him like protesting animals.
+As he waited for the line to answer, Garrin side-stepped into the hallway just in time to see David disappearing into the corner office suite, two matching chairs dragging behind him, squealing and scratching in protest like pigs to slaughter.
 
-The call rang once. Twice. Then: “Good afternoon, Dean's office. How may I connect you?”
+He waited, ring after ring, for what began to feel like an exorbitant amount of time. Then someone answered.
+
+“Good afternoon, Dean’s office. How may I connect you?”
+
+
+⁂
 
 
 David burst back into his office like a man returning from a war nobody else had heard of. The chairs clanged through the doorframe in overlapping protest. He set them down with ferocious precision at forty-five-degree angles across from his desk, as though their placement satisfied an equation he had not written.

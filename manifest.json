@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-05-29",
-  "total_words": 106819,
+  "total_words": 106937,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -11,8 +11,8 @@
       "label": "Overture",
       "title": "(Fragment recovered from sealed archive)",
       "subtitle": "",
-      "word_count": 282,
-      "paragraph_count": 21,
+      "word_count": 293,
+      "paragraph_count": 23,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt",
@@ -544,8 +544,8 @@
       "label": "Chapter 6",
       "title": "Visions and Burdens… of Knowing",
       "subtitle": "a symphony in five movements",
-      "word_count": 6119,
-      "paragraph_count": 235,
+      "word_count": 6226,
+      "paragraph_count": 233,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -570,29 +570,29 @@
         },
         {
           "n": 3,
-          "heading": "III.  Scherzo: The Purge  |  Chair Clearing",
+          "heading": "III.  Scherzo: The Purge  |",
           "word_start": 1723,
-          "word_end": 3402,
+          "word_end": 3509,
           "para_start": 66,
-          "para_end": 146,
+          "para_end": 144,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
         },
         {
           "n": 4,
           "heading": "Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni",
-          "word_start": 3403,
-          "word_end": 4778,
-          "para_start": 147,
-          "para_end": 195,
+          "word_start": 3510,
+          "word_end": 4885,
+          "para_start": 145,
+          "para_end": 193,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
         },
         {
           "n": 5,
           "heading": "V.  Finale:  minimums  |  Isaac  Newton",
-          "word_start": 4779,
-          "word_end": 6119,
-          "para_start": 196,
-          "para_end": 235,
+          "word_start": 4886,
+          "word_end": 6226,
+          "para_start": 194,
+          "para_end": 233,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html"
         }
       ]

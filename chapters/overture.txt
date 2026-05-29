@@ -7,8 +7,8 @@ Title:           (Fragment recovered from sealed archive)
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      282
-Paragraph Count: 21
+Word Count:      293
+Paragraph Count: 23
 Scene Count:     0
 
 ========================================================================
@@ -25,11 +25,17 @@ CLASSIFICATION: UNKNOWN
 ITHACA, NY - Fall, 1971
 
 
-Six researchers. Five disciplines. One hypothesis none of them wrote down.
+Six researchers. Five disciplines. One hypothesis which none of them wrote down.
 
-Beneath East Hill, in a corridor absent from the public plans, they called it ARGO.
+Beneath East Hill, in a corridor absent from the public plans, they called it:
 
-Tsukino’s earliest surviving note gives the cleanest version:
+
+Project ARGO
+
+Autonomous Resonance Generation and Observation
+
+
+Project lead Dr. Kenji Tsukino’s earliest surviving note gives the cleanest version:
 
 We are testing whether structure can recognize itself across impossible distances.
 
@@ -58,6 +64,9 @@ Only the terminal remained active. Every forty-seven seconds, the monitor render
 A final recovered note was found folded into a tuning-core schematic:
 
 We believed resonance required observation. We failed to consider that resonance requires reciprocity. We tuned to something. And when that something found coherence: It looked back.
+
+
+
 
 
 
