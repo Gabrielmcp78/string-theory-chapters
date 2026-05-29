@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-05-26",
-  "total_words": 106759,
+  "built": "2026-05-29",
+  "total_words": 106819,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -24,7 +24,7 @@
       "label": "Chapter 1",
       "title": "Opus No. 46 in D minor   “Of Life”",
       "subtitle": "a string quartet in four movements",
-      "word_count": 11945,
+      "word_count": 11946,
       "paragraph_count": 476,
       "scene_count": 9,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
@@ -106,7 +106,7 @@
           "n": 9,
           "heading": "THE APARTMENT",
           "word_start": 10717,
-          "word_end": 11945,
+          "word_end": 11946,
           "para_start": 447,
           "para_end": 476,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html"
@@ -739,8 +739,8 @@
       "label": "Chapter 9",
       "title": "To Ground",
       "subtitle": "Spatio-Symbolic Drift in Recursive Harmonic Environments",
-      "word_count": 5431,
-      "paragraph_count": 315,
+      "word_count": 5490,
+      "paragraph_count": 316,
       "scene_count": 6,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.txt",
@@ -749,7 +749,7 @@
           "n": 1,
           "heading": "I.  Ithaca, NY    |   \t\t\t\tMay 25, 2005",
           "word_start": 1,
-          "word_end": 3148,
+          "word_end": 3172,
           "para_start": 1,
           "para_end": 217,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html"
@@ -757,46 +757,46 @@
         {
           "n": 2,
           "heading": "II.  To Ground",
-          "word_start": 3149,
-          "word_end": 4091,
+          "word_start": 3173,
+          "word_end": 4150,
           "para_start": 218,
-          "para_end": 256,
+          "para_end": 257,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html"
         },
         {
           "n": 3,
           "heading": "III.  Secret Sacrifice",
-          "word_start": 4092,
-          "word_end": 4309,
-          "para_start": 257,
-          "para_end": 264,
+          "word_start": 4151,
+          "word_end": 4368,
+          "para_start": 258,
+          "para_end": 265,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html"
         },
         {
           "n": 4,
           "heading": "IV.  Outcomes",
-          "word_start": 4310,
-          "word_end": 4416,
-          "para_start": 265,
-          "para_end": 269,
+          "word_start": 4369,
+          "word_end": 4475,
+          "para_start": 266,
+          "para_end": 270,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html"
         },
         {
           "n": 5,
           "heading": "V.  The Conversation     \t   \t           March 21, 2005",
-          "word_start": 4417,
-          "word_end": 4697,
-          "para_start": 270,
-          "para_end": 281,
+          "word_start": 4476,
+          "word_end": 4756,
+          "para_start": 271,
+          "para_end": 282,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html"
         },
         {
           "n": 6,
           "heading": "VI.  Two months later\t\t\t May 24, 2005",
-          "word_start": 4698,
-          "word_end": 5431,
-          "para_start": 282,
-          "para_end": 315,
+          "word_start": 4757,
+          "word_end": 5490,
+          "para_start": 283,
+          "para_end": 316,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html"
         }
       ]

@@ -8,7 +8,7 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      11,945
+Word Count:      11,946
 Paragraph Count: 476
 Scene Count:     9
 
@@ -20,7 +20,7 @@ Scene 5: THE Office  --  Words 5,284–7,494  |  Paragraphs 278–336  |  URL: h
 Scene 6: III  --  Words 7,495–7,495  |  Paragraphs 337–337  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
 Scene 7: THE REHEARSAL HALL  --  Words 7,496–10,715  |  Paragraphs 338–445  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
 Scene 8: IV  --  Words 10,716–10,716  |  Paragraphs 446–446  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 10,717–11,945  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 9: THE APARTMENT  --  Words 10,717–11,946  |  Paragraphs 447–476  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -1067,7 +1067,7 @@ By 2:47 a.m. the room had become a triangle of potentials. He stood equidistant 
 
 The refrigerator compressor droned a perfect fourth above the bathroom faucet’s drip. Chalk dust shimmered in the spill from the vertical window, suspended like cosmic background radiation.
 
-Outside the brick, beyond the city’s pall of light, earth hummed its eternal B-flat, waiting for a listener in-tune enough to decode its musings.
+Outside the brick, beyond the city’s pall of light, earth hummed its eternal B-flat, waiting for a listener desperate enough to mistake melody for meaning.
 
 
 

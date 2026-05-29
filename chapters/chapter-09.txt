@@ -8,16 +8,16 @@ Subtitle:        Spatio-Symbolic Drift in Recursive Harmonic Environments
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,431
-Paragraph Count: 315
+Word Count:      5,490
+Paragraph Count: 316
 Scene Count:     6
 
-Scene 1: I.  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,148  |  Paragraphs 1–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
-Scene 2: II.  To Ground  --  Words 3,149–4,091  |  Paragraphs 218–256  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: III.  Secret Sacrifice  --  Words 4,092–4,309  |  Paragraphs 257–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: IV.  Outcomes  --  Words 4,310–4,416  |  Paragraphs 265–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
-Scene 5: V.  The Conversation     	   	           March 21, 2005  --  Words 4,417–4,697  |  Paragraphs 270–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
-Scene 6: VI.  Two months later			 May 24, 2005  --  Words 4,698–5,431  |  Paragraphs 282–315  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html
+Scene 1: I.  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,172  |  Paragraphs 1–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: II.  To Ground  --  Words 3,173–4,150  |  Paragraphs 218–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: III.  Secret Sacrifice  --  Words 4,151–4,368  |  Paragraphs 258–265  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: IV.  Outcomes  --  Words 4,369–4,475  |  Paragraphs 266–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 5: V.  The Conversation     	   	           March 21, 2005  --  Words 4,476–4,756  |  Paragraphs 271–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
+Scene 6: VI.  Two months later			 May 24, 2005  --  Words 4,757–5,490  |  Paragraphs 283–316  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -27,15 +27,15 @@ I.  Ithaca, NY    |     May 25, 2005
 
 [Andante grave]
 
-The hallway felt too narrow for a university—too quiet, too long, too private.
+The hallway felt too narrow for a university: too quiet, too long.
 
 They moved down it in uncertain sync: Celeste first, walking like her breath was on a timer; David next, one hand still half-clenched from the drive; Marcus trailing behind them, a little too loud in his silence.
 
-A student—barely older than an undergrad—had led them through the eastern wing. He hadn’t introduced himself. Just said, “He’s waiting,” then walked without looking back.
+A student, barely older than an undergrad, had led them through the eastern wing. He hadn’t introduced himself. Just said, “He’s waiting,” then walked without looking back.
 
 He left them outside the one open door in the corridor.
 
-Light leaked from it—low, warm, and strange, a golden pool on the flagstone floor. The fading blue of dusk stretched long across the window glass beside them.
+Light leaked from it, low, and strange, a golden pool on the flagstone floor. The fading blue of dusk stretched long across the window glass beside them.
 
 Marcus exhaled hard. “This feels like a trap.”
 
@@ -43,7 +43,7 @@ Celeste gently closed her eyes, then re- opened; a sort of reverse eye roll that
 
 The three of them paused collectively at the threshold, before David decided to take the leap and, with a brave step forward, entered the room first.
 
-Rune’s office was spacious, clean, and oddly bare—furnished for containment instead of comfort. The walls were mostly blackboard, marked in looping half-erased equations that layered over one another like sediment. One massive window let in the last of the day’s light, while a desk lamp cast a tighter glow over a central desk.
+Rune’s office was spacious, clean, and oddly bare. The space seemed furnished for containment instead of comfort. The walls were mostly blackboard, marked in looping half-erased equations that layered over one another like sediment. One massive window let in the last of the day’s light, while a desk lamp cast a tighter glow over a central desk.
 
 The desk itself was nearly empty. No computer. No clutter. Just a thick manila folder and a porcelain cup of tea, untouched.
 
@@ -99,7 +99,7 @@ Rune watched him closely. “And it stayed consistent?”
 
 Rune said nothing, then opened the folder.
 
-Inside, he produced a single page—worn, yellowed, the ink faded but visible. He laid it flat between them and turned it slightly toward the light.
+Inside, he produced a single page, its corners worn and yellowed, the ink faded but visible. He laid it flat between them and turned it slightly toward the light.
 
 “Do any of you recognize this?”
 
@@ -267,7 +267,7 @@ He walked to the chalkboard behind him and picked up a piece of white chalk, alr
 
 In three strokes, he drew the spiral.
 
-The same loop. Then another beside it. Tilted. Then a third. And in the center—he drew a shape. A glyph, not from Celeste’s set. Not from anything they’d used. It was small. Closed. Contained.
+The same loop. Then another beside it. Tilted. Then a third. And in the center, he drew a shape. A glyph, not from Celeste’s set, nor  anything else they’d used. It was small, almost innocuous.
 
 “Did this appear in your notes?”
 
@@ -275,7 +275,7 @@ They didn’t answer.
 
 Rune turned to face them.
 
-“I’m asking,” he said, “because in 1971, this appeared—spontaneously—in the final iteration of Tsukino’s engine. No one input it. No one derived it. It simply… resolved there.”
+“I’m asking,” he said, “because in 1971, this appeared spontaneously in the final iteration of Tsukino’s engine. No one input it. No one derived it. It simply… resolved there.”
 
 He held up his hand before Marcus could interrupt.
 
@@ -303,7 +303,7 @@ Rune stepped forward, resting one hand lightly on the desk.
 
 His voice didn’t rise.
 
-“But if you are—then you should know what Tsukino wrote in his last entry before the file was sealed. He wrote: ‘It began responding. The signal is not noise. The drift is deliberate. We are no longer alone inside the equation.’”
+“But if you are, then you should know what Tsukino wrote in his last entry before the file was sealed. He wrote: ‘It began responding. The signal is not noise. The drift is deliberate. We are no longer alone inside the equation.’”
 
 Rune looked down at the spiral. At the glyph. At whatever it had once been.
 
@@ -329,9 +329,9 @@ He paused, tilting the chalk once in his fingers.
 
 “It wasn’t self-correcting. It was… aligning.”
 
-Marcus made a sound—skeptical, half-audible—but didn’t speak.
+Marcus made a sound that wanted to be skeptical, but had nothing, in the end, worth saying.
 
-“The model began producing outputs no one had requested,” Rune continued. “Dates. Coordinates. Names. Some real. Some that didn’t register in any database. When they checked the room for microphones, the system returned a series of phrases written phonetically—replications of conversations that had occurred in the room five to seven seconds prior.”
+“The model began producing outputs no one had requested,” Rune continued. “Dates. Coordinates. Names. Some real. Some that didn’t register in any database. When they checked the room for microphones, the system returned a series of phrases written phonetically, replications of conversations that had occurred in the room five to seven seconds prior.”
 
 David blinked.
 
@@ -394,7 +394,7 @@ Marcus finally spoke. “So what… you’re saying the model got loose?”
 
 David studied Rune’s face.
 
-No flicker of uncertainty. No signs of invention. But still—something was wrong. The timeline didn’t add up. Rune was too young to have been apart of that team. But he was too specific in the way he described the room. The restart times. The joke that hadn’t been a joke. None of it read like research. It read like memory.
+No flicker of uncertainty. No signs of invention. But still, something was wrong. The timeline didn’t add up. Rune was too young to have been apart of that team. But he was too specific in the way he described the room. The restart times. The joke that hadn’t been a joke. None of it read like research. It read like memory.
 
 “So you think we’ve rebuilt it,” David said slowly. “This model. The same one.”
 
@@ -429,7 +429,7 @@ She held his gaze.
 
 He didn’t elaborate.
 
-Instead, he moved to the side of the desk and pulled open a lower drawer—deep, wide. From it, he withdrew a long, rectangular metal case. Black, matte, sealed at both ends. It looked like a box designed to be buried.
+Instead, he moved to the side of the desk and pulled open a lower drawer. From it, he withdrew a long, rectangular metal case. Black, matte, sealed at both ends. It looked like a box designed to be buried.
 
 He set it on the desk between them.
 
@@ -470,7 +470,7 @@ II.  To Ground
 
 [Largo funebre - Ma con speranza]
 
-By the time they stepped outside, the fog had begun to gather—heavy and insistent. It clung low across the grass in slow spirals, coiling around the bases of the trees and slipping like water between the red stones of the quad. The air had changed. Quieter now. Weighted in some unspoken way.
+By the time they stepped outside, the fog had begun to gather, its tendrils heavy and insistent. It clung low across the grass in slow spirals, coiling around the bases of the trees and slipping like water between the red stones of the quad. The air had changed. Quieter now. Weighted in some unspoken way.
 
 They walked without direction, but there was only one place left to go.
 
@@ -486,13 +486,13 @@ When the hole was deep enough, David lowered the capsule into the earth. It didn
 
 Celeste stepped forward.
 
-From her coat, she pulled a tuning fork—slender, slightly dulled at the ends, still marked from the last calibration tests they’d run in the studio. She struck it gently against the leg of the bench, and the sound it made was too large for the air it entered.
+From her coat, she pulled a tuning fork. It was slightly dulled at the ends, still marked from the last calibration tests they’d run in the studio. She struck it gently against the leg of the bench, and the sound it made was too large for the air it entered.
 
 She knelt and pressed it into the soil just above the pit, tines upright. It stood humming, faintly, its base half-sunk in fog.
 
 Then she took out the camera. Clicking the Polaroid twice in quick succession.
 
-The first shot slid out into her hand. She lifted it, watched the image develop—grass, fork, mist, the dark shape of the tree in the background. Then she quietly placed the camera back into her jacket as the second shot followed with a soft mechanical click.
+The first shot slid out into her hand. She lifted it, watched the image develop: grass, fork, mist, the dark shape of the tree in the background. Then she quietly placed the camera back into her jacket as the second shot followed with a soft mechanical click.
 
 Rune stepped forward and took the photograph from her fingers. He didn’t ask permission. She didn’t offer it. The gesture passed between them like a breath someone else had exhaled.
 
@@ -500,11 +500,11 @@ He tossed the photograph into the capsule.
 
 Then he paused.
 
-His hand hovered above the tuning fork. The sound was still there—full in a way that didn’t match the shape of it. Like a wire pulled just tight enough to hum.
+His hand hovered above the tuning fork. The sound was still there, full in a way that didn’t match the shape of it. Like a wire pulled just tight enough to hum.
 
 He picked it up. Held it. Waited. Then, with no change in expression, he dropped it in.
 
-The moment it struck the bottom of the capsule, the sound swelled—deep, resonant, unnatural. Something heavy and old. Like the earth beneath them had responded.
+The moment it struck the bottom of the capsule, the sound swelled. Something heavy and old. Like the earth beneath them had responded.
 
 The note hung in the air, then went on hanging.
 
@@ -520,13 +520,16 @@ He stood motionless at the edge of the covered pit, eyes still fixed on the soil
 
 He tilted his head slightly, listening. Listening.
 
-Celeste noticed first. She turned to loop back, casually, as if she had other reasons to return to the hill. She stopped just short and tried to sidestep her way back in at his side like she hadn’t left. After a brief assessment of David’s need for human contact, she said, “If it's real, it'll claw its way out. It will come back to us. I know it will.”
+Celeste noticed first. She turned to loop back, casually, as if she had other reasons to return to the hill. She stopped just short and tried to sidestep her way back in at his side like she hadn’t left. After a brief assessment of David’s need for human contact, she said, “If it's real, it'll claw its way out. It will come back to us. I know it will.”ed back around the desk and looked down at the notes Celeste still held.
 
-He didn’t answer, though he swore for years thereafter that he had. She didn’t repeat herself, for she felt in that moment like once was already tempting something that acted like fate.
+“I think you’ve taken it further.”
+Rune closed the folder slowly. Deliberately. As though the act itself settled a boundary in the room.
+
+David years thereafter that he had. She didn’t repeat herself, for she felt in that moment like once was already tempting something that acted like fate.
 
 They turned slowly away and, holding each other at the sides, walked off the hill and down to the faculty parking lot together.
 
-The Wagoner waited, engine idling low. Marcus crawled over the front bench and into the back as David and Celeste flanked both sides of the wood-paneled old wagon. The car crawled, engine gurgling, across the empty lot, stopping at the guardhouse that secured the reserve lot. An officer stepped out, clipboard in hand.
+The Wagoner waited, engine idling low. Marcus crawled over the front bench and into the back as David and Celeste flanked both sides of the wood-paneled old wagon. The car crawled, engine gurgling, across the empty lot, stoppin at the guardhouse that secured the reserve lot. An officer stepped out, clipboard in hand.
 
 “Good evening. Name, please?”
 
