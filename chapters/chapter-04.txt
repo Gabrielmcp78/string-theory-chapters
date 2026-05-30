@@ -8,24 +8,24 @@ Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,754
-Paragraph Count: 441
+Word Count:      9,879
+Paragraph Count: 453
 Scene Count:     14
 
 Scene 1: The House on the Hill  --  Words 1–889  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
 Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 890–1,337  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
 Scene 3: III. The Apartment Assessment  --  Words 1,338–2,212  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
 Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,213–2,332  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,333–3,618  |  Paragraphs 108–146  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,619–4,669  |  Paragraphs 147–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,670–5,464  |  Paragraphs 205–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,465–5,824  |  Paragraphs 242–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 5,825–7,061  |  Paragraphs 262–318  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,062–7,330  |  Paragraphs 319–326  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,331–8,069  |  Paragraphs 327–364  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,070–8,870  |  Paragraphs 365–406  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,871–9,193  |  Paragraphs 407–421  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,194–9,754  |  Paragraphs 422–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,333–3,743  |  Paragraphs 108–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,744–4,794  |  Paragraphs 159–216  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,795–5,589  |  Paragraphs 217–253  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,590–5,949  |  Paragraphs 254–273  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 5,950–7,186  |  Paragraphs 274–330  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,187–7,455  |  Paragraphs 331–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,456–8,194  |  Paragraphs 339–376  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,195–8,995  |  Paragraphs 377–418  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,996–9,318  |  Paragraphs 419–433  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,319–9,879  |  Paragraphs 434–453  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -284,29 +284,53 @@ High above, almost beyond the threshold of hearing, a faint vibration settled in
 
 It came from the catwalks, from the metal in the rafters, from somewhere beyond the stone walls where the quad opened to air and hidden infrastructure. A low electrical presence, steady and unhurried: 68.48 Hz. Painfully distant from David’s open C, yet close enough to register, far enough to refuse coincidence.
 
-The sound pressed downward—lightly at first, a tone that bent the air by a fraction. David felt it before he heard it. The vibration found his chest first, threading through bone and damaged cartilage, a second pulse under his own. His left hand compensated instinctively, fingers micro-adjusting their pressure on the string, searching for a point where the interval might settle into something tolerable.
+The sound pressed downward, lightly at first, a tone that bent the air by a fraction. David felt it before he heard it. The vibration found his chest first, threading through bone and damaged cartilage, a second pulse under his own. His left hand compensated instinctively, fingers micro-adjusting their pressure on the string, searching for a point where the interval might settle into something tolerable.
 
 It didn’t.
 
-The hum held its ground. The cello’s C circled it without contact, a planet orbiting a dark star, close enough to ache. David shaded his tone, pulling away from any clean center, choosing a kind of bitter near-alignment that kept the worst of the clash implied, a dissonance felt in the jaw rather than heard in the ear. The effort tightened his breath. His bow slowed. The melodic line narrowed to a thread.
+As the tone held its ground, the cello’s C circled it without contact, a planet orbiting a dark star, close enough to ache. David tried to shade his tone, pulling away from any clean center, choosing a kind of bitter near-alignment that kept the worst of the clash implied, a dissonance felt in the jaw rather than heard in the ear. The effort tightened his breath and slowed his bow as the melodic line narrowed to a thread.
 
-Midway through, the thread snapped—a seam of air splitting the phrase—and David’s breath fractured. The bow lifted, held suspended in the violet light. Celeste leaned in, anticipating collapse, but a glance from Linn—sharp, decisive—held her firm. And then, without a ripple, Linn’s violin lifted the harmonic line, and Celeste, hearing it, softened her dynamic a step, and the music—their music—flowed around the silence as if it had been written that way.
+Midway through, that thread snapped, a seam of air splitting the phrase, causing David’s breath to fracture. The bow lifted, held suspended in the violet light. Celeste leaned in, anticipating collapse, but a glance from Linn, as sharp as it was decisive, held her firm. And then, without a ripple, Linn’s violin lifted the harmonic line, and Celeste, hearing it, softened her dynamic a step, and the music, their music, flowed around the silence in such a way that it felt intentional, like it had been written that way.
 
-David catalogued the moment. It was the same hum. The bench. He knew that, deeply. But its character had changed. The menace, the terror, was gone. In its place was an almost aching sadness, a loneliness longing for resolution from within its own immutable timbre. Desperate to understand the shift, he spun his focus back into the quartet. He saw it then: glances of health and steadiness, relief and earned grace distributed amongst the four, the audience left completely unaware as the ensemble stabilized around the silence he had created. The music continued without interruption, and though something fundamental had shifted in him, a new, more compassionate alignment had followed close behind.
+The Sarabande continued to unfold around him, and for the first time David wondered whether he had misunderstood the phenomenon entirely. Perhaps the mystery was not the signal itself. Perhaps the mystery was what happened when something finally answered it.
 
-The sarabande did not resolve; it exhaled. In David’s hands, the last vibration clung like dust to the string, trembling once before letting go.
+Around him, balance reasserted itself. Whatever disruption his silence had introduced was already being carried away by the music, absorbed into its larger motion.
 
-Applause came carefully, paced to the room’s new quiet.
+So delicately was the final phrase released that David almost missed the moment it ended.
 
-David stood. The movement cost him time, a slow unfurling against gravity and injury. Attention in the pews tightened as bodies adjusted unconsciously to his verticality, a collective intake of breath.
+Under his fingertips remained only the faintest residue of sound, a tremor clinging to the string before surrendering at last to stillness.
 
-“Can we… try something?” he asked, his voice thin with the work of standing, but clear.
+The silence held, but not for long. A few hands met somewhere near the rear of the church, then others joined them until applause spread cautiously through the pews, respectful less of the performance than of whatever had settled over the room in its wake.
 
-Rieger’s posture held calculation. Linn’s weight shifted forward, readiness contained. Celeste met David’s gaze through the dimness and inclined her head—a wordless alignment, granted without ceremony.
+Standing proved slower than intention. The body negotiated terms that the mind had already accepted. Vertebra by vertebra, muscle by reluctant muscle, he unfolded from the pew.
 
-David drew the tuning fork from his pocket. The cool metal flashed in the light. He pressed it firmly to the wooden pew. The vibration traveled through the structure immediately—clean, exact, a pure reference tone offered to the room itself. The faint cerulean stain on his hand seemed to pulse in time with it.
+Across the church, attention shifted. Heads lifted. Programs lowered. Even those who could not have explained why found themselves watching.
 
-He turned toward Celeste.
+"Can we... try something?"
+
+The question was carried more by conviction than volume.
+
+What met it was not a response but a rearrangement. In Rieger, a visible tightening. Calculation moving behind the eyes. From Linn, readiness held in check. And from Celeste, after the briefest pause, the smallest inclination of the head.
+
+It was enough to signal David that he could continue..
+
+The tuning fork emerged from his pocket almost ceremonially, though no ceremony had been intended. Light found an edge of polished metal and abandoned it just as quickly.
+
+Wood received the stem with a soft, nearly inaudible contact.
+
+Then the vibration was everywhere. Through the pew beneath his hand. Through the floorboards. Through the air enclosed by stone and timber.
+
+A reference tone. Pure relation stripped to its essentials.
+
+For an instant the cerulean stain crossing the back of his hand seemed to answer it, the color deepening and fading with the pulse.
+
+
+Or perhaps that was only the expectation of meaning, still refusing to release its hold.
+
+Either way, the resonance remained.
+
+And toward that resonance, David turned to face Celeste.
+
 “A fifth,” he said. “Compressed by a syntonic comma.”
 
 The risk in it landed immediately. Unrehearsed. Sharp enough to fail in public.
