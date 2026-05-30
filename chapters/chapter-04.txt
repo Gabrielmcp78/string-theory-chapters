@@ -8,24 +8,24 @@ Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,879
-Paragraph Count: 453
+Word Count:      9,897
+Paragraph Count: 448
 Scene Count:     14
 
 Scene 1: The House on the Hill  --  Words 1–889  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
 Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 890–1,337  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
-Scene 3: III. The Apartment Assessment  --  Words 1,338–2,212  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,213–2,332  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,333–3,743  |  Paragraphs 108–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,744–4,794  |  Paragraphs 159–216  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,795–5,589  |  Paragraphs 217–253  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,590–5,949  |  Paragraphs 254–273  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 5,950–7,186  |  Paragraphs 274–330  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,187–7,455  |  Paragraphs 331–338  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,456–8,194  |  Paragraphs 339–376  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,195–8,995  |  Paragraphs 377–418  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 8,996–9,318  |  Paragraphs 419–433  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,319–9,879  |  Paragraphs 434–453  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 3: III. The Apartment Assessment  --  Words 1,338–2,214  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,215–2,335  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,336–3,761  |  Paragraphs 108–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,762–4,812  |  Paragraphs 154–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,813–5,607  |  Paragraphs 212–248  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,608–5,967  |  Paragraphs 249–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 5,968–7,204  |  Paragraphs 269–325  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,205–7,473  |  Paragraphs 326–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,474–8,212  |  Paragraphs 334–371  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,213–9,013  |  Paragraphs 372–413  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 9,014–9,336  |  Paragraphs 414–428  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,337–9,897  |  Paragraphs 429–448  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -208,17 +208,17 @@ The coffee cups went to the desk without comment. Linn’s canvas bag followed, 
 
 “Sit up for me,” Linn said.
 
-Linn’s hands moved to David’s face first, tilting it toward the window’s light. Fingers traced the orbital bone with professional detachment, checking for fracture. The touch was neither gentle nor rough—purely functional, informed by years of watching his mom process injury, cataloguing damage with only the facts of the matter. What she always called Cold, Clinical, Calm— Care.
+Linn’s hands moved to David’s face first, tilting it toward the window’s light. Fingers traced the orbital bone with professional detachment, checking for fracture. The touch was neither gentle nor rough—purely functional, informed by years of watching his mom process injury, cataloguing damage with only the facts of the matter. What she always called Cold, Clinical, Calm, Care.
 
 “Your ribs?”
 
 “Left side. Two, maybe three.”
 
-Linn nodded, already reaching for his bag. He pulled out the first-aid kit—the kind kept in music building offices for bow-hand blisters and chin-rest rashes, suddenly pressed into larger service. Gauze, antiseptic, elastic wrap, tape.
+Linn nodded, already reaching for his bag. He pulled out the first-aid kit, the kind kept in music building offices for bow-hand blisters and chin-rest rashes, suddenly pressed into larger service. Gauze, antiseptic, elastic wrap, tape.
 
 “Shirt,” Linn said.
 
-David complied slowly. The bruising spread across his left side in shades of deep purple and yellow-green, a topography of impact. Linn’s expression didn’t change. He wound the elastic wrap with the same precision he brought to rosining his bow—measured tension, even pressure, each pass calibrated to support without constricting.
+David complied slowly. The bruising spread across his left side in shades of deep purple and yellow-green, a topography of impact. Linn’s expression didn’t change. He wound the elastic wrap with the same precision he brought to rosining his bow: measured tension, even pressure, each pass calibrated to support without constricting.
 
 When the binding was secure, Linn handed David a clean shirt from the back of a chair. Then he opened one of the coffee cups and placed it in David’s hand.
 
@@ -253,7 +253,7 @@ IV.  Walk   B   |   for David, Roger and Easy Hill incline
 
 [Andante, con adattamento]
 
-The walk to the chapel followed their usual route—ten years of Saturday mornings compressed into muscle memory. Linn’s stride shortened to match David’s careful pace. Neither acknowledged the adjustment. The constant incline of University Hill invigorated David, almost revitalizing him. He wasn’t surprised by this, as the built-in psychological adrenaline rush to climbing East Hill was a leveraged investment in the wonder of constant downhill walking upon his return. Roger thought to comment on that very idea, but squashed it, concerned that naming the phenomenon might collapse its function or effect or whatever it’s called.
+The walk to the chapel followed their usual route, ten years of Saturday mornings compressed into muscle memory. Linn’s stride shortened to match David’s careful pace. Neither acknowledged the adjustment. The constant incline of University Hill invigorated David, almost revitalizing him. He wasn’t surprised by this, as the built-in psychological adrenaline rush to climbing East Hill was a leveraged investment in the wonder of constant downhill walking upon his return. Roger thought to comment on that very idea, but squashed it, concerned that naming the phenomenon might collapse its function or effect or whatever it’s called.
 
 Though what did he know, he was just a music professor.
 
@@ -270,15 +270,15 @@ The agreement that made the quartet an official university ensemble required tha
 
 They took the space with a new, careful choreography.
 
-Linn entered first—movements economical, intentional—but bypassed his usual position at the center. Instead, he placed two chairs at the edge of the performance space: one for the cello, and one, slightly behind and to the left, a subtle relocation that was less a new placement than a shelter. Celeste watched the adjustment, her gaze tracking from Linn’s precise hands to David as he entered. He moved with a stiff, deliberate economy, sunglasses on despite the dimness, and lowered himself into the chair Linn had positioned. The angle offered him a sliver of refuge from the full weight of the audience, a physical tuning of the space before a note was played.
+Linn entered first, his movements economical, intentional, but bypassing his usual position at the center. Instead, he placed two chairs at the edge of the performance space: one for the cello, and one, slightly behind and to the left, a subtle relocation that was less a new placement than a shelter. Celeste watched the adjustment, her gaze tracking from Linn’s precise hands to David as he entered. He moved with a stiff, deliberate economy, sunglasses on despite the dimness, and lowered himself into the chair Linn had positioned. The angle offered him a sliver of refuge from the full weight of the audience, a physical tuning of the space before a note was played.
 
-A current passed through the room—attention tightening, then focusing into a single, held breath.
+A current passed through the room, the attention tightening, then focusing into a single, held breath.
 
 Old music returned. Bach. A sarabande, its measured triple-time step a frame strong enough to carry any weight they might place upon it.
 
-Celeste’s first viola note entered without display: a solid, curved warmth placed deliberately beside him. Linn’s violin followed, his whole body listening—his tempo matching not the metronome in his head, but the physical reality of David’s bow arm, the slight, breath-catching drag that came from pain managed under strain. The second violinist adjusted within a bar. The ensemble moved as a single mechanism, recalibrating itself around a new, wounded center.
+Celeste’s first viola note entered without display: a solid, curved warmth placed deliberately beside him. Linn’s violin followed, his whole body listening, his tempo matching not the metronome in his head, but the physical reality of David’s bow arm, the slight, breath-catching drag that came from pain managed under strain. Eleanor adjusted her part as second violinist within a bar. The ensemble moved as a single mechanism, recalibrating itself around a new, wounded center.
 
-David played. The sound carried its own biography: the abrasion of cracked ribs, the thinning of rationed breath. But it was honest. And in that honesty, the air in the chapel changed. The audience’s listening shifted from curiosity to a deeper, more perilous registration—a witnessing.
+David played. The sound carried its own biography: the abrasion of cracked ribs, the thinning of rationed breath. But it was honest. And in that honesty, the air in the chapel changed. The audience’s listening shifted from curiosity to a deeper, more perilous registration: a witnessing.
 
 High above, almost beyond the threshold of hearing, a faint vibration settled into the bones of the space.
 
@@ -302,7 +302,7 @@ Under his fingertips remained only the faintest residue of sound, a tremor cling
 
 The silence held, but not for long. A few hands met somewhere near the rear of the church, then others joined them until applause spread cautiously through the pews, respectful less of the performance than of whatever had settled over the room in its wake.
 
-Standing proved slower than intention. The body negotiated terms that the mind had already accepted. Vertebra by vertebra, muscle by reluctant muscle, he unfolded from the pew.
+Standing proved slower than intention. The body negotiated terms that the mind had already accepted. Vertebra by vertebra, muscle by reluctant muscle, David unfolded from from his seat.
 
 Across the church, attention shifted. Heads lifted. Programs lowered. Even those who could not have explained why found themselves watching.
 
@@ -312,46 +312,35 @@ The question was carried more by conviction than volume.
 
 What met it was not a response but a rearrangement. In Rieger, a visible tightening. Calculation moving behind the eyes. From Linn, readiness held in check. And from Celeste, after the briefest pause, the smallest inclination of the head.
 
-It was enough to signal David that he could continue..
+It was enough to signal David that he could continue.
 
-The tuning fork emerged from his pocket almost ceremonially, though no ceremony had been intended. Light found an edge of polished metal and abandoned it just as quickly.
+The tuning fork emerged from his pocket almost ceremonially, though none had been intended. Light found an edge of polished metal and abandoned it just as quickly. Wood received the stem with a soft, nearly inaudible contact.
 
-Wood received the stem with a soft, nearly inaudible contact.
+Then the vibration was everywhere. Through the pew beneath his hand. Through the floorboards. Through the air enclosed by stone and timber. A reference tone. Pure relation stripped to its essentials.
 
-Then the vibration was everywhere. Through the pew beneath his hand. Through the floorboards. Through the air enclosed by stone and timber.
+For an instant the cerulean stain crossing the back of his hand seemed to answer it, the color deepening and fading with the pulse. Or perhaps that was only the expectation of meaning, still refusing to release its hold.
 
-A reference tone. Pure relation stripped to its essentials.
-
-For an instant the cerulean stain crossing the back of his hand seemed to answer it, the color deepening and fading with the pulse.
-
-
-Or perhaps that was only the expectation of meaning, still refusing to release its hold.
-
-Either way, the resonance remained.
-
-And toward that resonance, David turned to face Celeste.
+Either way, the resonance remained. And toward that resonance, David turned to face Celeste.
 
 “A fifth,” he said. “Compressed by a syntonic comma.”
 
 The risk in it landed immediately. Unrehearsed. Sharp enough to fail in public.
 
-Eleanor answered first, a light stroke of the bow—easy. Celeste caught Roger’s eye and smiled once. Roger looked to David. David nodded.
-
-And then they moved toward a tuning.
+Eleanor answered first, a light stroke of the bow: easy. Celeste caught Roger’s eye and smiled once. Roger looked to David. David nodded. And then they moved toward a tuning.
 
 Celeste adjusted her viola with meticulous care, listening into the new pressure rather than past it. Linn followed her lead without hesitation, his ear tracing the nascent chord. Rieger held for a single, skeptical breath, then matched them.
 
-The atmosphere shifted before a note was played. The persistent hum from above suddenly had a context. The oppressive pressure redistributed, becoming a participant in the field, not an obstacle to it.
+The atmosphere shifted before a note was played. The persistent hum from above suddenly had a context. The oppressive pressure redistributed, becoming a participant in the field, instead of an obstacle to it.
 
 David lowered his bow.
 
 The sound that formed moved forward cautiously, testing alignment rather than asserting it. David’s cello traced a path toward the low C as its axis, approaching the external hum without collapsing into it. Celeste’s viola established a firm footing beneath the line. Linn’s violin outlined the edges, placing light where orientation was needed.
 
-Intervals tightened, breathing together. The vibration from the rafters ceased to feel external. It entered the harmonic field as a condition of the space—a fundamental around which they built, not a wall they had to breach. The alignment stayed broad, workable. The pressure eased into coherence.
+Intervals tightened, breathing together. The vibration from the rafters ceased to feel external. It entered the harmonic field as a condition of the space, a fundamental around which they built, not a wall they had to breach. The alignment was broad, even workable. The pressure eased into coherence.
 
 At the center of the texture, the quartet narrowed to a single, sustained F-sharp. The sound held, supported by four sets of lungs, by shared concentration. The hum aligned, no longer separate. The unified pitch occupied the room fully, its duration shaping attention rather than consuming it.
 
-When the sound was released, the quiet that followed carried its own form—a shaped silence, full of what had just passed. The audience remained seated, still. No one reached for applause.
+When the sound was released, the quiet that followed carried its own form: a shaped silence, full of what had just passed. The audience remained seated, still. No one reached for applause.
 
 Linn moved first, his practical hands loosening his bow with a twist. He lifted David’s cello case without being asked.
 
