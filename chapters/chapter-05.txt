@@ -8,17 +8,17 @@ Subtitle:        a fantasia quasi sonata
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,463
+Word Count:      6,475
 Paragraph Count: 226
 Scene Count:     7
 
-Scene 1: I.  Falsifiable Fame  --  Words 16–804  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
-Scene 2: II.  Dream Lecture  --  Words 805–1,824  |  Paragraphs 27–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
-Scene 3: III.  Groundbreaking  --  Words 1,825–2,936  |  Paragraphs 44–78  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
-Scene 4: IV.  Everything he was not  --  Words 2,937–3,784  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
-Scene 5: v.  Friendly forensics  --  Words 3,785–4,312  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
-Scene 6: VI.  Ishikawa’s Island  --  Words 4,313–6,172  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
-Scene 7: VII. The Thickening  --  Words 6,173–6,463  |  Paragraphs 214–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
+Scene 1: I.  Falsifiable Fame  --  Words 16–806  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
+Scene 2: II.  Dream Lecture  --  Words 807–1,829  |  Paragraphs 27–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
+Scene 3: III.  Groundbreaking  --  Words 1,830–2,948  |  Paragraphs 44–78  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
+Scene 4: IV.  Everything he was not  --  Words 2,949–3,796  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
+Scene 5: v.  Friendly forensics  --  Words 3,797–4,324  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
+Scene 6: VI.  Ishikawa’s Island  --  Words 4,325–6,184  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
+Scene 7: VII. The Thickening  --  Words 6,185–6,475  |  Paragraphs 214–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -88,7 +88,7 @@ Another email chimed. Nature Physics. Same story. Acceptance. Immediate publicat
 
 Another notification. And another. A cascade of validation from institutions that had built walls to keep his kind of thinking out. He scrolled through the officially published versions online.
 
-The PDFs were there, proper formatting, his name in bold type. But the citations—he checked them—were ghosts. References to papers that didn’t exist in any database, attributed to journals that had never been printed.
+The PDFs were there, proper formatting, his name in bold type. But the citations, he checked them, were ghosts. References to papers that didn’t exist in any database, attributed to journals that had never been printed.
 
 A laugh escaped him, sharp and brittle, pulling at the bruised muscles of his torso. It was a hideous joke, a cosmic mockery of everything he’d ever wanted. Yet, beneath the revulsion, a treacherous current of warmth spread through his chest. Validation. The drug he’d been starving for. It didn’t matter that the meal was poisoned; his hunger was too great. To see his work, his equations, laid out in the sacred formats of legitimate science… it short-circuited his higher criticism. The hum in the room seemed to amplify, resonating with this ugly, glorious feeling.
 
@@ -113,9 +113,9 @@ He pushed through the periphery of the crowd. Mutterings of “Excuse me, Profes
 
 And in the back row, lined up like skeptical crows on a wire, sat the department’s old guard. Professors who had dismissed his work in faculty meetings, who had written letters questioning his tenure viability, whose own research was a monument to cautious incrementalism. They watched him, faces unreadable.
 
-On the projection screen at the front of the hall was the title page of his newly published—impossibly published—paper from Physical Review Letters. Someone had already put it up. He hadn’t sent it to anyone.
+On the projection screen at the front of the hall was the title page of his newly published, impossibly published, paper from Physical Review Letters. Someone had already put it up. He hadn’t sent it to anyone.
 
-As he moved down the center aisle, the hum focused into a spearpoint of pressure aimed directly at his sternum. His vision greyed at the edges. The weight of all those eyes, the physical press of the sound, the sheer improbability of the scene—it was a dissonance too great to sustain. His hand went to his breast pocket, fingers closing around the cool metal of the tuning fork. He didn’t take it out; he just held it through the fabric of his shirt, pressing it against his pounding heart.
+As he moved down the center aisle, the hum focused into a spearpoint of pressure aimed directly at his sternum. His vision greyed at the edges. The weight of all those eyes, the physical press of the sound, the sheer improbability of the scene, it was a dissonance too great to sustain. His hand went to his breast pocket, fingers closing around the cool metal of the tuning fork. He didn’t take it out; he just held it through the fabric of his shirt, pressing it against his pounding heart.
 
 The unbearable pressure of the hum shifted, sliding from a threat towards something that seemed foundational. He was calibrating to it. No, he was being tuned just like everyone in the room: twisted and tamed in this peculiar harmony.
 
@@ -142,7 +142,7 @@ III.  Groundbreaking
 
 [Allegretto meccanico]
 
-The bubble of focused energy from the lecture hall popped the moment he stepped into the corridor. The din of student chatter returned to normal frequencies, but the aftermath of his performance left a wake of awkwardness. Before he could retreat to his office, they descended upon him—the very colleagues whose presence had been so unnerving.
+The bubble of focused energy from the lecture hall popped the moment he stepped into the corridor. The din of student chatter returned to normal frequencies, but the aftermath of his performance left a wake of awkwardness. Before he could retreat to his office, they descended upon him, the very colleagues whose presence had been so unnerving.
 
 “David. Groundbreaking methodology,” said Professor Evans from condensed matter theory, his hand shooting out for a shake. The grip was firm, lasted a second too long, and his eyes seemed fixed on a point just past David’s left ear.
 
@@ -152,7 +152,7 @@ The bubble of focused energy from the lecture hall popped the moment he stepped 
 
 David extracted his hand from Markov’s grip, a cold knot tightening in his stomach. “Thank you,” he managed, his voice sounding thin. “I… I should get to office hours.”
 
-He fled down the hall, the echo of their identical praise ringing in his ears. He locked his office door behind him, leaning against it for a moment, breathing in the familiar scent of old books and dust. The framed photo on his desk—a younger him and Celeste at a long-ago conference, smiling—seemed to accuse him of this sudden, unearned acclaim.
+He fled down the hall, the echo of their identical praise ringing in his ears. He locked his office door behind him, leaning against it for a moment, breathing in the familiar scent of old books and dust. The framed photo on his desk: a younger him and Celeste at a long-ago conference, smiling. It seemed to accuse him of this sudden, unearned acclaim.
 
 He tried to grade papers, but the symbols on the page swam. The hum was a constant presence, a bass note underscoring his anxiety. A soft knock came at the door. He sighed, expecting another robotic colleague.
 
@@ -172,7 +172,7 @@ The equations on the screen were his, but they were alive. They flickered, pixel
 
 “It started during your lecture,” Mia whispered, her voice tight with fear. “It’s not just mine.”
 
-As if on cue, a rhythmic clicking started from the laser printer in the corner. It began printing sheet after sheet of paper covered not in text, but in dense, pulsating patterns of black and white that resembled both sound waves and fractal equations. Down the hall, a chorus of notification tones erupted from offices—not the usual random chirps, but a synchronized sequence of notes that perfectly outlined a descending minor scale. The fluorescent light above David’s desk flickered in time with it, 68.48 times per second.
+As if on cue, a rhythmic clicking started from the laser printer in the corner. It began printing sheet after sheet of paper covered not in text, but in dense, pulsating patterns of black and white that resembled both sound waves and fractal equations. Down the hall, a chorus of notification tones erupted from offices. They were not the usual random chirps, but an intentional sequence of notes that perfectly outlined a descending minor scale. The fluorescent light above David’s desk flickered in time with it, 68.48 times per second.
 
 David’s own phone, sitting on the desk, lit up. Notification after notification began cascading down the screen.
 
