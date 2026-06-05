@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-06-05",
-  "total_words": 107603,
+  "total_words": 107539,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -603,7 +603,7 @@
       "label": "Chapter 7",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
-      "word_count": 8154,
+      "word_count": 8090,
       "paragraph_count": 215,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
@@ -613,7 +613,7 @@
           "n": 1,
           "heading": "I.  Preliminary Observations",
           "word_start": 1,
-          "word_end": 944,
+          "word_end": 904,
           "para_start": 1,
           "para_end": 23,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html"
@@ -621,8 +621,8 @@
         {
           "n": 2,
           "heading": "II.  Method and Resonance",
-          "word_start": 945,
-          "word_end": 2020,
+          "word_start": 905,
+          "word_end": 1980,
           "para_start": 24,
           "para_end": 25,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html"
@@ -630,8 +630,8 @@
         {
           "n": 3,
           "heading": "III.  Findings and Implications",
-          "word_start": 2021,
-          "word_end": 2814,
+          "word_start": 1981,
+          "word_end": 2774,
           "para_start": 26,
           "para_end": 38,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
@@ -639,8 +639,8 @@
         {
           "n": 4,
           "heading": "IV. Lossless Transfers",
-          "word_start": 2815,
-          "word_end": 8154,
+          "word_start": 2775,
+          "word_end": 8090,
           "para_start": 39,
           "para_end": 215,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"

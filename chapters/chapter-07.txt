@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,154
+Word Count:      8,090
 Paragraph Count: 215
 Scene Count:     4
 
-Scene 1: I.  Preliminary Observations  --  Words 1–944  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: II.  Method and Resonance  --  Words 945–2,020  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: III.  Findings and Implications  --  Words 2,021–2,814  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,815–8,154  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 1: I.  Preliminary Observations  --  Words 1–904  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: II.  Method and Resonance  --  Words 905–1,980  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: III.  Findings and Implications  --  Words 1,981–2,774  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 4: IV. Lossless Transfers  --  Words 2,775–8,090  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -28,7 +28,7 @@ If any sunlight survived the city’s particulate haze, it entered the study by 
 
 His cheek, still marked by the fading glyph of the assault, had shifted from deep aubergine to a convalescent gray, the kind of battle scar no scientist expects to encounter in the mirror. Yet David had grown accustomed to its shadowed presence on his face. He saw it as a marker now, a talisman, a weapon he wasn’t afraid to wield.
 
-The table was a topography of obsession. Manuscript folios, birth registers, death rolls mingled with solar ephemerides and a monograph on “The Waxing and Waning of Geniuses, 1640–1911.” At the edge, a row of index cards advanced like tectonic plates, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it.
+The table was a topography of obsession. Manuscript folios, birth registers, death rolls mingled with solar ephemerides and a monograph on “The Waxing and Waning of Geniuses, 1640–1911.” At the edge, a row of index cards advanced, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it.
 
 He paused, pen mid-notation, and regarded the cards with skeptical intimacy. The line of names halted at a space cleared for one object: the tuning fork. Gifted, or inflicted, by the old woman of indeterminate provenance. Its metallic sheen looked clinical against the otherwise paper-soft room. He’d measured its mass, mapped its decay on a battered oscilloscope, even attempted to analyze its alloy by licking it and calibrating the aftertaste. It defied classification. What gnawed at him most was the phenomenon, observed more than once and subtle enough to question, where the fork vibrated in response to certain equations or dates.
 
@@ -42,7 +42,7 @@ The pattern surfaced and sharpened around the single exception. Every visionary 
 
 His fingers trembled. One card slipped, spun to the floor. He reached, missed, steadied himself on the fork. The tines touched his skin and resumed their vibration, calm, absolute.
 
-He reassembled the sequence as a spiral, mirroring the sine wave of the solar chart. Newton he placed at the center trough, a stone in a drained riverbed. His breath came uneven, the kind that precedes either panic or discovery.
+He reassembled the sequence as a spiral. Newton he placed at the center trough, a stone in a drained riverbed. His breath came uneven, the kind that precedes either panic or discovery.
 
 A memory flashed: the old woman, eyes like a clinical thermometer, saying that all language was wrong, that he was translating what couldn’t be said. Another voice, Midlands vowels scraped by sleeplessness: The laws are only the score. You must learn to hear the music.
 
@@ -50,7 +50,7 @@ He stood, limbs tingling with hypoxic delight, and crossed to the blackboard. Th
 
 First: the harmonic series, written with a calligrapher’s care. Then, below: the solar cycles, a step function, peaks and troughs. To the right, the birth years of his cohort, each plotted against flare. Newton’s lifespan stretched below as a quiet bar.
 
-Patterns surfaced like watermark, just visible and unmistakable. The process felt liturgical. He paused often to rest the fork against the board, as though it might draw power from lectures past or confer legitimacy.
+Patterns surfaced like watermark, just visible and unmistakable. He paused often to rest the fork against the board, as though it might draw power from lectures past or confer legitimacy.
 
 When he finished, his hands were glazed with chalk and sweat, the fork warm as blood. Across the room, the cello waited.
 
@@ -62,7 +62,7 @@ At the desk, the spiral held. The fork rested at the center. David watched as ev
 
 It struck the fork’s tines at the critical angle. Light flared through the room and the dark shard beside it received the beam.
 
-The light entered the shard and emerged altered, white sheared into spectral bloom that bled across the cards. Through its facets the room seemed translated into a neighboring language. Looking through it, David could imagine the city’s orange haze stripped away, revealing a structured magenta lattice stretching across the horizon. The geometry hung over rooftops and smokestacks with the quiet authority of a score waiting for its musicians. Familiar forms resolved into patterns that felt intimate and immense, descending from the star itself. It was as though the shard persuaded the world to disclose itself differently, allowing hidden relations to surface for a moment before sinking again beneath ordinary sight.
+The light entered the shard and emerged altered, white sheared into spectral bloom that bled across the cards. Looking through it, David could imagine the city’s orange haze stripped away, revealing a structured magenta lattice stretching across the horizon. The geometry hung over rooftops and smokestacks with the quiet authority of a score waiting for its musicians. Familiar forms resolved into patterns that felt intimate and immense, descending from the star itself. It was as though the shard persuaded the world to disclose itself differently.
 
 For David, the bruise, absorbed by the pattern, had become the first node of a biological alignment.
 
@@ -251,7 +251,7 @@ At the next turn: Arthur at fifty-five, the year David left for graduate school,
 
 The old man in the chair watched each version arrive and dissolve, his mouth moving without sound, his hands gripping the arms of the chair as if the room itself were tilting. He was seeing his son at every age he had missed, every age he had imagined in the long timeless dark.
 
-And David, descending, felt each version pass through him. He was moving through what the distance had kept of Arthur, the interval that had always held what neither of them could hold alone.
+And David, descending, felt each version pass through him.
 
 The last step brought him to the floor. The boards were cold through his socks. The fire was at his back now, and the light fell full on his face. He was forty-seven. He was only himself.
 
