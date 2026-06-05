@@ -8,7 +8,7 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,247
+Word Count:      12,245
 Paragraph Count: 489
 Scene Count:     9
 
@@ -18,9 +18,9 @@ Scene 3: THE IVY LEAGUE  --  Words 23–5,578  |  Paragraphs 8–289  |  URL: ht
 Scene 4: II  --  Words 5,579–5,579  |  Paragraphs 290–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
 Scene 5: THE Office  --  Words 5,580–7,797  |  Paragraphs 291–349  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
 Scene 6: III  --  Words 7,798–7,798  |  Paragraphs 350–350  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,799–11,016  |  Paragraphs 351–458  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 11,017–11,017  |  Paragraphs 459–459  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 11,018–12,247  |  Paragraphs 460–489  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,799–11,014  |  Paragraphs 351–458  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,015–11,015  |  Paragraphs 459–459  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,016–12,245  |  Paragraphs 460–489  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -903,7 +903,7 @@ By measure twelve, David's attention fractured. The cello's G-string resonated a
 
 
 
-Not metaphorically. Actually visible: dust motes tessellating in the standing wave, golden ratio spirals unfolding in three dimensions.
+Actual dust motes tessellating in the standing wave as golden ratio spirals unfolded  in three dimensions.
 
 David’s fingers maintained their accuracy. Every position landed clean; every shift glided into place with practiced inevitability. His intonation was flawless. So precise it felt less like playing and more like gravity. The bow arm moved as if unspooled from a long preordained phrase, its weight and articulation embedded into muscle fiber through years of trench warfare with this godless composition.
 

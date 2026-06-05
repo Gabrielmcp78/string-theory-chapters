@@ -8,22 +8,22 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,940
-Paragraph Count: 583
+Word Count:      9,949
+Paragraph Count: 582
 Scene Count:     12
 
-Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–253  |  Paragraphs 3–13  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 254–1,315  |  Paragraphs 14–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
-Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,316–2,043  |  Paragraphs 73–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
-Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,044–2,546  |  Paragraphs 101–138  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
-Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,547–2,987  |  Paragraphs 139–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
-Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,988–3,524  |  Paragraphs 169–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,525–5,989  |  Paragraphs 204–369  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,990–7,961  |  Paragraphs 370–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,962–8,527  |  Paragraphs 482–506  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,528–9,301  |  Paragraphs 507–556  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: IV.3 THE CORRIDOR  --  Words 9,302–9,821  |  Paragraphs 557–577  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: V.   RECOGNITION  --  Words 9,822–9,940  |  Paragraphs 578–583  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 1: I.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–251  |  Paragraphs 3–12  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
+Scene 2: I.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 252–1,315  |  Paragraphs 13–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 3: I.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,316–2,043  |  Paragraphs 72–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html
+Scene 4: I.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,044–2,547  |  Paragraphs 100–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
+Scene 5: II.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,548–2,989  |  Paragraphs 138–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
+Scene 6: II.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,990–3,526  |  Paragraphs 168–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
+Scene 7: II.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,527–5,991  |  Paragraphs 203–368  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: III.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,992–7,970  |  Paragraphs 369–480  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: IV.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,971–8,536  |  Paragraphs 481–505  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: IV.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,537–9,310  |  Paragraphs 506–555  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: IV.3 THE CORRIDOR  --  Words 9,311–9,830  |  Paragraphs 556–576  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: V.   RECOGNITION  --  Words 9,831–9,949  |  Paragraphs 577–582  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -58,23 +58,19 @@ I.1  SUBJECT  |  Buffalo, NY          Present Day
 
 [|  Travel  |]
 
-The shuttle from the airport had no suspension, or perhaps it simply chose not to use it. Each pothole translated directly into spine, the jolts accumulating like small grievances filed but never addressed. The driver kept his eyes fixed on the road ahead with a solemnity that looked like ritual, but bordered on carelessness, refusing even the briefest courtesies of the rearview mirror.
+The shuttle from the airport had no suspension, or perhaps simply chose not to use it. Each pothole translated directly into spine, the jolts accumulating like small grievances filed but never addressed. The driver kept his eyes fixed on the road ahead with a solemnity that looked like ritual but bordered on carelessness, refusing even the briefest courtesies of the rearview mirror.
 
 A laminated sign above the windshield read:
 
+WELCOME TO THE NORTH EASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM. NO FOOD. NO DRINK. NO QUESTIONS.
 
-WELCOME TO THE NORTH EASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
-
-NO FOOD. NO DRINK. NO QUESTIONS.
-
-
-A persistent though fluctuant buzz threaded through the vents, carrying a narrow interval he wanted desperately to ignore. The forty-six-minute ride lasted twelve minutes according to the onboard display, forty-seven according to David’s watch, and a near eternity according to his mind. He found no reason to trust any of them.
+A persistent, fluctuating buzz threaded through the vents, carrying a narrow interval he wanted desperately to ignore. The forty-six-minute ride lasted twelve minutes according to the onboard display, forty-seven according to David's watch, and a near eternity according to his mind. He found no reason to trust any of them.
 
 Across the aisle, a young postdoc held her laptop open to a half-completed grant proposal. The progress bar had been stuck at fourteen percent for the duration of the ride, though no uploads were in progress.
 
 The shuttle pulled up to the hotel smoothly, as if arriving exactly on time for something important that had already happened without them. No one moved as they disembarked.
 
-“Professor?” The driver called back to David, still staring out the window in the back of the bus. “Professor?” Nothing. Like he was watching something no one else could hear.
+"Professor?" The driver called back to David, still staring out the window at the back of the bus. "Professor?" Nothing. Like he was watching something no one else could hear.
 
 
 
@@ -108,7 +104,7 @@ Celeste sat on the floor opposite David, her back against the radiator that clan
 
 “What’s dangerous?” Marcus leaned forward. “He’s proposing that the entire edifice of physics, which, by the way, has done pretty well with things like not dying in childbirth and satellites, is just one translation of a consciousness-language we haven’t decoded yet. You know what they call people who think like that?”
 
-“Visionaries?” Celeste offered.
+“Visionaries?” Celeste offered, only half
 
 “Unemployed.”
 
@@ -254,14 +250,14 @@ The phone at the registration desk rang out. Two octaves above the root frequenc
 
 Either way, exactly as the ring octavated upwards, David swore he saw Dr. Kline jerk forward, as if someone had yanked a wire running through his spine. He caught himself against the doorframe, one hand shooting out, program fluttering to the floor. He froze there for half a breath.
 
-Then slowly, intentionally, desiring exactly no one to have reason to notice, he straightened. Picked up the program without looking at it. And disappeared down the opposing corridor.
+Then slowly, intentionally, desiring exactly no one to have reason to notice, he straightened. He picked up the program without looking at it. And disappeared down the opposing corridor.
 
 David looked down at his own brochure, only to notice that his hands, especially the left one with the flyer in grip, were shaking rather violently.
 
 The concierge stood perfectly placed at the center of it all, a mid-court referee with an unobstructed view, ready to call the match if it came to that. With Kline fully in retreat, he had nowhere left to look but at David.
 “Sir… are you alright?”
 
-David flashed a slick smile of assurance at the young man to release him from further responsibility. Then he looked down. The brochure was covered in notation: Frequencies, Ratios, Harmonic intervals spiraling out from a central axis. The work was certainly written in his hand. But he had no memory of executing a single line of it.
+David flashed a slick smile of assurance at the young man to release him from further responsibility. Then he looked down. The brochure was covered in notation: Frequencies, Ratios, Harmonic intervals spiraling out from a central axis. It was unmistakably written in his hand, but he had no memory of executing a single line of it.
 
 
 
@@ -321,7 +317,7 @@ In the background, a rustle of footsteps on tile, a muffled exhale. Then Marcus�
 
 “Fuck.” Marcus’s scream detonated into the phone. Then, to Celeste: confirmation by panic.
 
-“I’m telling you, Marcus, something hit him—hit him deep. He staggered like the numbers had gut-punched him or something.”
+“I’m telling you, Marcus, something hit him. Hit him deep. He staggered like the numbers had gut-punched him or something.”
 
 “You are unbelievable. Do you have any idea what this means?”
 
@@ -388,7 +384,7 @@ A viola lay open-bodied on the counter, its belly split like a confession. Nearb
 
 She gestured for him to look around, then returned to restringing the viola.
 
-David moved among the shelves, touching nothing. Instruments in varying states of injury lined the walls. Their wounds were small. Honest. Human.
+David moved among the shelves, touching nothing. Instruments in varying states of injury lined the walls. Their wounds were small: honest and human.
 
 A narrow drawer: BRIDGES—FRAGILE.
 
@@ -904,15 +900,15 @@ Then—from out of the silence, at the edge of the yard—a voice intruded.
 
 All three turned.
 
-There was nothing at first—just the dense void where the voice had come from. Then, a form began to emerge, pushing through the dark distance. A man stepped out of the shadows and into the first fringe of firelight. He paused just outside the gate, one hand resting on the latch, the other tucked—palm down—into the front pocket of his silk blazer. He was impeccably dressed. Crisp shirt, tailored trousers, shoes far too polished for trampled grass. He looked like a man arriving at a garden party, not a backyard brawl. Then, releasing the latch, he sauntered into the yard.
+There was nothing at first, just the dense void where the voice had come from. Then, a form began to emerge, pushing through the dark distance. A man stepped out of the shadows and into the first fringe of firelight. He paused just outside the gate, one hand resting on the latch, the other tucked palm down into the front pocket of his silk blazer. He was impeccably dressed. Crisp shirt, tailored trousers, shoes far too polished for trampled grass. He looked like a man arriving at a garden party, not a backyard brawl. Then, releasing the latch, he sauntered into the yard.
 
-“I once fancied myself a boxer,” he said lightly. His eyes drifted across the scene—Marcus still braced, David bleeding, Celeste frozen between shouting and breathing.
+“I once fancied myself a boxer,” he said lightly. His eyes drifted across the scene: Marcus still braced, David bleeding, Celeste frozen between shouting and breathing.
 
 “Didn’t take, I’m afraid. Wonderful sport. Terrible left hook.”
 
 No one replied.
 
-His gaze settled on David. He removed the lambskin glove from his right hand—finger by finger.
+His gaze settled on David. He removed the lambskin glove from his right hand, finger by finger.
 
 “David Lang.”
 
@@ -942,7 +938,7 @@ Something tightened in David’s ribs. “Yes, we… I had a meeting with him th
 
 They reached the shaded fence line, firelight thinning behind them.
 
-Rune stopped. Turned to face David; the flickering illumination of distant flames cutting both men’s faces—half empty, half a glow—opposing profiles caught in the light.
+Rune stopped. Turned to face David; the flickering illumination of distant flames cutting both men’s faces, half empty, half a glow. Opposing profiles caught in the light.
 
 “Until that call, I intended to pull you out of MIT the moment your degree posted. Hire you on the spot.” He released the page. It drifted down, landing just in front of Rune’s feet. He stepped on it as though dousing a cigarette butt with his shoe. “That was the plan.”
 
@@ -964,7 +960,7 @@ Rune paused.
 
 A beat. Then he continued walking.
 
-“I don’t make house calls. It isn’t part of my work. And yet—here I am. In your delightful company, on this charming New England evening.”
+“I don’t make house calls. It isn’t part of my work. And yet here I am. In your delightful company, on this charming New England evening.”
 
 He stopped again.
 
@@ -988,7 +984,7 @@ Rune didn’t answer. He simply turned to look, deeply through David. Another pa
 
 His stillness had a different quality now.
 
-“‘That boy will be the end of your department.’ That was Kline’s phrase—the phrase that made me get in the car.” He held out the page toward David. “I’m beginning to grasp what he meant.”
+“‘That boy will be the end of your department.’ That was the phrase that made me get in the car.” He held out the page toward David. “I’m beginning to grasp what he meant.”
 
 David tried: “It’s just math. Just a model. We don’t even know if—”
 
