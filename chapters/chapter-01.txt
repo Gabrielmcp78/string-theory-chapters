@@ -8,19 +8,19 @@ Subtitle:        a string quartet in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      12,245
-Paragraph Count: 489
+Word Count:      12,257
+Paragraph Count: 481
 Scene Count:     9
 
 Scene 1: MOVEMENTS  --  Words 7–21  |  Paragraphs 2–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
 Scene 2: I  --  Words 22–22  |  Paragraphs 7–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
-Scene 3: THE IVY LEAGUE  --  Words 23–5,578  |  Paragraphs 8–289  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
-Scene 4: II  --  Words 5,579–5,579  |  Paragraphs 290–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
-Scene 5: THE Office  --  Words 5,580–7,797  |  Paragraphs 291–349  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
-Scene 6: III  --  Words 7,798–7,798  |  Paragraphs 350–350  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
-Scene 7: THE REHEARSAL HALL  --  Words 7,799–11,014  |  Paragraphs 351–458  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
-Scene 8: IV  --  Words 11,015–11,015  |  Paragraphs 459–459  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
-Scene 9: THE APARTMENT  --  Words 11,016–12,245  |  Paragraphs 460–489  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
+Scene 3: THE IVY LEAGUE  --  Words 23–5,590  |  Paragraphs 8–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html
+Scene 4: II  --  Words 5,591–5,591  |  Paragraphs 282–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html
+Scene 5: THE Office  --  Words 5,592–7,809  |  Paragraphs 283–341  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html
+Scene 6: III  --  Words 7,810–7,810  |  Paragraphs 342–342  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html
+Scene 7: THE REHEARSAL HALL  --  Words 7,811–11,026  |  Paragraphs 343–450  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html
+Scene 8: IV  --  Words 11,027–11,027  |  Paragraphs 451–451  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html
+Scene 9: THE APARTMENT  --  Words 11,028–12,257  |  Paragraphs 452–481  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -67,15 +67,6 @@ THE IVY LEAGUE
 
 [Andante sostenuto—Presto agitato]
 
-I
-
-
-THE IVY LEAGUE
-
-
-Andante sostenuto—Presto agitato
-
-
 It was, perhaps, an unfortunate hour to be speaking of coherence.
 
 David Lang had not slept. Three medically inadvisable energy drinks and four hundred miles of Massachusetts interstate had pushed his nervous system into tomorrow, while the rest of him lagged behind in protest.
@@ -98,13 +89,11 @@ Exhaustion certainly.
 
 As he rolled the stiffness from his wrist and glanced down at his watch, the world tilted subtly out of sequence.
 
-Five minutes late.
+Somewhere in what David was sure could’ve been no more than 46… maybe 47 seconds, just over fifteen minutes had disappeared. He was now five minutes late.
 
-The watch face stared back at him with mechanical indifference.
+The watch face stared back at him with blanketed  indifference.
 
-David blinked once. Twice.
-
-He looked toward the loft windows as though the angle of the light itself might contradict the numbers. The apartment remained perfectly ordinary. Heat clicking through the radiators. Morning glare across the railing. Traffic somewhere downhill beyond the glass.
+David blinked, pivoting his focus toward the loft windows, hoping the angle of the light itself might contradict the numbers. The apartment remained perfectly ordinary. Heat clicking through the radiators. Morning glared across the railing. Traffic somewhere downhill, beyond the glass, pressed onward.
 
 But the missing minutes remained missing.
 
@@ -120,17 +109,11 @@ I don't know how you stomach those conversations.
 
 It came the way Arthur came now, just pieces surfacing where the man used to be. By the time East Hill rose before him, David had restored his pace to something that could still, under generous interpretation, be called walking, but his mind now began doing the skipping.
 
-All those tenured potato sacks. And you with five cleverer things ready before a fellow finishes his sentence.
+Always one up on the next man. Always something, son. Something built in him as he climbed. A readiness. The old reflex of having the room before he entered it.
 
-Something built in him as he climbed. A readiness. The old reflex of having the room before he entered it.
+David took a moment to shake himself free. He’d find time elsewhere to unpack an apparently The very new phenomenon of the very loud voice of a his very dead father would shelve until a better moment, if there ever was such a thing.
 
-Always one up on the next man. Always something, son. I know I couldn't play it.
-
-David took a moment to shake himself free.
-
-Dad, if this is how you get at me now, we're gonna have to lay out some ground rules.
-
-With a dry little hitch of a smile, the voice drifted away. David looked out over the lower quad and caught the bunch of them, already assembled and on the move: faculty, staff, graduate students, the usual cohort already congealing into ritual. And there, near the center, was Sweeney, talking, talking, talking. Of course he was.
+He looked out over the lower quad and caught the bunch of them, already assembled and on the move: faculty, staff, graduate students, the usual cohort already congealing into ritual. And there, near the center, was Sweeney, talking, talking, talking. Of course he was.
 
 Four days of David's absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded to fill it.
 
@@ -318,7 +301,8 @@ The room offered a mild pulse of amusement. David felt the old register find him
 
 He turned to the board and wrote:
 
-|Ψ⟩ = Σ cᵢ |ϕᵢ⟩ gifts
+|Ψ⟩ = Σ cᵢ |ϕᵢ⟩
+
 
 This," he said, tapping the Ψ, "is the whole wave function. Everything that can be, gathered into one expression. A probability cloud, if you like metaphors." A pause. "I like metaphors. They're all we have."
 
@@ -328,9 +312,7 @@ He let it land.
 
 The room loosened. A small laugh, genuine enough. He could still do this. The muscle memory was there, buried under years of bureaucratic sediment and the slow erosion of giving a damn.
 
-He stepped to the desk for a fresh stick of chalk. When his fingers closed around the box, pain shot through them. Sudden. Familiar. He did not wince. Wincing was for people who had not made peace with the body's slow betrayal.
-
-Dust hung in the slant of light, each mote briefly suspended in its own small uncertainty.
+He stepped to the desk for a fresh stick of chalk. When his fingers closed around the box, pain shot through them. Sudden. Familiar, a moments glancing had David expecting to once again loose control of the arm as earlier, but then… nothing. He looked just beyond his focus into the space between himself and the benches. Dust hung in the slant of light, each mote briefly suspended in its own small uncertainty.
 
 "Now," he said, turning back to the board. "Look here."
 

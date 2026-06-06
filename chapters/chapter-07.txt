@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,090
+Word Count:      8,092
 Paragraph Count: 215
 Scene Count:     4
 
 Scene 1: I.  Preliminary Observations  --  Words 1–904  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
 Scene 2: II.  Method and Resonance  --  Words 905–1,980  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
 Scene 3: III.  Findings and Implications  --  Words 1,981–2,774  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,775–8,090  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 4: IV. Lossless Transfers  --  Words 2,775–8,092  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -155,9 +155,6 @@ Then came the hum. Quiet enough he almost missed it. It gathered in the room the
 His grandfather used to do the same thing. David could see him clearly. Standing at the sink at dusk. Sleeves rolled. Fingers tapping a counter in time with something nobody else appeared capable of hearing. The melody followed the same path it always had. Dusk. Solitude. The mind outrunning itself. For years David had treated the habit as inheritance. Now the distinction between inheritance and transmission seemed less certain. The tune continued beneath his breath. Waiting there. As though it had been waiting there all along.
 
 Outside, darkness gathered across the city. Inside, another boundary seemed to soften. The cards on the desk. The fork. The blackboard. The remembered melody. Newton beneath a silent star. Stradivari shaping wood born of the same silence. Threads that should have remained separate began drawing toward one another with the effortless confidence of things returning home. The hum persisted. David let it. And in the deepening dark he felt the larger field he had been circling for months. Close as breath. Patient as gravity. Vast enough to make every previous explanation feel provisional. For the first time, he stopped resisting the sensation. He let it take him in.
-
-
-
 
 
 
@@ -341,7 +338,7 @@ Yield.
 
 He put his forehead to the floor. Worship had nothing to do with it. Acquiescence did. Plain acknowledgment: he was not equal to what he had touched, none of them had been, genius often amounted to ignorance with posture.
 
-Then, as if awakened into service, poised to rescue, the cello began to commune with the tuning fork and the frequencies bearing down atop David’s skull and body. The effect was like a wolf tone: that exact, dreaded place where a pitch finds the instrument’s answering weakness and seizes it, drawing the blow out of the air and into wood, string, and cavity. What had been rising vertically through him—each octave narrowing into cleaner, more punishing force—struck the cello instead and spread there, opening through the body of the instrument, dispersing across grain and varnish and hollow space. The pressure did not vanish, but it changed medium. It became audible as matter, absorbable, less lethal. The fork , in some strange concert with the cello’s body had held the line against something worse by giving the violence form.
+Then, as if awakened into service, poised to rescue, the cello began to commune with the tuning fork and the frequencies bearing down atop David’s skull and body. The effect was like a wolf tone: that exact, dreaded place where a pitch finds the instrument’s answering weakness and seizes it, drawing the blow out of the air and into wood, string, and cavity. What had been rising vertically through him, each octave narrowing into cleaner, more punishing force, struck the cello instead and spread there, opening through the body of the instrument, dispersing across grain and varnish and hollow space. The pressure did not vanish, but it changed medium. It became audible as matter, absorbable, less lethal. The fork , in some strange concert with the cello’s body had held the line against something worse by giving the violence form.
 
 The highest tearing note thinned first. Then the brightness in his teeth. Then the splitting pressure behind the eyes. The base tone remained, low and absolute, yet it stopped slicing him into white.
 
@@ -516,25 +513,6 @@ Behind him the note remained folded under the fork. He could tell himself he wou
 He wrote as if holding the seam meant making it safe. He wrote as if making it legible kept it from spreading. He wrote as if a thing rendered lossless would remain contained.
 
 Outside, the city lay quiet under dits borrowed moonlight. Inside, David wrote the line that would carry.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
