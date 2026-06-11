@@ -8,8 +8,8 @@ Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      10,060
-Paragraph Count: 450
+Word Count:      9,977
+Paragraph Count: 448
 Scene Count:     14
 
 Scene 1: The House on the Hill  --  Words 1–889  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
@@ -18,14 +18,14 @@ Scene 3: III. The Assessment  --  Words 1,338–2,217  |  Paragraphs 73–103  |
 Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,218–2,338  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
 Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,339–3,764  |  Paragraphs 108–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
 Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,765–4,823  |  Paragraphs 154–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,824–5,720  |  Paragraphs 212–250  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,721–6,087  |  Paragraphs 251–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 6,088–7,337  |  Paragraphs 271–327  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,338–7,608  |  Paragraphs 328–335  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,609–8,351  |  Paragraphs 336–373  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,352–9,163  |  Paragraphs 374–415  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 9,164–9,487  |  Paragraphs 416–430  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,488–10,060  |  Paragraphs 431–450  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 7: VII.  THE CAFÉ  --  Words 4,824–5,637  |  Paragraphs 212–248  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,638–6,004  |  Paragraphs 249–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: IX. The bench  --  Words 6,005–7,254  |  Paragraphs 269–325  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,255–7,525  |  Paragraphs 326–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: XI.  The house on the hill (return)  --  Words 7,526–8,268  |  Paragraphs 334–371  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: XII.  The draft  --  Words 8,269–9,080  |  Paragraphs 372–413  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 9,081–9,404  |  Paragraphs 414–428  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,405–9,977  |  Paragraphs 429–448  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -489,12 +489,6 @@ Celeste pushed one of the cups toward David. “I ordered for you. Black, no sug
 “Thanks, as long as you didn’t make it yourself.”
 
 She gave David a glance that stood as a pure acknowledgment of fact as she protested the insinuation with mocked indignation.
-
-As their laughter settled, she reached out, quickly at first and then with growing care, removing the sunglasses from David’s face and setting them on the table. He allowed it with a downward glance that bordered on embarrassment as the full extent of the damage came into view: the swollen eye socket, the split above his eyebrow held together by butterfly bandages, the bruising that spread across his cheekbone in blooms of deep purple and yellow.
-
-
-Or, leaning slightly more into David’s character:
-
 
 As their laughter settled, she reached out, quickly at first and then more carefully, slipping the sunglasses from David’s face and setting them on the table. He allowed it with a look cast toward the floor, as though the injuries themselves had become something to apologize for. The damage was worse without the dark lenses to conceal it: the swollen eye socket, the split above his eyebrow stitched together with butterfly bandages, the bruising that spread across his cheekbone in mottled purples and fading yellows.
 

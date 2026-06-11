@@ -11,16 +11,16 @@ Word Count:      8,092
 Paragraph Count: 215
 Scene Count:     4
 
-Scene 1: I.  Preliminary Observations  --  Words 1–904  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: II.  Method and Resonance  --  Words 905–1,980  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: III.  Findings and Implications  --  Words 1,981–2,774  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: IV. Lossless Transfers  --  Words 2,775–8,092  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 1: 12.1  Preliminary Observations  --  Words 1–904  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: 12.2  Method and Resonance  --  Words 905–1,980  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: 12.3  Findings and Implications  --  Words 1,981–2,774  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 4: 12.4 Lossless Transfers  --  Words 2,775–8,092  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  Preliminary Observations
+12.1  Preliminary Observations
 
 [Moderato con scoperta crescente]
 
@@ -70,7 +70,7 @@ For David, the bruise, absorbed by the pattern, had become the first node of a b
 
 
 
-II.  Method and Resonance
+12.2  Method and Resonance
 
 
 Afternoon drew the room into focus by way of subtraction. The outside world receded, replaced by a stillness so complete the drift of chalk dust rasped against the glass.
@@ -129,7 +129,7 @@ Afternoon drew the room into focus by way of subtraction. The outside world rece
 
 
 
-III.  Findings and Implications
+12.3  Findings and Implications
 
 
 Twilight bled into the study by slow degrees, its silence broken only by the scratch of graphite and the whisper of turning pages. Lang hadn’t bothered with the overheads. The only light came from the lamp clipped to the bookshelf, its bulb burning with a sickly yellow that cast his hand in monstrous silhouette across the scattered paper and cards.
@@ -159,7 +159,7 @@ Outside, darkness gathered across the city. Inside, another boundary seemed to s
 
 
 
-IV. Lossless Transfers
+12.4 Lossless Transfers
 
 
 He had all three boards open. The hum still lived at the back of his teeth. The black panels stood floor to ceiling, chalked over, wiped down, chalked again. The center board was crowded with ratios and substitutions, the white marks driven hard enough into slate to bruise it. He had gone at the same transition from six directions. Each had collapsed at the identical seam.
