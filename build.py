@@ -18,7 +18,7 @@ import docx
 
 # -- Config -------------------------------------------------------------------
 GDRIVE      = Path.home() / "Library/CloudStorage/GoogleDrive-gabemcpherson@gmail.com/My Drive/Manuscript Masters"
-DEFAULT_SRC = GDRIVE / "String Theory - Draft 6.6.docx"
+DEFAULT_SRC = GDRIVE / "String Theory - Draft 6.7.docx"
 OUT_DIR     = Path(__file__).parent
 CHAPTER_DIR = OUT_DIR / "chapters"
 EDITS_DIR   = OUT_DIR / "edits"
