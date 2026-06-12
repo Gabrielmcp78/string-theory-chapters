@@ -310,6 +310,73 @@ footer a:hover { color: #b8785a; }
 .chapter-list a:hover { color: #b8785a; }
 .chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ===== Scene Analysis Accordion ===== */
+details.scene-analysis {
+    background: rgba(244, 240, 235, 0.75);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    margin: 2.2rem 0;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: all 0.3s ease;
+}
+details.scene-analysis[open] {
+    padding: 1rem 1.2rem 1.4rem;
+}
+details.scene-analysis summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.88rem;
+    color: #2b3540;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+details.scene-analysis summary::-webkit-details-marker { display: none; }
+details.scene-analysis summary::after {
+    content: '＋';
+    font-size: 0.95rem;
+    color: #b8785a;
+    font-weight: bold;
+    transition: transform 0.2s ease;
+}
+details.scene-analysis[open] summary::after {
+    content: '－';
+}
+.analysis-section {
+    margin-top: 1.2rem;
+    border-top: 1px solid #e0d8d0;
+    padding-top: 1.2rem;
+    font-size: 0.95rem;
+    color: #2c2c2c;
+    line-height: 1.8;
+}
+.analysis-section h4 {
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #b8785a;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.analysis-section p {
+    margin-bottom: 1rem;
+}
+.analysis-section ul {
+    margin-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.analysis-section li {
+    margin-bottom: 0.5rem;
+}
 """
 
 # -- Helpers ------------------------------------------------------------------
@@ -479,7 +546,7 @@ def extract_scenes(body_paras):
         s['n'] = i + 1
     return scenes
 
-def render_body_html(paras):
+def render_body_html(paras, num=None):
     """Render body HTML with scene anchors; return (html_str, stats)."""
     parts      = []
     scenes     = []
@@ -516,6 +583,37 @@ def render_body_html(paras):
             inner = runs_to_html(p)
             inner = re.sub(r'\t+', '\u2002\u2002', inner)
             parts.append(f'<div class="location" id="{scene_id}">{inner}</div>\n')
+            
+            # Embed scene analysis if available
+            if num is not None:
+                ch_slug = slugify(num)
+                scene_slug_str = f"{ch_slug}-scene-{scene_n:02d}"
+                analysis_file = Path(__file__).parent / f"analysis/{scene_slug_str}.json"
+                if analysis_file.exists():
+                    try:
+                        analysis_data = json.loads(analysis_file.read_text(encoding='utf-8'))
+                        summary = analysis_data.get("summary", "")
+                        outline_beats = analysis_data.get("outline", [])
+                        analysis = analysis_data.get("analysis", "")
+                        
+                        outline_items = "".join(f"<li>{html.escape(beat)}</li>" for beat in outline_beats)
+                        
+                        analysis_html = (
+                            f'<details class="scene-analysis" id="analysis-{scene_slug_str}" aria-hidden="true">\n'
+                            f'  <summary>Scene {scene_n} Analysis & Outline</summary>\n'
+                            f'  <div class="analysis-section">\n'
+                            f'    <h4>Narrative Summary</h4>\n'
+                            f'    <p>{html.escape(summary)}</p>\n'
+                            f'    <h4>Beat Outline</h4>\n'
+                            f'    <ul>{outline_items}</ul>\n'
+                            f'    <h4>Thematic & Motif Analysis</h4>\n'
+                            f'    <p>{html.escape(analysis)}</p>\n'
+                            f'  </div>\n'
+                            f'</details>\n'
+                        )
+                        parts.append(analysis_html)
+                    except Exception as e:
+                        print(f"Warning: Failed to render analysis for {scene_slug_str} on chapter page: {e}")
         else:
             parts.append(para_to_html(p))
 
@@ -771,6 +869,35 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
         f'</details>'
     )
 
+    # Load analysis data if it exists
+    scene_id = f"{ch_slug}-scene-{sc_n:02d}"
+    analysis_file = Path(__file__).parent / f"analysis/{scene_id}.json"
+    analysis_html = ""
+    if analysis_file.exists():
+        try:
+            analysis_data = json.loads(analysis_file.read_text(encoding='utf-8'))
+            summary = analysis_data.get("summary", "")
+            outline_beats = analysis_data.get("outline", [])
+            analysis = analysis_data.get("analysis", "")
+            
+            outline_items = "".join(f"<li>{html.escape(beat)}</li>" for beat in outline_beats)
+            
+            analysis_html = (
+                f'<details class="scene-analysis" id="analysis-{scene_id}" aria-hidden="true">\n'
+                f'  <summary>Scene Analysis & Outline</summary>\n'
+                f'  <div class="analysis-section">\n'
+                f'    <h4>Narrative Summary</h4>\n'
+                f'    <p>{html.escape(summary)}</p>\n'
+                f'    <h4>Beat Outline</h4>\n'
+                f'    <ul>{outline_items}</ul>\n'
+                f'    <h4>Thematic & Motif Analysis</h4>\n'
+                f'    <p>{html.escape(analysis)}</p>\n'
+                f'  </div>\n'
+                f'</details>\n'
+            )
+        except Exception as e:
+            print(f"Warning: Failed to render analysis for {scene_id}: {e}")
+
     sentinel = (
         f'<div class="chapter-sentinel" id="scene-end">'
         f'&#8212; End of Scene {sc_n} &#8212;</div>'
@@ -825,6 +952,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
 
   <div class="chapter-text">
 {manifest_block}
+{analysis_html}
 {scene_body_html}
 {sentinel}
   </div>
@@ -862,7 +990,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
         stats     = prebuilt_stats
     else:
         body_paras        = strip_header_paras(paras)
-        body_html, stats  = render_body_html(body_paras)
+        body_html, stats  = render_body_html(body_paras, num)
 
     edit_url = f"{PAGES_URL}/edits/{slug}.json"
     api_url  = f"https://api.github.com/repos/{REPO}/contents/edits/{slug}.json"
@@ -1305,7 +1433,7 @@ def build(src_path=None):
     for num, paras in chapters:
         title, subtitle, word_count = extract_meta(paras)
         body_paras       = strip_header_paras(paras)
-        body_html, stats = render_body_html(body_paras)
+        body_html, stats = render_body_html(body_paras, num)
 
         chapters_meta.append((num, title, subtitle, word_count))
         chapters_full.append((num, title, subtitle,

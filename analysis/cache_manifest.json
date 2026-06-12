@@ -1,0 +1,674 @@
+{
+  "chapter-01-scene-01": {
+    "hash": "c4ca4238a0b923820dcc509a6f75849b",
+    "file": "analysis/chapter-01-scene-01.json",
+    "heading": "1",
+    "analyzed_at": "2026-06-12T15:15:19.469082"
+  },
+  "chapter-01-scene-02": {
+    "hash": "14b3cb969b19c3918d7b2670d64a8d5a",
+    "file": "analysis/chapter-01-scene-02.json",
+    "heading": "THE IVY LEAGUE",
+    "analyzed_at": "2026-06-12T15:15:19.485025"
+  },
+  "chapter-01-scene-03": {
+    "hash": "c81e728d9d4c2f636f067f89cc14862c",
+    "file": "analysis/chapter-01-scene-03.json",
+    "heading": "2",
+    "analyzed_at": "2026-06-12T15:15:19.485283"
+  },
+  "chapter-01-scene-04": {
+    "hash": "5a56f3d4dd9231fdc2a60a05d31882a6",
+    "file": "analysis/chapter-01-scene-04.json",
+    "heading": "THE Office",
+    "analyzed_at": "2026-06-12T15:15:19.498589"
+  },
+  "chapter-01-scene-05": {
+    "hash": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+    "file": "analysis/chapter-01-scene-05.json",
+    "heading": "3",
+    "analyzed_at": "2026-06-12T15:15:19.498786"
+  },
+  "chapter-01-scene-06": {
+    "hash": "081bc6237e9cc0f8d28816796ca1cc59",
+    "file": "analysis/chapter-01-scene-06.json",
+    "heading": "THE REHEARSAL HALL",
+    "analyzed_at": "2026-06-12T15:15:19.518489"
+  },
+  "chapter-01-scene-07": {
+    "hash": "a87ff679a2f3e71d9181a67b7542122c",
+    "file": "analysis/chapter-01-scene-07.json",
+    "heading": "4",
+    "analyzed_at": "2026-06-12T15:15:19.518739"
+  },
+  "chapter-01-scene-08": {
+    "hash": "ca4eb728604e3511c2f81d75a4824ee8",
+    "file": "analysis/chapter-01-scene-08.json",
+    "heading": "THE APARTMENT",
+    "analyzed_at": "2026-06-12T15:15:19.524706"
+  },
+  "chapter-02-scene-01": {
+    "hash": "d3aeec56914f77543c505d6ddf80b63d",
+    "file": "analysis/chapter-02-scene-01.json",
+    "heading": "5.1  SUBJECT  |  Buffalo, NY  \t\t\t      Present Day",
+    "analyzed_at": "2026-06-12T15:15:19.561956"
+  },
+  "chapter-02-scene-02": {
+    "hash": "1929de49e0b2622debce029bb701929d",
+    "file": "analysis/chapter-02-scene-02.json",
+    "heading": "5.2   ANSWER   |   MIT - Boston, MA       \t                 April 11, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.574258"
+  },
+  "chapter-02-scene-03": {
+    "hash": "37f666c939498f26afdaef6ade9a94ff",
+    "file": "analysis/chapter-02-scene-03.json",
+    "heading": "5.3   SUBJECT   |    Buffalo, NY \t\t\t      Present Day",
+    "analyzed_at": "2026-06-12T15:15:19.578731"
+  },
+  "chapter-02-scene-04": {
+    "hash": "b0a1437420b6414e4875dcb141ec6d2d",
+    "file": "analysis/chapter-02-scene-04.json",
+    "heading": "5.4   ANSWER   |   MIT - Boston, MA \t                                   May 24, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.585312"
+  },
+  "chapter-02-scene-05": {
+    "hash": "0f786c65b83d665764ab94ed8c1e29e6",
+    "file": "analysis/chapter-02-scene-05.json",
+    "heading": "6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day",
+    "analyzed_at": "2026-06-12T15:15:19.589374"
+  },
+  "chapter-02-scene-06": {
+    "hash": "704c1da8fde9659e7649edd4af012552",
+    "file": "analysis/chapter-02-scene-06.json",
+    "heading": "6.2   THE WORKSHOP   |   Buffalo, NY",
+    "analyzed_at": "2026-06-12T15:15:19.593703"
+  },
+  "chapter-02-scene-07": {
+    "hash": "8f672615e30a2bb806809513f1eeb164",
+    "file": "analysis/chapter-02-scene-07.json",
+    "heading": "6.3   THE HOTEL ROOM   |   Buffalo, NY",
+    "analyzed_at": "2026-06-12T15:15:19.613059"
+  },
+  "chapter-02-scene-08": {
+    "hash": "0b8143d1af6cb77095230149a8bd3cfa",
+    "file": "analysis/chapter-02-scene-08.json",
+    "heading": "7.  THE FIREBIRDS   |   MIT - Boston, MA  \t    May 24, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.634137"
+  },
+  "chapter-02-scene-09": {
+    "hash": "7e7d6540ae1820dc36e36b7ee13d5e69",
+    "file": "analysis/chapter-02-scene-09.json",
+    "heading": "8.1   DISSOLUTION   |   Cornell - Ithaca, NY \t      Present Day",
+    "analyzed_at": "2026-06-12T15:15:19.637097"
+  },
+  "chapter-02-scene-10": {
+    "hash": "1d5ec5aeede0c280406e6967c3ab1110",
+    "file": "analysis/chapter-02-scene-10.json",
+    "heading": "8.2 THE CLASSROOM | Cornell \t\t\t       Ithaca, NY",
+    "analyzed_at": "2026-06-12T15:15:19.643325"
+  },
+  "chapter-02-scene-11": {
+    "hash": "f0c8a0962a5fee12ee900669cbe9c57e",
+    "file": "analysis/chapter-02-scene-11.json",
+    "heading": "8.3 THE CORRIDOR",
+    "analyzed_at": "2026-06-12T15:15:19.645991"
+  },
+  "chapter-02-scene-12": {
+    "hash": "8ae1fc07c342586541956af44599cd9b",
+    "file": "analysis/chapter-02-scene-12.json",
+    "heading": "8.4   RECOGNITION",
+    "analyzed_at": "2026-06-12T15:15:19.648126"
+  },
+  "chapter-02-scene-13": {
+    "hash": "d0f683d338fef3013a30bf9f363b05bc",
+    "file": "analysis/chapter-02-scene-13.json",
+    "heading": "I.  Chorale   |   Wednesday Dinner",
+    "analyzed_at": "2026-06-12T15:15:19.661158"
+  },
+  "chapter-02-scene-14": {
+    "hash": "b3e33c858613c077956a5ccda5d3cc6d",
+    "file": "analysis/chapter-02-scene-14.json",
+    "heading": "II.  ARIOSO   |   The Tuning",
+    "analyzed_at": "2026-06-12T15:15:19.662811"
+  },
+  "chapter-02-scene-15": {
+    "hash": "598f82143ba17db0321ef4c820a4bff7",
+    "file": "analysis/chapter-02-scene-15.json",
+    "heading": "III.  Recitativum   |  The Office",
+    "analyzed_at": "2026-06-12T15:15:19.664769"
+  },
+  "chapter-02-scene-16": {
+    "hash": "228cadd5d5532e6fa03638549eb22cef",
+    "file": "analysis/chapter-02-scene-16.json",
+    "heading": "IV.  TURBA  |   The Guillotine",
+    "analyzed_at": "2026-06-12T15:15:19.674068"
+  },
+  "chapter-02-scene-17": {
+    "hash": "d1ee217c48942dc46fc587a93bab49bc",
+    "file": "analysis/chapter-02-scene-17.json",
+    "heading": "V.  Via Dolorosa   |   Into the Storm",
+    "analyzed_at": "2026-06-12T15:15:19.675483"
+  },
+  "chapter-02-scene-18": {
+    "hash": "12cafb9e9955623790f16ccb8e2e9d35",
+    "file": "analysis/chapter-02-scene-18.json",
+    "heading": "VI.  Crucifixio   |   It takes a Beating",
+    "analyzed_at": "2026-06-12T15:15:19.677890"
+  },
+  "chapter-02-scene-19": {
+    "hash": "b0f16ec113650e2f2b6ccd7ba03344d0",
+    "file": "analysis/chapter-02-scene-19.json",
+    "heading": "VII.  Depositio / Sepultura   |  Up From the Depths",
+    "analyzed_at": "2026-06-12T15:15:19.683505"
+  },
+  "chapter-02-scene-20": {
+    "hash": "cec3e3baf2c0f650c5fa3cdee1995692",
+    "file": "analysis/chapter-02-scene-20.json",
+    "heading": "VIII.  Reliquia   |   Up From the Depths",
+    "analyzed_at": "2026-06-12T15:15:19.686549"
+  },
+  "chapter-04-scene-01": {
+    "hash": "cd2e39b92233966be636a145d5655c49",
+    "file": "analysis/chapter-04-scene-01.json",
+    "heading": "The House on the Hill",
+    "analyzed_at": "2026-06-12T15:15:19.712790"
+  },
+  "chapter-04-scene-02": {
+    "hash": "1fd9c84666129dfad8cdcb81f62b4a49",
+    "file": "analysis/chapter-04-scene-02.json",
+    "heading": "II.  Walk  A   |   for Roger, coffee, scone, and Mom",
+    "analyzed_at": "2026-06-12T15:15:19.717179"
+  },
+  "chapter-04-scene-03": {
+    "hash": "67cd41e7d594f2fb8e6eea72a9b6bf7c",
+    "file": "analysis/chapter-04-scene-03.json",
+    "heading": "III. The Assessment",
+    "analyzed_at": "2026-06-12T15:15:19.723128"
+  },
+  "chapter-04-scene-04": {
+    "hash": "89c4b65dfab864049b083f4f62cfcedf",
+    "file": "analysis/chapter-04-scene-04.json",
+    "heading": "IV.  Walk   B   |   for David, Roger and Easy Hill incline",
+    "analyzed_at": "2026-06-12T15:15:19.724040"
+  },
+  "chapter-04-scene-05": {
+    "hash": "2aaee52764255d6bf46217e2e701e74d",
+    "file": "analysis/chapter-04-scene-05.json",
+    "heading": "V.  THE CHAPEL REHEARSAL",
+    "analyzed_at": "2026-06-12T15:15:19.730399"
+  },
+  "chapter-04-scene-06": {
+    "hash": "b49a6244343d262fcf8007f1aa0a1e47",
+    "file": "analysis/chapter-04-scene-06.json",
+    "heading": "VI.  Walk C     |    for David, Roger, towel, and crowbar",
+    "analyzed_at": "2026-06-12T15:15:19.741730"
+  },
+  "chapter-04-scene-07": {
+    "hash": "2e413db3271f54b85758d07d4c645d5e",
+    "file": "analysis/chapter-04-scene-07.json",
+    "heading": "VII.  THE CAFÉ",
+    "analyzed_at": "2026-06-12T15:15:19.749255"
+  },
+  "chapter-04-scene-08": {
+    "hash": "36db56a268a6302c934c4d01f21efc07",
+    "file": "analysis/chapter-04-scene-08.json",
+    "heading": "VIII.  walk  D - Part 1    |    For Celeste and David",
+    "analyzed_at": "2026-06-12T15:15:19.752954"
+  },
+  "chapter-04-scene-09": {
+    "hash": "535233316a545f0098c2cbd3e71fa761",
+    "file": "analysis/chapter-04-scene-09.json",
+    "heading": "IX. The bench",
+    "analyzed_at": "2026-06-12T15:15:19.762331"
+  },
+  "chapter-04-scene-10": {
+    "hash": "1dbad660816afce0a756511821a97d9f",
+    "file": "analysis/chapter-04-scene-10.json",
+    "heading": "X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light",
+    "analyzed_at": "2026-06-12T15:15:19.763904"
+  },
+  "chapter-04-scene-11": {
+    "hash": "b596431be3fc8a4990b647446fa302ba",
+    "file": "analysis/chapter-04-scene-11.json",
+    "heading": "XI.  The house on the hill (return)",
+    "analyzed_at": "2026-06-12T15:15:19.769824"
+  },
+  "chapter-04-scene-12": {
+    "hash": "47c159d28be50a9f08fde66f0d79ce54",
+    "file": "analysis/chapter-04-scene-12.json",
+    "heading": "XII.  The draft",
+    "analyzed_at": "2026-06-12T15:15:19.774622"
+  },
+  "chapter-04-scene-13": {
+    "hash": "f493d1c629f105d97cb048737d02c969",
+    "file": "analysis/chapter-04-scene-13.json",
+    "heading": "XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries",
+    "analyzed_at": "2026-06-12T15:15:19.776190"
+  },
+  "chapter-04-scene-14": {
+    "hash": "078e449d1b86f7b5a579e06c616dea80",
+    "file": "analysis/chapter-04-scene-14.json",
+    "heading": "XIV.  10 Minutes, Maybe Twelve",
+    "analyzed_at": "2026-06-12T15:15:19.779913"
+  },
+  "chapter-05-scene-01": {
+    "hash": "e70a6ecd4d9e20e49dffab0802d690ef",
+    "file": "analysis/chapter-05-scene-01.json",
+    "heading": "I.  Falsifiable Fame",
+    "analyzed_at": "2026-06-12T15:15:19.795798"
+  },
+  "chapter-05-scene-02": {
+    "hash": "3f40b4a4c6e22f82c2203ae7f0bb4816",
+    "file": "analysis/chapter-05-scene-02.json",
+    "heading": "II.  Dream Lecture",
+    "analyzed_at": "2026-06-12T15:15:19.799224"
+  },
+  "chapter-05-scene-03": {
+    "hash": "184fb967f1e02fd2da233dfad097fbb2",
+    "file": "analysis/chapter-05-scene-03.json",
+    "heading": "III.  Groundbreaking",
+    "analyzed_at": "2026-06-12T15:15:19.806242"
+  },
+  "chapter-05-scene-04": {
+    "hash": "fa33db271c9ba2e5d18f147dca3fea7b",
+    "file": "analysis/chapter-05-scene-04.json",
+    "heading": "IV.  Everything he was not",
+    "analyzed_at": "2026-06-12T15:15:19.809806"
+  },
+  "chapter-05-scene-05": {
+    "hash": "290fa60c979c120586486059ed5f7108",
+    "file": "analysis/chapter-05-scene-05.json",
+    "heading": "v.  Friendly forensics",
+    "analyzed_at": "2026-06-12T15:15:19.814063"
+  },
+  "chapter-05-scene-06": {
+    "hash": "c3090291bddd702412409cccf28f7ba1",
+    "file": "analysis/chapter-05-scene-06.json",
+    "heading": "VI.  Ishikawa’s Island",
+    "analyzed_at": "2026-06-12T15:15:19.829651"
+  },
+  "chapter-05-scene-07": {
+    "hash": "9da66178272b7703aa8f3a22f90c3059",
+    "file": "analysis/chapter-05-scene-07.json",
+    "heading": "VII. The Thickening",
+    "analyzed_at": "2026-06-12T15:15:19.831464"
+  },
+  "chapter-06-scene-01": {
+    "hash": "55fdbe8952ef41f9f6354cf4f16c7f61",
+    "file": "analysis/chapter-06-scene-01.json",
+    "heading": "I.  Overture: The Monochord   |   Pythagoras",
+    "analyzed_at": "2026-06-12T15:15:19.845701"
+  },
+  "chapter-06-scene-02": {
+    "hash": "d572dd9a03a0dbb70c44830c6492f397",
+    "file": "analysis/chapter-06-scene-02.json",
+    "heading": "II. Andante: the salon | Émilie du Châtelet",
+    "analyzed_at": "2026-06-12T15:15:19.847563"
+  },
+  "chapter-06-scene-03": {
+    "hash": "29aa4a714e9acdd279b006cec09c08ce",
+    "file": "analysis/chapter-06-scene-03.json",
+    "heading": "III.  Scherzo: The Purge  |",
+    "analyzed_at": "2026-06-12T15:15:19.855838"
+  },
+  "chapter-06-scene-04": {
+    "hash": "63fe688e4323db2e658c76e479fbe24c",
+    "file": "analysis/chapter-06-scene-04.json",
+    "heading": "Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni",
+    "analyzed_at": "2026-06-12T15:15:19.859302"
+  },
+  "chapter-06-scene-05": {
+    "hash": "ef2404f995dd46e17312011d5410eb83",
+    "file": "analysis/chapter-06-scene-05.json",
+    "heading": "V.  Finale:  minimums  |  Isaac  Newton",
+    "analyzed_at": "2026-06-12T15:15:19.863209"
+  },
+  "chapter-07-scene-01": {
+    "hash": "3f2d89e2fa2244a8edf71ee35119235f",
+    "file": "analysis/chapter-07-scene-01.json",
+    "heading": "12.1  Preliminary Observations",
+    "analyzed_at": "2026-06-12T15:15:19.875161"
+  },
+  "chapter-07-scene-02": {
+    "hash": "dc4722f07513112b07b462a2a754d41d",
+    "file": "analysis/chapter-07-scene-02.json",
+    "heading": "12.2  Method and Resonance",
+    "analyzed_at": "2026-06-12T15:15:19.879802"
+  },
+  "chapter-07-scene-03": {
+    "hash": "d49958e44cb05442cf3e22e1acb309c3",
+    "file": "analysis/chapter-07-scene-03.json",
+    "heading": "12.3  Findings and Implications",
+    "analyzed_at": "2026-06-12T15:15:19.881046"
+  },
+  "chapter-07-scene-04": {
+    "hash": "3d943ac6153cd5098db22a7a91ba10ac",
+    "file": "analysis/chapter-07-scene-04.json",
+    "heading": "12.4 Lossless Transfers",
+    "analyzed_at": "2026-06-12T15:15:19.892761"
+  },
+  "chapter-08-scene-01": {
+    "hash": "9a0bd57183bf16f45665107ad64d2a6d",
+    "file": "analysis/chapter-08-scene-01.json",
+    "heading": "I.  The Lounge",
+    "analyzed_at": "2026-06-12T15:15:19.906078"
+  },
+  "chapter-08-scene-02": {
+    "hash": "b65efa8e5988c5b616568b1c978d638f",
+    "file": "analysis/chapter-08-scene-02.json",
+    "heading": "II.  The Lecture",
+    "analyzed_at": "2026-06-12T15:15:19.909493"
+  },
+  "chapter-08-scene-03": {
+    "hash": "cc31e6e853299c0b78f9c68586491af2",
+    "file": "analysis/chapter-08-scene-03.json",
+    "heading": "III.  The Fall",
+    "analyzed_at": "2026-06-12T15:15:19.915766"
+  },
+  "chapter-08-scene-04": {
+    "hash": "59845c5f9c0984b8b3836c5e4c80308a",
+    "file": "analysis/chapter-08-scene-04.json",
+    "heading": "IV.  The Quartet",
+    "analyzed_at": "2026-06-12T15:15:19.920969"
+  },
+  "chapter-08-scene-05": {
+    "hash": "b2eb0cf1172b7a0c37a5fc185406ab63",
+    "file": "analysis/chapter-08-scene-05.json",
+    "heading": "V.  The Journey",
+    "analyzed_at": "2026-06-12T15:15:19.930888"
+  },
+  "chapter-08-scene-06": {
+    "hash": "4989f5dd05ff63b2148b1ec4c7539ae3",
+    "file": "analysis/chapter-08-scene-06.json",
+    "heading": "VI.  The Attic\t\t\t\t\tPresent Day",
+    "analyzed_at": "2026-06-12T15:15:19.932365"
+  },
+  "chapter-08-scene-07": {
+    "hash": "4712edad89941c41d191e7319f002eea",
+    "file": "analysis/chapter-08-scene-07.json",
+    "heading": "VII.  Home",
+    "analyzed_at": "2026-06-12T15:15:19.934924"
+  },
+  "chapter-08-scene-08": {
+    "hash": "46fe3b7f9ce501da28e736f2bf61c8ef",
+    "file": "analysis/chapter-08-scene-08.json",
+    "heading": "VIII.  Solitude",
+    "analyzed_at": "2026-06-12T15:15:19.937203"
+  },
+  "chapter-09-scene-01": {
+    "hash": "ab07af9bee7791737e3b5d857492dc69",
+    "file": "analysis/chapter-09-scene-01.json",
+    "heading": "I.  Ithaca, NY    |   \t\t\t\tMay 25, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.982848"
+  },
+  "chapter-09-scene-02": {
+    "hash": "a2a3cef5ee841a92f18331be87ec178c",
+    "file": "analysis/chapter-09-scene-02.json",
+    "heading": "II.  To Ground",
+    "analyzed_at": "2026-06-12T15:15:19.987542"
+  },
+  "chapter-09-scene-03": {
+    "hash": "7df70d94d85e9f1fa09945aef77d92c4",
+    "file": "analysis/chapter-09-scene-03.json",
+    "heading": "III.  Secret Sacrifice",
+    "analyzed_at": "2026-06-12T15:15:19.989895"
+  },
+  "chapter-09-scene-04": {
+    "hash": "0adefe50df20252802995e7a47d6e7d4",
+    "file": "analysis/chapter-09-scene-04.json",
+    "heading": "IV.  Outcomes",
+    "analyzed_at": "2026-06-12T15:15:19.990680"
+  },
+  "chapter-09-scene-05": {
+    "hash": "1563134d3058c60dcf035b1c7944e79d",
+    "file": "analysis/chapter-09-scene-05.json",
+    "heading": "V.  The Conversation     \t   \t           March 21, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.992023"
+  },
+  "chapter-09-scene-06": {
+    "hash": "01fd73c05b2f7244a34d6c0b5be51a78",
+    "file": "analysis/chapter-09-scene-06.json",
+    "heading": "VI.  Two months later\t\t\t May 24, 2005",
+    "analyzed_at": "2026-06-12T15:15:19.997223"
+  },
+  "chapter-10-scene-01": {
+    "hash": "bb600623af61b2e85c0e2a90752ced94",
+    "file": "analysis/chapter-10-scene-01.json",
+    "heading": "I.  Street Smarts   |   November 28, 2026",
+    "analyzed_at": "2026-06-12T15:15:20.007289"
+  },
+  "chapter-10-scene-02": {
+    "hash": "25bfd4c4ed2e089b483e66a0f533bab8",
+    "file": "analysis/chapter-10-scene-02.json",
+    "heading": "II. Wander, Wonder and Wait",
+    "analyzed_at": "2026-06-12T15:15:20.009014"
+  },
+  "chapter-10-scene-03": {
+    "hash": "867d14bfbe4c3f7afff485eb4b0372f9",
+    "file": "analysis/chapter-10-scene-03.json",
+    "heading": "III. Sundays",
+    "analyzed_at": "2026-06-12T15:15:20.014576"
+  },
+  "chapter-10-scene-04": {
+    "hash": "94bfcab60fb8c5351ee6ccc1f76e630c",
+    "file": "analysis/chapter-10-scene-04.json",
+    "heading": "IV.  A Preference for Precision",
+    "analyzed_at": "2026-06-12T15:15:20.015657"
+  },
+  "chapter-10-scene-05": {
+    "hash": "8244361d0489f9a384fd423ff9e43534",
+    "file": "analysis/chapter-10-scene-05.json",
+    "heading": "V.  The Conduction",
+    "analyzed_at": "2026-06-12T15:15:20.020436"
+  },
+  "chapter-11-scene-01": {
+    "hash": "c8c73451b4fc289798253fcd52c6c97c",
+    "file": "analysis/chapter-11-scene-01.json",
+    "heading": "I.  The SARABANDE",
+    "analyzed_at": "2026-06-12T15:15:20.028523"
+  },
+  "chapter-11-scene-02": {
+    "hash": "9cc2bd72872c55c97037e001414ed43b",
+    "file": "analysis/chapter-11-scene-02.json",
+    "heading": "II. The Grid",
+    "analyzed_at": "2026-06-12T15:15:20.029674"
+  },
+  "chapter-11-scene-03": {
+    "hash": "c384380a3c51122583a3325fa3df5027",
+    "file": "analysis/chapter-11-scene-03.json",
+    "heading": "III.  Invitations of ill",
+    "analyzed_at": "2026-06-12T15:15:20.030483"
+  },
+  "chapter-11-scene-04": {
+    "hash": "f40b2f9f77dec79a92540f36f79d1825",
+    "file": "analysis/chapter-11-scene-04.json",
+    "heading": "IV.  The Reckoning",
+    "analyzed_at": "2026-06-12T15:15:20.034690"
+  },
+  "chapter-12-scene-01": {
+    "hash": "a4951efd907ad60857f31cc0fec1c4c5",
+    "file": "analysis/chapter-12-scene-01.json",
+    "heading": "I.  The After Math",
+    "analyzed_at": "2026-06-12T15:15:20.043176"
+  },
+  "chapter-13-scene-01": {
+    "hash": "a408444e87790e37e20c1ec370d00f71",
+    "file": "analysis/chapter-13-scene-01.json",
+    "heading": "I.  THE NETWORK \t\t\t\t             \tNovember 29, 2026",
+    "analyzed_at": "2026-06-12T15:15:20.060687"
+  },
+  "chapter-13-scene-02": {
+    "hash": "51e460b2046fdd28876b81d7a53c1a45",
+    "file": "analysis/chapter-13-scene-02.json",
+    "heading": "II.  THE CALL",
+    "analyzed_at": "2026-06-12T15:15:20.069868"
+  },
+  "chapter-13-scene-03": {
+    "hash": "0025b4611a06b2abd866d5c33f1b761d",
+    "file": "analysis/chapter-13-scene-03.json",
+    "heading": "III.  THE DISCOVERY",
+    "analyzed_at": "2026-06-12T15:15:20.075862"
+  },
+  "chapter-13-scene-04": {
+    "hash": "9bdf88f285b0f1e9dc9c9adb7bbb60ae",
+    "file": "analysis/chapter-13-scene-04.json",
+    "heading": "IV.  Around The Horn",
+    "analyzed_at": "2026-06-12T15:15:20.089940"
+  },
+  "chapter-13-scene-05": {
+    "hash": "a492f32b6a7c7cd702aafe9b9d0c8f95",
+    "file": "analysis/chapter-13-scene-05.json",
+    "heading": "V.  THE WEIGHT OF NAMES \t\t\t     September 1971",
+    "analyzed_at": "2026-06-12T15:15:20.096102"
+  },
+  "chapter-13-scene-06": {
+    "hash": "a6b84018f9a6991416efe65ffc616164",
+    "file": "analysis/chapter-13-scene-06.json",
+    "heading": "VI.  TEMPORALity",
+    "analyzed_at": "2026-06-12T15:15:20.099574"
+  },
+  "chapter-13-scene-07": {
+    "hash": "95850ffbb58ae79846d7cfcf7b789f45",
+    "file": "analysis/chapter-13-scene-07.json",
+    "heading": "VII.  CANTUS",
+    "analyzed_at": "2026-06-12T15:15:20.107411"
+  },
+  "chapter-14-scene-01": {
+    "hash": "1de123f033c8c78e1f799e5d07952592",
+    "file": "analysis/chapter-14-scene-01.json",
+    "heading": "I.  The Apartment\t\t\t   November 30th, 2026",
+    "analyzed_at": "2026-06-12T15:15:20.116081"
+  },
+  "chapter-15-scene-01": {
+    "hash": "3dbe0e72815b10201cedcc8abde54f43",
+    "file": "analysis/chapter-15-scene-01.json",
+    "heading": "I.",
+    "analyzed_at": "2026-06-12T15:15:20.127216"
+  },
+  "chapter-15-scene-02": {
+    "hash": "7226d6286495a3971fa8debd9042b59c",
+    "file": "analysis/chapter-15-scene-02.json",
+    "heading": "II.  The exhilaration of a walk downhill",
+    "analyzed_at": "2026-06-12T15:15:20.141030"
+  },
+  "chapter-16-scene-01": {
+    "hash": "675f3f4269d7e6c60fb4dba3ce51a1d3",
+    "file": "analysis/chapter-16-scene-01.json",
+    "heading": "I.  The Ultimatum   |   Variation I (Tutti)",
+    "analyzed_at": "2026-06-12T15:15:20.155902"
+  },
+  "chapter-16-scene-02": {
+    "hash": "bef638558ea869923991e9312f683e7d",
+    "file": "analysis/chapter-16-scene-02.json",
+    "heading": "II.  The Final Score   |   Variation II (Solo)",
+    "analyzed_at": "2026-06-12T15:15:20.158111"
+  },
+  "chapter-16-scene-03": {
+    "hash": "85e3deec672fac4f5d0050fa007d6639",
+    "file": "analysis/chapter-16-scene-03.json",
+    "heading": "III.  The Catwalks   |   Duetto / Contrapunto lirico",
+    "analyzed_at": "2026-06-12T15:15:20.175138"
+  },
+  "chapter-16-scene-04": {
+    "hash": "8e9ff27195be7a50e3a227919f84e7c5",
+    "file": "analysis/chapter-16-scene-04.json",
+    "heading": "IV.  Disappearance   |   Chorale (senza vibrato)",
+    "analyzed_at": "2026-06-12T15:15:20.176526"
+  },
+  "chapter-17-scene-01": {
+    "hash": "b4ccff40756fc65f5b5e40bc14f1ca48",
+    "file": "analysis/chapter-17-scene-01.json",
+    "heading": "I.  Observed superposition",
+    "analyzed_at": "2026-06-12T15:15:20.185247"
+  },
+  "chapter-17-scene-02": {
+    "hash": "0703595247108a10c15a478601a2b10d",
+    "file": "analysis/chapter-17-scene-02.json",
+    "heading": "II.  Observed superposition",
+    "analyzed_at": "2026-06-12T15:15:20.190937"
+  },
+  "chapter-17-scene-03": {
+    "hash": "79ebbe7b368d4bca94c8d4d2203d27e1",
+    "file": "analysis/chapter-17-scene-03.json",
+    "heading": "II.1  en train",
+    "analyzed_at": "2026-06-12T15:15:20.203901"
+  },
+  "chapter-17-scene-04": {
+    "hash": "120c224dcb9ab7790458db7488e1e13b",
+    "file": "analysis/chapter-17-scene-04.json",
+    "heading": "III.  Observed superposition",
+    "analyzed_at": "2026-06-12T15:15:20.207262"
+  },
+  "chapter-18-scene-01": {
+    "hash": "7847993cf31f6b585bf4f1a06755b50d",
+    "file": "analysis/chapter-18-scene-01.json",
+    "heading": "I.  The Letters",
+    "analyzed_at": "2026-06-12T15:15:20.216442"
+  },
+  "chapter-18-scene-02": {
+    "hash": "06a449354bb0568d1e795bdcb122610c",
+    "file": "analysis/chapter-18-scene-02.json",
+    "heading": "II.   Tonal Activation",
+    "analyzed_at": "2026-06-12T15:15:20.226723"
+  },
+  "chapter-19-scene-01": {
+    "hash": "b98d71871a9ec43e413b7439d31f3d74",
+    "file": "analysis/chapter-19-scene-01.json",
+    "heading": "I.  The Effect",
+    "analyzed_at": "2026-06-12T15:15:20.232755"
+  },
+  "chapter-19-scene-02": {
+    "hash": "ea481f8e85886ea6730a75aa8db02fdc",
+    "file": "analysis/chapter-19-scene-02.json",
+    "heading": "II.  The Impact",
+    "analyzed_at": "2026-06-12T15:15:20.235312"
+  },
+  "chapter-19-scene-03": {
+    "hash": "602c1aa7268606ae7b78244e1a3e413b",
+    "file": "analysis/chapter-19-scene-03.json",
+    "heading": "III.  The Reason",
+    "analyzed_at": "2026-06-12T15:15:20.240074"
+  },
+  "chapter-20-scene-01": {
+    "hash": "d932b549522cf4a36c56bd9d1088900a",
+    "file": "analysis/chapter-20-scene-01.json",
+    "heading": "I.  Resonance",
+    "analyzed_at": "2026-06-12T15:15:20.254251"
+  },
+  "chapter-20-scene-02": {
+    "hash": "0fd573e1b12cc49cfc31ba4b7c4b65d3",
+    "file": "analysis/chapter-20-scene-02.json",
+    "heading": "II.  Wander and Wonder",
+    "analyzed_at": "2026-06-12T15:15:20.257699"
+  },
+  "chapter-20-scene-03": {
+    "hash": "9af049c75798aa97d93e1331966281b9",
+    "file": "analysis/chapter-20-scene-03.json",
+    "heading": "III.  Inside",
+    "analyzed_at": "2026-06-12T15:15:20.259800"
+  },
+  "chapter-20-scene-04": {
+    "hash": "82ec1ecb67ffc1fffc7c8c70e83323f2",
+    "file": "analysis/chapter-20-scene-04.json",
+    "heading": "IV.  Discovery",
+    "analyzed_at": "2026-06-12T15:15:20.261975"
+  },
+  "chapter-20-scene-05": {
+    "hash": "f10d2b03e99e3af6a362b814273053e9",
+    "file": "analysis/chapter-20-scene-05.json",
+    "heading": "V.  Reason",
+    "analyzed_at": "2026-06-12T15:15:20.266372"
+  },
+  "chapter-20-scene-06": {
+    "hash": "8fa6bd84b2f8515d0383164177eee151",
+    "file": "analysis/chapter-20-scene-06.json",
+    "heading": "VI.  Completion",
+    "analyzed_at": "2026-06-12T15:15:20.273580"
+  },
+  "chapter-20-scene-07": {
+    "hash": "e4c30852f75ed05afa00852823fa5244",
+    "file": "analysis/chapter-20-scene-07.json",
+    "heading": "VII.  For All",
+    "analyzed_at": "2026-06-12T15:15:20.276026"
+  }
+}
