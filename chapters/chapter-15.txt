@@ -7,51 +7,25 @@ Title:           The Pivotal Encounter
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,162
-Paragraph Count: 103
+Word Count:      3,157
+Paragraph Count: 100
 Scene Count:     2
 
-Scene 1: I.  --  Words 8–598  |  Paragraphs 2–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
-Scene 2: II.  The exhilaration of a walk downhill  --  Words 599–3,162  |  Paragraphs 20–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
+Scene 1: 22.1  --  Words 1–592  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
+Scene 2: 22.2  The exhilaration of a walk downhill  --  Words 593–3,157  |  Paragraphs 18–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-[a sonata (senza sviluppo) in three movements]
 
+22.1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I.
-
-[Lento misterioso, senza misura]
 
 In the thinning veil where light bent toward shadow, David’s senses recoiled from the insubstantial, reassembling around familiar edges—the worn cello case leaning like a sentinel, the math‑riddled walls breathing softly in the ambient dusk.
 
 David drew a slow breath, spine unfolding beneath a weight he had not yet dared to bear. The air thickened, then settled, draping the expanse in a heavy velvet that made every detail feel newly intimate.
 
-And then the only sound the man needed to hear in this moment floated through him—every ache and pain and pore of him—in one familial voice: the voice of a father, and of his love:
+And then the only sound the man needed to hear in this moment floated through him, every ache and pain and pore of him, in one familial voice: the voice of a father, and of his love:
 
 
 Some things are not meant for an audience…
@@ -60,9 +34,10 @@ Like this, then that. Closer. Don’t grip. Just…
 
 Three steps: breathe… Three steps: breathe.
 
-He felt his own edges go soft as the hand resting gently on his shoulder—the hand he hadn’t noticed was there all along—softly lifted away. Warmth. Then the specific absence of warmth. Cold air. The kind that carries the particular intelligence of October on a hill that has known many such Octobers.
 
-Then something hard and familiar beneath him. He looked down at his hands. They were in his lap. They were his. The blood on the palm—faint now, days‑old it seemed, already becoming history.
+He felt his own edges go soft as the hand resting gently on his shoulder, the hand he hadn’t noticed was there all along, softly lifted away. Warmth. Then the specific absence of warmth. Cold air. The kind that carries the particular intelligence of October on a hill that has known many such Octobers.
+
+Then something hard and familiar beneath him. He looked down at his hands. They were in his lap. They were his. The blood on the palm, faint now, days‑old it seemed, already becoming history.
 
 He knew exactly where he was. He did not know how he had arrived, but he understood, without needing to examine it further, that this was the correct order of things.
 
@@ -74,7 +49,7 @@ David sat with it for a moment—sat and listened. He sat and looked out into th
 
 The dawn that would come had not yet breached the horizon, but he felt it gathering. When he felt sure that light was the only sound he heard, he stood.
 
-The first fissure lay far beyond the low-slung roofs and skeletal trees that flared out over lower East Hill and to the city beyond. A pale incision along the rim of the horizon as though the earth itself had been quietly opened during the night and was now revealing the faintest interior glow. The air possessed that hourless stillness that belongs neither to night nor to morning but lingers between them like a hummingbird hovering, its wings fluttering with such speed as to make movement in either direction seem to lose the appearance of action.
+The first fissure lay far beyond the low-slung roofs and skeletal trees that flared out over lower East Hill and to the city beyond. A pale incision along the rim of the horizon as though the earth itself had been quietly opened during the night and was now revealing the faintest interior glow. The air possessed that hourless stillness that belongs neither to night nor to morning, but lingers between them like a hummingbird hovering, its wings fluttering with such speed as to make movement in either direction seem to lose the appearance of action.
 
 He rolled his shoulders once, then again, listening inwardly for complaint, and found only the easy mechanics of a body unburdened. He bent at the waist, touched his palms flat against the cold planks of the bench, and straightened again without effort, as though some unseen clerk had cleared his ledger of aches during the interval between… then and now was as specific as his mind would in this moment allow.
 
@@ -84,11 +59,8 @@ So this is what normal feels like.
 
 
 
+22.2  The exhilaration of a walk downhill
 
-
-II.  The exhilaration of a walk downhill
-
-[Senza tempo (ma andante)]
 
 A sigh, a nod, and he began to walk. Below him the paths curved downward through the campus like pale veins through green flesh. Lamps still burned along the walkways, their light faint now against the strengthening sky. He stepped from the dew-glittered grass and onto the path towards his descent, moving without hurry, without destination. The slow incline drawing him through the familiar geometry of buildings and trees that seemed at once intimately known and strangely provisional, as though constructed only hours before for his use alone.
 
@@ -154,13 +126,13 @@ The street lay empty. No cars. No pedestrians. Windows dark.
 
 Deja Vu was on his lips and his mind as he took in the altered scene.
 
-Then, near the entrance to his building—just beyond the threshold a figure stood.
+Then, near the entrance to his building, just beyond the threshold, a figure stood.
 
 He was neither approaching, nor retreating but merely present, as if they had always been assigned to that exact measure of pavement and had been waiting for him to notice.
 
 A scrap of flyer or some other such scrap of paper tumbled across the asphalt near his feet the same pale rectangle, creased and restless, circling in the unmoving air.
 
-Then—the return. Sound crashed back into place. Tires hissed against pavement. A door slammed somewhere behind him.
+Then, the return. Sound crashed back into place. Tires hissed against pavement. A door slammed somewhere behind him.
 
 But the clementine failed to drop cleanly into his palm. David looked up, then to his feet. Nowhere. He took a step to move toward the safety of the curb when there, rolling towards him tentatively from the corner of his building, was a clementine. It slowed as it approached and came to rest at the toe of his shoe.
 
@@ -172,7 +144,7 @@ As he stepped across the threshold, he felt a slight tickle under his arms. With
 
 The noise of the door connecting with it threshold served as a strange alternative declaratory, insisting that David stop to realize something altogether more palatable and strange than the uncanny unlocking of his doors moments prior.
 
-The newspaper vanished from under his arm—not dropped, not fallen, just gone—while the clementine stayed pressed against his palm. A quick scan of the lobby revealed nothing, but stepping back into the entry hall brought the folded paper back between his shoes. Each crossing of the threshold undid it: carried inside, it dissolved; retreating two paces returned it to his feet. A third attempt, slower, deliberate—testing the tolerance of some unseen membrane—ended the same way. The paper vanishing mid-stride.
+The newspaper vanished from under his arm—not dropped, not fallen, just gone, while the clementine stayed pressed against his palm. A quick scan of the lobby revealed nothing, but stepping back into the entry hall brought the folded paper back between his shoes. Each crossing of the threshold undid it: carried inside, it dissolved; retreating two paces returned it to his feet. A third attempt, slower, deliberate, testing the tolerance of some unseen membrane, ended the same way. The paper vanishing mid-stride.
 
 Fuck this. I must need sleep more than I realized.
 

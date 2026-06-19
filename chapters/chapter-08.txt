@@ -7,26 +7,25 @@ Title:           Skepticism and Ridicule
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,661
-Paragraph Count: 194
+Word Count:      6,634
+Paragraph Count: 186
 Scene Count:     8
 
-Scene 1: I.  The Lounge  --  Words 1–1,104  |  Paragraphs 1–22  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
-Scene 2: II.  The Lecture  --  Words 1,105–1,961  |  Paragraphs 23–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
-Scene 3: III.  The Fall  --  Words 1,962–3,043  |  Paragraphs 43–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
-Scene 4: IV.  The Quartet  --  Words 3,044–3,834  |  Paragraphs 76–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
-Scene 5: V.  The Journey  --  Words 3,835–5,268  |  Paragraphs 96–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-05.html
-Scene 6: VI.  The Attic					Present Day  --  Words 5,269–5,582  |  Paragraphs 154–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-06.html
-Scene 7: VII.  Home  --  Words 5,583–6,191  |  Paragraphs 164–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-07.html
-Scene 8: VIII.  Solitude  --  Words 6,192–6,661  |  Paragraphs 179–194  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-08.html
+Scene 1: 15.1  The Lounge  --  Words 1–1,102  |  Paragraphs 1–21  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
+Scene 2: 15.2  The Lecture  --  Words 1,103–1,955  |  Paragraphs 22–40  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
+Scene 3: 15.3  The Fall  --  Words 1,956–3,034  |  Paragraphs 41–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
+Scene 4: 15.4  The Quartet  --  Words 3,035–3,823  |  Paragraphs 73–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
+Scene 5: 15.5  The Journey  --  Words 3,824–5,251  |  Paragraphs 92–148  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-05.html
+Scene 6: 15.6  The Attic					Present Day  --  Words 5,252–5,563  |  Paragraphs 149–157  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-06.html
+Scene 7: 15.7  Home  --  Words 5,564–6,166  |  Paragraphs 158–171  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-07.html
+Scene 8: 15.8  Solitude  --  Words 6,167–6,634  |  Paragraphs 172–186  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  The Lounge
+15.1  The Lounge
 
-[Moderato inquieto]
 
 The faculty lounge, a misnomer if ever there was one, resisted the notion of gathering as ardently as a well-cultivated Petri dish resists sterilization. The battered vinyl sofa offered the tactile experience of a low-wage dentist’s waiting room. The adjacent Formica table, permanently indented with the ringworm pattern of neglected mugs, held the day’s most pressing object: twenty-seven freshly minted copies of David’s manifesto.
 
@@ -71,9 +70,8 @@ Behind him, in the lounge, the manifesto sat like a failed experiment, unobserve
 
 
 
-II.  The Lecture
+15.2  The Lecture
 
-[Andante - Poi smarrito]
 
 The lecture hall, though acoustically designed for clarity, favored the propagation of uncertainty. Its sloped floor and parabolic ceiling ensured that even the smallest student-generated anxiety found its way to the front and roosted behind the podium. The chalkboard, an uninterrupted expanse of matte green, bore the layered residue of six consecutive weeks’ worth of advanced quantum mechanics. Each equation, half-erased and half-rewritten, formed the sedimentary record of Lang’s descent.
 
@@ -114,9 +112,8 @@ And then, in a moment begging for solitude and darkness, the opposite arrived. R
 
 
 
-III.  The Fall
+15.3  The Fall
 
-[Grave con precisione]
 
 If the department had a script for academic defenestration, Ishikawa was both author and sole practitioner. He entered the now-empty lecture hall with the authority of a federal agent executing a search warrant, each footfall a reminder that discipline, like entropy, always increased in the universe of higher education.
 
@@ -183,9 +180,8 @@ He turned the corner. The corridor ahead was empty, the only evidence of his pas
 
 
 
-IV.  The Quartet
+15.4  The Quartet
 
-[Adagio doloroso]
 
 The rehearsal room, once a crucible of conspiratorial energy and off-color jokes, had been scrubbed to a sterile echo chamber by the time Lang arrived. The fluorescent tubes overhead burned with the impersonal zeal of an autopsy theater, and the grand piano, usually flanked by a clutter of cases and half-drunk water bottles, sat alone at the far end, its lid shut, its voice silenced.
 
@@ -225,9 +221,8 @@ He closed the folder, replaced the twine, and tucked it under his arm. Roger mov
 
 
 
-V.  The Journey
+15.5  The Journey
 
-[Largo - Poi tempo primo (memoria)]
 
 David aimed to leave the building, his bow no longer welcome. The adrenaline of the day’s rejections, now complete, began to burn off, and for the first time the emotional weight of what had happened began to toll. A tone so pure and cruel that, without armor, it cut directly to his core.
 
@@ -344,9 +339,8 @@ It was a big ask, even then. But for years thereafter, he tried to answer it. We
 
 
 
-VI.  The Attic  Present Day
+15.6  The Attic  Present Day
 
-[Adagio sospeso]
 
 She couldn’t be there when they told him that night. It wouldn’t be fair, to David, or to herself. She understood the others’ decision; when pressed to a vote, she’d even agreed with it. But she would not be there to see his eyes fall, to watch them crash down his cheeks and bury his shoulders beneath the weight of it all.
 
@@ -367,9 +361,8 @@ She opened her eyes. The attic was silent but charged, the moonlight catching in
 
 
 
-VII.  Home
+15.7  Home
 
-[Andante - Crescendo poco a poco]
 
 The apartment had always been an artifact of entropy, but now it transcended mere disorder. Lang entered to find the air thick with the fermentation of neglect: sour milk, old coffee, and the high, ammoniac edge of decay. The windows, streaked with the residue of a thousand rainstorms, admitted just enough light to reveal the full spectrum of his madness.
 
@@ -400,9 +393,8 @@ He wrote the phrase, “All is one” at the bottom of a fresh sheet of staff pa
 
 
 
-VIII.  Solitude
+15.8  Solitude
 
-[Adagio meditativo]
 
 The city was in REM sleep when Lang awoke on the apartment floor. His first instinct was to reach for the cello, to confirm that its wood and strings still held.
 

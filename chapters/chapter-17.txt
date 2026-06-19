@@ -8,24 +8,23 @@ Subtitle:        Collapsed Reality
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,441
-Paragraph Count: 151
+Word Count:      3,439
+Paragraph Count: 149
 Scene Count:     4
 
-Scene 1: I.  Observed superposition  --  Words 1–152  |  Paragraphs 1–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
-Scene 2: II.  Observed superposition  --  Words 153–1,335  |  Paragraphs 8–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
-Scene 3: II.1  en train  --  Words 1,336–2,633  |  Paragraphs 56–133  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
-Scene 4: III.  Observed superposition  --  Words 2,634–3,441  |  Paragraphs 134–151  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 1: 24.1  Observed superposition  --  Words 1–148  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: 24.2  Observed superposition  --  Words 149–1,327  |  Paragraphs 7–53  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: 24.3  en train  --  Words 1,328–2,625  |  Paragraphs 54–131  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 24.4  Observed superposition  --  Words 2,626–3,439  |  Paragraphs 132–149  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  Observed superposition
+24.1  Observed superposition
 
 Collapsed Version 1
 
-[Moderato semplice, senza accento]
 
 He stepped into the hallway and closed the door. The latch gave a soft click, barely more than a consonant in the ambient hum of the building. Behind him, the apartment was already receding, shrinking to a data point in a universe of sound.
 
@@ -38,11 +37,10 @@ He smiled, then, the first real smile in years, and walked toward the morning, h
 
 
 
-II.  Observed superposition
+24.2  Observed superposition
 
 Collapsed Version 2
 
-[Lento trasparente, fuori tempo]
 
 The stairwell breathed like a bellows, warm air rising from laundry rooms and boiled cabbage, cool drafts knifing in from the street. On the landing between floors, David paused, hand on the rail, and listened. Not to the bustle of the street just outside, not to the elevator’s arthritic cables, but to a thinner seam of sound threaded through the concrete: a whispering that wasn’t words so much as premises—axioms rubbed together until they sparked.
 
@@ -76,6 +74,7 @@ Names are symmetry; song is the break.
 He unrolled a duplicate he had made in the small hours—painstakingly, page for page. The original remained upstairs; this one bore an invisible watermark in its fibers, a sequence he had coded into the pulp months ago without knowing why. He slid the roll into a padded mailer, printed a label from the boiler room’s forgotten Wi-Fi printer, and addressed it to a man who had called him an idiot, a fool, a genius, and a gentleman—all in one night.
 
 On a small note already tucked inside, he wrote:
+
 
 MM—
 
@@ -146,7 +145,7 @@ The PA announced delays in a voice that had never met a vowel it liked. He thoug
 
 
 
-II.1  en train
+24.3  en train
 
 The train came without incident. Quietly. In time.
 
@@ -305,7 +304,7 @@ Rune placed a hand upon the shoulder of a boy genius he once knew, a son he neve
 
 
 
-III.  Observed superposition
+24.4  Observed superposition
 
 Collapsed Reality
 
@@ -333,13 +332,13 @@ The first true slice of sun light found him tying the last thread around the com
 
 Then David Lang—professor, musician, partner, son, man—set about the business of erasing himself. Framed photographs were snapped shut and tucked away. Mail became confetti beneath a shredder’s teeth. Passports and documents vanished into a bag. He was unpainting his own portrait from the world, stroke by living stroke.
 
-Next, he turned to the cello perched at his side. He thought of the myriad hours spent within its voice—this instrument of movement and inquiry, a companion of cherry wood, resonance, and string. His breath deepened; his nerves gently settled. With manuscript and letter in one hand, he laid the other over the cello’s proud neck. His fingers brushed the wood, feeling the faint vibration of the strings—their harmonic lament resonating deep within his bones. With this master memory stowed, he placed the cello snugly into its case. He set the manuscript and letter with reverence atop the tensioned bridge and softly, deftly, closed the lid. The familiar click of the latch—a small, final sound—seemed to seal the room itself.
+Next, he turned to the cello perched at his side. He thought of the myriad hours spent within its voice, this instrument of movement and inquiry, a companion of cherry wood, resonance, and string. His breath deepened; his nerves gently settled. With manuscript and letter in one hand, he laid the other over the cello’s proud neck. His fingers brushed the wood, feeling the faint vibration of the strings, their harmonic lament resonating deep within his bones. With this master memory stowed, he placed the cello snugly into its case. He set the manuscript and letter with reverence atop the tensioned bridge and softly, deftly, closed the lid. The familiar click of the latch, a small, final sound, seemed to seal the room itself.
 
 He leaned forward and, with a breath as soft as snowfall, extinguished the flickering candle into darkness.
 
-That was that. All was finished. He stood, stretching upward—arms and hands reaching further toward always, then more. His eyelids pressed shut, engulfing him in the kaleidoscopic void. He drew one breath, opened his eyes, and with the quiet subtraction of a presence from space, David was simply, wholly gone.
+That was that. All was finished. He stood, stretching upward, arms and hands reaching further toward always, then more. His eyelids pressed shut, engulfing him in the kaleidoscopic void. He drew one breath, opened his eyes, and with the quiet subtraction of a presence from space, David was simply, wholly gone.
 
-The hollowed room now compressed into silence, encased in the void like deeply held breath. The only thing that remained, positioned with geometric precision in the center of the empty room, was the cello—silenced within the safety of its battered old case.
+The hollowed room now compressed into silence, encased in the void like deeply held breath. The only thing that remained, positioned with geometric precision in the center of the empty room, was the cello, silenced within the safety of its battered old case.
 
 
 

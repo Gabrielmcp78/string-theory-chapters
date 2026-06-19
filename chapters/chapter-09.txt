@@ -8,24 +8,23 @@ Subtitle:        Spatio-Symbolic Drift in Recursive Harmonic Environments
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,490
-Paragraph Count: 316
+Word Count:      5,471
+Paragraph Count: 311
 Scene Count:     6
 
-Scene 1: I.  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,172  |  Paragraphs 1–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
-Scene 2: II.  To Ground  --  Words 3,173–4,150  |  Paragraphs 218–257  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: III.  Secret Sacrifice  --  Words 4,151–4,368  |  Paragraphs 258–265  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: IV.  Outcomes  --  Words 4,369–4,475  |  Paragraphs 266–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
-Scene 5: V.  The Conversation     	   	           March 21, 2005  --  Words 4,476–4,756  |  Paragraphs 271–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
-Scene 6: VI.  Two months later			 May 24, 2005  --  Words 4,757–5,490  |  Paragraphs 283–316  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html
+Scene 1: 16.1  Ithaca, NY    |   				May 25, 2005  --  Words 1–3,170  |  Paragraphs 1–216  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: 16.2  To Ground  --  Words 3,171–4,142  |  Paragraphs 217–255  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: 16.3  Secret Sacrifice  --  Words 4,143–4,358  |  Paragraphs 256–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 16.4  Outcomes  --  Words 4,359–4,463  |  Paragraphs 263–266  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 5: 16.5  The Conversation     	   	           March 21, 2005  --  Words 4,464–4,741  |  Paragraphs 267–278  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
+Scene 6: 16.6  Two months later			 May 24, 2005  --  Words 4,742–5,471  |  Paragraphs 279–311  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  Ithaca, NY    |     May 25, 2005
+16.1  Ithaca, NY    |     May 25, 2005
 
-[Andante grave]
 
 The hallway felt too narrow for a university: too quiet, too long.
 
@@ -466,9 +465,8 @@ Then Rune nodded once.
 
 
 
-II.  To Ground
+16.2  To Ground
 
-[Largo funebre - Ma con speranza]
 
 By the time they stepped outside, the fog had begun to gather, its tendrils heavy and insistent. It clung low across the grass in slow spirals, coiling around the bases of the trees and slipping like water between the red stones of the quad. The air had changed. Quieter now. Weighted in some unspoken way.
 
@@ -550,9 +548,8 @@ The gate arm lifted, and they pulled away from campus, slowly making their way d
 
 
 
-III.  Secret Sacrifice
+16.3  Secret Sacrifice
 
-[Adagio solitario]
 
 Rune stood alone at the window in his office. The chalkboard behind him had faded in the ink of this new night, its shapes ghosting faintly in their reflection on the glass.
 
@@ -569,9 +566,8 @@ Then, setting the cloth gently beside the glass, he leaned back, pressing himsel
 
 
 
-IV.  Outcomes
+16.4  Outcomes
 
-[Moderato storico]
 
 Within a week, Marcus would received an offer from UCLA. It was an institutional path that would have him take The Preston Chair in Astrophysics at the start of the following academic year.
 
@@ -584,9 +580,9 @@ Upon their return to MIT, Celeste left the field—changing her focus to musicol
 
 
 
-V.  The Conversation                       March 21, 2005
+16.5  The Conversation                       March 21, 2005
 
-[Andante con distanza         Two Months Prior]
+[Two Months Prior]
 
 The phone pressed to his ear, the cord stretched across the kitchen, his father's voice crackling through three hundred miles of static.
 
@@ -611,9 +607,8 @@ The line clicked. He held the phone to his ear for three full seconds after the 
 
 
 
-VI.  Two months later   May 24, 2005
+16.6  Two months later   May 24, 2005
 
-[Moderato con tensione crescente]
 
 "David, you are not doing this. I will not allow it."
 

@@ -8,8 +8,8 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      15,340
-Paragraph Count: 811
+Word Count:      15,299
+Paragraph Count: 800
 Scene Count:     20
 
 Scene 1: 5.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 11–251  |  Paragraphs 3–12  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
@@ -18,20 +18,20 @@ Scene 3: 5.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,316�
 Scene 4: 5.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,044–2,547  |  Paragraphs 100–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html
 Scene 5: 6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 2,548–2,989  |  Paragraphs 138–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html
 Scene 6: 6.2   THE WORKSHOP   |   Buffalo, NY  --  Words 2,990–3,526  |  Paragraphs 168–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html
-Scene 7: 6.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,527–5,991  |  Paragraphs 203–368  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
-Scene 8: 7.  THE FIREBIRDS   |   MIT - Boston, MA  	    May 24, 2005  --  Words 5,992–7,970  |  Paragraphs 369–480  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
-Scene 9: 8.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,971–8,536  |  Paragraphs 481–505  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
-Scene 10: 8.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,537–9,310  |  Paragraphs 506–555  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
-Scene 11: 8.3 THE CORRIDOR  --  Words 9,311–9,830  |  Paragraphs 556–576  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
-Scene 12: 8.4   RECOGNITION  --  Words 9,831–9,961  |  Paragraphs 577–584  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
-Scene 13: I.  Chorale   |   Wednesday Dinner  --  Words 9,962–11,928  |  Paragraphs 585–664  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-13.html
-Scene 14: II.  ARIOSO   |   The Tuning  --  Words 11,929–12,078  |  Paragraphs 665–672  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-14.html
-Scene 15: III.  Recitativum   |  The Office  --  Words 12,079–12,322  |  Paragraphs 673–682  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-15.html
-Scene 16: IV.  TURBA  |   The Guillotine  --  Words 12,323–13,164  |  Paragraphs 683–720  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-16.html
-Scene 17: V.  Via Dolorosa   |   Into the Storm  --  Words 13,165–13,429  |  Paragraphs 721–730  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-17.html
-Scene 18: VI.  Crucifixio   |   It takes a Beating  --  Words 13,430–13,860  |  Paragraphs 731–748  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-18.html
-Scene 19: VII.  Depositio / Sepultura   |  Up From the Depths  --  Words 13,861–14,629  |  Paragraphs 749–789  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-19.html
-Scene 20: VIII.  Reliquia   |   Up From the Depths  --  Words 14,630–15,340  |  Paragraphs 790–811  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-20.html
+Scene 7: 6.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 3,527–5,989  |  Paragraphs 203–367  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html
+Scene 8: 7.  THE FIREBIRDS   |   MIT - Boston, MA  	                   May 24, 2005  --  Words 5,990–7,966  |  Paragraphs 368–479  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html
+Scene 9: 8.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 7,967–8,530  |  Paragraphs 480–503  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html
+Scene 10: 8.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 8,531–9,302  |  Paragraphs 504–553  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html
+Scene 11: 8.3 THE CORRIDOR  --  Words 9,303–9,820  |  Paragraphs 554–574  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html
+Scene 12: 8.4   RECOGNITION  --  Words 9,821–9,943  |  Paragraphs 575–580  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html
+Scene 13: 9.1  Wednesday Dinner  --  Words 9,944–11,912  |  Paragraphs 581–659  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-13.html
+Scene 14: 9.2   The Tuning  --  Words 11,913–12,058  |  Paragraphs 660–666  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-14.html
+Scene 15: 9.3  The Office  --  Words 12,059–12,299  |  Paragraphs 667–675  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-15.html
+Scene 16: 9.4   The Guillotine  --  Words 12,300–13,136  |  Paragraphs 676–712  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-16.html
+Scene 17: 9.5   Into the Storm  --  Words 13,137–13,395  |  Paragraphs 713–721  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-17.html
+Scene 18: 9.6  It takes a Beating  --  Words 13,396–13,823  |  Paragraphs 722–738  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-18.html
+Scene 19: 9.7  You Can Hear It, Yes?  --  Words 13,824–14,587  |  Paragraphs 739–778  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-19.html
+Scene 20: VIII.  Reliquia   |   Up From the Depths  --  Words 14,588–15,299  |  Paragraphs 779–800  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-20.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -512,7 +512,6 @@ Had he stayed the whole time? He wasn’t entirely sure. By the time he looked u
 
 6.3   THE HOTEL ROOM   |   Buffalo, NY
 
-[Andante luminoso]
 
 [|  Revelation  |]
 
@@ -849,9 +848,9 @@ firelight, ash lifting into wind, a field bright with ruin.
 EPISODE II
 
 
-7.  THE FIREBIRDS   |   MIT - Boston, MA        May 24, 2005
+7.  THE FIREBIRDS   |   MIT - Boston, MA                       May 24, 2005
 
-[Furioso tragico      21 years ago]
+[21 years ago]
 
 [|  Suppression  |]
 
@@ -1080,7 +1079,6 @@ STRETTO
 
 8.1   DISSOLUTION   |   Cornell - Ithaca, NY         Present Day
 
-[Adagio frammentato]
 
 [|  Return  |]
 
@@ -1133,8 +1131,7 @@ Reality steadied slightly. For the moment, it was enough.
 
 8.2 THE CLASSROOM | Cornell          Ithaca, NY
 
-[Allegro dissonante
-| Breakdown |]
+[| Breakdown |]
 
 The fluorescent lights had started flickering before class even began.
 
@@ -1237,8 +1234,7 @@ The answer sounded suspiciously like a question.
 
 8.3 THE CORRIDOR
 
-[Adagio sospeso
-| Structure |]
+[| Structure |]
 
 By evening the building had mostly emptied. Classroom doors stood open along the corridor like abandoned compartments. Weak amber emergency lighting flattened the hallway into alternating bands of shadow and pale color.
 
@@ -1287,7 +1283,6 @@ CODA
 
 8.4   RECOGNITION
 
-[Largo fatale]
 
 Behind him, twenty years collapsed into twenty seconds. Ahead, the frequency waited patiently, no longer foreign, yet fiendish still.
 
@@ -1308,7 +1303,6 @@ A moment of involuntary shiver overtook him, though he wasn’t the least bit co
 
 Fruitful Eve, False Dawn, Fateful Night
 
-[a secular passion in eight movements]
 
 
 
@@ -1330,11 +1324,8 @@ Fruitful Eve, False Dawn, Fateful Night
 
 
 
+9.1  Wednesday Dinner
 
-
-I.  Chorale   |   Wednesday Dinner
-
-[Dolce e semplice]
 
 The restaurant’s acoustic tiles couldn’t quite contain the Wednesday evening murmur, but Celeste had chosen their corner table precisely for its distance from the kitchen’s percussion section. David arrived seven minutes late, chalk still visible under his fingernails despite three washings.
 
@@ -1385,7 +1376,7 @@ She wanted to touch his hand but settled for refolding her napkin instead. The c
 
 “Well, you look… you look beautiful.”
 
-She glanced up—with a blink and sideways smile as she tucked a wayward chunk of hair back around her right ear.
+She glanced up with a blink and sideways smile as she tucked a wayward chunk of hair back around her right ear.
 
 
 And that… that was all it ever took to make truth flood back in. That was all David’s heart needed to gain strength enough to retake the narrative. Because no matter the chemicals, the equational equilibrium, the cold math of the lack of her… he knew, when pressed to his core, that if a Wednesday ever came when she stopped coming, when she truly gave up and left him alone, it would end him. Beyond any doubt… he’d be finished.
@@ -1417,15 +1408,15 @@ Christ, stop looking. Where’s the damn waiter?
 
 Why do I come?
 
-She knew why she came—to check in, to see how he was: his mind, his demeanor, the shake of his hands.
+She knew why she came. She came to check in, to see how he was: his mind, his demeanor, the shake of his hands.
 
-That, and… she did so very much love the Linguine Caruso. She smiled faintly at the absurdity. David thought it smelled vaguely of dead rat. Maybe that’s why she loved it—because David did not.
+That, and she did so very much love the Linguine Caruso. She smiled faintly at the absurdity. David thought it smelled vaguely of dead rat. Maybe that’s why she loved it, because David did not.
 
 “How’s your mom doing?” she asked. There was a delay.
 
-“Hmm?—What was that?”
+“Hmm? What was that?”
 
-“I said, how’s your mom doing? I talked to her right after we got back from Boston—she sounded a little… lost.”
+“I said, how’s your mom doing? I talked to her right after we got back from Boston. She sounded a little… lost.”
 
 “Shit!”
 
@@ -1502,9 +1493,8 @@ They made their spectacle and flew into the emergent evening.
 
 
 
-II.  ARIOSO   |   The Tuning
+9.2   The Tuning
 
-[Andante tranquillo]
 
 They played until nearly midnight. David’s cello found harmonies in Celeste’s modified Pythagorean tuning that breathed differently, intervals that created spaces rather than filling them. The music felt like conversation rather than mathematics.
 
@@ -1521,9 +1511,8 @@ But by 10 a.m., with yesterday’s failed equations staring at him from the blac
 
 
 
-III.  Recitativum   |  The Office
+9.3  The Office
 
-[Accelerando]
 
 The triptych blackboard unfurled like a private altarpiece. But this time felt different. The desperate midnight scrawl, the unending scratch and gnaw to find something, make something work before daybreak, it had all given way to a palpable sense of ignoble absolutism. The diagram emerged stroke by stroke, each symbol placed with inevitable certainty.
 
@@ -1544,9 +1533,8 @@ By 2:28 p.m. he was knocking on Ishikawa’s door with the confidence of a man c
 
 
 
-IV.  TURBA  |   The Guillotine
+9.4   The Guillotine
 
-[Grave e implacabile]
 
 “David, take a seat, please.” Rune Ishikawa didn’t look up immediately. On his screen:
 
@@ -1623,9 +1611,8 @@ By the time Rune finished the two-minute call, Professor Lang was three building
 
 
 
-V.  Via Dolorosa   |   Into the Storm
+9.5   Into the Storm
 
-[Tempestoso e violento]
 
 The November wind encircled him as he stepped from the physics building. Sleet drove horizontally across the quad, erasing footpaths and landmarks with the same indifference Rune had shown his equations.
 
@@ -1646,15 +1633,14 @@ At the pedestrian underpass, the atmosphere shifted. Too far down the ramp to tu
 
 
 
-VI.  Crucifixio   |   It takes a Beating
+9.6  It takes a Beating
 
-[Furioso e crudo]
 
 “Hand it over,” said the first, consonants lightly fried. “Wallet. Phone. Now.”
 
 He tried to parse their vectors: distance, mass, coordination. His own weight, badly distributed across a left knee injured years ago, felt insufficient.
 
-They didn’t bother with escalation. The first blow caught his cheekbone—electric pain, slashing his world into silence. The cello case wrenched from his grip, bounced against a drainage gutter, the impact vibrating up the handle into the webbing between thumb and forefinger. He stumbled, raised his arms, caught a second punch along the collarbone. The world collapsed into fragments: the metallic tang of blood; the grunt of the second assailant rifling his backpack; the wet chill of pavement abrading his trousers.
+They didn’t bother with escalation. The first blow caught his cheekbone. Electric pain slashed his world into silence. The cello case wrenched from his grip, bounced against a drainage gutter, the impact vibrating up the handle into the webbing between thumb and forefinger. He stumbled, raised his arms, caught a second punch along the collarbone. The world collapsed into fragments: the metallic tang of blood; the grunt of the second assailant rifling his backpack; the wet chill of pavement abrading his trousers.
 
 “Stop moving,” said the first, inches away, breath of acetone and wet tobacco.
 
@@ -1666,7 +1652,7 @@ The first bent over the cello case, ran his fingers along the handle with contem
 
 “No pawn shop’s gonna take this,” he muttered, flinging the case down. “Fucking waste.”
 
-David lay there, stunned and humiliated. Outnumbered, out-muscled—reduced to bone and bruise by men who wanted only what could be carried off.
+David lay there, stunned and humiliated. Outnumbered, out-muscled, reduced to bone and bruise by men who wanted only what could be carried off.
 
 But it wasn’t them he hated most. It was himself.
 
@@ -1685,9 +1671,8 @@ He let his eyelids drift shut and waited for the next movement.
 
 
 
-VII.  Depositio / Sepultura   |  Up From the Depths
+9.7  You Can Hear It, Yes?
 
-[Grave maestoso]
 
 There is a dissonance to pain: sharpness and blur at once, time collapsing into staccato intervals and adagio decay. David catalogued these harmonics from the cold pavement, pulse flickering in and out of meter, consciousness repurposed as a faulty metronome. At some point the rain receded into mist, or his nerves stopped registering its percussion. His left cheekbone had swollen; blood congealed at his nostril tasted of rust and paper cuts.
 
@@ -1778,7 +1763,7 @@ David sat a long moment, tuning fork cradled in his hand. The sleet had softened
 
 The patterns behind his eyelids persisted, coalescing into a geometry he could almost name.
 
-He waited a minute, two—time still diminished by shock and blood loss. When he tried to stand, one knee buckled, sending a current up the femur. He braced against damp brick and lifted himself inch by inch.
+He waited a minute, two, time still diminished by shock and blood loss. When he tried to stand, one knee buckled, sending a current up the femur. He braced against damp brick and lifted himself inch by inch.
 
 He stood unsteadily, handkerchief pressed to his face, the other hand clamped around the tuning fork. Its presence was undeniable: singing at an inaudible frequency, a vibration living in bone rather than ear. He rotated it, thumb tracing bevels. Notches decorated its base, fine as a cipher.
 

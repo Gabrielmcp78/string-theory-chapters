@@ -4,43 +4,20 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 11
 Title:           The Symmetry of Violence
-Subtitle:        a fantasia on Bach's Sarabande in four movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,532
-Paragraph Count: 107
+Word Count:      3,513
+Paragraph Count: 102
 Scene Count:     4
 
-Scene 1: I.  The SARABANDE  --  Words 22–701  |  Paragraphs 5–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
-Scene 2: II. The Grid  --  Words 702–1,348  |  Paragraphs 19–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
-Scene 3: III.  Invitations of ill  --  Words 1,349–2,005  |  Paragraphs 33–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
-Scene 4: IV.  The Reckoning  --  Words 2,006–3,532  |  Paragraphs 47–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
+Scene 1: 18.1  The SARABANDE  --  Words 14–692  |  Paragraphs 4–16  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
+Scene 2: 18.2  The Grid  --  Words 693–1,337  |  Paragraphs 17–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
+Scene 3: 18.3  Invitations of ill  --  Words 1,338–1,991  |  Paragraphs 30–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
+Scene 4: 18.4  The Reckoning  --  Words 1,992–3,513  |  Paragraphs 43–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-a fantasia on Bach's Sarabande in four movements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Johann Sebastian Bach
 
@@ -51,9 +28,8 @@ Johann Sebastian Bach
 
 
 
-I.  The SARABANDE
+18.1  The SARABANDE
 
-[Largo]
 
 The opening chord settled into the room with harmonic gravity, an open fifth so stark and unadorned that the space around it seemed to deepen. David’s eyes closed, obeying the pull of that interval. The Sarabande stood and breathed, and inside its hollow architecture he found space, the kind of space denied him for years.
 
@@ -82,9 +58,8 @@ David drew the bow and felt the note bloom fully before it began to fall, fillin
 
 
 
-II. The Grid
+18.2  The Grid
 
-[Presto meccanico]
 
 Three blocks west, the substation that feeds the university district and the nearby homes groaned under a pressure no engineer had foreseen when the transformers were rated forty years ago. A tidal wave of solar particles, expelled from the corona and driven ninety three million miles in seventeen hours, slammed into the conductive body of the modern world.
 
@@ -113,9 +88,8 @@ Whatever came next had already begun beneath the cello’s body pressed against 
 
 
 
-III.  Invitations of ill
+18.3  Invitations of ill
 
-[Agitato con abbandono]
 
 David gripped the bow, his fist clenched tight around the frog as if it were a weapon, and wrenched it across the strings. He did not bother to find a note, to settle his fingers on any particular spot along the fingerboard. His left hand was a fist, his wrist collapsed, his vibrato, if it could even be called that, was a frantic, compulsive tremor born of tension rather than expression. He did not care if the horsehair scraped or bit into the gut, if the resulting crunch was pure scratch tone, or if his bow arm abandoned all pretense of a controlled stroke. He knew only that whatever still lingered inside him had to get out. Now.
 
@@ -145,9 +119,8 @@ His world tumbled out of the heavens.
 
 
 
-IV.  The Reckoning
+18.4  The Reckoning
 
-[Fortissimo subito - Poi morendo]
 
 It was, indeed, an unfortunate hour to be speaking of coherence.
 

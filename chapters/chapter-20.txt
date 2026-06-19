@@ -7,17 +7,17 @@ Title:           For All
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,020
-Paragraph Count: 239
+Word Count:      2,997
+Paragraph Count: 232
 Scene Count:     7
 
-Scene 1: I.  Resonance  --  Words 4–394  |  Paragraphs 3–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html
-Scene 2: II.  Wander and Wonder  --  Words 395–769  |  Paragraphs 31–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-02.html
-Scene 3: III.  Inside  --  Words 770–1,100  |  Paragraphs 65–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-03.html
-Scene 4: IV.  Discovery  --  Words 1,101–1,503  |  Paragraphs 96–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-04.html
-Scene 5: V.  Reason  --  Words 1,504–2,051  |  Paragraphs 120–156  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-05.html
-Scene 6: VI.  Completion  --  Words 2,052–2,828  |  Paragraphs 157–220  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-06.html
-Scene 7: VII.  For All  --  Words 2,829–3,020  |  Paragraphs 221–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-07.html
+Scene 1: 27.1  Resonance  --  Words 4–390  |  Paragraphs 3–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html
+Scene 2: 27.2  Wander and Wonder  --  Words 391–762  |  Paragraphs 30–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-02.html
+Scene 3: 27.3  Inside  --  Words 763–1,091  |  Paragraphs 63–92  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-03.html
+Scene 4: 27.4  Discovery  --  Words 1,092–1,492  |  Paragraphs 93–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-04.html
+Scene 5: 27.5  Reason  --  Words 1,493–2,037  |  Paragraphs 116–151  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-05.html
+Scene 6: 27.6  Completion  --  Words 2,038–2,807  |  Paragraphs 152–214  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-06.html
+Scene 7: 27.7  For All  --  Words 2,808–2,997  |  Paragraphs 215–232  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -49,9 +49,8 @@ For All
 
 
 
-I.  Resonance
+27.1  Resonance
 
-[Andante tranquillo (con memoria)]
 
 The air over East Hill is bright and new.
 
@@ -108,9 +107,8 @@ He stands slowly… and begins to walk again.
 
 
 
-II.  Wander and Wonder
+27.2  Wander and Wonder
 
-[Andante con gratitudine]
 
 So many things look different. New buildings. Taller trees.
 
@@ -179,9 +177,8 @@ And the old man moves to enter the now ancient sanctuary.
 
 
 
-III.  Inside
+27.3  Inside
 
-[Largo sacro]
 
 The massive doors stand like sentinels at guard.
 
@@ -244,9 +241,8 @@ Only the quiet weight of having been here before.
 
 
 
-IV.  Discovery
+27.4  Discovery
 
-[Adagio rivelatorio]
 
 He pauses for a moment.
 
@@ -295,9 +291,8 @@ Then the light shifts again, and the chapel fills with silence so dense it seems
 
 
 
-V.  Reason
+27.5  Reason
 
-[Lento con lacrime]
 
 He leans back, fingertip resting on the new carving.
 
@@ -372,9 +367,8 @@ He whispers, not to the priest but to the air.
 
 
 
-VI.  Completion
+27.6  Completion
 
-[Andante - Poi luminoso - Poi morendo]
 
 Slowly, his vision clears, and he begins to read.
 
@@ -504,9 +498,8 @@ Then turns to close the door.
 
 
 
-VII.  For All
+27.7  For All
 
-[Largo eterno]
 
 As the latch catches, a new sound rises from the catacombs beneath.
 

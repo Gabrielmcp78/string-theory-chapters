@@ -7,13 +7,13 @@ Title:           The Enduring Legacy
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,543
-Paragraph Count: 70
+Word Count:      2,535
+Paragraph Count: 67
 Scene Count:     3
 
-Scene 1: I.  The Effect  --  Words 5–1,018  |  Paragraphs 3–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html
-Scene 2: II.  The Impact  --  Words 1,019–1,640  |  Paragraphs 28–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
-Scene 3: III.  The Reason  --  Words 1,641–2,543  |  Paragraphs 39–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
+Scene 1: 26.1  The Effect  --  Words 5–1,014  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html
+Scene 2: 26.2  The Impact  --  Words 1,015–1,634  |  Paragraphs 27–36  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
+Scene 3: 26.3  The Reason  --  Words 1,635–2,535  |  Paragraphs 37–67  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -45,9 +45,8 @@ The Enduring Legacy
 
 
 
-I.  The Effect
+26.1  The Effect
 
-[Andante giocoso ma preciso]
 
 The playroom knows light the way a mother knows crying—which pitch means hunger, which means hurt, which means nothing at all except the body testing its own weather. Glass and algorithm conspire to soften the morning, breaking it into bands a child can read: here gold, there indigo, each one a word in a language the room speaks against his skin. The tatami gives slightly underfoot. The surfaces hold him the way a cupped palm holds water—not warm, exactly, but shaped to keep him from spilling.
 
@@ -98,9 +97,8 @@ Behind them, in the now-empty playroom, the table holds the memory of the spiral
 
 
 
-II.  The Impact
+26.2  The Impact
 
-[Allegro diffuso]
 
 At first the effect is local: a ripple through one house, then a block, then a city. But once seeded, the phenomenon propagates like the viral cascades of the early digital age—only instead of outrage and cat memes, what spreads is the possibility of new structure, method, meaning.
 
@@ -126,9 +124,8 @@ And so, on this new Earth, there are no monuments to honor, no manifestos to ext
 
 
 
-III.  The Reason
+26.3  The Reason
 
-[Largo sognante]
 
 The house always stays one step ahead. By the time the boy retraces his path from the kitchen—mouth still tingling from a pop of orange zest— the playroom has re‑optimized its air, recalibrated its thermal gradient, purged the lingering scent of coriander.
 

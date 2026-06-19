@@ -4,38 +4,33 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 4
 Title:           Exercises in Humanity
-Subtitle:        a suite for quartet, with walking interstitials
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,977
-Paragraph Count: 448
+Word Count:      9,934
+Paragraph Count: 435
 Scene Count:     14
 
-Scene 1: The House on the Hill  --  Words 1–889  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
-Scene 2: II.  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 890–1,337  |  Paragraphs 47–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
-Scene 3: III. The Assessment  --  Words 1,338–2,217  |  Paragraphs 73–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
-Scene 4: IV.  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,218–2,338  |  Paragraphs 104–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
-Scene 5: V.  THE CHAPEL REHEARSAL  --  Words 2,339–3,764  |  Paragraphs 108–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
-Scene 6: VI.  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,765–4,823  |  Paragraphs 154–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
-Scene 7: VII.  THE CAFÉ  --  Words 4,824–5,637  |  Paragraphs 212–248  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
-Scene 8: VIII.  walk  D - Part 1    |    For Celeste and David  --  Words 5,638–6,004  |  Paragraphs 249–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
-Scene 9: IX. The bench  --  Words 6,005–7,254  |  Paragraphs 269–325  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
-Scene 10: X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,255–7,525  |  Paragraphs 326–333  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
-Scene 11: XI.  The house on the hill (return)  --  Words 7,526–8,268  |  Paragraphs 334–371  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
-Scene 12: XII.  The draft  --  Words 8,269–9,080  |  Paragraphs 372–413  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
-Scene 13: XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 9,081–9,404  |  Paragraphs 414–428  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
-Scene 14: XIV.  10 Minutes, Maybe Twelve  --  Words 9,405–9,977  |  Paragraphs 429–448  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
+Scene 1: 10.1  The House on the Hill  --  Words 1–890  |  Paragraphs 1–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: 10.2  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 891–1,334  |  Paragraphs 47–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 3: 10.3  The Assessment  --  Words 1,335–2,212  |  Paragraphs 72–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html
+Scene 4: 10.4  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,213–2,330  |  Paragraphs 102–104  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html
+Scene 5: 10.5  THE CHAPEL REHEARSAL  --  Words 2,331–3,751  |  Paragraphs 105–149  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html
+Scene 6: 11.1  Walk C     |    for David, Roger, towel, and crowbar  --  Words 3,752–4,805  |  Paragraphs 150–206  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html
+Scene 7: 11.2  THE CAFÉ  --  Words 4,806–5,615  |  Paragraphs 207–242  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html
+Scene 8: 11.2  walk  D - Part 1    |    For Celeste and David  --  Words 5,616–5,979  |  Paragraphs 243–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html
+Scene 9: 11.3  The bench  --  Words 5,980–7,226  |  Paragraphs 262–317  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html
+Scene 10: 11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 7,227–7,495  |  Paragraphs 318–324  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html
+Scene 11: 11.5  The house on the hill (return)  --  Words 7,496–8,236  |  Paragraphs 325–361  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html
+Scene 12: 11.6  The draft  --  Words 8,237–9,046  |  Paragraphs 362–402  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html
+Scene 13: 11.7  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 9,047–9,366  |  Paragraphs 403–416  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html
+Scene 14: 11.8  10 Minutes, Maybe Twelve  --  Words 9,367–9,934  |  Paragraphs 417–435  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-
-
-
-
-The House on the Hill
+10.1  The House on the Hill
 
 [Largo con irritazione crescente]
 
@@ -130,9 +125,8 @@ Burnt. Same as yesterday. Gritty. Same as last Saturday. Same as every morning s
 
 
 
-II.  Walk  A   |   for Roger, coffee, scone, and Mom
+10.2  Walk  A   |   for Roger, coffee, scone, and Mom
 
-[Andante sostenuto con cura]
 
 “Linn?” the perky barista called out. “Two large coffees with room, for Linn?”
 
@@ -184,9 +178,8 @@ The door stood ajar.
 
 
 
-III. The Assessment
+10.3  The Assessment
 
-[Adagio misurato]
 
 The apartment creaked in the morning’s pale exposure. Shadows stiffened across manuscript pages—fossilized strata of coffee rings and half-erased lemmas. Nothing moved to greet the light; instead, the faint stutter of breath worked against a ribcage grown stiff with bruise.
 
@@ -249,9 +242,8 @@ They left together, Linn pausing only to ensure the door locked behind them.
 
 
 
-IV.  Walk   B   |   for David, Roger and Easy Hill incline
+10.4  Walk   B   |   for David, Roger and Easy Hill incline
 
-[Andante, con adattamento]
 
 The walk to the chapel followed their usual route, ten years of Saturday mornings compressed into muscle memory. Linn’s stride shortened to match David’s careful pace. Neither acknowledged the adjustment. The constant incline of University Hill invigorated David, almost revitalizing him. He wasn’t surprised by this, as the built-in psychological adrenaline rush to climbing East Hill was a leveraged investment in the wonder of constant downhill walking upon his return. Roger thought to comment on that very idea, but squashed it, concerned that naming the phenomenon might collapse its function or effect or whatever it’s called.
 
@@ -260,9 +252,8 @@ Though what did he know, he was just a music professor.
 
 
 
-V.  THE CHAPEL REHEARSAL
+10.5  THE CHAPEL REHEARSAL
 
-[Andante religioso ma con sospensione]
 
 The chapel’s arches gathered sound like a patient lung, holding each note in suspension before releasing it, changed, into the violet light that fell through stained glass in slow, viscous fractals.
 
@@ -355,9 +346,8 @@ She glanced at Linn. He gave a near-imperceptible nod. The rehearsal was over. T
 
 
 
-VI.  Walk C     |    for David, Roger, towel, and crowbar
+11.1  Walk C     |    for David, Roger, towel, and crowbar
 
-[Andante semplice, con sollievo improvviso]
 
 They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, wrapped tight at the ribs, did not reward conversation.
 
@@ -474,9 +464,8 @@ David jumped into better posture and, with a deadpan face and straight arms, slo
 
 
 
-VII.  THE CAFÉ
+11.2  THE CAFÉ
 
-[Andante tranquillo, rubato naturale]
 
 Afternoon thinned across the café windows, laying amber strips over the stone floor. Chairs held their half-slouched guests like phrases waiting for resolution. Celeste had claimed a corner table, two cups already steaming on its surface when the two men decided it was best not to keep he waiting any longer.
 
@@ -551,9 +540,8 @@ She stood first, gathering her bag. David rose more slowly, the elastic wrap rem
 
 
 
-VIII.  walk  D - Part 1    |    For Celeste and David
+11.2  walk  D - Part 1    |    For Celeste and David
 
-[Moderato, con attrito]
 
 Outside, the afternoon had begun its slide toward evening. The walk wasn’t long, less than ten minutes on a good day, fifteen at the pace David’s body now required. Celeste matched his stride without comment, the way Linn had that morning. But where Linn’s accommodation had been fraternal, hers carried different weight.
 
@@ -594,9 +582,8 @@ High on the hill, two of their own students sat on the bench, oblivious to the c
 
 
 
-IX. The bench
+11.3  The bench
 
-[Adagio con tensione]
 
 “I’m just saying,” Roman said, smoke leaking from both corners of his mouth, “if the multiverse is real, then somewhere I’m already sober. Perfectly sober. That’s just quantum balance, babe.”
 
@@ -711,9 +698,8 @@ A thin breeze rose, picking at the hem of her coat. She stepped forward, closer 
 
 
 
-X.  WALK D - part 2   |   For Celeste, David, bridge, and porch light
+11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light
 
-[Andante semplice]
 
 They descended from the quad in silence, Celeste matching David’s careful pace without comment. The evening had begun its slow compression of light: amber fading to violet, shadows pooling in doorways and beneath the skeletal branches overhead.
 
@@ -730,9 +716,8 @@ He couldn’t read her. She knew he couldn’t read her. When she moved again to
 
 
 
-XI.  The house on the hill (return)
+11.5  The house on the hill (return)
 
-[Largo domestico]
 
 She led him up the remaining steps, across the porch where a swing moved slightly in the evening breeze, and opened the door.
 
@@ -809,9 +794,8 @@ He chose closer.
 
 
 
-XII.  The draft
+11.6  The draft
 
-[Adagio concentrato]
 
 David woke to the disorientation of an unfamiliar ceiling, then remembered. The house. The bed. The tuning fork was a cool weight against his sternum, tucked beneath his shirt.
 
@@ -896,9 +880,8 @@ She smiled, just a small, genuine gesture, and opened the door.
 
 
 
-XIII.  Walk  E   |   for David, Celeste, notebook, and boundaries
+11.7  Walk  E   |   for David, Celeste, notebook, and boundaries
 
-Adagio conclusivo, senza risoluzione
 
 The walk to his apartment was quiet. The night was clear, the air sharp. At his building, she stopped.
 
@@ -929,9 +912,8 @@ For now, it was more than enough.
 
 
 
-XIV.  10 Minutes, Maybe Twelve
+11.8  10 Minutes, Maybe Twelve
 
-[Vivace ironico - Lento sospirato]
 
 Celeste was not, under any circumstances, going to give him the satisfaction of looking back as she walked away.
 
@@ -968,19 +950,6 @@ She gathered the tools, returning everything to its proper place, and as she put
 —Click!
 
 And just like that, the electric kettle… clicked… off!
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

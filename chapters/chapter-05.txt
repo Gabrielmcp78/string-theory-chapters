@@ -4,55 +4,27 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 5
 Title:           Twin Primes on the six
-Subtitle:        a fantasia quasi sonata
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,475
-Paragraph Count: 226
+Word Count:      6,444
+Paragraph Count: 217
 Scene Count:     7
 
-Scene 1: I.  Falsifiable Fame  --  Words 16–806  |  Paragraphs 3–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
-Scene 2: II.  Dream Lecture  --  Words 807–1,829  |  Paragraphs 27–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
-Scene 3: III.  Groundbreaking  --  Words 1,830–2,948  |  Paragraphs 44–78  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
-Scene 4: IV.  Everything he was not  --  Words 2,949–3,796  |  Paragraphs 79–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
-Scene 5: v.  Friendly forensics  --  Words 3,797–4,324  |  Paragraphs 100–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
-Scene 6: VI.  Ishikawa’s Island  --  Words 4,325–6,184  |  Paragraphs 118–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
-Scene 7: VII. The Thickening  --  Words 6,185–6,475  |  Paragraphs 214–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
+Scene 1: 12.1  Falsifiable Fame  --  Words 1–789  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
+Scene 2: 12.2  Dream Lecture  --  Words 790–1,807  |  Paragraphs 24–39  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
+Scene 3: 12.3  Groundbreaking  --  Words 1,808–2,924  |  Paragraphs 40–73  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
+Scene 4: 12.4  Everything he was not  --  Words 2,925–3,770  |  Paragraphs 74–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
+Scene 5: 12.5  Friendly forensics  --  Words 3,771–4,296  |  Paragraphs 94–110  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html
+Scene 6: 12.6  Ishikawa’s Island  --  Words 4,297–6,154  |  Paragraphs 111–205  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html
+Scene 7: 12.7  The Thickening  --  Words 6,155–6,444  |  Paragraphs 206–217  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-a fantasia quasi sonata
 
+12.1  Falsifiable Fame
 
-for scientific journal, lecture hall, colleague sync, and high back booth
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I.  Falsifiable Fame
-
-[Moderato inquieto]
 
 The notifications found him in the shallow waters of sleep, a school of electric minnows nibbling at the edge of consciousness. David surfaced slowly, the ache in his ribs a dull compass orienting him to the reality of his own body in the dim apartment. His phone, face-up on the nightstand, pulsed with a persistent, arrhythmic light that seemed to bleed into the room’s pre-dawn grey.
 
@@ -102,9 +74,8 @@ The hum deepened, vibrating up through the soles of his feet. It was no longer j
 
 
 
-II.  Dream Lecture
+12.2  Dream Lecture
 
-[Andante sostenuto - Andante luminoso]
 
 The walk to campus was conducted under a dome of sound. The 68.48 Hz frequency had woven itself into the fabric of the morning, a pressure that vibrated behind his eyes and made the autumn leaves tremble on their branches with a sympathy that felt unnatural. It was in the grind of the city bus’s engine, the distant whine of construction equipment, the very hum of the power lines overhead. The world had become a resonator for a single, insistent note.
 
@@ -139,9 +110,8 @@ David stood at the podium, his skin buzzing, his mind eerily quiet. The triumph 
 
 
 
-III.  Groundbreaking
+12.3  Groundbreaking
 
-[Allegretto meccanico]
 
 The bubble of focused energy from the lecture hall popped the moment he stepped into the corridor. The din of student chatter returned to normal frequencies, but the aftermath of his performance left a wake of awkwardness. Before he could retreat to his office, they descended upon him, the very colleagues whose presence had been so unnerving.
 
@@ -214,9 +184,8 @@ Mia, now amongst the very last of his core students still hanging on, had witnes
 
 
 
-IV.  Everything he was not
+12.4  Everything he was not
 
-[Andante cantabile]
 
 The dissonant symphony of his own day made the harmony of Celeste’s lecture hall feel like stepping into a sacred space. David slipped into the back of the room as she was mid-sentence, her voice a clear, carrying instrument that needed no amplification. She stood before a grand staff projected on the screen, one hand resting on the piano behind her, the other tracing patterns in the air.
 
@@ -259,9 +228,8 @@ In her bedroom, the light was soft. Her fingers, which had traced equations on a
 
 
 
-v.  Friendly forensics
+12.5  Friendly forensics
 
-[Moderato secco]
 
 The campus bar was a cave of polished dark wood and perpetual twilight. Roger Linn was already there, nestled in a high-backed booth, a half-finished pint of stout on the table. He raised the glass in a slow, deliberate salute as David approached. The gesture lacked enthusiasm.
 
@@ -302,9 +270,8 @@ Later, at the house on the hill, the comfort of the previous night felt oddly di
 
 
 
-VI.  Ishikawa’s Island
+12.6  Ishikawa’s Island
 
-[Grave controllato]
 
 The only light in Rune Ishikawa’s office came from the green‑shaded lamp on his desk, a small island of order in the encroaching night. As he sat, he removed from his pocket a note from his secretary marked: CONFIDENTIAL EYES ONLY ISHIKAWA. He unfolded the slip, laying it flat upon the desk in front of him. It simply read:
 
@@ -328,7 +295,7 @@ Rune kept his silence. Let him say it all.
 
 Kline’s breathing hitched. “The physics building network hub has been broadcasting a steady 68.48 Hz. signal for over eighteen hours. It’s not just noise—it’s rewriting packet structures. Recursive behavior. The main library’s cooling fans have locked into harmonic resonance. They’re singing, Rune. I mean literally. The harmonic sequence matches the cello note described by—by over a dozen students in Lang’s lecture.”
 
-Rune closed his eyes—not from fatigue, but for focus. His mind began constructing the shape of the breach.
+Rune closed his eyes. His mind began constructing the shape of the breach.
 
 “Manifestations  Julian,” rune assured him, “Thats all.”
 
@@ -354,7 +321,7 @@ Rune didn’t flinch, but something inside him stilled.
 
 Rune looked around his office, the lamplight casting old edges into long shadows. “What do you want from me, Julian?”
 
-“I want you to admit you see it. Like last time. Like the signs were there then too. Because this isn’t isolated. It’s the same pattern—same harmonics, same mathematical drift toward phase‑lock. And now it’s not just data. It’s behavior.”
+“I want you to admit you see it. Like last time. Like the signs were there then too. Because this isn’t isolated. It’s the same pattern, same harmonics, same mathematical drift toward phase‑lock. And now it’s not just data. It’s behavior.”
 
 Rune let the silence do its work. Across the line, Kline’s breathing trembled with the weight of what he wasn’t saying.
 
@@ -368,9 +335,9 @@ A dangerous beat, then Kline said, quieter, “They said you’ve been tracking 
 
 Rune exhaled. “In my possession. Secure. Not relevant to the present vector.”
 
-Kline let out a sound—not quite a laugh, not quite a breath.
+Kline let out a sound, not quite a laugh, not quite a breath.
 
-“You know, when I first sent you his work—twenty years ago—I thought I was being responsible. Undergraduate with an unsettling grasp of harmonics, odd affect, questions that didn’t land right. I figured you’d glance at it, tell me I was being dramatic, and that would be the end of it.”
+“You know, when I first sent you his work twenty years ago, I thought I was being responsible. Undergraduate with an unsettling grasp of harmonics, odd affect, questions that didn’t land right. I figured you’d glance at it, tell me I was being dramatic, and that would be the end of it.”
 
 “You were being dramatic,” Rune said.
 
@@ -386,7 +353,7 @@ A beat passed.
 
 “This isn’t archaeology,” Rune said.
 
-“I know. Which is why I’m saying—I’m not Indiana Jones.”
+“I know. Which is why I’m saying I’m not Indiana Jones.”
 
 “No.”
 
@@ -499,9 +466,8 @@ And the world was already mid‑air.
 
 
 
-VII. The Thickening
+12.7  The Thickening
 
-[Morendo]
 
 The air in David’s apartment had thickened into something he moved through rather than breathed. The 68.48 Hz frequency was no longer a sound but a medium: resistant, filling, present in his lungs with every breath.
 

@@ -7,19 +7,18 @@ Title:           Resonance
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,049
-Paragraph Count: 42
+Word Count:      1,046
+Paragraph Count: 41
 Scene Count:     1
 
-Scene 1: I.  The After Math  --  Words 1–1,049  |  Paragraphs 1–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
+Scene 1: 19.1  The After Math  --  Words 1–1,046  |  Paragraphs 1–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  The After Math
+19.1  The After Math
 
-[Veloce, frammentato, crescente]
 
 In Reykjavík, in a kitchen lit by a single candle and the blue glow of a phone held too close to the face, a woman watched the buffering circle spin and spin and then—finally—resolve into a room she did not recognize. Outside her window, the aurora had come down like a green veil, close enough to make her feel briefly as if the sky had weight. Her husband said something from the next room about the generator, about the freezer thawing. She hushed him without meaning to—couldn’t help it, really. She was listening, and she could not explain why the sound of a bow on a string felt like instruction.
 
@@ -117,6 +116,21 @@ The modern world did what it always did when it did not understand: it shared th
 Stories gathered around it at once. Some were hopeful. Some were sharp. Some were built to sell. Some were built to wound.
 
 And beneath the sharing—beneath the arguments and the warnings and the captions—the sound continued.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

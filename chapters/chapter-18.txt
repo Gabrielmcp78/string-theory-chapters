@@ -12,14 +12,14 @@ Word Count:      2,303
 Paragraph Count: 115
 Scene Count:     2
 
-Scene 1: I.  The Letters  --  Words 1–1,026  |  Paragraphs 1–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
-Scene 2: II.   Tonal Activation  --  Words 1,027–2,303  |  Paragraphs 30–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
+Scene 1: 25.1  The Letters  --  Words 1–1,026  |  Paragraphs 1–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
+Scene 2: 25.2   Tonal Activation  --  Words 1,027–2,303  |  Paragraphs 30–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  The Letters
+25.1  The Letters
 
 
 In the marble-floored lobby of MIT, a department head was mid-sentence about departmental funding when a porter in neat slacks quietly placed an ornate, gilt-edged envelope on a service trolley beside him. The porter moved on without a word. The head stopped, his conversation dying in his throat. His eyes were caught by the embossed seal: the treble clef and infinity. He picked it up, tracing the symbol with his thumb. With precise fingers, he broke the red wax seal. He unfolded the heavy parchment, the heading crisp and formal: “From the Office of Charles P. Vermasian, Esquire.” He stepped aside, his eyes scanning the contents, his face a mask of hushed surprise. A small cluster of faculty, sensing the weight of the moment, began to gather.
@@ -84,7 +84,7 @@ In the quiet mailroom of a global think tank, staff in matching polo shirts sort
 
 
 
-II.   Tonal Activation
+25.2   Tonal Activation
 
 
 The Resonance Auditorium curved like a wooden amphitheater around the central dais. Cellists in black and physicists in lab coats exchanged nods over program booklets embossed with the infinity symbol.

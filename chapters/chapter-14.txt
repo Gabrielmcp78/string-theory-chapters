@@ -7,19 +7,19 @@ Title:           Ratios of One
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,510
+Word Count:      1,507
 Paragraph Count: 48
 Scene Count:     1
 
-Scene 1: I.  The Apartment			   November 30th, 2026  --  Words 1–1,510  |  Paragraphs 1–48  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 1: 21.1  The Apartment			        November 30th, 2026  --  Words 1–1,507  |  Paragraphs 1–48  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  The Apartment     November 30th, 2026
+21.1  The Apartment          November 30th, 2026
 
-[Largo senza tempo        3:48 am EST]
+[3:48 am EST]
 
 There is a fundamental frequency beneath everything. Beneath language. Beneath light.
 
@@ -112,6 +112,18 @@ Then, from somewhere beyond the thinning dark, a voice reached him.
 Soft. Certain.
 
 “Love you too, my son.”
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

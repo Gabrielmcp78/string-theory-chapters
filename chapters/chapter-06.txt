@@ -4,50 +4,25 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 6
 Title:           Visions and Burdens… of Knowing
-Subtitle:        a symphony in five movements
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,226
-Paragraph Count: 233
+Word Count:      6,201
+Paragraph Count: 227
 Scene Count:     5
 
-Scene 1: I.  Overture: The Monochord   |   Pythagoras  --  Words 8–927  |  Paragraphs 2–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: II. Andante: the salon | Émilie du Châtelet  --  Words 928–1,722  |  Paragraphs 36–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: III.  Scherzo: The Purge  |  --  Words 1,723–3,509  |  Paragraphs 66–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni  --  Words 3,510–4,885  |  Paragraphs 145–193  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: V.  Finale:  minimums  |  Isaac  Newton  --  Words 4,886–6,226  |  Paragraphs 194–233  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 1: 13.1  The Monochord   |   Pythagoras  --  Words 1–917  |  Paragraphs 1–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: 13.2  the salon | Émilie du Châtelet  --  Words 918–1,706  |  Paragraphs 34–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 13.3   The Purge  |  --  Words 1,707–3,490  |  Paragraphs 63–140  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 13.4  Resonance  |  Helmholtz/Chladni  --  Words 3,491–4,863  |  Paragraphs 141–188  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 5: 13.5  minimums  |  Isaac  Newton  --  Words 4,864–6,201  |  Paragraphs 189–227  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-[for charcoal, foolscap, Chladni plate and prism]
 
+13.1  The Monochord   |   Pythagoras
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I.  Overture: The Monochord   |   Pythagoras
-
-[Adagio misterioso]
 
 The place was a wreck. Books stood in unstable strata organized by citation frequency, because of course that was the system, while clothes from yesterday or last week carpeted the floor, the distinction no longer worth making. An espresso demitasse had gathered a crust of salts atop a treatise on superstring compactification. Laundry and entropy were running neck and neck, and both were winning.
 
@@ -118,9 +93,8 @@ Then setting the chalk to slate with unusual care, he wrote the interval. First:
 
 
 
-II. Andante: the salon | Émilie du Châtelet
+13.2  the salon | Émilie du Châtelet
 
-[Andante con grazia e logica]
 
 The chalk made a different sound.
 
@@ -181,9 +155,8 @@ For the first time, the beauty of the thing did not reassure him.
 
 
 
-III.  Scherzo: The Purge  |
+13.3   The Purge  |
 
-[Presto distruttivo]
 
 The aftertaste of the vision lingered in David’s occipital lobe. He expected hallucination, or at least the unreality of an all-nighter. Instead he got clarity, as if everything not tied to integer ratios had been erased by a silent, benevolent god.
 
@@ -345,9 +318,8 @@ He had seen, in the architecture of numbers and notes, the armature of the world
 
 
 
-Iv.  Intermezzo:  Resonance  |  Helmholtz/Chladni
+13.4  Resonance  |  Helmholtz/Chladni
 
-[Allegretto vibrante]
 
 Night entered the apartment in layers. The windows glowed with the dull sodium of streetlights, rendering every surface a spectral version of itself. David tuned his cello in the center of the living room, the instrument propped on its spike so that the maple back reflected the skyline like a warped mirror.
 
@@ -446,12 +418,8 @@ He struck it again. Harder.
 
 
 
+13.5  minimums  |  Isaac  Newton
 
-
-
-V.  Finale:  minimums  |  Isaac  Newton
-
-[Largo maestoso]
 
 The world thinned. Its edges loosened, drifting backward the way a shoreline slips away in fog, revealing more absence than land. The walls eased into distance, their retreat carrying the hush of something ancient and exhausted. No color remained except the blue-gray wash of winter light pressed through leaded glass, the faint tint a page holds in the quiet moment before ink decides its fate.
 

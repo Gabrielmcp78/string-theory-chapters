@@ -7,23 +7,22 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,822
-Paragraph Count: 168
+Word Count:      3,806
+Paragraph Count: 163
 Scene Count:     5
 
-Scene 1: I.  Street Smarts   |   November 28, 2026  --  Words 1–617  |  Paragraphs 1–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: II. Wander, Wonder and Wait  --  Words 618–1,082  |  Paragraphs 27–49  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: III. Sundays  --  Words 1,083–1,562  |  Paragraphs 50–86  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: IV.  A Preference for Precision  --  Words 1,563–2,090  |  Paragraphs 87–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V.  The Conduction  --  Words 2,091–3,822  |  Paragraphs 103–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 1: 17.1  Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: 17.2 Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: 17.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 48–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: 17.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 84–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: 17.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 99–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  Street Smarts   |   November 28, 2026
+17.1  Street Smarts   |   November 28, 2026
 
-[Allegretto irreale]
 
 The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there.
 
@@ -77,9 +76,8 @@ He bent, picked it up, and straightened. When his eyes returned to the middle di
 
 
 
-II. Wander, Wonder and Wait
+17.2 Wander, Wonder and Wait
 
-[Andante sospeso]
 
 David stepped off the curb and into the middle of the intersection. He stood there, untroubled by oncoming traffic, as though the road had relinquished its claim on him. The standard power line buzz was still there: 60 Hz as always. Above it, clearer now, a precise overtone threaded the silence.
 
@@ -126,9 +124,8 @@ Jesus Christ. Make a choice. Solar storm or horror film? Settle, Lang.
 
 
 
-III. Sundays
+17.3  Sundays
 
-[Adagio cantabile]
 
 David looked at his phone. Five missed calls from his mother. There had been none moments ago.
 
@@ -203,9 +200,8 @@ The line clicked quiet. He remained there anyway, phone balanced in his palm, sc
 
 
 
-IV.  A Preference for Precision
+17.4  A Preference for Precision
 
-[Largo - Crescendo]
 
 And then the detail that should have vanished did not vanish.
 
@@ -238,9 +234,8 @@ If it be now…
 
 
 
-V.  The Conduction
+17.5  The Conduction
 
-[Presto - Poi adagio - Poi ripresa]
 
 Every experiment has an origin, a point where it must begin. David felt the weight of that point like a hand on his shoulder. He had finished every equation. Laid out every instrument. The storm was rising beyond the walls, whether he moved or stayed. If he lingered, the work would turn to hesitation, and hesitation would turn to decay. There was no further refinement left to hide inside.
 
@@ -345,8 +340,6 @@ On the other side was a single piece of music: Bach’s Cello Suite No. 1, Sarab
 It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. Thirty two measures that looked almost austere in their simplicity and yet required, from anyone foolish enough to underestimate them, an honesty nearly impossible to give.
 
 Beneath the music, in his father’s beautifully measured hand, was a note.
-
-
 
 
 David,

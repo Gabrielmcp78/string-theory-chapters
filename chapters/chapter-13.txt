@@ -7,23 +7,23 @@ Title:           Phenom de Guare
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,695
+Word Count:      5,704
 Paragraph Count: 282
 Scene Count:     7
 
-Scene 1: I.  THE NETWORK 				             	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
-Scene 2: II.  THE CALL  --  Words 461–1,422  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
-Scene 3: III.  THE DISCOVERY  --  Words 1,423–2,155  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: IV.  Around The Horn  --  Words 2,156–3,685  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: V.  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,686–4,435  |  Paragraphs 179–220  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: VI.  TEMPORALity  --  Words 4,436–4,821  |  Paragraphs 221–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: VII.  CANTUS  --  Words 4,822–5,695  |  Paragraphs 244–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 1: 20.1  THE NETWORK 			 	November 29, 2026  --  Words 1–460  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
+Scene 2: 20.2   THE CALL  --  Words 461–1,422  |  Paragraphs 21–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: 20.3   THE DISCOVERY  --  Words 1,423–2,162  |  Paragraphs 66–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: 20.4  Around The Horn  --  Words 2,163–3,694  |  Paragraphs 98–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: 20.5  THE WEIGHT OF NAMES 			     September 1971  --  Words 3,695–4,444  |  Paragraphs 179–220  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: 20.6  TEMPORALity  --  Words 4,445–4,830  |  Paragraphs 221–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 20.7  CANTUS  --  Words 4,831–5,704  |  Paragraphs 244–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-I.  THE NETWORK                  November 29, 2026
+20.1  THE NETWORK      November 29, 2026
 
 [UCLA Keck Observatory  |   9:48 A.M. Pacific]
 
@@ -68,7 +68,7 @@ McGrath pulled up the newly unscrambled GPS coordinates and waited for the searc
 
 
 
-II.  THE CALL
+20.2   THE CALL
 
 [Cornell Physics Department   |   11:47 A.M. Eastern]
 
@@ -163,7 +163,7 @@ He slammed the phone down and sprinted for the door.
 
 
 
-III.  THE DISCOVERY
+20.3   THE DISCOVERY
 
 [Cornell Physics Building—David’s Lecture Hall]
 
@@ -189,13 +189,13 @@ Ring. Ring. Ring.
 
 Rune moved to pick up the handset on the desk when he saw her.
 
-It was Celeste—standing before the massive boards in a sort of trance; unmoved, unreachable it seemed; completely overtaken by the sight before her.
+It was Celeste, standing before the massive boards in a sort of trance; unmoved, unreachable it seemed; completely overtaken by the sight before her.
 
 “Celeste?” he uttered, not wanting to frighten her.
 
 Nothing. He moved slowly closer to her and, reaching out his hand to touch her shoulder, whispered her name once more. “Celeste?”
 
-Still no reply, but her stare forward seemed to beckon him to look—really look. He could not help but square his body and gaze forward to match Celeste’s focus. Suddenly everything she was entranced by seemed to extend its power over him as well. The sight, now fully seen, flooded over him, stopping him dead in his tracks as his brain struggled to process—or even believe—what was before him.
+Still no reply, but her stare forward seemed to beckon him to look, really look. He could not help but square his body and gaze forward to match Celeste’s focus. Suddenly everything she was entranced by seemed to extend its power over him as well. The sight, now fully seen, flooded over him, stopping him dead in his tracks as his brain struggled to process—or even believe—what was before him.
 
 Every surface David had worked on pulsed with gentle radiance. Klein–Gordon operators flowering into glissandi of sixteenth notes, Ricci tensors dissolving into harmonic progressions, the complete unified field equations cascading across chalkboards in David’s precise handwriting. It all seemed somehow spring-loaded—coiled—ready to fly off the wall at any moment.
 
@@ -203,11 +203,11 @@ Ring. Ring. Ring. Ring…
 
 The fourth couplet snapped Rune back. He lunged at the phone and snatched up the receiver.
 
-“Marcus? Yes, I… I’m here, Marcus. I can hear you. I’m in David’s classroom… well, I don’t believe what I’m—everything he was working on seems to have been set aglow and I quite literally… well, Marcus, if it wasn’t right in front of me, I’d never believe it.”
+“Marcus? Yes, I… I’m here, Marcus. I can hear you. I’m in David’s classroom… well, I don’t believe what I’m seeing. Everything he was working on seems to have been set aglow and I quite literally… well, Marcus, if it wasn’t right in front of me, I’d never believe it.”
 
 Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out of her trance. Her head jerked toward Rune and the handset he held to his ear.
 
-“Marcus? Dr.—did you say Marcus McGrath?”
+“Marcus? Dr., did you say Marcus McGrath?”
 
 “Yes, dear. Marcus McGrath is on the line. From UCLA.”
 
@@ -215,9 +215,9 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 “Celeste! Of course. Thank God you’re there. Celeste, where’s Da—”
 
-“Marcus…” Tears streamed down her face as she looked around the space. “Oh God, Marcus, you have to see this. It’s everywhere. The same equations from the recording, but they’re—they’re alive.”
+“Marcus…” Tears streamed down her face as she looked around the space. “Oh God, Marcus, you have to see this. It’s everywhere. The same equations from the recording, but they’re, they’re alive.”
 
-“Marcus, it’s Rune. I’m looking at a room covered in glowing mathematics. The same theories I called ‘crazy’ just days ago—they’re all here. Everything he was working on.”
+“Marcus, it’s Rune. I’m looking at a room covered in glowing mathematics. The same theories I called ‘crazy’ just days ago, they’re all here. Everything he was working on.”
 
 “The equations are moving,” Celeste reported, watching symbols shift and complete themselves. “And there’s something else, Marcus. They seem to be entwining with… treble clefs and arpeggios and…”
 
@@ -230,7 +230,7 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 
 
-IV.  Around The Horn
+20.4  Around The Horn
 
 [Geneva, CERN Control Room   |   5:48 P.M. CET]
 
@@ -238,7 +238,7 @@ The Large Hadron Collider had been dark since the pulse. Officially, the beams w
 
 And yet ATLAS wouldn’t stop talking.
 
-Lines of data poured into Dr. Mira Kovács’s terminal, a steady stream of readouts as though the collider were still smashing protons. Her colleagues had long since staggered home—or were stuck in traffic on Geneva’s crippled grid—but Kovács stayed, pacing the empty control room, eyes locked on the impossible flow of numbers.
+Lines of data poured into Dr. Mira Kovács’s terminal, a steady stream of readouts as though the collider were still smashing protons. Her colleagues had long since staggered home, or were stuck in traffic on Geneva’s crippled grid, but Kovács stayed, pacing the empty control room, eyes locked on the impossible flow of numbers.
 
 “Residual noise,” she muttered in Hungarian. “Ghost currents.” Even as she said it, the excuse dissolved. The “noise” wasn’t random.
 
@@ -394,7 +394,7 @@ And for the first time since the flares struck Earth, the world’s greatest min
 
 
 
-V.  THE WEIGHT OF NAMES        September 1971
+20.5  THE WEIGHT OF NAMES        September 1971
 
 [Three days after the ARGO incident]
 
@@ -486,7 +486,7 @@ ISHIKAWA
 
 
 
-VI.  TEMPORALity
+20.6  TEMPORALity
 
 [Present Day]
 
@@ -536,7 +536,7 @@ Laughter trickled in, forced at first, but needed. Everyone knew that much. Unti
 
 
 
-VII.  CANTUS
+20.7  CANTUS
 
 
 McGrath paused, needing an assurance from his people that the temporal drift had indeed stabilized, then leaned toward the mic. The leaning was slower than time. He was searching, in this moment, reaching toward something to say, anything that might stand a chance at being enough. He knew the look of what was coming, and owed them yet another grim, clear glimpse into the future.
