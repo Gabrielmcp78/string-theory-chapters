@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-07-07",
-  "total_words": 107010,
+  "total_words": 106963,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -10,141 +10,13 @@
       "slug": "overture",
       "label": "Overture",
       "title": "Opus No. 46 in D minor   “Of Life”",
-      "subtitle": "a string quartet in four movements",
-      "word_count": 327,
-      "paragraph_count": 30,
+      "subtitle": "I.   Allegro sostenuto",
+      "word_count": 12322,
+      "paragraph_count": 460,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt",
       "scenes": []
-    },
-    {
-      "num": 1,
-      "slug": "chapter-01",
-      "label": "Chapter 1",
-      "title": "T",
-      "subtitle": "",
-      "word_count": 5382,
-      "paragraph_count": 244,
-      "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "T",
-          "word_start": 1,
-          "word_end": 1,
-          "para_start": 1,
-          "para_end": 1,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "HE IVY LEAGUE",
-          "word_start": 2,
-          "word_end": 5382,
-          "para_start": 2,
-          "para_end": 244,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
-        }
-      ]
-    },
-    {
-      "num": 2,
-      "slug": "chapter-02",
-      "label": "Chapter 2",
-      "title": "T",
-      "subtitle": "",
-      "word_count": 2219,
-      "paragraph_count": 60,
-      "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "T",
-          "word_start": 1,
-          "word_end": 1,
-          "para_start": 1,
-          "para_end": 1,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "HE Office",
-          "word_start": 2,
-          "word_end": 2219,
-          "para_start": 2,
-          "para_end": 60,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html"
-        }
-      ]
-    },
-    {
-      "num": 3,
-      "slug": "chapter-03",
-      "label": "Chapter 3",
-      "title": "T",
-      "subtitle": "I.   Allegro sostenuto",
-      "word_count": 3219,
-      "paragraph_count": 109,
-      "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "T",
-          "word_start": 1,
-          "word_end": 1,
-          "para_start": 1,
-          "para_end": 1,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "HE REHEARSAL HALL",
-          "word_start": 2,
-          "word_end": 3219,
-          "para_start": 2,
-          "para_end": 109,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html"
-        }
-      ]
-    },
-    {
-      "num": 4,
-      "slug": "chapter-04",
-      "label": "Chapter 4",
-      "title": "The Edge of Discovery",
-      "subtitle": "an epistemic fugue in four voices",
-      "word_count": 1222,
-      "paragraph_count": 33,
-      "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "T",
-          "word_start": 1,
-          "word_end": 1,
-          "para_start": 1,
-          "para_end": 1,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "HE APARTMENT",
-          "word_start": 2,
-          "word_end": 1222,
-          "para_start": 2,
-          "para_end": 33,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html"
-        }
-      ]
     },
     {
       "num": 5,
