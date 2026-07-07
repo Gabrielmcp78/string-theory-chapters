@@ -3,26 +3,18 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 3
-Title:           T
+Title:           THE REHEARSAL HALL
 Subtitle:        I.   Allegro sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,219
-Paragraph Count: 109
-Scene Count:     2
+Word Count:      3,215
+Paragraph Count: 107
+Scene Count:     0
 
-Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
-Scene 2: HE REHEARSAL HALL  --  Words 2–3,219  |  Paragraphs 2–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-T
-
-
-HE REHEARSAL HALL
 
 [Largo maestoso]
 

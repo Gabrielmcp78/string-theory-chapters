@@ -3,27 +3,17 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 2
-Title:           T
+Title:           The Office
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,219
-Paragraph Count: 60
-Scene Count:     2
+Word Count:      2,212
+Paragraph Count: 57
+Scene Count:     0
 
-Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: HE Office  --  Words 2–2,219  |  Paragraphs 2–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-T
-
-
-HE Office
-
-[Moderato, ma non troppo]
 
 David’s office sat two buildings and a partial crossing of the arts quad from the main cluster of physics buildings, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could reach it through the unending mid-century administrative hallways, but long ago, in all weather, he had made a habit of taking the scenic route instead, if only to avoid the corridor haunted by the nearly emeritus tenure set and the half-muttered conversational ordeals they imposed.
 

@@ -3,7 +3,7 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 4
-Title:           The Edge of Discovery
+Title:           THE APARTMENT
 Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
@@ -15,7 +15,6 @@ Scene Count:     0
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
 
 [Adagio, con malinconia]
 
