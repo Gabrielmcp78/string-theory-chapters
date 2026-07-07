@@ -3,7 +3,7 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 2
-Title:           2
+Title:           T
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
@@ -11,17 +11,17 @@ Word Count:      2,219
 Paragraph Count: 60
 Scene Count:     2
 
-Scene 1: 2  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
-Scene 2: THE Office  --  Words 2–2,219  |  Paragraphs 2–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
+Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
+Scene 2: HE Office  --  Words 2–2,219  |  Paragraphs 2–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-2
+T
 
 
-THE Office
+HE Office
 
 [Moderato, ma non troppo]
 

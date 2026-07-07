@@ -22,7 +22,7 @@
       "num": 1,
       "slug": "chapter-01",
       "label": "Chapter 1",
-      "title": "1",
+      "title": "T",
       "subtitle": "",
       "word_count": 5382,
       "paragraph_count": 244,
@@ -32,7 +32,7 @@
       "scenes": [
         {
           "n": 1,
-          "heading": "1",
+          "heading": "T",
           "word_start": 1,
           "word_end": 1,
           "para_start": 1,
@@ -41,7 +41,7 @@
         },
         {
           "n": 2,
-          "heading": "THE IVY LEAGUE",
+          "heading": "HE IVY LEAGUE",
           "word_start": 2,
           "word_end": 5382,
           "para_start": 2,
@@ -54,7 +54,7 @@
       "num": 2,
       "slug": "chapter-02",
       "label": "Chapter 2",
-      "title": "2",
+      "title": "T",
       "subtitle": "",
       "word_count": 2219,
       "paragraph_count": 60,
@@ -64,7 +64,7 @@
       "scenes": [
         {
           "n": 1,
-          "heading": "2",
+          "heading": "T",
           "word_start": 1,
           "word_end": 1,
           "para_start": 1,
@@ -73,7 +73,7 @@
         },
         {
           "n": 2,
-          "heading": "THE Office",
+          "heading": "HE Office",
           "word_start": 2,
           "word_end": 2219,
           "para_start": 2,
@@ -86,7 +86,7 @@
       "num": 3,
       "slug": "chapter-03",
       "label": "Chapter 3",
-      "title": "3",
+      "title": "T",
       "subtitle": "I.   Allegro sostenuto",
       "word_count": 3219,
       "paragraph_count": 109,
@@ -96,7 +96,7 @@
       "scenes": [
         {
           "n": 1,
-          "heading": "3",
+          "heading": "T",
           "word_start": 1,
           "word_end": 1,
           "para_start": 1,
@@ -105,7 +105,7 @@
         },
         {
           "n": 2,
-          "heading": "THE REHEARSAL HALL",
+          "heading": "HE REHEARSAL HALL",
           "word_start": 2,
           "word_end": 3219,
           "para_start": 2,
@@ -128,7 +128,7 @@
       "scenes": [
         {
           "n": 1,
-          "heading": "4",
+          "heading": "T",
           "word_start": 1,
           "word_end": 1,
           "para_start": 1,
@@ -137,7 +137,7 @@
         },
         {
           "n": 2,
-          "heading": "THE APARTMENT",
+          "heading": "HE APARTMENT",
           "word_start": 2,
           "word_end": 1222,
           "para_start": 2,
@@ -614,16 +614,16 @@
       ]
     },
     {
-      "num": 6,
-      "slug": "chapter-06",
-      "label": "Chapter 6",
+      "num": 13,
+      "slug": "chapter-13",
+      "label": "Chapter 13",
       "title": "Visions and Burdens… of Knowing",
       "subtitle": "",
       "word_count": 6201,
       "paragraph_count": 227,
       "scene_count": 5,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.txt",
       "scenes": [
         {
           "n": 1,
@@ -632,7 +632,7 @@
           "word_end": 917,
           "para_start": 1,
           "para_end": 33,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html"
         },
         {
           "n": 2,
@@ -641,7 +641,7 @@
           "word_end": 1706,
           "para_start": 34,
           "para_end": 62,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html"
         },
         {
           "n": 3,
@@ -650,7 +650,7 @@
           "word_end": 3490,
           "para_start": 63,
           "para_end": 140,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html"
         },
         {
           "n": 4,
@@ -659,7 +659,7 @@
           "word_end": 4863,
           "para_start": 141,
           "para_end": 188,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html"
         },
         {
           "n": 5,
@@ -668,21 +668,21 @@
           "word_end": 6201,
           "para_start": 189,
           "para_end": 227,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html"
         }
       ]
     },
     {
-      "num": 7,
-      "slug": "chapter-07",
-      "label": "Chapter 7",
+      "num": 14,
+      "slug": "chapter-14",
+      "label": "Chapter 14",
       "title": "The Solar Maximus Connection",
       "subtitle": "",
       "word_count": 8088,
       "paragraph_count": 214,
       "scene_count": 4,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.txt",
       "scenes": [
         {
           "n": 1,
@@ -691,7 +691,7 @@
           "word_end": 900,
           "para_start": 1,
           "para_end": 22,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html"
         },
         {
           "n": 2,
@@ -700,7 +700,7 @@
           "word_end": 1976,
           "para_start": 23,
           "para_end": 24,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html"
         },
         {
           "n": 3,
@@ -709,7 +709,7 @@
           "word_end": 2770,
           "para_start": 25,
           "para_end": 37,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html"
         },
         {
           "n": 4,
@@ -718,21 +718,21 @@
           "word_end": 8088,
           "para_start": 38,
           "para_end": 214,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html"
         }
       ]
     },
     {
-      "num": 8,
-      "slug": "chapter-08",
-      "label": "Chapter 8",
+      "num": 15,
+      "slug": "chapter-15",
+      "label": "Chapter 15",
       "title": "Skepticism and Ridicule",
       "subtitle": "",
       "word_count": 6634,
       "paragraph_count": 186,
       "scene_count": 8,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
       "scenes": [
         {
           "n": 1,
@@ -741,7 +741,7 @@
           "word_end": 1102,
           "para_start": 1,
           "para_end": 21,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html"
         },
         {
           "n": 2,
@@ -750,7 +750,7 @@
           "word_end": 1955,
           "para_start": 22,
           "para_end": 40,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html"
         },
         {
           "n": 3,
@@ -759,7 +759,7 @@
           "word_end": 3034,
           "para_start": 41,
           "para_end": 72,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html"
         },
         {
           "n": 4,
@@ -768,7 +768,7 @@
           "word_end": 3823,
           "para_start": 73,
           "para_end": 91,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html"
         },
         {
           "n": 5,
@@ -777,7 +777,7 @@
           "word_end": 5251,
           "para_start": 92,
           "para_end": 148,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html"
         },
         {
           "n": 6,
@@ -786,7 +786,7 @@
           "word_end": 5563,
           "para_start": 149,
           "para_end": 157,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-06.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-06.html"
         },
         {
           "n": 7,
@@ -795,7 +795,7 @@
           "word_end": 6166,
           "para_start": 158,
           "para_end": 171,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-07.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-07.html"
         },
         {
           "n": 8,
@@ -804,21 +804,21 @@
           "word_end": 6634,
           "para_start": 172,
           "para_end": 186,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-08.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-08.html"
         }
       ]
     },
     {
-      "num": 9,
-      "slug": "chapter-09",
-      "label": "Chapter 9",
+      "num": 16,
+      "slug": "chapter-16",
+      "label": "Chapter 16",
       "title": "To Ground",
       "subtitle": "Spatio-Symbolic Drift in Recursive Harmonic Environments",
       "word_count": 5471,
       "paragraph_count": 311,
       "scene_count": 6,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.txt",
       "scenes": [
         {
           "n": 1,
@@ -827,7 +827,7 @@
           "word_end": 3170,
           "para_start": 1,
           "para_end": 216,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html"
         },
         {
           "n": 2,
@@ -836,7 +836,7 @@
           "word_end": 4142,
           "para_start": 217,
           "para_end": 255,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html"
         },
         {
           "n": 3,
@@ -845,7 +845,7 @@
           "word_end": 4358,
           "para_start": 256,
           "para_end": 262,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html"
         },
         {
           "n": 4,
@@ -854,7 +854,7 @@
           "word_end": 4463,
           "para_start": 263,
           "para_end": 266,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html"
         },
         {
           "n": 5,
@@ -863,7 +863,7 @@
           "word_end": 4741,
           "para_start": 267,
           "para_end": 278,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html"
         },
         {
           "n": 6,
@@ -872,21 +872,21 @@
           "word_end": 5471,
           "para_start": 279,
           "para_end": 311,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html"
         }
       ]
     },
     {
-      "num": 10,
-      "slug": "chapter-10",
-      "label": "Chapter 10",
+      "num": 17,
+      "slug": "chapter-17",
+      "label": "Chapter 17",
       "title": "Fractional Currency",
       "subtitle": "",
       "word_count": 3806,
       "paragraph_count": 163,
       "scene_count": 5,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt",
       "scenes": [
         {
           "n": 1,
@@ -895,7 +895,7 @@
           "word_end": 615,
           "para_start": 1,
           "para_end": 25,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html"
         },
         {
           "n": 2,
@@ -904,7 +904,7 @@
           "word_end": 1078,
           "para_start": 26,
           "para_end": 47,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html"
         },
         {
           "n": 3,
@@ -913,7 +913,7 @@
           "word_end": 1556,
           "para_start": 48,
           "para_end": 83,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html"
         },
         {
           "n": 4,
@@ -922,7 +922,7 @@
           "word_end": 2081,
           "para_start": 84,
           "para_end": 98,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html"
         },
         {
           "n": 5,
@@ -931,21 +931,21 @@
           "word_end": 3806,
           "para_start": 99,
           "para_end": 163,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html"
         }
       ]
     },
     {
-      "num": 11,
-      "slug": "chapter-11",
-      "label": "Chapter 11",
+      "num": 18,
+      "slug": "chapter-18",
+      "label": "Chapter 18",
       "title": "The Symmetry of Violence",
       "subtitle": "",
       "word_count": 3513,
       "paragraph_count": 102,
       "scene_count": 4,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.txt",
       "scenes": [
         {
           "n": 1,
@@ -954,7 +954,7 @@
           "word_end": 692,
           "para_start": 4,
           "para_end": 16,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html"
         },
         {
           "n": 2,
@@ -963,7 +963,7 @@
           "word_end": 1337,
           "para_start": 17,
           "para_end": 29,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html"
         },
         {
           "n": 3,
@@ -972,7 +972,7 @@
           "word_end": 1991,
           "para_start": 30,
           "para_end": 42,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html"
         },
         {
           "n": 4,
@@ -981,21 +981,21 @@
           "word_end": 3513,
           "para_start": 43,
           "para_end": 102,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html"
         }
       ]
     },
     {
-      "num": 12,
-      "slug": "chapter-12",
-      "label": "Chapter 12",
+      "num": 19,
+      "slug": "chapter-19",
+      "label": "Chapter 19",
       "title": "Resonance",
       "subtitle": "",
       "word_count": 1046,
       "paragraph_count": 41,
       "scene_count": 1,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.txt",
       "scenes": [
         {
           "n": 1,
@@ -1004,21 +1004,21 @@
           "word_end": 1046,
           "para_start": 1,
           "para_end": 41,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html"
         }
       ]
     },
     {
-      "num": 13,
-      "slug": "chapter-13",
-      "label": "Chapter 13",
+      "num": 20,
+      "slug": "chapter-20",
+      "label": "Chapter 20",
       "title": "Phenom de Guare",
       "subtitle": "",
       "word_count": 5704,
       "paragraph_count": 282,
       "scene_count": 7,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20.txt",
       "scenes": [
         {
           "n": 1,
@@ -1027,7 +1027,7 @@
           "word_end": 460,
           "para_start": 1,
           "para_end": 20,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html"
         },
         {
           "n": 2,
@@ -1036,7 +1036,7 @@
           "word_end": 1422,
           "para_start": 21,
           "para_end": 65,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-02.html"
         },
         {
           "n": 3,
@@ -1045,7 +1045,7 @@
           "word_end": 2162,
           "para_start": 66,
           "para_end": 97,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-03.html"
         },
         {
           "n": 4,
@@ -1054,7 +1054,7 @@
           "word_end": 3694,
           "para_start": 98,
           "para_end": 178,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-04.html"
         },
         {
           "n": 5,
@@ -1063,7 +1063,7 @@
           "word_end": 4444,
           "para_start": 179,
           "para_end": 220,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-05.html"
         },
         {
           "n": 6,
@@ -1072,7 +1072,7 @@
           "word_end": 4830,
           "para_start": 221,
           "para_end": 243,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-06.html"
         },
         {
           "n": 7,
@@ -1081,21 +1081,21 @@
           "word_end": 5704,
           "para_start": 244,
           "para_end": 282,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-07.html"
         }
       ]
     },
     {
-      "num": 14,
-      "slug": "chapter-14",
-      "label": "Chapter 14",
+      "num": 21,
+      "slug": "chapter-21",
+      "label": "Chapter 21",
       "title": "Ratios of One",
       "subtitle": "",
       "word_count": 1507,
       "paragraph_count": 48,
       "scene_count": 1,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21.txt",
       "scenes": [
         {
           "n": 1,
@@ -1104,21 +1104,21 @@
           "word_end": 1507,
           "para_start": 1,
           "para_end": 48,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html"
         }
       ]
     },
     {
-      "num": 15,
-      "slug": "chapter-15",
-      "label": "Chapter 15",
+      "num": 22,
+      "slug": "chapter-22",
+      "label": "Chapter 22",
       "title": "The Pivotal Encounter",
       "subtitle": "",
       "word_count": 3157,
       "paragraph_count": 100,
       "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22.txt",
       "scenes": [
         {
           "n": 1,
@@ -1127,7 +1127,7 @@
           "word_end": 592,
           "para_start": 1,
           "para_end": 17,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-01.html"
         },
         {
           "n": 2,
@@ -1136,21 +1136,21 @@
           "word_end": 3157,
           "para_start": 18,
           "para_end": 100,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-02.html"
         }
       ]
     },
     {
-      "num": 16,
-      "slug": "chapter-16",
-      "label": "Chapter 16",
+      "num": 23,
+      "slug": "chapter-23",
+      "label": "Chapter 23",
       "title": "The Final Decision",
       "subtitle": "",
       "word_count": 6584,
       "paragraph_count": 206,
       "scene_count": 4,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23.txt",
       "scenes": [
         {
           "n": 1,
@@ -1159,7 +1159,7 @@
           "word_end": 1299,
           "para_start": 1,
           "para_end": 44,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html"
         },
         {
           "n": 2,
@@ -1168,7 +1168,7 @@
           "word_end": 2252,
           "para_start": 45,
           "para_end": 58,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html"
         },
         {
           "n": 3,
@@ -1177,7 +1177,7 @@
           "word_end": 5964,
           "para_start": 59,
           "para_end": 196,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-03.html"
         },
         {
           "n": 4,
@@ -1186,21 +1186,21 @@
           "word_end": 6584,
           "para_start": 197,
           "para_end": 206,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-04.html"
         }
       ]
     },
     {
-      "num": 17,
-      "slug": "chapter-17",
-      "label": "Chapter 17",
+      "num": 24,
+      "slug": "chapter-24",
+      "label": "Chapter 24",
       "title": "Endless Possibilities",
       "subtitle": "Collapsed Reality",
       "word_count": 3439,
       "paragraph_count": 149,
       "scene_count": 4,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24.txt",
       "scenes": [
         {
           "n": 1,
@@ -1209,7 +1209,7 @@
           "word_end": 148,
           "para_start": 1,
           "para_end": 6,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-01.html"
         },
         {
           "n": 2,
@@ -1218,7 +1218,7 @@
           "word_end": 1327,
           "para_start": 7,
           "para_end": 53,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-02.html"
         },
         {
           "n": 3,
@@ -1227,7 +1227,7 @@
           "word_end": 2625,
           "para_start": 54,
           "para_end": 131,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-03.html"
         },
         {
           "n": 4,
@@ -1236,21 +1236,21 @@
           "word_end": 3439,
           "para_start": 132,
           "para_end": 149,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-04.html"
         }
       ]
     },
     {
-      "num": 18,
-      "slug": "chapter-18",
-      "label": "Chapter 18",
+      "num": 25,
+      "slug": "chapter-25",
+      "label": "Chapter 25",
       "title": "Reverberation",
       "subtitle": "TONAL   ACTIVATION",
       "word_count": 2303,
       "paragraph_count": 115,
       "scene_count": 2,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25.txt",
       "scenes": [
         {
           "n": 1,
@@ -1259,7 +1259,7 @@
           "word_end": 1026,
           "para_start": 1,
           "para_end": 29,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-01.html"
         },
         {
           "n": 2,
@@ -1268,21 +1268,21 @@
           "word_end": 2303,
           "para_start": 30,
           "para_end": 115,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-02.html"
         }
       ]
     },
     {
-      "num": 19,
-      "slug": "chapter-19",
-      "label": "Chapter 19",
+      "num": 26,
+      "slug": "chapter-26",
+      "label": "Chapter 26",
       "title": "The Enduring Legacy",
       "subtitle": "",
       "word_count": 2535,
       "paragraph_count": 67,
       "scene_count": 3,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26.txt",
       "scenes": [
         {
           "n": 1,
@@ -1291,7 +1291,7 @@
           "word_end": 1014,
           "para_start": 3,
           "para_end": 26,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html"
         },
         {
           "n": 2,
@@ -1300,7 +1300,7 @@
           "word_end": 1634,
           "para_start": 27,
           "para_end": 36,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html"
         },
         {
           "n": 3,
@@ -1309,21 +1309,21 @@
           "word_end": 2535,
           "para_start": 37,
           "para_end": 67,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html"
         }
       ]
     },
     {
-      "num": 20,
-      "slug": "chapter-20",
-      "label": "Chapter 20",
+      "num": 27,
+      "slug": "chapter-27",
+      "label": "Chapter 27",
       "title": "For All",
       "subtitle": "",
       "word_count": 2997,
       "paragraph_count": 232,
       "scene_count": 7,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.txt",
       "scenes": [
         {
           "n": 1,
@@ -1332,7 +1332,7 @@
           "word_end": 390,
           "para_start": 3,
           "para_end": 29,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-01.html"
         },
         {
           "n": 2,
@@ -1341,7 +1341,7 @@
           "word_end": 762,
           "para_start": 30,
           "para_end": 62,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-02.html"
         },
         {
           "n": 3,
@@ -1350,7 +1350,7 @@
           "word_end": 1091,
           "para_start": 63,
           "para_end": 92,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-03.html"
         },
         {
           "n": 4,
@@ -1359,7 +1359,7 @@
           "word_end": 1492,
           "para_start": 93,
           "para_end": 115,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-04.html"
         },
         {
           "n": 5,
@@ -1368,7 +1368,7 @@
           "word_end": 2037,
           "para_start": 116,
           "para_end": 151,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-05.html"
         },
         {
           "n": 6,
@@ -1377,7 +1377,7 @@
           "word_end": 2807,
           "para_start": 152,
           "para_end": 214,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-06.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-06.html"
         },
         {
           "n": 7,
@@ -1386,7 +1386,7 @@
           "word_end": 2997,
           "para_start": 215,
           "para_end": 232,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-07.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-07.html"
         }
       ]
     }

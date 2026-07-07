@@ -12,17 +12,17 @@ Word Count:      1,222
 Paragraph Count: 33
 Scene Count:     2
 
-Scene 1: 4  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
-Scene 2: THE APARTMENT  --  Words 2–1,222  |  Paragraphs 2–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
+Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
+Scene 2: HE APARTMENT  --  Words 2–1,222  |  Paragraphs 2–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-4
+T
 
 
-THE APARTMENT
+HE APARTMENT
 
 [Adagio, con malinconia]
 

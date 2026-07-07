@@ -3,7 +3,7 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 1
-Title:           1
+Title:           T
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
@@ -11,17 +11,17 @@ Word Count:      5,382
 Paragraph Count: 244
 Scene Count:     2
 
-Scene 1: 1  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
-Scene 2: THE IVY LEAGUE  --  Words 2–5,382  |  Paragraphs 2–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
+Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html
+Scene 2: HE IVY LEAGUE  --  Words 2–5,382  |  Paragraphs 2–244  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-1
+T
 
 
-THE IVY LEAGUE
+HE IVY LEAGUE
 
 [Andante sostenuto—Presto agitato]
 
