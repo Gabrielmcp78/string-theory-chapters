@@ -7,21 +7,17 @@ Title:           STRETTO
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,971
-Paragraph Count: 100
+Word Count:      1,970
+Paragraph Count: 99
 Scene Count:     4
 
-Scene 1: 8.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 2–565  |  Paragraphs 2–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
-Scene 2: 8.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 566–1,337  |  Paragraphs 26–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
-Scene 3: 8.3 THE CORRIDOR  --  Words 1,338–1,854  |  Paragraphs 76–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
-Scene 4: 8.4   RECOGNITION  --  Words 1,855–1,971  |  Paragraphs 96–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
+Scene 1: 8.1   DISSOLUTION   |   Cornell - Ithaca, NY 	      Present Day  --  Words 1–564  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
+Scene 2: 8.2 THE CLASSROOM | Cornell 			       Ithaca, NY  --  Words 565–1,336  |  Paragraphs 25–74  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html
+Scene 3: 8.3 THE CORRIDOR  --  Words 1,337–1,853  |  Paragraphs 75–94  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html
+Scene 4: 8.4   RECOGNITION  --  Words 1,854–1,970  |  Paragraphs 95–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-STRETTO
-
-
 
 
 8.1   DISSOLUTION   |   Cornell - Ithaca, NY         Present Day
@@ -237,6 +233,11 @@ And it occurred to him that, perhaps, he had always been tuning towards this. He
 What if the call never sought response? What if he was not the answer? Might he then become the aperture, the way through, and now, even the vessel?
 
 A moment of involuntary shiver overtook him, though he wasn’t the least bit cold. He looked at his watch and found that it was ninety-two seconds… it was forty-one hours… it was one minute, forty-six seconds before time.
+
+
+
+
+
 
 
 

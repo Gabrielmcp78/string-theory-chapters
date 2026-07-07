@@ -8,21 +8,14 @@ Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,222
-Paragraph Count: 33
-Scene Count:     2
+Word Count:      1,219
+Paragraph Count: 31
+Scene Count:     0
 
-Scene 1: T  --  Words 1–1  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
-Scene 2: HE APARTMENT  --  Words 2–1,222  |  Paragraphs 2–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-
-T
-
-
-HE APARTMENT
 
 [Adagio, con malinconia]
 
