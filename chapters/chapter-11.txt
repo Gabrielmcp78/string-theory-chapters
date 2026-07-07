@@ -3,277 +3,632 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 11
-Title:           The Symmetry of Violence
+Title:           Humanities
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,513
-Paragraph Count: 102
-Scene Count:     4
+Word Count:      6,183
+Paragraph Count: 286
+Scene Count:     9
 
-Scene 1: 18.1  The SARABANDE  --  Words 14–692  |  Paragraphs 4–16  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
-Scene 2: 18.2  The Grid  --  Words 693–1,337  |  Paragraphs 17–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
-Scene 3: 18.3  Invitations of ill  --  Words 1,338–1,991  |  Paragraphs 30–42  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
-Scene 4: 18.4  The Reckoning  --  Words 1,992–3,513  |  Paragraphs 43–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
+Scene 1: 11.1  Walk C     |    for David, Roger, towel, and crowbar  --  Words 1–1,054  |  Paragraphs 1–57  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
+Scene 2: 11.2  THE CAFÉ  --  Words 1,055–1,864  |  Paragraphs 58–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
+Scene 3: 11.2  walk  D - Part 1    |    For Celeste and David  --  Words 1,865–2,228  |  Paragraphs 94–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
+Scene 4: 11.3  The bench  --  Words 2,229–3,475  |  Paragraphs 113–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
+Scene 5: 11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light  --  Words 3,476–3,744  |  Paragraphs 169–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
+Scene 6: 11.5  The house on the hill (return)  --  Words 3,745–4,485  |  Paragraphs 176–212  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-06.html
+Scene 7: 11.6  The draft  --  Words 4,486–5,295  |  Paragraphs 213–253  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-07.html
+Scene 8: 11.7  Walk  E   |   for David, Celeste, notebook, and boundaries  --  Words 5,296–5,615  |  Paragraphs 254–267  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-08.html
+Scene 9: 11.8  10 Minutes, Maybe Twelve  --  Words 5,616–6,183  |  Paragraphs 268–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-Johann Sebastian Bach
 
-  Cello Suite No. 1 in G Major
+11.1  Walk C     |    for David, Roger, towel, and crowbar
 
-  BWV 1007, Sarabande
 
+They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, wrapped tight at the ribs, did not reward conversation.
 
+A few blocks in, Linn said, almost casually, “You don’t have a meeting.”
 
+It wasn’t phrased as concern. It wasn’t even phrased as a question.
 
-18.1  The SARABANDE
+David shook his head. “No.  Just needed some… buffer zone.”
 
+“Good,” Linn said, and after a beat: “We’ve got time.”
 
-The opening chord settled into the room with harmonic gravity, an open fifth so stark and unadorned that the space around it seemed to deepen. David’s eyes closed, obeying the pull of that interval. The Sarabande stood and breathed, and inside its hollow architecture he found space, the kind of space denied him for years.
+They kept going.
 
-The geometry learned at nine years old rose in his hands, steady and familiar. His father’s hand was there too, bringing with it a sense of pipe tobacco, warmth, the weight of a body that had not yet learned it could leave.
+A minute later, long enough that it shouldn’t have belonged to the same exchange, Linn made a small, involuntary sound. A laugh that escaped him before he could decide whether it was appropriate.
 
-Easy now. Let it breathe. Don’t choke it.
+David felt it tug at his ribs and stopped, one hand braced at his side, waiting for the pain to pass.
 
-The memory folded itself into the present without warning, as if the fifth itself had summoned it.
+Linn tried to swallow the laugh and failed, the attempt making it worse. He bent forward slightly, hand on his thigh, shaking his head like he couldn’t believe what had returned to him.
 
-The triple pulse moved gently under his bow. Three steps, breathe; three steps, breathe. It opened before him like a long reach of shoreline at low tide, the sea drawn back into something slower and more sovereign, a largo so deep it seemed to remain while everything else moved around it. Each phrase arrived with its own tide, advancing, withdrawing, leaving some portion of him altered in its wake. He did not chase them. He let them come, and when they did, he stepped aside. His arm moved. The music moved through him. And he watched from a place within himself he had not entered in years, before the proofs, before the grants, before he had learned that the world paid more readily for certainty than for truth.
+“Jesus,” David said, through his teeth. “What—”
 
-The phrases leaned into their suspensions with a patience that made physical demand of him. The dissonance hung unresolved in the bare interval, the perfect fifth holding emptiness and promise inside the same acoustic frame. The open strings carried their unvarnished texture, their refusal to flatter him, and he let them. Their austerity was a kind of truth, a brazen tone weaving through small stings of inevitability, possibility, prayer.
+Linn wiped at his eyes. “The locker room,” he said. “Remember? Seventh grade gym.”
 
-Something long braced inside him, some filament stretched across the hollow of his ribs, began to release itself fiber by fiber.
+David closed his eyes.
 
-In the rests between phrases, the Sarabande opened small windows of silence, forming outlines of absence. The shape of a voice that should be there. His hands knew a second part unwritten in the score, a viola line built from years of Wednesday evenings and late rehearsals. Celeste’s intervals. Now, meeting only the room’s bare patience, he played through the space where she would have replied and let it stand open. The restraint cost him something he felt in his sternum, a resonance of regret.
+“The stalls,” Linn added. “Those low ones that always got stuck.”
 
-Behind his eyelids, blue gathered. His creative brain forged a new grammar of blue. He knew that this was a new word. This was the blue of things that have always been waiting for you to stop running long enough to see them. Light shifted along the wall. The tuning fork trembled, its narrow frequency widening into a field he did not consciously notice, though his breath and heart slipped toward it, into it, as if through an unseen doorway.
+A laugh tore out of David before he could stop it. It hurt immediately; he folded forward and let it happen anyway, the sound coming in short, broken bursts that cost him breath.
 
-He played through the first phrase and felt the room widen around him. Through the second, the old machinery of hour and measure lost its authority. Through the third, the David he had built, equations on the wall, tuning fork on velvet, careful distances, loosened from its own scaffolding. What remained was the boy in the cramped studio, terrified and alive, discovering that music could say what he could not. The boy who still believed that playing was enough.
+“Yeah, but not like this. I mean… that door was done!”
 
-His mother’s voice from that morning drifted through the widening blue: He wasn’t playing for me. He was just playing.
+“Oh God, I tried everything. It was not gonna budge.”
 
-David drew the bow and felt the note bloom fully before it began to fall, filling the empty fifth with the awareness of its emptiness. His father’s hand, his grandfather’s design, his mother’s heart, all lived in the shape between notes, the hollow architecture itself. And in the density of grip and claw, in the lineage pouring through his hands into the instrument, he felt the first, tentative, unbearable stirring of peace.
+“And then I’m changing on the other side of the room. I hear this terrified, whispering, ‘Psst…Dave!’”
 
+“I remember I was trying to channel you. I thought maybe if I focused, I could get your attention without anyone else noticing.”
 
+“Oh man, did that fail. Every guy in the room was glued to that stall door, watching me try to break it down.”
 
+“Yeah, and then the worst idea in the world.”
 
-18.2  The Grid
+“Hey, it was your idea.” David started to spit giggle now. “I just did what I was told and pulled your legs when you got stuck.”
 
+The two were out of the realm of controllable now.
 
-Three blocks west, the substation that feeds the university district and the nearby homes groaned under a pressure no engineer had foreseen when the transformers were rated forty years ago. A tidal wave of solar particles, expelled from the corona and driven ninety three million miles in seventeen hours, slammed into the conductive body of the modern world.
+“You said, ‘Okay, big pull!’” Linn’s voice cracked as another round of laughter took over.
 
-Above the atmosphere, a solar band spilled across the dark.
+“And I grabbed the towel,” David said.
 
-Wires held, taut and humming, until they thinned and separated in blue white fractures that moved outward in sudden, branching vectors, and the failure, once it began, spoke to the next transformer in the language transformers understand: voltage. The next transformer listened and agreed.
+Linn covered his face. “And it was the only thing that came with you.”
 
-Inside the apartment, Bach cradled David inside the arc of each phrase, his bow traveling steadily, shoulders loose, pulse aligned to the grave tread of the dance that had forgotten how to dance and chosen instead to endure. Three hundred and three years had passed since the master completed the work. Three minutes of notes carried those centuries between the two men, each bar arriving with the authority of a hand extended through time. Bach had David entranced. Each note flowed from the same sixteen bars, from a lineage of sound and composition, from the foundations of the Western musical world. The happening of a power grid belonged to some other order of reality. He did not hear the first substation go, nor the second, nor the third. Over the next three minutes, 744 transformers throughout greater upstate New York would fail in sequence, and 196,884 such marvels of electrical engineering worldwide would be rendered useless, each collapsed node persuading the next in a widening grammar of overload, repetition, and surrender. It was order entering its own catastrophic variation, a prelude for a force still gathering beyond sight.
+They stood there, laughing like idiots, like boys, like people who once had bodies that betrayed them publicly and survived it anyway.
 
-The final descent came with the inward fold that Bach demanded. David let it settle exactly where it wished to land.
+“You went from boy in towel locked in bathroom stall… to coach standing over your legs… “
 
-Resonance accrued in the wood, in his ribs, in the air itself. As the Sarabande ended, something began to bloom, compelling David forward into open pages free of written notes. He dared not stop. He could not.
+“All ass, no towel,” Linn jumped in, “just wedged up under the door with coach right over the top of me, trying to crowbar the door open.”
 
-The vibration remaining in the strings climbed through his wrist and into his spine, spreading heat along the column of his back. His sorrow did not subside with resolution. It widened, finding architecture in what he had just played the way water finds the shape of the vessel that holds it. Years of frustration rose through his chest: failed proofs, abandoned models, the quiet humiliations he had folded into competence. Beneath all of it, underpinning all, lived the deeply entrenched buzz of the last weeks and months.
+“I mean, you were just kicking and screaming, and I was just standing there cheering you on like…”
 
-He could feel the shift in his own skin. The sweat gathering along his collarbone. The rosin dust on his fingertips growing tacky with the heat his body was producing.
+“Oh you were not. You were laughing your ass off with the rest of ‘em,” Linn protested.
 
-He was, in every real sense, exuding his own field. Heart, mind, sorrow, and the last tattered edge of sanity, braided into a single low hum.
+“You’re absolutely right,” David said. “As much of an ass hole as the next 12-year-old.” Then the name returned to David, and it took him 5 tries just to get the next word out clean between outbursts. “We… we called you Crowbar for the rest of middle school!”
 
-His grief had found its carrier.
+“You did not!” Linn protested, then burst into laughter again.
 
-The storm outside had found its mark. Frequency inscribed itself through pulse, breath, tendon, string, and resonant wood, each movement of hand and heart slipping into alignment with the rising swell of the heliosphere. The vessel had been tempered and, in playing, was being tuned. David had never thought to question the direction of the performance. Never stopped to ask which between them was instrument and which was player.
+David nodded vehemently, “Oh, we sure as hell did! God, when I told my dad about it later… full-on spit take with his favorite lager.”
 
-Whatever came next had already begun beneath the cello’s body pressed against his chest. A second pulse insisted itself there. Density turning volatile. Shame stirring into momentum. His grief was nearing a threshold, ready to break loose. All of it, the weight of his father’s death, the woman he couldn’t hold, the slow unraveling of every human thread he’d ignored, had gathered into something newly palpable.
+“Come on. You’re just making that up now.”
 
+And the two of them both fell out of funny as Arthur’s presence floated over the memory.
 
+“No. No, I swear he laughed for an hour straight. Also came up with the better nickname too. Linn-bar.”
 
+They both slammed back into another round of rolling, thunderous laughter.
 
-18.3  Invitations of ill
+Linn pulled up deadpan serious, “I just assumed that was because I’d always show up for my lessons with a couple of brews for us to share after. You know? Linn… Bar.”
 
+“Not sure he ever called you anything else the rest of his life.” David’s laughter turned into a hiss as it pulled against his ribs. He wrapped an arm tight around his side and waited for the pain to settle. It did, slowly, the way pain always does when it’s been acknowledged.
 
-David gripped the bow, his fist clenched tight around the frog as if it were a weapon, and wrenched it across the strings. He did not bother to find a note, to settle his fingers on any particular spot along the fingerboard. His left hand was a fist, his wrist collapsed, his vibrato, if it could even be called that, was a frantic, compulsive tremor born of tension rather than expression. He did not care if the horsehair scraped or bit into the gut, if the resulting crunch was pure scratch tone, or if his bow arm abandoned all pretense of a controlled stroke. He knew only that whatever still lingered inside him had to get out. Now.
+When they finally straightened, David’s breathing had changed. It was slower now, even deeper.
 
-The sound erupted as pressure given voice, a torn mass of harmonic interference dragged through the frame of the Sarabande and forced into the open. He was caught on the boundary where absence sharpens desire, a resonance of everything he could not lay claim to and everything he craved regardless, cycling through him with shattering clarity.
+Linn’s face flattened as he turned to David. “You know, your dad would’ve had a few things to say about that rehearsal today.”
 
-The notes came without plan, yet some buried intelligence still governed the damage. Pitches broke loose, collided, reformed, and drove onward, each one striking cleanly enough to leave an edge behind. His fingers found fragments of the suite and ruined them into something necessary. A turn became a cry. A suspension became a wound held open. The bow pressed forward faster, knotting phrase into phrase with a precision he had never permitted himself in life, because life had always required the disguise of measure.
+David straightened, “Yeah. Would have never let me live it down.”
 
-The instrument pressed against his chest, its body shuddering with acoustic force, the vibrations rising through spruce and maple until they seemed to divide within him, one pulse in the ribs, another deeper, each answering the other through sound.
+“Disagree. He would’ve been proud of you today. Would’ve seen his son, playing through his pain, not his skill. He’d have seen an artist, letting his instrument share in his grief. That’s what I saw.”
 
-From the ground about his feet the chalk dust stirred, drawn into minute vortices that tracked the lowest frequencies and collapsed again before he could name them.
+Silence sat sober between them for a moment. “Can’t teach that.”
 
-The bass line rose from somewhere older than intention, a harmonic ground he had denied for years but whose intervals still lived in tendon and ligature, in the musculature of forearm and inclination of wrist. Fifths shaped for him on an evening he could still taste if he allowed himself. Tuned by hands coursing through air, sculpting ratios into objects his body could inhabit rather than calculate.
+David made a quarter turn away and looked up, the way you do when there are tears to control and stupid dignity to cover for. “Wish I’d learned more from him.”
 
-Above such grounding, a voice entirely his own rose out at last into the charged air between his ribs and the wood. A cry carrying the rough texture of years of silence and self betrayal. The fierce, uneven honesty of himself laid bare, cutting clean through the stale clamor of old evasions and careful lies.
+“Yeah,” Roger smirked, “Don’t get too hard on yourself, Dave. He gave away most of his best tricks to me, anyway.”
 
-Elation and despair at once, coursed through his forearms, heat and hunger wiring through tendon and muscle. They rose beneath the skin, the horsehair biting into the string. Discovery had burned clear through failure and left behind something cleaner than ambition.
+David put his hand on Linn’s shoulder and just squeezed tightly, then nodded. “You needed all the help you could get.”
 
-Motion no longer belonged to him alone. The room altered around each stroke, corners seeming to draw nearer and then recede with the pressure changes in the air. Blue light pressed harder against his closed lids until the darkness behind them became a shifting field of indigo. Sweat traced from his temple to the hinge of his jaw as the boundary between himself and the instrument dissolved into a question that only the body, shaking, resolute, could ever answer.
+“Linn-bar,” Roger shook his head. “Can’t believe that.” He looked at his watch. “We’ve got a couple still,” Roger said.
 
-With reckless clarity, the line streamed forward, exacting and ecstatic at once, and when the last stroke burned through bow hair and string and out into the air, it refused extinction. His hands trembled. His chest heaved. Silence arrived charged, unstable, dense with what had passed through him.
+David wiped his eyes with the back of his hand. “I’m sure she’s in there already.”
 
-David lifted the bow from the string, and in that moment of intended return to stillness, a second, rogue wave of magnetic shear struck his fixed point on Earth.
+“Oh, I guarantee you she is,” Roger smirked. “Better deliver you for the interrogation.”
 
-His world tumbled out of the heavens.
+“Yeah… okay. Hey,” he paused to make sure the proper point was made. “I don’t know why the hell you put up with me all these years, but… you’re a good man, Roger. A good friend.”
 
+“Yeah. You’re kinda a shithead, but I’m loyal to a fault, so… you’re pretty much stuck with me.”
 
+“Thanks… Crowbar.”
 
+Roger shook his head, then broke the moment into a feigned, death-filtered warning.
 
+“Don’t look now, we’ve been spotted.”
 
-18.4  The Reckoning
+David jumped into better posture and, with a deadpan face and straight arms, slowly swirled ‘round to face the restaurant and a waving, wondering Celeste in the far-off corner.
 
 
-It was, indeed, an unfortunate hour to be speaking of coherence.
 
-The flash struck, a beam of photons rifting into slivers that split the sequence of now into a before and after never again to be reconciled.
 
-David was shocked into the altered present by the sequenced explosion of every transformer within five hundred miles. The blast hit as a white-out punch to the skull. His weight shifted backward, legs kicking forward, trying to counter the force.
+11.2  THE CAFÉ
 
-As gravity rewrote its grammar, the chair beneath him misread the new syntax and buckled. His flailing legs caught the cello, a cascading terror that ripped the instrument from the grip of his hand and the floor both. It rotated upright as though refusing surrender, hanging for one impossible beat in the air as pure vector, spinning like a top, rotation after rotation, before descent resumed and carried it forward, barreling toward the spiral staircase.
 
-The phone burst from its mount with a sound like a small bone breaking, screen fracturing as its case spalled from an internal surge.
+Afternoon thinned across the café windows, laying amber strips over the stone floor. Chairs held their half-slouched guests like phrases waiting for resolution. Celeste had claimed a corner table, two cups already steaming on its surface when the two men decided it was best not to keep he waiting any longer.
 
-David struck the tile. Five fingertips pried open and alive with current, the evidence of transmission written in blood across his palm.
+Linn guided David to the seat with better back support, then stepped away. “I’ll be at my office,” he said, addressing both of them. “Text if you need anything.”
 
-He lay on the tile, breath stolen, the event too vast to process. A fall? The thought was a distant absurdity, a story the body might invent to explain its own humiliation. But then his hand screamed, nerves pulsing with a current that insisted on a different scale. This was not clumsiness. This was a response. He had just been answered.
+David nodded. Linn’s hand rested briefly on David’s shoulder.  The pressure enough to register, was gone before it could become a statement. Then he left, the café door settling closed behind him with barely a sound.
 
-The sirens brought him back.
+Celeste pushed one of the cups toward David. “I ordered for you. Black, no sugar.”
 
-Gradually. First the sound, a distant braided wail threading through the walls. Then the light, gone wrong, tinged in emergency amber. David opened his eyes. The instant taste of carbonate and gypsum on his lips. The ceiling the wrong distance. The walls closer, ill formed.
+“Thanks, as long as you didn’t make it yourself.”
 
-He tried to sit. The room tilted, steadied, tilted again. Then, using the kitchen island as brace and surety, he pulled himself vertical, his knees shaking themselves into a brief and unconvincing agreement with the floor.
+She gave David a glance that stood as a pure acknowledgment of fact as she protested the insinuation with mocked indignation.
 
-Through the window, the sky pulsed in staggered orange. A city discovering how much of its life ran on sixty hertz.
+As their laughter settled, she reached out, quickly at first and then more carefully, slipping the sunglasses from David’s face and setting them on the table. He allowed it with a look cast toward the floor, as though the injuries themselves had become something to apologize for. The damage was worse without the dark lenses to conceal it: the swollen eye socket, the split above his eyebrow stitched together with butterfly bandages, the bruising that spread across his cheekbone in mottled purples and fading yellows.
 
-David processed none of this.
+“I’m only gonna ask this once. Now. Are you in trouble?”
 
-His scattered gaze fell to the floor, the center of the room, and what he found there stopped him the way brutality stops you in the dark, before comprehension, before language. His throat released a categorically unknowable sound. Shock and pain and impending, unwanted solitude made audible.
+He nodded sheepishly that he was not.
 
-There before him lay the cello, splayed out on its side. Bridge shattered, neck torqued at an impossible angle, the body split along its seam near the lower bout. He could see the interior block his grandfather had shaped by hand, the kerfing strips, the bass bar running the length of the top plate—all of it exposed now, the hidden architecture of almost fifty years laid bare under the fluorescent light. Lessons, arguments, ambitions, reconciliations: everything their family had pressed into maple and spruce now lay opened to the room like a body on a table.
+“Pain?”
 
-He could not bear to look at it for long.
+“Nothing I can’t handle.”
 
-The phone lay near the staircase, screen a spiderweb of fractures. Beneath the damage, the display burned with single minded purpose. A progress bar crept forward in increments so small they might have been imagined.
+She smiled. Professor tough guy, huh.”
 
+“You look… different,” she said.
 
-PROCESSING…
+He managed half a smile, though it pulled at the split lip. “You mean aside from the obvious?”
 
+“No. Because of it.” She leaned forward slightly. “You let Linn help. You came to rehearsal. You’re here.”
 
-The device was running hot, the warmth radiating with the feverish insistence of a body fighting to complete a task it was never built to perform.
+David’s hand found the coffee cup, fingers wrapping around its warmth. “I didn’t have much choice about Linn. He found the door open.”
 
-David crossed the room in a controlled stumble. He knelt. His good hand closed around the phone, and the heat surprised him, like holding a small animal with a racing heart. He tucked it against his chest and made for the couch. Eight steps. He fell into it all at once, cushions receiving him with a soft implosion of air, like something collapsing inward under its own weight.
+“You had a choice about staying. About not sending him away.”She paused. “About the tuning experiment.”
 
-The sirens thinned, or he did.
+“That wasn’t about the—“ He stopped, recalibrated. “The math doesn’t care what shape I’m in.”
 
-Sleep approached from all sides, poised to reclaim this body of work and injury. The distance between David and the surface of the world was widening, layer by layer, with the authority of deep water. His right arm hung limp off the edge of the couch, the phone balanced in his loosening grip, screen still pulsing against his palm.
+“Maybe not. But you do.” Her gaze held steady. “You could have rested. Linn gave you permission to leave. You stayed. You pushed.”
 
+David stared into his coffee, watching steam rise in slow spirals. “I can’t tell if I’ve broken through or come apart. There’s no edge.”
 
-PROCESSING…
+“I know,” she said.
 
+The conversation settled into silence, but not emptiness. Around them, the café continued its afternoon routines: espresso machine hissing, silverware meeting porcelain. Their stillness existed within it, a rest held inside the larger composition.
 
-The progress bar inched forward.
+Celeste’s hand moved across the table, palm up. An offering more than a demand. David looked at it for a long moment, the calluses from viola strings, the slight tremor that came from holding tension for hours at a time. Then his hand met hers.
 
-Willows. The particular quality of afternoon light through leaves. A laugh he had not heard in thirty years and could reconstruct only as warmth, as safety, as the feeling of a world that had not yet asked anything of him. His grandfather’s hands. The equations those hands had carried. What those equations had become. What he had spent his life trying to answer.
+The contact was neither tentative nor assured. Just present. Her thumb traced the edge of his palm, finding the faint cerulean stain that still marked the skin there. She didn’t ask about it. Her touch simply acknowledged its presence, just as she’d acknowledged the bruising, just as she’d acknowledged his decision to keep playing despite the cost.
 
+“The tuning,” David said finally. “It’s not just an idea. There’s structure underneath. Something that holds.”
 
-PROCESSING…
+“I felt it.” Her fingers tightened slightly. “We all did. Even Linn.”
 
+“Linn was holding me up.”
 
-Then into the solemn quiet of one desperate and lonely room, a sound intruded. The first, barely audible. The counterweight cable, frayed through years of chalk dust and impatience, finding its frequency at last. A single filament parting. Then another. The high, reedy complaint of metal at its uttermost limit.
+“Linn was playing the music. You gave him something worth holding.” She paused. “There’s a difference.”
 
+David’s ribs protested as he shifted in his chair, seeking a position that didn’t pull quite so hard. Celeste noticed, her expression flickering with something that might have been concern but settled into patience instead.
 
-Tick tick tick tick.
+“I should probably go home,” he said. “Sleep. Actually sleep.”
 
+“Probably.” She didn’t release his hand. “But you don’t have to go alone.”
 
-TINK.
+The words hung in the air between them, neither question nor statement. Just possibility, offered in the same tone she’d used to suggest the coffee, the same way she’d followed his experimental tuning without demanding explanation first.
 
+David looked at her fully then, not through pain or exhaustion or the protective distance he’d maintained for months. Just looked. Saw the way she’d positioned herself at the table to minimize the light hitting his injured eye. Saw the careful neutrality in her posture that made space for whatever he might need. Saw the decision she’d already made, waiting only for him to meet it.
 
-The cable gave.
+“Okay,” he said.
 
-The freed end whipsawed through the dark, a metallic shriek crossing the full width of the room, and caught the glass spiral staircase along its arc. Treads exploded outward in a cascade of prismatic detonation, each pane shattering into a spectrum. Light fractured across every surface of the apartment in a single savage bloom, violet to red, red to violet, the full signature of the sun rendered in broken glass and emergency amber and the last pulse of the blue field, all of it crossing the room in the fraction of a second before the real weight arrived.
+She stood first, gathering her bag. David rose more slowly, the elastic wrap reminding him of its presence with each breath. She waited without hovering, then fell into step beside him as they moved toward the door.
 
-The phone, the shattered screen in David’s hand, unaware of the danger above, changed.
 
 
-UPLOAD?
 
+11.2  walk  D - Part 1    |    For Celeste and David
 
-CONFIRM | DENY
 
+Outside, the afternoon had begun its slide toward evening. The walk wasn’t long, less than ten minutes on a good day, fifteen at the pace David’s body now required. Celeste matched his stride without comment, the way Linn had that morning. But where Linn’s accommodation had been fraternal, hers carried different weight.
 
-His thumb rested on the glass. There was no decision. The energy still pulsing in his palm met the light from the screen. His thumb moved, not by reflex, but by resonance—a circuit completing itself past the point of cognition.
+They walked in silence, their footsteps finding an unintentional rhythm, a slow 3/4 that neither rushed nor dragged. Students passed them, absorbed in their own trajectories. The physics building rose to their left, its windows catching the low sun. David didn’t look up at his office.
 
+“Every day, you know,” Celeste said, as if picking up a conversation already in progress. She stared straight ahead toward the crest. Towards the bench.
 
-UPLOAD CONFIRMED…
+David frowned, hands burrowed in the pockets of his jacket. “What?”
 
+“Every day, I think of it.”
 
-The upload climbed through the fractured network, packet by packet, finding seams in the overloaded infrastructure, passing through brief openings before they sealed, forty seven minutes compressed and encrypted, sent outward into a grid that was, even now, failing in every direction.
+He squinted at her, waiting for the punchline, but she only watched the ground ahead.
 
-The resonance of all that had transpired in this fated night gathered into a single act of timing. Air. Weight. Momentum. The room held its breath.
+“Celeste, I don’t know what you mean.”
 
-Then came the downbeat.
+She pointed with her chin. “It’s right there. I pass it every day. So do you. And every time, another flash of what might have been.”
 
-The blackboard wall, free of the restraints of cable and counterweight, uprooted from its channels.
+He stopped, awkwardly, as if the sidewalk had ended without warning. He did not want to burden her with the buzz and the menace of it. He wouldn’t know how to explain it, even then.
 
-One nanosecond of impossible suspension. The entire two story mass hanging, the equations still legible, years of labor luminous in the fractured light, every proof and hypothesis and derived ratio blazing in the instant before impact.
+“Well, it’s silly, I know,” she said, as if trying to float it away.
 
-The tsunami rolled outward.
+“It is silly.” His lips pressed into a line, sharp as a string under tension. “You shouldn’t.”
 
-Forty years of chalk released at once: a white detonation blooming through the prismatic haze in concentric rings. Light fractured again inside it. The spectrum folded into the particulate, frequency by frequency, until the apartment became something without a name in physics or music or any language David had ever studied.
+“You mean you don’t ever dream of—.”
 
-An iridescent fog filled the room. Forty years of searching hung suspended in it—light, color, chalk, and number drifting together in the air. Equations ghosted through the particulate haze, then slowly came apart as they descended. Terms separated. Relationships dissolved.
+David exhaled hard through his nose. “No. I don’t. Ever!”
 
-He breathed it in.
+A pause. Then, quieter:
 
-He felt his own edges begin to blur, the boundaries of his skin growing uncertain inside the spectrum and dust. Identity, knowledge, memory—everything he knew, everything he was—seemed to loosen at once, sinking layer by layer toward a threshold below which nothing could be said.
+“I’ve bled that day out long ago. Drained it. Whatever that thing is in the ground, it doesn’t belong to me anymore. It’s not my problem.”
 
-Gone.
+But he knew, it was absolutely his problem.
 
-His arm lay over the edge of the couch. Blood had already tracked from forearm to wrist. His hand was open, the fingertips extended, the phone cradled there with its screen dark, the upload complete, its heat faded. The small animal stilled.
+He gestured toward the crest. “Those two up there? They’re squatting on ghosts, not dreams.”
 
-Across the blood, the broken glass, the fine shimmer left by the event, chalk began its quiet covering. It veiled the room. It veiled the man.
+High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air, lazy and amused.
 
-The phone slid the last centimeter toward his fingertips, toward the same cradle that had drawn the Sarabande out of silence. For a fraction of an earthbound second, the device did not fall.
 
-No. The device… passed… through.
 
-For an instant too brief to register, his hand became permeable. The phone occupied the space where his fingers had been and met no resistance.
 
-Then the moment collapsed.
+11.3  The bench
 
-The phone struck the floor with a sharp, decisive crack, the sound of something finished.
 
-David lay there, still. Silent. Air pulled laboriously to his lungs. Less now. And less, even still. His face, where the chalk had found it, was peaceful upon the cushioned couch beneath. The lines had let go. One hand curled softly around the residue of music. The other palm open, upturned: blood and chalk and light.
+“I’m just saying,” Roman said, smoke leaking from both corners of his mouth, “if the multiverse is real, then somewhere I’m already sober. Perfectly sober. That’s just quantum balance, babe.”
 
-The sirens stopped.
+Greene, flat on her back beneath the skeletal sycamore, didn’t open her eyes. “You’re failing quantum mechanics in this universe.”
 
-Chalk and dust and air now resting. The room was done.
+“Maybe in this one,” Roman said. “But in another, I’m a tenured professor with a full head of hair.”
 
-Darkened.
+“You have a full head of hair now, idiot.”
 
-Black.
+“Yeah, but it’s scared. It knows what’s coming.”
 
-Outside, in every direction, an electricity starved and huddling planet, newly unburdened, scattered, and data free, was about to open its eyes and see.
+Green groaned, laughing. “This is what tenure does to people. They go all cursed prophet. You’ve been breathing too much library dust.”
 
+Roman passed the joint with exaggerated precision. “I breathe ideas. My body is a finely tuned antenna for cosmic nonsense.”
 
+“That’s why you failed the midterm.”
 
+“No, I failed because I challenged the grading rubric. With passion.”
 
+Green snorted, then froze. Her gaze flicked toward the path.
 
+“Oh. Shit.”
 
+Roman turned. “What—?”
 
+“Lang. And Armitage. Like, right there.”
 
+Roman sat bolt upright, foot catching in Green’s bag. The joint snapped from his fingers. He made a strangled sound, scrabbling to crush it against the underside of the bench. It hissed faintly, a curl of smoke spiraling up.
 
+The instant the ember met wood, a low-frequency tremor rippled through the air, almost inaudible, but enough to make David gasp from twenty feet away.
 
+The world dropped out from under him. His knees buckled. He collapsed to the ground.
 
+“David!” Celeste lunged, catching him by the arm. For a moment he hung there, suspended by her grip, breath coming in short, sharp bursts. He couldn’t breathe. He couldn’t… He couldn’t actually breathe.
 
+The students leapt to their feet, music major first. “Professor Lang! Are you okay?” Greene hollered.
 
+“Green? Roman? You two. Help me. Help me get him to the bench.”
 
+They scrambled to his side, one under each shoulder, and together they half-dragged, half-carried him to the bench. David collapsed onto the slats, head bowed, eyes wild and unfocused. Roman hovered nearby, hands fluttering helplessly.
 
+Celeste knelt in front of him, her voice low. “Breathe. In and out. Just listen to me.”
 
+The sound came again, clearer this time. A dissonant hum, like a cello string arco bowed underwater.
 
+Only David seemed to hear it.
 
+He pressed his palms to his temples, riding the wave of sensation until it passed.
 
+“Are you all right, Professor?” Green asked, her voice trembling.
 
+David straightened slowly. Color returning to his face in increments. He nodded. “Yes. Yes, I think so.”
 
+Celeste stood, brushing off her knees. “Thank you, both of you.”
+
+The students looked unsure. Should they linger or flee?
+
+“No problem, Professor Armitage,” Greene offered. “Hope you feel better soon, Professor Lang.”
+
+Celeste nodded, “See you in seminar next week, Greene.”
+
+They acknowledged as they melted away in the dusk.
+
+As David began to recover, he called after his quantum mechanic student, “Mr. Roman, don’t get any ideas about this improving your abysmal marks on the midterm. But, between us, you’ve got a better shot at a re-take than you did 5 minutes ago.”
+
+“Yes, sir. Thank you, sir! Feel better, David. I mean…PROFESSOR.” And with that, he turned and scampered off.
+
+David stared at the bench, then down at the smoldering joint stub mashed into its wood. “I’m okay. It was just… my ribs caught.”
+
+“If you’re waiting for me to interrogate you, keep waiting.  Who you get in fistfights with and why is no longer any of my business, thank God.”
+
+She figured that would be enough rope for him to hang himself on. She was sure he’d out with it in seconds flat. She was wrong. He spoke not a word.
+
+Together, they sat for a long moment, listening to the silence that had settled impossibly over the quad.
+
+Then something stirred in her. Something with pain attached. She knew instantly it would have to out. Celeste stood, reluctantly, and walked slowly forward, looking out over the ridge, her hair snagged by the wind, her gaze fixed on the distant Finger Lake. The water caught the last light, a bruised blue. David slowly rose and moved down beside her, as if being closer could help him see what he knew he could not. She didn’t look at David, but he watched her anyway, his hands jammed in his jacket pockets, trying not to fidget, trying not to speak first.
+
+Another, patient silence. A breeze whipped down from the leafless trees above, the air filling Celeste’s lungs, almost forcing the truth from her head and heart to her throat and tongue and then…
+
+“I miss being a scientist, David,” she said, voice clean and simple, as if announcing the weather.
+
+He let the silence hang. A crow called somewhere behind them, and Celeste’s eyes shone, glassy with the threat of tears she refused to blink away.
+
+“I know you do, Cele,” David said. “I tried to shield you from being around my work weekend after weekend. I didn’t want my science getting pushed in your face.”
+
+She turned, mouth open to answer, but nothing came. Her throat worked. She looked away, out over the trembling water.
+
+He shifted his weight, scuffed the dirt.
+
+The silence between them served as confirmation. “You deserved to be treated like the brilliant woman that you are. I should have trusted you.”
+
+She turned to look him in the eye. She needed to see past his words in this moment.
+
+He met her turning gaze, hoping for something… he didn’t know, anything. Absolution, if he was being honest, but consolation would be a huge win, would be enough.”
+
+The weight of dissonance traced back over time, now pressed down upon them both: renewed clarity and cruelty in equal measure. David, working all weekend, secluded behind closed doors, desperate to shelter her from the work he knew she missed so much. Celeste, trying not to disturb the brilliant professor, thinking his work was the only thing he cared for anymore. Both of them wounding in the exact moment they meant to give care. It was more than the moment could hold.
+
+The wind flew up from the canyons beyond, filling the silence between them with the scent of glacial water, fresh dirt, and winter white. Its interference of natural comfort, of truth prompting them both to whisper the other’s name at once.
+
+“David…”
+
+“Celeste… I see it now. I tried to protect you like you were a twelve-year-old girl, didn’t I? God… I’m sorry, Cele.”
+
+She heard him. She believed him. But it was not enough to close the canyon, nor bridge its peril nor absolve its pain. But she knew the chord must resolve. And so she let the dominant forces do their work. She let the tonic in. Begrudgingly…. Resolvedly so.
+
+“Yes, David. You did. And yes… I know you are.”
+
+A thin breeze rose, picking at the hem of her coat. She stepped forward, closer to the edge of the cliff, closer to the lake, as if she might walk the distance or measure it. She breathed in deeply and let it out in a slow, even stream. The sun, as if in response to the silent reckoning through respirate, slipped behind a bank of clouds, causing the blue on the water darkened, deepening toward something like promise.
+
+“Come on,” she said, as a slight smile cracking her lips. “Can’t linger here much longer without this becoming a funeral dirge.”
+
+
+
+
+11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light
+
+
+They descended from the quad in silence, Celeste matching David’s careful pace without comment. The evening had begun its slow compression of light: amber fading to violet, shadows pooling in doorways and beneath the skeletal branches overhead.
+
+David’s breathing had settled into a rhythm dictated by the constraint on his ribs. Each inhalation measured, each exhalation controlled. Celeste noticed but said nothing. Her presence was answer enough.
+
+They passed the physics building. David didn’t look up at his office window, didn’t acknowledge the tower of unfinished work waiting in the darkness above. Celeste felt the weight of his deliberate avoidance, the way someone might pass a former home, knowing every detail of its interior but refusing the backward glance.
+
+They crossed the canyon bridge and closed the final few blocks of the trip to the house on the hill. Somewhere between “I’m sorry” and the porch steps, Celeste had put out her hand and David found he had taken it in his.
+
+When they reached the porch steps, Celeste climbed the first two, then turned to kiss David on the cheek. From this angle, their eyes were level despite the height difference. She looked deeply into his, as if making a determination of authenticity on a rare diamond. The porch light illuminated half her face, leaving the other half in shadow.
+
+He couldn’t read her. She knew he couldn’t read her. When she moved again to go inside, David found she had not released his hand. The slight tremor from hours of maintained tension disappeared.
+
+
+
+
+11.5  The house on the hill (return)
+
+
+She led him up the remaining steps, across the porch where a swing moved slightly in the evening breeze, and opened the door.
+
+Warm light spilled out into the dusk. The smell of old wood and lavender. Inside, the hallway was lined with framed concert programs and photographs of ensemble performances spanning decades.
+
+“You want tea?” she asked, already moving toward the kitchen. “Or something stronger?”
+
+“Tea’s fine. I like what you did with all the programs. God, so much musical history in these,” he said out loud.  So much of their history—he only thought.
+
+David stood, taking in the place that had been his lost cause project for so many years.
+
+“Hello, old friend.” Then he saw the broken bannister finial sitting on the table. He picked it up.
+
+Looks stripped.
+
+“Hey, Cele, this finial, it looks stripped. Want me to—“
+
+She was already running back to the foyer to stop him.
+
+“No!” She said, grabbing the globe from his hands and setting it back down on the side table. “That’s my problem now. Not yours! Hands off!” And she skillfully glanced at him, then turned and went back into the kitchen. “In fact, resist the urge to fix anything this evening. You’ve got enough repair on your hands as it is, I think.”
+
+She was right, of course. So David stood there just letting the house’s different acoustics settle around him.
+
+Celeste returned with two mugs, steam rising in delicate spirals. She handed him one, then gestured toward the stairs.
+
+“Come on,” she said. “You can’t work on the draft standing in my hallway.”
+
+He followed her up to the second floor, past the bathroom that took him seven months to gut and rebuild to completion… well, almost completion. They passed the guest room, which, if he were honest, was in his day the throw-all-the-tools room. Nothing more. Then into the bedroom. The large windows facing the street seemed to see David when he walked into the room. It might have just been a small conceit of his, but he thought he clocked a wink of light from their classic single panes. The desk, the dresser, the side tables and lamps, the bed, they were all the same. David couldn’t decide if that was a good, comforting thing, or awkward as hell.
+
+She set her mug down on the desk, turned to face him.
+
+“This isn’t—” David started.
+
+“I know what it isn’t,” she said. “And I know what it is. You need rest. You need to not be alone. We can figure out the rest as we go.”
+
+The simplicity of her statement, the lack of drama or complication, disarmed him completely.
+
+“Okay,” he said. Then silence between them, before, “Celeste, you are—“
+
+“A goddess, a saint, a genius? Yes, these things I know.”
+
+She smiled then, genuine and unguarded. “Now sit down before you fall down. You’re pale. You look horrible.”
+
+David lowered himself onto the edge of the bed. The mattress was firmer than his, the pillows arranged with care rather than thrown haphazardly. Celeste moved to close the curtains, then paused.
+
+“Do you want them open or closed?”
+
+He thought about it. About the evening light still clinging to the rooflines across the street. About the fact that he’d spent too many hours in deliberate darkness lately.
+
+“Open,” he said.
+
+She left them that way. Turned to face him. The space between them held all the accumulated history of their relationship, the relationship that had ended, the collaboration that had continued, the care that had persisted through every transformation.
+
+She crossed the distance. Sat beside him. Her hand found his.
+
+“Thank you,” David said quietly.
+
+“For what?”
+
+“For not asking questions I can’t answer yet.”
+
+“They’ll keep,” she said. “The questions always keep.”
+
+Outside, the evening completed its transition into night. Inside, two people sat on a bed in a room filled with ordinary light, connected by nothing more complex than presence and the choice to stay.
+
+After a moment, Celeste stood. “I’ll be right back.”
+
+She left him there, returning minutes later with the tea refreshed and a blanket from somewhere deeper in the house. David had removed his jacket and his shoes. The tuning fork sat on the nightstand, catching the lamplight.
+
+Celeste noticed it but didn’t comment. She just settled beside him, close enough to matter, far enough to let him choose.
+
+He chose closer.
+
+
+
+
+11.6  The draft
+
+
+David woke to the disorientation of an unfamiliar ceiling, then remembered. The house. The bed. The tuning fork was a cool weight against his sternum, tucked beneath his shirt.
+
+She wasn’t beside him. He turned his head carefully, finding her silhouette at the desk by the window. She’d pulled on an oversized shirt and was writing something, her posture suggesting absorption.
+
+"What time is it?" His voice was rough.
+
+She turned. "Almost six. You slept three hours." She stood, crossing to the bed. "How do you feel?"
+
+"Like I got mugged and then had sex." He paused. "In that order."
+
+The corner of her mouth lifted. "Accurate." She sat on the edge of the bed. "I made tea. And Linn texted. Twice."
+
+David reached for his phone on the nightstand. Two messages waited. Linn: Office until 6 if you need anything. A second one, fifteen minutes later: Heading home. Call if you need me to come back.
+
+Celeste watched him read them. "I texted him back. Told him you were sleeping, that I’d make sure you got home okay."
+
+"You didn’t have to—"
+
+“I know.” She handed him his glasses. “But he was going to keep checking otherwise, and you needed the sleep more than he needed immediate confirmation.”
+
+David pulled himself to sitting, a process that required strategic breathing. The elastic wrap had shifted slightly; he tugged it back into alignment. “I should go. I have work—“
+
+“You have work you can do here, if you need to.” She gestured toward the desk. “Or you can go home. But you shouldn’t be alone if you’re going to push yourself.”
+
+He looked at her, at the matter-of-fact way she’d rearranged her evening to accommodate his presence. “The draft,” he said. “The paper. I need to finish the section on harmonic decomposition.”
+
+“So finish it.”
+
+She stood, moving to clear space at the desk. Her own work went into a folder without ceremony. She pulled over a second chair, angling it so he could sit without the window’s glare hitting his injured eye.
+
+“Tea’s in the kitchen,” she said. “I’ll bring it.”
+
+David made his way to the desk slowly. By the time he settled into the chair, she’d returned with a mug and his jacket. His laptop was in the inner pocket. He opened it. The draft document appeared, pages of equations and prose that had seemed impossibly tangled yesterday now resolving into clarity.
+
+Celeste returned to her own chair, pulling out a score and a pencil. She worked in parallel silence while David traced the relationships between harmonic decomposition and quantum superposition.
+
+Evening settled in gradual increments. The lamp by the desk cast a small perimeter of clarity. David sat without perfect posture. He couldn’t manage it with the ribs, but the desk’s edge shaped itself around his forearms, providing support.
+
+He did not categorize. He traced.
+
+Notes on the staff aligned with curvature in the string diagrams. Not synthesis. Just parity. The blue stain on his palm had faded to a ghost, but he felt its resonance along the ulnar path. He wrote slowly. Symbols nested within gestures.
+
+Once, from the attic rafters, a faint thump sounded, as if something had shifted in the empty space above. Celeste glanced up, met his eyes, returned to her score without comment. The house held its memories close.
+
+The final equation did not resolve into brilliance. The final cadence did not transcend. But the draft held together. No exhilaration. No disappointment.
+
+Only structure. Only the shape of an idea sustained without collapse.
+
+David closed the laptop. Celeste looked up.
+
+"Done?" she asked.
+
+"For now."
+
+She set down her pencil. "There’s leftover pasta. Or I can walk you home."
+
+He considered. His apartment would be cold, empty, still holding the morning’s violence in its walls. Here, there was warmth. Company that required nothing but allowed everything.
+
+But he needed to return. Not to flee, but to test the new equilibrium.
+
+"I should go home," he said. "But thank you. For the offer."
+
+She nodded, understanding. "Let me walk you at least."
+
+They gathered his things. At the door, she helped him with his jacket. His hand went to his breast pocket, checking for the tuning fork. It was there, cool and certain.
+
+"Thank you," he said again.
+
+"For what?"
+
+“For texting Linn. For the tea. For—“ He gestured at the desk, the bed, the space she’d made without fanfare. “All of it.”
+
+“You would have done the same.”
+
+Would he? A year ago, probably not. He’d have retreated, isolated, insisted on handling everything alone. But she was right about what he’d become, or hoped he was becoming. Someone who let Linn find him. Who came to rehearsal injured. Who accepted help and company.
+
+“Yeah," he said. "I would.”
+
+She smiled, just a small, genuine gesture, and opened the door.
+
+
+
+
+11.7  Walk  E   |   for David, Celeste, notebook, and boundaries
+
+
+The walk to his apartment was quiet. The night was clear, the air sharp. At his building, she stopped.
+
+"You’ll call if you need anything?" she asked.
+
+"I will.”
+
+David leaned to kiss her. Nothing forced. Nothing assumed. Celeste took the chance to restate at least one thing that the day’s events had… blurred. A slight turn of her head to give him a cheek was all. And then…
+
+"Goodnight, David."
+
+He smiled, acknowledging the boundary adjustment.
+
+”Goodnight, Celeste."
+
+And with that, she turned and walked back toward the hill, her figure growing smaller against the pallid haze of the streetlights.
+
+David unlocked his door, pushed it open, and stepped halfway inside before turning to look back. For the next one-minute-forty-six seconds, David watched her walk away. Even after the last of her glinting hair in the moonlight had given up sending any more light the distance to David’s eyes, he watched. She had no idea, but he always watched her until the going was more than gone. Then a deep breath before he tucked inside, closed and locked the door with care, and climbed the spiral staircase to the loft. His apartment welcomed him with its familiar, resonant silence. The blackboard triptych stood closed. The cello case leaned against the sofa.
+
+He sat at his desk, the tuning fork cool in his hand. He didn’t strike it. He simply held it, feeling its latent frequency humming against his skin, a companion to his own pulse.
+
+Outside, night settled over Ithaca. Inside, the lamp held its small circle of light, and a man who had spent the day navigating pain and music and the spaces between them sat alone in his apartment, connected by nothing more complex than memory and choice.
+
+He opened his notebook to a fresh page and began to write.
+
+For now, it was more than enough.
+
+
+
+
+11.8  10 Minutes, Maybe Twelve
+
+
+Celeste was not, under any circumstances, going to give him the satisfaction of looking back as she walked away.
+
+He was watching her go. Of course, he was. He’d been watching her go for twenty years. A man of habit, if nothing else, he wasn’t going to stop tonight.
+
+Or at least, she hoped he wasn’t going to stop… not tonight.
+
+She shook her head and smiled to herself.
+
+If the day hadn’t already eaten up every last inch of her bandwidth, she might’ve spared a moment to examine this annoying, lingering truth of him. But as it was, it only took about two and a half blinks before the walk home became home. So much so that she nearly tripped on the first porch step.
+
+It was as if someone had picked up her house and dropped it right in front of her while she’d been too busy checking both ways to cross the street. It was jarring. But the whole day had been.
+
+Celeste walked up to the door, shoulders slumped, the shawl attacking her cheeks with woolen fuzz. As the door gave way, the house welcomed her squeaking, crackling. It was obvious to Celeste, however, that there was disappointment implied in these structural groaning. The house had spent an entire evening with its favorite tenant returned. The realization that this return was merely temporary hit the frame like foundation footings sinking into soft earth.
+
+Celeste stepped inside and with only mild amusement slammed the door behind her in mock defiance. “Whatever house! You’ll see! You’ll see who really loves you best.”
+
+Jesus. I’m taunting an empty house.
+
+She looked up at the balcony rail where, that morning, she had teetered on the brink of something unforgivably stupid. She laughed, but only halfway.
+
+Then, a decision. She went straight to the closet in the causeway and pulled out her toolkit. Not his. Hers. The kit was well-organized, clean, even logical in its layout. She crossed to the side table at the bottom of the stairs, picked up the skull of the finial from where it had been left, and plopped herself and the box down on the third step.
+
+The screw was stripped. Of course it was. It had always been stripped. She had pointed that out years ago now, but it hardly mattered. She braced the rail with one hand, tried once, felt it slip, adjusted, tried again. The wood resisted before it caught. She swore under her breath, reset the angle, tightened slowly, deliberately, feeling the threads take. And then three full twists until there was no twist left to have. And then it was done. Just done.
+
+Ten minutes. Maybe twelve.
+
+“Who’s your favorite now, huh?”
+
+Celeste stood. She tested it once with her hand. Then, because no one was watching, she leaned her full weight into the banister and felt it hold.
+
+She gathered the tools, returning everything to its proper place, and as she put the toolbox squarely into the closet, she heard it. Nothing. Absolutely nothing. She peeked her head out from the closet, and gently, slowly, closed the door. A hundred-year-old house, especially this one, was rarely so sonically behaved. It was suspect. She tiptoed toward the kitchen with feather-like feet, then turned to head upstairs. Enjoy it, she thought. Trust it when you—
+
+—Click!
+
+And just like that, the electric kettle… clicked… off!
 
 
 

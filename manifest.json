@@ -274,9 +274,9 @@
       "label": "Chapter 10",
       "title": "Exercises in Humanity",
       "subtitle": "",
-      "word_count": 9930,
-      "paragraph_count": 434,
-      "scene_count": 14,
+      "word_count": 3747,
+      "paragraph_count": 148,
+      "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.txt",
       "scenes": [
@@ -324,87 +324,101 @@
           "para_start": 104,
           "para_end": 148,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html"
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "slug": "chapter-11",
+      "label": "Chapter 11",
+      "title": "Humanities",
+      "subtitle": "",
+      "word_count": 6183,
+      "paragraph_count": 286,
+      "scene_count": 9,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "11.1  Walk C     |    for David, Roger, towel, and crowbar",
+          "word_start": 1,
+          "word_end": 1054,
+          "para_start": 1,
+          "para_end": 57,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "11.2  THE CAFÉ",
+          "word_start": 1055,
+          "word_end": 1864,
+          "para_start": 58,
+          "para_end": 93,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "11.2  walk  D - Part 1    |    For Celeste and David",
+          "word_start": 1865,
+          "word_end": 2228,
+          "para_start": 94,
+          "para_end": 112,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "11.3  The bench",
+          "word_start": 2229,
+          "word_end": 3475,
+          "para_start": 113,
+          "para_end": 168,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light",
+          "word_start": 3476,
+          "word_end": 3744,
+          "para_start": 169,
+          "para_end": 175,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html"
         },
         {
           "n": 6,
-          "heading": "11.1  Walk C     |    for David, Roger, towel, and crowbar",
-          "word_start": 3748,
-          "word_end": 4801,
-          "para_start": 149,
-          "para_end": 205,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html"
+          "heading": "11.5  The house on the hill (return)",
+          "word_start": 3745,
+          "word_end": 4485,
+          "para_start": 176,
+          "para_end": 212,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-06.html"
         },
         {
           "n": 7,
-          "heading": "11.2  THE CAFÉ",
-          "word_start": 4802,
-          "word_end": 5611,
-          "para_start": 206,
-          "para_end": 241,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html"
+          "heading": "11.6  The draft",
+          "word_start": 4486,
+          "word_end": 5295,
+          "para_start": 213,
+          "para_end": 253,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-07.html"
         },
         {
           "n": 8,
-          "heading": "11.2  walk  D - Part 1    |    For Celeste and David",
-          "word_start": 5612,
-          "word_end": 5975,
-          "para_start": 242,
-          "para_end": 260,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html"
+          "heading": "11.7  Walk  E   |   for David, Celeste, notebook, and boundaries",
+          "word_start": 5296,
+          "word_end": 5615,
+          "para_start": 254,
+          "para_end": 267,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-08.html"
         },
         {
           "n": 9,
-          "heading": "11.3  The bench",
-          "word_start": 5976,
-          "word_end": 7222,
-          "para_start": 261,
-          "para_end": 316,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-09.html"
-        },
-        {
-          "n": 10,
-          "heading": "11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light",
-          "word_start": 7223,
-          "word_end": 7491,
-          "para_start": 317,
-          "para_end": 323,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-10.html"
-        },
-        {
-          "n": 11,
-          "heading": "11.5  The house on the hill (return)",
-          "word_start": 7492,
-          "word_end": 8232,
-          "para_start": 324,
-          "para_end": 360,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-11.html"
-        },
-        {
-          "n": 12,
-          "heading": "11.6  The draft",
-          "word_start": 8233,
-          "word_end": 9042,
-          "para_start": 361,
-          "para_end": 401,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-12.html"
-        },
-        {
-          "n": 13,
-          "heading": "11.7  Walk  E   |   for David, Celeste, notebook, and boundaries",
-          "word_start": 9043,
-          "word_end": 9362,
-          "para_start": 402,
-          "para_end": 415,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-13.html"
-        },
-        {
-          "n": 14,
           "heading": "11.8  10 Minutes, Maybe Twelve",
-          "word_start": 9363,
-          "word_end": 9930,
-          "para_start": 416,
-          "para_end": 434,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-14.html"
+          "word_start": 5616,
+          "word_end": 6183,
+          "para_start": 268,
+          "para_end": 286,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-09.html"
         }
       ]
     },
