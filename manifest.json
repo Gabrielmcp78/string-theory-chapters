@@ -1,18 +1,18 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-06-28",
-  "total_words": 106998,
+  "built": "2026-07-07",
+  "total_words": 107010,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
       "num": 0,
       "slug": "overture",
       "label": "Overture",
-      "title": "(Fragment recovered from sealed archive)",
-      "subtitle": "",
-      "word_count": 293,
-      "paragraph_count": 23,
+      "title": "Opus No. 46 in D minor   “Of Life”",
+      "subtitle": "a string quartet in four movements",
+      "word_count": 327,
+      "paragraph_count": 30,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt",
@@ -22,85 +22,31 @@
       "num": 1,
       "slug": "chapter-01",
       "label": "Chapter 1",
-      "title": "Opus No. 46 in D minor   “Of Life”",
-      "subtitle": "a string quartet in four movements",
-      "word_count": 12043,
-      "paragraph_count": 448,
-      "scene_count": 8,
+      "title": "1",
+      "subtitle": "",
+      "word_count": 5382,
+      "paragraph_count": 244,
+      "scene_count": 2,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.txt",
       "scenes": [
         {
           "n": 1,
           "heading": "1",
-          "word_start": 21,
-          "word_end": 21,
-          "para_start": 6,
-          "para_end": 6,
+          "word_start": 1,
+          "word_end": 1,
+          "para_start": 1,
+          "para_end": 1,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-01.html"
         },
         {
           "n": 2,
           "heading": "THE IVY LEAGUE",
-          "word_start": 22,
-          "word_end": 5402,
-          "para_start": 7,
-          "para_end": 249,
+          "word_start": 2,
+          "word_end": 5382,
+          "para_start": 2,
+          "para_end": 244,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-02.html"
-        },
-        {
-          "n": 3,
-          "heading": "2",
-          "word_start": 5403,
-          "word_end": 5403,
-          "para_start": 250,
-          "para_end": 250,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-03.html"
-        },
-        {
-          "n": 4,
-          "heading": "THE Office",
-          "word_start": 5404,
-          "word_end": 7621,
-          "para_start": 251,
-          "para_end": 309,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-04.html"
-        },
-        {
-          "n": 5,
-          "heading": "3",
-          "word_start": 7622,
-          "word_end": 7622,
-          "para_start": 310,
-          "para_end": 310,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-05.html"
-        },
-        {
-          "n": 6,
-          "heading": "THE REHEARSAL HALL",
-          "word_start": 7623,
-          "word_end": 10840,
-          "para_start": 311,
-          "para_end": 418,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-06.html"
-        },
-        {
-          "n": 7,
-          "heading": "4",
-          "word_start": 10841,
-          "word_end": 10841,
-          "para_start": 419,
-          "para_end": 419,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-07.html"
-        },
-        {
-          "n": 8,
-          "heading": "THE APARTMENT",
-          "word_start": 10842,
-          "word_end": 12043,
-          "para_start": 420,
-          "para_end": 448,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01-scene-08.html"
         }
       ]
     },
@@ -108,193 +54,63 @@
       "num": 2,
       "slug": "chapter-02",
       "label": "Chapter 2",
-      "title": "The Edge of Discovery",
-      "subtitle": "an epistemic fugue in four voices",
-      "word_count": 15299,
-      "paragraph_count": 800,
-      "scene_count": 20,
+      "title": "2",
+      "subtitle": "",
+      "word_count": 2219,
+      "paragraph_count": 60,
+      "scene_count": 2,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.txt",
       "scenes": [
         {
           "n": 1,
-          "heading": "5.1  SUBJECT  |  Buffalo, NY  \t\t\t      Present Day",
-          "word_start": 11,
-          "word_end": 251,
-          "para_start": 3,
-          "para_end": 12,
+          "heading": "2",
+          "word_start": 1,
+          "word_end": 1,
+          "para_start": 1,
+          "para_end": 1,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html"
         },
         {
           "n": 2,
-          "heading": "5.2   ANSWER   |   MIT - Boston, MA       \t                 April 11, 2005",
-          "word_start": 252,
-          "word_end": 1315,
-          "para_start": 13,
-          "para_end": 71,
+          "heading": "THE Office",
+          "word_start": 2,
+          "word_end": 2219,
+          "para_start": 2,
+          "para_end": 60,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-02.html"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "slug": "chapter-03",
+      "label": "Chapter 3",
+      "title": "3",
+      "subtitle": "I.   Allegro sostenuto",
+      "word_count": 3219,
+      "paragraph_count": 109,
+      "scene_count": 2,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "3",
+          "word_start": 1,
+          "word_end": 1,
+          "para_start": 1,
+          "para_end": 1,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html"
         },
         {
-          "n": 3,
-          "heading": "5.3   SUBJECT   |    Buffalo, NY \t\t\t      Present Day",
-          "word_start": 1316,
-          "word_end": 2043,
-          "para_start": 72,
-          "para_end": 99,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-03.html"
-        },
-        {
-          "n": 4,
-          "heading": "5.4   ANSWER   |   MIT - Boston, MA \t                                   May 24, 2005",
-          "word_start": 2044,
-          "word_end": 2547,
-          "para_start": 100,
-          "para_end": 137,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-04.html"
-        },
-        {
-          "n": 5,
-          "heading": "6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day",
-          "word_start": 2548,
-          "word_end": 2989,
-          "para_start": 138,
-          "para_end": 167,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-05.html"
-        },
-        {
-          "n": 6,
-          "heading": "6.2   THE WORKSHOP   |   Buffalo, NY",
-          "word_start": 2990,
-          "word_end": 3526,
-          "para_start": 168,
-          "para_end": 202,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-06.html"
-        },
-        {
-          "n": 7,
-          "heading": "6.3   THE HOTEL ROOM   |   Buffalo, NY",
-          "word_start": 3527,
-          "word_end": 5989,
-          "para_start": 203,
-          "para_end": 367,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-07.html"
-        },
-        {
-          "n": 8,
-          "heading": "7.  THE FIREBIRDS   |   MIT - Boston, MA  \t                   May 24, 2005",
-          "word_start": 5990,
-          "word_end": 7966,
-          "para_start": 368,
-          "para_end": 479,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-08.html"
-        },
-        {
-          "n": 9,
-          "heading": "8.1   DISSOLUTION   |   Cornell - Ithaca, NY \t      Present Day",
-          "word_start": 7967,
-          "word_end": 8530,
-          "para_start": 480,
-          "para_end": 503,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-09.html"
-        },
-        {
-          "n": 10,
-          "heading": "8.2 THE CLASSROOM | Cornell \t\t\t       Ithaca, NY",
-          "word_start": 8531,
-          "word_end": 9302,
-          "para_start": 504,
-          "para_end": 553,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-10.html"
-        },
-        {
-          "n": 11,
-          "heading": "8.3 THE CORRIDOR",
-          "word_start": 9303,
-          "word_end": 9820,
-          "para_start": 554,
-          "para_end": 574,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-11.html"
-        },
-        {
-          "n": 12,
-          "heading": "8.4   RECOGNITION",
-          "word_start": 9821,
-          "word_end": 9943,
-          "para_start": 575,
-          "para_end": 580,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-12.html"
-        },
-        {
-          "n": 13,
-          "heading": "9.1  Wednesday Dinner",
-          "word_start": 9944,
-          "word_end": 11912,
-          "para_start": 581,
-          "para_end": 659,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-13.html"
-        },
-        {
-          "n": 14,
-          "heading": "9.2   The Tuning",
-          "word_start": 11913,
-          "word_end": 12058,
-          "para_start": 660,
-          "para_end": 666,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-14.html"
-        },
-        {
-          "n": 15,
-          "heading": "9.3  The Office",
-          "word_start": 12059,
-          "word_end": 12299,
-          "para_start": 667,
-          "para_end": 675,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-15.html"
-        },
-        {
-          "n": 16,
-          "heading": "9.4   The Guillotine",
-          "word_start": 12300,
-          "word_end": 13136,
-          "para_start": 676,
-          "para_end": 712,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-16.html"
-        },
-        {
-          "n": 17,
-          "heading": "9.5   Into the Storm",
-          "word_start": 13137,
-          "word_end": 13395,
-          "para_start": 713,
-          "para_end": 721,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-17.html"
-        },
-        {
-          "n": 18,
-          "heading": "9.6  It takes a Beating",
-          "word_start": 13396,
-          "word_end": 13823,
-          "para_start": 722,
-          "para_end": 738,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-18.html"
-        },
-        {
-          "n": 19,
-          "heading": "9.7  You Can Hear It, Yes?",
-          "word_start": 13824,
-          "word_end": 14587,
-          "para_start": 739,
-          "para_end": 778,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-19.html"
-        },
-        {
-          "n": 20,
-          "heading": "VIII.  Reliquia   |   Up From the Depths",
-          "word_start": 14588,
-          "word_end": 15299,
-          "para_start": 779,
-          "para_end": 800,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-20.html"
+          "n": 2,
+          "heading": "THE REHEARSAL HALL",
+          "word_start": 2,
+          "word_end": 3219,
+          "para_start": 2,
+          "para_end": 109,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-02.html"
         }
       ]
     },
@@ -302,139 +118,31 @@
       "num": 4,
       "slug": "chapter-04",
       "label": "Chapter 4",
-      "title": "Exercises in Humanity",
-      "subtitle": "",
-      "word_count": 9934,
-      "paragraph_count": 435,
-      "scene_count": 14,
+      "title": "The Edge of Discovery",
+      "subtitle": "an epistemic fugue in four voices",
+      "word_count": 1222,
+      "paragraph_count": 33,
+      "scene_count": 2,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.txt",
       "scenes": [
         {
           "n": 1,
-          "heading": "10.1  The House on the Hill",
+          "heading": "4",
           "word_start": 1,
-          "word_end": 890,
+          "word_end": 1,
           "para_start": 1,
-          "para_end": 46,
+          "para_end": 1,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html"
         },
         {
           "n": 2,
-          "heading": "10.2  Walk  A   |   for Roger, coffee, scone, and Mom",
-          "word_start": 891,
-          "word_end": 1334,
-          "para_start": 47,
-          "para_end": 71,
+          "heading": "THE APARTMENT",
+          "word_start": 2,
+          "word_end": 1222,
+          "para_start": 2,
+          "para_end": 33,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-02.html"
-        },
-        {
-          "n": 3,
-          "heading": "10.3  The Assessment",
-          "word_start": 1335,
-          "word_end": 2212,
-          "para_start": 72,
-          "para_end": 101,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-03.html"
-        },
-        {
-          "n": 4,
-          "heading": "10.4  Walk   B   |   for David, Roger and Easy Hill incline",
-          "word_start": 2213,
-          "word_end": 2330,
-          "para_start": 102,
-          "para_end": 104,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-04.html"
-        },
-        {
-          "n": 5,
-          "heading": "10.5  THE CHAPEL REHEARSAL",
-          "word_start": 2331,
-          "word_end": 3751,
-          "para_start": 105,
-          "para_end": 149,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-05.html"
-        },
-        {
-          "n": 6,
-          "heading": "11.1  Walk C     |    for David, Roger, towel, and crowbar",
-          "word_start": 3752,
-          "word_end": 4805,
-          "para_start": 150,
-          "para_end": 206,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-06.html"
-        },
-        {
-          "n": 7,
-          "heading": "11.2  THE CAFÉ",
-          "word_start": 4806,
-          "word_end": 5615,
-          "para_start": 207,
-          "para_end": 242,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-07.html"
-        },
-        {
-          "n": 8,
-          "heading": "11.2  walk  D - Part 1    |    For Celeste and David",
-          "word_start": 5616,
-          "word_end": 5979,
-          "para_start": 243,
-          "para_end": 261,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-08.html"
-        },
-        {
-          "n": 9,
-          "heading": "11.3  The bench",
-          "word_start": 5980,
-          "word_end": 7226,
-          "para_start": 262,
-          "para_end": 317,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-09.html"
-        },
-        {
-          "n": 10,
-          "heading": "11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light",
-          "word_start": 7227,
-          "word_end": 7495,
-          "para_start": 318,
-          "para_end": 324,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-10.html"
-        },
-        {
-          "n": 11,
-          "heading": "11.5  The house on the hill (return)",
-          "word_start": 7496,
-          "word_end": 8236,
-          "para_start": 325,
-          "para_end": 361,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-11.html"
-        },
-        {
-          "n": 12,
-          "heading": "11.6  The draft",
-          "word_start": 8237,
-          "word_end": 9046,
-          "para_start": 362,
-          "para_end": 402,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-12.html"
-        },
-        {
-          "n": 13,
-          "heading": "11.7  Walk  E   |   for David, Celeste, notebook, and boundaries",
-          "word_start": 9047,
-          "word_end": 9366,
-          "para_start": 403,
-          "para_end": 416,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-13.html"
-        },
-        {
-          "n": 14,
-          "heading": "11.8  10 Minutes, Maybe Twelve",
-          "word_start": 9367,
-          "word_end": 9934,
-          "para_start": 417,
-          "para_end": 435,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-14.html"
         }
       ]
     },
@@ -442,13 +150,403 @@
       "num": 5,
       "slug": "chapter-05",
       "label": "Chapter 5",
+      "title": "EXPOSITION",
+      "subtitle": "",
+      "word_count": 2536,
+      "paragraph_count": 135,
+      "scene_count": 4,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "5.1  SUBJECT  |  Buffalo, NY  \t\t\t      Present Day",
+          "word_start": 2,
+          "word_end": 242,
+          "para_start": 2,
+          "para_end": 11,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "5.2   ANSWER   |   MIT - Boston, MA       \t                 April 11, 2005",
+          "word_start": 243,
+          "word_end": 1306,
+          "para_start": 12,
+          "para_end": 70,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "5.3   SUBJECT   |    Buffalo, NY \t\t\t      Present Day",
+          "word_start": 1307,
+          "word_end": 2034,
+          "para_start": 71,
+          "para_end": 98,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "5.4   ANSWER   |   MIT - Boston, MA \t                                   May 24, 2005",
+          "word_start": 2035,
+          "word_end": 2536,
+          "para_start": 99,
+          "para_end": 135,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "slug": "chapter-06",
+      "label": "Chapter 6",
+      "title": "EPISODE I",
+      "subtitle": "",
+      "word_count": 3442,
+      "paragraph_count": 230,
+      "scene_count": 3,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day",
+          "word_start": 3,
+          "word_end": 444,
+          "para_start": 2,
+          "para_end": 31,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "6.2   THE WORKSHOP   |   Buffalo, NY",
+          "word_start": 445,
+          "word_end": 981,
+          "para_start": 32,
+          "para_end": 66,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "6.3   THE HOTEL ROOM   |   Buffalo, NY",
+          "word_start": 982,
+          "word_end": 3442,
+          "para_start": 67,
+          "para_end": 230,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "slug": "chapter-07",
+      "label": "Chapter 7",
+      "title": "EPISODE II",
+      "subtitle": "",
+      "word_count": 1980,
+      "paragraph_count": 112,
+      "scene_count": 1,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "7.  THE FIREBIRDS   |   MIT - Boston, MA  \t                   May 24, 2005",
+          "word_start": 3,
+          "word_end": 1980,
+          "para_start": 2,
+          "para_end": 112,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "slug": "chapter-08",
+      "label": "Chapter 8",
+      "title": "STRETTO",
+      "subtitle": "",
+      "word_count": 1971,
+      "paragraph_count": 100,
+      "scene_count": 4,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "8.1   DISSOLUTION   |   Cornell - Ithaca, NY \t      Present Day",
+          "word_start": 2,
+          "word_end": 565,
+          "para_start": 2,
+          "para_end": 25,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "8.2 THE CLASSROOM | Cornell \t\t\t       Ithaca, NY",
+          "word_start": 566,
+          "word_end": 1337,
+          "para_start": 26,
+          "para_end": 75,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "8.3 THE CORRIDOR",
+          "word_start": 1338,
+          "word_end": 1854,
+          "para_start": 76,
+          "para_end": 95,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "8.4   RECOGNITION",
+          "word_start": 1855,
+          "word_end": 1971,
+          "para_start": 96,
+          "para_end": 100,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-04.html"
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "slug": "chapter-09",
+      "label": "Chapter 9",
+      "title": "Fruitful Eve, False Dawn, Fateful Night",
+      "subtitle": "",
+      "word_count": 5353,
+      "paragraph_count": 219,
+      "scene_count": 8,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "9.1  Wednesday Dinner",
+          "word_start": 1,
+          "word_end": 1969,
+          "para_start": 1,
+          "para_end": 79,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "9.2   The Tuning",
+          "word_start": 1970,
+          "word_end": 2115,
+          "para_start": 80,
+          "para_end": 86,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "9.3  The Office",
+          "word_start": 2116,
+          "word_end": 2356,
+          "para_start": 87,
+          "para_end": 95,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "9.4   The Guillotine",
+          "word_start": 2357,
+          "word_end": 3193,
+          "para_start": 96,
+          "para_end": 132,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "9.5   Into the Storm",
+          "word_start": 3194,
+          "word_end": 3452,
+          "para_start": 133,
+          "para_end": 141,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "9.6  It takes a Beating",
+          "word_start": 3453,
+          "word_end": 3880,
+          "para_start": 142,
+          "para_end": 158,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "9.7  You Can Hear It, Yes?",
+          "word_start": 3881,
+          "word_end": 4644,
+          "para_start": 159,
+          "para_end": 198,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "9.8  Up From the Depths",
+          "word_start": 4645,
+          "word_end": 5353,
+          "para_start": 199,
+          "para_end": 219,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-08.html"
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "slug": "chapter-10",
+      "label": "Chapter 10",
+      "title": "Exercises in Humanity",
+      "subtitle": "",
+      "word_count": 9930,
+      "paragraph_count": 434,
+      "scene_count": 14,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "10.1  The House on the Hill",
+          "word_start": 1,
+          "word_end": 886,
+          "para_start": 1,
+          "para_end": 45,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "10.2  Walk  A   |   for Roger, coffee, scone, and Mom",
+          "word_start": 887,
+          "word_end": 1330,
+          "para_start": 46,
+          "para_end": 70,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "10.3  The Assessment",
+          "word_start": 1331,
+          "word_end": 2208,
+          "para_start": 71,
+          "para_end": 100,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "10.4  Walk   B   |   for David, Roger and Easy Hill incline",
+          "word_start": 2209,
+          "word_end": 2326,
+          "para_start": 101,
+          "para_end": 103,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "10.5  THE CHAPEL REHEARSAL",
+          "word_start": 2327,
+          "word_end": 3747,
+          "para_start": 104,
+          "para_end": 148,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "11.1  Walk C     |    for David, Roger, towel, and crowbar",
+          "word_start": 3748,
+          "word_end": 4801,
+          "para_start": 149,
+          "para_end": 205,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "11.2  THE CAFÉ",
+          "word_start": 4802,
+          "word_end": 5611,
+          "para_start": 206,
+          "para_end": 241,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "11.2  walk  D - Part 1    |    For Celeste and David",
+          "word_start": 5612,
+          "word_end": 5975,
+          "para_start": 242,
+          "para_end": 260,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html"
+        },
+        {
+          "n": 9,
+          "heading": "11.3  The bench",
+          "word_start": 5976,
+          "word_end": 7222,
+          "para_start": 261,
+          "para_end": 316,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-09.html"
+        },
+        {
+          "n": 10,
+          "heading": "11.4  WALK D - part 2   |   For Celeste, David, bridge, and porch light",
+          "word_start": 7223,
+          "word_end": 7491,
+          "para_start": 317,
+          "para_end": 323,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-10.html"
+        },
+        {
+          "n": 11,
+          "heading": "11.5  The house on the hill (return)",
+          "word_start": 7492,
+          "word_end": 8232,
+          "para_start": 324,
+          "para_end": 360,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-11.html"
+        },
+        {
+          "n": 12,
+          "heading": "11.6  The draft",
+          "word_start": 8233,
+          "word_end": 9042,
+          "para_start": 361,
+          "para_end": 401,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-12.html"
+        },
+        {
+          "n": 13,
+          "heading": "11.7  Walk  E   |   for David, Celeste, notebook, and boundaries",
+          "word_start": 9043,
+          "word_end": 9362,
+          "para_start": 402,
+          "para_end": 415,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-13.html"
+        },
+        {
+          "n": 14,
+          "heading": "11.8  10 Minutes, Maybe Twelve",
+          "word_start": 9363,
+          "word_end": 9930,
+          "para_start": 416,
+          "para_end": 434,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-14.html"
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "slug": "chapter-12",
+      "label": "Chapter 12",
       "title": "Twin Primes on the six",
       "subtitle": "",
       "word_count": 6444,
       "paragraph_count": 217,
       "scene_count": 7,
-      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.html",
-      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05.txt",
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.txt",
       "scenes": [
         {
           "n": 1,
@@ -457,7 +555,7 @@
           "word_end": 789,
           "para_start": 1,
           "para_end": 23,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html"
         },
         {
           "n": 2,
@@ -466,7 +564,7 @@
           "word_end": 1807,
           "para_start": 24,
           "para_end": 39,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-02.html"
         },
         {
           "n": 3,
@@ -475,7 +573,7 @@
           "word_end": 2924,
           "para_start": 40,
           "para_end": 73,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html"
         },
         {
           "n": 4,
@@ -484,7 +582,7 @@
           "word_end": 3770,
           "para_start": 74,
           "para_end": 93,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html"
         },
         {
           "n": 5,
@@ -493,7 +591,7 @@
           "word_end": 4296,
           "para_start": 94,
           "para_end": 110,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-05.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html"
         },
         {
           "n": 6,
@@ -502,7 +600,7 @@
           "word_end": 6154,
           "para_start": 111,
           "para_end": 205,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-06.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html"
         },
         {
           "n": 7,
@@ -511,7 +609,7 @@
           "word_end": 6444,
           "para_start": 206,
           "para_end": 217,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-07.html"
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html"
         }
       ]
     },
