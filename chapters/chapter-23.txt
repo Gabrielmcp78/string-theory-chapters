@@ -7,14 +7,14 @@ Title:           The Final Decision
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,584
+Word Count:      6,585
 Paragraph Count: 206
 Scene Count:     4
 
-Scene 1: 23.1  The Ultimatum  --  Words 1–1,299  |  Paragraphs 1–44  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
-Scene 2: 23.2  The Final Score  --  Words 1,300–2,252  |  Paragraphs 45–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
-Scene 3: 23.3  The Catwalks  --  Words 2,253–5,964  |  Paragraphs 59–196  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-03.html
-Scene 4: 23.4  Disappearance  --  Words 5,965–6,584  |  Paragraphs 197–206  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-04.html
+Scene 1: 23.1  The Ultimatum  --  Words 1–1,300  |  Paragraphs 1–44  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
+Scene 2: 23.2  The Final Score  --  Words 1,301–2,253  |  Paragraphs 45–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
+Scene 3: 23.3  The Catwalks  --  Words 2,254–5,965  |  Paragraphs 59–196  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-03.html
+Scene 4: 23.4  Disappearance  --  Words 5,966–6,585  |  Paragraphs 197–206  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -23,7 +23,7 @@ Scene 4: 23.4  Disappearance  --  Words 5,965–6,584  |  Paragraphs 197–206  
 23.1  The Ultimatum
 
 
-Morning imposed itself through the window in bands of gold and ferrous blue, sifting through half-drawn Venetian blinds that subdivided the room into alternating stripes of interrogation and reprieve.
+Morning imposed itself through the window in bands of gold and ferrous blue, sifting through the half-drawn Venetian blinds that subdivided the room into alternating stripes of interrogation and reprieve.
 
 David's cheek registered the day's first warmth before the rest of his body agreed to wake. He flexed the right hand and watched blue-black stains, cerulean really, if you caught the light just right, flourish across the veins for a moment and then simply vanish. Two fingers still twitched at intervals, settling and stilling.
 
@@ -64,6 +64,7 @@ Then, at the very moment of its striking, the apartment's doorbell rang. David f
 David gently turned the lock and then the knob of the door, peeking out for a moment. And then, confident that he and the envelope were alone in the building, he opened the door and stepped out into the foyer. David looked down at the well-stuffed package, and leaned down to pick it up. As he delicately released the glue and twine-linked flap, he found perhaps forty or even fifty sheets awaited him. As he took them from their hold, he moved to the far corner where a bench and potted fern awaited him. He sat, and began to read.
 
 Atop the main bundle, a cover letter, addressed to Professor David Lang from...
+
 
 
 
@@ -483,6 +484,7 @@ He stood, envelope in hand, and hesitated. The rules of physics allowed for infi
 The walls, dense with notation, radiated a low-grade heat, as if the equations themselves were exothermic. For a moment, he considered wiping them clean, an act of erasure, a retreat into the myth of a tabula rasa. But he left them. The walls would hold the puzzles, the traps, the solutions and decoys, for whoever needed them next. Let the world find its own way through the labyrinth.
 
 He looped the backpack over one shoulder and crossed the room, pausing only at the threshold. Here, in the wedge of light from the open door, he allowed himself a last audit of the space: the empty glass, the ghostly rectangle where the laptop had been, the smudged path his feet had worn into the linoleum. It was all as he’d left it, only lighter, as if the act of composition had untethered a ballast he’d never wanted in the first place.
+
 
 
 

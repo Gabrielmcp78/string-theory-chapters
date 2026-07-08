@@ -3,27 +3,24 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 6
-Title:           EPISODE I
+Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,442
-Paragraph Count: 230
+Word Count:      3,438
+Paragraph Count: 228
 Scene Count:     3
 
-Scene 1: 6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 3–444  |  Paragraphs 2–31  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   THE WORKSHOP   |   Buffalo, NY  --  Words 445–981  |  Paragraphs 32–66  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 982–3,442  |  Paragraphs 67–230  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 1: 6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day  --  Words 1–440  |  Paragraphs 1–29  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: 6.2   THE WORKSHOP   |   Buffalo, NY  --  Words 441–977  |  Paragraphs 30–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 978–3,438  |  Paragraphs 65–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-EPISODE I
-
 
 6.1   THE INSTRUMENT SHOP  |  Buffalo, NY           Present Day
 
-[Adagio religioso]
 
 [|  Detour  |]
 
@@ -157,8 +154,6 @@ NON-COMPLIANT, and left the room without a goodbye. Her shape already fading, as
 David looked down. His form was blank. It remained uncollected. His pen was dry. He didn’t know if this was on purpose, or in protest.
 
 Had he stayed the whole time? He wasn’t entirely sure. By the time he looked up from the page, it was empty. The room. He was the only person left.
-
-
 
 
 
@@ -493,6 +488,7 @@ He lay back slowly, the slip resting against his chest. The vent continued breat
 And then:
 
 firelight, ash lifting into wind, a field bright with ruin.
+
 
 
 

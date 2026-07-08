@@ -7,7 +7,7 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,806
+Word Count:      3,807
 Paragraph Count: 163
 Scene Count:     5
 
@@ -15,7 +15,7 @@ Scene 1: 17.1  Street Smarts   |   November 28, 2026  --  Words 1–615  |  Para
 Scene 2: 17.2 Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
 Scene 3: 17.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 48–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
 Scene 4: 17.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 84–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
-Scene 5: 17.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 99–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
+Scene 5: 17.5  The Conduction  --  Words 2,082–3,807  |  Paragraphs 99–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -71,7 +71,6 @@ He looked down to find a clementine rolling along the curb. It wobbled once, the
 David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
 
 He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
-
 
 
 
@@ -342,13 +341,15 @@ It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. T
 Beneath the music, in his father’s beautifully measured hand, was a note.
 
 
+
+
 David,
 
 Don’t judge it, my son. Just once, for me, just play.
 
 I always loved listening to you play.
 
-—Dad
+—Your Dad
 
 
 He stared at the page until the ink blurred.

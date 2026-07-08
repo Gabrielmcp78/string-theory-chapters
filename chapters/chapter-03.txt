@@ -8,15 +8,13 @@ Subtitle:        I.   Allegro sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,215
-Paragraph Count: 107
+Word Count:      3,213
+Paragraph Count: 106
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-[Largo maestoso]
 
 The Music School’s residence on East Hill had never resolved into a single, settled idea. It was ever more of a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again.
 
@@ -175,6 +173,7 @@ His eyes twitched beneath closed lids before opening—bleary, confused, then sh
 
 He saw what he’d done, saw what she’d been carrying while he explored his numeric wonder-verse. The knowledge would keep him awake all night, turning over what he’d learned and what it had cost, again.
 
+
 [III.  Allegro]
 
 They resolved to regroup. Finding the violinists graciously willing, they launched into the third and final movement. The allegro opened with brittle, percussive throng. David was present, engaged; he and Roger even shared a startled moment of collective terror and exhilaration, cello to violin, as they climbed the wall of a fierce modulation.
@@ -183,7 +182,6 @@ Then, thirteen seconds less than two minutes in, rehearsal marker thirty-seven, 
 
 
 SNAP!
-
 
 
 This was not the gentle pop of a worn string, but a violent detonation. The cello’s C string exploded under tension, a silver whip loosed at dangerous speed. It cracked like a gunshot, slicing the air at eye level.

@@ -4,19 +4,16 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 4
 Title:           THE APARTMENT
-Subtitle:        an epistemic fugue in four voices
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,219
-Paragraph Count: 31
+Word Count:      1,200
+Paragraph Count: 27
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-[Adagio, con malinconia]
 
 As he left the music school, the snow-lit quad stretched before him, a frozen ledger of the passing of souls. Two sets of footprints: hers and his, running parallel until they split. At that point, the path they’d shared for years broke quietly apart: hers turning toward the bridge, his descending into the dark fold of Lower East Hill.
 
@@ -39,8 +36,6 @@ In the kitchen, David found himself uncertain whether the hollowness was hunger 
 
 ⁂
 
-
-[Rallentando]
 
 As he sat down to eat, his notebook slipped from the arm of the couch, cozying up beside him like a supplicant. Soon its pages were fat with the whispers of midnight epiphanies: diagrams of harmonic oscillator eigenstates and the jagged calculus of vibrato dynamics. His handwriting slanted forward, slashing through lines,  tearing the paper. The sound of the ruptures echoing the cello string’s snap.
 
@@ -81,11 +76,11 @@ Outside the brick, beyond the city’s pall of light, earth sounded its eternal 
 
 
 
+
 The Edge of Discovery
 
-[an epistemic fugue in four voices]
 
-for shuttle bus, beer bottle, travel brochure, and bonfire
+
 
 
 

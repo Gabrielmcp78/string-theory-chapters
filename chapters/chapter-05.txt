@@ -3,24 +3,21 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 5
-Title:           EXPOSITION
+Title:           Now… Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,536
-Paragraph Count: 135
+Word Count:      2,535
+Paragraph Count: 134
 Scene Count:     4
 
-Scene 1: 5.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 2–242  |  Paragraphs 2–11  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
-Scene 2: 5.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 243–1,306  |  Paragraphs 12–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
-Scene 3: 5.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,307–2,034  |  Paragraphs 71–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
-Scene 4: 5.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,035–2,536  |  Paragraphs 99–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
+Scene 1: 5.1  SUBJECT  |  Buffalo, NY  			      Present Day  --  Words 1–241  |  Paragraphs 1–10  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
+Scene 2: 5.2   ANSWER   |   MIT - Boston, MA       	                 April 11, 2005  --  Words 242–1,305  |  Paragraphs 11–69  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-02.html
+Scene 3: 5.3   SUBJECT   |    Buffalo, NY 			      Present Day  --  Words 1,306–2,033  |  Paragraphs 70–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-03.html
+Scene 4: 5.4   ANSWER   |   MIT - Boston, MA 	                                   May 24, 2005  --  Words 2,034–2,535  |  Paragraphs 98–134  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-EXPOSITION
-
 
 
 5.1  SUBJECT  |  Buffalo, NY          Present Day
@@ -309,6 +306,9 @@ She didn’t yell. She never did. Not when her father vanished. Not when David c
 And that was all it took.  He froze. Exhaled. Silence pressed in like gravity.
 
 “I’m on my way.”
+
+
+
 
 
 
