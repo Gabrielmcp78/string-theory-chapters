@@ -7,7 +7,7 @@ Title:           Exercises in Humanity
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,747
+Word Count:      3,769
 Paragraph Count: 148
 Scene Count:     5
 
@@ -15,7 +15,7 @@ Scene 1: 10.1  The House on the Hill  --  Words 1–886  |  Paragraphs 1–45  |
 Scene 2: 10.2  Walk  A   |   for Roger, coffee, scone, and Mom  --  Words 887–1,330  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
 Scene 3: 10.3  The Assessment  --  Words 1,331–2,208  |  Paragraphs 71–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
 Scene 4: 10.4  Walk   B   |   for David, Roger and Easy Hill incline  --  Words 2,209–2,326  |  Paragraphs 101–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: 10.5  THE CHAPEL REHEARSAL  --  Words 2,327–3,747  |  Paragraphs 104–148  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 5: 10.5  THE CHAPEL REHEARSAL  --  Words 2,327–3,769  |  Paragraphs 104–148  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -291,7 +291,7 @@ Across the church, attention shifted. Heads lifted. Programs lowered. Even those
 
 The question was carried more by conviction than volume.
 
-What met it was not a response but a rearrangement. In Rieger, a visible tightening. Calculation moving behind the eyes. From Linn, readiness held in check. And from Celeste, after the briefest pause, the smallest inclination of the head.
+What met it was not a response but a rearrangement. In Eleanor, a visible tightening whispered through her, a leveled calculation moving behind the eyes. From Linn, readiness held in check. And from Celeste, after the briefest pause, coupled with an impossible yet consistently precise read of the others, conveyed the groups simple acquiescence with the smallest inclination of her head.
 
 It was enough to signal David that he could continue.
 
@@ -332,6 +332,9 @@ He nodded, the motion stirring a fresh ache he chose to ignore.
 “But… in an hour, say,” he added. “I have a meeting.” Then, quieter, with no flourish, the true offering: “We’ll talk about the tuning.”
 
 She glanced at Linn. He gave a near-imperceptible nod. The rehearsal was over. The work was just beginning.
+
+
+
 
 
 

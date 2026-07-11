@@ -7,14 +7,14 @@ Title:           The Solar Maximus Connection
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,088
-Paragraph Count: 214
+Word Count:      8,120
+Paragraph Count: 215
 Scene Count:     4
 
-Scene 1: 14.1  Preliminary Observations  --  Words 1–900  |  Paragraphs 1–22  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.2  Method and Resonance  --  Words 901–1,976  |  Paragraphs 23–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.3  Findings and Implications  --  Words 1,977–2,770  |  Paragraphs 25–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.4 Lossless Transfers  --  Words 2,771–8,088  |  Paragraphs 38–214  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 1: 14.1  Preliminary Observations  --  Words 1–932  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2  Method and Resonance  --  Words 933–2,008  |  Paragraphs 24–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3  Findings and Implications  --  Words 2,009–2,802  |  Paragraphs 26–38  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 Lossless Transfers  --  Words 2,803–8,120  |  Paragraphs 39–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -29,7 +29,9 @@ His cheek, still marked by the fading glyph of the assault, had shifted from dee
 
 The table was a topography of obsession. Manuscript folios, birth registers, death rolls mingled with solar ephemerides and a monograph on “The Waxing and Waning of Geniuses, 1640–1911.” At the edge, a row of index cards advanced, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it.
 
-He paused, pen mid-notation, and regarded the cards with skeptical intimacy. The line of names halted at a space cleared for one object: the tuning fork. Gifted, or inflicted, by the old woman of indeterminate provenance. Its metallic sheen looked clinical against the otherwise paper-soft room. He’d measured its mass, mapped its decay on a battered oscilloscope, even attempted to analyze its alloy by licking it and calibrating the aftertaste. It defied classification. What gnawed at him most was the phenomenon, observed more than once and subtle enough to question, where the fork vibrated in response to certain equations or dates.
+He paused, pen mid-notation, and regarded the cards with skeptical intimacy. The line of names halted at a space cleared for one object: the tuning fork. Its metallic sheen looked clinical against the otherwise paper-soft room. He’d measured its mass, mapped its decay on a battered oscilloscope, even attempted to analyze its alloy by licking it and calibrating the aftertaste. It defied classification. What gnawed at him most was the now emerging phenomenon, observed more than once, where the fork had begun to vibrate  in response to certain equations or dates. As if this damn fork was not strange enough to begin with. The last 28 hours had cleanly swallowed it in a new habit hole of what… he didn’t fucking know.
+
+A minor in mythology might have been a good idea dumbass!
 
 He stared at the next card, Leibniz, 1646, Leipzig, and then at the solar chart pinned above the lamp. At first: nothing. As he moved the card rightward, aligning its date with a Schwabe cycle peak scrawled in Sharpie, the fork pulsed, an awareness that ran the length of his radius and ulna.
 
