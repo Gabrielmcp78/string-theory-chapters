@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-14",
-  "total_words": 120248,
+  "total_words": 120296,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -1477,8 +1477,8 @@
       "label": "Chapter 27",
       "title": "ELEGY… FOR ALL",
       "subtitle": "",
-      "word_count": 3731,
-      "paragraph_count": 294,
+      "word_count": 3030,
+      "paragraph_count": 233,
       "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.txt",
@@ -1550,10 +1550,141 @@
           "n": 8,
           "heading": "27.7 For All",
           "word_start": 2821,
-          "word_end": 3731,
+          "word_end": 3030,
           "para_start": 214,
-          "para_end": 294,
+          "para_end": 233,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-08.html"
+        }
+      ]
+    },
+    {
+      "num": -5,
+      "slug": "appendix",
+      "label": "Appendix",
+      "title": "FIELD PROTOCOL #47: TONAL ACTIVATION",
+      "subtitle": "National Museum Installation & Operational Field Manual",
+      "word_count": 749,
+      "paragraph_count": 65,
+      "scene_count": 13,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "Appendix | Field Protocol #47: Tonal Activation",
+          "word_start": 1,
+          "word_end": 7,
+          "para_start": 1,
+          "para_end": 1,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "National Museum Installation Note | Washington, D.C.",
+          "word_start": 8,
+          "word_end": 212,
+          "para_start": 2,
+          "para_end": 7,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "Field Protocol #47 | Operational Manual",
+          "word_start": 213,
+          "word_end": 238,
+          "para_start": 8,
+          "para_end": 11,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "1. Instrument Resonance",
+          "word_start": 239,
+          "word_end": 286,
+          "para_start": 12,
+          "para_end": 16,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "2. Entering Coherence",
+          "word_start": 287,
+          "word_end": 332,
+          "para_start": 17,
+          "para_end": 21,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "3. Initial Harmonic Strike",
+          "word_start": 333,
+          "word_end": 375,
+          "para_start": 22,
+          "para_end": 26,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "4. Environmental Phase-Lock",
+          "word_start": 376,
+          "word_end": 420,
+          "para_start": 27,
+          "para_end": 31,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "5. Structural Tuning",
+          "word_start": 421,
+          "word_end": 456,
+          "para_start": 32,
+          "para_end": 35,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-08.html"
+        },
+        {
+          "n": 9,
+          "heading": "6. Dissonance Introduction",
+          "word_start": 457,
+          "word_end": 500,
+          "para_start": 36,
+          "para_end": 40,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-09.html"
+        },
+        {
+          "n": 10,
+          "heading": "7. Modulation Trigger",
+          "word_start": 501,
+          "word_end": 538,
+          "para_start": 41,
+          "para_end": 45,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-10.html"
+        },
+        {
+          "n": 11,
+          "heading": "8. Coherence Recognition",
+          "word_start": 539,
+          "word_end": 583,
+          "para_start": 46,
+          "para_end": 50,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-11.html"
+        },
+        {
+          "n": 12,
+          "heading": "9. Closure Threshold",
+          "word_start": 584,
+          "word_end": 620,
+          "para_start": 51,
+          "para_end": 55,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-12.html"
+        },
+        {
+          "n": 13,
+          "heading": "10. Identity Extraction",
+          "word_start": 621,
+          "word_end": 749,
+          "para_start": 56,
+          "para_end": 65,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-13.html"
         }
       ]
     }

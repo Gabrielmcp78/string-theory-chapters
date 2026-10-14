@@ -28,7 +28,7 @@ BOOK_TITLE  = "String Theory"
 AUTHOR      = "Gabriel McPherson"
 COVER_IMAGE = OUT_DIR / "cover.jpg"   # JPEG cover — embedded in EPUB
 
-CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue|Dedication|Author|Author\'s Note|Author Note|Afterword|Coda)\s*\|\s*$', re.IGNORECASE)
+CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue|Dedication|Author|Author\'s Note|Author Note|Afterword|Coda|Appendix)\s*\|\s*$', re.IGNORECASE)
 
 STYLE_CLASS = {
     'Body':            'body',
@@ -696,15 +696,16 @@ details.scene-analysis[open] summary::after {
 # -- Helpers ------------------------------------------------------------------
 # Special section numbers: negative ints to keep them sortable/distinct from chapters
 # -1=Dedication  -2=Author's Note  -3=Afterword  -4=Coda
-SPECIAL_SLUG  = {0:'overture', -1:'dedication', -2:'authors-note', -3:'afterword', -4:'coda'}
-SPECIAL_LABEL = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda'}
-SPECIAL_NAV   = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda'}
+SPECIAL_SLUG  = {0:'overture', -1:'dedication', -2:'authors-note', -3:'afterword', -4:'coda', -5:'appendix'}
+SPECIAL_LABEL = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda', -5:'Appendix'}
+SPECIAL_NAV   = {0:'Overture', -1:'Dedication', -2:"Author's Note", -3:'Afterword', -4:'Coda', -5:'Appx'}
 
 SPECIAL_WORD_MAP = {
     'overture': 0, 'prologue': 0,
     'dedication': -1,
     "author's note": -2, 'authors note': -2, 'author note': -2, 'author': -2,
     'afterword': -3, 'coda': -4,
+    'appendix': -5,
 }
 
 def _raw_to_num(raw):
@@ -1623,6 +1624,11 @@ PART_METADATA = {
         "title": "PART ELEVEN",
         "subtitle": "The Enduring Legacy & Elegy",
     },
+    99: {
+        "title": "APPENDIX",
+        "subtitle": "National Museum Installation & Operational Field Manual",
+        "descriptor": "Field Protocol #47: Tonal Activation",
+    },
 }
 
 def get_part_num(num):
@@ -1650,6 +1656,8 @@ def get_part_num(num):
         return 10
     if 26 <= num <= 27:
         return 11
+    if num == -5:
+        return 99
     return 99
 
 def make_index_html(chapters_meta, build_date):
@@ -1686,7 +1694,12 @@ def make_index_html(chapters_meta, build_date):
             part_blocks.append(header_html)
 
         slug  = slugify(num)
-        label = "Overture" if num == 0 else f"Ch {num}"
+        if num == 0:
+            label = "Overture"
+        elif num == -5:
+            label = "Appx"
+        else:
+            label = f"Ch {num}"
         part_blocks.append(f"""    <li>
       <span class="ch-num">{label}</span>
       <a href="chapters/{slug}.html">{html.escape(title)}</a>
@@ -1702,7 +1715,8 @@ def make_index_html(chapters_meta, build_date):
     total_words  = sum(wc for _, _, _, wc in chapters_meta)
     num_chapters = len([n for n, _, _, _ in chapters_meta if n > 0])
     has_overture = any(n == 0 for n, _, _, _ in chapters_meta)
-    chapter_desc = f"{num_chapters} chapters" + (" + Overture" if has_overture else "")
+    has_appendix = any(n == -5 for n, _, _, _ in chapters_meta)
+    chapter_desc = f"{num_chapters} chapters" + (" + Overture" if has_overture else "") + (" + Appendix" if has_appendix else "")
 
     epub_filename = f"{BOOK_TITLE}.epub"
     epub_url      = f"{PAGES_URL}/{epub_filename.replace(' ', '%20')}"
@@ -1760,7 +1774,7 @@ def make_index_html(chapters_meta, build_date):
 
 def make_llm_interface_html(chapters_meta, build_date):
     chapter_rows = "\n".join(
-        f'  <tr><td>{"Overture" if num == 0 else num}</td>'
+        f'  <tr><td>{"Overture" if num == 0 else ("Appendix" if num == -5 else num)}</td>'
         f'<td><a href="{PAGES_URL}/chapters/{slugify(num)}.html">'
         f'{PAGES_URL}/chapters/{slugify(num)}.html</a></td>'
         f'<td><a href="{PAGES_URL}/chapters/{slugify(num)}.txt">.txt</a></td>'
@@ -1981,8 +1995,13 @@ def build(src_path=None):
     date       = datetime.now().strftime("%Y-%m-%d")
     num_chaps  = sum(1 for n in all_nums if n > 0)
     has_ov     = 0 in all_nums
-    print(f"Found {len(chapters)} sections ({num_chaps} chapters"
-          + (", 1 overture" if has_ov else "") + ")")
+    has_app    = -5 in all_nums
+    desc_parts = [f"{num_chaps} chapters"]
+    if has_ov:
+        desc_parts.append("1 overture")
+    if has_app:
+        desc_parts.append("1 appendix")
+    print(f"Found {len(chapters)} sections ({', '.join(desc_parts)})")
 
     chapters_meta  = []   # for index page
     chapters_full  = []   # for manifest.json
@@ -2024,7 +2043,12 @@ def build(src_path=None):
                 encoding='utf-8'
             )
 
-        lbl = "Overture" if num == 0 else f"Chapter {num:2d}"
+        if num == 0:
+            lbl = "Overture"
+        elif num == -5:
+            lbl = "Appendix"
+        else:
+            lbl = f"Chapter {num:2d}"
         scene_summary = f"{total_sc} scene{'s' if total_sc != 1 else ''}"
         print(f"  \u2713 {lbl}: {title[:45]}  [{scene_summary}]")
 
