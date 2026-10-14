@@ -746,7 +746,7 @@ def runs_to_html(para):
 def para_to_html(p):
     style = p.style.name
     css_class = STYLE_CLASS.get(style, 'body')
-    if css_class == 'subtitle':
+    if css_class == 'subtitle' or style.startswith('Part'):
         return ''
     inner = runs_to_html(p)
     inner = re.sub(r'\t+', '\u2002\u2002', inner)
@@ -769,7 +769,7 @@ def para_to_text(p):
     """Plain-text rendering for .txt companion files."""
     style = p.style.name
     css_class = STYLE_CLASS.get(style, 'body')
-    if css_class == 'subtitle':
+    if css_class == 'subtitle' or style.startswith('Part'):
         return ''
     t = p.text.strip()
     if not t:
@@ -800,7 +800,10 @@ def parse_chapters(src_path):
     chapters = []
     for j, (start_idx, num) in enumerate(markers):
         end_idx = markers[j+1][0] if j + 1 < len(markers) else len(paras)
-        chapters.append((num, paras[start_idx + 1:end_idx]))
+        ch_paras = paras[start_idx + 1:end_idx]
+        while ch_paras and ch_paras[-1].style.name.startswith('Part'):
+            ch_paras = ch_paras[:-1]
+        chapters.append((num, ch_paras))
     return chapters
 
 def extract_meta(paras):
