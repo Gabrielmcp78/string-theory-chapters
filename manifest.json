@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-14",
-  "total_words": 120529,
+  "total_words": 120248,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -914,9 +914,9 @@
       "label": "Chapter 17",
       "title": "TO GROUND",
       "subtitle": "",
-      "word_count": 7113,
-      "paragraph_count": 246,
-      "scene_count": 4,
+      "word_count": 6832,
+      "paragraph_count": 263,
+      "scene_count": 6,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt",
       "scenes": [
@@ -924,7 +924,7 @@
           "n": 1,
           "heading": "17 | To Ground",
           "word_start": 1,
-          "word_end": 81,
+          "word_end": 73,
           "para_start": 1,
           "para_end": 3,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html"
@@ -932,29 +932,47 @@
         {
           "n": 2,
           "heading": "17.1 The Warnings | Somerville, Massachusetts",
-          "word_start": 82,
-          "word_end": 1173,
+          "word_start": 74,
+          "word_end": 1165,
           "para_start": 4,
           "para_end": 47,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html"
         },
         {
           "n": 3,
-          "heading": "17.2 A Trip to Ithaca | May 25, 2005",
-          "word_start": 1174,
-          "word_end": 5740,
+          "heading": "17.2 The Covenant | May 25, 2005",
+          "word_start": 1166,
+          "word_end": 4880,
           "para_start": 48,
-          "para_end": 190,
+          "para_end": 175,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html"
         },
         {
           "n": 4,
           "heading": "17.3 To Ground",
-          "word_start": 5741,
-          "word_end": 7113,
-          "para_start": 191,
-          "para_end": 246,
+          "word_start": 4881,
+          "word_end": 6032,
+          "para_start": 176,
+          "para_end": 219,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "17.4 The Return | Clark Hall, Midnight",
+          "word_start": 6033,
+          "word_end": 6479,
+          "para_start": 220,
+          "para_end": 243,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "17.5 The Gatehouse",
+          "word_start": 6480,
+          "word_end": 6832,
+          "para_start": 244,
+          "para_end": 263,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-06.html"
         }
       ]
     },

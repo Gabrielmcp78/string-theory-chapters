@@ -7,14 +7,16 @@ Title:           TO GROUND
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,113
-Paragraph Count: 246
-Scene Count:     4
+Word Count:      6,832
+Paragraph Count: 263
+Scene Count:     6
 
-Scene 1: 17 | To Ground  --  Words 1–81  |  Paragraphs 1–3  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
-Scene 2: 17.1 The Warnings | Somerville, Massachusetts  --  Words 82–1,173  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
-Scene 3: 17.2 A Trip to Ithaca | May 25, 2005  --  Words 1,174–5,740  |  Paragraphs 48–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
-Scene 4: 17.3 To Ground  --  Words 5,741–7,113  |  Paragraphs 191–246  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 1: 17 | To Ground  --  Words 1–73  |  Paragraphs 1–3  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: 17.1 The Warnings | Somerville, Massachusetts  --  Words 74–1,165  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: 17.2 The Covenant | May 25, 2005  --  Words 1,166–4,880  |  Paragraphs 48–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 17.3 To Ground  --  Words 4,881–6,032  |  Paragraphs 176–219  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 5: 17.4 The Return | Clark Hall, Midnight  --  Words 6,033–6,479  |  Paragraphs 220–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
+Scene 6: 17.5 The Gatehouse  --  Words 6,480–6,832  |  Paragraphs 244–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -22,7 +24,7 @@ Scene 4: 17.3 To Ground  --  Words 5,741–7,113  |  Paragraphs 191–246  |  UR
 
 17 | To Ground
 
-“In the grand theater of exploration and discovery, there are not turning points, but tuning points—subtle shifts, almost imperceptible, where history hums against the grain of consequence. These are not moments of triumph, but of calibration: the quiet betrayal of what could have been. For in progress we find the ultimate two headed monster; at once a beast that does not ask permission—and a tyrant incapable of absolution.”
+“In the grand theater of exploration and discovery, there exist only tuning points—subtle shifts, almost imperceptible, where history hums against the grain of consequence. These are moments of calibration: the quiet betrayal of what could have been. For in progress we find the ultimate two-headed monster; at once a beast that does not ask permission—and a tyrant incapable of absolution.”
 
 —Dr. Kenji Tsukino, Ithaca, NY 1970
 
@@ -118,7 +120,7 @@ David hung up the telephone. He picked up his coat, his leather notebook, and hi
 *   *   *
 
 
-17.2 A Trip to Ithaca | May 25, 2005
+17.2 The Covenant | May 25, 2005
 
 The corridor of Clark Hall smelled of floor wax, damp wool, and the sulfurous bite of freshly split shale carried up from the gorge cuts below the foundation.
 
@@ -146,7 +148,7 @@ Along the north wall, stacked three high beneath the chalkboards, sat ten of the
 
 David stopped in the center of the rug, his chest seizing. On the side of the top crate, written in black grease pencil in the familiar, trembling hand of his grandfather, was a single archival notation: Theoretical Division / Cavity Telemetry 1945–1964.
 
-Across the room, on the library table beneath the floor-to-ceiling walnut bookshelves, the hidden panel below the nineteenth-century calorimetrics volumes had been clicked shut, but the navy-blue metal filing box sat open and hollow under the shadows, its chipped enamel dull, its brass key resting beside the thrown hasp. It was empty. The archives Rune had lifted from its false compartment had already been transferred to his mahogany desk, arranged within the green-shaded lamplight like exhibits laid out for an inquest: Elliot’s nineteen sixty-four monograph folder bound in black cotton ribbon; a yellowed airmail envelope from the Virgin Islands, its corner secured to a typed memorandum with a rusted steel paperclip; and a single purple-mimeograph sheet bearing the final telemetry of Project ARGO before the catastrophe in the sublevels.
+Across the room, on the library table beneath the floor-to-ceiling walnut bookshelves, the hidden panel below the nineteenth-century calorimetrics volumes had been clicked shut, but the navy-blue metal filing box sat open and hollow under the shadows, its chipped enamel dull, its brass key resting beside the thrown hasp. It was empty. The archives Rune had lifted from its compartment had already been transferred to his mahogany desk, arranged within the green-shaded lamplight: Elliot’s nineteen sixty-four monograph folder bound in black cotton ribbon; a yellowed airmail envelope from Saint John, its corner secured to a typed memorandum with a rusted steel paperclip; and a single purple-mimeograph sheet bearing the technical header of Project ARGO.
 
 The desk held nothing else except an untouched porcelain teacup.
 
@@ -180,21 +182,21 @@ Rune turned his eyes toward Marcus. "You assumed sensor noise."
 
 Marcus hesitated. His knuckles pressed white against the arm of the walnut chair.
 
-"Translate that, Mr. McGrath," Rune said softly. He did not touch his tea. On the desk between them, the dark surface of the amber liquid trembled in delicate concentric rings, holding its geometry against the porcelain rim. "Speak in the vernacular of matter. What does the drop in impedance mean?"
+"Translate that, Mr. McGrath," Rune said softly. He did not touch his tea. On the desk between them, the dark surface of the amber liquid held its geometry against the porcelain rim. "Speak in the vernacular of matter. What does the drop in impedance mean?"
 
-Marcus stared at the rippling tea. The muscles of his throat tightened. "It means the air stops insulating."
+Marcus stared at the tea. The muscles of his throat tightened. "It means the air stops insulating."
 
-Celeste leaned forward, her voice low, measured, cutting through the chill of the office. "Think of an electrical transformer. Two massive conductors separated by an air gap. The upper conductor is the ionosphere, sixty miles above our heads, carrying the electrical wash of the solar wind. The lower conductor is the bedrock beneath our shoes—the Devonian shale basin extending hundreds of miles beneath the region. In ordinary years, the atmosphere between them acts as a dielectric barrier. It insulates. The sky stays the sky; the solid ground stays the ground."
+Celeste leaned forward, her voice low, measured, cutting through the chill of the office. "The boundary behaves as a planetary capacitor. The upper plate is the ionosphere, sixty miles above our heads, carrying the electrical wash of the solar wind. The lower plate is the bedrock beneath our shoes—the Devonian shale basin extending hundreds of miles beneath the plateau. In ordinary years, the atmosphere maintains its dielectric threshold. The sky stays the sky; the ground stays the ground."
 
 She pressed her fingertips flat against the desk blotter.
 
-"Every eleven years, the sun enters its quiet minimum," Celeste said. "The solar wind drops into a nodal null. Under ordinary conditions, the air maintains its dielectric threshold. But when the solar wind velocity drops below four hundred kilometers per second while the interplanetary magnetic field aligns with the crustal dipoles, the dielectric resistance collapses along a nonlinear threshold. The insulating barrier breaks down. The sky and the bedrock lock into phase. They become a single, closed, humming circuit. A planetary transformer, pulsing at sixty-eight hertz."
+"Every eleven years, during the quiet minimum, the solar wind drops into a nodal null. When velocity falls below four hundred kilometers per second and the interplanetary field aligns with crustal dipoles, dielectric resistance collapses along a nonlinear threshold. The sky and the bedrock lock into phase. A closed circuit, pulsing at sixty-eight hertz."
 
 Rune looked directly at Marcus. "And the displacement current, Mr. McGrath? What magnitude did your logs yield?"
 
 Marcus shifted in his seat, his collar suddenly tight against his neck. "Gigawatts. Millions of amperes driving through the continental shelf. A live power line running directly through the crust."
 
-David felt the floorboards answering beneath his boots—a vibration climbing through his heels, his shins, the hollow basin of his pelvis. He remembered his father's hands on the cello in Somerville, the spruce belly opening to take in the room.
+David felt the floorboards answering beneath his boots—a vibration climbing through his heels, his shins, the hollow basin of his pelvis. He remembered his father's hands on the cello years ago in Cambridge, the spruce belly opening to take in the room.
 
 "Everything caught between the sky and the stone," David whispered. "Every town. Every river. Every human rib cage. We are sitting inside the core of the transformer. The whole continent rings."
 
@@ -204,37 +206,29 @@ Rune leaned back slightly. The dark wool of his suit remained stiff against the 
 
 His gaze drifted toward the window, toward the dark silhouette of Rockefeller Hall across the quad.
 
-"Thirty-five years ago, this department went down into the same dark," Rune said. "Harvard had scuttled the work when the equations began to bite, but Kenji Tsukino had seen enough. With Carl as his ally here at Cornell—a planetary theorist who understood that an atmosphere is an active electrical engine—Tsukino found a haven. Cornell was willing to listen to the rock. The physics department was situated directly atop the Devonian shale basin. In the autumn of nineteen sixty-eight, Tsukino drilled ninety feet into the floor of Sublevel-2 beneath Rockefeller Hall, anchoring high-output acoustic transducers deep into the bedrock. He intended to test whether the natural planetary waveguide could be driven and locked into resonance: to prove what you three have spent four years recalculating: that the upper atmosphere and the continental crust form a single closed resonator."
+"Thirty-five years ago, this department investigated the same boundary," Rune said. "Harvard scuttled the theoretical derivation when the equations began to bite, but Cornell was situated directly atop the Devonian shale basin. The university believed the natural waveguide could be mapped. It was an error of institutional hubris. The stone does not yield to linear mathematics, Mr. McGrath. When the resonance was tested, the department buried the work and sealed the ledgers."
 
-Marcus let out a dry, defensive breath, his boot heels digging into the floor wax. "That sounds like folklore, Dr. Ishikawa. A cautionary tale cooked up to rattle graduate students. You are describing a classified project from the Vietnam era and trying to graft it onto our boundary equations."
+Marcus let out a dry, defensive breath, his boot heels digging into the floor wax. "If the department proved it thirty-five years ago, where is the literature? Where are the offprints? You are describing a classified ghost and trying to graft it onto our boundary equations."
 
-Celeste turned on Marcus, her voice cutting through the office with lethal quiet. "Marcus. Be quiet."
+Rune did not blink. His gaze shifted from Marcus to David, calm, sorrowful, and steady.
 
-Marcus stiffened, but the silence from behind the mahogany desk carried an unyielding weight. Rune did not blink. His gaze rested on David, calm, sorrowful, and steady.
+"Your equations do not belong to nineteen seventy, Mr. McGrath. They belong to nineteen forty-five. To discoveries Elliot Lang made in the white light of the Jornada del Muerto."
 
-"Your equations do not belong to nineteen sixty-eight, Mr. McGrath," Rune said. "They belong to the desert. To nineteen forty-five. To discoveries your grandfather made in the white light of the Jornada del Muerto."
-
-David felt a cold prickle across his scalp, followed by a hot surge of stubborn loyalty. "My grandfather never touched atmospheric physics after the war," David said, his voice tightening. "He taught perturbation theory and quantum mechanics at Harvard for thirty years. He kept to his department. He never published a word on weapons or cavity resonances. You have his legal crates stacked against your wall, sir—you know as well as I do that there is nothing in them except old committee files and administrative notes—"
+David felt a cold prickle across his scalp. "My grandfather never touched atmospheric physics after the war," David said, his voice tightening. "He taught perturbation theory and quantum mechanics at Harvard for thirty years. He kept to his department. He never published a word on weapons or cavity resonances. You have his legal crates stacked against your wall, sir—there is nothing in them except old committee files—"
 
 David stopped.
 
 The words died against the slate blackboard. In the lamplight, the ten heavy cardboard boxes sat beneath the half-erased tensors like silent sarcophagi. On the top carton, Elliot's hand in black grease pencil: Theoretical Division / Cavity Telemetry 1945–1964.
 
-If Elliot had walked away from the desert clean, why had Arthur spent thirty years terrified of his own father's study? Why had Elliot spent his final decades behind locked doors in Cambridge, jumping at every ring of the telephone, begging his son never to let David learn an instrument?
-
 Rune watched him across the desk. The amber tea in the porcelain cup was motionless now.
 
-"Last month, when your grandfather's lawyers completed his will," Rune said, his voice falling to a quiet, rhythmic cadence, "I received a letter addressed to this department that included all of his archives from the Manhattan Project—recreated from his memory over the last fifteen years—and the original dossier containing the entirety of his unpublished paper on nonlinear coherent modes in high-energy atmospheric cavities."
-
-Rune let the sentence settle into the cold air of the room.
-
-"Think about what that means, David," Rune continued. "Under the Espionage Act, under wartime security cordons, no man walked out of Los Alamos with a single scrap of paper. Not a notebook. Not a calculation. Not a strip of galvanometer tape. Elliot left the desert with empty hands. For twenty years, he tried to obey the silence. But the math had burned into his retinas. In his final fifteen years, sitting alone in that drafty house on Francis Avenue, watching his colleagues die, he realized the knowledge would perish with him unless he set it down. Page by page, equation by equation, he reconstructed forty crates of classified telemetry entirely from his own memory before the dark took him."
+"Last month, when your grandfather's estate was settled," Rune said, his voice falling to a quiet, rhythmic cadence, "this department took delivery of his papers. Forty boxes. Elliot left the desert in nineteen forty-five with empty hands. Under the Espionage Act, no man walked out of Los Alamos with a single scrap of paper. For twenty years, he tried to obey the silence. But the math had burned into his retinas. In his final years, sitting alone in that drafty house on Francis Avenue, watching his colleagues die, he set it down. Page by page, equation by equation, he reconstructed the telemetry from memory."
 
 Rune reached forward to the heavy manila folder bound with black cotton ribbon. He untied the knot with slow, deliberate fingers.
 
-"And inside those crates," Rune said, "lay this."
+"And pinned to the front of those archives," Rune said, "lay this."
 
-Affixed to the face of the folder with a tarnished steel paperclip was a single slip of cream-colored Harvard Department of Physics memorandum bond. Across it, penned in dark iron-gall ink in Elliot’s sharp, mid-century script—upright strokes straight as an architect's rule, the lower loops carrying the violent, rhythmic tremor of an old man writing against terror—ran a warning:
+Affixed to the face of the folder with a tarnished steel paperclip was a single slip of cream-colored Harvard Department of Physics memorandum bond. Across it, penned in dark iron-gall ink in Elliot’s sharp, mid-century script—upright strokes straight as an architect's rule, the lower loops carrying the violent tremor of an old man writing against terror—ran a warning:
 
 To the unlucky bearers of this vaulted work:
 
@@ -242,7 +236,7 @@ Burn it, bury it, feed it to the depths of earth or space. I am powerless to res
 
 —Elliot G. Lang
 
-David stared at the ink. His breath hitched in his throat. He had known his grandfather's handwriting on formal correspondence, on textbook offprints, on the dry, precise margins of quantum monographs. Elliot Lang had treated emotion as an error in grammar. Seeing the words tortured mind, seeing the word Please scored into the heavy rag so hard the steel nib had grazed the fibers, hollowed out the center of David's chest. Elliot Lang had never pleaded with any human being.
+David stared at the ink. His breath hitched in his throat. Elliot Lang had treated emotion as an error in grammar. Seeing the word Please scored into the heavy rag so hard the steel nib had grazed the fibers hollowed out the center of David's chest.
 
 Rune opened the folder.
 
@@ -260,7 +254,7 @@ The second document was purple mimeograph stock, yellowed at the edges:
 
   $$\text{Department of Physics — Internal Circulation Only}$$
 
-David leaned forward. His eyes fixed on Section 3 of Tsukino's note. The equations were rendered in hand-lettered Greek:
+David leaned forward. His eyes fixed on Section 3 of the technical note. The equations were rendered in hand-lettered Greek:
 
   $$\ddot{x} + \gamma \dot{x} + \omega_0^2 x + \alpha x^3 = F(t)$$
 
@@ -268,39 +262,17 @@ Beneath it, the Duffing frequency relation:
 
   $$\omega_d = \omega_0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$
 
-And below the boundary integral, penned in Tsukino’s tight, upright hand:
+And below the boundary integral, penned in an unfamiliar, tight upright hand:
 
 Lang was right. The mode is real. The question is not whether it exists, but why it persists. —K.T.
 
 Marcus stared at the purple ink, the color draining from his cheeks. "Sixty-eight point four-eight hertz. That is our fundamental. That is the exact carrier in our conveyance curves."
 
-"Your grandfather saw it in the desert telemetry," Rune said quietly. "In nineteen sixty-four, Tsukino persuaded Elliot that twenty years of silence was enough. They believed that if they formalized the theory, Harvard would sponsor an experimental chamber. Elliot drafted the paper lying before you."
-
-Rune paused. His gaze lifted toward the window, where the first stars were piercing the overcast above the gorge.
-
-"Then word reached Princeton. The great man—the director your grandfather had worked under in the desert, to whom he remained loyal to his grave—intervened." Rune’s fingertips touched the corner of the airmail envelope resting beside the blotter, where the tarnished paperclip fastened the Director’s final admonishment to the rag paper. "The director knew what happened when an equation escaped the blackboard and entered matter. From his retreat in the islands, he sent his warning to Tsukino. He summoned Elliot to Olden Lane. He told his former pupil one word: no. The paper was scuttled, the inquiry buried in committee. Elliot accepted the verdict, stamped the draft withdrawn, and locked it in his vault. It was a filial covenant Elliot never broke."
-
-"And Tsukino refused to accept it," Celeste said softly.
-
-"Tsukino had seen enough," Rune replied. "With Carl as his ally here at Cornell, he came upstate to build what Elliot had calculated. On October nineteenth, nineteen seventy-one, they energized the drive units in Sublevel-2."
-
-Rune's voice fell into a flat, solemn timbre that seemed to pull the warmth from the air.
-
-"The stone did not damp the energy. The cubic term produced an un-damped eigenstate. Energy refused to scatter as heat. The shale began to ring. A standing wave at sixty-eight hertz does not remain in rock. It couples directly into bone and fluid. It matches the resonant dimensions of the human cranial vault. It bypasses the eardrum, driving the inner ear and the cranial plates into forced sympathy with the gorge. Within three hours, the men in the bunker could not stand upright. Their balance failed. The walls began to tilt."
-
-He looked directly into David's eyes.
-
-"Tsukino believed his nervous system was merely adjusting to a higher order of coherence," Rune said. "He refused to throw the main breaker. At dawn, the university forced the steel fire doors. Tsukino was curled on the concrete, both hands clamped over his ears, humming an open fifth to keep his skull from splitting under the resonance. The project was scrubbed from the ledgers. The lower corridor was sealed. Tsukino spent the remainder of his life in a sanatorium in the Pennsylvania hills. He died in nineteen eighty-four without writing another symbol."
-
-Silence settled over the room, absolute and cold. The low thrum of Fall Creek rose through the foundation, rhythmic as a pulse.
-
-"Elliot knew," David whispered. "He knew all along."
-
-"He knew," Rune said. "He survived because he submitted to the great man's judgment. He lived thirty years in Cambridge with the sound locked inside his head. But by nineteen ninety, with the desert veterans fading and the official vaults still sealed, Elliot understood that the silence would outlive him. That was when he sat down with the black ink."
+"Your grandfather calculated it in nineteen sixty-four," Rune said quietly. "He submitted the draft to the department. Within a week, the inquiry was halted, the paper withdrawn, the copies locked away. Elliot accepted the verdict. He honored the silence for forty years."
 
 Rune leaned forward, his hands resting flat against the mahogany desk, his knuckles rigid as boxwood. His eyes fixed on David with a sudden, chilling scrutiny.
 
-"And you are telling me," Rune said, his voice dropping into a razor-thin, inquisitorial quiet, "that your grandfather never gave any of this data to you? Never whispered it in your ear? Never suggested you take a look, or sent a duplicate of this dossier to you at MIT just like he sent to me? You are telling me that eight months after he is in the ground, his grandson walks through my door onto the exact same frequency by pure accident?"
+"And you are telling me," Rune said, his voice dropping into a razor-thin quiet, "that your grandfather never gave this data to you? Never whispered it in your ear? Never suggested you take a look, or sent a duplicate of this dossier to you at MIT? You are telling me that eight months after he is in the ground, his grandson walks through my door onto the exact same frequency by pure accident?"
 
 David felt the blood surge hot into his temples, his voice cracking with raw, unvarnished desperation.
 
@@ -400,7 +372,7 @@ Rune Ishikawa did not blink.
 
 Slowly, his eyes rose to meet hers, holding her gaze with the quiet, immovable weight of cold river stone.
 
-His gloved hand turned the heavy monograph folder face down over the Virgin Islands envelope and that single mimeographed report. In a single measured motion, he slid the bundle into the front drawer of the mahogany desk and eased the oak drawer shut until the brass latch clicked into place.
+His gloved hand turned the heavy monograph folder face down over the mimeographed report. In a single measured motion, he slid the papers into the front drawer of the mahogany desk and eased the oak drawer shut until the brass latch clicked into place.
 
 "No, Ms. Armitage," Rune said softly. "The engine failed."
 
@@ -453,7 +425,7 @@ His hand hovered above the vibrating tuning fork standing upright in the mud. Th
 
 "It isn't decaying," Celeste whispered. She stared down at the tines in the mist, her breath frosting against the dark. "A laboratory fork loses its amplitude in thirty seconds. It has been three minutes. The air and the soil should have damped it to silence."
 
-David knelt closer, his hand hovering an inch above the tines without touching them. The air between his fingers felt charged, dense with an acoustic shear wave. "It isn't vibrating on its own," he said, the realization settling into his chest like an iron weight. "The damping isn't failing. The shale shelf is driving it. The ground is feeding energy into the steel."
+David knelt closer, his hand hovering an inch above the tines without touching them. The air between his fingers felt charged, dense with an acoustic shear wave. "The damping isn't failing," he said, the realization settling into his chest like an iron weight. "The shale shelf is driving it. The ground is feeding energy into the steel."
 
 Marcus stepped back from the trench, his knuckles tight around the hickory spade, his eyes darting between the tines and the dark outline of the gorge.
 
@@ -493,25 +465,91 @@ David closed his eyes and let the words settle.
 
 "Let’s go home," he said.
 
-They walked down East Hill together to the gravel parking lot behind the observatory.
+They walked down East Hill together through the freezing mist toward the gravel parking lot behind the observatory.
 
-The Wagoneer waited, its engine idling low with a guttural, eight-cylinder choke. Marcus crawled over the front bench into the back, pulling his coat collar high against the damp as David and Celeste took the front seats.
+*   *   *
 
-David drove. They stopped at the reserve gatehouse, where an elderly campus guard in an oilcloth poncho took David’s driver’s license, checking the details against his clipboard under a yellow flashlight.
 
-"David Arthur Lang," the guard read aloud. "Date of birth?"
+17.4 The Return | Clark Hall, Midnight
 
-"November twenty-eighth, nineteen seventy-nine," David said.
+The lamp on the mahogany desk burned yellow against the dark.
 
-The guard nodded, handed the plastic card back through the window, and raised the wooden gate arm. "Drive safe down the hill, folks. Fog’s thick as lard on the valley road."
+Outside the arched window, the mist had turned to a fine, sleeting rain that ticked against the glass like sand. Clark Hall was hollow, stripped of footfalls, settling into the Devonian rock with the slow, creaking groan of iron joists cooling in the damp.
 
-The Wagoneer crept down the switchbacks of University Avenue, its red taillights painting two dull crimson streaks through the vapor behind them.
+Rune Ishikawa stood by the corner sideboard. From a cut-crystal decanter, he poured two fingers of amber Scotch into a low tumbler.
 
-They drove south toward Binghamton for sixty miles in a silence so thick it hurt to look the other way. When at last the lashing valley released them toward open road and starlight, Marcus leaned forward between the front bucket seats, shivering slightly as he wiped the fogged windshield with his sleeve.
+He set the decanter down. He did not lift the glass.
 
-His voice was brittle, cracking with exhausted irony:
+He walked to the desk, his leather soles sounding dull against the Persian wool. He pulled the chair out, sat, and drew a small brass key from his waistcoat pocket.
 
-"Tell me we just buried that thing, Dave. Tell me we didn’t just plant it."
+He unlocked the center drawer of the desk.
+
+From within, he lifted out the navy-blue metal filing lock box. The chipped enamel along its edges showed the gray primer underneath; its brass hasp hung loose where it had been thrown open earlier that evening. He set the box squarely upon the green leather blotter.
+
+Beside it lay the three archival items Rune had gathered from the desk: Elliot’s unpublished nineteen sixty-four monograph, Nonlinear Coherent Modes in High-Energy Atmospheric Cavities, stamped withdrawn in dried vermilion; the yellowed airmail envelope from nineteen sixty-five, postmarked Saint John, containing J. Robert Oppenheimer's final directive with its rusted steel paperclip; and the slender folder of purple mimeograph stock bearing the departmental seal of Project ARGO.
+
+Rune opened the ARGO folder beneath the lamplight.
+
+He turned the cover sheet.
+
+There, on the single surviving predictive output sheet from October 19, 1971, below the columns of phase differentials and the boundary integrals that had run through the mainframe before the project was sealed, the teleprinter had struck a solitary concluding output:
+
+  $$\textbf{PROJECT ARGO — PREDICTIVE TELEMETRY RUN 09}$$
+
+  $$\textbf{OCTOBER 19, 1971}$$
+
+  $$\textbf{GLOBAL PHASE LOCK / CRUSTAL CONVERGENCE:}$$
+
+  $$\textbf{NOVEMBER 28, 2026}$$
+
+Rune looked at the date. The purple spirit ink was thirty-four years old, faded slightly where the carbon ribbon had struck thin, but the numbers remained sharp, immutable, cut into the pulp.
+
+Fifty-five years in advance.
+
+The engine had not failed.
+
+Rune closed the folder.
+
+With slow, practiced precision, he placed Elliot’s nineteen sixty-four monograph, the Oppenheimer letter, and the ARGO prediction folder into the navy-blue lock box. He folded the heavy lid down until the steel hasp clicked against the staple, turned the small key, and slid the locked box back into the center drawer of the mahogany desk.
+
+He turned the brass key in the drawer lock and slipped it into his waistcoat pocket.
+
+On the corner of the desk, the Scotch remained untouched.
+
+*   *   *
+
+
+17.5 The Gatehouse
+
+At the foot of University Avenue, where the campus switchbacks leveled into the valley road, the wooden barrier of the security gatehouse hung low across the wet asphalt.
+
+The Wagoneer idled in the mist, its eight-cylinder engine pulsing with a low, guttural cough that rattled the loose chrome of the tailgate. Marcus was curled in the back bench, coat collar pulled over his ears, his breathing shallow and rigid. Celeste sat in the passenger seat, staring straight through the wiper sweep into the rain.
+
+David rolled down the driver’s window. The cold valley damp rushed in, smelling of hemlock runoff and wet brakes.
+
+A campus security guard stepped from the booth, wearing an oiled black poncho that glistened under the sodium floodlights. He held a clipboard beneath the lip of the poncho and extended a thick, calloused palm.
+
+"ID, please."
+
+David reached into his wallet, pulled out his Massachusetts driver’s license, and passed the plastic card through the rain.
+
+The guard clicked on a heavy metal flashlight. The yellow beam cut across the laminate. He checked the name against a carbon-paper ledger on his clipboard, his thumb tracing down the column.
+
+"David Arthur Lang," the guard said, his voice flat with the boredom of a midnight shift. "Confirm your date of birth, Mr. Lang?"
+
+David rested his forehead against the cold steering wheel for a second, feeling the vibration of the engine humming through the column.
+
+"November twenty-eighth, nineteen seventy-nine."
+
+The guard glanced once through the window, comparing David’s face to the laminate, then clicked off the torch. He handed the license back.
+
+"Thank you, Professor. Drive safe down the hill. Fog’s thick as lard on the valley road."
+
+The guard stepped into the booth and pulled the mechanical lever. The wooden counterweighted barrier arm creaked upward into the mist.
+
+David put the Wagoneer in gear. The tires crunched over the wet limestone gravel, and the car slipped past the barrier, descending into the dark valley road toward Binghamton.
+
+Behind them, the red taillights were swallowed by the mountain fog.
 
 
 PART SEVEN
