@@ -7,14 +7,14 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,552
-Paragraph Count: 440
+Word Count:      7,760
+Paragraph Count: 444
 Scene Count:     4
 
 Scene 1: 15.1 Preliminary Observations  --  Words 1–641  |  Paragraphs 1–61  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
-Scene 2: 15.2 Method and Resonance  --  Words 642–1,563  |  Paragraphs 62–157  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
-Scene 3: 15.3 Findings and Implications  --  Words 1,564–2,533  |  Paragraphs 158–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
-Scene 4: 15.4 Lossless Transfers  --  Words 2,534–7,552  |  Paragraphs 260–440  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
+Scene 2: 15.2 Method and Resonance  --  Words 642–1,644  |  Paragraphs 62–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
+Scene 3: 15.3 Findings and Implications  --  Words 1,645–2,720  |  Paragraphs 159–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 2,721–7,760  |  Paragraphs 264–444  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -159,7 +159,7 @@ The cello waited.
 
 Enough of that.
 
-He settled the instrument against his sternum, adjusted the spike, and brought the strings into agreement beneath his hand.
+He settled the instrument against his sternum, adjusted the steel spike until it seated firmly into the grain of the oak floor, and brought the strings into agreement beneath his hand.
 
 The tuning fork stood on the desk.
 
@@ -212,6 +212,8 @@ Pitch alone was insufficient. The geometric relationship between string node, re
 He leaned harder into the bow.
 
 The room locked into phase.
+
+The cello was not suspended in empty space. Its steel spike bit through the tongue-and-groove oak into the joists below, mechanically anchoring the instrument to the building's footings and the Devonian bedrock underneath East Hill. When the string caught, the vibration traveled two routes at once: up through the neck into his collarbone, and down through the spike into the floor, turning the apartment into an extended acoustic chamber.
 
 Chalk dust lifted from the desk and arranged itself into fleeting Chladni geometries. The resonance climbed through the cello's neck and nut, entered his sternum, and found the bruise along his jaw with enough precision to suggest a prior acquaintance.
 
@@ -404,7 +406,13 @@ The connection widened.
 
 Solar activity might shape more than exceptional minds. It might alter the material conditions from which responsive structures emerged.
 
-Flesh or timber formed under one sky and not another.
+Alpine spruce during the Maunder Minimum had grown with extraordinarily narrow, uniform annular rings, cell walls dense as slate—conditioned by half a century of cold to propagate sound with zero dispersion.
+
+And wood was merely the youngest layer.
+
+Beneath the floor, beneath the campus, lay three hundred and eighty million years of Devonian shale and siltstone—sediment compressed under inland seas into dense, laminated sheets. Matter under historical stress developed memory. The capacity for resonance was not an abstract property; it was the physical consequence of material constraint.
+
+Flesh, spruce, steel, laminated rock.
 
 Growth as preparation.
 
@@ -426,7 +434,7 @@ Chladni had shown him how matter organized itself beneath vibration. Pythagoras 
 
 Now the Messiah suggested a possibility none of the visions had stated outright.
 
-The material itself might determine how the resonance could be received.
+The material itself might determine how the resonance could be received. The instrument was not an isolated wooden box; through its endpin, it coupled into the foundation, the shale shelf, the entire tectonic basin.
 
 He placed the Messiah card into the chronology.
 
@@ -438,7 +446,7 @@ David drew a line from the Maunder Minimum to the instrument's date.
 
 Then another toward the harmonic sequence.
 
-Steel. Spruce. Flesh.
+Steel. Spruce. Flesh. Bedrock.
 
 The categories were no longer behaving.
 
@@ -725,7 +733,7 @@ Yield.
 
 David pressed his forehead flat to the cold floorboards. Worship had nothing to do with it; acquiescence did. A plain, unvarnished confession: he was not equal to what he had touched. None of them had been.
 
-Then, as if awakened into service, the cello answered the fork. The intervention struck like a wolf tone—that exact, dreaded threshold where a pitch finds the instrument's structural vulnerability and seizes it, drawing the shock wave out of the air and into wood, string, and cavity. What had been rising vertically through David's skull struck the cello instead, dispersing across spruce belly and maple ribs. The pressure did not vanish, but it changed medium. It became absorbable matter. The heavy instrument had held the line against total phase collapse, giving the violence a physical body to inhabit.
+Then, as if awakened into service, the cello answered the fork. Grounded through its steel endpin into the floorboards, the instrument coupled the room's seismic shear directly into its carved interior. The intervention struck like a wolf tone—that exact, dreaded threshold where a pitch finds the instrument's structural vulnerability and seizes it, drawing the shock wave out of the bedrock and the air into wood, string, and cavity. What had been rising vertically through David's skull struck the cello, dispersing across spruce belly and maple ribs. The pressure did not vanish, but it changed medium. It became absorbable matter. The heavy instrument had held the line against total phase collapse, giving the violence a physical body to inhabit.
 
 The tearing upper harmonic thinned first. The tooth-root brightness dulled. The base tone remained, low and absolute, but it had stopped slicing him into white.
 

@@ -8,7 +8,7 @@ Subtitle:        Andante sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,667
+Word Count:      3,745
 Paragraph Count: 146
 Scene Count:     0
 
@@ -100,7 +100,7 @@ David Lang was never late. Never.
 
 For forty-six years, this fact had served to guarantee the rest of him.
 
-He dashed inside. On the ground floor he snatched his overcoat from the stool and forced his arms into the sleeves as he crossed down the long entryway. The mirror beside the front door presented an image that could admittedly use some work, but the circumstances called for triage rather than grooming. He looked away with a huff.
+He dashed inside. On the ground floor he snatched his overcoat from the stool and forced his arms into the sleeves as he crossed down the long entryway. The mirror beside the front door presented an image that could admittedly use some work, but the circumstances demanded immediate triage. He looked away with a huff.
 
 David grabbed the leather folder containing the day’s lecture notes, shoved it into his satchel with Celeste’s book, and within seconds the green glass door slammed behind him as he rushed into the Ivy-Leagued madness of an Ithaca morning.
 
@@ -292,11 +292,11 @@ Shit.
 
 Deep in Sub-level Two, inside a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed.
 
-Trapped air escaped through the seam in a single thin breath.
+The rupture discharged along two separate routes.
 
-The ventilation shaft carried it upward through the buried architecture of East Hill: past biology laboratories and steam conduits, through abandoned storage rooms, behind electrical chases sealed by renovations no one fully remembered. Along the way, machine oil mingled with the mineral dust of old equipment.
+Trapped air escaped through the seam in a single thin breath. The ventilation shaft carried it upward through the buried architecture of East Hill: past biology laboratories and steam conduits, through abandoned storage rooms, behind electrical chases sealed by renovations no one fully remembered. Along the way, machine oil mingled with the mineral dust of old equipment. By the time the air reached Feynman Hall, radiator heat had worked those buried traces into the scent that used to cling to Elliot Lang's sweaters after his nights in the physics building.
 
-By the time the air reached Feynman Hall, radiator heat had worked those buried traces into the scent that used to cling to Elliot Lang's sweaters after his nights in the physics building.
+The second path moved faster, through solid matter. The valve seat gave way against eighty pounds of back-pressure, sending a faint mechanical shear wave into the iron casing. Anchor bolts carried the shudder directly into the bedrock footings. The Devonian shale beneath the campus swallowed the pulse and guided it upward through the foundations of the quad, a quiet micro-tremor shivering through water pipes and steel beams long before the breath of air arrived.
 
 The hallway cooled around David's ankles. The corridor was empty.
 

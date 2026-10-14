@@ -7,17 +7,17 @@ Title:           PHENOM DE GUARE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,807
-Paragraph Count: 293
+Word Count:      6,024
+Paragraph Count: 304
 Scene Count:     7
 
 Scene 1: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
 Scene 2: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.4 Around The Horn  --  Words 2,214–3,779  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,780–4,529  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.6 TEMPORALITY  --  Words 4,530–4,918  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.7 CANTUS  --  Words 4,919–5,807  |  Paragraphs 252–293  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
+Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,426  |  Paragraphs 64–110  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4 Around The Horn  --  Words 2,427–3,996  |  Paragraphs 111–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,997–4,746  |  Paragraphs 196–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6 TEMPORALITY  --  Words 4,747–5,135  |  Paragraphs 240–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7 CANTUS  --  Words 5,136–6,024  |  Paragraphs 263–304  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -225,6 +225,22 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 “Christ. It’s like they’re…” Rune's voice fell away as he shuffled backward, collapsing into the first row of student benches.
 
+The wood of the bench was vibrating.
+
+Faint, steady, unmistakable: the 68.48 Hz fundamental rising through the building's concrete footings, carried up from the Devonian bedrock beneath East Hill.
+
+Rune looked past the glowing boards, through the tall arched windows toward the quad.
+
+The alignment struck him as a physical map he had walked every day for forty years without seeing. Clark Hall's concrete subbasement sunk like an anchor into the shale. The parabolic masonry vault of Sage Chapel across the lawn. The massive stormwater cisterns beneath the grass. The miles of concrete steam conduits blasted through the rock connecting them all.
+
+They were a coupled physical array: a macroscopic acoustic resonator whose boundary conditions were dictated by geology, stone, and steam lines.
+
+In 1971, Tsukino had not manufactured the wave in Sublevel-2; he had driven an interface into an existing resonator. And for twenty-one years, Rune had believed the danger was confined to a buried steel cylinder on East Hill.
+
+David had sat inside the array, his cello endpin biting the floorboards, his skull entrained to the cavity, until the building, the bedrock, and the instrument became one sounding body.
+
+A system's response tells you about the resonator, not the source. The kitchen was rattling because the entire hill had been tuned.
+
 “It’s like they’re alive,” Celeste murmured. “Just waiting for David to come back and finish the work.”
 
 “But where is he?” Marcus’s voice carried through the speaker, urgent and afraid. “If he achieved this breakthrough, if these theories are correct, then where the hell is David?”
@@ -286,7 +302,13 @@ And as the name left his lips, Dr. Kovács said it simultaneously: “David Lang
 
 “Yes, Mira, we are all realizing the same thing. Tell us what you have there,” Marcus encouraged.
 
-“We're seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I'm looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don't care what anyone says—this isn't noise.”Ishikawa studied the final chalkboard, where David's work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:Ψ₍consciousness₎ = ∫ Dφ exp(i S[φ,g,ψ]) | boundary⟩“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”
+“We're seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I'm looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don't care what anyone says—this isn't noise.”
+
+Ishikawa studied the final chalkboard, where David's work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:
+
+  $$\Psi_{\text{consciousness}} = \int \mathcal{D}\phi \, \exp(i S[\phi,g,\psi]) \, |\text{boundary}\rangle$$
+
+“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”
 
 He looked to Celeste, but she wasn't looking at him. She was already moving.
 

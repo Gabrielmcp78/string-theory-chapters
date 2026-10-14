@@ -7,8 +7,8 @@ Title:           TWIN PRIMES ON THE SIX
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,141
-Paragraph Count: 204
+Word Count:      6,339
+Paragraph Count: 202
 Scene Count:     7
 
 Scene 1: 13.1 Falsifiable Fame  --  Words 1–773  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
@@ -16,8 +16,8 @@ Scene 2: 13.2 Dream Lecture  --  Words 774–1,760  |  Paragraphs 20–35  |  UR
 Scene 3: 13.3 Groundbreaking  --  Words 1,761–2,614  |  Paragraphs 36–61  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
 Scene 4: 13.4 Everything He Was Not  --  Words 2,615–3,468  |  Paragraphs 62–81  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
 Scene 5: 13.5 Friendly Forensics  --  Words 3,469–3,996  |  Paragraphs 82–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.6 Ishikawa’s Island  --  Words 3,997–5,853  |  Paragraphs 99–192  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.7 The Thickening  --  Words 5,854–6,141  |  Paragraphs 193–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 6: 13.6 Ishikawa’s Island  --  Words 3,997–6,055  |  Paragraphs 99–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.7 The Thickening  --  Words 6,056–6,339  |  Paragraphs 191–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -246,27 +246,23 @@ Rune’s grip on the receiver tightened. The polished bakelite warmed under his 
 
 He said nothing.
 
-“The conference was just the beginning.” Kline’s voice twitched an octave upward, trying to stabilize. “It’s worse now. It’s bleeding outward. Campus‑wide.”
+“The conference was just the beginning.” Kline’s voice twitched an octave upward, trying to stabilize. “The physical plant telemetry came through thirty minutes ago. It isn’t uniform, Rune. That is what made me pull the operational logs.”
 
 Rune kept his silence. Let him say it all.
 
-Kline’s breathing hitched. “The physics building network hub has been broadcasting a steady 68.48 Hz signal for over eighteen hours. It’s not just noise—it’s rewriting packet structures. Recursive behavior. The main library’s cooling fans have locked into harmonic resonance. They’re singing, Rune. I mean literally. The harmonic sequence matches the cello note described by—by over a dozen students in Lang’s lecture.”
+Kline’s breathing hitched. “At two-fourteen this morning, the analog seismograph bolted to the bedrock in Clark subbasement registered a sustained fundamental at 68.48 Hz. No geological event in the basin. No quarry blasting down the gorge. Just a clean, non-decaying transverse shear wave trapped in the shale. Twelve minutes later, the chilled-water pumps in the utility trench beneath the Arts Quad locked their impellers into harmonic resonance. The steel casings began humming in sympathy. They’re singing, Rune. Literally. The harmonic sequence matches the cello pitch described by over a dozen students in Lang’s lecture.”
 
-Rune closed his eyes. His mind began constructing the shape of the breach.
+Rune’s eyes narrowed into the green pool of lamplight. “You have an aging centrifugal pump with worn bearings, a thermal oscillation in an eighty-year-old steam line, and an exhausted graduate student who believes he can hear numbers. Those are three separate observations, Julian. They are not yet one phenomenon. Do not mistake mechanical coupling for an epistemic collapse.”
 
-“Manifestations, Julian,” Rune assured him, “That's all.”
+“I didn’t call you because of a noisy pump, Rune,” Kline said, his voice dropping into hard, ragged certainty. “The physics building network switch didn't drop its first packet until two-forty-one. Nearly a half hour after the bedrock moved. The router threw checksum faults and began broadcasting recursive headers at 68.48 Hz. But look at the routing map. The switch that failed isn’t on the library’s optical loop. It shares the deep steam conduit. The fault didn’t propagate along the ethernet topology. It followed the six-foot concrete trench blasted through the Devonian shale in 1923. The mechanical shear hit the foundation footings first. The digital artifacts followed the pipe.”
 
-“Identical auditory hallucinations across multiple subjects. Lissajous curves forming on oscilloscopes in labs running separate iterations of Lang’s equations. Curves that shouldn’t even be possible with their setups. And the people—”
+A dangerous stillness settled over the office.
 
-He faltered.
+“The signal isn't radiating across the quad,” Kline pressed. “It's tracking the rock. It touched Clark, then the steam junction under Sage Chapel, and now the bridge abutments over Fall Creek. The campus masonry is acting as a waveguide. It is tracing the exact subterranean footprint Tsukino mapped in nineteen-seventy.”
 
-Rune waited.
+Rune’s voice went flat; a diagnostic inquisition. “The acceleration curve?”
 
-“Their behavior. Faculty, staff. Repetitive language. Recycled cadence. Vacant expression. It's pure resonance, Rune. Like they’re… syncing.”
-
-Rune spoke, flat; a diagnostic inquisition. “The acceleration curve?”
-
-“Matches the projections from the classified models,” Kline said. “Almost exactly. Local anomalies shifting toward full-spectrum phase invasion. We’re at the inflection point, Rune. Maybe past it.”
+“Matches the projections from the classified models,” Kline said. “Almost exactly. Local mechanical coupling shifting toward full-spectrum phase alignment. We’re at the inflection point, Rune. Maybe past it.”
 
 Rune’s voice sharpened. “You’re off‑site.”
 
@@ -419,7 +415,7 @@ And the world was already mid‑air.
 
 13.7 The Thickening
 
-The air in David’s apartment had thickened into something he moved through rather than breathed. The 68.48 Hz frequency had become an inescapable physical medium: resistant, dense, present in his lungs with every breath.
+The air in David’s apartment had thickened into a viscous medium. The 68.48 Hz frequency had become an inescapable physical presence: resistant, dense, settling into his lungs with every breath.
 
 He stood in the kitchen watching a glass of water. Its surface quivered with impossible precision. Standing waves formed a perfect grid, peaks and nodes holding steady. When he touched it, the pattern shattered, then reasserted itself stronger than before.
 

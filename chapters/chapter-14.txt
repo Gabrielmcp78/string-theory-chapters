@@ -7,15 +7,15 @@ Title:           VISIONS AND BURDENS OF KNOWING
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,519
+Word Count:      6,516
 Paragraph Count: 230
 Scene Count:     5
 
-Scene 1: 14.1 The Monochord | Pythagoras  --  Words 1–953  |  Paragraphs 1–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 The Salon | Émilie du Châtelet  --  Words 954–1,887  |  Paragraphs 33–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.3 The Purge  --  Words 1,888–3,873  |  Paragraphs 64–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.4 Resonance | Chladni  --  Words 3,874–5,213  |  Paragraphs 145–191  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
-Scene 5: 14.5 Minimums | Isaac Newton  --  Words 5,214–6,519  |  Paragraphs 192–230  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
+Scene 1: 14.1 The Monochord | Pythagoras  --  Words 1–949  |  Paragraphs 1–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 The Salon | Émilie du Châtelet  --  Words 950–1,883  |  Paragraphs 33–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 The Purge  --  Words 1,884–3,870  |  Paragraphs 64–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 Resonance | Chladni  --  Words 3,871–5,210  |  Paragraphs 145–191  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 Minimums | Isaac Newton  --  Words 5,211–6,516  |  Paragraphs 192–230  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -75,7 +75,7 @@ The tuning fork was still in his right hand. His left lay flat on the desk, char
 
 On the blackboard, the equation had changed.
 
-The ratios stood in crystalline alignment, as if the division of the monochord string had settled into the chalk through physical inevitability. Two and a half millennia of acoustic mechanics had collapsed into twenty feet of slate, meeting his own twenty years of solitary labor at their exact point of intersection. The derivation had arrived as an inheritance rather than an invention, waiting only for an ear willing to register the frequency.
+The ratios stood in crystalline alignment, as if the division of the monochord string had settled into the chalk through physical inevitability. Two and a half millennia of acoustic mechanics had collapsed into twenty feet of slate, meeting his own twenty years of solitary labor at their exact point of intersection. The derivation had arrived as an inheritance, waiting only for an ear willing to register the frequency.
 
 He struck the fork again.
 
@@ -112,7 +112,7 @@ Only then did she speak, still facing the keys.
 
 “Le carré de la vitesse,” she said, and after a beat, “c'est le doublement de l'octave.”
 
-The words reached him as if they belonged to the music rather than to language. She played the figure again, more slowly this time, and he saw the relation in it before he understood it: doubling as increase, doubling as law. Her left hand left the keyboard long enough to touch the abacus on the nearby desk, as though number and sound required no translation between them.
+The words reached him as if they belonged to the music itself, transcending ordinary language. She played the figure again, more slowly this time, and he saw the relation in it before he understood it: doubling as increase, doubling as law. Her left hand left the keyboard long enough to touch the abacus on the nearby desk, as though number and sound required no translation between them.
 
 She turned halfway toward him.
 
@@ -297,7 +297,7 @@ Gypsum and slate retook the field of his focus. The equation remained. So did th
 
 He picked up the chalk and began to write.
 
-The proof advanced with the crystalline certainty of retrieval, each step answering the last as if he were uncovering an existing bedrock rather than fabricating an argument. His hand moved without trembling. The ratios resolved. The high ringing in his inner ear receded into a calm, even tone.
+The proof advanced with the crystalline certainty of retrieval, each step answering the last as if he were uncovering an existing bedrock, discovering what had always stood beneath. His hand moved without trembling. The ratios resolved. The high ringing in his inner ear receded into a calm, even tone.
 
 He looked at the two matching chairs and had the brief, humiliating thought that he owed Garrin both fruit and apology. Embarrassing did not begin to cover it.
 

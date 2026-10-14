@@ -8,7 +8,7 @@ Subtitle:        Moderato, con riserbo
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,763
+Word Count:      2,841
 Paragraph Count: 134
 Scene Count:     0
 
@@ -75,7 +75,7 @@ Chairs shifted. Bows rose. Four people breathed together. And Prokofiev arrived.
 SERGEI PROKOFIEV
 String Quartet No. 2, “Kabardinian,” Op. 92
 
-Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. The wood knew first. In the half-second before the note, spruce and maple had already begun their arithmetic: tension, density, moisture, the room’s cold air, the oil on his fingers.
+Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. The wood knew first. In the half-second before the note, spruce and maple had already begun their arithmetic: tension, density, moisture, the room’s cold air, the oil on his fingers. Through the endpin grounded into the stage floor, the instrument drank in the room’s subterranean baseline—a faint sympathetic hum vibrating up from the concrete footings anchored deep in the shale below Lincoln Hall.
 
 An instrument, he sometimes thought, solved differential equations by vibrating.
 
@@ -95,7 +95,7 @@ The melody dissolved. The harmony dissolved. What remained was a lattice of rati
 
 His fingers maintained their accuracy. As the movement grew increasingly mobile (accented notes, rising triplet figures, rapid descents), every position landed clean. Every shift arrived with the inevitability of a body falling under its own weight. The machine ran on. The operator had stepped elsewhere.
 
-Past the fingerboard and f-holes, past the quartet’s intimate enclosure, past the rise and fall of Celeste’s breathing beside him, David was mapping nodes, tracing overtones, measuring the room in frequencies instead of feet. The air had become legible. He read it the way another man might read a loved one’s face, except the face he was reading belonged to the room, and the room did not love him back.
+Past the fingerboard and f-holes, past the quartet’s intimate enclosure, past the rise and fall of Celeste’s breathing beside him, David was mapping nodes, tracing overtones, measuring the room in pure frequency, discarding distance in feet. The air had become legible. He read it the way another man might read a loved one’s face, except the face he was reading belonged to the room, and the room did not love him back.
 
 Roger glanced at Celeste. David’s gaze had lifted from the score. Not to Roger. Not to Celeste.
 
@@ -207,7 +207,7 @@ No mystery.
 
 The finale was driving Caucasian dance: relentless motor rhythms, percussive syncopation, the cello pounding the pulse beneath the violins until the movement coiled toward its breaking point.
 
-The col legno approached. Bows turned in their hands. Wood instead of hair.
+The col legno approached. Bows turned in their hands: wood against steel, hair turned aside.
 
 David saw the C string as a line under load.
 
@@ -215,11 +215,11 @@ The stick struck.
 
 The string recoiled.
 
-Something in the response was wrong.
+Something in the response was wrong. The floorboards beneath his chair were humming in sympathetic alignment, feeding a low, unprompted vibration upward through the endpin. The cello’s lower bout began to buzz in sympathy with the room’s bedrock cavity.
 
 Another strike.
 
-The metallic burr returned.
+The metallic burr returned, sharp and driven by an unseen phase lock.
 
 His bow came down.
 

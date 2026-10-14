@@ -7,13 +7,13 @@ Title:           THE ENDURING LEGACY
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,596
+Word Count:      2,595
 Paragraph Count: 65
 Scene Count:     3
 
-Scene 1: 26.1 The Effect  --  Words 1–1,020  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
-Scene 2: 26.2 The Impact  --  Words 1,021–1,650  |  Paragraphs 25–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
-Scene 3: 26.3 The Reason  --  Words 1,651–2,596  |  Paragraphs 35–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
+Scene 1: 26.1 The Effect  --  Words 1–1,019  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
+Scene 2: 26.2 The Impact  --  Words 1,020–1,649  |  Paragraphs 25–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
+Scene 3: 26.3 The Reason  --  Words 1,650–2,595  |  Paragraphs 35–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -47,7 +47,7 @@ The voice comes again, closer now.
 
 “David? We have to go in five minutes.”
 
-“Almost,” he says, though the word is less reply than ritual.
+“Almost,” he says, though the word serves as a ritual.
 
 He stands and looks over the room with the proprietary seriousness of a child who believes, correctly, that order matters. The rabbit is rescued by one arm, righted, and returned to its shelf. The holo-cards are gathered with an efficient sweep. When he lifts one hand toward the central table, the blocks begin to vibrate at a frequency just below hearing. Then, with a soft rolling murmur, they draw together in loose formation and make their way toward the storage bin built into the south wall. He follows them, squats, watches the lid iris open and close around them with pneumatic finality.
 
@@ -70,7 +70,7 @@ Behind them, in the now-empty playroom, the table holds the memory of the spiral
 
 26.2 The Impact
 
-At first the effect is local: a ripple through one house, then a block, then a city. But once seeded, the phenomenon propagates like the viral cascades of the early digital age, only instead of outrage and cat memes, what spreads is the possibility of new structure, method, meaning.
+At first the effect is local: a ripple through one house, then a block, then a city. But once seeded, the phenomenon propagates like the viral cascades of the early digital age, only now, freed from ancient digital noise, what spreads is the possibility of new structure, method, meaning.
 
 In a lab above the ring of old Geneva, a woman with silver-braided hair stands before spectrometers. Her knuckled hands type a sequence, then hover. Three aluminum discs spin in concentric resonance, edges laced with blue-black nano-polymer. She produces a pearlescent tuning fork, taps it lightly. The tone is inaudible; the monitors flicker. Quantum signatures realign; for a heartbeat the raw data resolves into a harmony both mathematical and musical. She smiles, annotates: “Predicted via Kozlowski Sequence 7B—Confirmed.”
 

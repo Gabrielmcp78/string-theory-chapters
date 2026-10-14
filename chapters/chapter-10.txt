@@ -8,18 +8,18 @@ Subtitle:        Andante sostenuto, dolce e misurato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,842
+Word Count:      13,835
 Paragraph Count: 724
 Scene Count:     8
 
-Scene 1: I. CHORALE | Wednesday Dinner  --  Words 1–1,963  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: II. ARIOSO | The Tuning  --  Words 1,964–5,530  |  Paragraphs 81–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: III. RECITATIVUM | Break-through  --  Words 5,531–6,471  |  Paragraphs 282–317  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: IV. TURBA | The Guillotine  --  Words 6,472–8,474  |  Paragraphs 318–434  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,475–10,266  |  Paragraphs 435–552  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,267–10,986  |  Paragraphs 553–578  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,987–12,254  |  Paragraphs 579–645  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
-Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,255–13,842  |  Paragraphs 646–724  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
+Scene 1: I. CHORALE | Wednesday Dinner  --  Words 1–1,961  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. ARIOSO | The Tuning  --  Words 1,962–5,523  |  Paragraphs 81–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. RECITATIVUM | Break-through  --  Words 5,524–6,464  |  Paragraphs 282–317  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV. TURBA | The Guillotine  --  Words 6,465–8,466  |  Paragraphs 318–434  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,467–10,260  |  Paragraphs 435–552  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,261–10,980  |  Paragraphs 553–578  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,981–12,247  |  Paragraphs 579–645  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,248–13,835  |  Paragraphs 646–724  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -145,7 +145,7 @@ Together, in parallel, they said, “No, thanks. Water’s fine.” They waited 
 
 The conversation eased into the familiar grooves of their shared geography: department meetings, Ithaca gossip, the students they held in common. Big school, small town. Fine lines everywhere: invisible, permeable, at least until crossed and then: unflinching. Unforgivable.
 
-Somewhere between the entrées cooling and the second refusal of dessert, David reached into the satchel. His fingers found the plastic bag and the book inside it. Twenty years of evidence suggested there was a fairly reliable interval between a pleasant evening with Celeste and David finding some new way to damage it. He had never successfully calculated the mean, but he knew enough to recognize when the clock was running. Suddenly, giving her the book seemed less sentimental than prudent.
+Somewhere between the entrées cooling and the second refusal of dessert, David reached into the satchel. His fingers found the plastic bag and the book inside it. Twenty years of evidence suggested there was a fairly reliable interval between a pleasant evening with Celeste and David finding some new way to damage it. He had never successfully calculated the mean, but he knew enough to recognize when the clock was running. Suddenly, giving her the book seemed purely prudent.
 
 “Hey, I brought you something.”
 
@@ -232,7 +232,7 @@ He smiled and made a small sound—something that, to his mind, had never quite 
 
 Celeste looked up.
 
-Whatever David had thought he kept to himself, the room had not honored those boundaries, nor had it required any definitive intention before delivering some grander, stone and light infused version of his moment to Celeste’s place within it, allowing what she heard to be, more or less, up to her corner of the world rather than his.
+Whatever David had thought he kept to himself, the room had not honored those boundaries, nor had it required any definitive intention before delivering some grander, stone and light infused version of his moment to Celeste’s place within it, allowing what she heard to belong entirely to her corner of the world.
 
 “Don’t you dare, Lang.”
 
@@ -532,7 +532,7 @@ Celeste listened with her whole body, head inclined, bow arm suspended, the line
 
 He gave her the note again. She entered beneath it, correcting by less than speech could have named, and his hand found the adjustment before his mind reached it.
 
-The sound changed (closer rather than louder), and they adjusted the fifth between them, then adjusted it again, following her chart until their breathing began to find the same interval. She leaned into the upper edge of the pitch; he answered from below. When she moved, he knew where she was going a fraction before she arrived, and when he resisted, she smiled without looking at him, because resistance was also information and she had always known how to use it.
+The sound changed, drawing closer without growing louder, and they adjusted the fifth between them, then adjusted it again, following her chart until their breathing began to find the same interval. She leaned into the upper edge of the pitch; he answered from below. When she moved, he knew where she was going a fraction before she arrived, and when he resisted, she smiled without looking at him, because resistance was also information and she had always known how to use it.
 
 The two instruments began to occupy the room more completely, the floor accepting the sound before the walls did. Anger remained. So did the four days, the hidden mark, the phone call still cooling upon the long table. But beneath all of it their bodies remembered a fluency their words had lost: her bow asking, his hand answering; her shoulder opening the phrase, his bass gathering it; each correction a pressure passed between them and returned transformed.
 
@@ -715,7 +715,7 @@ Rune interrupted only once: “The response lasted how long?”
 
 David heard the question inside the question. “Celeste and I.”
 
-“I see.” Rune looked down again as David moved into the model. Path dependence. Hysteresis. Coupled oscillators. Residual energy distributed according to prior constraint. Comparative systems whose anomalies had seemed unrelated until their histories were treated as boundary conditions rather than discarded as noise. He showed the correction procedure, the response curves, the narrow geometry that remained after scale and damping density had been accounted for.
+“I see.” Rune looked down again as David moved into the model. Path dependence. Hysteresis. Coupled oscillators. Residual energy distributed according to prior constraint. Comparative systems whose anomalies had seemed unrelated until their histories were treated as boundary conditions, never discarded as noise. He showed the correction procedure, the response curves, the narrow geometry that remained after scale and damping density had been accounted for.
 
 Rune read without expression. Forty-three seconds passed after David stopped speaking before he turned back to the first page. “The cello event generated the model.”
 
@@ -900,7 +900,7 @@ He slipped his cell back inside his jacket, lifted the office receiver, and turn
 
 V. VIA DOLOROSA | Into the Storm
 
-The wind had risen while they were inside, and the early exodus had given the storm the pleasure of looking theatrical. Upper campus had thinned to lit windows, plow noise, and the occasional student hurrying with the embarrassed speed of someone who had dressed for principle rather than weather. Loose snow drove sideways against the glass and flattened there before dissolving.
+The wind had risen while they were inside, and the early exodus had given the storm the pleasure of looking theatrical. Upper campus had thinned to lit windows, plow noise, and the occasional student hurrying with the embarrassed speed of someone who had dressed for principle in defiance of the weather. Loose snow drove sideways against the glass and flattened there before dissolving.
 
 His coat remained unbuttoned. His scarf had come loose. Behind him, an official process had begun the sacred university labor of turning catastrophe into paragraphs with signature lines. Rune would be using his quiet voice. Jessica would be pretending not to hear. The Dean of Students, somewhere behind a different door, would be receiving the phrases by which a man became manageable.
 
@@ -1272,7 +1272,7 @@ The word cut through the wind like a shear.
 
 David blinked, snow stinging his cut cheek. “Doing what?”
 
-“Listening to the number instead of what answered.”
+“Listening to the number, ignoring what answered.”
 
 She swayed slightly, her boot sliding half an inch through the slush, and caught the roof of the car with her free palm. The metal gave off a dull, hollow thrum beneath her hand. Her breath came shallow and harsh, her knuckles white against the painted steel as if forcing the car to keep meeting her skin.
 
