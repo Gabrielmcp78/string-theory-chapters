@@ -8,7 +8,7 @@ Subtitle:        Moderato, con riserbo
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,841
+Word Count:      2,837
 Paragraph Count: 134
 Scene Count:     0
 
@@ -75,7 +75,7 @@ Chairs shifted. Bows rose. Four people breathed together. And Prokofiev arrived.
 SERGEI PROKOFIEV
 String Quartet No. 2, “Kabardinian,” Op. 92
 
-Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. The wood knew first. In the half-second before the note, spruce and maple had already begun their arithmetic: tension, density, moisture, the room’s cold air, the oil on his fingers. Through the endpin grounded into the stage floor, the instrument drank in the room’s subterranean baseline—a faint sympathetic hum vibrating up from the concrete footings anchored deep in the shale below Lincoln Hall.
+Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. The wood knew first. In the half-second before the note, spruce and maple had already begun their arithmetic: tension, density, moisture, the room’s cold air, the oil on his fingers. Through the endpin resting against the stage floor, the instrument registered the room’s mechanical baseline—a faint shudder in the timbers from the building’s deep foundations.
 
 An instrument, he sometimes thought, solved differential equations by vibrating.
 
@@ -215,11 +215,11 @@ The stick struck.
 
 The string recoiled.
 
-Something in the response was wrong. The floorboards beneath his chair were humming in sympathetic alignment, feeding a low, unprompted vibration upward through the endpin. The cello’s lower bout began to buzz in sympathy with the room’s bedrock cavity.
+Something in the response was wrong. The floorboards beneath his chair were trembling, feeding a low, unprompted vibration upward through the endpin. The cello’s lower bout began to buzz against his ribs, caught in an unbidden oscillation with the room.
 
 Another strike.
 
-The metallic burr returned, sharp and driven by an unseen phase lock.
+The metallic burr returned, sharp and tightening into a locked beat frequency with the floor.
 
 His bow came down.
 

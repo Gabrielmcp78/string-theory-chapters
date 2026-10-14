@@ -7,17 +7,17 @@ Title:           PHENOM DE GUARE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,024
-Paragraph Count: 304
+Word Count:      6,054
+Paragraph Count: 306
 Scene Count:     7
 
 Scene 1: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
 Scene 2: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,426  |  Paragraphs 64–110  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.4 Around The Horn  --  Words 2,427–3,996  |  Paragraphs 111–195  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,997–4,746  |  Paragraphs 196–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.6 TEMPORALITY  --  Words 4,747–5,135  |  Paragraphs 240–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.7 CANTUS  --  Words 5,136–6,024  |  Paragraphs 263–304  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
+Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,456  |  Paragraphs 64–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4 Around The Horn  --  Words 2,457–4,026  |  Paragraphs 113–197  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 4,027–4,776  |  Paragraphs 198–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6 TEMPORALITY  --  Words 4,777–5,165  |  Paragraphs 242–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7 CANTUS  --  Words 5,166–6,054  |  Paragraphs 265–306  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -231,15 +231,19 @@ Faint, steady, unmistakable: the 68.48 Hz fundamental rising through the buildin
 
 Rune looked past the glowing boards, through the tall arched windows toward the quad.
 
-The alignment struck him as a physical map he had walked every day for forty years without seeing. Clark Hall's concrete subbasement sunk like an anchor into the shale. The parabolic masonry vault of Sage Chapel across the lawn. The massive stormwater cisterns beneath the grass. The miles of concrete steam conduits blasted through the rock connecting them all.
+The alignment came to him as a physical map he had walked every day for more than fifty years without seeing. Clark Hall’s concrete subbasement sunk like an anchor into the shale. The parabolic masonry vault of Sage Chapel across the lawn. The massive stormwater cisterns beneath the grass. The miles of concrete steam conduits blasted through the rock connecting them all.
 
-They were a coupled physical array: a macroscopic acoustic resonator whose boundary conditions were dictated by geology, stone, and steam lines.
+Separate structures. Separate histories. Yet the disturbances had followed their physical arrangement.
 
-In 1971, Tsukino had not manufactured the wave in Sublevel-2; he had driven an interface into an existing resonator. And for twenty-one years, Rune had believed the danger was confined to a buried steel cylinder on East Hill.
+What if the campus did more than receive the signal?
 
-David had sat inside the array, his cello endpin biting the floorboards, his skull entrained to the cavity, until the building, the bedrock, and the instrument became one sounding body.
+What if its structures were determining how the signal could be received?
 
-A system's response tells you about the resonator, not the source. The kitchen was rattling because the entire hill had been tuned.
+Tsukino had known something about those conditions. Of that, Rune was suddenly much less doubtful. In 1971, Sublevel-2 had driven an interface into that subterranean grid. And for twenty-one years—ever since that rain-slicked May night in 2005 when David’s stainless cylinder had been lowered into the East Hill shale—Rune had believed the danger was sealed in twenty feet of rock.
+
+Whether Tsukino’s experiment had generated the original disturbance or merely found a way to answer an existing one remained another question entirely.
+
+A system’s response characterizes its own resonator; the source remains indeterminate. The kitchen was rattling because the entire hill had been prepared.
 
 “It’s like they’re alive,” Celeste murmured. “Just waiting for David to come back and finish the work.”
 

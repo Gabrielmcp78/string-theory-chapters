@@ -7,7 +7,7 @@ Title:           EXERCISE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,964
+Word Count:      3,981
 Paragraph Count: 154
 Scene Count:     5
 
@@ -15,7 +15,7 @@ Scene 1: 11.1 The House on the Hill  --  Words 1–898  |  Paragraphs 1–45  | 
 Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 899–1,343  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
 Scene 3: 11.3 The Assessment  --  Words 1,344–2,276  |  Paragraphs 71–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
 Scene 4: 11.4 Walk B | for David, Roger and Easy Hill incline  --  Words 2,277–2,394  |  Paragraphs 101–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
-Scene 5: 11.5 The Chapel Rehearsal  --  Words 2,395–3,964  |  Paragraphs 104–154  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
+Scene 5: 11.5 The Chapel Rehearsal  --  Words 2,395–3,981  |  Paragraphs 104–154  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -239,7 +239,7 @@ The agreement that made the quartet an official university ensemble required tha
 
 They took the space with a new, careful choreography.
 
-Before lifting her bow, Celeste stopped beside her stand near the eastern masonry wall. Her unplayed viola, resting upright on her knee, had begun to hum. The open C-string was vibrating on its own, a silver blur of sympathetic resonance so distinct that she could feel the oscillation against her collarbone.
+Before lifting her bow, Celeste stopped beside her stand near the eastern masonry wall. Her unplayed viola, resting upright on her knee, had begun to hum. The open C-string was vibrating on its own, a silver blur of sympathetic resonance so distinct that she could feel the oscillation against her collarbone—the pitch driven fractionally sharp, excited by an octave overtone humming through the flagstones.
 
 She lifted her fingers from the wood. The string continued to sound.
 
@@ -251,9 +251,9 @@ Celeste stepped back three paces to the eastern wall. Instantly, the C-string wo
 
 Linn paused while tightening his bow, offering his easy, veteran smile. “Acoustic reflection off the masonry apse, Celeste. Sage has parabolic nodes all along that eastern arch. Move two feet in any direction and you hit a phase cancellation null. Standard room geometry.”
 
-Celeste looked from the carved sandstone arch down to the stone slabs of the floor, unconvinced. Room reflection returned a sound already made; it did not coax an unplayed string into vibration from complete silence.
+Celeste looked from the carved sandstone arch down to the stone slabs of the floor, unconvinced. Roger’s explanation accounted for the change in position, certainly. But it offered no account of what was exciting the string in the first place.
 
-Linn moved to set the chairs, his actions economical and intentional, bypassing his usual position at the center. Instead, he placed two chairs at the edge of the performance space: one for the cello, and one, slightly behind and to the left, a subtle relocation designed as a shelter. Celeste watched the adjustment, her gaze tracking from Linn’s precise hands to David as he entered. He moved with a stiff, deliberate economy, sunglasses on despite the dimness, and lowered himself into the chair Linn had positioned. The angle offered him a sliver of refuge from the full weight of the audience, a physical tuning of the space before a note was played.
+Linn moved to set the chairs, his actions economical and intentional, bypassing his usual position at the center. He placed two chairs at the edge of the performance space: one for the cello, and one, slightly behind and to the left, a subtle relocation designed as a shelter. Celeste watched the adjustment, her gaze tracking from Linn’s precise hands to David as he entered. He moved with a stiff, deliberate economy, sunglasses on despite the dimness, and lowered himself into the chair Linn had positioned. The angle offered him a sliver of refuge from the full weight of the audience, a physical tuning of the space before a note was played.
 
 A current passed through the room, the attention tightening, then focusing into a single, held breath.
 
