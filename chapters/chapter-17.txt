@@ -3,373 +3,508 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 17
-Title:           Fractional Currency
+Title:           TO GROUND
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,807
-Paragraph Count: 163
-Scene Count:     5
+Word Count:      7,043
+Paragraph Count: 238
+Scene Count:     4
 
-Scene 1: 17.1  Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
-Scene 2: 17.2 Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
-Scene 3: 17.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 48–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
-Scene 4: 17.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 84–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
-Scene 5: 17.5  The Conduction  --  Words 2,082–3,807  |  Paragraphs 99–163  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
+Scene 1: 17 | To Ground  --  Words 1–81  |  Paragraphs 1–3  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: 17.1 The Warnings | Somerville, Massachusetts  --  Words 82–1,173  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: 17.2 A Trip to Ithaca | May 25, 2005  --  Words 1,174–5,673  |  Paragraphs 48–183  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 17.3 To Ground  --  Words 5,674–7,043  |  Paragraphs 184–238  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-17.1  Street Smarts   |   November 28, 2026
+17 | To Ground
 
+“In the grand theater of exploration and discovery, there are not turning points, but tuning points—subtle shifts, almost imperceptible, where history hums against the grain of consequence. These are not moments of triumph, but of calibration: the quiet betrayal of what could have been. For in progress we find the ultimate two headed monster; at once a beast that does not ask permission—and a tyrant incapable of absolution.”
 
-The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there.
+—Dr. Kenji Tsukino, Ithaca, NY 1970
 
-Two customers ahead stood a young man in a brown Carhartt jacket. He had broad shoulders and a defensive spine that seemed to pull his chin downward, nestling his face deep within his jacket collar. Thornden. David felt the faint, reflexive lift: teacher recognizing student in the wild, proof that years had accumulated somewhere, that time had a vector. Surely it was him. The same severe haircut. The same left ear angled out just enough to project stubbornness.
+*   *   *
 
-Thornden was staring at a point in midair roughly three feet in front of his chest. Nothing occupied it.
 
-David shifted forward half a step and put on his usual professorial voice.
+17.1 The Warnings | Somerville, Massachusetts
 
-“Mr. Thornden?”
+March 21, 2005
 
-No movement.
+The telephone cord stretched taut across the linoleum of the Somerville kitchen. A faint sixty-cycle hum traveled through the telephone line.
 
-“Intro to Electrodynamics? Two years ago. You rewired the lab supply backward and nearly took out the building.”
+"Dad, listen to me," David said, leaning against the cold porcelain rim of the sink while outside the window a late-winter sleet ticked against the glass. "It isn't static. We checked the numbers over and over. The whole sky is ringing."
 
-His jaw stayed set, and in the cold, his breath should have fogged. It didn’t. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David narrowed his eyes and let the image gather itself again, as though focus were a negotiation rather than an act of will.
+"David, son. I did not say it was static."
 
-When the cashier called “next,” the woman in front of Thornden moved forward, but he did not.
+Arthur Lang’s voice arrived through the receiver with the familiar, dry timbre of a man who spent five hours a day listening to string sections through wooden bridge feet, tuned to the micro-tonal frictions of horsehair on sheep gut.
 
-“Thornden?”
+"No, Dad, you're hedging," David said, his words accelerating into an urgent rush. "Remember what you told me about the Fifth Suite? When you tune the top string down to G. You told me the moment you drop the tension on the spruce belly, the wood stops fighting the room. The body opens up and takes in the whole hall. You said the instrument holds an empty space."
 
-Nothing still. Then, from behind, a hand touched his shoulder. Firm and real.
+A long silence hung on the line. In the background came the faint, metallic scrape of an ebony mute being fitted onto violin strings.
 
-“Hey, David?”
+"I remember what I said, David."
 
-He turned to find Hamid standing behind him with a thick wool cap pulled low, a rack of pineapples balanced against his hip.
+"That's what this is, Dad," David said, his voice dropping into that raw, breathless certainty Arthur feared most. "It isn't random radiation. It's an open fifth, pulsing with the sun. The atmosphere and the rock—they're locked together. The whole planet is an un-damped box. It's an instrument, Dad. It's ringing."
 
-“You good, man?” Hamid asked quietly. “You’re just talking to, like… nobody.”
+"David." Arthur’s voice was gentle, heavy with a weariness that went back thirty years. "You know I cannot follow the numbers. You know that."
 
-When David turned back, the conveyor belt was already advancing a loaf of rye through the space where the young man had been.
+"You don't need the numbers! You understand resonance better than anyone in my department."
 
-The cashier slid a single clementine across the counter. It rolled once and stopped against the plastic divider.
+"No, son. I understand friction. I understand horsehair pulling across gut. I understand that when a note is finished, it dies in the curtain velvet." Arthur paused, and the receiver crackled with a soft, dry breath. "Listen to me. I have a rehearsal of the Strauss at Symphony Hall in forty minutes, and your mother is putting dinner on the stove. Don't go looking for a song where there is only wind, David. It doesn't love you back."
 
-“Someone left that,” she said. “Yours?”
+"Dad, it doesn't die," David whispered. "That's what we found. It doesn't die in the velvet."
 
-David looked down at his basket. The netted bag of clementines sat intact. He counted them again. Seven.
+"Call your mother on Sunday."
 
-The single fruit on the counter gleamed. Its skin was darker than the others, bruised blue at the stem. He reached out. The cold bit his fingertips as he picked it up, and for a moment, he had the disorienting sense that it pulsed faintly against his palm. He closed his hand around it and stepped forward.
+The line went dead. David held the plastic receiver to his ear for five seconds, listening to the flat, monotone hum of the Boston dial tone.
 
-As the register resumed its steady beep, the fluorescent light above him seemed to soften back to normal. He paid, nodded to the cashier, and headed toward the exit.
+*   *   *
 
-Outside, the cold was different. Less surgical. More honest. As he stepped onto the sidewalk, something struck the toe of his shoe.
+May 24, 2005 — The Eve of the Journey
 
-He looked down to find a clementine rolling along the curb. It wobbled once, then stopped near the lip of the storm drain at the corner. He looked back at the doors of Genoa’s Market. No one.
+"David, you are not getting in that car tomorrow. I forbid it."
 
-David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
+"Dad, please. Two months ago you said you couldn't follow the numbers. Now you're handing down orders."
 
-He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
+"I did not say I didn't understand the danger," Arthur snapped across the line, sharp as dry boxwood. "There is a vast difference. What possible good comes from dragging your papers to an upstate college to show Rune Ishikawa?"
 
+David gripped the receiver until his knuckles went pale. "Dr. Ishikawa is not an administrator, Dad. He is the future of Cornell. He is the new Bethe. He is trying to protect us."
 
+The line went silent. A sudden, rigid freeze took hold of the connection. Through the receiver came the faint, sulfurous scrape of a kitchen match, followed by a slow exhalation of pipe smoke.
 
+"I don't even know why we're having this conversation anymore," David said, his voice tightening. "I should be talking to Elliot. He understood all of this."
 
-17.2 Wander, Wonder and Wait
+"Yes, he did, son. Your grandfather most certainly did. But he is dead."
 
+"Do not say his name to me," Arthur whispered. His voice had dropped into an icy, dangerous register David had never heard before. "Do not bring your grandfather into this fight. Even buried in the ground, the two of you come at me with your scientific swords and super-powered egos."
 
-David stepped off the curb and into the middle of the intersection. He stood there, untroubled by oncoming traffic, as though the road had relinquished its claim on him. The standard power line buzz was still there: 60 Hz as always. Above it, clearer now, a precise overtone threaded the silence.
+"Dad, Elliot spent his life listening to this exact same sound—"
 
-86.84 hertz.
+"Elliot died eight months ago, David!" Arthur’s shout shook the receiver, raw and trembling with decades of suppressed terror. "We buried him in September. And ever since, it is like you just picked up these obsessions, these... You know, my father spent the last eight years of his life trying to take back the first forty. Document his folly so he could burn it from existence."
 
-The power lines overhead trembled in a wind he could not feel, their vibration carrying the higher tone cleanly, like a filament drawn tight between invisible anchors. He walked the yellow center line, each step deliberate, testing. The storefront windows reflected no motion because there was none to reflect. He was the only thing disturbing it.
+"Dad, that wasn’t what he—"
 
-A block down, rounding the corner of Maple and Third: Carhartt jacket. Thornden.
+"David, I will not have you telling me what I... I will not hear this in the name of... You know, once Sagan got sick and stopped taking Elliot's calls, your grandfather barely left his study in Cambridge. He had no one else still alive who understood what he heard. He sat there surrounded by legal boxes, sorting through papers from nineteen forty-five, terrified because he was one of the last men alive from Bethe’s division who remembered the flash in the desert! And when the lawyers finally executed the will, where did those forty crates of his life go? They were shipped to Ithaca. To Rune Ishikawa."
 
-He was tossing something in his right hand. Up. A small arc. Catch. Up again. Orange flashed in the thin light. A clementine.
+Arthur stopped, breathing hard into the mouthpiece.
 
-He did not look back. He rounded the corner and disappeared. The overtone swelled.
+"Dad," David said quietly. "Ishikawa offered to review the work."
 
-David stood there, staring at the empty corner until a car horn cut through the air. Traffic moved. Engines idled. The road remembered him at once, rudely, in full municipal volume. He lifted a hand in apology and turned for home.
+"Ishikawa took delivery of my father's demons, David! And now he clearly wants to take delivery—take control—of you."
 
-Somewhere between the corner and his building, the sound field of the entire block folded in on itself. The overtone pressed downward as he closed the distance to his building’s front door, settling into his jaw, his spine, the small bones of his wrists, each step lowering the interval as if the street itself were turning a peg.
+"Celeste trusts him. Marcus trusts him."
 
-86.84. Lower. Tightening as it fell.
+"Celeste loves you, David. She would follow you into a burning room if she thought it would keep your hands warm. Do not use that girl as a shield for your vanity."
 
-When he reached his door and closed his hand around the key, it settled, cleanly, unmistakably, at 68.48.
+David felt a cold weight settle behind his sternum. "It isn't vanity, Dad."
 
-He stood there, listening. Lingering.
+"Then what is it? Why do you have to exhume what he left in the ground?" Arthur’s voice dropped into a quiet, agonizing plea. "Son... some things are not meant for an audience. Some things are only meant to be buried."
 
-Then he checked his watch. Fifty three minutes since he had left the store across the street. Fifty three minutes since the orange in his hand had refused the drain. Almost an hour lost to what? Crossing the street?
+David stared through the kitchen window into the dark street. A light rain fell across Cambridge, silvering the asphalt beneath the streetlamps.
 
-“Fifty three minutes,” he muttered. “Prime.”
+"I have to know what he heard, Dad."
 
-He unlocked the door and removed himself from all things public.
+A long, ragged exhalation came through the line. The sound of a man who had fought a war for twenty-five years and finally reached the end of his strength.
 
-The air in the room had thickened in the interval, uncomfortably so. He stood absolutely still, counting his own pulse. It took a moment to understand what he was doing: waiting. Waiting for the wind, the wires, the unspent remainder of whatever had followed him home.
+"Then you are already his," Arthur said softly. "God help you, David. You are already his."
 
-Then, closer than breath, so near it might have been mistaken for his own thought:
+The line clicked dead.
 
-“Symmetry attracts violence. Listen.”
+David hung up the telephone. He picked up his coat, his leather notebook, and his bag, walked down the stairs to the curb, and got into the car.
 
-He whipped around, pulse misfiring.
+*   *   *
 
-Nothing.
 
-The hallway stood empty beneath the dim light. The door remained sealed. The high frequency continued through the walls, steady and invasive, a second heartbeat slightly out of phase with his own.
+17.2 A Trip to Ithaca | May 25, 2005
 
-Jesus Christ. Make a choice. Solar storm or horror film? Settle, Lang.
+The corridor of Clark Hall smelled of floor wax, damp wool, and the sulfurous bite of freshly split shale carried up from the gorge cuts below the foundation.
 
+They moved in uncertain cadence: Celeste leading, her canvas satchel held flat against her hip; David three paces behind, knuckles white on his leather notebook; Marcus trailing, dragging boot-heels across the wax with deliberate, abrasive friction.
 
+A graduate student with grease on his cuff had led them through the eastern basement connector. He had spoken three words at the stairwell door—He’s inside—and turned back toward the instrument shop without waiting for an acknowledgment.
 
+The office door stood ajar at the end of the hall.
 
-17.3  Sundays
+Dusk pressed against the long transom window, cold and lavender, bleeding into the yellow pool cast by an incandescent desk lamp. Through the open frame came the low hydraulic thud of Fall Creek tumbling seventy feet over the Devonian shelves—a vibration climbing through the soles of their boots before reaching the ear.
 
+Marcus stopped on the threshold, his breath rough. "This feels like a hearing."
 
-David looked at his phone. Five missed calls from his mother. There had been none moments ago.
+Celeste did not look back. She adjusted the strap of her bag and stepped across the sill.
 
-Then the phone rang.
+David followed.
 
-That piano sonata ringtone he’d chosen for her four phones ago, every upgrade failing to restore it to anything less maternal.
+Rune Ishikawa’s office was spare, cold, and stripped for containment. Two walls were uninterrupted slate blackboard, scored with ghostly, half-erased tensors and Green’s functions layered over one another like fine sedimentary drift. One tall arched window overlooked the Arts Quad, where the first evening mist curled through the lower hollows.
 
-“Shit,” he breathed and tapped the green circle. “Hey. Hey, Mom. No… I’m here.”
+Along the north wall, stacked three high beneath the chalkboards, sat ten of the forty heavy cardboard banker’s boxes shipped from the Cambridge estate. Each bore a pre-printed white shipping label from a Cambridge legal trust, typed in formal capital letters:
 
-“David? Honey, are you okay? I just missed five calls from you in the last five minutes! What’s going on?!”
+David stopped in the center of the rug, his chest seizing. On the side of the top crate, written in black grease pencil in the familiar, trembling hand of his grandfather, was a single archival notation: Theoretical Division / Cavity Telemetry 1945–1964.
 
-“I was just across the… Mother… hey, crazy lady, you called me.”
+Across the room, on the library table beneath the floor-to-ceiling walnut bookshelves, the hidden panel below the nineteenth-century calorimetrics volumes had been clicked shut, but the navy-blue metal filing box sat open and hollow under the shadows, its chipped enamel dull, its brass key resting beside the thrown hasp. It was empty. The archives Rune had lifted from its false compartment had already been transferred to his mahogany desk, arranged within the green-shaded lamplight like exhibits laid out for an inquest: Elliot’s nineteen sixty-four monograph folder bound in black cotton ribbon; a yellowed airmail envelope from the Virgin Islands, its corner secured to a typed memorandum with a rusted steel paperclip; and a single purple-mimeograph sheet bearing the final telemetry of Project ARGO before the catastrophe in the sublevels.
 
-“Yes honey, just now.”
+The desk held nothing else except an untouched porcelain teacup.
 
-“No, I mean I just missed five calls from you, Mom! I didn’t call you five times in a row. Think about it, Mother. Does that sound like me?”
+Rune sat motionless behind it. He wore an uncreased wool suit the shade of wet river stone. His hair was iron-white, combed straight back from a forehead marked by two deep vertical furrows above the bridge of his nose. He did not rise.
 
-“No dear. It certainly does sound like an emergency involving your personality, but it does not sound like my son.”
+"Shut the door, Mr. McGrath," Rune said.
 
-“Nice,” David quipped.
+Marcus lingered, his chin lifted in reflexive defiance, then reached back and pulled the heavy oak slab shut. The latch engaged with a dead, metallic snap that died without echo.
 
-“Well, news said it might be bad, the storm.” A clever chuckle bounced across the line. “I guess they were right, honey. So you’re okay then?”
+"Take the chairs."
 
-“I’m… Mom… I’m fine.”
+Three high-backed walnut chairs stood in an arc before the desk. David took the center seat. Celeste sat to his left, placing her hands flat across her knees. Marcus dropped into the right-hand chair, slouching back with an exaggerated sigh that failed to conceal the tension in his neck.
 
-“You always say that.” And she continued under her breath. “Your father… always fine too.”
+Rune did not touch his tea. His eyes moved across the three of them, resting finally on David’s hands.
 
-A pause. Her particular silence: the one she had learned since his father died. The silence of sentences she no longer knew how to assemble.
+"You arrived late."
 
-When she continued, her voice carried  new weight. “I was thinking about him earlier today,” she said. “The way he used to play on Sunday mornings. That wonderful Bach. You remember?”
+"Route Seventeen had construction outside Binghamton," Marcus said. "Flagmen."
 
-“I remember.” And he did. “Suite number one, Mom.”
+"You hesitated at the turnoff for East Hill," Rune corrected. His voice was quiet, rhythmic, devoid of theatricality. "You stopped at the overlook above the lake for seven minutes before you drove up Central Avenue."
 
-“That’s it, yes. He’d just close his eyes and… disappear into it. I used to watch him and think, he’s sure not playing for me. He’s just playing.”
+David shifted his grip on the notebook. "We needed to check the draft."
 
-“Some things aren’t meant for an audience.” The words left him without intention.
+"You were looking for an exit," Rune said. He drew the manila folder three inches closer. "Let us begin with the derivation. Where did you first encounter the recurrence?"
 
-“Yes,” she whispered. “Yes, honey. Exactly that. Oh, you remember.”
+David swallowed, feeling the dry click in the back of his palate. "September. Marcus was modeling the solar phase radiation curves for our doctoral defense. He noticed non-local harmonics in the decay tails. Energy transport across the upper boundary layer that refused to cancel under linear averaging."
 
-A breath. “I swear I can see you sitting there with your cello, your dad standing behind you, reaching in to correct a position…”
+Rune turned his eyes toward Marcus. "You assumed sensor noise."
 
-At the same moment, they both said, “He was a great teacher.”
+"At first," Marcus said, his voice tightening. "Then we ran the correlation across thirty years of National Oceanic and Atmospheric Administration radiometer logs. The curve repeated. Every eleven years, right at the onset of the solar quietude, the boundary impedance drops."
 
-“Sure was,” she replied softly. “Hey… have you played lately? Your cello?”
+Marcus hesitated. His knuckles pressed white against the arm of the walnut chair.
 
-“Not for a while.” He lied, and he knew exactly why.
+"Translate that, Mr. McGrath," Rune said softly. He did not touch his tea. On the desk between them, the dark surface of the amber liquid trembled in delicate concentric rings, holding its geometry against the porcelain rim. "Speak in the vernacular of matter. What does the drop in impedance mean?"
 
-“Maybe today. With everything happening. Maybe today’s a good day.”
+Marcus stared at the rippling tea. The muscles of his throat tightened. "It means the air stops insulating."
 
-“Maybe… Well, Mom, I really should…”
+Celeste leaned forward, her voice low, measured, cutting through the chill of the office. "Think of an electrical transformer. Two massive conductors separated by an air gap. The upper conductor is the ionosphere, sixty miles above our heads, carrying the electrical wash of the solar wind. The lower conductor is the bedrock beneath our shoes—the Devonian shale basin extending hundreds of miles beneath the region. In ordinary years, the atmosphere between them acts as a dielectric barrier. It insulates. The sky stays the sky; the solid ground stays the ground."
 
-“Oh… David, there was something else I had to tell you. Shoot.”
+She pressed her fingertips flat against the desk blotter.
 
-“It’ll come back to you, Mom. Always does.”
+"Every eleven years, the sun enters its quiet minimum," Celeste said. "The solar wind drops into a nodal null. Under ordinary conditions, the air maintains its dielectric threshold. But when the solar wind velocity drops below four hundred kilometers per second while the interplanetary magnetic field aligns with the crustal dipoles, the dielectric resistance collapses along a nonlinear threshold. The insulating barrier breaks down. The sky and the bedrock lock into phase. They become a single, closed, humming circuit. A planetary transformer, pulsing at sixty-eight hertz."
 
-Silence gathered, then her laugh surfaced, bright and unguarded. “Oh my God, Davey. Happy birthday.”
+Rune looked directly at Marcus. "And the displacement current, Mr. McGrath? What magnitude did your logs yield?"
 
-He exhaled. “There it is. Thank you, Mother.”
+Marcus shifted in his seat, his collar suddenly tight against his neck. "Gigawatts. Millions of amperes driving through the continental shelf. A live power line running directly through the crust."
 
-“I’m proud of you, David. Your father was too, yeah?”
+David felt the floorboards answering beneath his boots—a vibration climbing through his heels, his shins, the hollow basin of his pelvis. He remembered his father's hands on the cello in Somerville, the spruce belly opening to take in the room.
 
-“I know. Thanks, Mom.”
+"Everything caught between the sky and the stone," David whispered. "Every town. Every river. Every human rib cage. We are sitting inside the core of the transformer. The whole continent rings."
 
-“I love you.”
+Rune leaned back slightly. The dark wool of his suit remained stiff against the leather, gray as wet river stone. Outside, beyond the tall arched mullions, the gorge water struck the Devonian shelf with a low, hydraulic rumble that climbed through the joists of Clark Hall.
 
-He closed his eyes and let her words settle before answering. “Love you too, Mom.”
+"And you believed," Rune said, "that you were the first young theorists to discover that the sky drives the earth."
 
-“Happy birthday, sweetheart.”
+His gaze drifted toward the window, toward the dark silhouette of Rockefeller Hall across the quad.
 
-The line clicked quiet. He remained there anyway, phone balanced in his palm, screen dark against his hand.
+"Thirty-five years ago, this department went down into the same dark," Rune said. "Harvard had scuttled the work when the equations began to bite, but Kenji Tsukino had seen enough. With Carl as his ally here at Cornell—a planetary theorist who understood that an atmosphere is an active electrical engine—Tsukino found a haven. Cornell was willing to listen to the rock. The physics department was situated directly atop the Devonian shale basin. In the autumn of nineteen sixty-eight, Tsukino drilled ninety feet into the floor of Sublevel-2 beneath Rockefeller Hall, anchoring high-output acoustic transducers deep into the bedrock. He intended to test whether the natural planetary waveguide could be driven and locked into resonance: to prove what you three have spent four years recalculating: that the upper atmosphere and the continental crust form a single closed resonator."
 
+Marcus let out a dry, defensive breath, his boot heels digging into the floor wax. "That sounds like folklore, Dr. Ishikawa. A cautionary tale cooked up to rattle graduate students. You are describing a classified project from the Vietnam era and trying to graft it onto our boundary equations."
 
+Celeste turned on Marcus, her voice cutting through the office with lethal quiet. "Marcus. Be quiet."
 
+Marcus stiffened, but the silence from behind the mahogany desk carried an unyielding weight. Rune did not blink. His gaze rested on David, calm, sorrowful, and steady.
 
-17.4  A Preference for Precision
+"Your equations do not belong to nineteen sixty-eight, Mr. McGrath," Rune said. "They belong to the desert. To nineteen forty-five. To discoveries your grandfather made in the white light of the Jornada del Muerto."
 
+David felt a cold prickle across his scalp, followed by a hot surge of stubborn loyalty. "My grandfather never touched atmospheric physics after the war," David said, his voice tightening. "He taught perturbation theory and quantum mechanics at Harvard for thirty years. He kept to his department. He never published a word on weapons or cavity resonances. You have his legal crates stacked against your wall, sir—you know as well as I do that there is nothing in them except old committee files and administrative notes—"
 
-And then the detail that should have vanished did not vanish.
+David stopped.
 
-A fine shimmer continued in the tiny speaker: steady, needle bright. He lifted the phone closer, attending to it the way he would a tuning fork. The field had found something in the apartment it could occupy, a place to sit, to press, to hold. He could feel it in his ribs in the same blunt way he could feel hunger.
+The words died against the slate blackboard. In the lamplight, the ten heavy cardboard boxes sat beneath the half-erased tensors like silent sarcophagi. On the top carton, Elliot's hand in black grease pencil: Theoretical Division / Cavity Telemetry 1945–1964.
 
-His mother’s image returned and brightened in him: himself small with the cello between his knees, his father behind, hands hovering, correcting everything by seeing the whole. You don’t trust your ground level body with geometry. You give the geometry a witness.
+If Elliot had walked away from the desert clean, why had Arthur spent thirty years terrified of his own father's study? Why had Elliot spent his final decades behind locked doors in Cambridge, jumping at every ring of the telephone, begging his son never to let David learn an instrument?
 
-David moved, or rather, the room pulled him. He found the stairs, those cold wedges of thick glass, and climbed until the air thinned. The phone clipped to the railing; metal on metal. A click of teeth. From the third step, the room below ceased to be a home and became a diagram, a spill of late amber light waiting for a ghost to fill it.
+Rune watched him across the desk. The amber tea in the porcelain cup was motionless now.
 
-He descended.
+"Last month, when your grandfather's lawyers completed his will," Rune said, his voice falling to a quiet, rhythmic cadence, "I received a letter addressed to this department that included all of his archives from the Manhattan Project—recreated from his memory over the last fifteen years—and the original dossier containing the entirety of his unpublished paper on nonlinear coherent modes in high-energy atmospheric cavities."
 
-At the base of the stairs, the cello case waited. Its latch parted with that familiar, time heavy click: the sound of something preserved, something held in suspension against the day it might be needed. He lifted the instrument out and held it close. Weightless, full. The union of body and wood required no thought; it had been written into him decades ago, in a cramped studio with his father’s hands shaping his own.
+Rune let the sentence settle into the cold air of the room.
 
-But first: the wall.
+"Think about what that means, David," Rune continued. "Under the Espionage Act, under wartime security cordons, no man walked out of Los Alamos with a single scrap of paper. Not a notebook. Not a calculation. Not a strip of galvanometer tape. Elliot left the desert with empty hands. For twenty years, he tried to obey the silence. But the math had burned into his retinas. In his final fifteen years, sitting alone in that drafty house on Francis Avenue, watching his colleagues die, he realized the knowledge would perish with him unless he set it down. Page by page, equation by equation, he reconstructed forty crates of classified telemetry entirely from his own memory before the dark took him."
 
-He crossed to the far side of the room and set his palm against the seamless white surface. Cool to the touch. Unremarkable. A push. A slide. The panel breathed open on its track, and the slate appeared from floor to ceiling, dense with the architecture of his obsession.
+Rune reached forward to the heavy manila folder bound with black cotton ribbon. He untied the knot with slow, deliberate fingers.
 
-Equations climbed toward the high ceiling in cascading generations: first principles giving way to derived terms, boundary conditions nested inside proofs, the entire grammar of his inquiry rendered in chalk. Here stood the Bekenstein bound. There, the holographic principle rendered operative. Symmetry groups branched across the lower register like a figured bass line. At the center, enclosed in a border of double struck lines, waited the sequence that mattered most: the resonant frequencies mapped against the forecasted crest of the storm, the precise alignment of downbeat and magnetosphere, the moment when intention might, if the universe was listening, find its mark.
+"And inside those crates," Rune said, "lay this."
 
-His teleprompter. His score.
+Affixed to the face of the folder with a tarnished steel paperclip was a single slip of cream-colored Harvard Department of Physics memorandum bond. Across it, penned in dark iron-gall ink in Elliot’s sharp, mid-century script—upright strokes straight as an architect's rule, the lower loops carrying the violent, rhythmic tremor of an old man writing against terror—ran a warning:
 
-The slate waited. The chalk waited. He had prepared everything except himself. And so to that work, he moved. Back to the cello and the work ahead.
+To the unlucky bearers of this vaulted work:
 
-He picked up the bow, rosined it with care. Dust bloomed into the strange light, each particle catching the glow before settling. On the desk, the tuning fork began to vibrate without being struck. Outside, car alarms rose in dissonant chorus, an overture to something vast and unseen.
+Burn it, bury it, feed it to the depths of earth or space. I am powerless to resist whatever it has become whilst safe-harbored within my tortured mind. Do what I have failed to, and lock safe or destroy what pages and knowledge lie here. Please. Let no man alive be arrogant enough to believe that dominion can be had over this demon.
 
-He closed his eyes. He raised the bow, horsehair hovering a micrometer above the A string. In that infinitesimal gap, the energy of the solar storm gathered.
+—Elliot G. Lang
 
-If it be now…
+David stared at the ink. His breath hitched in his throat. He had known his grandfather's handwriting on formal correspondence, on textbook offprints, on the dry, precise margins of quantum monographs. Elliot Lang had treated emotion as an error in grammar. Seeing the words tortured mind, seeing the word Please scored into the heavy rag so hard the steel nib had grazed the fibers, hollowed out the center of David's chest. Elliot Lang had never pleaded with any human being.
 
+Rune opened the folder.
 
+From inside, he drew two manuscripts and laid them in the pool of yellow lamplight.
 
+The first was typed on twenty-pound Harvard rag, bound with a rusted brass fastener: Nonlinear Coherent Modes in High-Energy Atmospheric Cavities, by Elliot G. Lang, Ph.D. Across the title block, stamped in dried vermilion ink:
 
-17.5  The Conduction
+In the margin beneath the stamp, in brown fountain ink: This manuscript is incomplete. Further work is inadvisable at present. —E.G.L., June 1964.
 
+The second document was purple mimeograph stock, yellowed at the edges:
 
-Every experiment has an origin, a point where it must begin. David felt the weight of that point like a hand on his shoulder. He had finished every equation. Laid out every instrument. The storm was rising beyond the walls, whether he moved or stayed. If he lingered, the work would turn to hesitation, and hesitation would turn to decay. There was no further refinement left to hide inside.
+David leaned forward. His eyes fixed on Section 3 of Tsukino's note. The equations were rendered in hand-lettered Greek:
 
-At exactly 7:14 p.m., he set the bow to the A string and drew it across: the calculated intersection of storm and downbeat.
+Beneath it, the Duffing frequency relation:
 
-Nothing opened. Nothing sounded. The note, when executed, arrived as a dry scrape of hair against metal, a thin and resistant friction with no lift in it, no bloom, no answering body from the instrument or the room. Nothing happened. Nothing burned. Nothing spoke. Nothing. Full stop.
+And below the boundary integral, penned in Tsukino’s tight, upright hand:
 
-He checked his angle. Pressure. Placement. They were all perfect.
+Lang was right. The mode is real. The question is not whether it exists, but why it persists. —K.T.
 
-He tried again. The same thin collapse.
+Marcus stared at the purple ink, the color draining from his cheeks. "Sixty-eight point four-eight hertz. That is our fundamental. That is the exact carrier in our conveyance curves."
 
-A third pull yielded a sharp, high squeal that died almost immediately, as if ashamed of itself.
+"Your grandfather saw it in the desert telemetry," Rune said quietly. "In nineteen sixty-four, Tsukino persuaded Elliot that twenty years of silence was enough. They believed that if they formalized the theory, Harvard would sponsor an experimental chamber. Elliot drafted the paper lying before you."
 
-Now David began to feel it. The window he had so carefully calculated, that sliver of time where the door he dreamed of might actually be vulnerable to breach, was slipping away. All of it.
+Rune paused. His gaze lifted toward the window, where the first stars were piercing the overcast above the gorge.
 
-His throat tightened. Months of structure dissolved in seconds. He had thrown himself upon the sea in fluent theorem only to discover the sea possessed no interest in answering him.
+"Then word reached Princeton. The great man—the director your grandfather had worked under in the desert, to whom he remained loyal to his grave—intervened." Rune’s fingertips touched the corner of the airmail envelope resting beside the blotter, where the tarnished paperclip fastened the Director’s final admonishment to the rag paper. "The director knew what happened when an equation escaped the blackboard and entered matter. From his retreat in the islands, he sent his warning to Tsukino. He summoned Elliot to Olden Lane. He told his former pupil one word: no. The paper was scuttled, the inquiry buried in committee. Elliot accepted the verdict, stamped the draft withdrawn, and locked it in his vault. It was a filial covenant Elliot never broke."
 
-And then he heard it once again.
+"And Tsukino refused to accept it," Celeste said softly.
 
-Symmetry attracts violence. Listen.
+"Tsukino had seen enough," Rune replied. "With Carl as his ally here at Cornell, he came upstate to build what Elliot had calculated. On October nineteenth, nineteen seventy-one, they energized the drive units in Sublevel-2."
 
-His grip tightened on the bow.
+Rune's voice fell into a flat, solemn timbre that seemed to pull the warmth from the air.
 
-“What do you want?”
+"The stone did not damp the energy. The cubic term produced an un-damped eigenstate. Energy refused to scatter as heat. The shale began to ring. A standing wave at sixty-eight hertz does not remain in rock. It couples directly into bone and fluid. It matches the resonant dimensions of the human cranial vault. It bypasses the eardrum, driving the inner ear and the cranial plates into forced sympathy with the gorge. Within three hours, the men in the bunker could not stand upright. Their balance failed. The walls began to tilt."
 
-The words struck the walls and fell away. He waited, chest moving hard.
+He looked directly into David's eyes.
 
-The air did not answer. The tuning fork on the table continued its narrow, indifferent vibration. Outside, the distant chorus of car alarms kept sounding their mindless refrain. Nothing bent toward him.
+"Tsukino believed his nervous system was merely adjusting to a higher order of coherence," Rune said. "He refused to throw the main breaker. At dawn, the university forced the steel fire doors. Tsukino was curled on the concrete, both hands clamped over his ears, humming an open fifth to keep his skull from splitting under the resonance. The project was scrubbed from the ledgers. The lower corridor was sealed. Tsukino spent the remainder of his life in a sanatorium in the Pennsylvania hills. He died in nineteen eighty-four without writing another symbol."
 
-“Why won’t you just…”
+Silence settled over the room, absolute and cold. The low thrum of Fall Creek rose through the foundation, rhythmic as a pulse.
 
-He stopped. The unfinished sentence hung there, ugly and small.
+"Elliot knew," David whispered. "He knew all along."
 
-A page slipped from the music stand and landed at his feet. Then another. He set the bow down on the table with a care so deliberate it felt almost punitive, and for a moment the care itself became unbearable. His hand moved through the papers, first searching for the chart that would tell him which part of the world had betrayed him, then pushing one stack aside, then another, until the neat architecture of the desk began to surrender its edges. Forecasts slid across proofs. Correspondence folded under tables of resonance. His own marginalia, weeks of cramped insistence, came loose from the grid of its necessity and scattered into meaningless white.
+"He knew," Rune said. "He survived because he submitted to the great man's judgment. He lived thirty years in Cambridge with the sound locked inside his head. But by nineteen ninety, with the desert veterans fading and the official vaults still sealed, Elliot understood that the silence would outlive him. That was when he sat down with the black ink."
 
-“Take it,” he said. His voice was almost steady, which made it worse. “I gave you everything I had.”
+Rune leaned forward, his hands resting flat against the mahogany desk, his knuckles rigid as boxwood. His eyes fixed on David with a sudden, chilling scrutiny.
 
-No shift. No tremor. No concession.
+"And you are telling me," Rune said, his voice dropping into a razor-thin, inquisitorial quiet, "that your grandfather never gave any of this data to you? Never whispered it in your ear? Never suggested you take a look, or sent a duplicate of this dossier to you at MIT just like he sent to me? You are telling me that eight months after he is in the ground, his grandson walks through my door onto the exact same frequency by pure accident?"
 
-He turned toward the slate. Equations climbed there with infuriating calm, still elegant, still legible, still presenting themselves as if order had ever been a form of mercy. He took up the chalk from the tray and pressed it beneath his thumb until it snapped. The sound was small, obscene, intimate. White dust bloomed across his fingertips.
+David felt the blood surge hot into his temples, his voice cracking with raw, unvarnished desperation.
 
-“And for what? To sit here and prove something that nobody will ever…? To lose everyone I ever…”
+"I swear to God," David said, leaning forward in his chair. "They hardly let me see the man in his final years! My father kept me away. Every time I went home to Cambridge, the door to Elliot's study was locked. I thought he was scribbling nonsense in there, losing his mind in the dark, writing on the walls! I swear to you, Dr. Ishikawa. I never saw a single page of this work until you slid it across that desk tonight."
 
-The sentence broke apart before it finished.
+Rune reached across the mahogany and drew David’s black leather notebook toward him. With slow, practiced fingers, he turned the pages until he reached David’s Somerville boundary derivation. He slid Elliot’s nineteen sixty-four Harvard monograph directly beside it, turning Elliot’s typed page to Section 4.
 
-Silence settled again. It had never left. His voice had been the disturbance.
+"Look at the third line of your boundary integration, David," Rune said quietly. His index finger touched David’s handwritten ink, then moved to Elliot’s yellowed typescript. "Not the frequency. The notation. In standard perturbation theory, the transverse decay constant is indexed $\lambda{\perp}$. In nineteen sixty-four, when your grandfather drafted this paper alone in Cambridge, he worked without reference tables. He invented an arbitrary coordinate transform—a non-standard cross-ratio indexed as $\Xi{(0)}^{*}$ with an off-diagonal phase shift $\delta_L$."
 
-He stood there, breathing hard, the bow resting safely on the table, the cello still upright beside his body, the room intact in every way that mattered. The storm outside did not pause for him. The numbers on the slate did not degrade into confession. The experiment, having failed, had acquired a terrible serenity.
+Rune lifted his gaze, his eyes fixing on David with clinical precision.
 
-“I don’t know what you want.”
+"There it is on page seventeen of Elliot's draft. An arbitrary symbol that appears in no textbook, no journal, nowhere in the public literature. And here it is in your Somerville notebook, penned in blue ink two months ago, down to the exact subscript and the same non-standard sign convention."
 
-The words came smaller now.
+Rune's voice fell to a razor-thin murmur.
 
-He pulled the cello close, holding it in his arms like nothing in the world could know him or protect him more than this pressured forge of wood and wire. Hunched over, every sob, every choke, every cough reverberated through the chambered wooden body. So much so that when he fell to his lowest whisper, his weakened voice resounded through the room as though there were fifty Davids at once.
+"Independent discovery can arrive at the same physical frequency, David. The laws of nature force the same numbers on everyone. But nature does not enforce an arbitrary private notation invented by an old man alone in a locked room in Cambridge forty years ago. You could not have derived that symbol from NOAA satellite feeds. You could not have guessed it."
 
-“I don’t know who I’m supposed to be,” they said.
+David stared down at the two pages. The identical Greek symbol stared back at him—an arbitrary, idiosyncratic mark he remembered scribbling at three in the morning in the Somerville kitchen, convinced he had invented it in a flash of solitary clarity.
 
-The words left him and seemed, for one brief moment, to belong to something more than silence, more than self. An undeniable realignment settled into the cracks of the room. Something had shifted.
+"I didn't copy it," David whispered, his stomach turning to ice. "I swear to God... it just came to me. In the dark. I thought it was mine."
 
-He lowered himself to the floor among scattered pages and rosin dust, the cello leaning into him like a living weight. All around, the apartment settled into that peculiar stillness that follows grief when it has exhausted its first violence and become something heavier, more patient.
+Rune watched David's face. The lines around Rune’s eyes tightened with a sudden, dreadful certainty that drained the remaining color from his cheeks.
 
-On the kitchen island just above him, the manila envelope that had carried Arthur Lang’s last will and testament lay open near the counter’s edge. The official papers, exhumed only the day before, had finally been signed and sent back to Boston, granting permission for the attorney to put in motion the tying up of all that remained after a long and exacting life had come to its close. The documents were ordinary, or so he had been told. Extensive, certainly, but ordinary in the way the machinery of death is: formal, competent, indifferent to the magnitude of what it arranges.
+"Well then," Rune said softly. His gaze drifted toward the arched window, looking out into the cold mist pooling across the quad. "The implications are far worse than even I had hoped to discover."
 
-Now the envelope had been disturbed. In the wake of David’s collapse, things had shifted slightly from their places. A single sheet had worked itself loose and hung half free, as though the room had quietly revised its own sense of what mattered.
+He let his hands lift from the desk blotter, his fingers curling slowly into loose fists.
 
-The silence deepened. Beneath it, something opened.
+"If Elliot didn't give it to you, then the understanding didn't pass through paper," Rune said. "It was pulled down from the field itself. The math found you because the cavity is waking up. The resonance does not need Elliot Lang; it only needs an ear sensitive enough to receive the transmission. Which means we are in much worse shape than I feared when you drove onto this campus tonight."
 
-His father’s voice came to him with the force of recognition, more immediate than memory. It had never left him entirely, only sunk beneath performance, pride, ambition, injury: the bright, useless clamor with which he had defended himself against love.
+Rune reached into the lower desk drawer.
 
-Some things are not meant for an audience.
+With slow, deliberate weight, he lifted out a fourteen-inch cylinder milled from solid aircraft stainless steel, sealed with heavy neoprene gaskets and six polished brass hex bolts. Beside it, he laid a typed covenant bearing the seal of the Cornell University Board of Trustees.
 
-David went still.
+"This university buried this frequency once," Rune said. "We will not let it surface again."
 
-The voice carried no urgency. It was clear, level, unhurried: the calm of something that had been there all along. It had always lived there. He had simply spent too many years drowning it out.
+He pushed the cylinder across the mahogany.
 
-A draft moved through the apartment. Its passage was strange enough that David glanced toward the front hall, half expecting to find the door ajar. The hallway stood empty. Only the air had shifted. When he turned back, the loosened page tipped free, slipped from the envelope, and drifted to the floor before him with quiet finality.
+"And that is why these are your only two options tonight. In the first, you sign this covenant. You surrender every draft, every data disk, every notebook containing your conveyance derivations. You seal them inside this capsule, and tonight, under university ground, you commit them to the earth with me as your witness."
 
-He reached for it, then stopped, his hand suspended above the page as though stillness itself might postpone whatever waited in the act of touching it.
+Marcus gripped the arms of his chair, his voice shaking with outrage. "That is institutional suppression! We spent four years on these derivations at MIT. We are months away from submitting the first paper on ionospheric power coupling—"
 
-For a moment, time loosened.
+"You will submit nothing," Rune said. The quiet finality in his voice cut through Marcus like an iron door swinging shut. "If you refuse, the machinery of academia will simply turn away. Your manuscripts will not be reviewed; they will be misplaced. Your grant applications will vanish from department desks. Your dissertation committees will dissolve without explanation. You will spend your remaining productive years grading freshman calculus in a windowless annex."
 
-Christmas morning rose before him in broken brightness: Grandpa Elliot arriving with a present so large it seemed to dwarf him; the first glimpse of polished wood beneath torn wrapping paper; the faint tack of fresh oil beneath his fingertips. Then, in the present moment, the slip of his actual left hand caused the cello beside him to answer with the gentlest accidental resonance.
+Marcus stared at him, his throat working, helpless against the cold weight of institutional reality.
 
-The room returned all at once.
+Celeste looked at the steel cylinder, then at Rune. "And the alternative?"
 
-He bent and slid his fingers beneath the edge of the page. As soon as he lifted it, he caught the scent: citrus, quick and unmistakable. Faint, long settled, yet present enough to stop him where he was.
+"If you sign," Rune said, "Marcus receives an immediate appointment to the Preston Fellowship at UCLA, with complete autonomy in observational astrophysics. David receives an instructorship here at Cornell, leading to a tenure-track appointment in theoretical dynamics. Celeste receives full university backing for her transition into historical acoustic systems."
 
-His father.
+Rune rested his hands flat against the blotter.
 
-Arthur had never worked without a bowl of clementines somewhere within reach. David remembered the lessons: peel folding back in his father’s hands, brightness entering the room with the released oils, the trace of it carried onto the strings when Arthur leaned over to adjust a wrist, correct a position, reshape a phrase. Even now, the back of the page seemed to hold the lightest ghosts of orange tinted prints.
+"You will live. You will build honorable, fruitful careers. And this frequency will remain where it belongs: buried, silent, and cold."
 
-And in the wreckage of himself, David smiled.
+David looked down at his leather notebook. On the cover page, the title he had inked during the long winter nights in Somerville: Spatio-Symbolic Drift in Recursive Harmonic Environments.
 
-It lasted only a moment, but it was real.
+Inside were the eighteen months of calculations, the coffee rings, Celeste's penciled corrections in the margins, the scent of cedar shavings from Arthur's workshop lingering on the binding. His father had understood all along: this was never a choice about physics. It was an inheritance.
 
-His father, and his father before him. The instrument. The hand. The scent. The lesson. All of them gathered in that small space with a force more intimate than explanation. Love had persisted in the things it touched and left behind. David could feel that now with a clarity more solid than thought.
+David looked at Celeste. Her face was pale, her dark eyes clear and steady. She gave him a single, barely perceptible nod.
 
-Then he turned the page over.
+David unscrewed the cap of his fountain pen. "Give me the document."
 
-On the other side was a single piece of music: Bach’s Cello Suite No. 1, Sarabande.
+Rune slid the covenant forward.
 
-It occupied only half a page. Sixteen bars. Eight, then eight again in repeat. Thirty two measures that looked almost austere in their simplicity and yet required, from anyone foolish enough to underestimate them, an honesty nearly impossible to give.
+David signed first: David A. Lang, Ph.D. Marcus took the pen, his fingers trembling with suppressed fury, his signature slashing across the paper like a wound. Celeste signed last, her handwriting deliberate and graceful.
 
-Beneath the music, in his father’s beautifully measured hand, was a note.
+Rune drew the covenant toward him. As he aligned the edges against the blotter, his thumb moved to the heavy pressboard folder of Elliot's estate. With slow, delicate care, Rune slid the tarnished paperclip from the corner of the memorandum bond. He lifted Elliot's warning slip and slid it across the mahogany, letting it come to rest directly before David's hands.
 
+"Keep that," Rune said softly.
 
+David looked up, his fingertips touching the rag paper.
 
+Rune met his gaze with unblinking gravity.
 
-David,
+"Don’t listen to me. It’s not my work."
 
-Don’t judge it, my son. Just once, for me, just play.
+David took the folded memorandum slip and slid it deep into the breast pocket of his coat, pressing his palm flat against his ribs until the stiff rag paper molded to the cloth. Marcus reached across the blotter, his knuckles white as he took possession of the milled stainless steel cylinder, cradling the aircraft-grade casing against his forearm like a dead weight.
 
-I always loved listening to you play.
+They prepared to move toward the door. From the corner of the mahogany desk, Rune lifted a pair of dark calfskin driving gloves. He pulled them on with slow, practiced composure, smoothing the leather between his fingers, preparing for the mountain freeze that waited outside on the quad.
 
-—Your Dad
+Marcus turned the brass latch of the heavy oak door. David followed.
 
+Celeste did not move.
 
-He stared at the page until the ink blurred.
+She remained standing before the desk, her canvas satchel hanging still against her hip. Her eyes flicked across the room—first to the empty navy-blue filing box resting on the far library table by the bookshelves, its hasp hanging loose in the shadows, then back to the pool of green lamplight before Rune.
 
-What he wanted then was not reasonable. Impossible. Forbidden by the architecture of the world. He wanted to pick up the phone and dial the number that still lived, uncorrected, in his hands. He wanted to hear his father answer on the second ring and say, in that unadorned voice: Hello, son. He wanted to hear in the background the soundscape of the study coming through the line: the fire giving off its low and companionable crackle, the turntable in the corner, some mono recording of the old masters breathing softly into the room. He wanted, with all the useless force of love, to be returned to the ordinary facts of him.
+"I have just one more question, Dr. Ishikawa."
 
-David sat with the page in one hand and the cello beneath the other, and let that silence become what it had always been: presence stripped of consolation. It had always belonged to the room. He had simply been too loud to hear it.
+Rune paused, his gloved hands settling flat against the leather edge of the blotter. He looked up at her, his face shadowed beneath the brim of the desk lamp.
 
-Under his palm, the strings gave a faint, involuntary tremor, and he closed his eyes in response.
+"Just one? I find that almost impossible to believe, Ms. Armitage. But one will be fine."
 
-There was no audience here. No judgment worth fearing. No standard left to satisfy except the one grief lays upon the living: that they continue, and that they do so truthfully.
+Celeste took half a step closer to the desk. Her voice was quiet, stripped of deference, carrying that clear, dangerous acuity that belonged only to her.
 
-He set the page before him. Reached for the bow. Drew in a breath that did not steady him, but was enough to start. Because there was nothing else to do. Because his father had asked. Because somewhere beneath the vanity, beneath the injury and the lifelong performance of being wounded, his body already understood what his mind had not yet agreed to.
+"The ARGO engine," Celeste said. "Did the engine ever actually output a predictive phase alignment of any kind, or—"
 
-Play.
+Rune Ishikawa did not blink.
 
-Just play.
+Slowly, his eyes rose to meet hers, holding her gaze with the quiet, immovable weight of cold river stone.
 
+His gloved hand turned the heavy monograph folder face down over the Virgin Islands envelope and that single mimeographed report. In a single measured motion, he slid the bundle into the front drawer of the mahogany desk and eased the oak drawer shut until the brass latch clicked into place.
 
+"No, Ms. Armitage," Rune said softly. "The engine failed."
 
+Celeste stood motionless for three seconds, reading the dark grain of the closed drawer, before turning toward the corridor without another word.
+
+*   *   *
+
+
+17.3 To Ground
+
+Night had fallen across East Hill by the time they walked out into the Arts Quad.
+
+A thick mountain fog had climbed from the lake hollows, pooling across the grass in slow, gray eddies that smelled of cold mud and wet hemlock. The air felt heavy, dense with barometric moisture, muffling their footsteps as they moved up the eastern slope.
+
+The ancient elm stood on the crest above the quad, its massive black boughs arching against the overcast sky like the ribs of an overturned ship.
+
+Rune walked ten paces ahead of them through the mist, his dark silhouette cutting through the vapor, hands deep in the pockets of his overcoat. He did not speak.
+
+A steel spade rested against the wooden bench beside the trunk. Its handle was polished hickory; its blade was dark with fresh loam.
+
+Marcus took the spade without a word. He drove the blade into the turf with the heel of his boot.
+
+The topsoil came loose easily, as though hands had passed through this earth before them. Beneath the root mat lay a heavy layer of crushed glacial till, followed by dense, gray-black clay interbedded with sharp flakes of Devonian shale. Each strike of the iron spade produced a dull, ringing clink against the rock that traveled up Marcus’s forearms.
+
+David knelt on the wet grass. He pulled the leather notebook from his coat, along with Marcus’s three folders of radiation logs and Celeste’s harmonic tables. He rolled the papers tightly, bound them with linen twine, and slipped the bundle into the stainless steel cylinder, leaving the top open as he rested the capsule upright in the three-foot trench cut into the bedrock shale shelf.
+
+Celeste stepped forward.
+
+From her coat, she withdrew a heavy steel tuning fork. Its tines were dulled by years of laboratory use, its stem stamped with an old departmental inventory code: `CU-PHYS-1942`.
+
+She struck the tines gently against the oak leg of the bench.
+
+The pitch it produced was low, round, and immense—a fundamental sixty-eight hertz that bypassed the ear, vibrating directly through their teeth, their collarbones, and the hollows of their chests.
+
+She knelt and pressed its base into the raw soil just above the pit, tines upright. It stood humming, faintly, its base half-sunk in the mountain fog.
+
+Then Celeste took out her camera. Clicking the Polaroid twice in quick succession.
+
+The first shot slid out into her hand with a sharp mechanical whir. She lifted it, watching the chemical image develop in the thin amber wash of the distant quad lamps: the dark grass, the upright fork, the mist, the black rib-cage boughs of the elm rising behind them.
+
+The second shot followed with a soft mechanical click. Celeste caught it before it could touch the wet air and slipped it deep into the inside breast pocket of her wool coat, pressing it flat against her ribs.
+
+Rune stepped forward to the lip of the pit. He took the first photograph from her fingers without asking permission; she yielded it without offering it, the gesture passing between them like a breath exhaled in the cold.
+
+He dropped the photograph into the open cylinder.
+
+Then he paused.
+
+His hand hovered above the vibrating tuning fork standing upright in the mud. The sound was still there, full in a way that defied the smallness of the steel, singing through the stone like a filament pulled tight between two anchors.
+
+"It isn't decaying," Celeste whispered. She stared down at the tines in the mist, her breath frosting against the dark. "A laboratory fork loses its amplitude in thirty seconds. It has been three minutes. The air and the soil should have damped it to silence."
+
+David knelt closer, his hand hovering an inch above the tines without touching them. The air between his fingers felt charged, dense with an acoustic shear wave. "It isn't vibrating on its own," he said, the realization settling into his chest like an iron weight. "The damping isn't failing. The shale shelf is driving it. The ground is feeding energy into the steel."
+
+Marcus stepped back from the trench, his knuckles tight around the hickory spade, his eyes darting between the tines and the dark outline of the gorge.
+
+Rune drew the fork from the earth. He held it for three seconds, his face completely expressionless in the fog, feeling the sustained, impossible vibration hum against his calfskin glove.
+
+Then, with no change in posture, he dropped the tuning fork straight into the open cylinder.
+
+The moment steel struck the bottom of the capsule, the sound swelled—a deep, resonant metallic ring that coupled directly into the shale shelf beneath the trench. A low, subterranean shudder passed through the turf under their knees, answering the distant hydraulic plunge of Fall Creek in the gorge.
+
+The note hung in the air, then went on hanging.
+
+Marcus knelt, set the top cap over the neoprene gasket, and tightened the six brass hex bolts until the rubber seal compressed flush against the lip. The hum remained audible through the sealed metal, a muffled, persistent pulse trapped inside the aircraft-grade shell.
+
+They filled the pit together in absolute silence. Marcus tamped the earth flat with the back of the spade. Celeste scattered wet pine needles and crushed limestone gravel across the raw soil until the scar disappeared into the slope. When they finished, there was no mark left. No sign anything had ever been disturbed.
+
+Rune extended his hand. First to Marcus, who took it with stiff, bitter reluctance. Then to Celeste, whose fingers touched his palm for only an instant.
+
+Finally, Rune turned to David.
+
+Their hands met. Rune’s grip was cold, dry as parchment, with the steady, immovable pressure of stone.
+
+"Keep your word, Dr. Lang," Rune said softly. "The earth here is patient. It will wait longer than you will."
+
+They watched Rune Ishikawa walk back over the crest of the hill, his dark silhouette dissolving into the fog within twenty yards, leaving only the quiet sound of his leather soles clicking against the flagstones.
+
+Marcus turned toward the parking lot, but David remained. Stalwart. Resigned.
+
+He stood motionless at the edge of the covered pit, boots planted on the gravel, head tilted slightly, listening.
+
+Through the soles of his shoes, through his tibia and pelvis, through the spinal column to the base of his skull, the tremor remained. Faint, rhythmic, non-decaying.
+
+Celeste looped back to his side, stepping quietly through the freezing mist as if she had other reasons to return to the hill. She stopped just short, leaning into him until their shoulders met.
+
+"If it's real," Celeste whispered, "it'll claw its way out. It will come back to us. I know it will."
+
+David closed his eyes and let the words settle.
+
+"Let’s go home," he said.
+
+They walked down East Hill together to the gravel parking lot behind the observatory.
+
+The Wagoneer waited, its engine idling low with a guttural, eight-cylinder choke. Marcus crawled over the front bench into the back, pulling his coat collar high against the damp as David and Celeste took the front seats.
+
+David drove. They stopped at the reserve gatehouse, where an elderly campus guard in an oilcloth poncho took David’s driver’s license, checking the details against his clipboard under a yellow flashlight.
+
+"David Arthur Lang," the guard read aloud. "Date of birth?"
+
+"November twenty-eighth, nineteen seventy-nine," David said.
+
+The guard nodded, handed the plastic card back through the window, and raised the wooden gate arm. "Drive safe down the hill, folks. Fog’s thick as lard on the valley road."
+
+The Wagoneer crept down the switchbacks of University Avenue, its red taillights painting two dull crimson streaks through the vapor behind them.
+
+They drove south toward Binghamton for sixty miles in a silence so thick it hurt to look the other way. When at last the lashing valley released them toward open road and starlight, Marcus leaned forward between the front bucket seats, shivering slightly as he wiped the fogged windshield with his sleeve.
+
+His voice was brittle, cracking with exhausted irony:
+
+"Tell me we just buried that thing, Dave. Tell me we didn’t just plant it."
+
+
+PART SEVEN
+
+Narrow Unisons
+
+—   —   —
 
 
 

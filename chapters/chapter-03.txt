@@ -3,267 +3,170 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 3
-Title:           THE REHEARSAL HALL
-Subtitle:        I.   Allegro sostenuto
+Title:           THE OFFICE
+Subtitle:        Largo
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,213
-Paragraph Count: 106
-Scene Count:     0
+Word Count:      1,939
+Paragraph Count: 75
+Scene Count:     1
 
+Scene 1: 3 | The Office  --  Words 1–1,939  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-The Music School’s residence on East Hill had never resolved into a single, settled idea. It was ever more of a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again.
 
-The original 1907 Elizabethan chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered and thickened over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.
+3 | The Office
 
-By the seventies, the place had been reborn, rebranded as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber that seemed, even now, to remember life before being pressed into the service of sound.
+David's office sat two buildings and part of an arts-quad crossing from the physics cluster, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could have reached it through the mid-century administrative corridors, but in every kind of weather he took the scenic route instead, avoiding the hallway where the nearly emeritus set imposed their half-muttered conversational ordeals.
 
-Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks, spare and watchful. Above the musicians hung the acoustic clouds, those pale, suspended planes, stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward, slipping through the gaps into rafters, into the chapel attic, where it gathered and lingered: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
+The office felt lost to time. None of it was necessarily David's doing; he had simply allowed what was there before him to remain. Late-afternoon light seeped through warped Venetian blinds, striping stacked volumes of Annalen der Physik into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookcase, its leather scuffed in the precise pattern of subway-platform collisions from a commute he no longer made.
 
-Below, fluorescent corridors lined with practice rooms tunneled under the hill, binding the old stone house to the defiant 1974 annex, a towering, unclassifiable mass that fused acoustics to geology with a kind of stubborn confidence. Concrete, here, did not simply contain music; it held it. It caught vibrato in the hidden lattice of rebar and returned it, faintly, even when no one was present to deserve it. So that in the silences between terms, the walls seemed to keep a low, borrowed life, as if the building could not quite bring itself to forget.
+David came through the door at a run, threw his coat toward the hook and struck the desk with his satchel hard enough to loosen half a dozen papers. He crossed directly to the computer and stopped dead.
 
-It was a place designed to receive, to reverberate, and to remember.
+Rune Ishikawa was already seated in the corner armchair, stirring a fresh cup of Earl Grey, almost indistinguishable from the furniture.
 
-The main rehearsal hall smelled of rosin and old wool, with the faint tang of brass polish and the salted trace of decades of nervous sweat. Acoustic clouds hung from the ceiling like sleeping bats, and the parquet floor, honeyed once, long ago, now cratered by the recurring scrape of chair legs and music stands, a topography of discipline and desire made permanent by repetition, by ambition rehearsed until it left marks you could not stamp out without erasing the story.
+Before David could orient himself, Rune's voice floated out, unhurried and already mid-thought.
 
+“You know, David, there simply doesn't seem to be milk anywhere. I searched and searched, even dared to cross over into the chemistry department. Dreadful world. Terrible mistake. Still, nothing.”
 
-⁂
+“Rune. Come on in.”
 
+“Yes, thank you. So here I am, sitting in your office, drinking an entirely naked cup of Earl Grey. Shameful.”
 
-Roger Linn, the 1st Violinist, and Professor of String Performance, was already there, spreading music across the stands when David shouldered through the door, and for a moment the room held him the way it held every arrival: without comment, without mercy, simply making space.
+David woke the monitor and lowered himself into his chair, testing its stress limits. The lecture folder appeared on the desktop.
 
-Prokofiev’s Second sat atop the pile, corners weighted flat, the familiar pages worn soft at the edges. Months ago they’d penciled bowings into the margins, thick, insistent annotations that looked less like instructions than an ongoing argument with the composer himself, a private negotiation between living bodies and dead certainty.
+“Rune, about before, I—”
 
-David set the cello case down with a heavy, unmusical thud. His coat still held the cold.
+“So, David,” Rune continued, unfazed, “they say Princeton University Press is interested in a revised monograph from you. An expansion on your wonderful decoherence paper.” His fingers grazed the gilt edge of a volume from the 1979 Encyclopaedia Britannica, part of a set David had inherited from a predecessor who had abruptly retired to study Tibetan throat singing.
 
-Linn looked up, and the grin came easily, an old reflex, his arms opening for a brief second as if to embrace and then thinking better of it, bow dangling from one hand like a thought he hadn’t finished forming.
+“Yes. I’d heard something to that effect.”
 
-David gave a low laugh and dragged his sleeve across his face, as though he could wipe away whatever clung there.
+His mind caught on Rune’s phrasing.
 
-Linn lifted the bow in a small, fluent gesture that read: how was your day? Or perhaps, more truthfully: do we survive this week?
+“Sorry. Who’s they, exactly?”
 
-David shrugged, and the slump of his shoulders answered plainly enough.
+“My dear boy, you forget. We share an agent. And a lawyer, for that matter. I had a call from Charles this morning. On other matters, of course.”
 
-They had been speaking this grammar since Boston: exhaustion as syntax, the old recursive loop of who’s-worse-off-this-week rendered wordless by long practice, the sort of intimacy that doesn’t require confession because it has already seen everything confession would contain.
+“Charles. Right. Of course.” David nodded once, then again, then discovered he was still nodding. “And he said?”
 
-Eleanor Rieger, the quartet’s second violin, entered next in a flurry of wool and efficiency, moving as if she were late to something important even when she wasn’t, dispensing a cheek kiss to Linn, and the same to David, each deployed with the semi-sincere warmth of a diplomat working a reception line. Her overcoat swung off mid-stride, a practiced flourish, as if the body beneath it had no time for weather.
+“He asked after you. In fact, he mentioned you’d been rather difficult to reach of late. Said Princeton called him just the other day.”
 
-And then she stopped.
+David turned to the paper-cluttered desk and began opening drawers, one after another, with the solemn industry of an organist pulling stops. The search continued just long enough to become conspicuous. Halfway through, he noticed himself watching his left hand work, as though supervising an employee, and stopped.
 
-She had not seen David since the funeral, and the recognition arrived in her face with a small hitch, sincere even deeply rendered.
+“Come to think of it, I did see something from them.”
 
-“Oh, David, darling. How are you, my dear? Your mother… oh, I’m just so sorry. For you both. How is she doing?”
+He bent beneath the desk and rummaged through the drift of unopened mail at his feet.
 
-“Oh, you know my mother,” David said. “She’s a mess and she’s doing great. As always.”
+“Here somewhere…”
 
-“Bless her heart. You’ll send her my love, won’t you.” Eleanor took his forearm in that official, pressurized manner whose unspoken grammar was universal: You hang in there now.
+Then, with a small sound of triumph, he produced an envelope.
 
-“You know,” Linn offered, “Eleanor and I were trying to figure out which of us caught more performances of the BSO back when your father was second chair. What did we decide, Eleanor?Between us, maybe one-hundred-twenty? One-twenty-five?”
+“Ah. Princeton University Press. There we are.”
 
-“Oh, easily,” Eleanor said, allowing him the larger share with an elegant little concession. “Though you had me by a mile, Roger.”
+He held it up for Rune to see: slowly enough for the letterhead to register, quickly enough that Rune could not read the words beneath it.
 
-“Sound like you both had me by about… a hundred and twenty-five,” David said, the quip only slightly exaggerating the numbers.
+It was a subscription renewal.
 
-Eleanor smiled, sloughing it off as she drifted away toward her chair, already breaking open the small private rites that preceded her playing, as if there were a door inside her she had to unlock before sound could enter.
+“Excellent.”
 
-By the time she sat, she was humming some interior pitch only she could hear, her body tuning itself with the slow seriousness of an instrument brought too quickly from cold air into warmth.
+A pause opened between them, thin and fragile.
 
-Roger caught David’s eye. They’d surrendered the attempt to understand Eleanor’s preparation years ago, accepting it the way one accepts a relative’s harmless superstition: with affection, with fatigue, with quiet relief that not everything needed translating.
+“Yes, well. Wait and see, right?”
 
-“It was a lovely service,” Linn said softly as David began unpacking his things, the words placed gently, as though setting down a fragile object.
+Rune lifted one hand in a gesture that somehow contained here's hoping, advance congratulations, and a warning disguised as collegial optimism.
 
-“It was,” David agreed, quietly. “Thanks for all your help last week.”
+“Yes. Thanks. Thank you.”
 
-“Wouldn’t have been anywhere else. Was honored to be with you, my friend.”
+The nicety hung in the air, one degree too polite. David could not locate the version of himself that would once have punctured it with a dry remark.
 
-What followed were the usual, small contacts. Pats to the back, a grip to the shoulder. They were the gestures of attempts, bearing thirty years of friendship and family, and all the things people mean but never quite manage to say. The sort of things you swear, at eighty-one, you wish you’d begun saying freely at thirteen, only to realize too late how little time is left to make up for the silence… the assumptions.
+David's gaze drifted. A parallelogram of pale sunlight bisected Arthur's watch while dust motes performed Brownian dances above a stack of Slovak musicology journals from 1987.
 
-And then Celeste Armitage appeared in the doorway.
+When the drift subsided, he was mildly surprised to find Dr. Ishikawa still in the room. Worse, the man had made himself at home with a decades-old issue of Scientific Educators Quarterly, a publication so barren that forty-seven of its hundred and thirty-one pages had been surrendered to advertisements without any measurable loss to human knowledge. Rune sat absorbed in page sixty-three, then sixty-four, now sixty-five, as though revelation might yet crawl from the wreckage.
 
-Some people enter a room; Celeste arrived in it. The distinction was difficult to explain afterward, though everyone who encountered her seemed to agree upon it instinctively. Attention bent toward her before she spoke. Conversations lost their thread. Even silence reorganized itself around her presence, as if the room had been waiting, unknowingly, for a more exact center of gravity.
+Rune closed the magazine with a precise snap and made a small click with his tongue.
 
-She paused in the doorway only briefly, one hand resting near the neck of the viola strapped against her back. The stillness that accompanied her felt chosen rather than accidental, a tempo imposed upon the room simply by existing within it.
+“Oh, and I meant to say, I thought it was a lovely service. Your eulogy in particular was quite… remarkable.”
 
-As she passed David, still standing near the coat pegs, she touched his elbow with a firm warmth that startled him slightly in its certainty. For one disorienting moment, the frequency beneath the building seemed less important, as though the room itself had recalibrated around her arrival.
+“Wait. You were there? Rune, I thought you had—”
 
-David glanced back, caught her eye, and gave the smallest nod, half greeting, half something quieter that did not yet have words. He hung his coat. When he turned again, she was already at her chair, settled as though she had always been there.
+“Prior commitments? Yes. But not important ones, as it turned out.”
 
-No one asked where the music was. Linn tapped the corner of his stand with a knuckle, glanced around once, letting the room collect itself.
+“Rune, you barely knew the man.”
 
-Then he raised his bow and sounded a clear A that hung in the air like a plumb line. One by one, the others followed: Eleanor’s second violin, Celeste’s viola, finally David’s cello, each coaxing their open strings into alignment with that pure, unwavering pitch. For a few moments, the air thickened with a dissonant tapestry of fifths, a purposeful cacophony of micro-adjustments as fine tuners were tweaked and pegs nudged.
+“True. But I have known you for twenty years, and it is not lost on me what giving yourself to us here on the great hill took from him. Or from you.” Rune's gaze dropped, an elegant if obvious deflection. “It seemed essential that I be there to see you honor his sacrifice.”
 
-Then, as if a single breath were released, the sounds coalesced into a luminous, resonant chord. A moment of silence fell, the tension of preparation giving way to the collective focus of now.
+“I'm… I don't...” David steadied himself with a deliberately large breath, then met Rune's dark eyes. “I don't know what to say.”
 
-“The Kabardinian,” Roger said, smiling now, the name spoken like a private signal. “Shall we?”
+“In my experience, the odds of that being true are positively astronomical.” Rune allowed the smallest pause. “Besides, I stayed forty-five minutes. Hardly an ordeal.”
 
-Chairs creaked into readiness. Bows lifted in a loose, coordinated arc. A shared breath, gathered more than taken, moved through the group as if it belonged to them all.
+“That's quite a drive for forty-five minutes. I know how you hate—”
 
-And then, at last, Prokofiev arrived.
+“My dear boy, I haven't driven myself since the Bush administration. Years of clearances and car details spoiled me rotten, I'm afraid.”
 
+“Car detail? Rune—”
 
+“Stories for other days.”
 
-⁂
+Rune set down his teacup with the care of a man who could now afford to shift registers entirely.
 
+“Yes, I was struck by how long he maintained that excellence. The fortitude it must have taken.” He paused to ensure David was paying attention. “Struck, too, by the studied stoicism of your remarks. Your father always struck me as a formidable man, certainly, though delicately composed. It seems to me that, in fact, you inherited this rare, rather admirable trait from him. Yes?”
 
+David sat disarmed by the compliment and by the sheer unfamiliarity of Rune offering one. In twenty years of shared hallways and committee meetings, Rune had mastered proximity without disclosure. His warmth, when it appeared, generally carried the suspicion of strategy. This felt different. Or David was simply too tired to locate the mechanism.
 
+“Rune, that's… that's very nice of you to say. Very nice indeed.”
 
+Rune smoothed his left hand along the edge of the desk, an exit cue he had perfected decades ago, and glanced toward the precarious ziggurat of unanswered student inquiries and meeting requests beside the monitor.
 
-SERGEI PROKOFIEV
+“Well, I can see you have a mountain of paper to climb. I'll leave you to it.” He reached the door, then stopped at the threshold. “Oh and, David… Resonance equals survival?”
 
-  String Quartet No. 2
+David's hand froze above the mouse, his eyes wide open, seemingly forced to meet Rune's steeled gaze directly.
 
-  “Kabardinian,” Op. 92
+“An interesting premise.” His manicured nails tapped the doorjamb in glissando-like 7/8 time. “Resonance as a survival strategy. It has a certain intellectual elegance, I’ll grant you. Though one does wonder, David, when you'll find the nerve to move beyond the curation of the old masters and grace the department with something more speculative. We do so very much miss that version of you, you know.”
 
+“Hm? What was that, Rune? Oh… speculative… yes, well…”
 
-[I.   Allegro sostenuto]
+Dr. Ishikawa mercifully brought the audience to a close. “Well, good night, Professor Lang.”
 
-Resonance preceded sound. David felt the cello’s body thrum against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
+“Good night, Dr. Ishikawa.”
 
-By measure twelve, David's attention fractured. The cello's G-string resonated at 196 Hz. It was close enough to the room's natural mode at 161.8 Hz that the interference pattern became visible.
+And with the unhurried shuffle of his soft leather shoes, he drifted away into the hall.
 
+*   *   *
 
+The lecture folder remained open on the monitor. David selected the deck and watched its two thumbnails populate the left-hand pane: the Lang-Feldman diagram; the waveform and cochlea. Then a dozen or more perfectly related and ordered stock lecture slides on psychoacoustics. Nothing out of the ordinary. Nothing but the same slides in the same deck he’d used for years. He checked the file history, the embedded media, and the temporary cache. The deck had not changed since he built it and the Polaroid existed nowhere on the machine or elsewhere.
 
-Actual dust motes tessellating in the standing wave as golden ratio spirals unfolded  in three dimensions.
+He searched again and found nothing. Then Rune's final question returned to him as his gaze listed out the window and over the crystalized fog that had settled over the quad. Dr. Ishikawa had left the lecture hall before those words appeared on the board.
 
-David’s fingers maintained their accuracy. Every position landed clean; every shift glided into place with practiced inevitability. His intonation was flawless. So precise it felt less like playing and more like gravity. The bow arm moved as if unspooled from a long preordained phrase, its weight and articulation embedded into muscle fiber through years of trench warfare with this godless composition.
+David looked toward the empty doorway, then opened the bottom drawer and pulled out folder LXIII. Its tab read Theoretical Explorations. Below, in parentheses: Strike Outs. The lettering belonged to the geometric hand he had cultivated during a misguided calligraphy phase. New additions were never filed without rereading at least one previous rejection. The NSF denial still bore bourbon stains from 2014. The IEEE rebuke cited “excessive poetry in the equations.”
 
-But his mind had slipped its tether.
+He took the latest speculative proposal from beside the monitor, added it as page 974 beneath an indifferent referee's report, and shut the drawer.
 
-It rose past the fingerboard and f-holes, past the curvature of the quartet's intimate enclosure, past even Celeste’s rising breath, chasing the harmonic series as it bloomed and rose in spectral cascades over the group. He was mapping nodes, tracing overtones, measuring the room in frequencies instead of feet. His inner ear parsed the world in ratios and resonances, every phrase reduced to its sine wave skeleton.
+And then there was the rest: advisory meetings, recommendation letters, the brag sheets of mentees and postdoctoral hopefuls stacked beside the monitor. Since Arthur's death, the weeks had felt like a second conscription into adulthood, brought on less by any single blow than by attrition. The forms kept arriving while his father remained dead. The indecency of that made him flinch.
 
-The others noticed almost immediately. Roger glanced at Celeste, and between them, an acknowledgement that a drifting had begun.
+In the far-right corner of the desk lay the manila envelope from Schaker, Marsheck & Camden, the firm administering Arthur's estate. David looked at it, looked away, then forced himself to look again. He could not bring himself to draw the papers from their stiff bureaucratic sleeve, much less sign them. A few marks in ink, and Arthur's absence would pass from catastrophe into administration.
 
-He was still playing. Clean. Perfect. Untouchable. But he wasn’t with them anymore. His eyes weren’t on the score or anyone else. They fixed upward, reading patterns no one else could see: reflections, cancellations, the ghostly interference of vibrating wood and air.
+They had argued, sometimes mildly and sometimes with real force, about science and music: one obedient to law, the other disciplined only so it could remain human. Arthur had not wanted to lose him to physics. He had wanted David to remain with music, where exactness could serve beauty without pretending beauty was beside the point.
 
-His presence felt altered. Robotic, or worse. As if the soul had stepped sideways, leaving the body behind to execute its task. The bow still drew sound from the string, but each note arrived emptied of breath, risk, or will. A performance without a performer.
+David had insisted both were possible, that science and music need not remain separate islands. Somewhere between them, he believed, a land bridge had once existed and might be found again. Twenty years later, he still could not tell whether continuing to search amounted to fortitude or foolishness.
 
+He nudged the envelope back into its corner, still unsigned, and turned toward the glass, the campus trees and the darkening grass beyond it.
 
+“I will, Dad,” he whispered.
 
-[II.  Adagio]
+*   *   *
 
-Celeste tried everything. She bent phrases, breathed warmth into her tone, leaned into rubato like an outstretched arm reaching for his, waiting for David’s cello to answer with the expected resolution.
+Beyond the window, across the darkening grass, the bench remained visible between the campus trees. Snow thickened into sleet and sleet turned to ice, laying a fresh sheen of treachery over the quad's footpaths. Yet the ground around the bench, and the narrow track his body had been pulled along, remained bare; black-green against the accumulating white, as though the earth there had declined the weather.
 
-He played the notes. Exactly as written. Flawless. Unmoved. Absent.
+Under layers of dense clay and root-striated soil lay the sealed case he, Celeste, and Marcus had buried.
 
-She leaned toward him again, instinctively, drawn by the shape of a void. Her breath caught on the edge of a phrase—nearly late.
+David's fingernail traced the rim of his coffee cup and found the enamel chip left from the night he dropped it while trying to convince Arthur that any of them had the slightest idea what the hell they were doing.
 
-And then, the memory struck. Mid-bow. No warning, just the sharp, silent incision of knowing. It arrived like dissonance unprepared: twenty years compressed into a single note that would not resolve.
+He glanced at the cup, then at the clock, then down at Arthur's watch, because the day had already proven less than reliable.
 
-This, in the end, is what undid them. This other absence. He had simply evaporated from their shared life molecule by molecule. Weekends disappeared behind the closed door of his study. While he pursued theoretical elegance, everything outside it, her, their home, the rituals of ordinary life, was reduced to background noise. The equations on his blackboard garnered ten times the affection that she could ever hope to inspire in him. There remained no escape, no earthly choice but to recognize that she had lost him to the purity of his own abstraction. And in the end, the most heartbreaking part was this:
-
-He had never… even noticed… she was gone.
-
-Her bow trembled. She whispered beneath her line, barely audible:
-
-“David… stay with us.” Then, softer still, like a prayer, “Stay with me.”
-
-By the midpoint of the Adagio, the violinists were visibly discouraged. Roger had seen this in him before. But not like this, not for years. The concern was obvious across all their faces. But Celeste, she felt a much deeper wound: that his body sat beside her while his mind flew through unreachable spaces, brushing constants and thresholds as though he were only notes away from discovering a new melody of quantum order.
-
-Her plea lingered. Her pain trembled through each soaring buttress of the lofted annex until she could endure it no longer.
-
-At the end of the second movement, she called the break herself. “Can we just—” She didn’t finish. She set down her viola and reached for him.
-
-Her hand found his forearm, shaking him gently. “David. David, darling. Come back. Hey. You in there?”
-
-His eyes twitched beneath closed lids before opening—bleary, confused, then sharpening on her face. As always, the razor’s edge of what he had just left, what he had allowed again, pierced him like a blade until Celeste stopped the blade from existing with the pure understanding of her eyes, and he was back.
-
-He saw what he’d done, saw what she’d been carrying while he explored his numeric wonder-verse. The knowledge would keep him awake all night, turning over what he’d learned and what it had cost, again.
-
-
-[III.  Allegro]
-
-They resolved to regroup. Finding the violinists graciously willing, they launched into the third and final movement. The allegro opened with brittle, percussive throng. David was present, engaged; he and Roger even shared a startled moment of collective terror and exhilaration, cello to violin, as they climbed the wall of a fierce modulation.
-
-Then, thirteen seconds less than two minutes in, rehearsal marker thirty-seven, came the col legno hammers: bows flipped, wood striking string with violent force. And then:
-
-
-SNAP!
-
-
-This was not the gentle pop of a worn string, but a violent detonation. The cello’s C string exploded under tension, a silver whip loosed at dangerous speed. It cracked like a gunshot, slicing the air at eye level.
-
-All four froze, predator-still. Every muscle locked. For an endless moment they checked faces, eyes, necks. The wire could have blinded, cut, even severed.
-
-They watched, unmoving, as the coil spat and fell harmless to the floor. Silence, for a full measure, maybe two. Then, a collective exhale. Then glances, one to each. And finally, uncontrollably, laughter. All four at once, wild with relief and adrenaline. The laughter shook them. Unmusical, uncontrolled, purely human.
-
-All four of them let the moment unfurl as it saw fit; each ensuring private moments of camaraderie and reassurance with each of the other members. Roger and Eleanor had been around this block between the four musicians before, and were smart enough to begin laying down the structural requirements necessary  to ensure that they would not be caught in the gravity of Lang and Armitage if it could at all be avoided.
-
-So it was with an unspoken swiftness, a singular wink and nose twitch from Eleanor to Roger, and an even more stealthy, behind-the-back hand tilt from Roger to Celeste, that the two veteran violinists quickly gathered their things and, with polite goodnights administered, fled toward the comfort and quiet of home.
-
-But Celeste and David lingered, longer than the laughter required. Twenty years of shared rehearsal rooms carried them further: near-misses, small catastrophes, the lived history of making music together.
-
-“Well, you were in rare—” Celeste began, then dissolved again. “Sorry. Rare… probably best left rare form this evening.”
-
-“Really? I could've sworn I nailed every note. Haydn never had
-
-such a cellist.”
-
-She stopped mid-laugh. “Haydn?”
-
-“Opus 76, right?” He kept his face perfectly straight.
-
-“David, for God's sake, it's Prokofiev!”
-
-“Oh.” He paused, mock-thoughtful. “The Kabardinian thing? Huh. Well that explains the col legno.”
-
-She turned to the empty doorway. “Hey, you guys, David was playing Haydn all evening!”
-
-They collapsed again, laughter spilling into glances, folding into blinks and nods, the gestures that live so close to regret they can borrow milk from each other without having to knock.
-
-Later, and often, David would call himself an idiot, that he could keep her through the chaotic early years only to lose her once he was grown and supposed to be wise. Twenty years together, never married, and somehow that difference hurt more. He had lost her to the purity of his numeric mania, and he knew it.
-
-At the double doors, she paused, scarf coiled, hand on the push bar. Something in the corridor behind her had changed. A shift in the air.
-
-She turned back slowly. “David…?”
-
-He was already looking at her. Something behind his eyes held, then shuttered.
-
-A beat. Then he shook his head, just once. “It’s nothing.”
-
-She waited, reading him. He was hiding something. Afraid. Her breath caught as the darkness bled in. She almost said something more. But it was no longer her place.
-
-“Get some sleep, David,” she whispered. “Goodnight.”
-
-“Goodnight, Cele.”
-
-Only he could call her that, and only in the solemnity of their private world.
-
-She lingered a moment longer, a slight smile cracking her defenses. The moment lasted exactly 2.47 seconds before she slid into the snow-shimmered quad and out of reach once more.
-
-
-⁂
-
-
-Deep in the tunnel beneath, or perhaps in the back pew of the old chapel, someone took a long, heavy breath, praying through the resonance of music and memory. The annex still lived, still served, still listened.
-
-David melted back into the rehearsal hall, pulled on his overcoat, and sealed the cello away with the care of a man handling something both precious and dangerous. In the corridor, a distant vibraphone aligned perfectly with his tinnitus, a pure sustained note that would ring in his ears until well past two a.m.
-
-David stopped to join the structure in its end-of-day rituals. He could tell only a handful of people remained in the building. A palpable sense of compression flowed heavily through the halls, burdening the air as the walls and ceiling catalogued the memory of Prokofiev’s wild chords and the mercy of a snapped string, folding them into its timbered rafters.
-
-David glanced up at the clock above the double exit doors, then down to his watch. It was three minutes, forty-seven seconds past time.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This time the two faces agreed: it was three minutes, forty-seven seconds from time.
 
 
 
