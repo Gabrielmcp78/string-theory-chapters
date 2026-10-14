@@ -7,14 +7,14 @@ Title:           TO GROUND
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,046
-Paragraph Count: 239
+Word Count:      7,113
+Paragraph Count: 246
 Scene Count:     4
 
 Scene 1: 17 | To Ground  --  Words 1–81  |  Paragraphs 1–3  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
 Scene 2: 17.1 The Warnings | Somerville, Massachusetts  --  Words 82–1,173  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
-Scene 3: 17.2 A Trip to Ithaca | May 25, 2005  --  Words 1,174–5,673  |  Paragraphs 48–183  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
-Scene 4: 17.3 To Ground  --  Words 5,674–7,046  |  Paragraphs 184–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 3: 17.2 A Trip to Ithaca | May 25, 2005  --  Words 1,174–5,740  |  Paragraphs 48–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 17.3 To Ground  --  Words 5,741–7,113  |  Paragraphs 191–246  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -140,6 +140,10 @@ Rune Ishikawa’s office was spare, cold, and stripped for containment. Two wall
 
 Along the north wall, stacked three high beneath the chalkboards, sat ten of the forty heavy cardboard banker’s boxes shipped from the Cambridge estate. Each bore a pre-printed white shipping label from a Cambridge legal trust, typed in formal capital letters:
 
+  $$\textbf{ESTATE OF ELLIOT G. LANG, PH.D. — CAMBRIDGE, MASSACHUSETTS}$$
+
+  $$\text{Trustee Disposition to Dr. Rune Ishikawa, Department of Physics, Cornell University}$$
+
 David stopped in the center of the rug, his chest seizing. On the side of the top crate, written in black grease pencil in the familiar, trembling hand of his grandfather, was a single archival notation: Theoretical Division / Cavity Telemetry 1945–1964.
 
 Across the room, on the library table beneath the floor-to-ceiling walnut bookshelves, the hidden panel below the nineteenth-century calorimetrics volumes had been clicked shut, but the navy-blue metal filing box sat open and hollow under the shadows, its chipped enamel dull, its brass key resting beside the thrown hasp. It was empty. The archives Rune had lifted from its false compartment had already been transferred to his mahogany desk, arranged within the green-shaded lamplight like exhibits laid out for an inquest: Elliot’s nineteen sixty-four monograph folder bound in black cotton ribbon; a yellowed airmail envelope from the Virgin Islands, its corner secured to a typed memorandum with a rusted steel paperclip; and a single purple-mimeograph sheet bearing the final telemetry of Project ARGO before the catastrophe in the sublevels.
@@ -246,13 +250,23 @@ From inside, he drew two manuscripts and laid them in the pool of yellow lamplig
 
 The first was typed on twenty-pound Harvard rag, bound with a rusted brass fastener: Nonlinear Coherent Modes in High-Energy Atmospheric Cavities, by Elliot G. Lang, Ph.D. Across the title block, stamped in dried vermilion ink:
 
+  $$\textbf{WITHDRAWN PRIOR TO SUBMISSION}$$
+
 In the margin beneath the stamp, in brown fountain ink: This manuscript is incomplete. Further work is inadvisable at present. —E.G.L., June 1964.
 
 The second document was purple mimeograph stock, yellowed at the edges:
 
+  $$\textbf{ARGO TECHNICAL NOTE 01 — CORNELL UNIVERSITY — MARCH 4, 1970}$$
+
+  $$\text{Department of Physics — Internal Circulation Only}$$
+
 David leaned forward. His eyes fixed on Section 3 of Tsukino's note. The equations were rendered in hand-lettered Greek:
 
+  $$\ddot{x} + \gamma \dot{x} + \omega_0^2 x + \alpha x^3 = F(t)$$
+
 Beneath it, the Duffing frequency relation:
+
+  $$\omega_d = \omega_0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$
 
 And below the boundary integral, penned in Tsukino’s tight, upright hand:
 

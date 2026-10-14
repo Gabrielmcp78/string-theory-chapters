@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-14",
-  "total_words": 118751,
+  "total_words": 122302,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -47,8 +47,8 @@
       "label": "Chapter 2",
       "title": "THE LECTURE",
       "subtitle": "Presto agitato",
-      "word_count": 6186,
-      "paragraph_count": 304,
+      "word_count": 6242,
+      "paragraph_count": 312,
       "scene_count": 1,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.txt",
@@ -57,9 +57,9 @@
           "n": 1,
           "heading": "2 | The Lecture",
           "word_start": 1,
-          "word_end": 6186,
+          "word_end": 6242,
           "para_start": 1,
-          "para_end": 304,
+          "para_end": 312,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html"
         }
       ]
@@ -93,8 +93,8 @@
       "label": "Chapter 4",
       "title": "THE REHEARSAL",
       "subtitle": "Moderato, con riserbo",
-      "word_count": 2757,
-      "paragraph_count": 132,
+      "word_count": 2767,
+      "paragraph_count": 135,
       "scene_count": 1,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.txt",
@@ -103,9 +103,9 @@
           "n": 1,
           "heading": "4 | The Rehearsal",
           "word_start": 1,
-          "word_end": 2757,
+          "word_end": 2767,
           "para_start": 1,
-          "para_end": 132,
+          "para_end": 135,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html"
         }
       ]
@@ -760,8 +760,8 @@
       "label": "Chapter 15",
       "title": "THE SOLAR MAXIMUM CONNECTION",
       "subtitle": "",
-      "word_count": 5913,
-      "paragraph_count": 270,
+      "word_count": 9331,
+      "paragraph_count": 303,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
@@ -779,36 +779,36 @@
           "n": 2,
           "heading": "15.1 Preliminary Observations",
           "word_start": 7,
-          "word_end": 1029,
+          "word_end": 1033,
           "para_start": 2,
-          "para_end": 41,
+          "para_end": 42,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html"
         },
         {
           "n": 3,
           "heading": "15.2 Method and Resonance",
-          "word_start": 1030,
-          "word_end": 2523,
-          "para_start": 42,
-          "para_end": 77,
+          "word_start": 1034,
+          "word_end": 2600,
+          "para_start": 43,
+          "para_end": 79,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html"
         },
         {
           "n": 4,
           "heading": "15.3 Findings and Implications",
-          "word_start": 2524,
-          "word_end": 3309,
-          "para_start": 78,
-          "para_end": 106,
+          "word_start": 2601,
+          "word_end": 3703,
+          "para_start": 80,
+          "para_end": 116,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html"
         },
         {
           "n": 5,
           "heading": "15.4 Lossless Transfers",
-          "word_start": 3310,
-          "word_end": 5913,
-          "para_start": 107,
-          "para_end": 270,
+          "word_start": 3704,
+          "word_end": 9331,
+          "para_start": 117,
+          "para_end": 303,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html"
         }
       ]
@@ -914,8 +914,8 @@
       "label": "Chapter 17",
       "title": "TO GROUND",
       "subtitle": "",
-      "word_count": 7046,
-      "paragraph_count": 239,
+      "word_count": 7113,
+      "paragraph_count": 246,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt",
@@ -942,18 +942,18 @@
           "n": 3,
           "heading": "17.2 A Trip to Ithaca | May 25, 2005",
           "word_start": 1174,
-          "word_end": 5673,
+          "word_end": 5740,
           "para_start": 48,
-          "para_end": 183,
+          "para_end": 190,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html"
         },
         {
           "n": 4,
           "heading": "17.3 To Ground",
-          "word_start": 5674,
-          "word_end": 7046,
-          "para_start": 184,
-          "para_end": 239,
+          "word_start": 5741,
+          "word_end": 7113,
+          "para_start": 191,
+          "para_end": 246,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html"
         }
       ]

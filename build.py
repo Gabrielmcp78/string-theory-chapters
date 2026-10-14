@@ -55,18 +55,54 @@ STYLE_CLASS = {
 
 # -- CSS ----------------------------------------------------------------------
 CSS = """
+:root {
+    --reader-font-size: 1.1rem;
+    --bg-primary: #fafaf8;
+    --text-primary: #1a1a1a;
+    --text-muted: #555555;
+    --header-bg: #2b3540;
+    --header-title: #f0ece4;
+    --copper-accent: #b8785a;
+    --copper-hover: #c9896b;
+    --card-bg: #f0ede8;
+    --card-border: #d4c8bc;
+    --btn-bg: #f0ede8;
+    --btn-text: #5a4a3a;
+    --btn-border: #d4c8bc;
+    --btn-hover-bg: #e6e0d8;
+    --sentinel-border: #e0d8d0;
+}
+
+html.dark-mode {
+    --bg-primary: #12161a;
+    --text-primary: #ffffff;
+    --text-muted: #b0b8c0;
+    --header-bg: #0d1013;
+    --header-title: #ffffff;
+    --copper-accent: #e09472;
+    --copper-hover: #f0ab8d;
+    --card-bg: #1a2027;
+    --card-border: #2e3844;
+    --btn-bg: #1e252d;
+    --btn-text: #ffffff;
+    --btn-border: #3c4958;
+    --btn-hover-bg: #2a3440;
+    --sentinel-border: #2e3844;
+}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 /* ===== Page shell ===== */
 body {
     font-family: 'Georgia', 'Times New Roman', serif;
-    font-size: 1.1rem;
+    font-size: var(--reader-font-size, 1.1rem);
     line-height: 1.85;
-    color: #1a1a1a;
-    background: #fafaf8;
+    color: var(--text-primary);
+    background: var(--bg-primary);
     max-width: 720px;
     margin: 0 auto;
     padding: 0 0 4rem;
+    transition: background 0.15s ease, color 0.15s ease;
 }
 
 /* ===== Site header — cover palette: dark slate + copper ===== */
@@ -268,38 +304,267 @@ footer a { color: #aaa; }
 footer a:hover { color: #b8785a; }
 
 
-/* ===== Export buttons ===== */
+/* ===== Reader Toolbar & Controls ===== */
+.reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1.8rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+.font-controls, .theme-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+.control-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+}
+.ctrl-btn {
+    background: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+    color: var(--btn-text);
+    font-size: 0.82rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    user-select: none;
+    line-height: 1.2;
+}
+.ctrl-btn:hover {
+    background: var(--btn-hover-bg);
+    border-color: var(--copper-accent);
+    color: var(--copper-accent);
+}
+.ctrl-btn.font-size-val {
+    cursor: default;
+    min-width: 3.2rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.theme-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.75rem;
+}
+.theme-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+}
+.nav-theme-btn {
+    background: transparent;
+    border: 1px solid #4a5768;
+    color: #9baab8;
+    margin-left: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+.nav-theme-btn:hover {
+    background: #364352;
+    color: #ffffff;
+    border-color: var(--copper-accent);
+}
 .export-bar {
-    display: flex; gap: 0.55rem; margin-bottom: 1.6rem; align-items: center;
+    display: flex; gap: 0.55rem; align-items: center;
 }
 .export-btn {
     display: inline-flex; align-items: center; gap: 0.3rem;
-    background: #f0ede8; border: 1px solid #d4c8bc;
-    color: #5a4a3a; font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    background: var(--btn-bg); border: 1px solid var(--btn-border);
+    color: var(--btn-text); font-size: 0.8rem; padding: 0.35rem 0.9rem;
     border-radius: 4px; cursor: pointer; font-family: inherit;
-    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s, color 0.15s;
 }
-.export-btn:hover { background: #e6e0d8; border-color: #b8785a; color: #b8785a; }
-.export-btn.pdf-btn { background: #b8785a; color: #fff; border-color: #b8785a; }
-.export-btn.pdf-btn:hover { background: #c9896b; }
-.export-label { font-size: 0.75rem; color: #bbb; letter-spacing: 0.05em; margin-right: 0.2rem; }
+.export-btn:hover { background: var(--btn-hover-bg); border-color: var(--copper-accent); color: var(--copper-accent); }
+.export-btn.pdf-btn { background: var(--copper-accent); color: #fff; border-color: var(--copper-accent); }
+.export-btn.pdf-btn:hover { background: var(--copper-hover); }
+.export-label { font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Mathematical Equations (KaTeX) ===== */
+.equation {
+    font-family: 'Times New Roman', 'Cambria Math', serif;
+    font-style: italic;
+    text-align: center;
+    color: var(--text-primary);
+    margin: 1.4em auto;
+    font-size: 1.15rem;
+    overflow-x: auto;
+    padding: 0.4em 0;
+}
+.katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+    margin: 1.2em 0;
+}
+.katex {
+    font-size: 1.15em;
+}
+
+/* ===== Dark Mode Complete Styling ===== */
+html.dark-mode {
+    background: #12161a;
+}
+html.dark-mode body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+html.dark-mode .chapter-heading,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode .chapter-text {
+    color: #ffffff;
+}
+html.dark-mode p.body,
+html.dark-mode p.default,
+html.dark-mode p.body3 {
+    color: #ffffff;
+}
+html.dark-mode .chapter-subheading {
+    color: #c0c8d0;
+}
+html.dark-mode .location {
+    color: var(--copper-accent);
+}
+html.dark-mode .tempo-1,
+html.dark-mode .tempo-2 {
+    color: #c0c8d0;
+}
+html.dark-mode .chapter-stats {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+    color: #cbd5e1;
+}
+html.dark-mode .stats-row strong {
+    color: #ffffff;
+}
+html.dark-mode .scene-entry a {
+    color: #cbd5e1;
+}
+html.dark-mode .scene-entry a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.chapter-manifest {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.chapter-manifest pre {
+    color: #a0abb8;
+}
+html.dark-mode .chapter-sentinel {
+    color: var(--copper-accent);
+    border-top-color: var(--sentinel-border);
+}
+html.dark-mode .bottom-nav {
+    background: var(--header-bg);
+    border-top-color: var(--copper-accent);
+}
+html.dark-mode .part-header-card {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+}
+html.dark-mode .part-main-title {
+    color: #ffffff;
+}
+html.dark-mode .part-desc,
+html.dark-mode .part-inst {
+    color: #b0b8c0;
+}
+html.dark-mode .chapter-list li {
+    border-bottom-color: var(--card-border);
+}
+html.dark-mode .chapter-list a {
+    color: #ffffff;
+}
+html.dark-mode .chapter-list a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode .epub-banner {
+    background: var(--card-bg);
+    border-top-color: var(--card-border);
+}
+html.dark-mode .epub-banner p {
+    color: #cbd5e1;
+}
+html.dark-mode footer {
+    border-top-color: var(--card-border);
+    color: #7a8694;
+}
+html.dark-mode footer a {
+    color: #8b99a8;
+}
+html.dark-mode footer a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.scene-analysis {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.scene-analysis summary {
+    color: #ffffff;
+}
+html.dark-mode .analysis-section {
+    border-top-color: var(--card-border);
+    color: #e2e8f0;
+}
+html.dark-mode .analysis-section p {
+    color: #e2e8f0;
+}
+html.dark-mode .katex {
+    color: #ffffff !important;
+}
+html.dark-mode .equation {
+    color: #ffffff !important;
+}
 
 /* ===== Print / PDF output ===== */
 @media print {
     header, nav, .chapter-stats, .chapter-manifest,
     .edit-bar, footer, .export-bar, .scene-nav-bar,
-    .book-label, .chapter-number { display: none !important; }
-    body { background: #fff !important; max-width: none;
-           padding: 0; margin: 0; font-size: 11pt; color: #000; }
+    .reader-toolbar, .book-label, .chapter-number { display: none !important; }
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 11pt !important;
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
     .article-inner { padding: 0 1in; }
-    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000; }
-    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333; }
-    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000 !important; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333 !important; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; color: #000 !important; }
     .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
-                margin-bottom: 2pt; color: #555; }
+                margin-bottom: 2pt; color: #555 !important; }
     .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
     .chapter-sentinel { display: block !important; font-size: 8pt;
                         margin-top: 30pt; text-align: center; }
+    .katex { color: #000 !important; }
+    .equation { color: #000 !important; }
 }
 
 /* ===== Index & Part Sections ===== */
@@ -488,8 +753,13 @@ def para_to_html(p):
         return ''
     if css_class in ('subchapter', 'ch-title-alt'):
         return f'<h3 class="{css_class}">{inner}</h3>\n'
+    elif css_class == 'equation':
+        raw_eq = inner.strip()
+        if not (raw_eq.startswith('$$') or raw_eq.startswith(r'\[')):
+            raw_eq = f'$${raw_eq}$$'
+        return f'<div class="{css_class}">{raw_eq}</div>\n'
     elif css_class in ('location', 'tempo-1', 'tempo-2', 'ch-special',
-                       'equation', 'caption', 'title-special'):
+                       'caption', 'title-special'):
         return f'<div class="{css_class}">{inner}</div>\n'
     else:
         return f'<p class="{css_class}">{inner}</p>\n'
@@ -776,10 +1046,93 @@ def make_manifest_json(chapters_full, build_date):
         'chapters':      chapter_list,
     }, indent=2, ensure_ascii=False)
 
+HEAD_TAGS = """
+<!-- Reader Settings (Anti-Flicker) -->
+<script>
+(function() {
+    var theme = localStorage.getItem('st-theme');
+    if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+    }
+    var fs = localStorage.getItem('st-font-size');
+    if (fs) {
+        document.documentElement.style.setProperty('--reader-font-size', fs + 'rem');
+    }
+})();
+</script>
+<!-- KaTeX Equations Rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+    delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\\[', right: '\\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\\(', right: '\\)', display: false}
+    ],
+    ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    throwOnError: false
+});"></script>
+"""
+
 # -- Export JS (shared by chapter and scene pages) ----------------------------
 # Defined as a module-level constant so Python f-strings don't misinterpret
 # the JavaScript { } braces as format-string substitutions.
 EXPORT_JS = """<script>
+// Theme Toggle & Font Size Control
+function toggleTheme() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    try {
+        localStorage.setItem('st-theme', isDark ? 'dark' : 'light');
+    } catch(e) {}
+    updateThemeUI(isDark);
+}
+
+function updateThemeUI(isDark) {
+    var labels = document.querySelectorAll('.theme-label');
+    labels.forEach(function(el) {
+        el.textContent = isDark ? 'Light' : 'Dark';
+    });
+    var icons = document.querySelectorAll('.theme-icon');
+    icons.forEach(function(el) {
+        el.innerHTML = isDark ? '&#9728;' : '&#9681;';
+    });
+}
+
+function adjustFontSize(delta) {
+    var cur = 1.1;
+    try {
+        cur = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    var next = Math.max(0.85, Math.min(1.65, Math.round((cur + delta * 0.08) * 100) / 100));
+    applyFontSize(next);
+}
+
+function resetFontSize() {
+    applyFontSize(1.1);
+}
+
+function applyFontSize(val) {
+    document.documentElement.style.setProperty('--reader-font-size', val + 'rem');
+    try {
+        localStorage.setItem('st-font-size', val);
+    } catch(e) {}
+    var displays = document.querySelectorAll('.font-size-val');
+    displays.forEach(function(el) {
+        el.textContent = Math.round((val / 1.1) * 100) + '%';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    updateThemeUI(isDark);
+    var savedSize = 1.1;
+    try {
+        savedSize = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    applyFontSize(savedSize);
+});
+
 function _exportWord(filename, headingText, subText, contentHTML) {
     var tmp = document.createElement('div');
     tmp.innerHTML = contentHTML;
@@ -964,6 +1317,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
 <meta name="scene-count" content="{total_scenes}">
 <meta name="word-count" content="{sc_words}">
 <meta name="paragraph-count" content="{sc_paras}">
+{HEAD_TAGS}
 <style>{CSS}</style>
 </head>
 <body>
@@ -985,16 +1339,31 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
   <div class="chapter-heading">{html.escape(scene_group["heading"])}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
 
-  <div class="export-bar">
-    <span class="export-label">EXPORT</span>
-    <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
-    <button class="export-btn" onclick="_exportWord(
-      '{sc_export_filename}',
-      document.querySelector('.chapter-heading').textContent,
-      document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
-      document.querySelector('.chapter-text').innerHTML
-    )">&#8675; Word</button>
-    <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        '{sc_export_filename}',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
+    </div>
   </div>
 
   {stats_bar}
@@ -1121,6 +1490,7 @@ def make_chapter_html(num, paras, all_nums, build_date,
 <meta name="edit-endpoint" content="{api_url}">
 <meta name="edit-retrieve" content="{edit_url}">
 <link rel="alternate" type="text/plain" href="{slug}.txt" title="Plain text — parser/LLM access">
+{HEAD_TAGS}
 <style>{CSS}</style>
 </head>
 <body>
@@ -1141,16 +1511,31 @@ def make_chapter_html(num, paras, all_nums, build_date,
   <div class="chapter-number">{chapter_label(num)}</div>
   <div class="chapter-heading">{html.escape(title)}</div>
   {'<div class="chapter-subheading">' + html.escape(subtitle) + '</div>' if subtitle else ''}
-  <div class="export-bar">
-    <span class="export-label">EXPORT</span>
-    <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
-    <button class="export-btn" onclick="_exportWord(
-      '{ch_export_filename}',
-      document.querySelector('.chapter-heading').textContent,
-      document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
-      document.querySelector('.chapter-text').innerHTML
-    )">&#8675; Word</button>
-    <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        '{ch_export_filename}',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('{txt_url}', this)">&#9776; Copy Text</button>
+    </div>
   </div>
   {stats_bar}
   <div class="chapter-text">
@@ -1330,6 +1715,7 @@ def make_index_html(chapters_meta, build_date):
 <title>{BOOK_TITLE} &mdash; Chapter Index</title>
 <meta name="llm-interface" content="{PAGES_URL}/llm-interface.html">
 <meta name="manifest" content="{PAGES_URL}/manifest.json">
+{HEAD_TAGS}
 <style>{CSS}
 .epub-banner {{
     background: #2b3540; border-top: 1px solid #3d4f5f;
@@ -1354,9 +1740,9 @@ def make_index_html(chapters_meta, build_date):
 <header>
   <div class="book-title">Manuscript &middot; {AUTHOR}</div>
   <h1>{BOOK_TITLE}</h1>
-  <p class="meta" style="margin-top:0.4rem">
-    {chapter_desc} &middot; {total_words:,} words &middot;
-    <a href="manifest.json" style="color:#b8785a">manifest.json</a>
+  <p class="meta" style="margin-top:0.4rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem">
+    <span>{chapter_desc} &middot; {total_words:,} words &middot; <a href="manifest.json" style="color:#b8785a">manifest.json</a></span>
+    <button class="ctrl-btn theme-btn nav-theme-btn" onclick="toggleTheme()" title="Toggle dark mode" style="margin:0"><span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span></button>
   </p>
 </header>
 <div class="epub-banner">
@@ -1368,6 +1754,7 @@ def make_index_html(chapters_meta, build_date):
   <span>Built {build_date}</span>
   <span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span>
 </footer>
+{EXPORT_JS}
 </body>
 </html>"""
 

@@ -8,11 +8,11 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,186
-Paragraph Count: 304
+Word Count:      6,242
+Paragraph Count: 312
 Scene Count:     1
 
-Scene 1: 2 | The Lecture  --  Words 1–6,186  |  Paragraphs 1–304  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
+Scene 1: 2 | The Lecture  --  Words 1–6,242  |  Paragraphs 1–312  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -50,6 +50,8 @@ The laugh was small but genuine, a brief thaw that loosened the room and returne
 
 Beneath it, he wrote:
 
+  $$\Psi(x, t) = \sum c_i \phi_i(x) e^{-iE_i t / \hbar}$$
+
 “This is the whole wave function.” The chalk touched the Greek psi. “Everything the system could possibly become, gathered into one sprawling, unobserved description. We call it probability because the alternative would be admitting that we do not entirely know what reality is before we look at it.”
 
 A few students smiled, recognizing the trap.
@@ -66,11 +68,15 @@ At the chalk box, his fingers closed around the rough cardboard edge. Pain shot 
 
 Beneath the wave function, he wrote:
 
+  $$K(b,a) = \int \mathcal{D}[x(t)] e^{\frac{i}{\hbar} S[x(t)]}$$
+
 “This is the sum over histories—every possible way of getting from the beginning to the end. The paths contribute amplitudes. Some reinforce. Some cancel. What we call reality is, more or less, whatever survives the argument.”
 
 Dust hung in the slant of cold light between David and the benches. The chalk hovered at the end of the equation, a white stub growing smaller against his skin.
 
 Without consciously deciding to, he added beneath it:
+
+  $$\chi_{AB}(\omega) = \int_{-\infty}^{\infty} R_{AB}(t) e^{i\omega t} dt$$
 
 The symbol remained there, glaring against the slate.
 
@@ -97,6 +103,8 @@ Instead, the frequency moved through him with what felt like horrifying assistan
 HOW DO YOU MEASURE PROXIMITY?
 
 Underneath it came:
+
+  $$\lim_{\omega \to \omega_n} \chi_{AB}(\omega) = \infty$$
 
 The hum pressed against his eardrums. Along the back wall, the windows broke daylight into scattered, blinding bands, and for once their glare had the better of him.
 
@@ -146,6 +154,8 @@ Rune turned back to the class, his charm radiating like a physical property. “
 
 He smiled to the room and turned to take on the mathematical disaster that lay before him on the boards, narrowing his focus toward the clean space beside David's proximity question. He wrote:
 
+  $$\rho_{AB} = \sqrt{\sum (x_{A,i} - x_{B,i})^2}$$
+
 The room had gone very quiet. Even the students who had been conserving consciousness for emergencies looked up.
 
 “Professor Lang has given you the old Euclidean distance,” Rune said, tapping the square root with the chalk. “Useful for maps, furniture, doors, and university architects, who must be given something blunt or they grow dangerous. But physics becomes interesting when distance stops behaving like an obedient ruler and begins behaving like an unstable question.”
@@ -157,6 +167,8 @@ Two small circles appeared on opposite sides of the board, labeled A and B. Betw
 A startled exhale moved through the room as students recognized that the floor beneath the lecture had shifted beneath their feet.
 
 Rune wrote again, faster now, the chalk making a dry, surgical music against the slate:
+
+  $$G(x, y; \omega) = \frac{e^{ik|x-y|}}{4\pi |x-y|}$$
 
 “The room is not empty. It has modes. It has memory. It has preferences, if we are willing to forgive the word. A disturbance here”—he touched point A—“does not travel toward B like a letter carried by a dutiful employee. It enters the conditions both systems share. At resonance, those conditions amplify the smallest permitted answer.”
 
@@ -171,6 +183,8 @@ Rune faced the class.
 “No one needs my notation for this. Let's suppose your upstairs neighbor plays bass. Somewhere below him, in your kitchen, a spoon moves across the counter. You have never met him. You may be separated by a floor, a lease, and an excellent reason to hate him. For the length of that note, however, you are occupying the exact same instrument.”
 
 Below David's question, he wrote:
+
+  $$\text{Response} \propto \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
 The chalk fell the last inch into the wooden tray, its click small, crisp, and final.
 
@@ -255,6 +269,8 @@ Rebecca's voice was there, but it could not break this tether. She got up and be
 By then, the chalk was in his right hand again.
 
 His wrist lowered beneath the equation, its physical instruction coming from elsewhere. Notation formed beneath it, crossed itself out, and resolved into terms he could follow only in fragments. The hand paused once, then continued long enough to write:
+
+  $$\left[ -\frac{\hbar^2}{2m}\nabla^2 + V(x) \right] \Psi = E\Psi$$
 
 Then nothing, as the room compressed all the while into an impossible tension.
 
