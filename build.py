@@ -247,10 +247,10 @@ details.chapter-manifest summary {
 }
 details.chapter-manifest summary::-webkit-details-marker { display: none; }
 details.chapter-manifest summary::before {
-    content: '\25B6\00A0'; font-size: 0.55rem; opacity: 0.7;
+    content: '▶ '; font-size: 0.55rem; opacity: 0.7;
 }
 details.chapter-manifest[open] summary::before {
-    content: '\25BC\00A0'; font-size: 0.55rem; opacity: 0.7;
+    content: '▼ '; font-size: 0.55rem; opacity: 0.7;
 }
 details.chapter-manifest[open] {
     padding: 0.3rem 1rem 0.9rem;
@@ -1972,6 +1972,9 @@ def build(src_path=None):
 
     CHAPTER_DIR.mkdir(exist_ok=True)
     EDITS_DIR.mkdir(exist_ok=True)
+    for stale_f in CHAPTER_DIR.glob('*.*'):
+        if stale_f.suffix in ('.html', '.txt'):
+            stale_f.unlink()
 
     chapters   = parse_chapters(src)
     all_nums   = [num for num, _ in chapters]
