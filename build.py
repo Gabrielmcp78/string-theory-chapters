@@ -302,13 +302,62 @@ footer a:hover { color: #b8785a; }
                         margin-top: 30pt; text-align: center; }
 }
 
-/* ===== Index ===== */
-.chapter-list { list-style: none; }
-.chapter-list li { padding: 0.65rem 0; border-bottom: 1px solid #eee; }
+/* ===== Index & Part Sections ===== */
+.part-section {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+}
+.part-section:first-of-type {
+    margin-top: 1.4rem;
+}
+.part-header-card {
+    background: rgba(244, 240, 235, 0.85);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 4px;
+    padding: 0.85rem 1.2rem;
+    margin-bottom: 0.6rem;
+}
+.part-num-tag {
+    font-size: 0.74rem;
+    color: #b8785a;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.part-main-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2b3540;
+    margin: 0.2rem 0 0.1rem;
+    letter-spacing: 0.01em;
+}
+.part-meta-line {
+    margin-top: 0.25rem;
+    font-size: 0.84rem;
+    font-style: italic;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+}
+.part-desc {
+    color: #4a5568;
+}
+.part-inst {
+    color: #718096;
+}
+.part-inst::before {
+    content: "· ";
+    color: #b8785a;
+    margin-right: 0.2rem;
+}
+.chapter-list { list-style: none; margin-bottom: 1.5rem; }
+.chapter-list li { padding: 0.65rem 0.4rem; border-bottom: 1px solid #eee; }
 .chapter-list li:last-child { border-bottom: none; }
 .chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
 .chapter-list a:hover { color: #b8785a; }
-.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; font-weight: 500; }
 .meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
 
 /* ===== Scene Analysis Accordion ===== */
@@ -1132,17 +1181,138 @@ def make_chapter_html(num, paras, all_nums, build_date,
 </body>
 </html>"""
 
+PART_METADATA = {
+    0: {
+        "title": "EPIGRAPH & PROLOGUE",
+        "subtitle": "Dr. Kenji Tsukino, Ithaca, NY 1970",
+    },
+    1: {
+        "title": "PART ONE",
+        "subtitle": "Opus No. 46 in D minor “Of Life”",
+        "descriptor": "A String Quartet in Five Movements",
+        "instrumentation": "for human, cello, chalkboard, and mantelpiece",
+    },
+    2: {
+        "title": "PART TWO",
+        "subtitle": "The Edge of Discovery",
+        "descriptor": "An Epistemic Fugue in Eight Parts",
+        "instrumentation": "for shuttle bus, beer bottle, travel brochure, and bonfire",
+    },
+    3: {
+        "title": "PART THREE",
+        "subtitle": "Fruitful Eve, False Dawn, Fateful Night",
+        "descriptor": "A Secular Passion in Eight Movements",
+    },
+    4: {
+        "title": "PART FOUR",
+        "subtitle": "Exercises in Humanity",
+        "descriptor": "A Suite for Quartet, with Walking Interstitials",
+    },
+    5: {
+        "title": "PART FIVE",
+        "subtitle": "Twin Primes on the Six & The Burdens of Knowing",
+    },
+    6: {
+        "title": "PART SIX",
+        "subtitle": "To Ground",
+        "descriptor": "Clark Hall & East Hill",
+    },
+    7: {
+        "title": "PART SEVEN",
+        "subtitle": "Fractional Currency",
+        "descriptor": "November 28, 2026",
+    },
+    8: {
+        "title": "PART EIGHT",
+        "subtitle": "Resonance & Phenom",
+    },
+    9: {
+        "title": "PART NINE",
+        "subtitle": "Ratios of One",
+    },
+    10: {
+        "title": "PART TEN",
+        "subtitle": "The Final Decision",
+    },
+    11: {
+        "title": "PART ELEVEN",
+        "subtitle": "The Enduring Legacy & Elegy",
+    },
+}
+
+def get_part_num(num):
+    if num == 0:
+        return 0
+    if 1 <= num <= 5:
+        return 1
+    if 6 <= num <= 9:
+        return 2
+    if num == 10:
+        return 3
+    if 11 <= num <= 12:
+        return 4
+    if 13 <= num <= 15:
+        return 5
+    if 16 <= num <= 17:
+        return 6
+    if 18 <= num <= 19:
+        return 7
+    if 20 <= num <= 21:
+        return 8
+    if 22 <= num <= 23:
+        return 9
+    if 24 <= num <= 25:
+        return 10
+    if 26 <= num <= 27:
+        return 11
+    return 99
+
 def make_index_html(chapters_meta, build_date):
-    rows = ""
+    current_part = None
+    part_blocks = []
+
     for num, title, subtitle, word_count in chapters_meta:
+        part_num = get_part_num(num)
+        if part_num != current_part:
+            if current_part is not None:
+                part_blocks.append("</ul>\n</div>\n")
+            current_part = part_num
+            p_info = PART_METADATA.get(part_num, {"title": f"PART {part_num}"})
+            p_title = html.escape(p_info.get("title", ""))
+            p_sub   = html.escape(p_info.get("subtitle", "")) if p_info.get("subtitle") else ""
+            p_desc  = html.escape(p_info.get("descriptor", "")) if p_info.get("descriptor") else ""
+            p_inst  = html.escape(p_info.get("instrumentation", "")) if p_info.get("instrumentation") else ""
+
+            meta_parts = []
+            if p_desc:
+                meta_parts.append(f'<span class="part-desc">{p_desc}</span>')
+            if p_inst:
+                meta_parts.append(f'<span class="part-inst">{p_inst}</span>')
+            meta_html = f'<div class="part-meta-line">{"".join(meta_parts)}</div>' if meta_parts else ""
+
+            header_html = f"""<div class="part-section">
+  <div class="part-header-card">
+    <div class="part-num-tag">{p_title}</div>
+    {f'<h2 class="part-main-title">{p_sub}</h2>' if p_sub else ''}
+    {meta_html}
+  </div>
+  <ul class="chapter-list">
+"""
+            part_blocks.append(header_html)
+
         slug  = slugify(num)
         label = "Overture" if num == 0 else f"Ch {num}"
-        rows += f"""  <li>
-    <span class="ch-num">{label}</span>
-    <a href="chapters/{slug}.html">{html.escape(title)}</a>
-    {'<span class="meta">' + html.escape(subtitle) + '</span>' if subtitle else ''}
-    <span class="meta">{word_count:,} words</span>
-  </li>\n"""
+        part_blocks.append(f"""    <li>
+      <span class="ch-num">{label}</span>
+      <a href="chapters/{slug}.html">{html.escape(title)}</a>
+      {'<span class="meta">' + html.escape(subtitle) + '</span>' if subtitle else ''}
+      <span class="meta">{word_count:,} words</span>
+    </li>\n""")
+
+    if current_part is not None:
+        part_blocks.append("  </ul>\n</div>\n")
+
+    rows = "".join(part_blocks)
 
     total_words  = sum(wc for _, _, _, wc in chapters_meta)
     num_chapters = len([n for n, _, _, _ in chapters_meta if n > 0])
@@ -1193,15 +1363,13 @@ def make_index_html(chapters_meta, build_date):
   <p>Download the full manuscript for any e-reader &mdash; Apple Books, Kobo, or any EPUB-compatible app.</p>
   <a class="epub-download" href="{epub_url}" download="{html.escape(epub_filename)}">&#8595; Download EPUB</a>
 </div>
-<ul class="chapter-list">
-{rows}</ul>
+{rows}
 <footer>
   <span>Built {build_date}</span>
   <span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/{REPO}">GitHub</a></span>
 </footer>
 </body>
 </html>"""
-
 
 def make_llm_interface_html(chapters_meta, build_date):
     chapter_rows = "\n".join(
