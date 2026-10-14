@@ -7,19 +7,15 @@ Title:           THE PIVOTAL ENCOUNTER
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,510
-Paragraph Count: 122
-Scene Count:     3
+Word Count:      3,505
+Paragraph Count: 121
+Scene Count:     2
 
-Scene 1: 23 | The Pivotal Encounter  --  Words 1–5  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
-Scene 2: 23.1 The Bench  --  Words 6–605  |  Paragraphs 2–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
-Scene 3: 23.2 The exhilaration of a walk downhill  --  Words 606–3,510  |  Paragraphs 19–122  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-03.html
+Scene 1: 23.1 The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
+Scene 2: 23.2 The exhilaration of a walk downhill  --  Words 601–3,505  |  Paragraphs 18–121  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-23 | The Pivotal Encounter
 
 
 23.1 The Bench

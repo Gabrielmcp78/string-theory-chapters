@@ -7,20 +7,16 @@ Title:           ALTERATION FINDS
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,413
-Paragraph Count: 226
-Scene Count:     4
+Word Count:      3,409
+Paragraph Count: 225
+Scene Count:     3
 
-Scene 1: 7 | Alteration Finds  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: 7.1 THE INSTRUMENT SHOP | Buffalo, NY Present Day  --  Words 5–439  |  Paragraphs 2–28  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: 7.2 THE WORKSHOP | Buffalo, NY  --  Words 440–954  |  Paragraphs 29–61  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
-Scene 4: 7.3 THE HOTEL ROOM | Buffalo, NY  --  Words 955–3,413  |  Paragraphs 62–226  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-04.html
+Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY Present Day  --  Words 1–435  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: 7.2 THE WORKSHOP | Buffalo, NY  --  Words 436–950  |  Paragraphs 28–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: 7.3 THE HOTEL ROOM | Buffalo, NY  --  Words 951–3,409  |  Paragraphs 61–225  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-7 | Alteration Finds
 
 
 7.1 THE INSTRUMENT SHOP | Buffalo, NY Present Day

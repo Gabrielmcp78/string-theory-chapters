@@ -8,17 +8,13 @@ Subtitle:        Adagio trattenuto, con moto interno
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,301
-Paragraph Count: 91
-Scene Count:     1
+Word Count:      3,297
+Paragraph Count: 90
+Scene Count:     0
 
-Scene 1: 5 | The Apartment  --  Words 1–3,301  |  Paragraphs 1–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-5 | The Apartment
 
 Outside the music school, David’s steps found Celeste’s in the snow and kept to them across the quad. For a time the two sets of prints ran together beneath the trees, though she was already gone; then hers turned toward the bridge while he descended into the dark fold of Lower East Hill.
 

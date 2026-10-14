@@ -8,17 +8,13 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,242
-Paragraph Count: 312
-Scene Count:     1
+Word Count:      6,238
+Paragraph Count: 311
+Scene Count:     0
 
-Scene 1: 2 | The Lecture  --  Words 1–6,242  |  Paragraphs 1–312  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-2 | The Lecture
 
 The lecture hall was tall. Very tall. Its glass-encased design felt more suited to a botanical conservatory or a bakehouse than a room meant for the transmission of linear physics. Narrow windows ran from floor to ceiling along the rear wall, overlooking the glacier-carved canyons of East Hill, their angled panes breaking the winter daylight into hard, unsparing fragments. The light never arrived cleanly here; it only fractured, casting long, geometric ghosts across the rows of empty seats.
 

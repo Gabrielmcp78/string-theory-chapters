@@ -8,29 +8,15 @@ Subtitle:        National Museum Installation & Operational Field Manual
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      749
-Paragraph Count: 65
-Scene Count:     13
+Word Count:      742
+Paragraph Count: 64
+Scene Count:     2
 
-Scene 1: Appendix | Field Protocol #47: Tonal Activation  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html
-Scene 2: National Museum Installation Note | Washington, D.C.  --  Words 8–212  |  Paragraphs 2–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html
-Scene 3: Field Protocol #47 | Operational Manual  --  Words 213–238  |  Paragraphs 8–11  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-03.html
-Scene 4: 1. Instrument Resonance  --  Words 239–286  |  Paragraphs 12–16  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-04.html
-Scene 5: 2. Entering Coherence  --  Words 287–332  |  Paragraphs 17–21  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-05.html
-Scene 6: 3. Initial Harmonic Strike  --  Words 333–375  |  Paragraphs 22–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-06.html
-Scene 7: 4. Environmental Phase-Lock  --  Words 376–420  |  Paragraphs 27–31  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-07.html
-Scene 8: 5. Structural Tuning  --  Words 421–456  |  Paragraphs 32–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-08.html
-Scene 9: 6. Dissonance Introduction  --  Words 457–500  |  Paragraphs 36–40  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-09.html
-Scene 10: 7. Modulation Trigger  --  Words 501–538  |  Paragraphs 41–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-10.html
-Scene 11: 8. Coherence Recognition  --  Words 539–583  |  Paragraphs 46–50  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-11.html
-Scene 12: 9. Closure Threshold  --  Words 584–620  |  Paragraphs 51–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-12.html
-Scene 13: 10. Identity Extraction  --  Words 621–749  |  Paragraphs 56–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-13.html
+Scene 1: National Museum Installation Note | Washington, D.C.  --  Words 1–205  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html
+Scene 2: Field Protocol #47 | Operational Manual  --  Words 206–742  |  Paragraphs 7–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-Appendix | Field Protocol #47: Tonal Activation
 
 
 National Museum Installation Note | Washington, D.C.
@@ -54,7 +40,6 @@ Field Protocol #47 | Operational Manual
 
 *   *   *
 
-
 1. Instrument Resonance
 
 Choose an instrument shaped by years of intimate use.
@@ -64,7 +49,6 @@ Confirm it bears micro-variations that reflect emotional compression (e.g. heat 
 You cannot ask the field to trust you if the object you play does not remember your grief.
 
 *   *   *
-
 
 2. Entering Coherence
 
@@ -76,7 +60,6 @@ The field begins to respond the moment you stop trying to name what you’re fee
 
 *   *   *
 
-
 3. Initial Harmonic Strike
 
 Play one tone at 432 Hz (or tuned relative to local gravitational anomaly).
@@ -86,7 +69,6 @@ Hold until inner ear pressure equilibrates.
 Reality resists demands. It yields only to patient pressure—the kind that understands timing matters more than force.
 
 *   *   *
-
 
 4. Environmental Phase-Lock
 
@@ -98,7 +80,6 @@ Don’t try to lead the world into harmony—agree to meet it where it’s alrea
 
 *   *   *
 
-
 5. Structural Tuning
 
 Let breath, heartbeat, and any immediate community of like-minded humans determine tempo. Reject mechanical guides.
@@ -106,7 +87,6 @@ Let breath, heartbeat, and any immediate community of like-minded humans determi
 Machines excel at precision, but only the body knows when it’s time to move on.
 
 *   *   *
-
 
 6. Dissonance Introduction
 
@@ -118,7 +98,6 @@ This is how we change: not by returning to where we started, but by making peace
 
 *   *   *
 
-
 7. Modulation Trigger
 
 Shift tonal center during emotional recall—ideally during spontaneous memory emergence.
@@ -128,7 +107,6 @@ Allow the modulation to remain unfinished.
 You are not proving what you know. You are showing what you’re still learning to understand.
 
 *   *   *
-
 
 8. Coherence Recognition
 
@@ -140,7 +118,6 @@ When the world starts to respond to your presence, the right answer is not to pa
 
 *   *   *
 
-
 9. Closure Threshold
 
 Stop playing only when the final overtone vanishes naturally.
@@ -150,7 +127,6 @@ Say nothing for at least 94 seconds after.
 Some truths can only finish landing if we’re quiet enough to feel their weight.
 
 *   *   *
-
 
 10. Identity Extraction
 

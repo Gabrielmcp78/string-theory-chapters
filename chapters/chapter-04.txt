@@ -8,17 +8,13 @@ Subtitle:        Moderato, con riserbo
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,767
-Paragraph Count: 135
-Scene Count:     1
+Word Count:      2,763
+Paragraph Count: 134
+Scene Count:     0
 
-Scene 1: 4 | The Rehearsal  --  Words 1–2,767  |  Paragraphs 1–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-4 | The Rehearsal
 
 The Music School’s residence on East Hill had never resolved into a single, settled idea. It was a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan-style chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered over decades, addition by addition, corridor by corridor.
 

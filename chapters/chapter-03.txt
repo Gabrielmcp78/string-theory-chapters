@@ -8,17 +8,13 @@ Subtitle:        Largo
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,939
-Paragraph Count: 75
-Scene Count:     1
+Word Count:      1,935
+Paragraph Count: 74
+Scene Count:     0
 
-Scene 1: 3 | The Office  --  Words 1–1,939  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-03-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-3 | The Office
 
 David's office sat two buildings and part of an arts-quad crossing from the physics cluster, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could have reached it through the mid-century administrative corridors, but in every kind of weather he took the scenic route instead, avoiding the hallway where the nearly emeritus set imposed their half-muttered conversational ordeals.
 

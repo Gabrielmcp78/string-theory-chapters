@@ -7,20 +7,16 @@ Title:           THE ENDURING LEGACY
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,601
-Paragraph Count: 66
-Scene Count:     4
+Word Count:      2,596
+Paragraph Count: 65
+Scene Count:     3
 
-Scene 1: 26 | The Enduring Legacy  --  Words 1–5  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
-Scene 2: 26.1 The Effect  --  Words 6–1,025  |  Paragraphs 2–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
-Scene 3: 26.2 The Impact  --  Words 1,026–1,655  |  Paragraphs 26–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
-Scene 4: 26.3 The Reason  --  Words 1,656–2,601  |  Paragraphs 36–66  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-04.html
+Scene 1: 26.1 The Effect  --  Words 1–1,020  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
+Scene 2: 26.2 The Impact  --  Words 1,021–1,650  |  Paragraphs 25–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
+Scene 3: 26.3 The Reason  --  Words 1,651–2,596  |  Paragraphs 35–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-26 | The Enduring Legacy
 
 
 26.1 The Effect

@@ -7,22 +7,18 @@ Title:           TO GROUND
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,832
-Paragraph Count: 263
-Scene Count:     6
+Word Count:      6,828
+Paragraph Count: 262
+Scene Count:     5
 
-Scene 1: 17 | To Ground  --  Words 1–73  |  Paragraphs 1–3  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
-Scene 2: 17.1 The Warnings | Somerville, Massachusetts  --  Words 74–1,165  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
-Scene 3: 17.2 The Covenant | May 25, 2005  --  Words 1,166–4,880  |  Paragraphs 48–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
-Scene 4: 17.3 To Ground  --  Words 4,881–6,032  |  Paragraphs 176–219  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
-Scene 5: 17.4 The Return | Clark Hall, Midnight  --  Words 6,033–6,479  |  Paragraphs 220–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
-Scene 6: 17.5 The Gatehouse  --  Words 6,480–6,832  |  Paragraphs 244–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-06.html
+Scene 1: 17.1 The Warnings | Somerville, Massachusetts  --  Words 70–1,161  |  Paragraphs 3–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: 17.2 The Covenant | May 25, 2005  --  Words 1,162–4,876  |  Paragraphs 47–174  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: 17.3 To Ground  --  Words 4,877–6,028  |  Paragraphs 175–218  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 17.4 The Return | Clark Hall, Midnight  --  Words 6,029–6,475  |  Paragraphs 219–242  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 5: 17.5 The Gatehouse  --  Words 6,476–6,828  |  Paragraphs 243–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-17 | To Ground
 
 “In the grand theater of exploration and discovery, there exist only tuning points—subtle shifts, almost imperceptible, where history hums against the grain of consequence. These are moments of calibration: the quiet betrayal of what could have been. For in progress we find the ultimate two-headed monster; at once a beast that does not ask permission—and a tyrant incapable of absolution.”
 

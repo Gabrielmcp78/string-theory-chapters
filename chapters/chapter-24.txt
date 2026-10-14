@@ -7,22 +7,18 @@ Title:           THE FINAL DECISION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,198
-Paragraph Count: 428
-Scene Count:     6
+Word Count:      6,193
+Paragraph Count: 427
+Scene Count:     5
 
-Scene 1: 24 | The Final Decision  --  Words 1–5  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-01.html
-Scene 2: 24.1 The Ultimatum  --  Words 6–392  |  Paragraphs 2–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-02.html
-Scene 3: 24.2 The Final Score  --  Words 393–1,000  |  Paragraphs 21–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-03.html
-Scene 4: 24.3 The Catwalks  --  Words 1,001–4,300  |  Paragraphs 33–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-04.html
-Scene 5: 24.4 Disappearance  --  Words 4,301–4,802  |  Paragraphs 159–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-05.html
-Scene 6: 24.5 The Call  --  Words 4,803–6,198  |  Paragraphs 168–428  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-06.html
+Scene 1: 24.1 The Ultimatum  --  Words 1–387  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-01.html
+Scene 2: 24.2 The Final Score  --  Words 388–995  |  Paragraphs 20–31  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-02.html
+Scene 3: 24.3 The Catwalks  --  Words 996–4,295  |  Paragraphs 32–157  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-03.html
+Scene 4: 24.4 Disappearance  --  Words 4,296–4,797  |  Paragraphs 158–166  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-04.html
+Scene 5: 24.5 The Call  --  Words 4,798–6,193  |  Paragraphs 167–427  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-24 | The Final Decision
 
 
 24.1 The Ultimatum

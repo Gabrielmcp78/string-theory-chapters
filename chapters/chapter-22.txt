@@ -7,18 +7,14 @@ Title:           RATIOS OF ONE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,516
-Paragraph Count: 48
-Scene Count:     2
+Word Count:      1,511
+Paragraph Count: 47
+Scene Count:     1
 
-Scene 1: 22 | Ratios of One  --  Words 1–5  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-01.html
-Scene 2: 22.1 The Apartment | November 30, 2026, 3:48 AM EST  --  Words 6–1,516  |  Paragraphs 2–48  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-02.html
+Scene 1: 22.1 The Apartment | November 30, 2026, 3:48 AM EST  --  Words 1–1,511  |  Paragraphs 1–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-22 | Ratios of One
 
 
 22.1 The Apartment | November 30, 2026, 3:48 AM EST

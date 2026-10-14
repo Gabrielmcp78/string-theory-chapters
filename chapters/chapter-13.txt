@@ -7,24 +7,20 @@ Title:           TWIN PRIMES ON THE SIX
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,148
-Paragraph Count: 205
-Scene Count:     8
+Word Count:      6,141
+Paragraph Count: 204
+Scene Count:     7
 
-Scene 1: 13 | TWIN PRIMES ON THE SIX  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
-Scene 2: 13.1 Falsifiable Fame  --  Words 8–780  |  Paragraphs 2–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
-Scene 3: 13.2 Dream Lecture  --  Words 781–1,767  |  Paragraphs 21–36  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: 13.3 Groundbreaking  --  Words 1,768–2,621  |  Paragraphs 37–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: 13.4 Everything He Was Not  --  Words 2,622–3,475  |  Paragraphs 63–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.5 Friendly Forensics  --  Words 3,476–4,003  |  Paragraphs 83–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.6 Ishikawa’s Island  --  Words 4,004–5,860  |  Paragraphs 100–193  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
-Scene 8: 13.7 The Thickening  --  Words 5,861–6,148  |  Paragraphs 194–205  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-08.html
+Scene 1: 13.1 Falsifiable Fame  --  Words 1–773  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
+Scene 2: 13.2 Dream Lecture  --  Words 774–1,760  |  Paragraphs 20–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: 13.3 Groundbreaking  --  Words 1,761–2,614  |  Paragraphs 36–61  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: 13.4 Everything He Was Not  --  Words 2,615–3,468  |  Paragraphs 62–81  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: 13.5 Friendly Forensics  --  Words 3,469–3,996  |  Paragraphs 82–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: 13.6 Ishikawa’s Island  --  Words 3,997–5,853  |  Paragraphs 99–192  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.7 The Thickening  --  Words 5,854–6,141  |  Paragraphs 193–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-13 | TWIN PRIMES ON THE SIX
 
 
 13.1 Falsifiable Fame

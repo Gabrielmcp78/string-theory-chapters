@@ -7,22 +7,18 @@ Title:           FRACTIONAL CURRENCY
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,813
-Paragraph Count: 160
-Scene Count:     6
+Word Count:      3,809
+Paragraph Count: 159
+Scene Count:     5
 
-Scene 1: 18 | Fractional Currency  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
-Scene 2: 18.1 Street Smarts | November 28, 2026  --  Words 5–622  |  Paragraphs 2–26  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
-Scene 3: 18.2 Wander, Wonder and Wait  --  Words 623–1,085  |  Paragraphs 27–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
-Scene 4: 18.3 Sundays  --  Words 1,086–1,563  |  Paragraphs 48–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
-Scene 5: 18.4 A Preference for Precision  --  Words 1,564–2,088  |  Paragraphs 84–98  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
-Scene 6: 18.5 The Conduction  --  Words 2,089–3,813  |  Paragraphs 99–160  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-06.html
+Scene 1: 18.1 Street Smarts | November 28, 2026  --  Words 1–618  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
+Scene 2: 18.2 Wander, Wonder and Wait  --  Words 619–1,081  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
+Scene 3: 18.3 Sundays  --  Words 1,082–1,559  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
+Scene 4: 18.4 A Preference for Precision  --  Words 1,560–2,084  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
+Scene 5: 18.5 The Conduction  --  Words 2,085–3,809  |  Paragraphs 98–159  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-18 | Fractional Currency
 
 
 18.1 Street Smarts | November 28, 2026

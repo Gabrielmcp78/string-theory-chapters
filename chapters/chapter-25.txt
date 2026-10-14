@@ -7,21 +7,17 @@ Title:           ENDLESS POSSIBILITIES
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,486
-Paragraph Count: 153
-Scene Count:     5
+Word Count:      3,482
+Paragraph Count: 152
+Scene Count:     4
 
-Scene 1: 25 | Endless Possibilities  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-01.html
-Scene 2: 25.1 Observed superposition  --  Words 5–153  |  Paragraphs 2–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-02.html
-Scene 3: 25.2 Observed superposition  --  Words 154–1,354  |  Paragraphs 8–54  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-03.html
-Scene 4: 25.3 En Train  --  Words 1,355–2,655  |  Paragraphs 55–132  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-04.html
-Scene 5: 25.4 Observed superposition  --  Words 2,656–3,486  |  Paragraphs 133–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-05.html
+Scene 1: 25.1 Observed superposition  --  Words 1–149  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-01.html
+Scene 2: 25.2 Observed superposition  --  Words 150–1,350  |  Paragraphs 7–53  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-02.html
+Scene 3: 25.3 En Train  --  Words 1,351–2,651  |  Paragraphs 54–131  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-03.html
+Scene 4: 25.4 Observed superposition  --  Words 2,652–3,482  |  Paragraphs 132–152  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-25 | Endless Possibilities
 
 
 25.1 Observed superposition

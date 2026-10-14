@@ -7,24 +7,20 @@ Title:           PHENOM DE GUARE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,812
-Paragraph Count: 294
-Scene Count:     8
+Word Count:      5,807
+Paragraph Count: 293
+Scene Count:     7
 
-Scene 1: 21 | Phenom de Guare  --  Words 1–5  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
-Scene 2: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 6–478  |  Paragraphs 2–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 479–1,446  |  Paragraphs 21–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.3 THE DISCOVERY  --  Words 1,447–2,218  |  Paragraphs 65–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.4 Around The Horn  --  Words 2,219–3,784  |  Paragraphs 104–185  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,785–4,534  |  Paragraphs 186–229  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.6 TEMPORALITY  --  Words 4,535–4,923  |  Paragraphs 230–252  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
-Scene 8: 21.7 CANTUS  --  Words 4,924–5,812  |  Paragraphs 253–294  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-08.html
+Scene 1: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
+Scene 2: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
+Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4 Around The Horn  --  Words 2,214–3,779  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,780–4,529  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6 TEMPORALITY  --  Words 4,530–4,918  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7 CANTUS  --  Words 4,919–5,807  |  Paragraphs 252–293  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-21 | Phenom de Guare
 
 
 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026

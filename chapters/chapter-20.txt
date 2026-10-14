@@ -7,18 +7,14 @@ Title:           RESONANCE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,141
-Paragraph Count: 34
-Scene Count:     2
+Word Count:      1,138
+Paragraph Count: 33
+Scene Count:     1
 
-Scene 1: 20 | Resonance  --  Words 1–3  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html
-Scene 2: 20.1 The After Math  --  Words 4–1,141  |  Paragraphs 2–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-02.html
+Scene 1: 20.1 The After Math  --  Words 1–1,138  |  Paragraphs 1–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-20-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-20 | Resonance
 
 
 20.1 The After Math

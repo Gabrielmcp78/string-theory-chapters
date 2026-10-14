@@ -7,22 +7,18 @@ Title:           EXERCISE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,779
-Paragraph Count: 148
-Scene Count:     6
+Word Count:      3,776
+Paragraph Count: 147
+Scene Count:     5
 
-Scene 1: 11 | EXERCISE  --  Words 1–3  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
-Scene 2: 11.1 The House on the Hill  --  Words 4–901  |  Paragraphs 2–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
-Scene 3: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 902–1,346  |  Paragraphs 47–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
-Scene 4: 11.3 The Assessment  --  Words 1,347–2,279  |  Paragraphs 72–101  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
-Scene 5: 11.4 Walk B | for David, Roger and Easy Hill incline  --  Words 2,280–2,397  |  Paragraphs 102–104  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
-Scene 6: 11.5 The Chapel Rehearsal  --  Words 2,398–3,779  |  Paragraphs 105–148  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-06.html
+Scene 1: 11.1 The House on the Hill  --  Words 1–898  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
+Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 899–1,343  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
+Scene 3: 11.3 The Assessment  --  Words 1,344–2,276  |  Paragraphs 71–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
+Scene 4: 11.4 Walk B | for David, Roger and Easy Hill incline  --  Words 2,277–2,394  |  Paragraphs 101–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
+Scene 5: 11.5 The Chapel Rehearsal  --  Words 2,395–3,776  |  Paragraphs 104–147  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-11 | EXERCISE
 
 
 11.1 The House on the Hill

@@ -7,21 +7,17 @@ Title:           NOW THEN
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,493
-Paragraph Count: 159
-Scene Count:     5
+Word Count:      2,489
+Paragraph Count: 158
+Scene Count:     4
 
-Scene 1: 6 | Now Then  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.1 SUBJECT | Buffalo, NY Present Day  --  Words 5–320  |  Paragraphs 2–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.2 ANSWER | MIT - Boston, MA April 11, 2005  --  Words 321–1,348  |  Paragraphs 18–83  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.3 SUBJECT | Buffalo, NY Present Day  --  Words 1,349–2,000  |  Paragraphs 84–124  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
-Scene 5: 6.4 ANSWER | MIT - Boston, MA May 24, 2005  --  Words 2,001–2,493  |  Paragraphs 125–159  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-05.html
+Scene 1: 6.1 SUBJECT | Buffalo, NY Present Day  --  Words 1–316  |  Paragraphs 1–16  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: 6.2 ANSWER | MIT - Boston, MA April 11, 2005  --  Words 317–1,344  |  Paragraphs 17–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3 SUBJECT | Buffalo, NY Present Day  --  Words 1,345–1,996  |  Paragraphs 83–123  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4 ANSWER | MIT - Boston, MA May 24, 2005  --  Words 1,997–2,489  |  Paragraphs 124–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-6 | Now Then
 
 
 6.1 SUBJECT | Buffalo, NY Present Day

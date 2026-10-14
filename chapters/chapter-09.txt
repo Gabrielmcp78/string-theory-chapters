@@ -7,21 +7,17 @@ Title:           REMAINING RETURNS
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,033
-Paragraph Count: 109
-Scene Count:     5
+Word Count:      2,029
+Paragraph Count: 108
+Scene Count:     4
 
-Scene 1: 9 | Remaining Returns  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
-Scene 2: 9.1 DISSOLUTION | Cornell - Ithaca, NY Present Day  --  Words 5–566  |  Paragraphs 2–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: 9.2 THE CLASSROOM | Cornell, Ithaca, NY  --  Words 567–1,335  |  Paragraphs 25–73  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: 9.3 THE CORRIDOR  --  Words 1,336–1,850  |  Paragraphs 74–92  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
-Scene 5: 9.4 RECOGNITION  --  Words 1,851–2,033  |  Paragraphs 93–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-05.html
+Scene 1: 9.1 DISSOLUTION | Cornell - Ithaca, NY Present Day  --  Words 1–562  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: 9.2 THE CLASSROOM | Cornell, Ithaca, NY  --  Words 563–1,331  |  Paragraphs 24–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE CORRIDOR  --  Words 1,332–1,846  |  Paragraphs 73–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION  --  Words 1,847–2,029  |  Paragraphs 92–108  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-9 | Remaining Returns
 
 
 9.1 DISSOLUTION | Cornell - Ithaca, NY Present Day

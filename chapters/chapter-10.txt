@@ -8,25 +8,21 @@ Subtitle:        Andante sostenuto, dolce e misurato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,846
-Paragraph Count: 725
-Scene Count:     9
+Word Count:      13,842
+Paragraph Count: 724
+Scene Count:     8
 
-Scene 1: 10 | Passions’ Principles  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: I. CHORALE | Wednesday Dinner  --  Words 5–1,967  |  Paragraphs 2–81  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: II. ARIOSO | The Tuning  --  Words 1,968–5,534  |  Paragraphs 82–282  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: III. RECITATIVUM | Break-through  --  Words 5,535–6,475  |  Paragraphs 283–318  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: IV. TURBA | The Guillotine  --  Words 6,476–8,478  |  Paragraphs 319–435  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: V. VIA DOLOROSA | Into the Storm  --  Words 8,479–10,270  |  Paragraphs 436–553  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,271–10,990  |  Paragraphs 554–579  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
-Scene 8: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,991–12,258  |  Paragraphs 580–646  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
-Scene 9: VIII. RELIQUIAE | Up From the Depths  --  Words 12,259–13,846  |  Paragraphs 647–725  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-09.html
+Scene 1: I. CHORALE | Wednesday Dinner  --  Words 1–1,963  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. ARIOSO | The Tuning  --  Words 1,964–5,530  |  Paragraphs 81–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. RECITATIVUM | Break-through  --  Words 5,531–6,471  |  Paragraphs 282–317  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV. TURBA | The Guillotine  --  Words 6,472–8,474  |  Paragraphs 318–434  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,475–10,266  |  Paragraphs 435–552  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,267–10,986  |  Paragraphs 553–578  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,987–12,254  |  Paragraphs 579–645  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,255–13,842  |  Paragraphs 646–724  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-10 | Passions’ Principles
 
 
 I. CHORALE | Wednesday Dinner

@@ -7,22 +7,18 @@ Title:           VISIONS AND BURDENS OF KNOWING
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,526
-Paragraph Count: 231
-Scene Count:     6
+Word Count:      6,519
+Paragraph Count: 230
+Scene Count:     5
 
-Scene 1: 14 | VISIONS AND BURDENS OF KNOWING  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.1 The Monochord | Pythagoras  --  Words 8–960  |  Paragraphs 2–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.2 The Salon | Émilie du Châtelet  --  Words 961–1,894  |  Paragraphs 34–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.3 The Purge  --  Words 1,895–3,880  |  Paragraphs 65–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
-Scene 5: 14.4 Resonance | Chladni  --  Words 3,881–5,220  |  Paragraphs 146–192  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
-Scene 6: 14.5 Minimums | Isaac Newton  --  Words 5,221–6,526  |  Paragraphs 193–231  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-06.html
+Scene 1: 14.1 The Monochord | Pythagoras  --  Words 1–953  |  Paragraphs 1–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 The Salon | Émilie du Châtelet  --  Words 954–1,887  |  Paragraphs 33–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 The Purge  --  Words 1,888–3,873  |  Paragraphs 64–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 Resonance | Chladni  --  Words 3,874–5,213  |  Paragraphs 145–191  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 Minimums | Isaac Newton  --  Words 5,214–6,519  |  Paragraphs 192–230  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-14 | VISIONS AND BURDENS OF KNOWING
 
 
 14.1 The Monochord | Pythagoras

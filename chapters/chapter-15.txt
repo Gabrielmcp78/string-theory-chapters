@@ -7,21 +7,17 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,558
-Paragraph Count: 441
-Scene Count:     5
+Word Count:      7,552
+Paragraph Count: 440
+Scene Count:     4
 
-Scene 1: 15 | THE SOLAR MAXIMUM CONNECTION  --  Words 1–6  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
-Scene 2: 15.1 Preliminary Observations  --  Words 7–647  |  Paragraphs 2–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
-Scene 3: 15.2 Method and Resonance  --  Words 648–1,569  |  Paragraphs 63–158  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
-Scene 4: 15.3 Findings and Implications  --  Words 1,570–2,539  |  Paragraphs 159–260  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
-Scene 5: 15.4 Lossless Transfers  --  Words 2,540–7,558  |  Paragraphs 261–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html
+Scene 1: 15.1 Preliminary Observations  --  Words 1–641  |  Paragraphs 1–61  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
+Scene 2: 15.2 Method and Resonance  --  Words 642–1,563  |  Paragraphs 62–157  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
+Scene 3: 15.3 Findings and Implications  --  Words 1,564–2,533  |  Paragraphs 158–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 2,534–7,552  |  Paragraphs 260–440  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-15 | THE SOLAR MAXIMUM CONNECTION
 
 
 15.1 Preliminary Observations
