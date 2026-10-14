@@ -7,15 +7,15 @@ Title:           ENDLESS POSSIBILITIES
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,478
-Paragraph Count: 151
+Word Count:      3,486
+Paragraph Count: 153
 Scene Count:     5
 
 Scene 1: 25 | Endless Possibilities  --  Words 1–4  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-01.html
 Scene 2: 25.1 Observed superposition  --  Words 5–153  |  Paragraphs 2–7  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-02.html
 Scene 3: 25.2 Observed superposition  --  Words 154–1,354  |  Paragraphs 8–54  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-03.html
 Scene 4: 25.3 En Train  --  Words 1,355–2,655  |  Paragraphs 55–132  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-04.html
-Scene 5: 25.4 Observed superposition  --  Words 2,656–3,478  |  Paragraphs 133–151  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-05.html
+Scene 5: 25.4 Observed superposition  --  Words 2,656–3,486  |  Paragraphs 133–153  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -327,6 +327,10 @@ The hollowed room now compressed into silence, encased in the void like a deeply
 
 
 PART ELEVEN
+
+The Enduring Legacy & Elegy
+
+—   —   —
 
 
 

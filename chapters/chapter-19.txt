@@ -7,7 +7,7 @@ Title:           THE SYMMETRY OF VIOLENCE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,530
+Word Count:      3,532
 Paragraph Count: 104
 Scene Count:     5
 
@@ -15,7 +15,7 @@ Scene 1: 19 | The Symmetry of Violence  --  Words 1–19  |  Paragraphs 1–2  |
 Scene 2: 19.1 The SARABANDE  --  Words 20–698  |  Paragraphs 3–15  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
 Scene 3: 19.2 The Grid  --  Words 699–1,343  |  Paragraphs 16–28  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
 Scene 4: 19.3 Invitations of Ill  --  Words 1,344–1,997  |  Paragraphs 29–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-04.html
-Scene 5: 19.4 The Reckoning  --  Words 1,998–3,530  |  Paragraphs 42–104  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-05.html
+Scene 5: 19.4 The Reckoning  --  Words 1,998–3,532  |  Paragraphs 42–104  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -232,7 +232,7 @@ Outside, in every direction, an electricity starved and huddling planet, newly u
 
 PART EIGHT
 
-Propagation
+Resonance & Phenom
 
 —   —   —
 

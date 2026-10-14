@@ -7,15 +7,15 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,907
-Paragraph Count: 269
+Word Count:      5,913
+Paragraph Count: 270
 Scene Count:     5
 
 Scene 1: 15 | THE SOLAR MAXIMUM CONNECTION  --  Words 1–6  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
 Scene 2: 15.1 Preliminary Observations  --  Words 7–1,029  |  Paragraphs 2–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
 Scene 3: 15.2 Method and Resonance  --  Words 1,030–2,523  |  Paragraphs 42–77  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
 Scene 4: 15.3 Findings and Implications  --  Words 2,524–3,309  |  Paragraphs 78–106  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
-Scene 5: 15.4 Lossless Transfers  --  Words 3,310–5,907  |  Paragraphs 107–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html
+Scene 5: 15.4 Lossless Transfers  --  Words 3,310–5,913  |  Paragraphs 107–270  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -560,7 +560,9 @@ He wrote to bridge the seam, forcing the resonance into legible form until the t
 
 PART SIX
 
-Horizons
+To Ground
+
+Clark Hall & East Hill
 
 —   —   —
 

@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-14",
-  "total_words": 118717,
+  "total_words": 118751,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -502,7 +502,7 @@
       "label": "Chapter 12",
       "title": "HUMANITIES",
       "subtitle": "",
-      "word_count": 6194,
+      "word_count": 6202,
       "paragraph_count": 290,
       "scene_count": 10,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12.html",
@@ -593,7 +593,7 @@
           "n": 10,
           "heading": "12.9 Ten Minutes, Maybe Twelve",
           "word_start": 5620,
-          "word_end": 6194,
+          "word_end": 6202,
           "para_start": 269,
           "para_end": 290,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-10.html"
@@ -760,8 +760,8 @@
       "label": "Chapter 15",
       "title": "THE SOLAR MAXIMUM CONNECTION",
       "subtitle": "",
-      "word_count": 5907,
-      "paragraph_count": 269,
+      "word_count": 5913,
+      "paragraph_count": 270,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
@@ -806,9 +806,9 @@
           "n": 5,
           "heading": "15.4 Lossless Transfers",
           "word_start": 3310,
-          "word_end": 5907,
+          "word_end": 5913,
           "para_start": 107,
-          "para_end": 269,
+          "para_end": 270,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-05.html"
         }
       ]
@@ -914,8 +914,8 @@
       "label": "Chapter 17",
       "title": "TO GROUND",
       "subtitle": "",
-      "word_count": 7043,
-      "paragraph_count": 238,
+      "word_count": 7046,
+      "paragraph_count": 239,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17.txt",
@@ -951,9 +951,9 @@
           "n": 4,
           "heading": "17.3 To Ground",
           "word_start": 5674,
-          "word_end": 7043,
+          "word_end": 7046,
           "para_start": 184,
-          "para_end": 238,
+          "para_end": 239,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html"
         }
       ]
@@ -1032,7 +1032,7 @@
       "label": "Chapter 19",
       "title": "THE SYMMETRY OF VIOLENCE",
       "subtitle": "",
-      "word_count": 3530,
+      "word_count": 3532,
       "paragraph_count": 104,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19.html",
@@ -1078,7 +1078,7 @@
           "n": 5,
           "heading": "19.4 The Reckoning",
           "word_start": 1998,
-          "word_end": 3530,
+          "word_end": 3532,
           "para_start": 42,
           "para_end": 104,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-05.html"
@@ -1123,7 +1123,7 @@
       "label": "Chapter 21",
       "title": "PHENOM DE GUARE",
       "subtitle": "",
-      "word_count": 5811,
+      "word_count": 5812,
       "paragraph_count": 294,
       "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21.html",
@@ -1196,7 +1196,7 @@
           "n": 8,
           "heading": "21.7 CANTUS",
           "word_start": 4924,
-          "word_end": 5811,
+          "word_end": 5812,
           "para_start": 253,
           "para_end": 294,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-08.html"
@@ -1241,8 +1241,8 @@
       "label": "Chapter 23",
       "title": "THE PIVOTAL ENCOUNTER",
       "subtitle": "",
-      "word_count": 3504,
-      "paragraph_count": 120,
+      "word_count": 3510,
+      "paragraph_count": 122,
       "scene_count": 3,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23.txt",
@@ -1269,9 +1269,9 @@
           "n": 3,
           "heading": "23.2 The exhilaration of a walk downhill",
           "word_start": 606,
-          "word_end": 3504,
+          "word_end": 3510,
           "para_start": 19,
-          "para_end": 120,
+          "para_end": 122,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-03.html"
         }
       ]
@@ -1350,8 +1350,8 @@
       "label": "Chapter 25",
       "title": "ENDLESS POSSIBILITIES",
       "subtitle": "",
-      "word_count": 3478,
-      "paragraph_count": 151,
+      "word_count": 3486,
+      "paragraph_count": 153,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25.txt",
@@ -1396,9 +1396,9 @@
           "n": 5,
           "heading": "25.4 Observed superposition",
           "word_start": 2656,
-          "word_end": 3478,
+          "word_end": 3486,
           "para_start": 133,
-          "para_end": 151,
+          "para_end": 153,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-05.html"
         }
       ]

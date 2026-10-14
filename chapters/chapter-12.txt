@@ -7,7 +7,7 @@ Title:           HUMANITIES
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,194
+Word Count:      6,202
 Paragraph Count: 290
 Scene Count:     10
 
@@ -20,7 +20,7 @@ Scene 6: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  -- 
 Scene 7: 12.6 The House on the Hill (return)  --  Words 3,748–4,489  |  Paragraphs 177–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
 Scene 8: 12.7 The Draft  --  Words 4,490–5,299  |  Paragraphs 214–254  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
 Scene 9: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,300–5,619  |  Paragraphs 255–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
-Scene 10: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,620–6,194  |  Paragraphs 269–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-10.html
+Scene 10: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,620–6,202  |  Paragraphs 269–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-10.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -612,7 +612,7 @@ And just like that, the electric kettle… clicked… off!
 
 PART FIVE
 
-Answering Worlds
+Twin Primes on the Six & The Burdens of Knowing
 
 —   —   —
 
