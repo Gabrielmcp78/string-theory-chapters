@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-15",
-  "total_words": 120351,
+  "total_words": 120046,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -480,8 +480,8 @@
       "label": "Chapter 13",
       "title": "TWIN PRIMES ON THE SIX",
       "subtitle": "",
-      "word_count": 6475,
-      "paragraph_count": 212,
+      "word_count": 6170,
+      "paragraph_count": 199,
       "scene_count": 7,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.txt",
@@ -499,7 +499,7 @@
           "n": 2,
           "heading": "13.2 Dream Lecture",
           "word_start": 791,
-          "word_end": 1808,
+          "word_end": 1809,
           "para_start": 20,
           "para_end": 35,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html"
@@ -507,46 +507,46 @@
         {
           "n": 3,
           "heading": "13.3 Groundbreaking",
-          "word_start": 1809,
-          "word_end": 2924,
+          "word_start": 1810,
+          "word_end": 2614,
           "para_start": 36,
-          "para_end": 69,
+          "para_end": 62,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html"
         },
         {
           "n": 4,
           "heading": "13.4 Everything He Was Not",
-          "word_start": 2925,
-          "word_end": 3779,
-          "para_start": 70,
-          "para_end": 89,
+          "word_start": 2615,
+          "word_end": 3471,
+          "para_start": 63,
+          "para_end": 82,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html"
         },
         {
           "n": 5,
           "heading": "13.5 Friendly Forensics",
-          "word_start": 3780,
-          "word_end": 4307,
-          "para_start": 90,
-          "para_end": 106,
+          "word_start": 3472,
+          "word_end": 4043,
+          "para_start": 83,
+          "para_end": 105,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html"
         },
         {
           "n": 6,
           "heading": "13.6 Ishikawa’s Island",
-          "word_start": 4308,
-          "word_end": 6185,
-          "para_start": 107,
-          "para_end": 200,
+          "word_start": 4044,
+          "word_end": 5880,
+          "para_start": 106,
+          "para_end": 187,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html"
         },
         {
           "n": 7,
           "heading": "13.7 The Thickening",
-          "word_start": 6186,
-          "word_end": 6475,
-          "para_start": 201,
-          "para_end": 212,
+          "word_start": 5881,
+          "word_end": 6170,
+          "para_start": 188,
+          "para_end": 199,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html"
         }
       ]
