@@ -7,15 +7,15 @@ Title:           FRACTIONAL CURRENCY
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,809
+Word Count:      3,806
 Paragraph Count: 159
 Scene Count:     5
 
-Scene 1: 18.1 Street Smarts | November 28, 2026  --  Words 1–618  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
-Scene 2: 18.2 Wander, Wonder and Wait  --  Words 619–1,081  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
-Scene 3: 18.3 Sundays  --  Words 1,082–1,559  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
-Scene 4: 18.4 A Preference for Precision  --  Words 1,560–2,084  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
-Scene 5: 18.5 The Conduction  --  Words 2,085–3,809  |  Paragraphs 98–159  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
+Scene 1: 18.1 Street Smarts | November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
+Scene 2: 18.2 Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
+Scene 3: 18.3 Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
+Scene 4: 18.4 A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
+Scene 5: 18.5 The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–159  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -37,7 +37,7 @@ No movement.
 
 “Intro to Electrodynamics? Two years ago. You rewired the lab supply backward and nearly took out the building.”
 
-His jaw stayed set, and in the cold, his breath should have fogged. It didn’t. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David narrowed his eyes and let the image gather itself again, as though focus were an unstable negotiation of the optic nerve.
+His jaw stayed set, and in the cold, his breath should have fogged. It didn’t. The fluorescent lights pulsed, and for a moment, Thornden’s outline wavered. Just slightly. David narrowed his eyes and let the image gather itself again, as though focus were a negotiation rather than an act of will.
 
 When the cashier called “next,” the woman in front of Thornden moved forward, but he did not.
 
@@ -63,11 +63,11 @@ The single fruit on the counter gleamed. Its skin was darker than the others, br
 
 As the register resumed its steady beep, the fluorescent light above him seemed to soften back to normal. He paid, nodded to the cashier, and headed toward the exit.
 
-Outside, the winter air struck him with blunt, raw weight. As he stepped onto the sidewalk, something struck the toe of his shoe.
+Outside, the cold was different. Less surgical. More honest. As he stepped onto the sidewalk, something struck the toe of his shoe.
 
 He looked down to find a clementine rolling along the curb. It wobbled once, then stopped near the lip of the storm drain at the corner. He looked back at the doors of Genoa’s Market. No one.
 
-David approached it. The small orange shifted before his foot touched it, rolling uphill from the iron drain grate in a slow, improbable arc until it came to rest against his shoe.
+David approached it. The small orange shifted before his foot touched it, retreating from the drain in a slow, improbable arc until it came to rest against his shoe.
 
 He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
 

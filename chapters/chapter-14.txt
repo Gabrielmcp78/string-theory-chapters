@@ -7,15 +7,15 @@ Title:           VISIONS AND BURDENS OF KNOWING
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,516
-Paragraph Count: 230
+Word Count:      6,526
+Paragraph Count: 231
 Scene Count:     5
 
-Scene 1: 14.1 The Monochord | Pythagoras  --  Words 1–949  |  Paragraphs 1–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 The Salon | Émilie du Châtelet  --  Words 950–1,883  |  Paragraphs 33–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.3 The Purge  --  Words 1,884–3,870  |  Paragraphs 64–144  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.4 Resonance | Chladni  --  Words 3,871–5,210  |  Paragraphs 145–191  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
-Scene 5: 14.5 Minimums | Isaac Newton  --  Words 5,211–6,516  |  Paragraphs 192–230  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
+Scene 1: 14.1 The Monochord | Pythagoras  --  Words 1–916  |  Paragraphs 1–32  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 The Salon | Émilie du Châtelet  --  Words 917–1,839  |  Paragraphs 33–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 The Purge  --  Words 1,840–3,812  |  Paragraphs 64–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 Resonance | Chladni  --  Words 3,813–5,187  |  Paragraphs 146–192  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 Minimums | Isaac Newton  --  Words 5,188–6,526  |  Paragraphs 193–231  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -37,7 +37,7 @@ He struck the fork against the desk rim. A-432. Pure as a confession. The note r
 
 If it be not now, then it may never come.
 
-The phrase surfaced in his memory with the physical immediacy of acoustic replay. It carried Elliot’s precise, gravelly cadence—the habit of an old Los Alamos physicist who had spent half a century trying to build containers of timber and steel to absorb what a human nervous system could never hold unshielded.
+The phrase arrived in his skull like something spoken aloud by someone who was not there. It sounded, absurdly, a little like his grandfather, if his grandfather had ever quoted Hamlet and haunted tuning forks.
 
 David closed his eyes. Here goes nothing. The room buckled.
 
@@ -75,11 +75,11 @@ The tuning fork was still in his right hand. His left lay flat on the desk, char
 
 On the blackboard, the equation had changed.
 
-The ratios stood in crystalline alignment, as if the division of the monochord string had settled into the chalk through physical inevitability. Two and a half millennia of acoustic mechanics had collapsed into twenty feet of slate, meeting his own twenty years of solitary labor at their exact point of intersection. The derivation had arrived as an inheritance, waiting only for an ear willing to register the frequency.
+The ratios were clean now, too clean, as if they had been carried through by a hand that understood their destination before he did. He had not solved the problem. He had received it. A gift, not a solution. He was the recipient, not the solver. Maybe that was the point.
 
 He struck the fork again.
 
-The room held its geometry this time, yet every surface in it answered. Cup, chair, lamp, book, radiator, even the timber frame of the building hummed with its own distinct resonant mode. His heartbeat, frantic a moment earlier, settled into metronomic calm as pulse and pitch locked into a clean fifth.
+The room did not warp this time, but everything in it answered. Cup, chair, lamp, book, radiator, even the cheap bones of the building, each seemed to declare its own frequency. His heartbeat, frantic a moment earlier, settled into metronomic calm. He felt pulse and pitch fall into a perfect fifth.
 
 The fork was louder now. Maybe it always had been.
 
@@ -90,9 +90,9 @@ He turned back to the board with the caution of someone unsure the room would ho
 
 Andante con grazia e logica
 
-The chalk made a sudden, new sound as it struck the slate mid-equation. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. He stepped back to take in the entire board. The white line he had just drawn seemed to waver where it should have held. Then, just as the wall behind it rippled out of solidity and snapped back, a shrieking sound rose sharply in his ears, then vanished with a sort of airy depressurization.
+The chalk made a sudden, new sound as it struck the slate mid-chalk thought. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. He stopped, took a momentary step back and took in the entire board. The white line he had just drawn seemed to waver where it should have held. Then, just as the wall behind it seemed to ripple out of solidity and then back, a shrieking sound rose sharply in his ears, then vanished with a sort of airy depressurisation.
 
-And through an acoustic transition no more complicated than a sudden phase-shift in air pressure, he found himself seated in another room. In another time.
+And with nothing more technical or magical or difficult than that, he found he was seated in another room. In another time.
 
 He took in his new surroundings, if indeed that’s what they were. The walls were papered in peacock blue, the pattern worked through with gold that lifted and disappeared in the candlelight as he moved his head. The floor was parquet worn dull and smooth by generations of use. Along the mantel stood clocks, instruments, small mechanical curiosities whose brass surfaces caught the light and returned it in fragments. The air held beeswax, perfume, and the stale press of too many bodies having spent too many hours in conversation.
 
@@ -112,7 +112,7 @@ Only then did she speak, still facing the keys.
 
 “Le carré de la vitesse,” she said, and after a beat, “c'est le doublement de l'octave.”
 
-The words reached him as if they belonged to the music itself, transcending ordinary language. She played the figure again, more slowly this time, and he saw the relation in it before he understood it: doubling as increase, doubling as law. Her left hand left the keyboard long enough to touch the abacus on the nearby desk, as though number and sound required no translation between them.
+The words reached him as if they belonged to the music rather than to language. She played the figure again, more slowly this time, and he saw the relation in it before he understood it: doubling as increase, doubling as law. Her left hand left the keyboard long enough to touch the abacus on the nearby desk, as though number and sound required no translation between them.
 
 She turned halfway toward him.
 
@@ -136,22 +136,22 @@ He knew the phrase. Its name remained just beyond him, but his body had already 
 
 Du Châtelet looked down at her hand. For the first time, her composure faltered. She drew her fingers from the keys and held them there, suspended, as though they no longer belonged entirely to her.
 
-Then she took a breath, lowered them again, and struck the final interval. The sound held, ringing pure and unyielding, even as the room around it dissolved.
+Then she took a breath, lowered them again, and gently played the final interval. And as she did, the note did not end. The room did.
 
 David was back in his office with his hand lifted toward the board and a strip of heavy paper edged in gold caught between his fingers. The last interval still trembled somewhere behind his teeth.
 
 He hummed it once, scarcely making a sound. It was Elliot’s melody. His grandfather’s song.
 
-Then the chalk on the board arrested his attention. The equations had advanced.
+Then the equation stole his attention outright. They had advanced.
 
-The new lines were lighter than his own, finer in pressure, traced with the swift velocity of an intellect that took the conservation of kinetic vis viva as an article of faith. He followed them down the board until he reached the step that had resisted him all morning. The threshold had been crossed cleanly, with sovereign precision, resolving the obstacle as if it had only ever been an error of perspective.
+The new lines were lighter than his own, finer in pressure, and unmistakably not written by his hand. He followed them down the board until he reached the step that had resisted him all morning. It had been crossed cleanly now, almost contemptuously, as though the difficulty had existed only because he had insisted on meeting it from the wrong angle.
 
 Near the margin, just below the solved transition, the chalk line thinned, wavered, and recovered. David touched that place with one finger. For the first time, the beauty of the thing did not reassure him.
 
 
 14.3 The Purge
 
-The following morning found David wide awake by 5 a.m., and searching for the main hall key to the administrative building by 5:45. He couldn’t for the life of him remember the last time he had to unlock a building on campus, but a patient hunt through the brass rings he’d been collecting for twenty years turned up the master key with little incident. Inside, the halls were otherworldly: untouched by a soul since the custodial sweep of the previous midnight. He had to take a moment to orient himself; every surface he encountered, every doorway and tiled corridor, stood in immaculate order and cleanliness.
+The following morning found David wide awake by 5 a.m., and fumbling for the main hall key to the administrative building by 5:45. He couldn’t for the life of him remember the last time he had to unlock a building on campus, but a brief fumbling through the old chain he’d been collecting for twenty years found the correct master with little incident. Inside, the halls were otherworldly: untouched by a soul since the custodial magic of late last night had been performed. He had to take a moment just to orient himself as every surface he encountered, every room, every hall, everything was in perfect order and cleanliness.
 
 Everything that is, except his office.
 
@@ -177,7 +177,7 @@ David opened the rear door mid-lecture.
 
 The class turned as one organism, thirty faces executing synchronized acknowledgment. At the board stood Professor Garrin, marker suspended mid-diagram, caught in the collapse between thought and notation.
 
-David stepped inside, scanned the back wall, and located the chair. He moved forward without acknowledgment, the first chair behind him carving a trajectory between desks like agricultural equipment through fragile soil. Students leaned back under the sheer acoustic pressure of witnessing such an institutional violation in real time.
+David stepped inside, scanned the back wall, and located the chair. He moved forward without acknowledgment, the first chair behind him carving a trajectory between desks like agricultural equipment through fragile soil. Students leaned back, less from fear than from the pressure of witnessing such a violation in real time.
 
 “Professor Lang,” Garrin’s voice emerged, then thinned. “Can I… help you with something?”
 
@@ -197,7 +197,7 @@ Without taking his eyes from the door, he began drifting sideways across the fro
 
 When his hand finally found the receiver, he lifted it in near slow motion, pressed the Dean’s direct line by procedural memory alone, and brought the handset to his still-disbelieving head.
 
-As he waited for the line to answer, Garrin side-stepped into the hallway just in time to see David disappearing into the corner office suite, two matching chairs dragging behind him in a continuous shriek of metal on linoleum.
+As he waited for the line to answer, Garrin side-stepped into the hallway just in time to see David disappearing into the corner office suite, two matching chairs dragging behind him, squealing and scratching in protest like pigs to slaughter.
 
 He waited, ring after ring, for what began to feel like an exorbitant amount of time. Then someone answered.
 
@@ -215,13 +215,13 @@ He extracted a fresh stick of chalk with a sharp crack and hesitated at the boar
 
 His tinnitus, usually a polite hiss at the periphery, now buzzed with nervous anticipation.
 
-The stripped space held sound differently now.
+The office registered the change immediately.
 
-Reflections traveled farther than the drywall dimensions should have permitted; light struck the slate cleanly, leaving no ambient shadows where they normally gathered.
+Sound traveled farther than the dimensions allowed. Light struck the board and cast no shadows where shadows should have gathered.
 
 David took the second chair and sat.
 
-The quiet settled, revealing its internal architecture. Beats and intervals resisted conventional alignment. The room was newly bare, stripped down to its essential acoustic bone. The structure beneath remained active, newly exposed, like bone through cleared tissue.
+The quiet settled, revealing its internal architecture. Beats and intervals resisted conventional alignment. The environment had been simplified, not resolved. The structure beneath remained active, newly exposed, like bone through cleared tissue.
 
 Somewhere in the building, metal contracted. A pipe adjusted pressure without stimulus. The larger pattern held itself in suspension.
 
@@ -231,7 +231,7 @@ Perfectly timed, as if whoever stood outside had been waiting for the exact mome
 
 The knock came again.
 
-David turned too quickly and nearly dropped the sliver of paper.
+Lang turned too quickly and nearly dropped the sliver of paper.
 
 He stumbled towards the door and opened it to find Dr. Ishikawa standing patiently before him. David did not move, nor did he invite Rune in. For a moment they simply stared at each other until Rune tipped his head just a notch, and with a raise of one brow he gently leaned past David into the room.
 
@@ -263,11 +263,11 @@ The two men looked at one another with matching, unwilling grins.
 
 “If you can get this to publish,” Rune said, nudging the desk with his hip, “you might actually have a chance of being cited by someone outside your fan club.”
 
-David felt a brief warmth rise in his chest before the next wave of self-doubt buried it. “Thanks,” he said, and meant it as much as he ever meant anything.
+Lang felt a brief warmth rise in his chest before the next wave of self-doubt buried it. “Thanks,” he said, and meant it as much as he ever meant anything.
 
 Rune turned toward the door, then stopped with exaggerated realization. “I almost forgot.”
 
-He slid the folded front page of the Ithaca Times onto the corner of the desk. With a marker from David's pen cup, he circled a line in the top story, pressing thick black ink into the paper.
+He slid the folded front page of the Ithaca Times onto the corner of the desk. With a marker from Lang's pen cup, he circled a line in the top story, pressing thick black ink into the paper.
 
 “November already. Shocking. Truly. You know Carl was born in November,” Rune said lightly. “Strange, the things we remember.”
 
@@ -297,7 +297,9 @@ Gypsum and slate retook the field of his focus. The equation remained. So did th
 
 He picked up the chalk and began to write.
 
-The proof advanced with the crystalline certainty of retrieval, each step answering the last as if he were uncovering an existing bedrock, discovering what had always stood beneath. His hand moved without trembling. The ratios resolved. The high ringing in his inner ear receded into a calm, even tone.
+The proof came easily, as if he were recalling it rather than producing it. That was the unfamiliar sensation. Not invention. Retrieval.
+
+His hand did not shake. The ratios resolved. The tinnitus receded into a calm, even tone.
 
 He looked at the two matching chairs and had the brief, humiliating thought that he owed Garrin both fruit and apology. Embarrassing did not begin to cover it.
 
@@ -316,9 +318,9 @@ He had seen, in the architecture of numbers and notes, the armature of the world
 
 Night entered the apartment in layers. The windows glowed with the dull sodium of streetlights, rendering every surface a spectral version of itself. David tuned his cello in the center of the living room, the instrument propped on its spike so that the maple back reflected the skyline like a warped mirror.
 
-Earlier that day, he had restrung the A with a synthetic core. The string sang before the bow touched it. He played the open note, then stopped it at first position and played again. The interval was a major second, but the difference between the two notes trembled in the air and produced a third pulse, secret and insistent.
+Earlier that day, he had restrung the A with a synthetic core, a new filament recommended by the luthier who could not repair his jaw but could mend the wounds of spruce and maple. The string sang before the bow touched it. He played the open note, then stopped it at first position and played again. The interval was a major second, but the difference between the two notes trembled in the air and produced a third pulse, secret and insistent.
 
-He started with Britten: the Canto from the First Suite, spare and deliberate, the kind that turned a living room into a chapel. His body remembered every shift, every extension, every controlled reach of the left hand. If his intonation was not perfect, the cello did not punish him for it. He moved through the phrases with deliberate slowness, listening for hidden relations, for places where the sequence of intervals touched the patterns he had seen in his visions.
+He started with Bach, as always: a Sarabande, one of the slow ones, the kind that turned a living room into a chapel. His body remembered every shift, every extension, every controlled reach of the left hand. If his intonation was not perfect, the cello did not punish him for it. He moved through the phrases with deliberate slowness, listening for hidden relations, for places where the sequence of intervals touched the patterns he had seen in his visions.
 
 On the repeat, his mind recurred. He immediately could recall the monochord in the courtyard. And now as the edges of the image flowed from blur-field to sharp edge, another vision overtook his memory and a second cycle of blur gave way to the hard crisp edges of the whirring abacus and harpsichord in the candlelit salon. Flashes of the margin note and ratio made manifest.
 
@@ -326,7 +328,7 @@ As he approached the end of the phrase, the buzz in his ears grew louder. The ce
 
 Then he drew the A again, this time with force.
 
-Through the room the vibration swelled, setting glasses, bookshelves, and the radiator into immediate sympathetic hum. The sound built until an unfamiliar overtone emerged: a high, glassy pitch radiating directly from the pressurized air of the room.
+Through the room this vibration swelled, setting books, glasses, and the cheap radiator into sympathy. The sound built until an overtone emerged that he had never heard before: a high, glassy pitch that seemed to originate not from the instrument but from the air itself.
 
 He played it again.
 
@@ -334,9 +336,9 @@ The room disappeared.
 
 There was no dreamlike dissolve this time. The transition was immediate, like a cut in film. The world reconstituted around him in a laboratory narrow and gaslit, redolent of oil, brass, and scorched air. He stood at a wooden bench surrounded by glass resonators of every size, each one suspended by silk threads from the rafters. To his left lay a table lined with tuning forks, each inscribed with a frequency in antique German script.
 
-At the far end of the lab, a man in an ink-stained coat adjusted the flame of an alcohol lamp, then lifted a tuning fork to the edge of a crystal goblet. The fork vibrated, and the goblet began to sing. Without looking up, he reached for a metal rod, struck a Chladni plate dusted with sand, and watched as the grains skittered into a geometric figure, nodes and antinodes resolving with frost-like delicacy.
+At the far end of the lab, a man in an ink-stained coat adjusted the flame of an alcohol lamp, then lifted a tuning fork to the edge of a crystal goblet. The fork vibrated, and the goblet began to sing. He did not look up. Instead he reached for a metal rod, struck a Chladni plate dusted with sand, and watched as the grains skittered into a geometric figure, nodes and antinodes resolving with frost-like delicacy.
 
-David stepped closer.
+Lang stepped closer.
 
 He had seen photographs of these figures, studied them as abstractions of wave behavior, but never watched them form under the hand. The sand leapt and settled. Eightfold symmetry. Then twelvefold. Then something less regular as the pitch changed.
 
@@ -348,23 +350,23 @@ Without turning, the man spoke.
 
 The ear is a frequency analyzer. But the universe, the universe is a symphony of resonances.
 
-David nodded, though the gesture felt odd, as if he were piloting a body borrowed for the occasion. He watched the next frequency resolve the sand into a spiral that echoed the one he had seen in the courtyard. The lab was alive with sound: the low moan of resonators, the shriek of glass, the hiss of the flame.
+Lang nodded, though the gesture felt odd, as if he were piloting a body borrowed for the occasion. He watched the next frequency resolve the sand into a spiral that echoed the one he had seen in the courtyard. The lab was alive with sound: the low moan of resonators, the shriek of glass, the hiss of the flame.
 
-The man turned at last. David recognized him instantly as kin, a fellow traveler who had spent a lifetime listening for the world's hidden armature. He held out the tuning fork as though passing a baton.
+The man turned at last. Lang could not have named him, but recognized him instantly as kin: one of those who had spent a life listening for the world's hidden voice. He held out the tuning fork as though passing a baton.
 
-David took it.
+Lang took it.
 
 He struck it against the plate. The vibration shot up his arm, sharper than anything he had felt before. The pitch was higher, purer, almost indifferent to the mechanics that produced it. The sand leapt into a new figure.
 
 This one he knew.
 
-It was there in the particulate debris on the plate: the contour of a quantum state, rendered directly in matter. Physical form answered vibrational geometry by necessity, indifferent to human comprehension.
+It was there in the particulate debris on the plate: the contour of a quantum state, rendered in matter. Not because the sand understood mathematics. Because matter answered pattern whether it understood or not.
 
 The man watched him with fierce, delighted attention. “Sie hören es auch, ja?”
 
 You hear it too?
 
-David tried to answer, but his voice failed. He struck the fork again.
+Lang tried to answer, but his voice failed. He struck the fork again.
 
 The lab dissolved.
 
@@ -376,7 +378,7 @@ He worked for hours.
 
 The tuning fork in his pocket warmed and cooled in sympathetic pulses. The staff paper rose in uneven stacks. At some point his left hand reached for the charcoal fragment from the first vision and pressed it to the page. A black line bloomed into a diagram whose geometry he could not have planned and yet could read at once.
 
-The counterpoint took shape the moment conscious calculation yielded to the underlying mechanics, the pen moving across the staves as an obedient stylus registering an incoming wavefront.
+The music was not his, but instead, what appeared when he stopped trying to compose and allowed the pattern to use his hands.
 
 At some point he slept, or passed into something adjacent to sleep. When he came back to himself, the apartment had grown colder. The radiator had gone silent. The room held the stillness of a place waiting to see what would happen next.
 
@@ -386,9 +388,9 @@ He had found others like him now. He could feel the weight of their certainty al
 
 But something was missing. Some void in the visitations he could feel without being able to name. A space in the sequence that the others had not filled.
 
-He looked at the tuning fork and felt, for the first time, an acute edge of warning. Pythagoras had demonstrated origin. Du Châtelet had revealed velocity squared as harmonic increase. Chladni had laid bare the physical mechanism.
+He looked at the tuning fork and felt, for the first time, not companionship but warning. Pythagoras had shown him origin. Du Châtelet had shown him elegance under strain. Chladni had shown him mechanism.
 
-Yet principles do not choose. They organize.
+But principles do not choose. They organize.
 
 And if he proved to be the right resonant body, the question was no longer whether he could learn their order.
 
@@ -415,7 +417,7 @@ When the world reconstituted, David found himself in a room he could not place. 
 
 The year, if years still meant anything, was 1665 or 1666 or some unmarked interval between: the plague years, the silent years, the years when London had emptied itself into the countryside and a young man with prematurely gray hair had come home to think.
 
-Newton sat at a rough plank suspended between two sawhorses. Before him: a prism, a sheaf of foolscap dense with notation, and a mirror so tarnished it reflected nothing beyond its own dull patina. Without looking up at David’s arrival, he lifted the prism to the window’s feeble light and rotated it with the cold care of a surgeon probing a wound.
+Newton sat at a table that was not so much a desk as a plank suspended between two sawhorses. Before him: a prism, a sheaf of foolscap dense with notation, and a mirror so tarnished it reflected nothing but its own age. He did not look up at David’s arrival. He lifted the prism to the window’s feeble light and rotated it with the care of a surgeon probing a wound.
 
 A spectrum bloomed, faint and attenuated, stretched thin by the winter’s anemic sun. The colors fell across the table in bands so muted they might have been hallucinated: red the shade of dried blood, orange like clay, yellow as old bone, green as verdigris, blue as veins beneath skin, violet like the shadow of a bruise. Newton traced the edge of the violet band with one finger, then made a note. His handwriting was crabbed, secretive, the script of a man who trusted paper less than silence.
 
@@ -427,9 +429,9 @@ He remembered correlations he had scarcely known he had made, surfacing now like
 
 Newton spoke at last, and his voice was not what David had expected. It was thin, querulous, edged with the East Midlands vowels of a man who had spent his childhood among farmers and never quite forgiven the world for it.
 
-“The sun gives nothing freely,” Newton said, still not looking up. “Neither warmth, nor light, nor truth.” He tapped the prism with a fingernail bitten to the quick. “Each color is a confession extracted under pressure. White light resists division; it yields only to force.”
+“The sun gives nothing freely,” Newton said, still not looking up. “Not warmth. Not light. Not truth.” He tapped the prism with a fingernail bitten to the quick. “Each color is a confession extracted under pressure. White light does not wish to be separated. It must be forced.”
 
-He turned the prism again, and the spectrum reappeared, brighter now as the cloud passed. This time David saw what he had missed before: the bands were heavily striated, scored across by dark absorption lines like prison bars.
+He turned the prism again, and the spectrum reappeared, brighter now as the cloud passed. This time David saw what he had missed before: the bands were not smooth but striated, crossed by dark lines like prison bars.
 
 “There are absences within the light,” Newton continued. “Frequencies that refuse to speak. I have counted them. I have named them.” He smiled, a thin, ungenerous expression. “But I do not understand them. That is for others. For the sun to explain, when it chooses to speak again.”
 
@@ -449,19 +451,19 @@ David reached for the fork without willing his hand to move. It was warm in his 
 
 David obeyed.
 
-The fork sang at a lower, darker register than his calibrated A-432, a frequency emerging directly from the lattice gap between atoms, from the void where acoustic sound had no classical right to exist. The prism on the table began to vibrate, then to resonate, the dark lines in the spectrum brightening as if Newton’s unnamed absences were finally finding voice.
+The fork sang, but not the clean A-432 he had calibrated. The tone was lower, darker, a frequency that seemed to originate not from the metal but from the gap between atoms, from the space where sound should not exist. The prism on the table began to vibrate, then to resonate, the dark lines in the spectrum brightening as if Newton’s unnamed absences were finally finding voice.
 
-The room shuddered. The lime-washed walls cracked further, and through the fissures David saw absolute darkness, the cold vacuum of unobserved space.
+The room shuddered. The lime-washed walls cracked further, and through the cracks David saw not plaster but darkness, not shadow, but the dark of unobserved space.
 
 Newton smiled again, and this time the expression held something like satisfaction.
 
 “The sun was quiet for seventy years,” he said. “And in that silence, I heard the laws. But the laws are only the score.” He gestured at the vibrating prism, the singing spectrum, the darkness bleeding through the walls. “You must learn to hear the music.”
 
-The world collapsed into an absolute silence, an acoustic void so dense it possessed its own texture, duration, and mass. David fell through the absence of everything and landed, gasping, in his own apartment, the tuning fork clenched so tightly in his fist that the prongs had drawn blood.
+The world collapsed, not into chromatic violence, but into a silence so complete it had texture, duration, mass. David fell through the absence of everything and landed, gasping, in his own apartment, the tuning fork clenched so tightly in his fist that the prongs had drawn blood.
 
-The radiator had resumed its hiss. Staff paper lay scattered across the desk. And there, on the table, where no object had been, rested a shard of something dark and crystalline.
+The radiator had resumed its hiss. Staff paper lay scattered across the desk. And there,on the table, where no object had been, rested a shard of something dark and crystalline.
 
-Held to the lamp, it produced a small, localized night across the desk blotter, a sharp blind spot in the room’s geometry.
+Held to the lamp, it did not cast a shadow so much as produce a small, localized night on the surface of the desk, a blind spot in the room’s geometry.
 
 A fragment of seventeenth-century silence.
 
@@ -483,7 +485,7 @@ A clean 3:2.
 
 Beside him, the cello began to vibrate again, a drone in the key of what was to come.
 
-He laughed, a layered sound, the voice of a man who had at last, in a life of ratios and regret, found an harmonic home.
+He laughed, and the laugh was not lonely but layered, the sound of a man who had at last, in a life of ratios and regret, found an harmonic home.
 
 
 

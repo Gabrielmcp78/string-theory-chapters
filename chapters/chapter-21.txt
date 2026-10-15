@@ -7,17 +7,17 @@ Title:           PHENOM DE GUARE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,054
-Paragraph Count: 306
+Word Count:      5,806
+Paragraph Count: 293
 Scene Count:     7
 
 Scene 1: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
 Scene 2: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,456  |  Paragraphs 64–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.4 Around The Horn  --  Words 2,457–4,026  |  Paragraphs 113–197  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 4,027–4,776  |  Paragraphs 198–241  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.6 TEMPORALITY  --  Words 4,777–5,165  |  Paragraphs 242–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.7 CANTUS  --  Words 5,166–6,054  |  Paragraphs 265–306  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
+Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4 Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6 TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7 CANTUS  --  Words 4,918–5,806  |  Paragraphs 252–293  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -57,7 +57,7 @@ He turned toward the bank of engineers crunching the metadata still pouring off 
 
 McGrath pulled up the newly unscrambled GPS coordinates and waited for the search algorithm to narrow into the precise location.
 
-| Ithaca, NY. |
+|   Ithaca, NY.   |
 
 “Holy shit. Rune, what have you done to the Finger Lakes?” Marcus took two deep breaths, then barked, “Get me a priority line to Cornell Astrophysics. Now!”
 
@@ -225,26 +225,6 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 “Christ. It’s like they’re…” Rune's voice fell away as he shuffled backward, collapsing into the first row of student benches.
 
-The wood of the bench was vibrating.
-
-Faint, steady, unmistakable: the 68.48 Hz fundamental rising through the building's concrete footings, carried up from the Devonian bedrock beneath East Hill.
-
-Rune looked past the glowing boards, through the tall arched windows toward the quad.
-
-The alignment came to him as a physical map he had walked every day for more than fifty years without seeing. Clark Hall’s concrete subbasement sunk like an anchor into the shale. The parabolic masonry vault of Sage Chapel across the lawn. The massive stormwater cisterns beneath the grass. The miles of concrete steam conduits blasted through the rock connecting them all.
-
-Separate structures. Separate histories. Yet the disturbances had followed their physical arrangement.
-
-What if the campus did more than receive the signal?
-
-What if its structures were determining how the signal could be received?
-
-Tsukino had known something about those conditions. Of that, Rune was suddenly much less doubtful. In 1971, Sublevel-2 had driven an interface into that subterranean grid. And for twenty-one years—ever since that rain-slicked May night in 2005 when David’s stainless cylinder had been lowered into the East Hill shale—Rune had believed the danger was sealed in twenty feet of rock.
-
-Whether Tsukino’s experiment had generated the original disturbance or merely found a way to answer an existing one remained another question entirely.
-
-A system’s response characterizes its own resonator; the source remains indeterminate. The kitchen was rattling because the entire hill had been prepared.
-
 “It’s like they’re alive,” Celeste murmured. “Just waiting for David to come back and finish the work.”
 
 “But where is he?” Marcus’s voice carried through the speaker, urgent and afraid. “If he achieved this breakthrough, if these theories are correct, then where the hell is David?”
@@ -252,7 +232,7 @@ A system’s response characterizes its own resonator; the source remains indete
 
 21.4 Around The Horn
 
-Geneva, CERN Control Room | 5:48 P.M. CET
+Geneva, CERN Control Room   |   5:48 P.M. CET
 
 The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.
 
@@ -306,13 +286,7 @@ And as the name left his lips, Dr. Kovács said it simultaneously: “David Lang
 
 “Yes, Mira, we are all realizing the same thing. Tell us what you have there,” Marcus encouraged.
 
-“We're seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I'm looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don't care what anyone says—this isn't noise.”
-
-Ishikawa studied the final chalkboard, where David's work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:
-
-  $$\Psi_{\text{consciousness}} = \int \mathcal{D}\phi \, \exp(i S[\phi,g,\psi]) \, |\text{boundary}\rangle$$
-
-“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”
+“We're seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I'm looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don't care what anyone says—this isn't noise.”Ishikawa studied the final chalkboard, where David's work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:Ψ₍consciousness₎ = ∫ Dφ exp(i S[φ,g,ψ]) |boundary⟩“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”
 
 He looked to Celeste, but she wasn't looking at him. She was already moving.
 

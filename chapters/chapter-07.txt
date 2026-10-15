@@ -7,13 +7,13 @@ Title:           ALTERATION FINDS
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,406
+Word Count:      3,409
 Paragraph Count: 225
 Scene Count:     3
 
 Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY Present Day  --  Words 1–435  |  Paragraphs 1–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
-Scene 2: 7.2 THE WORKSHOP | Buffalo, NY  --  Words 436–948  |  Paragraphs 28–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: 7.3 THE HOTEL ROOM | Buffalo, NY  --  Words 949–3,406  |  Paragraphs 61–225  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 2: 7.2 THE WORKSHOP | Buffalo, NY  --  Words 436–950  |  Paragraphs 28–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: 7.3 THE HOTEL ROOM | Buffalo, NY  --  Words 951–3,409  |  Paragraphs 61–225  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -114,7 +114,7 @@ The facilitator smiled the way statues smile when misunderstood.
 
 No one spoke again.
 
-The fluorescent lights flickered with a distinctly rhythmic pulse. The same unresolved interval he’d heard in the hotel vents, in the elevator buttons that lit without input. He’d counted it twice already. Or sixty-eight times. The repetitions blurred so close together that certainty felt like a category error.
+The fluorescent lights flickered with a pulse less random than rhythmic. The same unresolved interval he’d heard in the hotel vents, in the elevator buttons that lit without input. He’d counted it twice already. Or sixty-eight times. The repetitions blurred so close together that certainty felt like a category error.
 
 The flicker emitted a tone: visual rhythm made audible.
 
@@ -143,7 +143,7 @@ Had he stayed the whole time? He wasn’t entirely sure. By the time he looked u
 
 7.3 THE HOTEL ROOM | Buffalo, NY
 
-The room had the over-insulated density peculiar to conference hotels, a heavy heat that accumulated without offering warmth. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts: frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
+The room had the over-insulated density peculiar to conference hotels, a heat that seemed to accumulate rather than warm. Air moved through the vent in a flat mechanical rhythm. Papers sagged across the desk in loose drifts: frequencies, ratios, fragments of a model that had approached coherence only to recoil from it at the edge of naming.
 
 David closed the door and stood for a moment without taking off his coat. The television flickered on when his bag brushed the remote. A weather anchor in a violent blue tie stood before a radar map warning western New York about lake-effect snow with the solemnity of nuclear war.
 

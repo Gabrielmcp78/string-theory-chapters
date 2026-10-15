@@ -7,14 +7,14 @@ Title:           REMAINING RETURNS
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,025
+Word Count:      2,029
 Paragraph Count: 108
 Scene Count:     4
 
 Scene 1: 9.1 DISSOLUTION | Cornell - Ithaca, NY Present Day  --  Words 1–562  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
 Scene 2: 9.2 THE CLASSROOM | Cornell, Ithaca, NY  --  Words 563–1,331  |  Paragraphs 24–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE CORRIDOR  --  Words 1,332–1,842  |  Paragraphs 73–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION  --  Words 1,843–2,025  |  Paragraphs 92–108  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 3: 9.3 THE CORRIDOR  --  Words 1,332–1,846  |  Paragraphs 73–91  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION  --  Words 1,847–2,029  |  Paragraphs 92–108  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -172,7 +172,7 @@ By evening the building had mostly emptied. Classroom doors stood open along the
 
 One hand remained against the wall while he walked. He had reached for it initially for surety of balance, but now realized what he had gained was much closer to the assurance of contact.
 
-Somewhere inside his office the cello began resonating again: an open G string. It was barely audible unless he stopped moving entirely. The tone seemed distributed through the entire building: vibrating in pipes, vents, fluorescent housings, and hollow spaces behind drywall.
+Somewhere inside his office the cello began resonating again: and open G string. It was barely audible unless he stopped moving entirely. The tone seemed distributed through the building rather than located inside a single room: in pipes, vents, fluorescent housings, hollow spaces behind drywall.
 
 His breathing had shortened gradually over the last hour.
 

@@ -7,19 +7,19 @@ Title:           HUMANITIES
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,267
+Word Count:      6,199
 Paragraph Count: 289
 Scene Count:     9
 
 Scene 1: 12.1 Walk C | for David, Roger, towel, and crowbar  --  Words 1–1,053  |  Paragraphs 1–57  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
 Scene 2: 12.2 The Cafe  --  Words 1,054–1,864  |  Paragraphs 58–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-02.html
-Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,865–2,272  |  Paragraphs 94–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html
-Scene 4: 12.4 The Bench  --  Words 2,273–3,546  |  Paragraphs 113–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html
-Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,547–3,815  |  Paragraphs 169–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html
-Scene 6: 12.6 The House on the Hill (return)  --  Words 3,816–4,554  |  Paragraphs 176–212  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html
-Scene 7: 12.7 The Draft  --  Words 4,555–5,364  |  Paragraphs 213–253  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
-Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,365–5,684  |  Paragraphs 254–267  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
-Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,685–6,267  |  Paragraphs 268–289  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
+Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,865–2,228  |  Paragraphs 94–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html
+Scene 4: 12.4 The Bench  --  Words 2,229–3,475  |  Paragraphs 113–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html
+Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,476–3,744  |  Paragraphs 169–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html
+Scene 6: 12.6 The House on the Hill (return)  --  Words 3,745–4,486  |  Paragraphs 176–212  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html
+Scene 7: 12.7 The Draft  --  Words 4,487–5,296  |  Paragraphs 213–253  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
+Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,297–5,616  |  Paragraphs 254–267  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
+Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,617–6,199  |  Paragraphs 268–289  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -249,7 +249,7 @@ But he knew, it was absolutely his problem.
 
 He gestured toward the crest. “Those two up there? They’re squatting on ghosts, not dreams.”
 
-High on the crest overlooking Fall Creek gorge, where East Hill's topsoil thinned to less than twelve inches over the gray Devonian shale outcrop, two of their own students sat on the weather-pitted bench, oblivious to the coming encounter. Anchored directly into the laminated bedrock shelf above the drop, the iron bench picked up the hydraulic rumble of the gorge far below. Their voices drifted down through the sharp air, lazy and amused.
+High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air, lazy and amused.
 
 
 12.4 The Bench
@@ -282,7 +282,7 @@ Roman turned. “What—?”
 
 Roman sat bolt upright, foot catching in Green’s bag. The joint snapped from his fingers. He made a strangled sound, scrabbling to crush it against the underside of the bench. It hissed faintly, a curl of smoke spiraling up.
 
-As David stepped onto the exposed shelf of rock, where the dirt gave way to bare shale, the unmediated coupling struck him. A low-frequency transverse shear wave rippled up from the deep bedrock, humming through the soles of his shoes and into his bruised ribs with the force of an electric shock.
+The instant the ember met wood, a low-frequency tremor rippled through the air, almost inaudible, but enough to make David gasp from twenty feet away.
 
 The world dropped out from under him. His knees buckled. He collapsed to the ground.
 
@@ -424,7 +424,7 @@ The simplicity of her statement, the lack of drama or complication, disarmed him
 
 She smiled then, genuine and unguarded. “Now sit down before you fall down. You’re pale. You look horrible.”
 
-David lowered himself onto the edge of the bed. The mattress was firmer than his, the pillows arranged with deliberate care. Celeste moved to close the curtains, then paused.
+David lowered himself onto the edge of the bed. The mattress was firmer than his, the pillows arranged with care rather than thrown haphazardly. Celeste moved to close the curtains, then paused.
 
 “Do you want them open or closed?”
 

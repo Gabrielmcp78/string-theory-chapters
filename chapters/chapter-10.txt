@@ -4,22 +4,21 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 10
 Title:           PASSIONS’ PRINCIPLES
-Subtitle:        Andante sostenuto, dolce e misurato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,835
-Paragraph Count: 724
+Word Count:      13,434
+Paragraph Count: 728
 Scene Count:     8
 
-Scene 1: I. CHORALE | Wednesday Dinner  --  Words 1–1,961  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: II. ARIOSO | The Tuning  --  Words 1,962–5,523  |  Paragraphs 81–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: III. RECITATIVUM | Break-through  --  Words 5,524–6,464  |  Paragraphs 282–317  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: IV. TURBA | The Guillotine  --  Words 6,465–8,466  |  Paragraphs 318–434  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,467–10,260  |  Paragraphs 435–552  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,261–10,980  |  Paragraphs 553–578  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,981–12,247  |  Paragraphs 579–645  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
-Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,248–13,835  |  Paragraphs 646–724  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
+Scene 1: I. CHORALE | Wednesday Dinner  --  Words 1–1,963  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: II. ARIOSO | The Tuning  --  Words 1,964–5,304  |  Paragraphs 81–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: III. RECITATIVUM | Break-through  --  Words 5,305–6,245  |  Paragraphs 270–305  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: IV. TURBA | The Guillotine  --  Words 6,246–8,248  |  Paragraphs 306–422  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,249–10,040  |  Paragraphs 423–540  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,041–10,715  |  Paragraphs 541–567  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here  --  Words 10,716–11,840  |  Paragraphs 568–649  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 11,841–13,434  |  Paragraphs 650–728  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -145,7 +144,7 @@ Together, in parallel, they said, “No, thanks. Water’s fine.” They waited 
 
 The conversation eased into the familiar grooves of their shared geography: department meetings, Ithaca gossip, the students they held in common. Big school, small town. Fine lines everywhere: invisible, permeable, at least until crossed and then: unflinching. Unforgivable.
 
-Somewhere between the entrées cooling and the second refusal of dessert, David reached into the satchel. His fingers found the plastic bag and the book inside it. Twenty years of evidence suggested there was a fairly reliable interval between a pleasant evening with Celeste and David finding some new way to damage it. He had never successfully calculated the mean, but he knew enough to recognize when the clock was running. Suddenly, giving her the book seemed purely prudent.
+Somewhere between the entrées cooling and the second refusal of dessert, David reached into the satchel. His fingers found the plastic bag and the book inside it. Twenty years of evidence suggested there was a fairly reliable interval between a pleasant evening with Celeste and David finding some new way to damage it. He had never successfully calculated the mean, but he knew enough to recognize when the clock was running. Suddenly, giving her the book seemed less sentimental than prudent.
 
 “Hey, I brought you something.”
 
@@ -206,35 +205,11 @@ Celeste looked back, a grin of success across her face. “They never digitized 
 
 Somewhere beyond the lower corridor, a practice room leaked four bars of trumpet, stopped, started again, and found a more interesting way to fail.
 
-The chapel was nearly dark. Moonlight and the lamps along the pathways outside gave the stained glass just enough light to scatter patches of blue, amber, green, and gold across the interior. The old design decided what could be seen and what remained hidden.
+The chapel was nearly dark when she found the old rehearsal lamp near the front and switched it on. Its cone of light fell across the long table, the music weights, the torn grocery bag, and the book she still had not opened. The room held the final residue of the day: a flute line too high to have survived, a door closing somewhere in the lofts, the low animal patience of the timber overhead.
 
-Then Celeste found the rehearsal lamp near the front and switched it on.
+As David drew out the cello’s endpin, the small sound of metal meeting floor rose into the room and returned faintly from somewhere above them.
 
-Its narrow cone cut across the colored dark. For the first time, the chapel was not choosing what to reveal. They were.
-
-The room held the final residue of the day: a flute line too high to have survived, a door closing somewhere in the lofts, the low animal patience of the timber overhead.
-
-David had always loved what the chapel did to time. Here, time loosened. Moments carried less obligation to proceed anywhere, drawing lines that were free to continue without being required to arrive at an endpoint, or be mapped only in the direction of their initiated departure.
-
-Grace notes in granite.
-
-David wandered, counting.
-
-Fourth pew from the back. Fifth seat from the aisle.
-
-While Celeste arranged their field of study at the front, David pulled the hymnal from its wooden rail.
-
-It was still there.
-
-The etching he had started years ago.
-
-He smiled and made a small sound—something that, to his mind, had never quite become sound at all, much less language. Then he dropped the hymnal back into its rail. Wood struck wood. The impact carried through the pew, into the floor, and rose again from somewhere high in the chapel, altered by the journey and the permission to go well and go far.
-
-Celeste looked up.
-
-Whatever David had thought he kept to himself, the room had not honored those boundaries, nor had it required any definitive intention before delivering some grander, stone and light infused version of his moment to Celeste’s place within it, allowing what she heard to belong entirely to her corner of the world.
-
-“Don’t you dare, Lang.”
+“Don’t you dare, Lang,” Celeste said.
 
 “I have said nothing.”
 
@@ -242,7 +217,7 @@ Whatever David had thought he kept to himself, the room had not honored those bo
 
 “I was about to admire the room, thank you.”
 
-“Yes. With equations.”
+“Yes, with equations.”
 
 “Maybe I was. So what? Some rooms invite such things, you know.”
 
@@ -532,7 +507,7 @@ Celeste listened with her whole body, head inclined, bow arm suspended, the line
 
 He gave her the note again. She entered beneath it, correcting by less than speech could have named, and his hand found the adjustment before his mind reached it.
 
-The sound changed, drawing closer without growing louder, and they adjusted the fifth between them, then adjusted it again, following her chart until their breathing began to find the same interval. She leaned into the upper edge of the pitch; he answered from below. When she moved, he knew where she was going a fraction before she arrived, and when he resisted, she smiled without looking at him, because resistance was also information and she had always known how to use it.
+The sound changed (closer rather than louder), and they adjusted the fifth between them, then adjusted it again, following her chart until their breathing began to find the same interval. She leaned into the upper edge of the pitch; he answered from below. When she moved, he knew where she was going a fraction before she arrived, and when he resisted, she smiled without looking at him, because resistance was also information and she had always known how to use it.
 
 The two instruments began to occupy the room more completely, the floor accepting the sound before the walls did. Anger remained. So did the four days, the hidden mark, the phone call still cooling upon the long table. But beneath all of it their bodies remembered a fluency their words had lost: her bow asking, his hand answering; her shoulder opening the phrase, his bass gathering it; each correction a pressure passed between them and returned transformed.
 
@@ -715,7 +690,7 @@ Rune interrupted only once: “The response lasted how long?”
 
 David heard the question inside the question. “Celeste and I.”
 
-“I see.” Rune looked down again as David moved into the model. Path dependence. Hysteresis. Coupled oscillators. Residual energy distributed according to prior constraint. Comparative systems whose anomalies had seemed unrelated until their histories were treated as boundary conditions, never discarded as noise. He showed the correction procedure, the response curves, the narrow geometry that remained after scale and damping density had been accounted for.
+“I see.” Rune looked down again as David moved into the model. Path dependence. Hysteresis. Coupled oscillators. Residual energy distributed according to prior constraint. Comparative systems whose anomalies had seemed unrelated until their histories were treated as boundary conditions rather than discarded as noise. He showed the correction procedure, the response curves, the narrow geometry that remained after scale and damping density had been accounted for.
 
 Rune read without expression. Forty-three seconds passed after David stopped speaking before he turned back to the first page. “The cello event generated the model.”
 
@@ -900,7 +875,7 @@ He slipped his cell back inside his jacket, lifted the office receiver, and turn
 
 V. VIA DOLOROSA | Into the Storm
 
-The wind had risen while they were inside, and the early exodus had given the storm the pleasure of looking theatrical. Upper campus had thinned to lit windows, plow noise, and the occasional student hurrying with the embarrassed speed of someone who had dressed for principle in defiance of the weather. Loose snow drove sideways against the glass and flattened there before dissolving.
+The wind had risen while they were inside, and the early exodus had given the storm the pleasure of looking theatrical. Upper campus had thinned to lit windows, plow noise, and the occasional student hurrying with the embarrassed speed of someone who had dressed for principle rather than weather. Loose snow drove sideways against the glass and flattened there before dissolving.
 
 His coat remained unbuttoned. His scarf had come loose. Behind him, an official process had begun the sacred university labor of turning catastrophe into paragraphs with signature lines. Rune would be using his quiet voice. Jessica would be pretending not to hear. The Dean of Students, somewhere behind a different door, would be receiving the phrases by which a man became manageable.
 
@@ -1163,17 +1138,19 @@ The second man held it in one hand, strap broken, crystal catching the lot light
 
 “Motherfucker,” the second man said.
 
-He took two steps after it, then stopped. Something in the air had altered: not sound, but a sudden, sickening drop in pressure, an inner-ear vertigo like an elevator falling three floors in an instant. The first man swallowed hard, his jaw working as if trying to clear his Eustachian tubes, his eyes widening in sudden, irrational nausea. The second backed away from the shrubs, empty-handed, his balance wavering as a high, phantom whistle sheared through the base of his skull.
+He took two steps after it, then stopped. Someone was coming. David heard only the storm and the blood inside his own head, but the men heard more, or felt more.
 
-A small, dark shape moved behind the veil of snow near the loading dock, her steps deliberate and heavy in the slush.
+The first straightened, his face turned toward the covered dock. The second backed away from the shrubs, suddenly empty-handed, suddenly finished with the watch, the car, the cello, the whole afternoon.
 
-“Leave it,” the first man said, his voice ragged with an instinctual revulsion he couldn't name.
+A small, dark shape moved behind the veil of snow near the loading bay, unhurried.
+
+“Leave it,” the first man said.
 
 “What?”
 
 “Leave all of it.”
 
-The second looked once toward the cello case, swallowed back bile, and dropped the keys near the driver’s door, desperate to put distance between his skull and whatever had just touched his equilibrium.
+The second looked once at the cello case, once toward the figure approaching through the storm, and dropped the keys near the driver’s door.
 
 That was the insult of it. Their bodies carried no panic large enough to honor what they had done, only a quick animal revision of risk.
 
@@ -1190,21 +1167,21 @@ The word fogged once in front of him and disappeared as boots stopped beside him
 
 VII. DEPOSITIO / SEPULTURA | You Will Freeze Out Here
 
-“You will freeze out here if you stay like that.”
+“You will freeze out here if you stay like this.”
 
-The voice was close, low, and practical, edged by a dry cadence he could not place because pain made geography unreliable.
+The voice was close, low, and practical, edged by an accent he could not place because pain had made geography unreliable.
 
-David lifted his head. A woman stood beside the open rear door of the car: short, wrapped in dark wool, her face lined without softness. Her pale eyes examined him as though injury were an instrument and he had been badly handled by amateurs.
+David lifted his head to find a woman standing beside the open rear door, short, wrapped in dark wool, her face lined without softness, her pale eyes examining him as if injury were an instrument and he had been badly handled by amateurs.
 
-In one gloved hand she held Arthur’s watch, smeared with road grime and slush, its crystal cracked and the leather strap hanging torn from the bezel. Her fingers clamped hard against the steel casing, holding the metal firmly as if contact itself required concentration.
+In one gloved hand, she held Arthur’s watch, black with grime and meltwater, its crystal cracked and the strap hanging torn from the case.
 
 “Missing something?”
 
 “Where did you—”
 
-“In the boxwood beside the dock. It was ringing like an alarm. Metal remembers where it was struck.”
+“Find it? Does it matter, really? It’s here now, back where it belongs.”
 
-She crouched, though the motion was stiff, bracing her other hand against the car door to anchor herself against solid steel. She pressed the watch into his palm, closing his battered fingers around it.
+She crouched and pressed it into his hand, closing his fingers around it before he could ask the first impossible question.
 
 “Eyes.”
 
@@ -1212,113 +1189,143 @@ She crouched, though the motion was stiff, bracing her other hand against the ca
 
 “Yours.”
 
-She took his chin and turned his face toward the sodium light. Her touch was cold and strangely light, the pressure wavering for a fraction of a second before finding bone. Her thumb lifted one eyelid, then the other. The examination was brisk and clinical.
+She took his chin and turned his face toward the lamplight. Her thumb lifted one eyelid, then the other. The examination was brisk, intimate, impersonal.
 
-“Concussion?” he muttered through split lips.
+He might have been a violin opened upon a workbench. “Concussion?” he asked.
 
 “Among other indignities.”
 
 “Are you a doctor?”
 
-“I was once,” she said, her mouth tightening into a thin line. “A long time ago, before I discovered that cedar and maple hold their shape better than people do.”
+“Yes.”
 
-She took his cut hand next. The broken crystal had opened his palm; blood followed the creases toward his wrist.
+“Of what?”
 
-She glanced from his hand to the watch, then toward the cello case in the back seat. Her face shifted by half a degree, the lines around her mouth deepening with quiet recognition. She reached into the car, her gloved fingers settling onto the worn latches of the case.
+The old woman smiled, wryly, as if the answer would be amusing to David in particular, and therefore something she was unwilling to supply.
 
-The wood inside answered immediately: a low, resonant vibration that stirred through the spruce belly and hummed against the seat cushions.
+She took his cut hand next. The edge of the watch crystal had opened his palm; blood followed the lines already there, turning his hand into a small red map.
 
-“Good spruce,” she murmured, her hand moving along the upper bout with the practiced certainty of someone reading grain in the dark. “Still holding its arch. Elliot always insisted on an extra millimeter through the soundpost plate. Stubborn man.”
+She looked from the cut to the watch, then toward the cello case. As she did, she whispered something, and acknowledgement that David, in his battered state, did not hear.
 
-David went rigid, the cold in his ribs suddenly distant. “You knew Elliot.”
+Hello old friend.
 
-She looked at him, her pale eyes flat and unimpressed by the question.
+“What? What was that?”
 
-“Well enough to argue with him for six months about your bass bar.”
+“The instrument is whole.”
 
-The sentence went through David like a needle. He stared at the woman in the snow, trying to reconcile the figure standing in the slush with the instrument he had played since boyhood.
+“No. That’s not what you said.”
 
-“You worked on this cello.”
+“Wasn’t it?”
 
-“I saw what your grandfather wanted it to become,” she said, her mouth tightening. “Your bridge is still three tenths of a millimeter too high.”
+“No. I mean… I don’t,” and then language began to catch up to David. “Wait, it’s whole? What do you mean? How do you know?”
 
-She glanced down at the slush beside David’s boots, where the trampled, snow-soaked pages of his manifold paper lay half spilled from his satchel. She laughed under her breath—a dry, rasping sound against the wind.
+“Because it is still arguing.”
 
-“Is that your blood all over the pages, or… oh my… Rune’s red pen bleeding. Perhaps I should have brought this to you sooner.”
+The cello pulsed again. The vibration moved through the curb and into the soles of his shoes, too low for ordinary hearing, too organized to dismiss as aftershock. David felt it gather against his ribs, where the boot had landed, and his breath caught before pain could claim the movement.
 
-She reached into the pocket of her heavy wool coat and pulled out a slender tuning fork of dark, unpolished steel. She did not flourish it or hold it like a relic. She handled it the way a joiner handles a rasp.
+The woman reached into her coat and withdrew a small tuning fork of dark metal, its prongs beveled to an impossible thinness. She held it between them without striking it, and the fork began to tremble in her grip.
 
-“Here,” she said, thrusting the stem into his uninjured hand. “Take this thing away from me.”
+David blinked against the snow and blood, attempting to locate one rational surface upon which the exchange could rest.
 
-David looked at the dull metal, his knuckles trembling with cold. “What is that?”
+“What is that?”
 
-“Try putting it near the instrument.”
+“A question,” she said.
 
-David lifted the fork toward the open door.
+“Yes, of course it’s a question. What is that?”
 
-Before the steel touched the case, the tines woke without being struck. A clean, faint singing rose off the metal, setting the rear window glass humming. From inside the velvet case, the cello answered with an immediate sympathetic thrum, deep and low, locking into phase across the foot of freezing air between them.
+“No,” she said, gesturing to the object, “This is a question.”
 
-The woman watched the vibration settle, a faint glimmer of craft satisfaction crossing her face.
+“Lady, I hate to break this to you, but that is a tuning fork.”
 
-“Good,” she murmured. “Still paired.”
+“Yes.”
 
-“That’s a C-sharp,” David said, the instinct of twenty years in the department surfacing before pain could stop it. “One thirty-six point nine, or slightly below. If you calculate the ambient temperature and the barometric drop—”
+“Tuning forks do not ask questions.”
 
-“Stop,” she said.
+“Are you so very certain of that?”
 
-The word cut through the wind like a shear.
+“Yes, of course–”
 
-“That is exactly what you keep doing.”
+And a strange, pressing stare stopped David mid-declaration, forcing him somehow to recant the certainty.
 
-David blinked, snow stinging his cut cheek. “Doing what?”
+“Well… I mean… fine. Christ. Fine. Your little tuning fork is a question. Whatever.”
 
-“Listening to the number, ignoring what answered.”
+“Good then. Most people only use them to demand answers.”
 
-She swayed slightly, her boot sliding half an inch through the slush, and caught the roof of the car with her free palm. The metal gave off a dull, hollow thrum beneath her hand. Her breath came shallow and harsh, her knuckles white against the painted steel as if forcing the car to keep meeting her skin.
+“Yeah, like what’s A 4.”
 
-David looked up at her. “Are you all right?”
+She scoffed, a dry little sound that made the snow and blood and cracked watch feel like insufficient evidence for his intelligence. “Is that all you can hear? I expected more.”
 
-“Old occupational injury,” she said, waiting until her breathing leveled. “This hill and I don't agree anymore.”
+“We humans are such predictable fools,” she said. “Everything we do not yet understand falls at once into one bucket, one label of permitted stupidity. Magic. Everything you have ever studied was once called magic by someone too frightened or too tired to continue looking. Be smarter. See further. Hear more.”
 
-“What hill?”
+The cello answered, a note forming inside the case, low and narrow, threading itself through the fork without touching it. In the meltwater beneath the car, color gathered where oil should have been: a faint magenta sheen, unstable as a bruise beneath glass.
 
-“East Hill,” she said, her eyes fixed on the gray veil of snow beyond the lot. “The ground here has a foul memory.”
+David tried to sit higher and failed, so the woman put one hand against his chest and pressed him back to the car.
 
-Her toe nudged the edge of a soaked sheet.
+“Stay.”
 
-“You keep trying to make everything agree,” she said.
+“I am having an unusually poor day with instructions.”
 
-David’s breath hitched. “The model—”
+“You are having an unusually poor day because you keep mistaking instruction for humiliation.”
 
-“The interesting thing is usually the piece that refuses your model,” she said flatly. “Stop worshipping the pattern. Look at the resistance.”
+“That’s a popular theory lately.”
 
-She looked from the ruined pages straight to the cello case.
+“Mounting evidence all around.”
 
-“The passive stage is done,” she said, reaching down to take his arm. Her grip was cold and stiff, her boots grinding into the asphalt as she hauled him upright against the car. “Get in. Turn on the heater. Put the instrument in the front seat and get off this hill before your marrow decides to phase-lock with the rocks.”
+The fork trembled harder as the cut in his palm brightened where blood met metal.
 
-David leaned against the car, his side burning with pain, his fingers clenched around the dark fork. “Wait. Who are you?”
+David looked down at his hand. “What did you just do?”
 
-She didn't answer. She stepped back into the snow, turning toward the service road with slow, deliberate strides, planting each boot firmly into the frozen ground.
+“Reminded it.”
 
-Behind him, the cello hummed once from inside the case: a low, solitary fifth that dissolved into the wind.
+“Of what?”
 
-“By the way,” the woman called back through the falling snow.
+“Of who you are. Of how it should listen.”
 
-He turned toward the sound. She had stopped beneath the yellow light of the loading dock, one hand resting on the salt bin to steady her balance.
+“Hands don’t listen.”
+
+“No. Yours have a nasty habit of lecturing first.”
+
+He laughed once, and the laugh became pain. The woman watched without pity or cruelty, a delineation David could not parse.
+
+The cello gave three faint pulses (low, higher, lower again), the beginning of a figure he almost knew and could not catch.
+
+She looked toward the case, then toward the storm beyond the faculty lot.
+
+“You should leave before they return with braver friends.”
+
+“Who were they?”
+
+“Men who understand enough to be dangerous and too little to be useful.”
+
+“That narrows nothing.”
+
+“It narrows more than you think.”
+
+She released his hand and stepped back. The tuning fork had gone still.
+
+“Wait,” David said. “Who are you?”
+
+She turned and began walking toward the service road with the same careful efficiency with which she had arrived, each step finding purchase before the next trusted the snow.
+
+Behind him, the cello sounded once: a single low note, the first interval of the figure, followed by silence. David looked toward the case.
+
+“By the way,” the woman called.
+
+He turned back to find her stopped beneath the edge of the loading dock, one hand resting lightly upon the yellow salt bin, her face half taken by snow.
 
 “You should really have that watch cleaned,” she said. “So filthy you cannot even read the inscription.”
 
-He looked down at Arthur’s watch in his palm. The steel backing was blackened with grease, dried blood, and decades of accumulated skin.
+He looked down at the watch in his hand. The metal back was blackened with years of skin, polish, and whatever weather the parking lot had added to the inheritance.
 
 “How did you know there was an inscrip—”
 
-He looked up.
+The service road stood empty. David stared at the place where she had been while snow moved through the loading-dock light.
 
-The service road was empty. Snow fell uninterrupted through the yellow halo of the loading-dock lamp. On the salt bin, a paper cup had tipped on its side, rolling gently in the draft.
+The paper cup upon the salt bin had tipped over and rolled softly against the plastic lid.
 
-David looked down at the watch. He wiped the casing with the edge of his sleeve, then used his thumb to scour the grime away, scraping the cold metal until the hardened residue peeled back.
+He looked back to the watch. The grime resisted at first. He rubbed with his thumb, then with the edge of his sleeve, then harder, ignoring the sting in his palm as the old film broke and lifted.
 
-Letters emerged beneath the lamplight, shallow and precise, cut into the steel where the back had rested against his pulse:
+Letters appeared by degrees, shallow and precise, engraved into the back where the watch had rested against three generations of pulse.
 
 In Time; E.G.
 
@@ -1327,7 +1334,7 @@ VIII. RELIQUIAE | Up From the Depths
 
 The cello answered once more from inside the case, only the first interval, but enough to make David turn.
 
-The men were gone. The woman was gone. Snow was already filling their footprints.
+Nothing remained of the magenta thread. The men were gone. So was the woman. Snow was already softening their footprints.
 
 That troubled him more than if she had vanished cleanly.
 
