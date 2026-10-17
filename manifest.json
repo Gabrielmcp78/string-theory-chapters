@@ -2,9 +2,22 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-16",
-  "total_words": 121962,
+  "total_words": 122079,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
+    {
+      "num": 0,
+      "slug": "overture",
+      "label": "Overture",
+      "title": "PROLOGUE",
+      "subtitle": "",
+      "word_count": 99,
+      "paragraph_count": 7,
+      "scene_count": 0,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/overture.txt",
+      "scenes": []
+    },
     {
       "num": 1,
       "slug": "chapter-01",
@@ -1225,8 +1238,8 @@
       "label": "Chapter 27",
       "title": "ELEGY… FOR ALL",
       "subtitle": "",
-      "word_count": 3749,
-      "paragraph_count": 293,
+      "word_count": 3025,
+      "paragraph_count": 232,
       "scene_count": 7,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27.txt",
@@ -1289,10 +1302,42 @@
           "n": 7,
           "heading": "27.7 For All",
           "word_start": 2816,
-          "word_end": 3749,
+          "word_end": 3025,
           "para_start": 213,
-          "para_end": 293,
+          "para_end": 232,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-27-scene-07.html"
+        }
+      ]
+    },
+    {
+      "num": -5,
+      "slug": "appendix",
+      "label": "Appendix",
+      "title": "FIELD PROTOCOL #47: TONAL ACTIVATION",
+      "subtitle": "National Museum Installation & Operational Field Manual",
+      "word_count": 742,
+      "paragraph_count": 64,
+      "scene_count": 2,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "National Museum Installation Note | Washington, D.C.",
+          "word_start": 1,
+          "word_end": 205,
+          "para_start": 1,
+          "para_end": 6,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "Field Protocol #47 | Operational Manual",
+          "word_start": 206,
+          "word_end": 742,
+          "para_start": 7,
+          "para_end": 64,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html"
         }
       ]
     }
