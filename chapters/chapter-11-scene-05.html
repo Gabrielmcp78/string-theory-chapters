@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 11 · Scene 5: 11.5 The Chapel Rehearsal</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="11">
+<meta name="scene" content="5">
+<meta name="scene-count" content="5">
+<meta name="word-count" content="2462">
+<meta name="paragraph-count" content="102">
+
+<!-- Reader Settings (Anti-Flicker) -->
+<script>
+(function() {
+    var theme = localStorage.getItem('st-theme');
+    if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+    }
+    var fs = localStorage.getItem('st-font-size');
+    if (fs) {
+        document.documentElement.style.setProperty('--reader-font-size', fs + 'rem');
+    }
+})();
+</script>
+<!-- KaTeX Equations Rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+    delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\[', right: '\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\(', right: '\)', display: false}
+    ],
+    ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    throwOnError: false
+});"></script>
+
+<style>
+:root {
+    --reader-font-size: 1.1rem;
+    --bg-primary: #fafaf8;
+    --text-primary: #1a1a1a;
+    --text-muted: #555555;
+    --header-bg: #2b3540;
+    --header-title: #f0ece4;
+    --copper-accent: #b8785a;
+    --copper-hover: #c9896b;
+    --card-bg: #f0ede8;
+    --card-border: #d4c8bc;
+    --btn-bg: #f0ede8;
+    --btn-text: #5a4a3a;
+    --btn-border: #d4c8bc;
+    --btn-hover-bg: #e6e0d8;
+    --sentinel-border: #e0d8d0;
+}
+
+html.dark-mode {
+    --bg-primary: #12161a;
+    --text-primary: #ffffff;
+    --text-muted: #b0b8c0;
+    --header-bg: #0d1013;
+    --header-title: #ffffff;
+    --copper-accent: #e09472;
+    --copper-hover: #f0ab8d;
+    --card-bg: #1a2027;
+    --card-border: #2e3844;
+    --btn-bg: #1e252d;
+    --btn-text: #ffffff;
+    --btn-border: #3c4958;
+    --btn-hover-bg: #2a3440;
+    --sentinel-border: #2e3844;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: var(--reader-font-size, 1.1rem);
+    line-height: 1.85;
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (collapsed <details> for LLM retrieval) ===== */
+/* Invisible to casual readers; always in DOM for scrapers and AI parsers  */
+details.chapter-manifest {
+    border-left: 2px solid #d4c8bc;
+    background: #f7f5f2; border-radius: 0 4px 4px 0;
+    padding: 0.3rem 1rem; margin-bottom: 2rem;
+}
+details.chapter-manifest summary {
+    cursor: pointer; list-style: none;
+    font-size: 0.7rem; color: #b8785a; letter-spacing: 0.1em;
+    text-transform: uppercase; padding: 0.2rem 0;
+    user-select: none;
+}
+details.chapter-manifest summary::-webkit-details-marker { display: none; }
+details.chapter-manifest summary::before {
+    content: '▶ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] summary::before {
+    content: '▼ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] {
+    padding: 0.3rem 1rem 0.9rem;
+}
+details.chapter-manifest pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.74rem; color: #999; line-height: 1.75;
+    white-space: pre-wrap; margin-top: 0.5rem;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Bottom chapter navigation ===== */
+.bottom-nav {
+    background: #2b3540;
+    padding: 1.1rem 1.5rem;
+    margin-top: 3.5rem;
+    border-top: 2px solid #b8785a;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.5rem;
+}
+.bottom-nav a {
+    color: #9baab8; text-decoration: none;
+    font-size: 0.9rem; letter-spacing: 0.02em;
+}
+.bottom-nav a:hover { color: #d4a882; }
+.bottom-nav .all-chapters { color: #b8785a; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 0; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+
+/* ===== Reader Toolbar & Controls ===== */
+.reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1.8rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+.font-controls, .theme-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+.control-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+}
+.ctrl-btn {
+    background: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+    color: var(--btn-text);
+    font-size: 0.82rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    user-select: none;
+    line-height: 1.2;
+}
+.ctrl-btn:hover {
+    background: var(--btn-hover-bg);
+    border-color: var(--copper-accent);
+    color: var(--copper-accent);
+}
+.ctrl-btn.font-size-val {
+    cursor: default;
+    min-width: 3.2rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.theme-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.75rem;
+}
+.theme-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+}
+.nav-theme-btn {
+    background: transparent;
+    border: 1px solid #4a5768;
+    color: #9baab8;
+    margin-left: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+.nav-theme-btn:hover {
+    background: #364352;
+    color: #ffffff;
+    border-color: var(--copper-accent);
+}
+.export-bar {
+    display: flex; gap: 0.55rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: var(--btn-bg); border: 1px solid var(--btn-border);
+    color: var(--btn-text); font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.export-btn:hover { background: var(--btn-hover-bg); border-color: var(--copper-accent); color: var(--copper-accent); }
+.export-btn.pdf-btn { background: var(--copper-accent); color: #fff; border-color: var(--copper-accent); }
+.export-btn.pdf-btn:hover { background: var(--copper-hover); }
+.export-label { font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Mathematical Equations (KaTeX) ===== */
+.equation {
+    font-family: 'Times New Roman', 'Cambria Math', serif;
+    font-style: italic;
+    text-align: center;
+    color: var(--text-primary);
+    margin: 1.4em auto;
+    font-size: 1.15rem;
+    overflow-x: auto;
+    padding: 0.4em 0;
+}
+.katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+    margin: 1.2em 0;
+}
+.katex {
+    font-size: 1.15em;
+}
+
+/* ===== Dark Mode Complete Styling ===== */
+html.dark-mode {
+    background: #12161a;
+}
+html.dark-mode body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+html.dark-mode .chapter-heading,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode .chapter-text {
+    color: #ffffff;
+}
+html.dark-mode p.body,
+html.dark-mode p.default,
+html.dark-mode p.body3 {
+    color: #ffffff;
+}
+html.dark-mode .chapter-subheading {
+    color: #c0c8d0;
+}
+html.dark-mode .location {
+    color: var(--copper-accent);
+}
+html.dark-mode .tempo-1,
+html.dark-mode .tempo-2 {
+    color: #c0c8d0;
+}
+html.dark-mode .chapter-stats {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+    color: #cbd5e1;
+}
+html.dark-mode .stats-row strong {
+    color: #ffffff;
+}
+html.dark-mode .scene-entry a {
+    color: #cbd5e1;
+}
+html.dark-mode .scene-entry a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.chapter-manifest {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.chapter-manifest pre {
+    color: #a0abb8;
+}
+html.dark-mode .chapter-sentinel {
+    color: var(--copper-accent);
+    border-top-color: var(--sentinel-border);
+}
+html.dark-mode .bottom-nav {
+    background: var(--header-bg);
+    border-top-color: var(--copper-accent);
+}
+html.dark-mode .part-header-card {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+}
+html.dark-mode .part-main-title {
+    color: #ffffff;
+}
+html.dark-mode .part-desc,
+html.dark-mode .part-inst {
+    color: #b0b8c0;
+}
+html.dark-mode .chapter-list li {
+    border-bottom-color: var(--card-border);
+}
+html.dark-mode .chapter-list a {
+    color: #ffffff;
+}
+html.dark-mode .chapter-list a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode .epub-banner {
+    background: var(--card-bg);
+    border-top-color: var(--card-border);
+}
+html.dark-mode .epub-banner p {
+    color: #cbd5e1;
+}
+html.dark-mode footer {
+    border-top-color: var(--card-border);
+    color: #7a8694;
+}
+html.dark-mode footer a {
+    color: #8b99a8;
+}
+html.dark-mode footer a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.scene-analysis {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.scene-analysis summary {
+    color: #ffffff;
+}
+html.dark-mode .analysis-section {
+    border-top-color: var(--card-border);
+    color: #e2e8f0;
+}
+html.dark-mode .analysis-section p {
+    color: #e2e8f0;
+}
+html.dark-mode .katex {
+    color: #ffffff !important;
+}
+html.dark-mode .equation {
+    color: #ffffff !important;
+}
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .reader-toolbar, .book-label, .chapter-number { display: none !important; }
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 11pt !important;
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000 !important; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333 !important; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; color: #000 !important; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555 !important; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+    .katex { color: #000 !important; }
+    .equation { color: #000 !important; }
+}
+
+/* ===== Index & Part Sections ===== */
+.part-section {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+}
+.part-section:first-of-type {
+    margin-top: 1.4rem;
+}
+.part-header-card {
+    background: rgba(244, 240, 235, 0.85);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 4px;
+    padding: 0.85rem 1.2rem;
+    margin-bottom: 0.6rem;
+}
+.part-num-tag {
+    font-size: 0.74rem;
+    color: #b8785a;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.part-main-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2b3540;
+    margin: 0.2rem 0 0.1rem;
+    letter-spacing: 0.01em;
+}
+.part-meta-line {
+    margin-top: 0.25rem;
+    font-size: 0.84rem;
+    font-style: italic;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+}
+.part-desc {
+    color: #4a5568;
+}
+.part-inst {
+    color: #718096;
+}
+.part-inst::before {
+    content: "· ";
+    color: #b8785a;
+    margin-right: 0.2rem;
+}
+.chapter-list { list-style: none; margin-bottom: 1.5rem; }
+.chapter-list li { padding: 0.65rem 0.4rem; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; font-weight: 500; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ===== Scene Analysis Accordion ===== */
+details.scene-analysis {
+    background: rgba(244, 240, 235, 0.75);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    margin: 2.2rem 0;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: all 0.3s ease;
+}
+details.scene-analysis[open] {
+    padding: 1rem 1.2rem 1.4rem;
+}
+details.scene-analysis summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.88rem;
+    color: #2b3540;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+details.scene-analysis summary::-webkit-details-marker { display: none; }
+details.scene-analysis summary::after {
+    content: '＋';
+    font-size: 0.95rem;
+    color: #b8785a;
+    font-weight: bold;
+    transition: transform 0.2s ease;
+}
+details.scene-analysis[open] summary::after {
+    content: '－';
+}
+.analysis-section {
+    margin-top: 1.2rem;
+    border-top: 1px solid #e0d8d0;
+    padding-top: 1.2rem;
+    font-size: 0.95rem;
+    color: #2c2c2c;
+    line-height: 1.8;
+}
+.analysis-section h4 {
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #b8785a;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.analysis-section p {
+    margin-bottom: 1rem;
+}
+.analysis-section ul {
+    margin-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.analysis-section li {
+    margin-bottom: 0.5rem;
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-11.html">Chapter 11: EXERCISE</a>
+    <a href="chapter-11-scene-04.html">← Scene 4</a>
+    
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 11 &middot; Scene 5 of 5</div>
+  <div class="chapter-heading">11.5 The Chapel Rehearsal</div>
+  
+
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        'String Theory - Chapter 11 - Scene 5 - 11.5 The Chapel Rehearsal.doc',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11.txt', this)">&#9776; Copy Text</button>
+    </div>
+  </div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>2,462</strong>&thinsp;words&ensp;<strong>102</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>5</strong>&thinsp;of&thinsp;<strong>5</strong></div>
+</div>
+
+  <div class="chapter-text">
+<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 11 · Scene 5 of 5 ]
+Chapter Title:   EXERCISE
+Scene Heading:   11.5 The Chapel Rehearsal
+Scene:           5 of 5
+Word Count:      2,462
+Paragraph Count: 102
+Chapter Words:   3,211–5,672 (within full chapter)
+[ End Scene Manifest ]</pre></details>
+
+<div class="location">11.5 The Chapel Rehearsal</div>
+<p class="body">Beneath the floor of Sage Chapel lay four hundred million years of silence.</p>
+<p class="body">It was the silence of the Ithaca Formation: late Devonian mud, silt, and dead marine life settled in the stagnant basin of an ancient inland sea, compressed into sandstone and fissile black shale. In November, that mineral chill rose directly through the flagstones into the leather soles of your boots. Above it, High-Victorian Gothic hammer-beam trusses of butternut and quarter-sawn white oak met the cold with a century of radiator steam and waxy oak luster.</p>
+<p class="body">The open rehearsal was an institutional obligation—a public-relations tithe for the university charter. The congregation huddled in the carved pews was a study in campus demographics: nine hungover undergraduates in baseball caps chasing an extra-credit signature; two emeritus professors of comparative literature in butterscotch corduroy; and a local who had slipped through the north vestibule to escape the gorge wind.</p>
+<p class="body">Up near the altar steps, Catherine Rieger and Celeste Armitage were waiting.</p>
+<p class="body">Catherine, second violin, sat brisk and razor-edged, her Landolfi resting in her lap while she attacked her nails with an emery board. Beside her, Celeste tuned her viola with sharp, venomous twists of the pegs, glaring at the ambulatory door as if she intended to dismantle it.</p>
+<p class="body">The heavy oak door banged inward.</p>
+<p class="body">Roger Linn entered first, hauling David’s carbon-fiber cello case beneath his armpit like a rolled-up rug he had just shoplifted, eyes darting left and right.</p>
+<p class="body">Three paces behind him shuffled David Lang, his leather shoulder bag slung across his good shoulder, carrying Roger&#x27;s narrow composite violin case in his right hand.</p>
+<p class="body">The Feynman Chair of Theoretical Physics looked less like an endowed luminary and more like a man ejected from a moving vehicle at highway speed. In the gloomy chapel, David wore scratched aviator sunglasses, walking with a lock-kneed waddle. His left brow was hitched together with three butterfly bandages against an eggplant-purple bruise, his heavy coat hanging open over the thick elastic wrap binding his torso.</p>
+<p class="body">Celeste’s bow halted dead on the string, the sheep gut choking with an ugly screech.</p>
+<p class="body">Her eyes tracked from his shoes to his taped brow, widening in sharp panic before her jaw set hard. A flush rose from the collar of her black sweater. Her knuckles went chalk-white against the viola neck. She looked ready to vault the music stands and shake him; then her chin lifted, and she turned her gaze fixedly toward the altar.</p>
+<p class="body">Catherine’s emery board froze in mid-air. “Oh, exquisite,” she murmured in a stage whisper. “Tell me, Roger, did the physics department finally attempt a coup?”</p>
+<p class="body">“Just play, Catherine,” Celeste snapped, low and flat.</p>
+<p class="body">David set the violin case onto Roger&#x27;s music stand before easing toward the choir stalls. Roger dragged David’s rehearsal chair deep into the acoustic shadow, angled away from the nave, and unlatched the cello case with rapid clicks.</p>
+<p class="body">“Sit,” Roger barked softly. “Down. Don&#x27;t talk. Don&#x27;t bow to the public.”</p>
+<p class="body">David lowered himself with a whistling hiss of air through his teeth.</p>
+<p class="body">“Careful with the bout,” Roger muttered, handing the instrument over.</p>
+<p class="body">David drew the cello between his knees. Even through two shirts and the elastic wrap, the varnished maple pressed directly into the cracked ribs, flaring hot with every inhalation.</p>
+<p class="body">“Bach,” David croaked behind his aviators. “The quartet transcription of the c-minor Sarabande. Measure thirty-two, into the second reprise. In three.”</p>
+<p class="body">“Are you certain, David?” Catherine asked sweetly. “We could do a reading from the Book of Job instead.”</p>
+<p class="body">Roger picked up his Stradivarius from the stand, tucked his chin, and tapped the wood with the heel of his bow. “From thirty-two. No vibrato in the opening bars. Let the room speak.”</p>
+<p class="body">He raised his Stradivarius, tucked his chin, and suspended his bow.</p>
+<p class="body">A sarabande: triple meter, weight suspended upon the second beat—a slow, stately lift of the heel before the foot returns to earth.</p>
+<p class="body">Roger’s hand dropped.</p>
+<p class="body">Celeste’s viola entered with a dark, reedy C that laid the floorboards; Catherine layered the interior G above it; Roger traced the high, sorrowful melody like an architect drawing an elevation in black ink.</p>
+<p class="body">David brought his bow down on the low C string.</p>
+<p class="body">The physical sensation was sickening. Even rationing his stroke to the middle six inches of hair, every downbow pulled against the torn intercostals, while the upbow drove the maple bout straight back into the bruised ribs.</p>
+<p class="body">Then the building intervened.</p>
+<p class="body">High above their heads, suspended beneath the hammerbeams, ran the catwalks and wrought-iron gasolier brackets, coupled through the clerestory walls to the university’s underground steam tunnels and central mechanical plant. Somewhere beneath the campus, the broadband kinetic rumble of the ventilation plant had found and driven the structural resonance mode of the chapel itself: an invariant 68.48 Hz.</p>
+<p class="body">It came up through the endpin resting on the flagstones, climbed the steel rod, and bloomed inside the cello’s spruce soundboard.</p>
+<p class="body">David’s open C string was tuned to standard orchestral pitch: C2, exactly 65.41 Hz.</p>
+<p class="body">The building’s mode vibrated at 68.48 Hz.</p>
+<p class="body">The difference was 3.07 Hz.</p>
+<p class="body">Two acoustic frequencies separated by three cycles per second produce an audible interference flutter: <em>whump... whump... whump</em>. But coupled mechanically through the steel endpin seated against the bedrock, the standing wave wasn&#x27;t merely audible; it was somatic. The constructive phase drove a low-frequency hammer directly through the instrument&#x27;s spruce belly into David&#x27;s bruised intercostal wall.</p>
+<p class="body">David grimaced, his knuckles white on the frog. On stopped notes, his left hand could micro-adjust, rolling his calloused fingertips sharp or flat to evade the room’s standing wave. But the architecture of David’s four-part transcription continually pivoted back to the tonic. In expanding Bach’s solo line into four contrapuntal voices, the reprise demanded the open C.</p>
+<p class="body">And an open string cannot be shaded. Its length is fixed between nut and bridge; its mass and tension are immutable. You cannot lean into an open string with your finger to save yourself.</p>
+<p class="body">Measure forty-one arrived. The cadence folded inward. Roger and Catherine suspended their voices on a minor seventh, Celeste sank to a low G, and the harmony opened a hollow space that belonged solely to the cello’s fundamental C.</p>
+<p class="body">David pulled the bow.</p>
+<p class="body">The open C2 roared out at 65.41 Hz. Instantly, the 68.48 Hz pulse from the catwalks slammed into it. The 3.07 Hz beating struck with brutal physical violence—<em>whum... whum... whum</em>—hammering inside David’s skull and vibrating his bruised eye socket until the butterfly bandages puckered.</p>
+<p class="body">His diaphragm locked in an involuntary spasm. The bow skittered across the string, bounced twice against the wood of the bridge with an ugly, choked scratch, and lifted into empty air.</p>
+<p class="body">The bass voice died.</p>
+<p class="body">In the pews, an undergrad blinked.</p>
+<p class="body">Before the silence could widen, Roger Linn stepped into the breach. With the quiet, unhesitating instinct of thirty years of chamber music, Roger leaned into his Stradivarius, executing a subtle upward portamento that gathered the melody into his own voice. Celeste read him instantly, dropping her dynamic to a dark <em>pianissimo</em>, digging into her lower string with a rich double-stop that laid a warm floor beneath the missing bass. Catherine answered on the second beat, supplying a deft, muted pizzicato pulse.</p>
+<p class="body">To the listeners in the pews, it sounded seamless—a measured, deliberate hush written straight into the score.</p>
+<p class="body">They carried the phrase to the double bar and let the final chord evaporate into the cold dust motes.</p>
+<p class="body">David sat with his head bowed, the cello trembling against his knees, his breath whistling through his nostrils in shallow, jagged gasps. Cold sweat stung the cut over his eyebrow.</p>
+<p class="body">Catherine snapped her violin from her shoulder, her voice dry as salt. “A stunning interpretive choice. We should play all of Bach without a bass line. It saves on heating.”</p>
+<p class="body">“David,” Celeste said softly. Her bow was down. She leaned across the gap between their stands, her eyes examining every millimeter of his battered face. “Put the cello down. We&#x27;re done.”</p>
+<p class="body">“No,” David rasped.</p>
+<p class="body">He reached his right hand into his coat pocket. His fingers found the cold steel of the tuning fork.</p>
+<p class="body">He pulled it out.</p>
+<p class="body">The polished steel caught the violet light slanting through the stained-glass prophets above. On the tapered prongs, faint traces of cerulean oxidation still clung to the metal—the chemical ghost of the night before.</p>
+<p class="body">Catherine let out a long groan. “Oh, God in heaven. The fork. Roger, please tell him we have department evaluations on Tuesday and I am not spending my Saturday listening to him lecture on non-linear dynamics.”</p>
+<p class="body">“Catherine, shut up,” Celeste said softly.</p>
+<p class="body">Catherine turned on her. “Celeste, for heaven&#x27;s sake—”</p>
+<p class="body">“Shut up.” Celeste’s eyes never left David’s face. She read the tremor in his split brow, the stubborn, desperate clarity behind his dark lenses. “What did you hear, David?”</p>
+<p class="body">David brought the stem of the tuning fork down against the hard maple of his music stand—a firm, decisive strike.</p>
+<p class="body">The fork rang. A sharp, brilliant reference pitch cut through the damp chapel air. David leaned forward with care and pressed the brass base of the stem directly onto the maple bridge of his cello.</p>
+<p class="body">The instrument resonated, driving the fork’s vibration down through the steel endpin into the stone flagstones.</p>
+<p class="body"><em>Hummmmmmmmm.</em></p>
+<p class="body">The vibration went everywhere: through the floor grates, through the wooden pews, through the iron water pipes.</p>
+<p class="body">And instantly, the building&#x27;s 68.48 Hz resonance rose up to meet it.</p>
+<p class="body">“Listen,” David whispered, his hoarse voice commanding the stands. “Listen to the beating. Three hertz. We&#x27;re fighting the room. As long as we force equal temperament, the room is an acoustic sink that tears the chords apart.”</p>
+<p class="body">Roger was already leaning in, his Strad held at the ready, his eyes narrowed with clinical curiosity. “The structural mode?”</p>
+<p class="body">“The bedrock, the conduits, the iron trusses,” David said. “Sixty-eight point four eight hertz. That&#x27;s an acoustic C-sharp. We were playing C-natural against it—a minor second, three beats a second tearing into the soundboard. We can&#x27;t overpower it. We have to couple to it.”</p>
+<p class="body">He looked at Celeste. Behind the dark lenses, his eyes were bloodshot, but burning with absolute clarity.</p>
+<p class="body">“An F-sharp chord,” David said. “Just intonation. Roger, take the C-sharp in your register—the fourth harmonic on your G string. Celeste, the root on your C string. Catherine, octave above on the D. I&#x27;ll take the low F-sharp. No open strings. Stop the notes and tune by ear to the room&#x27;s standing wave. When the beating stops, we lock.”</p>
+<p class="body">Roger didn&#x27;t argue. He raised his Stradivarius, his left hand settling onto the fingerboard. “Cathy. On the root.”</p>
+<p class="body">Catherine gave a sharp exhale through her nose, but her bow came up.</p>
+<p class="body">Celeste pressed her ear toward the upper bout of her viola. She set her fingers on the string, finding the stopped F-sharp, listening not to an abstract pitch, but to the interference pattern in the stone. Roger laid his bow across the G string, micro-adjusting his stopped C-sharp by a fraction of a millimeter.</p>
+<p class="body">The harsh flutter in the room slowed: <em>three hertz... two hertz... one hertz...</em></p>
+<p class="body">Then the beating vanished. Roger&#x27;s fourth harmonic locked onto the building’s 68.48 Hz fundamental like a key sliding into an oiled mortise lock. The timbers of the chapel seemed to exhale.</p>
+<p class="body">They were no longer playing against the room. They were coupled to the mechanical skeleton of the hill: to the shale strata, the steam pipes, the iron catwalks, and the cold gorge air.</p>
+<p class="body">David lifted his bow. The movement sent a hot stab through his ribs, but the elastic wrap held.</p>
+<p class="body">“Now,” David whispered. “Dead center of the string. No vibrato.”</p>
+<p class="body">Roger lifted his scroll. He breathed in through his nose, a sharp intake of cold air that they all took together.</p>
+<p class="body">Four bows touched four strings simultaneously.</p>
+<p class="body">They sounded the chord.</p>
+<p class="body">The chord was an F-sharp, built so its upper fifth locked directly onto the fourth harmonic of the 68.48 Hz building fundamental. It was tuned not as an equal-tempered compromise, but as a pure harmonic ratio against the ambient room tone.</p>
+<p class="body">The 3.07 Hz beating stopped dead.</p>
+<p class="body">The fluttering pulse of the steam conduits was drawn into immediate phase alignment with the instruments. The room’s rumble didn&#x27;t vanish—it resolved, coupled directly into the soundboards of the quartet.</p>
+<p class="body">The sound seemed to rise from the walls. The stone piers of the chancel hummed against the skin. High in the hammer-beam vaults, the hidden iron tie-rods and bronze chandelier chains began to ring in sympathetic resonance—a pure, high, shimmering overtone series.</p>
+<p class="body">The quartet held the chord. Four instruments, four minds, locked onto a single standing wave. In the front row, an architecture student slowly reached out and pressed his bare palm flat against the cold stone of the chancel arch. The masonry was humming.</p>
+<p class="body">Roger reached the frog of his bow and lifted his wrist.</p>
+<p class="body">The sound cut.</p>
+<p class="body">The silence that followed was absolute, dense with the stored energy of the room.</p>
+<p class="body">In the pews, nobody moved. The two emeriti sat still, hands resting on their corduroy knees. The undergraduates stared at the chancel. Outside, the wind through Fall Creek Gorge seemed to have dropped away.</p>
+<p class="body">Two seconds passed. Three. Five.</p>
+<p class="body">From the back corner, one of the literature professors ventured an uncertain, solitary clap—<em>thwack</em>—realized he was alone, and let his hands fall still.</p>
+<p class="body">Roger Linn didn&#x27;t wait for a review.</p>
+<p class="body">He stepped forward, caught David’s cello by the neck, and hoisted the case in his other hand.</p>
+<p class="body">“Rehearsal concluded,” Roger announced briskly to the pews. “Don&#x27;t forget to validate your parking.”</p>
+<p class="body">David stood. It took him three separate, careful attempts to straighten his knees, but he managed it, his coat hanging straight over the elastic wrap, the aviators hiding his eyes.</p>
+<p class="body">Celeste walked over to him. She didn&#x27;t look at Roger. She didn&#x27;t look at the audience. She stopped in front of David, her viola case slung over one shoulder, her dark eyes fixed on his face. She smelled of cold rain, winter wool, and black tea.</p>
+<p class="body">Her gaze took in the butterfly bandages, the split brow, the exhausted pale sweat at his temples. Her hand moved slightly inside her glove, then settled at her side.</p>
+<p class="body">“Coffee?” she asked.</p>
+<p class="body">David looked back at her through the dark glass. His ribs were throbbing, but beneath the pain, the ringing in his ears had stopped.</p>
+<p class="body">“In an hour, say,” David said. “I have a meeting. We&#x27;ll talk about the tuning.”</p>
+<p class="body">Celeste held his gaze for a long beat.</p>
+<p class="body">“One hour,” she said. “Don&#x27;t be late. And take off those ridiculous glasses.”</p>
+<p class="body">She turned and marched toward the side exit, her boots clicking sharply against the encaustic tile. Roger fell in behind her, hauling the cello like a shepherd with a prized ram, leaving David to follow in their wake, one slow, stubborn step at a time.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 5 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-10-16
+    &middot; <a href="chapter-11.html">Chapter 11</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+<script>
+// Theme Toggle & Font Size Control
+function toggleTheme() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    try {
+        localStorage.setItem('st-theme', isDark ? 'dark' : 'light');
+    } catch(e) {}
+    updateThemeUI(isDark);
+}
+
+function updateThemeUI(isDark) {
+    var labels = document.querySelectorAll('.theme-label');
+    labels.forEach(function(el) {
+        el.textContent = isDark ? 'Light' : 'Dark';
+    });
+    var icons = document.querySelectorAll('.theme-icon');
+    icons.forEach(function(el) {
+        el.innerHTML = isDark ? '&#9728;' : '&#9681;';
+    });
+}
+
+function adjustFontSize(delta) {
+    var cur = 1.1;
+    try {
+        cur = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    var next = Math.max(0.85, Math.min(1.65, Math.round((cur + delta * 0.08) * 100) / 100));
+    applyFontSize(next);
+}
+
+function resetFontSize() {
+    applyFontSize(1.1);
+}
+
+function applyFontSize(val) {
+    document.documentElement.style.setProperty('--reader-font-size', val + 'rem');
+    try {
+        localStorage.setItem('st-font-size', val);
+    } catch(e) {}
+    var displays = document.querySelectorAll('.font-size-val');
+    displays.forEach(function(el) {
+        el.textContent = Math.round((val / 1.1) * 100) + '%';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    updateThemeUI(isDark);
+    var savedSize = 1.1;
+    try {
+        savedSize = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    applyFontSize(savedSize);
+});
+
+function _exportWord(filename, headingText, subText, contentHTML) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = contentHTML;
+    var hidden = tmp.querySelectorAll('[aria-hidden="true"]');
+    for (var i = hidden.length - 1; i >= 0; i--) { hidden[i].parentNode.removeChild(hidden[i]); }
+    var sentinels = tmp.querySelectorAll('.chapter-sentinel');
+    for (var i = sentinels.length - 1; i >= 0; i--) { sentinels[i].parentNode.removeChild(sentinels[i]); }
+    var cleanContent = tmp.innerHTML;
+
+    var headingDiv   = document.querySelector('.chapter-heading');
+    var subDiv       = document.querySelector('.chapter-subheading');
+    var resolvedHead = headingDiv  ? headingDiv.textContent  : headingText;
+    var resolvedSub  = subDiv      ? subDiv.textContent      : (subText || '');
+
+    var wordHTML = [
+        '<!DOCTYPE html>',
+        '<html xmlns:o="urn:schemas-microsoft-com:office:office"',
+        '      xmlns:w="urn:schemas-microsoft-com:office:word"',
+        '      xmlns="http://www.w3.org/TR/REC-html40">',
+        '<head><meta charset="utf-8"><title>' + resolvedHead + '</title>',
+        '<style>',
+        'body{font-family:Georgia,serif;font-size:12pt;line-height:1.85;margin:1in;color:#111}',
+        '.chapter-heading{font-size:20pt;font-weight:normal;margin-bottom:5pt}',
+        '.chapter-subheading{font-size:10.5pt;font-style:italic;color:#555;margin-bottom:22pt}',
+        'p{margin-bottom:9pt}',
+        '.location{font-size:8.5pt;letter-spacing:1.2pt;text-transform:uppercase;color:#8B5E3C;font-weight:bold;margin:18pt 0 2pt}',
+        '.tempo-1,.tempo-2{font-style:italic;font-size:10pt;color:#666;margin-bottom:9pt}',
+        'h3{font-size:11pt;font-weight:normal;margin:18pt 0 4pt}',
+        '</style></head><body>',
+        '<div class="chapter-heading">' + resolvedHead + '</div>',
+        resolvedSub ? '<div class="chapter-subheading">' + resolvedSub + '</div>' : '',
+        cleanContent,
+        '</body></html>'
+    ].join('\n');
+
+    var blob = new Blob(['\uFEFF', wordHTML], {type: 'application/msword'});
+    var url  = URL.createObjectURL(blob);
+    var a    = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1500);
+}
+
+function exportPDF() { window.print(); }
+async function copyChapterText(txtUrl, btn) {
+  try {
+    var resp = await fetch(txtUrl);
+    if (!resp.ok) throw new Error('fetch failed: ' + resp.status);
+    var text = await resp.text();
+    await navigator.clipboard.writeText(text);
+    var orig = btn.innerHTML;
+    btn.innerHTML = '&#10003; Copied!';
+    btn.style.background = '#4a7a4a';
+    btn.style.color = '#fff';
+    btn.style.borderColor = '#4a7a4a';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }, 2000);
+  } catch(e) {
+    btn.innerHTML = '&#10007; Failed — check permissions';
+    setTimeout(function() { btn.innerHTML = '&#9776; Copy Text'; }, 2500);
+  }
+}
+</script>
+</body>
+</html>
