@@ -8,47 +8,57 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,484
-Paragraph Count: 177
+Word Count:      6,287
+Paragraph Count: 311
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-The lecture hall was tall. Its glass-encased design felt more suited to a botanical conservatory or a bakehouse than a room meant for the transmission of linear physics. Narrow windows ran from floor to ceiling along the rear wall, overlooking the glacier-carved canyons of East Hill, their angled panes breaking winter daylight into hard, unsparing fragments. The light never arrived cleanly; it fractured, casting long, geometric ghosts across the rows of empty seats.
+The lecture hall was tall. Very tall. Its glass-encased design felt more suited to a botanical conservatory or a bakehouse than a room meant for the transmission of linear physics. Narrow windows ran from floor to ceiling along the rear wall, overlooking the glacier-carved canyons of East Hill, their angled panes breaking the winter daylight into hard, unsparing fragments. The light never arrived cleanly here; it only fractured, casting long, geometric ghosts across the rows of empty seats.
 
 Beside the door, a brushed-metal plaque praised the room's “unique ornamentation” and claimed it had been designed to “soothe the psyche and elicit heightened states of mental acuity.”
 
-They had said the exact same things about heroin for a hundred years.
+They said the exact same things about heroin for a hundred years.
 
-As David made his way down the incline toward the lectern and the massive slate boards, he counted heads. Twenty-seven bodies occupied the benches, culled from a roster of sixty-three names that looked more like an abandoned census than a class manifest.
+As David made his way down the incline toward the lectern and the massive slate boards beyond, he counted heads. It did not take long, as there were only twenty-seven bodies occupying the benches. Twenty-seven souls, culled from a roster of sixty-three names that looked more like an abandoned census than a class manifest.
 
 After setting his satchel on the scarred oak desk, he glanced down the ledger, then back toward the huddled semicircle of students.
 
 “My,” he said, his voice dry as parchment. “A full house, I see.”
 
-No one answered. The silence had a distinct texture here, dense with cold air and damp wool coats.
+No one answered. The silence had a distinct texture here, dense with cold air and the damp wool of coats.
 
-“Introduction to Quantum Dynamics,” he said, consulting the roster in a brief, unconvincing performance of academic uncertainty. “And I am David Lang. Feynman Chair. If this is not your intended destination, by all means, go find some lunch. Otherwise, remain with us and starve on science and superposition.”
+“Hmm… Well, let me make sure we're all in the right place. This is…” One finger traveled down the page in a brief, unconvincing performance of academic uncertainty. “... Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork are in active conspiracy.”
 
-The laugh was small but genuine, a brief thaw that returned some portion of the authority David had misplaced between the quad and the door.
+A few bags shifted. Someone closed a laptop with a sharp plastic snap.
 
-“Alright, let's jump back into this.” He moved to the boards, rolled a half-length of chalk through his fingers, and felt the dry dust coat his prints. “Causality,” he said, writing the word in sharp capitals. “The old human narcotic.”
+“And I am…” He consulted the roster again, allowing the front row into the performance. “David Lang. Feynman Chair of Quantum Dynamics. A grand title, I know. And aren’t you lucky. My specialty and the class focus are uncommonly aligned.”
+
+A few faces lifted, caught between suspicion and amusement.
+
+“If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating this early in the semester, then by all means, go find some lunch.” He indicated the door with a stylish, dismissive flick of his pen. “Otherwise, remain with us and starve on science and superposition.”
+
+The laugh was small but genuine, a brief thaw that loosened the room and returned some portion of the authority David had misplaced somewhere between the quad and the door.
+
+“Alright, let's jump right back into all of this. Shall we?” He moved to the boards, grabbed a half-length of chalk, and rolled it through his fingers, feeling the dry dust coat his prints. “Causality,” he said, writing the word in sharp, precise capitals. “The old human narcotic.”
 
 Beneath it, he wrote:
 
   $$\Psi(x, t) = \sum c_i \phi_i(x) e^{-iE_i t / \hbar}$$
 
-“This is the wave function.” The chalk touched the Greek psi. “Everything the system could possibly become, gathered into one sprawling, unobserved description. We call it probability because the alternative would be admitting that we do not entirely know what reality is before we look at it.”
+“This is the whole wave function.” The chalk touched the Greek psi. “Everything the system could possibly become, gathered into one sprawling, unobserved description. We call it probability because the alternative would be admitting that we do not entirely know what reality is before we look at it.”
 
 A few students smiled, recognizing the trap.
 
-“I have always preferred the admission.” He moved aside to give them the equation. “Before measurement, possibility has structure. More than one future remains available, each waiting for the discourtesy of contact. Once you interact with the system—once you look—most of what could have happened simply evaporates. What remains is the history we spend the rest of our lives pretending was inevitable.”
+“I have always preferred the admission.”
 
-The laugh traveled farther this time, rippling up the concrete tiers. The old academic register returned, dry and lethal. Its terrifying ease unsettled him. Even his own competence had begun lying on his behalf, maintaining a functional facade while the interior mechanics came loose.
+He moved aside to give them the equation. “Before measurement, possibility has structure. More than one future remains available, each waiting for the discourtesy of contact. Once you interact with the system—once you look—most of what could have happened simply evaporates. What remains is the history we spend the rest of our lives pretending was inevitable.”
 
-At the chalk box, his fingers closed around the rough cardboard edge. A sharp stitch of pain shot through them, carrying the expectation that the hand would go slack again. For one second he waited over the open box, unwilling to look directly at the limb and equally unwilling to let the class see him test it. The hand held.
+This time the laugh traveled farther, rippling up the concrete tiers. The old academic register returned, dry and occasionally lethal. Its terrifying ease unsettled him. Even his own competence had begun lying on his behalf, maintaining a polite, functional facade while the interior mechanics came loose.
+
+At the chalk box, his fingers closed around the rough cardboard edge. Pain shot through them, sudden and familiar, carrying with it the expectation that the hand would go slack again. For one second he waited over the open box, unwilling to look directly at the rebellious limb and equally unwilling to let the class see him test it. Nothing followed. The hand held.
 
 “Now we complicate the picture.”
 
@@ -84,7 +94,7 @@ David forced the hand down, burying it in his pocket.
 
 As he turned back to the board, the hum burrowed deeper, scratching at the base of his skull. He needed something solid. A pivot to Einstein, perhaps. Anything familiar enough to hold back the tide.
 
-Instead, the frequency moved through him with horrifying assistance.
+Instead, the frequency moved through him with what felt like horrifying assistance.
 
 HOW DO YOU MEASURE PROXIMITY?
 
@@ -92,9 +102,9 @@ Underneath it came:
 
   $$\lim_{\omega \to \omega_n} \chi_{AB}(\omega) = \infty$$
 
-The hum pressed against his eardrums. Along the back wall, the windows broke daylight into blinding bands.
+The hum pressed against his eardrums. Along the back wall, the windows broke daylight into scattered, blinding bands, and for once their glare had the better of him.
 
-“When the world resonates,” he said, his voice softer now, vibrating with an internal timbre, “you feel less alone. Like there's structure underneath the random noise. Drift just a little…”
+“When the world resonates,” he said, his voice softer now, stranger, vibrating with a strange internal resonance, “you feel less alone. Like there's structure underneath the random noise. Drift just a little…”
 
 His fingers snapped against his thigh.
 
@@ -110,23 +120,25 @@ Dr. Rune Ishikawa stood there in a flawless grey suit, casually slipping his pho
 
 The students were still watching the board, oblivious.
 
-“Professor Lang, if I may.” Rune drifted down the aisle toward the well, nodding to students as he went. “You have made resonance sound like a property of the note, Professor. Isn’t it also a property of the conditions around it?”
+“Professor Lang, if I may. Pardon the intrusion, but such a fascinating line you all seem to be following this morning, I couldn't help myself.” Rune floated down the aisle toward the well, nodding and greeting students by name as he went. “You have made resonance sound like a property of the note, Professor.” His voice swirled now from the greater mass of the room toward the locality of the lectern and into David’s immediate sphere of instability. “Isn’t it also a property of the conditions around it?”
 
 David's gaze was locked on the chalked numbers. “The system is open.”
 
-“Then perhaps the oversight should be attended to. You never know who might walk into your equation.”
+“Well, perhaps such an oversight should be attended to, Professor. You never know who might come walking right into your equation.”
 
-Rune reached the well, extending a smile of calm assurance to the room. By the time he reached the board, the class had turned with him.
+Rune pressed down the aisle, not a sliver of rush in his step, extending a general smile of assurance to the room. By the time he reached the board, the class had turned with him, making attention the simplest available response.
 
 One gloved hand lifted toward the chalk tray.
 
-David almost refused. Pride moved first. Then the tremor in his fingers made the decision for him.
+David almost refused. Pride moved first. Then the tremor in his fingers made the decision before he could dignify it as a choice.
 
-Under cover of the gesture, Rune's hand closed over his. From the benches, the transfer would read as ordinary professorial collaboration. The chalk passed between them, warm and dry.
+Under cover of the casual gesture, Rune's hand closed over his. From the benches, the transfer would read as an ordinary professorial collaboration, one colleague extending another's thought. The chalk passed between them, warm and dry.
+
+David's fingers remained curved around the empty air for a moment before opening.
 
 Low enough for him alone, Rune murmured, “Let me have the board.”
 
-“You're rescuing me,” David whispered, fighting the spasm in his forearm.
+“You're...” David's chest hitched as he fought the spasm in his forearm. “You're rescuing me.”
 
 “Yes, and I am taking the board.”
 
@@ -134,51 +146,89 @@ Low enough for him alone, Rune murmured, “Let me have the board.”
 
 “For the moment, absolutely.”
 
-Rune turned to the class, his charm radiating like a physical property. He narrowed his focus toward the clean space beside David's proximity question and wrote:
+Rune turned back to the class, his charm radiating like a physical property. “Let’s see if I can swim here with Professor Lang for a moment. It has certainly been… a minute.”
+
+He smiled to the room and turned to take on the mathematical disaster that lay before him on the boards, narrowing his focus toward the clean space beside David's proximity question. He wrote:
 
   $$\rho_{AB} = \sqrt{\sum (x_{A,i} - x_{B,i})^2}$$
 
-The room had gone very quiet.
+The room had gone very quiet. Even the students who had been conserving consciousness for emergencies looked up.
 
-“Professor Lang has given you the Euclidean distance,” Rune said, tapping the square root with the chalk. “Useful for maps, furniture, and university architects, who must be given something blunt or they grow dangerous. But physics becomes interesting when distance stops behaving like an obedient ruler and begins behaving like an unstable question.”
+“Professor Lang has given you the old Euclidean distance,” Rune said, tapping the square root with the chalk. “Useful for maps, furniture, doors, and university architects, who must be given something blunt or they grow dangerous. But physics becomes interesting when distance stops behaving like an obedient ruler and begins behaving like an unstable question.”
 
 Two small circles appeared on opposite sides of the board, labeled A and B. Between them, Rune drew the room as an interconnected field.
 
-“This term asks what B does when A is disturbed at frequency omega. If B does nothing, the systems are far apart in the only sense that matters. If B answers, even faintly, your ruler has become an expensive superstition.”
+“This term asks what B does when A is disturbed at frequency omega. If B does nothing, the systems are far apart in the only sense that matters to the event. If B answers, even faintly, then your ruler has become a very expensive superstition.”
+
+A startled exhale moved through the room as students recognized that the floor beneath the lecture had shifted beneath their feet.
 
 Rune wrote again, faster now, the chalk making a dry, surgical music against the slate:
 
   $$G(x, y; \omega) = \frac{e^{ik|x-y|}}{4\pi |x-y|}$$
 
-“The room is not empty. It has modes. It has memory. It has preferences. A disturbance here”—he touched point A—“does not travel toward B like a letter carried by a dutiful courier. It enters the conditions both systems share. At resonance, those conditions amplify the smallest permitted answer.”
+“The room is not empty. It has modes. It has memory. It has preferences, if we are willing to forgive the word. A disturbance here”—he touched point A—“does not travel toward B like a letter carried by a dutiful employee. It enters the conditions both systems share. At resonance, those conditions amplify the smallest permitted answer.”
 
-Rune underlined the term once.
+The final term received a single, emphatic underline. Rune looked across the room at unconvinced, slightly glossed-over faces.
 
-“No one needs my notation for this. Suppose your upstairs neighbor plays bass. Below him, in your kitchen, a spoon moves across the counter. You have never met him. You are separated by a floor, a lease, and an excellent reason to hate him. For the length of that note, however, you are occupying the exact same instrument.”
+“Now, we do not ask, 'How close are they?' No, we simply ask, 'What is it that can make them answer?'”
+
+The number remained inside David: 68.48 Hz, exact as a pin through cloth. Rune, however, had moved it out of sheer terror and back into the domain of thought. The hum had acquired sharp edges, but it had not disappeared.
+
+Rune faced the class.
+
+“No one needs my notation for this. Let's suppose your upstairs neighbor plays bass. Somewhere below him, in your kitchen, a spoon moves across the counter. You have never met him. You may be separated by a floor, a lease, and an excellent reason to hate him. For the length of that note, however, you are occupying the exact same instrument.”
 
 Below David's question, he wrote:
 
   $$\text{Response} \propto \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
-The chalk fell into the wooden tray with a small, crisp click.
+The chalk fell the last inch into the wooden tray, its click small, crisp, and final.
 
-“If the spoon moves,” Rune said, “the room has answered. But remember the distinction: a system's response tells you about the resonator, not the source. The vibrating spoon proves your kitchen is coupled; it does not tell you who is playing the bass, or why. Never mistake the instrument's compliance for the origin of the disturbance.”
+“If the spoon moves,” Rune said, “the room has answered. But remember the distinction, ladies and gentlemen: a system's response tells you about the resonator, not the source. The vibrating spoon proves your kitchen is coupled; it does not tell you who is playing the bass, or why. Never mistake the instrument's compliance for the origin of the disturbance.”
 
-For a moment, silence held, enormous and clean. Within it, David felt the lecture give itself back to him.
+For a moment, silence held, enormous and clean. Within it, David felt the lecture give itself back to him. He took a deep breath and felt his hand steady. The room, the board, the waiting faces, all of it returned in one piece.
 
-Rune dusted his fingertips against a dark handkerchief. “Take your chalk, Professor Lang, before I steal the remainder of your hour.”
+“Well,” he said, stepping back into the light. “That is the first time anyone has used domestic irritation to improve quantum dynamics.”
 
-“Thank you, Rune.”
+The laugh came hard, with genuine relief buried inside it.
 
-Rune walked up the center aisle. At the threshold in the back of the hall, he paused long enough to look back once. Warning, permission, and the quiet knowledge that David had been seen passed between them in a single glance. Then the door closed, and he was gone.
+For the first time since entering the room, the academic surface of Rune's expression loosened, revealing a brief, sharp humanity.
 
-David turned back to the boards, drawing a steady breath.
+“Do you know, I once tried my hand at bass guitar, would you believe that, Professor Lang?”
+
+David turned to the class for the obvious consensus. “I fear no one alive would believe that of Dr. Ishikawa. Sorry, sir.”
+
+Rune shrugged and smiled generously toward the students with the additional grace of a slight bow that signaled the end of his time in the well.
+
+“Professor Lang,” he said, “great thanks for allowing me to jump into the playground for just a moment. Take this chalk from me before I steal the remainder of your lecture hour.”
+
+“Always a pleasure to be taken to places we did not pack for by the great Doctor Ish.”
+
+Rune turned with feigned incredulity. “Dr. Ish, eh?” The room giggled under their breath. “Let’s not make that one a habit, Lang.”
+
+“Certainly not, sir.”
+
+“Good, now… off you go. I believe Professor Lang had you angled toward much more difficult terrain. Enjoy the climb, folks.”
+
+And with that, Rune pivoted and floated down the aisle toward the exit. At the threshold in the back of the hall, he paused long enough to look back once.
+
+Warning, permission, and the quiet, terrible knowledge that David had been seen passed between them in a single glance. Then he was gone.
+
+David turned slowly back to the boards, considered the clean line Rune had left beneath his question, before addressing the room.
+
+“Unfortunately for all of us, Dr. Ishikawa is correct.”
+
+The room was his again, and having recovered it in public, he could hardly surrender it now.
 
 The projector controls waited beside the lectern. At his touch, the machine whirred awake and the first slide flickered onto the screen with a harsh blue glare.
 
-“Now,” he said, “this is a section from the Lang-Feldman Diagram. It maps the overlap between psychoacoustics and neural patterning in recursive feedback loops.”
+“Now,” he said, “this is a section from the Lang-Feldman Diagram. It maps the overlap between psychoacoustics and neural patterning in recursive feedback loops. Or at least it did before someone rewrote the grant proposal as a sound art initiative.”
 
-He clicked forward. A complex waveform graph. Another click brought up an anatomical rendering of the cochlea, stark and biological.
+He clicked forward.
+
+A complex waveform graph.
+
+Another click brought up an anatomical rendering of the cochlea, stark and biological.
 
 The next image filled the screen without transition.
 
@@ -190,73 +240,121 @@ David knew the image before his conscious mind could reject it. The fog. The gra
 
 Her voice returned with the cold clarity of that night: If it's real, it’ll claw its way out. It will come back to us.
 
-At the time, she had meant it as encouragement. It returned now as pure menace.
+At the time, she had meant it as encouragement, a tether against the dark. But it returned to David now as pure, unadulterated menace.
 
-The hum pressed deeper beneath his sternum. His lungs stalled. Both hands gripped the projector cart, holding fast to the cold metal edge while memory continued without consent: the year they made the agreement, the sealed case below them in the dark, the heavy weight of earth falling back into the hole.
+The hum pressed deeper beneath his sternum. His lungs stalled entirely. Both hands found the projector cart and held there, fixed around the cold metal edge while the memory continued without his consent: the year they made the agreement, the sealed case below them in the dark, the heavy weight of earth falling back into the hole.
 
 “My apologies,” he said, his voice thinning out. “Wrong… wrong file.”
 
-David fumbled for the remote, his palm slick against the plastic, until intention finally navigated circuit and signal. The projector went dark.
+David reached for the power button, though by then the internal negotiation between composure and circumstance had already begun to fail. The remote bobbled against his palm before intention finally navigated the machinery of circuit and signal, and at last, the projector went dark.
 
-The hill, the ruin, and the terminal cold of that evening remained etched into his retinas, a persistent afterimage. He crossed to the slate board and laid his fingertips against the dark stone.
+He had occupied the image so completely that its withdrawal supplied no immediate relief. The hill, the ruin, and the terminal cold of that evening remained etched into his retinas, a persistent afterimage that his nervous system began frantically to blink away. For one suspended interval, the room tilted toward vertigo.
 
-As they dragged through chalk dust, the hum dropped out so completely that the lecture hall seemed to fall with it. In the sudden absence, there remained only the dry drag of chalk and the impossible sense of a string answering somewhere beyond hearing.
+The slate board offered a hint of protection, chalk dust and the possibility of an ordinary next action. So David crossed toward it and laid his fingertips against the dark stone.
+
+As they dragged through the dust, the hum dissolved, dropping out so completely that the lecture hall seemed to fall with it. In the sudden absence, there remained only the dry movement of chalk and the impossible sense of a string answering somewhere beyond the wall of sound.
 
 “Professor?”
 
+Nothing. There was no one to look to.
+
 “Professor Lang.”
 
-Rebecca was out of her seat, moving past the benches down to the well.
+Rebecca's voice was there, but it could not break this tether. She got up and began to move past the others in the row, making her way down to the well.
 
 By then, the chalk was in his right hand again.
 
-His wrist lowered beneath the equation, its instruction coming from elsewhere. Notation formed beneath it, crossed itself out, and resolved into terms he could follow only in fragments. The hand continued long enough to write:
+His wrist lowered beneath the equation, its physical instruction coming from elsewhere. Notation formed beneath it, crossed itself out, and resolved into terms he could follow only in fragments. The hand paused once, then continued long enough to write:
 
   $$\left[ -\frac{\hbar^2}{2m}\nabla^2 + V(x) \right] \Psi = E\Psi$$
 
-The room compressed into an intolerable pressure. Sound left his hearing entirely; a deep chamber of vacuum engulfed his head.
+Then nothing, as the room compressed all the while into an impossible tension.
+
+And nothing, even still. For David, sound had been removed from his hearing completely; a pressurized, deep chamber of nothing engulfed his head.
 
 He turned slightly to witness his own left hand raised behind him, palm open, reaching for help in spite of himself.
 
-“David?” Rebecca reached the well, one hand lifting toward his sleeve.
+“David?”
 
-In that instant, the side door opened.
+Rebecca came around the end of the first bench, one hand lifting toward his sleeve. Though he could not speak, nor pull himself away, his eyes and the terror glassed within them, told Rebecca exactly what she must do.
 
-Professor Roger Linn stood in the threshold, his violin case in one hand, his overcoat unbuttoned, carrying an atmospheric calm that immediately reversed the momentum of the room. He took in the students, looked to David and the slate boards, and stepped into the well.
+She moved to grab his hand, but in that instant, the door at the side of the well opened widely and shattered the silent pressure of the room.
 
-“Rebecca,” Roger said gently. “Give him some room.”
+Professor Roger Linn stood in the threshold, his violin case in one hand, his coat still unbuttoned, carrying a brand of atmospheric calm that immediately reversed momentum. He took in the array of student faces, looked to David and the boards, then glanced back into the unseen corridor where his eyes locked with Dr. Ishikawa, unseen behind the threshold, before the door released and Roger alone took over the space. He moved toward the well.
 
-Her hand lowered, her eyes still fixed on David.
+“Rebecca, right?” Roger said, his voice easy, practiced. “Let’s just… let’s give Professor Lang some room, yeah?”
 
-Roger set the violin case flat on the oak desk, then turned to the tiered benches.
+Her hand lowered, although her face remained fixed on David.
 
-“That's all for today, everyone. Take your coats and bags. Professor Lang needs the room.”
+Roger set the violin case beside the desk. It tipped against a trash can, forcing him to catch it before it fell. After placing it flat, he pulled out his phone and sent a silent SOS to Naomi Feld, then turned toward the students.
 
-His voice carried the quiet, unquestioned authority of a master musician commanding an orchestra. A few students hesitated; two phones were raised toward the board.
+“Folks, I'm sorry. We’re going to call that the end of class for today. Alright. Professor Lang is urgently needed, and he and I need the room for a minute. Okay? Nothing to worry about. Just one of those…” and he was vamping now, “... important science issues.”
 
-“Phones away, please,” Roger said, his tone dropping half an octave. “Right now. Out you go.”
+He instantly winced at the idiotic attempt. “Yes, thank you... and take your things with you, please. You can get the lecture notes online tonight, or tomorrow.”
 
-Benches creaked. Bags zipped. Within thirty seconds, the students were filing up the stairs into the corridor.
+No one moved at first. Roger scanned the room to find no less than three phones raised and pointed toward the front.
 
-Rebecca lingered near the desk, trembling. “Professor Linn, should someone call health services?”
+“Folks! Guys… the phones. Please. Let's have some respect here, please. This is a private matter. Put them down.” The students did not comply with any speed Roger could track. “Mr. Formier. Ms. Kapperell. Do it now, please.”
 
-“Not yet,” Roger said softly. “Go with them, Rebecca. I know him. I’ve got this.”
+The phones disappeared with reluctant speed.
 
-Naomi Feld entered through the back doors, scarf caught in her collar, her hair loosened by the run. One glance at Roger was all she needed. She stepped beside Rebecca, looped an arm around the young woman's shoulders, and guided her into the corridor. The door clicked shut behind them.
+Bags opened. Coats came up from the benches, slowly at first, then with the contagious haste of people who had been given permission to understand that something was profoundly wrong.
 
-David stood frozen before the boards, his chalk hand suspended.
+As the last student emptied to the back of the hall, Roger turned back to David, only to be surprised to find Rebecca exactly where he had left her near the front.
 
-Roger moved to his side. “David.”
+“Professor Linn, I can stay,” she said.
+
+“I know. And I appreciate all of your help. So does Professor Lang, I'm sure. But, Rebecca, I need you to go with them. This is just as much about your safety as it is for Professor Lang. Do you understand?”
+
+“Should someone call campus health?”
+
+Roger looked toward David and the board. “I don't know yet, but it's not for you to worry about. I have this.”
+
+Rebecca did not move, unconvinced by Roger's gentle attempt. “I just want to make sure when he comes out of this that there's a familiar face there for him. Do you know him, Professor Linn?”
+
+Roger smiled, a tired, ancient thing. “Nearly my whole life, I'm afraid.”
+
+Rebecca's shoulders seemed to level out in reassurance.
+
+Naomi, having just pressed through the outgoing traffic of students at the back hall, dashed through the door and into the room, her scarf caught under her coat collar and her hair loosened by the run. Whatever she had intended to say disappeared when she saw Rebecca still in the room. One glance at Roger was all she needed. And before another was taken, she had pulled up in the front of the room, arm around Rebecca, pulling her gently away and out the nearest exit.
+
+“He's been doing that for… he won't answer me.”
+
+Naomi looked at the writing and David, then back to the terrified TA. “Come outside with me, okay.”
+
+“But he really needs—”
+
+“I know. I know, and we are going to get him all the help he needs, okay? Promise. Now, come on. Come with me.”
+
+Rebecca allowed herself to be led as far as the door. There, she turned back.
+
+“Professor Lang?”
+
+The chalk continued moving in a jerky, mechanical cadence.
+
+“David?”
+
+Naomi pressed Rebecca into the corridor and closed the door behind them.
+
+Roger, now having spent the last ninety seconds trying to figure out what to do, or say, had nothing but, “David.”
 
 The chalk crossed through one line and began another.
 
-“Dave, can you hear me?” Roger lifted a hand toward David's shoulder, then let it fall away. There were too many years between them for ordinary instructions.
+Closer now, Roger tried again. “David. Dave, can you hear… I need you to—”
 
-Roger closed his eyes, steadying his breath. When he opened them, he spoke close to David's ear:
+The sentence failed him.
 
-“Open C.”
+He lifted his hand and arm toward David's shoulder, but he stopped short and let it fall away. There were too many years between them for the usual instructions to be useful.
+
+Look at me. Sit down. Tell me where you are.
+
+All of them required David to be somewhere he could actually answer from.
+
+Roger closed his eyes, let the tension of his mind and the moment ease just enough to see a path through the static. When he opened them, he moved close to David's side and said softly, “Open C.”
 
 David's hand twitched against the slate.
+
+Roger saw the opening and tried to step into it further.
 
 “Come on, Davey. Open C. Let the house hear you first.”
 
@@ -264,107 +362,277 @@ Arthur's hand resting heavily on the piano lid. Winter light cutting across the 
 
 Let the house hear you first.
 
-David's hand slowed. An exhale broke with sudden force from his mouth. As his arm fell to his side, the chalk snapped between his fingers, white pieces scattering across the ledge.
+The beginning of music, in the safest room David or Roger had ever known, before either of them understood that safety had an expiration date.
 
-The lecture hall returned without sequence: slate inches from his face, the dead projector screen, rows of empty benches. Behind him stood Roger, one hand half-raised.
+David's hand slowed, the writing stopped, and an exhale flowed with sudden force from his mouth. As his arm fell to his side, the chalk broke between his fingers, the white pieces scattering across the ledge.
 
-David turned too quickly. His heel struck the lectern, his palm slapping the wood to catch himself. Disorientation turned to dread, then to an emptied-out sorrow he could not stem.
+The lecture hall returned without sequence: slate inches from his face, the dead projector screen, rows of empty benches.
 
-“Why did you… why did you say that?” Hot tears spilled down his cheeks.
+Behind him stood Roger, one hand half-raised as though he had been caught reaching toward a flame.
 
-Roger recoiled gently. “You weren't answering. Rebecca tried, I tried, and you just kept writing. I thought if I said something from before, you might—”
+David turned too quickly. His heel struck the heavy oak lectern, whose edge came hard against his palm as he caught himself. Disorientation turned to confusion, then fear, then dread and a sudden emptied-out sorrow David could not at first understand.
 
-“Where are my students?”
+“What did you… what is…” and he began to process the wreckage of the moment. “Why did you… why did you say that?” Tears overtook his lids and rolled hot down David's cheeks.
 
-“Gone. I sent them away. Naomi took Rebecca out.”
+Roger recoiled as if struck. “I don’t know. I'm sorry. You weren't answering—Rebecca tried, I tried—and you just kept writing. I thought if I said something you knew, something from before, you might—”
 
-David looked past Roger to the boards, seeing for the first time what his hand had produced.
+His breath caught around the rest of the thought.
+
+“I didn't think where it would lead...”
+
+The fear in Roger's face reached him a moment after the words did, and suddenly David understood the full weight of it.
+
+“No,” he said, his voice cracking. “No, Roger, it's okay. I'm… that isn't what…”
+
+David looked from the empty benches to the chalk dust on his hand, then forced his attention back to Roger.
+
+“What the hell is going on? What just happened?”
+
+Roger tried to delay the story of it, shielding him with silence.
+
+“No, Roger. Roger, what the hell is going on? Where the fuck are my…”
+
+The apology remained heavy in Roger's posture. “You were teaching. Something… something happened and you—” his eyes moved past David to the boards.
+
+David’s eyes followed, and for the first time, he saw what his hand had produced without his permission.
 
 “How long?”
 
-“Five minutes. Maybe more.”
+“I don't know. Five minutes. Maybe more.”
+
+“That's not an answer, Roger.”
+
+“Dave, it's the only one I have.”
+
+“My class?”
+
+“Gone. I sent them away. Naomi took Rebecca out. There was a phone or two, but I think I stopped them.”
+
+“You think.”
+
+“David, I was looking at you. I was concerned about you. I can't be sure. I just…”
 
 Arthur's hand remained behind his eyes: the pale cuff, the rise of a vein across the knuckles, the small downward motion that had once been permission to begin.
 
-The lectern received David's weight as he bent double over it. The first sob broke through him before he could stop it. Both hands covered his face, chalk smearing beneath his eyes and turning wet against his palms.
+The lectern received David's weight as he bent double over it.
 
-Roger's hand touched his shoulder, steady and warm. This time David did not pull away.
+Roger shifted nearer, then stopped himself, paralyzed by uselessness. “Are you going to be sick?”
 
-The door unclasped and Naomi returned, closing it softly behind her. She looked up at the chalkboards, then at David bent against the lectern.
+David shook his head, unable to speak past the blockage in his throat.
 
-“I don't remember writing any of it,” David whispered.
+The first sob broke through him before he could decide what answer would have been less humiliating.
 
-“It's okay,” Naomi said, stepping into his line of sight. “Drink this.”
+Both hands covered his face. Chalk smeared beneath his eyes and turned wet against his palms. He had wept at funerals with order and timing and a handkerchief folded afterward into neat quarters.
 
-She handed him a paper cup of water, then took a clean handkerchief from her coat pocket and laid it beside his hand.
+This had no order. It came straight out of him in the hollow well of the lecture hall, where the acoustics were designed to carry every broken frequency.
 
-David drank, then pressed the linen beneath his eyes. “We have to get out of this room.”
+Roger's hand touched his shoulder, tentative as a ghost.
 
-“Yes,” Roger said, picking up his violin case. “Before someone comes back with a question.”
+David flinched, and the hand vanished at once.
 
-They entered the corridor together. Feynman Hall had resumed its indifferent pace: students with coffee, wet boots, the hum of the drinking fountain, and radiator heat moving through hollow walls.
+“I'm sorry,” Roger whispered.
 
-At the outside doors, snow moved across the open quad in thin, sideways lines.
+“Would you stop apologizing?”
 
-“We rehearse at six,” Roger said.
+“I'd be delighted.” Roger's voice began to catch around the edges. “Tell me what else to do. David... please. I'm here. What do you need?”
 
-“Six,” David repeated. “I'll be there.”
+David tried to answer, but no words escaped the catches of breath and tears.
 
-Naomi and Roger watched him for a beat, then turned toward Lincoln Hall. David waited until the snow blurred their silhouettes into the gray traffic of the quad.
+The silence between them was finally detonated by the unclasping of the door as Naomi rushed back in to find David bent against the lectern and Roger beside him, his hands held uselessly away from his body. After taking in the arrangement, she closed the heavy door behind her with a soft click.
+
+“What happened?”
+
+“I got him to answer,” Roger said, his voice hollow. “I used something Arthur used to say to us when we were boys. I think it—”
+
+Naomi slowly looked up at the chalkboards, then back to David, with the clear intent to extract something from him.
+
+David hadn’t moved his eyes from the chalkboards for some time. “I don't remember writing any of it.”
+
+“It's okay. Alright, you're okay. David, it’s fine,” she said, stepping into his line of sight.
+
+David looked shyly at her, a bitter smile pressed through tears. “Didn’t we establish earlier that I am not fine?”
+
+“Well, the day has taken us to special places.”
+
+“Seems you were nearby after all.”
+
+“Told you I would be.” She turned to Roger. “Can you get us some water, Roger?”
+
+The instruction gave Roger somewhere useful to go. He returned from the corridor carrying a paper cup filled to the lip, water slipping over his fingers and darkening his wool cuff.
+
+“I… I’m afraid I misjudged the fountain.”
+
+David looked at the sad little cup. “A difficult instrument.”
+
+“Well, apparently.”
+
+David took the cup before Roger could spill more of it across the lectern. After drinking, he wiped his face with his sleeve and discovered chalk there when he lowered it.
+
+From her coat pocket, Naomi removed a clean handkerchief and laid it quietly beside his hand.
+
+She did not tell him to use it.
+
+After a moment, he did.
+
+They waited while his breathing found a rhythm none of them trusted. Footsteps passed in the corridor outside. Each time, Naomi's attention shifted toward the door and Roger's toward David, both of them pretending afterward that they had done nothing of the kind.
+
+“We have to get you out of this room,” Naomi said gently.
+
+“Yes,” David pressed the handkerchief beneath one eye. “Before someone returns with a question.”
+
+Roger went to retrieve his violin case from the trash can. “Can you walk?”
+
+“That depends. Are you asking whether I'm ambulatory or whether I can do it without an audience?”
+
+“The first one.”
+
+With one palm flat against the wood of the lectern, David pushed himself upright. “Then yes, I think I’m up for it.”
+
+They entered the corridor together.
+
+Feynman Hall had resumed its ordinary, indifferent pace. Students moved past with coffee, wet boots, and headphones, their laughter cut short by heavy doorways. A pair of undergraduates glanced at David's chalked sleeve before looking away, embarrassed. Another student recognized Roger and gave a startled nod to the violin case.
+
+David listened for his own name whispered in the wake.
+
+Instead, he heard the low hum of the drinking fountain, a printer grinding away somewhere nearby, and the old building's heat moving through the hollow walls.
+
+Roger shifted the violin case in his hand. “I'll walk with you.”
+
+“No. No, I don't need the fuss. Certainly not out here.”
+
+“Okay. All right.”
+
+The immediate surrender unsettled David more than an argument would have. He adjusted the heavy leather satchel on his shoulder, missing the strap on the first attempt before catching it on the second.
+
+Both Roger and Naomi lunged forward to assist, the dual gestures causing both of them to freeze midway before David looked up to see them.
+
+“Look you two,” he said, his voice flat. “The freezing professor trick is mine, got that?”
+
+It was enough proof of life for them both to let out a short lease, Roger shaking his head with a hidden amusement as he withdrew.
+
+At the outside doors, the cold brightened the glass. Snow had begun to move across the open quad in thin, sideways lines.
+
+“I can manage from here,” David said.
+
+Neither Naomi nor Roger moved past him.
+
+“We rehearse at six, yeah,” Roger said.
+
+“Yeah.”
+
+“At six,” Naomi added.
+
+“Yes, thank you. I'm still capable of reading a calendar, provided my nervous system refrains from another public demonstration.”
+
+“Six,” Roger repeated.
+
+David adjusted his cuff and found chalk all the way to the wrist. “Go. Both of you. I think I've spent enough of my emergency friendship fund for one afternoon.”
+
+Naomi looked as though she might answer. Roger gave a faint shake of his head, and together they turned toward Lincoln Hall.
+
+David watched them go.
+
+Naomi said something too low for him to hear. Roger angled his head toward her, listening, while their shoulders drew closer, and their silhouettes slowly dissolved into the snow-filled afternoon.
+
+Behind David, the lecture hall remained exactly as he had left it.
+
+The board was still there.
+
+Five unaccounted-for minutes of his life remained written across it in a hand anyone could recognize.
+
+He waited until the snow began to blur Roger and Naomi into the gray traffic of the quad.
 
 Then he turned back.
 
-He walked down the silent corridor and re-entered the lecture hall. The abandoned warmth of the room closed around him.
+Through the outside doors, down the silent corridor, and into the lecture hall, he followed the pressure of the board without allowing himself the dignity of reconsideration. The abandoned warmth of the room closed around him. Chalk dust had settled across the front desk and projector cart.
 
-Every panel of slate remained crowded. David took the eraser. At the first stroke, chalk burst into the air like smoke. Equations broke beneath his hand. Rune's clean notation disappeared by layers, followed by David's own equations, and then by the lines he could neither claim nor explain.
+Every panel of slate remained crowded. David took the eraser. At the first hard stroke, chalk burst into the air like smoke. Equations broke beneath his hand. Arrows dissolved into grey smudges.
+
+Rune's clean notation disappeared by layers, followed by David's own equations and then by the lines he could neither claim nor deny. Dust climbed his sleeves, entered the creases of his palms, and gathered along the leather of his shoes.
 
 He erased until the board gave back only smears.
 
-The final words remained:
+The final words remained.
 
 RESONANCE=SURVIVAL
 
-For several seconds, he allowed them to stand alone in the quiet. Then the eraser struck again, grinding into the slate until only a pale scar remained.
+For several seconds, he allowed them to stand alone in the quiet. Then the eraser struck again.
 
-The eraser fell into the tray.
+He drove it across the sentence harder than required, grinding the chalk into the slate until only a pale, scarred mark remained where the words had been.
 
-Where had the Polaroid come from? The slide deck was his, locked with a private key. He had built it himself.
+The eraser fell heavily into the tray. Only after the evidence was gone did the obvious question arrive.
 
-He grabbed his satchel, pushed through the heavy doors, and broke into the winter air.
+Where the hell had the Polaroid come from?
+
+The slide deck was his. The file was locked with a private key. He had built the thing himself and knew every digital image in it.
+
+Anger gave him enough physical weight to find the satchel, the door, and the corridor. It carried him through the building with his coat still open and chalk on both hands.
 
 *   *   *
 
-Snow drove sideways across the quad. A flake touched the back of his wrist and vanished against the white chalk dust already there.
+Snow met him at the threshold, driven sideways through the darkening air. A flake touched the back of his wrist and vanished against the white dust already there.
 
-Then the number returned: 68.48 Hz. A little more than twenty cents flat of C-sharp two. Numerically, almost exactly half the inverse fine-structure constant.
+Then the number returned: 68.48 Hz. It was not even a clean pitch. A little more than twenty cents flat of C-sharp two. Numerically, almost exactly half the inverse fine-structure constant.
 
-Beneath the distant bell tower, the vibration rose through the soles of his shoes, passing upward through his shins and sternum until his molars began to ache in their sockets.
+Jesus, Lang. Don't do that.
 
-“No,” he said aloud.
+Beneath the hum of the ventilation and the distant bell tower, something moved through the soles of his shoes.
 
-The vibration held. It gathered somewhere ahead of him in the quad, directional now, tightening inside his ear until David could feel where it wanted him to go.
+The buzz came back at full pressure.
 
-His refusal bought less than a second. His feet shifted toward the pull. With each step, the resonance thickened in his chest. Sight abandoned to the storm, he crossed the open ground guided by the pressure in his bones.
+David staggered mid-step, one shoe sliding before the other caught beneath him. The frequency entered through bone, bypassing the ear to pass upward through his shins and sternum until his teeth began to ache in their sockets.
+
+“No,” he said.
+
+The word escaped louder than intended, but the vibration held. It gathered somewhere ahead of him in the quad, directional now, tightening inside his ear until David could feel where it wanted him to go without understanding how.
+
+“No.”
+
+His refusal bought less than a second.
+
+After that, one foot shifted toward the pressure. With each step, the resonance thickened in his chest.
+
+His molars ached first. Then the frequency climbed through his jawbone and into the sinuses, entering the hollow spaces behind his eyes. Snow was covering the path now as quickly as it fell, and within several yards the quad had lost its familiar boundaries. David crossed the open ground guided by the pressure in his bones, sight abandoned to the storm.
 
 Ten feet. Twenty. Thirty into the quad.
 
 His shin struck iron.
 
-The bench materialized out of swirling snow: green paint weathered to gray-green, armrests pocked with rust, east-facing, twenty-eight feet off the main path.
+The bench materialized out of the swirling snow. Green paint weathered to gray-green, armrests pocked with rust, east-facing, twenty-eight feet off the main path.
 
-The hum was coming from below. Six feet down in the frozen clay.
+The hum was coming from beneath. Below. Six feet down. Where the sealed case had been put to ground, held in the deep by dirt and clay and the collective certainty that some knowledge should remain unknown.
 
-David stood there, chest heaving, staring through the weathered slats to the ground beneath. He had passed this bench four thousand times without incident. He had trained himself not to look. Semester after semester, he had become a man by walking past what he had buried.
+David stood there, chest heaving, staring down at the iron armrest, through the weathered slats, to the frozen ground beneath.
+
+He had passed this bench four thousand times without incident. Worse, he had trained himself not to look. Day after day, semester after semester, he had become a man by walking past what he had buried.
 
 Until today.
 
-The hum compressed into his skull. He pressed both palms over his ears, but the sound had never needed air; it traveled through stone, soil, and bone. Pressure gathered behind his teeth until the frequency seemed to be asking for his mouth.
+Now the hum compressed deeper into his skull.
+
+David pressed both palms over his ears, though some part of him already understood the uselessness of the gesture. The sound had never needed air. It had come through stone, soil, pipework, and bone.
+
+His body tried to answer it.
+
+His throat opened. No sound emerged.
+
+Pressure gathered behind his teeth and beneath his tongue until the frequency seemed to be asking for his mouth.
 
 David locked his jaw.
 
-The bench gave a microscopic shudder. The answering pulse came straight through the soles of his shoes.
+The bench trembled once, a microscopic shudder.
 
-He took one step back, then another, his body remembering walking as an argument made one refusal at a time.
+No snow fell from it. Nothing moved that another person crossing the quad would have seen.
+
+The answering pulse came straight through the soles of his shoes.
+
+One backward step put no distance between them. The pressure followed, holding its place inside his chest while his balance shifted beneath it.
+
+For several seconds, David remained bent forward in the snow, unable to breathe properly and refusing with whatever muscles were still available to him.
+
+Then he turned.
+
+The first step away nearly dropped him. The second came harder. By the third, his body had remembered walking as an argument made one refusal at a time.
 
 Behind him, beneath the bench and frozen earth, the sealed case remained.
 
