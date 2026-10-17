@@ -8,79 +8,95 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,238
-Paragraph Count: 311
+Word Count:      6,283
+Paragraph Count: 319
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-The lecture hall was tall. Very tall. Its glass-encased design felt more suited to a botanical conservatory or a bakehouse than a room meant for the transmission of linear physics. Narrow windows ran from floor to ceiling along the rear wall, overlooking the glacier-carved canyons of East Hill, their angled panes breaking the winter daylight into hard, unsparing fragments. The light never arrived cleanly here; it only fractured, casting long, geometric ghosts across the rows of empty seats.
+The lecture hall, always five degrees too warm, was a tall, quiet expanse of yellows and browns whose two rear walls had been given over almost entirely to banks of improbably narrow, impossibly tall windows that overlooked the glacier-carved canyons of East Hill. Their right-angled panes divided the winter daylight into long geometric shards across the concrete tiers, so that light never seemed to arrive cleanly here. Only fractured, and false.
 
-Beside the door, a brushed-metal plaque praised the room's “unique ornamentation” and claimed it had been designed to “soothe the psyche and elicit heightened states of mental acuity.”
+A brushed-metal plaque beside the door praised the room’s design, touting the “unique ornamentation’s” ability to “soothe the psyche and elicit heightened states of mental acuity.”
 
-They said the exact same things about heroin for a hundred years.
+They had said substantially the same thing about heroin for nearly a hundred years.
 
-As David made his way down the incline toward the lectern and the massive slate boards beyond, he counted heads. It did not take long, as there were only twenty-seven bodies occupying the benches. Twenty-seven souls, culled from a roster of sixty-three names that looked more like an abandoned census than a class manifest.
+David had taught in the room since 2005, which meant that by now he knew its habits almost as well as his own: the hot pocket beneath the western windows, the third-row desk that rocked on one short leg, the peculiar acoustic dead spot near the rear doors, and the reliable tendency of sixty-three registered students to become considerably fewer once attendance ceased contributing meaningfully to a grade.
 
-After setting his satchel on the scarred oak desk, he glanced down the ledger, then back toward the huddled semicircle of students.
+This morning there were twenty-seven.
 
-“My,” he said, his voice dry as parchment. “A full house, I see.”
+David counted them while making his way down the incline toward the lectern and, with the practiced pessimism of long experience, immediately revised that number to thirteen who appeared present in any useful sense.
 
-No one answered. The silence had a distinct texture here, dense with cold air and the damp wool of coats.
+A young woman in the fourth row was drawing elaborate mollusk shells in the margin of her notebook, each chamber curling recursively into the next with enough geometric discipline that, viewed from a distance, the thing bore an accidental resemblance to the mathematics David intended to teach. She was not among the thirteen. Her attentiveness, he decided, was circumstantial at best.
 
-“Hmm… Well, let me make sure we're all in the right place. This is…” One finger traveled down the page in a brief, unconvincing performance of academic uncertainty. “... Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork are in active conspiracy.”
+He set his satchel on the scarred oak desk, glanced down the roster, then back toward the scattered semicircle of coats, notebooks and insufficiently caffeinated young adults.
 
-A few bags shifted. Someone closed a laptop with a sharp plastic snap.
+“My,” he said. “A full house, I see.”
 
-“And I am…” He consulted the roster again, allowing the front row into the performance. “David Lang. Feynman Chair of Quantum Dynamics. A grand title, I know. And aren’t you lucky. My specialty and the class focus are uncommonly aligned.”
+Nothing.
 
-A few faces lifted, caught between suspicion and amusement.
+“Hmm. Well, let’s make sure we’re all in the right place. This is…” He ran a finger down the page in a brief and wholly unconvincing performance of academic uncertainty. “…Introduction to Quantum Dynamics. Excellent. Always reassuring when the room and the paperwork are in active conspiracy.”
 
-“If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating this early in the semester, then by all means, go find some lunch.” He indicated the door with a stylish, dismissive flick of his pen. “Otherwise, remain with us and starve on science and superposition.”
+A few bags shifted, and somewhere in the upper rows a laptop snapped shut.
 
-The laugh was small but genuine, a brief thaw that loosened the room and returned some portion of the authority David had misplaced somewhere between the quad and the door.
+“And I am…” He consulted the roster again, allowing the front row into the performance. “David Lang. Feynman Chair of Quantum Dynamics. A grand title, I know, and aren’t you lucky: my specialty and the class focus are uncommonly aligned.”
 
-“Alright, let's jump right back into all of this. Shall we?” He moved to the boards, grabbed a half-length of chalk, and rolled it through his fingers, feeling the dry dust coat his prints. “Causality,” he said, writing the word in sharp, precise capitals. “The old human narcotic.”
+A few faces lifted now, caught between suspicion and amusement.
 
-Beneath it, he wrote:
+“If this is not your intended destination, or if my tenured and faintly immortalized presence strikes you as too intimidating this early in the morning, then by all means go find some breakfast.” He indicated the door with a dismissive flick of his pen. “Otherwise, remain with us and starve on science and superposition.”
 
-  $$\Psi(x, t) = \sum c_i \phi_i(x) e^{-iE_i t / \hbar}$$
+The laugh was small but genuine, which was all he needed.
 
-“This is the whole wave function.” The chalk touched the Greek psi. “Everything the system could possibly become, gathered into one sprawling, unobserved description. We call it probability because the alternative would be admitting that we do not entirely know what reality is before we look at it.”
+“Alright. Let’s get back into it, shall we?”
 
-A few students smiled, recognizing the trap.
+David crossed to the boards, took a half-length of chalk from the tray and rolled it once between his fingers before writing a single word in the clean, compressed capitals generations of students had learned to recognize from the rear of the room.
+
+CAUSALITY.
+
+He turned over his shoulder with a grin. “The old human narcotic.”
+
+Beneath it he wrote:
+
+  $$\Psi(x,t)=\sum_i c_i\phi_i(x)e^{-iE_i t/\hbar}$$
+
+“This is the whole wave function: everything the system could possibly become gathered into one sprawling, unobserved description. We call it probability because the alternative requires admitting that we do not entirely know what reality is before we look at it.”
+
+Several students smiled.
 
 “I have always preferred the admission.”
 
-He moved aside to give them the equation. “Before measurement, possibility has structure. More than one future remains available, each waiting for the discourtesy of contact. Once you interact with the system—once you look—most of what could have happened simply evaporates. What remains is the history we spend the rest of our lives pretending was inevitable.”
+He stepped aside to give them the equation.
 
-This time the laugh traveled farther, rippling up the concrete tiers. The old academic register returned, dry and occasionally lethal. Its terrifying ease unsettled him. Even his own competence had begun lying on his behalf, maintaining a polite, functional facade while the interior mechanics came loose.
+“Before measurement, possibility has structure. More than one future remains available, each awaiting the discourtesy of contact. Once you interact with the system—once you look—most of what might have happened is lost, and what remains becomes the history we spend the rest of our lives pretending was inevitable.”
 
-At the chalk box, his fingers closed around the rough cardboard edge. Pain shot through them, sudden and familiar, carrying with it the expectation that the hand would go slack again. For one second he waited over the open box, unwilling to look directly at the rebellious limb and equally unwilling to let the class see him test it. Nothing followed. The hand held.
+The response traveled farther this time, delayed just long enough for David to know that at least some of them had followed him there.
 
 “Now we complicate the picture.”
 
-Beneath the wave function, he wrote:
+Beneath the wave function he wrote:
 
-  $$K(b,a) = \int \mathcal{D}[x(t)] e^{\frac{i}{\hbar} S[x(t)]}$$
+  $$K(b,a)=\int \mathcal D[x(t)]e^{\frac{i}{\hbar}S[x(t)]}$$
 
-“This is the sum over histories—every possible way of getting from the beginning to the end. The paths contribute amplitudes. Some reinforce. Some cancel. What we call reality is, more or less, whatever survives the argument.”
+“Now, this is the sum over histories. Every possible way of getting from the beginning to the end contributes an amplitude. Some reinforce, some cancel, and what we call reality is, more or less, whatever survives the argument.”
 
-Dust hung in the slant of cold light between David and the benches. The chalk hovered at the end of the equation, a white stub growing smaller against his skin.
+He let them copy it while he moved down the board, watching heads dip toward notebooks and screens before turning back to the slate.
 
-Without consciously deciding to, he added beneath it:
+Without having planned to, he wrote:
 
-  $$\chi_{AB}(\omega) = \int_{-\infty}^{\infty} R_{AB}(t) e^{i\omega t} dt$$
+  $$\chi_{AB}(\omega)=\int_{-\infty}^{\infty}R_{AB}(t)e^{i\omega t}\,dt$$
 
-The symbol remained there, glaring against the slate.
+David regarded the expression for a moment.
 
-He had written pure noise into the equation, and the room waited for him to explain why, expecting another brilliant, eccentric aside.
+There was nothing wrong with it. The problem was that it had no business being there.
 
-“And if the system admits noise,” he said.
+He searched backward through the lecture as he had intended to give it, trying to locate whatever turn in the argument might have brought him from the sum over histories to susceptibility, but the transition simply did not exist. Behind him, twenty-seven students waited with the patient confidence that Professor Lang would shortly explain what Professor Lang had just done.
 
-The rest of the thought melted away as the buzz came roaring back. And for the first time, he knew its exact number: 68.48 Hz.
+“And if the system admits…”
+
+He was about to say noise, although he did not know why. But before the word left his mouth, the very noise he must have meant came roaring back at him. It was the buzz that had stopped him in the quad earlier, only now he knew its number.
+
+68.48 Hz.
 
 The figure arrived in his mind with impossible authority, fully formed, calibrated elsewhere and inserted directly behind his eyes. A frequency beneath speech, beneath thought, too low to belong to the lecture hall and too precise to be imagined.
 
