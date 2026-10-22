@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 21 · Scene 4: 21.4  Around The Horn</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="21">
+<meta name="scene" content="4">
+<meta name="scene-count" content="7">
+<meta name="word-count" content="1565">
+<meta name="paragraph-count" content="82">
+
+<!-- Reader Settings (Anti-Flicker) -->
+<script>
+(function() {
+    var theme = localStorage.getItem('st-theme');
+    if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+    }
+    var fs = localStorage.getItem('st-font-size');
+    if (fs) {
+        document.documentElement.style.setProperty('--reader-font-size', fs + 'rem');
+    }
+})();
+</script>
+<!-- KaTeX Equations Rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+    delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\[', right: '\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\(', right: '\)', display: false}
+    ],
+    ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    throwOnError: false
+});"></script>
+
+<style>
+:root {
+    --reader-font-size: 1.1rem;
+    --bg-primary: #fafaf8;
+    --text-primary: #1a1a1a;
+    --text-muted: #555555;
+    --header-bg: #2b3540;
+    --header-title: #f0ece4;
+    --copper-accent: #b8785a;
+    --copper-hover: #c9896b;
+    --card-bg: #f0ede8;
+    --card-border: #d4c8bc;
+    --btn-bg: #f0ede8;
+    --btn-text: #5a4a3a;
+    --btn-border: #d4c8bc;
+    --btn-hover-bg: #e6e0d8;
+    --sentinel-border: #e0d8d0;
+}
+
+html.dark-mode {
+    --bg-primary: #12161a;
+    --text-primary: #ffffff;
+    --text-muted: #b0b8c0;
+    --header-bg: #0d1013;
+    --header-title: #ffffff;
+    --copper-accent: #e09472;
+    --copper-hover: #f0ab8d;
+    --card-bg: #1a2027;
+    --card-border: #2e3844;
+    --btn-bg: #1e252d;
+    --btn-text: #ffffff;
+    --btn-border: #3c4958;
+    --btn-hover-bg: #2a3440;
+    --sentinel-border: #2e3844;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: var(--reader-font-size, 1.1rem);
+    line-height: 1.85;
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (collapsed <details> for LLM retrieval) ===== */
+/* Invisible to casual readers; always in DOM for scrapers and AI parsers  */
+details.chapter-manifest {
+    border-left: 2px solid #d4c8bc;
+    background: #f7f5f2; border-radius: 0 4px 4px 0;
+    padding: 0.3rem 1rem; margin-bottom: 2rem;
+}
+details.chapter-manifest summary {
+    cursor: pointer; list-style: none;
+    font-size: 0.7rem; color: #b8785a; letter-spacing: 0.1em;
+    text-transform: uppercase; padding: 0.2rem 0;
+    user-select: none;
+}
+details.chapter-manifest summary::-webkit-details-marker { display: none; }
+details.chapter-manifest summary::before {
+    content: '▶ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] summary::before {
+    content: '▼ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] {
+    padding: 0.3rem 1rem 0.9rem;
+}
+details.chapter-manifest pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.74rem; color: #999; line-height: 1.75;
+    white-space: pre-wrap; margin-top: 0.5rem;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Bottom chapter navigation ===== */
+.bottom-nav {
+    background: #2b3540;
+    padding: 1.1rem 1.5rem;
+    margin-top: 3.5rem;
+    border-top: 2px solid #b8785a;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.5rem;
+}
+.bottom-nav a {
+    color: #9baab8; text-decoration: none;
+    font-size: 0.9rem; letter-spacing: 0.02em;
+}
+.bottom-nav a:hover { color: #d4a882; }
+.bottom-nav .all-chapters { color: #b8785a; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 0; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+
+/* ===== Reader Toolbar & Controls ===== */
+.reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1.8rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+.font-controls, .theme-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+.control-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+}
+.ctrl-btn {
+    background: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+    color: var(--btn-text);
+    font-size: 0.82rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    user-select: none;
+    line-height: 1.2;
+}
+.ctrl-btn:hover {
+    background: var(--btn-hover-bg);
+    border-color: var(--copper-accent);
+    color: var(--copper-accent);
+}
+.ctrl-btn.font-size-val {
+    cursor: default;
+    min-width: 3.2rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.theme-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.75rem;
+}
+.theme-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+}
+.nav-theme-btn {
+    background: transparent;
+    border: 1px solid #4a5768;
+    color: #9baab8;
+    margin-left: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+.nav-theme-btn:hover {
+    background: #364352;
+    color: #ffffff;
+    border-color: var(--copper-accent);
+}
+.export-bar {
+    display: flex; gap: 0.55rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: var(--btn-bg); border: 1px solid var(--btn-border);
+    color: var(--btn-text); font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.export-btn:hover { background: var(--btn-hover-bg); border-color: var(--copper-accent); color: var(--copper-accent); }
+.export-btn.pdf-btn { background: var(--copper-accent); color: #fff; border-color: var(--copper-accent); }
+.export-btn.pdf-btn:hover { background: var(--copper-hover); }
+.export-label { font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Mathematical Equations (KaTeX) ===== */
+.equation {
+    font-family: 'Times New Roman', 'Cambria Math', serif;
+    font-style: italic;
+    text-align: center;
+    color: var(--text-primary);
+    margin: 1.4em auto;
+    font-size: 1.15rem;
+    overflow-x: auto;
+    padding: 0.4em 0;
+}
+.katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+    margin: 1.2em 0;
+}
+.katex {
+    font-size: 1.15em;
+}
+
+/* ===== Dark Mode Complete Styling ===== */
+html.dark-mode {
+    background: #12161a;
+}
+html.dark-mode body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+html.dark-mode .chapter-heading,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode .chapter-text {
+    color: #ffffff;
+}
+html.dark-mode p.body,
+html.dark-mode p.default,
+html.dark-mode p.body3 {
+    color: #ffffff;
+}
+html.dark-mode .chapter-subheading {
+    color: #c0c8d0;
+}
+html.dark-mode .location {
+    color: var(--copper-accent);
+}
+html.dark-mode .tempo-1,
+html.dark-mode .tempo-2 {
+    color: #c0c8d0;
+}
+html.dark-mode .chapter-stats {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+    color: #cbd5e1;
+}
+html.dark-mode .stats-row strong {
+    color: #ffffff;
+}
+html.dark-mode .scene-entry a {
+    color: #cbd5e1;
+}
+html.dark-mode .scene-entry a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.chapter-manifest {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.chapter-manifest pre {
+    color: #a0abb8;
+}
+html.dark-mode .chapter-sentinel {
+    color: var(--copper-accent);
+    border-top-color: var(--sentinel-border);
+}
+html.dark-mode .bottom-nav {
+    background: var(--header-bg);
+    border-top-color: var(--copper-accent);
+}
+html.dark-mode .part-header-card {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+}
+html.dark-mode .part-main-title {
+    color: #ffffff;
+}
+html.dark-mode .part-desc,
+html.dark-mode .part-inst {
+    color: #b0b8c0;
+}
+html.dark-mode .chapter-list li {
+    border-bottom-color: var(--card-border);
+}
+html.dark-mode .chapter-list a {
+    color: #ffffff;
+}
+html.dark-mode .chapter-list a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode .epub-banner {
+    background: var(--card-bg);
+    border-top-color: var(--card-border);
+}
+html.dark-mode .epub-banner p {
+    color: #cbd5e1;
+}
+html.dark-mode footer {
+    border-top-color: var(--card-border);
+    color: #7a8694;
+}
+html.dark-mode footer a {
+    color: #8b99a8;
+}
+html.dark-mode footer a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.scene-analysis {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.scene-analysis summary {
+    color: #ffffff;
+}
+html.dark-mode .analysis-section {
+    border-top-color: var(--card-border);
+    color: #e2e8f0;
+}
+html.dark-mode .analysis-section p {
+    color: #e2e8f0;
+}
+html.dark-mode .katex {
+    color: #ffffff !important;
+}
+html.dark-mode .equation {
+    color: #ffffff !important;
+}
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .reader-toolbar, .book-label, .chapter-number { display: none !important; }
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 11pt !important;
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000 !important; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333 !important; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; color: #000 !important; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555 !important; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+    .katex { color: #000 !important; }
+    .equation { color: #000 !important; }
+}
+
+/* ===== Index & Part Sections ===== */
+.part-section {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+}
+.part-section:first-of-type {
+    margin-top: 1.4rem;
+}
+.part-header-card {
+    background: rgba(244, 240, 235, 0.85);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 4px;
+    padding: 0.85rem 1.2rem;
+    margin-bottom: 0.6rem;
+}
+.part-num-tag {
+    font-size: 0.74rem;
+    color: #b8785a;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.part-main-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2b3540;
+    margin: 0.2rem 0 0.1rem;
+    letter-spacing: 0.01em;
+}
+.part-meta-line {
+    margin-top: 0.25rem;
+    font-size: 0.84rem;
+    font-style: italic;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+}
+.part-desc {
+    color: #4a5568;
+}
+.part-inst {
+    color: #718096;
+}
+.part-inst::before {
+    content: "· ";
+    color: #b8785a;
+    margin-right: 0.2rem;
+}
+.chapter-list { list-style: none; margin-bottom: 1.5rem; }
+.chapter-list li { padding: 0.65rem 0.4rem; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; font-weight: 500; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ===== Scene Analysis Accordion ===== */
+details.scene-analysis {
+    background: rgba(244, 240, 235, 0.75);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    margin: 2.2rem 0;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: all 0.3s ease;
+}
+details.scene-analysis[open] {
+    padding: 1rem 1.2rem 1.4rem;
+}
+details.scene-analysis summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.88rem;
+    color: #2b3540;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+details.scene-analysis summary::-webkit-details-marker { display: none; }
+details.scene-analysis summary::after {
+    content: '＋';
+    font-size: 0.95rem;
+    color: #b8785a;
+    font-weight: bold;
+    transition: transform 0.2s ease;
+}
+details.scene-analysis[open] summary::after {
+    content: '－';
+}
+.analysis-section {
+    margin-top: 1.2rem;
+    border-top: 1px solid #e0d8d0;
+    padding-top: 1.2rem;
+    font-size: 0.95rem;
+    color: #2c2c2c;
+    line-height: 1.8;
+}
+.analysis-section h4 {
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #b8785a;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.analysis-section p {
+    margin-bottom: 1rem;
+}
+.analysis-section ul {
+    margin-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.analysis-section li {
+    margin-bottom: 0.5rem;
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-21.html">Chapter 21: Phenom de Guare</a>
+    <a href="chapter-21-scene-03.html">← Scene 3</a>
+    <a href="chapter-21-scene-05.html">Scene 5 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 21 &middot; Scene 4 of 7</div>
+  <div class="chapter-heading">21.4  Around The Horn</div>
+  
+
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        'String Theory - Chapter 21 - Scene 4 - 21.4  Around The Horn.doc',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21.txt', this)">&#9776; Copy Text</button>
+    </div>
+  </div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,565</strong>&thinsp;words&ensp;<strong>82</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>4</strong>&thinsp;of&thinsp;<strong>7</strong></div>
+</div>
+
+  <div class="chapter-text">
+<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 21 · Scene 4 of 7 ]
+Chapter Title:   Phenom de Guare
+Scene Heading:   21.4  Around The Horn
+Scene:           4 of 7
+Word Count:      1,565
+Paragraph Count: 82
+Chapter Words:   2,214–3,778 (within full chapter)
+[ End Scene Manifest ]</pre></details>
+
+<div class="location">21.4  Around The Horn</div>
+<p class="body">Geneva, CERN Control Room   |   5:48 P.M. CET</p>
+<p class="body">The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.</p>
+<p class="body">And yet ATLAS wouldn’t stop talking.</p>
+<p class="body">Lines of data poured into Dr. Mira Kovács’s terminal, a steady stream of readouts as though the collider were still smashing protons. Her colleagues had long since staggered home, or were stuck in traffic on Geneva’s crippled grid, but Kovács stayed, pacing the empty control room, eyes locked on the impossible flow of numbers.</p>
+<p class="body">“Residual noise,” she muttered in Hungarian. “Ghost currents.” Even as she said it, the excuse dissolved. The “noise” wasn’t random.</p>
+<p class="body">Her intern, Meyer, hovered at a safe distance until the symmetry became undeniable. “Doctor… I ran a Fourier transform. Just to be sure, and… this is harmonic, Doctor.”</p>
+<p class="body">On his screen, the jagged scatter smoothed into a crystalline lattice of harmonics. The frequencies were stacked, not like the hiss of static, but like notes in a chord.</p>
+<p class="body">“It’s… singing,” he whispered.</p>
+<p class="body">Kovács froze. “It’s harmonizing…” The lattice folded in on itself, bloomed into nested tori, then stretched into a sprawling 196,884-point constellation of symmetry. For a beat she didn’t understand. Then her stomach turned.</p>
+<p class="body">The Monster group. The monstrous symmetry that had haunted her graduate years: the absurd bridge between modular forms and string theory. And here it was, staring back at her from the very core of her famed collider.</p>
+<p class="body">“This isn’t decay,” she murmured. “These are instructions.”</p>
+<p class="body">Meyer looked at her, pale. “Instructions?”</p>
+<p class="body">But she was already moving, hands trembling as she keyed the secure line. “This is Dr. Mira Kovács, CERN. Priority one. Connect me to UCLA. Dr. Marcus McGrath.”</p>
+<p class="body">Static hissed across the relay, the emergency network struggling against broken satellites. She waited, heartbeat drumming.</p>
+<p class="body">While the line clicked, the screens shifted again.</p>
+<p class="body">Event displays from the silent collider stitched themselves into images: curves and nodes aligning with staves of notation. Data wasn&#x27;t just plotting; it was drawing. The detectors were trying to notate something.</p>
+<p class="body">The relay cracked open, a tinny operator&#x27;s voice confirming: “Dr. McGrath, patching through.”</p>
+<p class="body">Kovács didn&#x27;t look away from the impossible constellation unfolding across her wall of monitors. Modular forms shimmering into scales, lattices resonating with harmonic ratios no experiment should ever produce.</p>
+<p class="body">When McGrath&#x27;s line went live, her voice was tight, almost breaking, but she forced the words out:</p>
+<p class="body">“Dr. McGrath, this is Kovács at CERN.”</p>
+<p class="body">“Dr. Kovács. Hold on, I&#x27;m patching you in.” Marcus signaled to his assistant to complete the patch. Within seconds he had the okay to continue. “Dr. Kovács, you are on with Dr. Rune Ishikawa and Celeste Armitage at Cornell.”</p>
+<p class="body">“Mira, it&#x27;s Rune. How are you, my friend?”</p>
+<p class="body">“Rune, my dear. Wonderful to hear your voice, but under such incredible circumstances. Tell me what is going on.”</p>
+<p class="body">Marcus jumped in to focus the endeavor. “Dr. Kovács, we believe Cornell is the epicenter of this event. More specifically, the work of Professor…”</p>
+<p class="body">And as the name left his lips, Dr. Kovács said it simultaneously: “David Lang.”</p>
+<p class="body">“I should have known,” Kovács whispered. “Lang has been on my call sheet for weeks. I must have 47 requests for cycle reservation on CERN and ATLAS. I didn&#x27;t return his calls after the first 10 or so—just ranting voicemails about…” as the reality rushed over her, “Oh God… about ALL OF THIS.”</p>
+<p class="body">“Yes, Mira, we are all realizing the same thing. Tell us what you have there,” Marcus encouraged.</p>
+<p class="body">“We&#x27;re seeing structured resonance inside the ATLAS detector. Independent of there being any power, let alone activity, to the LHC. I&#x27;m looking at eleven-dimensional signatures, harmonic, recursive. They match your file exactly. I don&#x27;t care what anyone says—this isn&#x27;t noise.”Ishikawa studied the final chalkboard, where David&#x27;s work seemed to reach its culmination. A consciousness wave function equation that linked individual awareness to the fabric of spacetime itself:Ψ₍consciousness₎ = ∫ Dφ exp(i S[φ,g,ψ]) |boundary⟩“Marcus,” Ishikawa said quietly, his eyes tracking the Greek letters. “I think—Christ, I don’t know what I think. Are we looking at a modified Field equation? Celeste, have you ever seen a derivation like this?”</p>
+<p class="body">He looked to Celeste, but she wasn&#x27;t looking at him. She was already moving.</p>
+<p class="body">Celeste stepped into the center of the room with a focused, surgical intensity that silenced Rune. She’d been away from the boards like this for twenty years, but as she grabbed a piece of chalk, the last two decades seemed to evaporate. She moved with a practiced economy that even Rune couldn&#x27;t match.</p>
+<p class="body">“The unified field?” Celeste scoffed, her hand a blur as she circled a specific operator on the board. “No. That was just David’s vanity. He wanted to feel like he and Einstein were having a fireside chat. This isn&#x27;t a Grand Theory, guys. It’s a map.”</p>
+<p class="body">Rune leaned in, peering over his spectacles as Celeste began scribbling a complex lineage of functions.</p>
+<p class="body">“This... this variable here, Celeste. Do you see the recursion?” Rune asked.</p>
+<p class="body">“I see it, Rune,” she snapped, not unkindly, but with the authority of someone who had already solved the puzzle while they were still reading the instructions. “If you follow the derivation through the Calabi-Yau manifold…”</p>
+<p class="body">Rune’s eyes widened. He watched her hand move, the realization beginning now to press in. He stepped back, his shoulders dropping.</p>
+<p class="body">“Rune?” Celeste asked, pausing mid-stroke. “You still with me?”</p>
+<p class="body">Rune gave a soft, breathless laugh. “I always told David you were the only real scientist in that house, Celeste. I just forgot how terrifying you are when you’re correct.”</p>
+<p class="body">“Earth to the nerds in Lang-land!” Marcus’s voice sparked from the speakerphone in LA. “I’m hearing static and chalk dust. Listen I was just thinking, we might be looking at a modified field equation.”</p>
+<p class="body">“My goodness,” Celeste mocked, “you two are really quick on the pickup, aren&#x27;t you?”</p>
+<p class="body">Rune looked at Celeste, then at the board. “Go on, Dr. Armitage. Tell the Hollywood celebrity what you’ve found.”</p>
+<p class="body">“Well, okay…” she began. “In music, sound design really, we’d call this setup—combined with the resonance Mira is seeing at CERN—a phase shift. Plain and simple really. He didn&#x27;t solve for gravity for God&#x27;s sake. He treated his own consciousness as a frequency.”</p>
+<p class="body">Rune jumped in, unable to contain his excitement. “Exactly! If I may build on what Dr. Armitage has uncovered... David hasn&#x27;t just disappeared. He has octavated. He’s moved to the same note, just a higher register of reality.”</p>
+<p class="body">“Kovács here,” Mira’s voice jumped back in, frantic. “I’m pulling up David’s last ten voicemails. If he’s octavated, then these rants aren&#x27;t gibberish—they&#x27;re coordinates!”</p>
+<p class="body">McGrath grimaced. “I think all of you sound quantifiably insane! And I’m inclined to agree with every word of it. Hold on.” Marcus clanked back at his techs for confirmation. “Yes… okay, we’re pulling everyone back on the line.”</p>
+<p class="body">New voices collided over the emergency channel:</p>
+<p class="body">‘Chicago, Fermilab: neutrino detectors are singing. Harmonic flux ratios. Impossible.’</p>
+<p class="body">‘Boston, MIT: our quantum AIs are rewriting themselves in recursive cycles. It’s composing code.’</p>
+<p class="body">‘Pasadena, JPL: Deep Space Network is echoing resonance from the heliopause. The sun is ringing like a bell.’</p>
+<p class="body">‘Geneva, CERN: lattice signatures match your modular forms exactly. Fifteen decimal places, Dr. McGrath. The harmonics are off the chart by a factor of… Jesus. Check this again!’</p>
+<p class="body">The channel dissolved into chaos.</p>
+<p class="body">‘Glitch!’</p>
+<p class="body">‘Artifact!’</p>
+<p class="body">‘Noise.’</p>
+<p class="body">‘Bug.’</p>
+<p class="body">‘Coincidence!’</p>
+<p class="body">‘Firmware!’</p>
+<p class="body">‘Delusional!’</p>
+<p class="body">‘Madness!’</p>
+<p class="body">‘Magical!’</p>
+<p class="body">‘Fraud!’</p>
+<p class="body">‘Hoax!’</p>
+<p class="body">‘Dream!’</p>
+<p class="body">Single words flung like stones, brilliant minds reduced to blunt syllables, defending themselves with the vocabulary of the old world.</p>
+<p class="body">“We don’t have a framework for this!” Kovács cut through, accent thick with exhaustion. “None of our models work. None of our language fits!”</p>
+<p class="body">“Exactly!” Someone from MIT. “We need different vocabulary. Different…”</p>
+<p class="body">“We need a different language,” Rune said, barely above a breath.</p>
+<p class="body">Then Celeste: “Enough. All of you.” And the miraculous superpower of Celeste Armitage… Held. She had barely spoken loud enough for Rune to hear her less than ten feet away. But instantly, the storm broke. The line went still. Waiting.</p>
+<p class="body">When she finally spoke, her words were simple. Plain. “It’s music,” she said.</p>
+<p class="body">Silence still, across five continents. Her voice trembled, but each word struck with the clarity of a tuning fork:</p>
+<p class="body">“You’re all so desperate to label what you don’t understand, that you’ve missed what’s right in front of you. This began with a cello. A man and a bow and strings. And now every detector, every satellite, every equation is showing us the same thing: the universe isn’t broken. It’s been… I don’t… It’s been tuned.”</p>
+<p class="body">Nothing. Processing.</p>
+<p class="body">At Fermilab, a physicist stared at neutrino flux resolving into scales.</p>
+<p class="body">At CERN, Kovács watched coefficients fold into harmonic lattices.</p>
+<p class="body">At JPL, an engineer muted his mic and listened to the heliosphere echo back a chord.</p>
+<p class="body">At MIT, their AI printed one word over and over: CANTUS.</p>
+<p class="body">Even McGrath, who lived to command, could only whisper into the silence:</p>
+<p class="body">“…Music.”</p>
+<p class="body">Rune’s hand shook on the desk, palm pressed against the glowing chalk. His voice came out raw, unintended and blasted through</p>
+<p class="body">“Jesus Fucking Christ.”</p>
+<p class="body">“Language, Ishikawa,” Marcus shot back across the line. “If you please, sir.”</p>
+<p class="body">And for the first time since the flares struck Earth, the world’s greatest minds burst into laughter, even Rune Ishikawa. Because they finally understood what they were hearing.</p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-10-21
+    &middot; <a href="chapter-21.html">Chapter 21</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+<script>
+// Theme Toggle & Font Size Control
+function toggleTheme() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    try {
+        localStorage.setItem('st-theme', isDark ? 'dark' : 'light');
+    } catch(e) {}
+    updateThemeUI(isDark);
+}
+
+function updateThemeUI(isDark) {
+    var labels = document.querySelectorAll('.theme-label');
+    labels.forEach(function(el) {
+        el.textContent = isDark ? 'Light' : 'Dark';
+    });
+    var icons = document.querySelectorAll('.theme-icon');
+    icons.forEach(function(el) {
+        el.innerHTML = isDark ? '&#9728;' : '&#9681;';
+    });
+}
+
+function adjustFontSize(delta) {
+    var cur = 1.1;
+    try {
+        cur = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    var next = Math.max(0.85, Math.min(1.65, Math.round((cur + delta * 0.08) * 100) / 100));
+    applyFontSize(next);
+}
+
+function resetFontSize() {
+    applyFontSize(1.1);
+}
+
+function applyFontSize(val) {
+    document.documentElement.style.setProperty('--reader-font-size', val + 'rem');
+    try {
+        localStorage.setItem('st-font-size', val);
+    } catch(e) {}
+    var displays = document.querySelectorAll('.font-size-val');
+    displays.forEach(function(el) {
+        el.textContent = Math.round((val / 1.1) * 100) + '%';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    updateThemeUI(isDark);
+    var savedSize = 1.1;
+    try {
+        savedSize = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    applyFontSize(savedSize);
+});
+
+function _exportWord(filename, headingText, subText, contentHTML) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = contentHTML;
+    var hidden = tmp.querySelectorAll('[aria-hidden="true"]');
+    for (var i = hidden.length - 1; i >= 0; i--) { hidden[i].parentNode.removeChild(hidden[i]); }
+    var sentinels = tmp.querySelectorAll('.chapter-sentinel');
+    for (var i = sentinels.length - 1; i >= 0; i--) { sentinels[i].parentNode.removeChild(sentinels[i]); }
+    var cleanContent = tmp.innerHTML;
+
+    var headingDiv   = document.querySelector('.chapter-heading');
+    var subDiv       = document.querySelector('.chapter-subheading');
+    var resolvedHead = headingDiv  ? headingDiv.textContent  : headingText;
+    var resolvedSub  = subDiv      ? subDiv.textContent      : (subText || '');
+
+    var wordHTML = [
+        '<!DOCTYPE html>',
+        '<html xmlns:o="urn:schemas-microsoft-com:office:office"',
+        '      xmlns:w="urn:schemas-microsoft-com:office:word"',
+        '      xmlns="http://www.w3.org/TR/REC-html40">',
+        '<head><meta charset="utf-8"><title>' + resolvedHead + '</title>',
+        '<style>',
+        'body{font-family:Georgia,serif;font-size:12pt;line-height:1.85;margin:1in;color:#111}',
+        '.chapter-heading{font-size:20pt;font-weight:normal;margin-bottom:5pt}',
+        '.chapter-subheading{font-size:10.5pt;font-style:italic;color:#555;margin-bottom:22pt}',
+        'p{margin-bottom:9pt}',
+        '.location{font-size:8.5pt;letter-spacing:1.2pt;text-transform:uppercase;color:#8B5E3C;font-weight:bold;margin:18pt 0 2pt}',
+        '.tempo-1,.tempo-2{font-style:italic;font-size:10pt;color:#666;margin-bottom:9pt}',
+        'h3{font-size:11pt;font-weight:normal;margin:18pt 0 4pt}',
+        '</style></head><body>',
+        '<div class="chapter-heading">' + resolvedHead + '</div>',
+        resolvedSub ? '<div class="chapter-subheading">' + resolvedSub + '</div>' : '',
+        cleanContent,
+        '</body></html>'
+    ].join('\n');
+
+    var blob = new Blob(['\uFEFF', wordHTML], {type: 'application/msword'});
+    var url  = URL.createObjectURL(blob);
+    var a    = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1500);
+}
+
+function exportPDF() { window.print(); }
+async function copyChapterText(txtUrl, btn) {
+  try {
+    var resp = await fetch(txtUrl);
+    if (!resp.ok) throw new Error('fetch failed: ' + resp.status);
+    var text = await resp.text();
+    await navigator.clipboard.writeText(text);
+    var orig = btn.innerHTML;
+    btn.innerHTML = '&#10003; Copied!';
+    btn.style.background = '#4a7a4a';
+    btn.style.color = '#fff';
+    btn.style.borderColor = '#4a7a4a';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }, 2000);
+  } catch(e) {
+    btn.innerHTML = '&#10007; Failed — check permissions';
+    setTimeout(function() { btn.innerHTML = '&#9776; Copy Text'; }, 2500);
+  }
+}
+</script>
+</body>
+</html>

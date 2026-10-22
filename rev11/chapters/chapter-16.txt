@@ -1,0 +1,393 @@
+========================================================================
+STRING THEORY
+By Gabriel McPherson
+========================================================================
+Chapter Label:   Chapter 16
+Title:           Skepticism and Ridicule
+========================================================================
+CHAPTER MANIFEST
+----------------------------------------
+Word Count:      5,776
+Paragraph Count: 180
+Scene Count:     6
+
+Scene 1: 16.1 The Lounge  --  Words 1–1,467  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-01.html
+Scene 2: 16.2 | The Lecture  --  Words 1,468–2,192  |  Paragraphs 46–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-02.html
+Scene 3: 16.3 | The Fall  --  Words 2,193–3,289  |  Paragraphs 63–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-03.html
+Scene 4: 16.4 | The Quartet  --  Words 3,290–4,099  |  Paragraphs 96–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-04.html
+Scene 5: 16.5 The Journey  --  Words 4,100–5,423  |  Paragraphs 116–170  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-05.html
+Scene 6: 16.6 The Attic | Present Day  --  Words 5,424–5,776  |  Paragraphs 171–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-06.html
+========================================================================
+
+--- CHAPTER TEXT BEGINS ---
+
+
+16.1 The Lounge
+
+The physics department faculty lounge roared with the good-natured noise of mid-morning conversation. Steam rose from the Bunn commercial brewer, mingling with the scent of dark roast, damp wool, and the sweet, chalky grit that had settled into the linoleum since the Oppenheimer era. Rain streaked the tall casement windows looking out toward the quad, but inside, under the buzzing fluorescent tubes, the room was bright with the unearned exuberance of a Friday after midterms.
+
+David stood near the center Formica table, his hand wrapped around a heavy ceramic mug stamped with the Cornell seal. For the first time in eighteen months, his collar was pressed, his jacket brushed, and his smile easy.
+
+“Look at him,” Frank Miller called out, clapping a broad, floury hand onto David’s shoulder. Miller, who had spent thirty years running the low-temperature cryogenics lab, shook his head with mock disgust. “He gives one public lecture in Bailey Hall, brings in half the music conservatory, and suddenly the university communications office is sending photographers to our faculty teas. You’re ruining our reputation, Lang. We’re supposed to be dry, miserable, and unpublishable.”
+
+A ripple of laughter went through the small circle around the urn.
+
+“I hear PBS called the dean’s office,” said Aris Thorne, a senior condensed matter theorist, leaning against the counter with his arms crossed over a corduroy vest. “Carl Sagan’s old producer wants to know if you own a turtleneck and a pair of binoculars.”
+
+“God forbid,” David laughed, shaking his head. The warmth in his chest was dizzying. He had spent so many months locked in the cold draft of his rental, listening to the radiator clank against the floorboards, that the casual banter of his peers felt like radiant heat. “I told the dean to send them to astronomy. The cosmos has enough baritones.”
+
+“No, no, take the money, David!” Thorne insisted, grinning as he topped off his mug with lukewarm drip. “You become Sagan-famous, and suddenly the NSF looks at Newman Lab like we’re national heroes. You can hawk all the string perturbation theories the rest of us can’t get funded. Remember the eighties? The Superconducting Super Collider days? It was hog heaven, boys. Steak dinners at the Statler and five postdocs per bench.”
+
+“To Lang!” Miller hoisted his mug, his gray eyes crinkling. “The only man in the Ivy League who can make a second-rank tensor sound like a cello sonata and make the trustees feel cultured for writing checks.”
+
+“Hear, hear,” two junior theorists echoed from the corner couch, smiling over their notebooks.
+
+David felt the blood rise in his cheeks, flushed with an immense, intoxicating relief. They understood. After years of committee friction, skeptical annual reviews, and the quiet, grinding dread that his work had drifted away from the standard model, the barrier had dissolved. They were welcoming him back into the circle. He mistook their laughter for the hungry, generous respect of men who had recognized a breakthrough.
+
+“Well,” David said, his voice dropping into a register of quiet, conspiratorial excitement. “Actually… I’m glad you brought it up.”
+
+Miller paused, his mug halfway to his mouth. Thorne tilted his head.
+
+David set his mug on the edge of the Formica table and unzipped the heavy leather satchel resting against his ankle. He reached inside and withdrew a thick, squared stack of white paper, lifting it with both hands like an offering.
+
+“The Bailey Hall lecture was only the prologue,” David said, his eyes bright, radiating the manic clarity of three nights without sleep. “The pedagogical gloss for the public. But the real derivation—the actual mathematical coupling between acoustic standing waves and quantum boundary conditions—is right here. I finished the final proofs at four this morning. Printed twenty-seven copies on twenty-four-pound cotton stock from the bookstore so we could go through the field equations together.”
+
+Across the heavy cover page, grand staff lines intersected Dirac bra-ket notation; fermion field operators were sketched in dense India ink directly over treble and bass clefs:
+
+“A Physical Manifesto of Cosmic Resonance: Music, Mathematics, and the Harmonic Genesis of Cognition.”
+
+The room did not fall silent at once.
+
+Miller took the top copy, still chuckling under his breath, expecting an elaborate department prank—a satirical preprint mocking the humanities division. “What’s this, Lang? A musical score for the Hilbert space?”
+
+He flipped open the cover. His smile remained fixed on his face for two seconds, then fossilized.
+
+Thorne leaned over his shoulder, holding a half-eaten cruller. His eyes scanned the first paragraph of the introduction:
+
+“The cosmic background hum, a B-flat at the threshold of measurable wave energy, is the root resonance from which all structure arises: in physics, in cells, in cognition. Patterns echo patterns. Harmony recurses.”
+
+Thorne’s jaw stopped chewing. He lowered the pastry.
+
+Beside them, the junior theorists leaned forward from the couch, their smiles thinning into tight, bewildered lines.
+
+“David,” Miller said softly, his voice losing every trace of its previous booming warmth. He turned the page. The margin was covered in frantic grease-pencil arrows connecting the seventeenth-century solar minimum to the overtone series of Bach’s Fifth Cello Suite. “What… what is this?”
+
+“Look at the coupling constant on page four,” David said eagerly, stepping closer, his finger coming down on the dense mathematics. His fingernails were rimmed with white chalk dust; a faint smell of pine rosin and stale wool radiated from his cuffs. “If you treat the perfect fifth, the three-to-two ratio, as an invariant eigenvalue, the boundary conditions of the Hamiltonian resolve without renormalization. It unifies the field, Frank. Don’t you see? The solar quiet of 1687, the absolute minimum, corresponds directly to the nodal null of this phrase. It is not an analogy. It is the zero-crossing of the wave!”
+
+Miller studied the denominator again. David had replaced an empirical boundary value with a musical ratio.
+
+He slowly, carefully closed the cover of the paper, as if shutting the lid on a small, venomous animal. He looked up at David, his eyes clouded with that sudden, agonizing embarrassment men reserve for an old friend who has unbuttoned his shirt in public.
+
+“Lang,” Thorne murmured, taking half a step backward toward the counter. “This… this isn’t string theory.”
+
+“It’s broader than string theory!” David’s voice rose, sharp and urgent, slicing through the low sixty-cycle hum of the refrigerator. “String theory reduced everything to unobservable Planck-scale geometry. This brings the geometry back into macroscopic physics! The acoustics prove the tensor fields!”
+
+No one spoke.
+
+Across the room, the drip machine finished its cycle with a wet, sucking gasp.
+
+Miller cleared his throat and set the paper down on the center of the table, his fingers lingering on the corner just long enough to square it with the stack. “I… have a ten o’clock committee meeting over in Day Hall, David. The curriculum review.”
+
+“Frank, just look at Section Two—”
+
+“We’ll look at it, David,” Miller said, not meeting his eyes. He picked up his mug, turned on his heel, and walked briskly toward the corridor, his heavy footsteps retreating down the hall.
+
+Thorne was already setting his cruller on a paper napkin. “I have to prep the solid-state quiz,” he murmured to the floor tiles. “Excuse me, David.” He slipped past the table, keeping three feet of clearance between himself and the stack of white paper, and vanished through the double doors.
+
+On the couch, the two junior theorists closed their notebooks with quiet snaps. They stood in unison, avoiding David’s gaze with exquisite, terrifying politeness, and filed out into the hallway without a word.
+
+Within two minutes, the faculty lounge had emptied.
+
+David remained standing beside the Formica table, his hand half-outstretched over the white pile, the steam from his neglected mug curling faintly into the cold, empty air.
+
+The door clicked open five minutes later.
+
+Rebecca entered, carrying a canvas tote heavy with problem sets. She saw the stack on the table and stopped. She saw David standing motionless by the window, his back turned, his shoulders rigid under his tweed jacket.
+
+Walking over with quiet, deliberate care, she lifted a copy and turned the cover. Her eyes traveled across the grand staff lines, the Dirac brackets, the arrows linking Bach’s intervals to the solar cycles. A look of deep, inconsolable sorrow crossed her face, the sorrow of someone recognizing the return of an incurable illness.
+
+Slowly, deliberately, she squared the copy back onto the pile. She did not speak. She looked toward his back for a long, aching moment, turned away, and walked past him into the hall.
+
+The heavy door swung shut on its pneumatic hinge.
+
+David stood alone in the center of the room. On the Formica table, under the buzzing fluorescent light, the manifesto sat like a failed experiment: unmeasured, and already decaying toward equilibrium.
+
+
+16.2 | The Lecture
+
+Of the thirty-six names on the roster, only fourteen students occupied the tiered seats today, most arranged in the defensive pattern of an endangered species. The stragglers, two earnest undergraduates and a sullen TA, occupied the penultimate row, close enough to be noticed but far enough to signal a lack of complicity.
+
+Dr. Lang stood at the chalkboard, a thumbprint of white dust already smeared across his left cheekbone. The opening ten minutes had been routine. But from the moment he uncased the cello and propped it against the edge of the lectern, the proceedings acquired the doomed energy of an open-casket funeral.
+
+He began, as always, with a demonstration: “You must recall that any system, when sufficiently isolated, reveals not just its own structure but the topology of the universe in which it is embedded.” He punctuated the point with a glissando, fingers skidding up the A-string. “Listen, don’t just analyze. Let the overtone tell you what the theory cannot.”
+
+The room was not equipped for performance. The ceiling tiles vibrated in the afterglow of every bow stroke. The stale air seemed to refract the sound, folding it back on itself so that each note acquired a blurred, shattering shadow.
+
+Lang pivoted from the cello to the chalkboard with the disjointed grace of a man whose proprioception had been mapped to a non-Euclidean geometry. He diagrammed a closed curve, annotated it with Hamiltonians, then in a single motion swept the equations aside and replaced them with a musical staff. His handwriting, normally precise, now oscillated wildly: clefs elongated to parody, quarter notes bristling with fermion arrows, bar lines slanted as if fleeing gravity.
+
+“Consider the structure of the Bach Suite No. 5, Sarabande, for instance.” He drew the first two measures with the deliberate slowness of a man bandaging a wound. The sound was raw, the instrument tuned a microtone sharp. “Do you see? The voice leading. It is a quantum walk. Each note, a localized excitation. The rhythm, a measure of temporal uncertainty.”
+
+The students exchanged glances, a Doppler-shift of skepticism and embarrassment, but he pressed forward. “You mustn’t think of time as a scalar. It’s a composite, a superposition of duration and directionality. Look, here.”
+
+He snapped a stick of chalk clean between thumb and index, and drew a pair of coupled wave equations annotated with notations from the Bach fugue. “The resonance pattern here,” he said, voice crescendoing, “mirrors exactly the curvature of spacetime during the 1687 solar maximum! The mathematics are trivial if you just… if you… ” He broke off, breath catching in his throat. He stared at the line of chalk dust accumulating on his sleeve.
+
+Lang resumed, alternating between cello and chalk, each transition more jarring than the last. The musical phrases became fragmentary, the equations denser. At times he abandoned speech altogether, letting the cello’s voice stand in for what language could no longer articulate.
+
+His hair listed in two directions at once. His right hand, powdered with rosin and sweat, left residue on everything it touched. By the end of the hour, the chalkboard was a palimpsest of sound and symbol, the green field cross-hatched with notation that looked, from the back of the hall, less like a proof and more like a frantic plea for rescue.
+
+The breakdown, when it arrived, was almost a relief.
+
+Lang, mid-phrase, stopped. The bow hovered a centimeter above the strings, his left hand frozen in a grotesque parody of first position. For a long moment, nothing happened. Then, with a sound halfway between a cough and a sob, he stared at the center aisle as if expecting someone, or something, to materialize.
+
+He whispered, “It’s so obvious,” though to whom it was not clear. “The coefficient, the universal constant, it’s right here in the harmony, the convergence.” He repeated the phrase, each time quieter, until the words dissolved into breath.
+
+His fingers, slick with chalk and rosin, lost their grip on the bow. It clattered to the floor, rolled to the edge of the dais, and dropped into the well between podium and whiteboard.
+
+The students gathered their things with the decorum of mourners at a closed-casket service. The TA closed her laptop with a soft, respectful click. No one spoke until the last of them had passed into the corridor.
+
+* * *
+
+
+16.3 | The Fall
+
+And then, in a moment begging for solitude, the opposite arrived. Rune Ishikawa silently slid into the room. He flipped on the second bank of overhead lights, and strolled gently ing the room, each footfall a reminder that discipline, like entropy, always increased in the universe of higher education. The 119-Hz zap of the fluorescent tubes dragged David’s brain into the present.
+
+Rune said nothing as he took in the aftermath. His gaze swept the chalkboard, the cello, the scattered residue of genius and madness.
+
+Lang sat behind the lectern, one hand resting on the cello’s scroll, the other trailing a white rime of chalk dust across the edge of the desk. His eyes, glassy and slow to focus, tracked Ishikawa’s approach like a man drunken and stooped.
+
+“Dr. Lang,” said Ishikawa, the words as clear and neutral as distilled water. “May I have a moment?”
+
+He did not wait for a reply, but simply set his briefcase precisely at the nearest desk, removed his lambskin gloves, and interlaced his fingers with the solemnity of a surgeon about to pronounce a patient DNR.
+
+“David,” he began, letting the first name ring for a fraction too long, “I won’t waste your time, or mine. The department has received a number of communications regarding your recent… presentations.” A flick of the wrist, and a manila folder materialized. “Student complaints. Attendance irregularities. Administrative queries.” He let the folder rest, unopened.
+
+Lang looked at the folder, then at Ishikawa, as if checking to make sure that both were not the result of a waking dream. “It’s not what you think,” he said at last. “I have documentation. The connections are sound.”
+
+Rune did not blink. “No one is questioning your intelligence, David. But there are processes. We’ve had this conversation before, haven’t we?” His tone was sympathetic, but each word was sanded to a clinical edge.
+
+Lang’s eyes darted to the chalkboard, searching for an anchor, finding only the massacre of notation: an orphaned Bach motif, a phrase circled in blue that read simply PROOF PENDING. “There’s more,” he said. “You need to see the resonance data. I can—”
+
+Rune cut him off with a raised hand. “I’ve seen your draft, David. No one is doubting the boldness of your approach. But this—” and here he gestured at the board, at the cello, at Lang himself, “this is not tenable.”
+
+Lang felt a flush rising, a prickling heat. He became acutely aware of his own posture, the oil slick of sweat, the coarseness of his breath.
+
+Rune’s eyes narrowed; kindly, but without mercy. “David, I’m putting you on administrative leave. Medical, for now. You’ll still be paid. Your classes will be covered.” He set the folder flat. “We’ll need you to surrender your university credentials by the end of the week.”
+
+“Rune, please,” David began. “I understand that you don’t see it, but that doesn’t mean it’s not there. How can you possibly do this to me? I’ve worked my ass off for twenty years.”
+
+David’s voice rose, half weeping, half screaming. It would later be clear that people in the surrounding buildings heard this diatribe as if broadcast directly to them.
+
+“Does that make me certifiable? Or does that make all of you relics? You’re all just priests on the great hill! You don’t want to look. This isn't physics; it’s a closed framework, backed up by the bullshit of accepted norms and the you-pat-my-back field of modern science! I trusted you, Rune! What the hell am I doing here if you don’t even…?”
+
+The tears had taken over. The anger gone, the realization now: “This is all I have. This department is my family. You're taking it. My God… I’m a fool.”
+
+Rune plucked a silk handkerchief from his inner breast pocket, its offering, delicately pinched twixt index and middle finger, his solitary gesture of consolation. Then, with the restraint of butterflied marble, replied, “I know that it feels that way now. But you must understand that everyone cares deeply for you, David. And that, in fact, is exactly why this is what is happening now.”
+
+He picked up the pen, handed it to David, and pushed the folder toward him. “I need your signature.”
+
+“Rune, I’m begging—”
+
+“David, there is nothing more for which you can beg.” Rune’s voice was no longer asking. “Your signature, David. Now.”
+
+His tone dropped an octave for the coup de grâce. “It’s not forever. You can apply for reinstatement at the start of next semester. But for now, David… I really must have your signature here… and here. Let’s not make this any harder than it already is, for both of us.”
+
+The logic of the thing, brutal and inevitable, was already unspooling behind his eyes.
+
+A silence, thick as the air before a summer thunderstorm, filled the space between them.
+
+Lang became aware that students were lingering in the corridor. He imagined their faces: the shock, the pity.
+
+His hand, still powdered with chalk, trembled as he reached for the pen and, with fingers coerced by the inevitable forces of nature and history, affixed his signature there… and there.
+
+Desperately in need of distraction, David moved to the cello case. He tried, with shaking hands, to fit the instrument inside, but his coordination betrayed him. The endpin snagged on the lip, the bow slipped and clattered to the floor. He stooped to retrieve it, but his vision blurred, and for a moment he could not locate the object.
+
+Ishikawa made no move to assist. He merely watched as Lang assembled the last remnants of his dignity.
+
+At the threshold, Lang paused and turned to look back into the room, half-expecting a final word, some offering of an olive branch from Rune, some reassurance that this really would take care of itself given time.
+
+But Rune was already repacking his folder, already donning the gloves, already setting the stage for whatever minor catastrophe awaited the department next. He had moved on, and in so doing had demanded David find ways to do the same.
+
+David walked into the hallway, his gait slightly uneven, the cello case banging against his knee at an interval of every third step. He heard the doors swing shut behind him, the hydraulic hiss of closure, and knew with sudden, perfect certainty that the resonance he’d sought would not be found here.
+
+He turned the corner. The corridor ahead was empty, the only evidence of his passing a faint trail of white chalk dust leading into the wilds of institutional exile.
+
+* * *
+
+
+16.4 | The Quartet
+
+The rehearsal room had been scrubbed to a sterile echo chamber by the time David arrived. The grand piano, usually flanked by a clutter of cases and half-drunk water bottles, sat alone at the far end, its lid shut, its voice silenced.
+
+His own chair was gone, leaving a kidney-shaped void in the semicircle where the quartet always convened. The music stand, battered and proud, was folded and propped against the wall like a retired soldier. On the side table, his sheet music had been collected into a tidy packet, the pages squared and bound with a length of red twine more suited to a gift than an eviction notice.
+
+The other musicians stood near the window, conferring in muted tones. Roger noticed David’s entrance and nudged the others into a tableau of awkward solidarity. Catherine drew her lips into a strained but welcoming smile as her head slid to one side in protest.
+
+A graduate student David knew only by the breakneck tempo of her gum chewing loitered nearby, arms wrapped around her case like it might bolt at any second. Her eyes scanned the room in clipped, jittery bursts, as though rehearsing for a spotlight she hadn’t asked for. She didn’t speak. She didn’t have to. Her presence alone confirmed what the others were too polite to say outright: David’s place in this arrangement, his chair, was no longer his.
+
+Roger cleared his throat, the sound brittle and pained.
+
+“David,” he said, gingerly, “good to see you. I, ah, wasn’t sure you’d gotten my messages.”
+
+David stood just inside the doorway, music packet in one hand, cello case in the other. He looked at the empty space where his chair had been, then at the cluster of his colleagues, his friends, all of whom seemed to occupy the exact same square foot of linoleum despite their best efforts to suggest a welcoming openness.
+
+“We’ve had some… communication from the department,” Roger continued, eyes darting from David’s face to the floor and back again. “Just temporary, until things are sorted out. You understand.”
+
+David was silent. Slowly, he moved to the piano, set his cello case down beside the piano, and pressed the palms of his hands into the lacquered top of the Steinway.
+
+Roger continued. “We’ve been asked to perform at the Chancellor’s reception next week,” he said. “We’re doing the Dvořák.”
+
+At that, Catherine tapped Roger gently on the elbow, a gesture enough to make clear that she would take over for a moment.
+
+“David darling, you must know this isn’t us. It’s politics and, well, goodness… it’s goddamned funding. You know how this works.” She could see no real response from David yet, and so she moved in to hug his shoulders in regret. “Oh David, I… well, I’m sure when you’re ready, we can… we will work you back in. Yes?” She was more emphatic now. “Darling, I want you to take advantage of this, do you know? Recharge. Reset. We all need these moments sometimes.” She glanced back to Roger as if to signal that was all she had.
+
+As she stepped away, she glanced at Roger, her head lowered, her eyes blurred. He stepped toward the piano, David’s bundle of music in his hands, and gently placed it on top of the piano, pressing it closer to his friend.
+
+David put one hand on the package, his fingers lingering on the twine. The knot was tight but elegantly executed, and unmistakably Roger. A double loop with the ends trimmed to matching lengths, something he had done to present prepared sheet music since they were in high school. It was, in its own way, a benediction, a signal that this was not what he wanted. A gesture to ease the pain or soften this news. It seemed less than adequate now.
+
+David untied the music packet and scanned the top page. His own notations: tiny arrows, circled accidentals, the occasional FIX THIS in capital letters, ran in a red current along the margins. Their musical scribblings stood as testament to a shared history of practice, of commitment, of joint struggle toward a threshold of excellence and the thousand small accommodations that had once made the group a single organism, a family for so many years.
+
+He closed the folder, replaced the twine, and tucked it under his arm. Roger gently placed a solemn hand on his shoulder, and David turned to meet his friend's eyes.
+
+“I know, my friend,” David whispered, touching his hand to Roger’s. “I’m…” But he couldn’t finish. With a resigned nod of his head, he tucked the sheet music under one arm, picked his case off the ground and turned to face them.
+
+“Good luck with the Dvořák,” he said, and with a deep breath, he turned and slowly walked out the door.
+
+* * *
+
+
+16.5 The Journey
+
+David walked out into the cold November fog, his bow packed, his tenure dismantled. The adrenaline of the confrontation began to burn away, leaving only the dull, physical shock of the room he had just surrendered. He crossed the terrace beneath the steel arc of the atrium that connected the music school to the old stone chapel on the crest of the hill.
+
+He could not tell if, when he opened his mouth, words or screams or wordless sorrow would sound. He pressed his knuckles to his mouth, waiting for his breath to steady, but the verdict came anyway, simple and stripped of defense:
+
+“I am… alone.”
+
+The weight of it pressed into him, buckling his knees, and he sank down into the wet evening grass.
+
+He stayed like that for a long time, palms pressed to the cold ground, the scent of wet soil and iron in his nose. The glass roof of the atrium caught the city’s amber light, bending it along the ribs of the steel trusses. Through the high panes, a single star broke through the cloud cover over the chapel, silent and detached.
+
+A breeze passed through the open walkway, carrying the faint smell of candied walnuts from the student café across the quad. It was such a small, human smell that it undid him completely. He closed his eyes, and in that scent, that absurd sweetness, another night came rushing back: the hill behind the music school, Celeste’s laughter ricocheting off the amphitheater’s stone arc, the two of them eating those ridiculous walnuts, sticky and warm from a street vendor, while the stars blinked like half-forgotten notes on a staff too vast to read.
+
+The memories rose unbidden now. He did not want them. He could not stop them.
+
+| August, 2005 |
+
+“One toothbrush. One cello. One death wish.”
+
+“Don’t forget the unreadable notebooks.”
+
+“I can’t believe you guys aren’t coming with me.”
+
+“Upstate New York? The way you drive? I value my life, quantum-man.”
+
+“Besides,” Celeste jabbed, “Mr. Big-Shot West Coast McGrath has to pack for UCLA!”
+
+“When are you off?”
+
+“Two days.”
+
+“This is gonna work you guys. I know it’s been insane and no one is happy with how it went down but…”
+
+Celeste’s mouth began to curl, half sadness, half in an anger she rarely let show.
+
+“Celeste, sweetheart, I know. But this is for the best. We have to believe that.”
+
+“I know. I’m fine, David, truly. Anyway, here. I got you this.”
+
+“What is it with you two and ancient camera tech, huh?”
+
+“Marcus. All of the smartest scientists use Polaroid! Polaroid is proof!”
+
+“Polaroid is superposition! Right, babe?”
+
+“See, that right there… that’s why I love this woman!”
+
+“Oh, stop it! Okay, now that, that is a whole duffel of film cartridges. Take a million shots. I want weekly mailings. Everything you see.”
+
+“I will. I promise.”
+
+“God, I love you, Mr. Lang.”
+
+“How am I supposed to do this without you?”
+
+“You’ll be fine.” She leaned in to kiss him on the cheek, then pushed further, whispering in his ear, “I’m always with you.”
+
+David pulled back so he could look her in the eyes. “Always.”
+
+“All right, all right. Don’t make me have to quantum decouple the two of you! David, brother… you better get moving before they hire the next genius in a Wagoneer to arrive on East Hill.”
+
+| November, 2005 |
+
+“To continue the call, please deposit twenty-five cents into the machine.”
+
+“Shit, honey, hold on… damned payphone…”
+
+“David? Are you on a pay phone?”
+
+“Yeah. Sorry, the distance charge… Anyway, you’re gonna love it, Cele. The porch is crooked. The sink leaks. Well, just about everything leaks but it feels right! Feels like us! Oh and hey, your Oona chair is gonna love this little corner by the bay window.”
+
+“I just wish I was there to see it.”
+
+“Don’t worry. I’ve got the camera with me. I promise a hundred Polaroids in the mail by sundown.”
+
+| January, 2007 |
+
+…And a thousand other ghost lights of memory and madness, all tethered to the gravity of the house on the hill.
+
+The life of its promise, the plaster and potential, it had served as such an organizing force in those early years, before pressures and things unnamed crept in unannounced, turning table saw and paintbrush into a mausoleum of blueprints and neglect. Back then, the walls were stripped to lath, bare ribs showing through. The first night they stayed after plumbing the kitchen sink, they ate picnic-style on the raw subfloor. No chairs to sit on. No table yet. Just a pair of mismatched solo cups full of Pinot Noir, and a candle stuck in the neck of the empty bottle. Wind slipped through the wall gaps, stirring the flame into nervous little bows. It was eternally windswept up on that courageous little hill. With no insulation and practically no walls, the pounding constant of water flow from the great gorge below seemed so loud that, at first, they almost had to scream to hear one another.
+
+She was happy to be with him. Relieved it had worked. He was drunk on exhaustion and wine and her.
+
+“You won’t regret this, Cele,” he’d said, grinning like a man mid-prophecy. “I promise. I’ll show you. I’ll show everyone. You’re looking at the next Einsteinium.” He gestured vaguely toward the exposed beams. “I can feel it. With you by my side, I can do anything. All those fossils in the department, they’ll see what new physics really looks like. I can hear it, I swear. The universe is whispering. And this house, this hill, it’s going to be where it happens. I’m gonna conquer this place, Cele. I’m gonna conquer you, if you’ll let me. The world’s gonna know the name David Lang.”
+
+She laughed, the kind of laugh that starts in the eyes and gains mischief as it spreads.
+
+“So you wanna conquer me, Mr. Big Shot Professor?”
+
+“Yeah,” he said, wine-bright and certain. “I’m gonna conquer you, Celeste Armitage.”
+
+“Well, I’m right here, big boy,” she said, grinning. “Come and get me, Lang!”
+
+She ran up the stairs, knocking primer cans over as she went. David lunged after her like a lion chasing its prey. Up they went, two flights of century-old timber. A wild leap sent him shoulder-first into the hallway wall, leaving a splash of celadon green across the plaster. Celeste, halfway up the attic steps, pointed and laughed.
+
+“My, what big, green footprints you have!”
+
+He chased her into the attic, a vast, magical space covering the whole expanse of the house below, windows under the eaves, front and back, twin dormers on either side, each with a built-in bench beneath. They reached the open floor and met in a tangle of laughter and breath and motion, enraptured by the possibility of a life just beginning.
+
+At daybreak they collapsed in the bay window overlooking the street. From there you could see the dome of the observatory glinting beyond campus. They lay there short of breath, finished and beginning all at once.
+
+“Just promise me one thing, darling,” Celeste whispered, panting and smiling from ear to ear. “Just finish this damned house before we’re eighty.”
+
+They fell back into each other, laughing, kissing, breathing as one. He grinned, savage, tender, and in that grin was everything he would later trade for the small, private music of the moment.
+
+It was a big ask, even then. But for years thereafter, he tried to answer it. Weekend after weekend, the tools came out; the work progressed. But the weekends grew fewer. David’s need to produce at the university consumed the rest. Soon, and as sure as night follows day, the promise gave way, making room for the need to compete.
+
+“We’ll get to it,” he promised, year after year. After five. After ten. After fifteen. After nineteen. And then…
+
+
+16.6 The Attic | Present Day
+
+She couldn’t be there when they told him that night. It wouldn’t be fair, to David, or to herself. She understood the others’ decision; when pressed to a vote, she’d even agreed with it. But she would not be there to see his eyes fall, to watch them crash down his cheeks and bury his shoulders beneath the weight of it all.
+
+As rehearsal hour neared, she grabbed a bottle of Pinot and a glass, then found herself climbing the well-boned staircase, from the ground floor, to the second, and onward, up to the attic, untouched since the day she’d arrived.
+
+She moved to the window overlooking East Hill, the glint of moonlight bouncing off the dome of the observatory in the distance. A sip of red wine sat warm on her lips as her right index finger fell onto the wooden framing of the window seat, the only alteration to the house that had ever been finished. Her fingertip traced the etched initials D + C. A promise carved with hope, now aged into dull woodgrain and dust.
+
+She had always felt this connection to David. Since the moment Marcus had introduced them, barely three days into graduate school, she could see right through him, call him on his bullshit. His brain didn’t seem to have any effect on her. In fact, from the start, he was always one step behind her anyway.
+
+She closed her eyes, her finger still tracing. For one quiet moment, she could almost see him. Maybe lying under a canopy of some kind. Protected yet exposed. In pain yet clear-eyed. Just breathe, she whispered, and the words began to come.
+
+Behind her eyes, he flickered through her. The falls beyond the gorge singing the soaked melody of solemn rivers. The rapids pressing sound beyond the banks of ancient shale. She almost thought she could hear him speak. Just one word. Singular. Familiar.
+
+Alone.
+
+She opened her eyes. The attic swirled, moonlight catching in the dust like suspended time. Celeste lifted her glass, drank, and whispered his name to no one.
+
+David.
+
+
+========================================================================
+END OF CHAPTER 16
+========================================================================

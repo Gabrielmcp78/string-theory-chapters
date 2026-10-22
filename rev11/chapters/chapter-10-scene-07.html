@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 10 · Scene 7: VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="10">
+<meta name="scene" content="7">
+<meta name="scene-count" content="8">
+<meta name="word-count" content="1390">
+<meta name="paragraph-count" content="75">
+
+<!-- Reader Settings (Anti-Flicker) -->
+<script>
+(function() {
+    var theme = localStorage.getItem('st-theme');
+    if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+    }
+    var fs = localStorage.getItem('st-font-size');
+    if (fs) {
+        document.documentElement.style.setProperty('--reader-font-size', fs + 'rem');
+    }
+})();
+</script>
+<!-- KaTeX Equations Rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+    delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\[', right: '\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\(', right: '\)', display: false}
+    ],
+    ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    throwOnError: false
+});"></script>
+
+<style>
+:root {
+    --reader-font-size: 1.1rem;
+    --bg-primary: #fafaf8;
+    --text-primary: #1a1a1a;
+    --text-muted: #555555;
+    --header-bg: #2b3540;
+    --header-title: #f0ece4;
+    --copper-accent: #b8785a;
+    --copper-hover: #c9896b;
+    --card-bg: #f0ede8;
+    --card-border: #d4c8bc;
+    --btn-bg: #f0ede8;
+    --btn-text: #5a4a3a;
+    --btn-border: #d4c8bc;
+    --btn-hover-bg: #e6e0d8;
+    --sentinel-border: #e0d8d0;
+}
+
+html.dark-mode {
+    --bg-primary: #12161a;
+    --text-primary: #ffffff;
+    --text-muted: #b0b8c0;
+    --header-bg: #0d1013;
+    --header-title: #ffffff;
+    --copper-accent: #e09472;
+    --copper-hover: #f0ab8d;
+    --card-bg: #1a2027;
+    --card-border: #2e3844;
+    --btn-bg: #1e252d;
+    --btn-text: #ffffff;
+    --btn-border: #3c4958;
+    --btn-hover-bg: #2a3440;
+    --sentinel-border: #2e3844;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: var(--reader-font-size, 1.1rem);
+    line-height: 1.85;
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (collapsed <details> for LLM retrieval) ===== */
+/* Invisible to casual readers; always in DOM for scrapers and AI parsers  */
+details.chapter-manifest {
+    border-left: 2px solid #d4c8bc;
+    background: #f7f5f2; border-radius: 0 4px 4px 0;
+    padding: 0.3rem 1rem; margin-bottom: 2rem;
+}
+details.chapter-manifest summary {
+    cursor: pointer; list-style: none;
+    font-size: 0.7rem; color: #b8785a; letter-spacing: 0.1em;
+    text-transform: uppercase; padding: 0.2rem 0;
+    user-select: none;
+}
+details.chapter-manifest summary::-webkit-details-marker { display: none; }
+details.chapter-manifest summary::before {
+    content: '▶ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] summary::before {
+    content: '▼ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] {
+    padding: 0.3rem 1rem 0.9rem;
+}
+details.chapter-manifest pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.74rem; color: #999; line-height: 1.75;
+    white-space: pre-wrap; margin-top: 0.5rem;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Bottom chapter navigation ===== */
+.bottom-nav {
+    background: #2b3540;
+    padding: 1.1rem 1.5rem;
+    margin-top: 3.5rem;
+    border-top: 2px solid #b8785a;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.5rem;
+}
+.bottom-nav a {
+    color: #9baab8; text-decoration: none;
+    font-size: 0.9rem; letter-spacing: 0.02em;
+}
+.bottom-nav a:hover { color: #d4a882; }
+.bottom-nav .all-chapters { color: #b8785a; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 0; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+
+/* ===== Reader Toolbar & Controls ===== */
+.reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1.8rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+.font-controls, .theme-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+.control-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+}
+.ctrl-btn {
+    background: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+    color: var(--btn-text);
+    font-size: 0.82rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    user-select: none;
+    line-height: 1.2;
+}
+.ctrl-btn:hover {
+    background: var(--btn-hover-bg);
+    border-color: var(--copper-accent);
+    color: var(--copper-accent);
+}
+.ctrl-btn.font-size-val {
+    cursor: default;
+    min-width: 3.2rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.theme-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.75rem;
+}
+.theme-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+}
+.nav-theme-btn {
+    background: transparent;
+    border: 1px solid #4a5768;
+    color: #9baab8;
+    margin-left: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+.nav-theme-btn:hover {
+    background: #364352;
+    color: #ffffff;
+    border-color: var(--copper-accent);
+}
+.export-bar {
+    display: flex; gap: 0.55rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: var(--btn-bg); border: 1px solid var(--btn-border);
+    color: var(--btn-text); font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.export-btn:hover { background: var(--btn-hover-bg); border-color: var(--copper-accent); color: var(--copper-accent); }
+.export-btn.pdf-btn { background: var(--copper-accent); color: #fff; border-color: var(--copper-accent); }
+.export-btn.pdf-btn:hover { background: var(--copper-hover); }
+.export-label { font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Mathematical Equations (KaTeX) ===== */
+.equation {
+    font-family: 'Times New Roman', 'Cambria Math', serif;
+    font-style: italic;
+    text-align: center;
+    color: var(--text-primary);
+    margin: 1.4em auto;
+    font-size: 1.15rem;
+    overflow-x: auto;
+    padding: 0.4em 0;
+}
+.katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+    margin: 1.2em 0;
+}
+.katex {
+    font-size: 1.15em;
+}
+
+/* ===== Dark Mode Complete Styling ===== */
+html.dark-mode {
+    background: #12161a;
+}
+html.dark-mode body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+html.dark-mode .chapter-heading,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode .chapter-text {
+    color: #ffffff;
+}
+html.dark-mode p.body,
+html.dark-mode p.default,
+html.dark-mode p.body3 {
+    color: #ffffff;
+}
+html.dark-mode .chapter-subheading {
+    color: #c0c8d0;
+}
+html.dark-mode .location {
+    color: var(--copper-accent);
+}
+html.dark-mode .tempo-1,
+html.dark-mode .tempo-2 {
+    color: #c0c8d0;
+}
+html.dark-mode .chapter-stats {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+    color: #cbd5e1;
+}
+html.dark-mode .stats-row strong {
+    color: #ffffff;
+}
+html.dark-mode .scene-entry a {
+    color: #cbd5e1;
+}
+html.dark-mode .scene-entry a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.chapter-manifest {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.chapter-manifest pre {
+    color: #a0abb8;
+}
+html.dark-mode .chapter-sentinel {
+    color: var(--copper-accent);
+    border-top-color: var(--sentinel-border);
+}
+html.dark-mode .bottom-nav {
+    background: var(--header-bg);
+    border-top-color: var(--copper-accent);
+}
+html.dark-mode .part-header-card {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+}
+html.dark-mode .part-main-title {
+    color: #ffffff;
+}
+html.dark-mode .part-desc,
+html.dark-mode .part-inst {
+    color: #b0b8c0;
+}
+html.dark-mode .chapter-list li {
+    border-bottom-color: var(--card-border);
+}
+html.dark-mode .chapter-list a {
+    color: #ffffff;
+}
+html.dark-mode .chapter-list a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode .epub-banner {
+    background: var(--card-bg);
+    border-top-color: var(--card-border);
+}
+html.dark-mode .epub-banner p {
+    color: #cbd5e1;
+}
+html.dark-mode footer {
+    border-top-color: var(--card-border);
+    color: #7a8694;
+}
+html.dark-mode footer a {
+    color: #8b99a8;
+}
+html.dark-mode footer a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.scene-analysis {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.scene-analysis summary {
+    color: #ffffff;
+}
+html.dark-mode .analysis-section {
+    border-top-color: var(--card-border);
+    color: #e2e8f0;
+}
+html.dark-mode .analysis-section p {
+    color: #e2e8f0;
+}
+html.dark-mode .katex {
+    color: #ffffff !important;
+}
+html.dark-mode .equation {
+    color: #ffffff !important;
+}
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .reader-toolbar, .book-label, .chapter-number { display: none !important; }
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 11pt !important;
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000 !important; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333 !important; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; color: #000 !important; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555 !important; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+    .katex { color: #000 !important; }
+    .equation { color: #000 !important; }
+}
+
+/* ===== Index & Part Sections ===== */
+.part-section {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+}
+.part-section:first-of-type {
+    margin-top: 1.4rem;
+}
+.part-header-card {
+    background: rgba(244, 240, 235, 0.85);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 4px;
+    padding: 0.85rem 1.2rem;
+    margin-bottom: 0.6rem;
+}
+.part-num-tag {
+    font-size: 0.74rem;
+    color: #b8785a;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.part-main-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2b3540;
+    margin: 0.2rem 0 0.1rem;
+    letter-spacing: 0.01em;
+}
+.part-meta-line {
+    margin-top: 0.25rem;
+    font-size: 0.84rem;
+    font-style: italic;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+}
+.part-desc {
+    color: #4a5568;
+}
+.part-inst {
+    color: #718096;
+}
+.part-inst::before {
+    content: "· ";
+    color: #b8785a;
+    margin-right: 0.2rem;
+}
+.chapter-list { list-style: none; margin-bottom: 1.5rem; }
+.chapter-list li { padding: 0.65rem 0.4rem; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; font-weight: 500; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ===== Scene Analysis Accordion ===== */
+details.scene-analysis {
+    background: rgba(244, 240, 235, 0.75);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    margin: 2.2rem 0;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: all 0.3s ease;
+}
+details.scene-analysis[open] {
+    padding: 1rem 1.2rem 1.4rem;
+}
+details.scene-analysis summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.88rem;
+    color: #2b3540;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+details.scene-analysis summary::-webkit-details-marker { display: none; }
+details.scene-analysis summary::after {
+    content: '＋';
+    font-size: 0.95rem;
+    color: #b8785a;
+    font-weight: bold;
+    transition: transform 0.2s ease;
+}
+details.scene-analysis[open] summary::after {
+    content: '－';
+}
+.analysis-section {
+    margin-top: 1.2rem;
+    border-top: 1px solid #e0d8d0;
+    padding-top: 1.2rem;
+    font-size: 0.95rem;
+    color: #2c2c2c;
+    line-height: 1.8;
+}
+.analysis-section h4 {
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #b8785a;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.analysis-section p {
+    margin-bottom: 1rem;
+}
+.analysis-section ul {
+    margin-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.analysis-section li {
+    margin-bottom: 0.5rem;
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="chapter-10.html">Chapter 10: Passions’ Principles</a>
+    <a href="chapter-10-scene-06.html">← Scene 6</a>
+    <a href="chapter-10-scene-08.html">Scene 8 →</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 10 &middot; Scene 7 of 8</div>
+  <div class="chapter-heading">VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall</div>
+  
+
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        'String Theory - Chapter 10 - Scene 7 - VII. DEPOSITIO - SEPULTURA | The Clear Snows of Fall.doc',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10.txt', this)">&#9776; Copy Text</button>
+    </div>
+  </div>
+
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>1,390</strong>&thinsp;words&ensp;<strong>75</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>7</strong>&thinsp;of&thinsp;<strong>8</strong></div>
+</div>
+
+  <div class="chapter-text">
+<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 10 · Scene 7 of 8 ]
+Chapter Title:   Passions’ Principles
+Scene Heading:   VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall
+Scene:           7 of 8
+Word Count:      1,390
+Paragraph Count: 75
+Chapter Words:   10,831–12,220 (within full chapter)
+[ End Scene Manifest ]</pre></details>
+
+<div class="location">VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall</div>
+<div class="tempo-1">Largo, sospeso, quasi senza tempo</div>
+<p class="body">“You will freeze out here if you stay like that.”</p>
+<p class="body">The voice was close, low, and practical, edged by a dry cadence he could not place because pain made geography unreliable.</p>
+<p class="body">David lifted his head. A woman stood beside the open rear door of the car: short, wrapped in dark wool, her face lined without softness. Her pale eyes examined him as though injury were an instrument and he had been badly handled by amateurs.</p>
+<p class="body">“Missing something?” she said, extending her hand toward him.</p>
+<p class="body">In it, she held Arthur’s watch, smeared with road grime and slush, its crystal cracked and the leather strap hanging torn from the bezel. Her fingers clamped hard against the steel casing, holding the metal firmly as if contact itself required concentration.</p>
+<p class="body">“Where did you—”</p>
+<p class="body">“In the boxwood beside the dock. It was ringing like an alarm. Metal remembers where it was struck.”</p>
+<p class="body">She crouched, though the motion was stiff, bracing her other hand against the car door to anchor herself against solid steel. She pressed the watch into his palm, closing his battered fingers around it.</p>
+<p class="body">“Let me see your eyes.”</p>
+<p class="body">“What?”</p>
+<p class="body">“Eyes. Yours.”</p>
+<p class="body">She took his chin and turned his face toward the sodium light. Her touch was cold and strangely light, the pressure wavering for a fraction of a second before finding bone. Her thumb lifted one eyelid, then the other. The examination was brisk and clinical.</p>
+<p class="body">“Concussion?” he muttered through split lips.</p>
+<p class="body">“Likely, yes. Hope you didn’t have any sleeping plans for later.”</p>
+<p class="body">“Are you a doctor?”</p>
+<p class="body">“I was once,” she said, her mouth tightening into a thin line. “Though the title can be so easily bandied about these days.”</p>
+<p class="body">“Lady, I’m really not in a mysterious mood.”</p>
+<p class="body">“Of course, David.”</p>
+<p class="body">“How the hell—”</p>
+<p class="body">“Do I know your name? It’s an old tale. And one we do not have time for on this night.”</p>
+<p class="body">“Wait. Please.” David’s eyes flittered closed, his head flopping to one side.</p>
+<p class="body">The old woman reached into the snow and pressed a handful of slush into David’s face. He snapped back into the now.</p>
+<p class="body">“How about you stay right here with me for a bit. No nodding off to another dimension, okay. Neither one of us has that kind of time.”</p>
+<p class="body">She took his cut hand next. The broken crystal had opened his palm; blood followed the creases toward his wrist.</p>
+<p class="body">She glanced from his hand to the watch, then toward the cello case in the back seat. Her face shifted by half a degree, the lines around her mouth deepening with quiet recognition. She reached into the car, her gloved fingers settling onto the worn latches of the case.</p>
+<p class="body">The wood inside answered immediately: a low, resonant vibration that stirred through the spruce belly and hummed against the seat cushions.</p>
+<p class="body">“Good spruce,” she murmured, her hand moving along the upper bout with the practiced certainty of someone reading grain in the dark. “Still holding its arch. Elliot always insisted on an extra millimeter through the soundpost plate. Stubborn man.”</p>
+<p class="body">David went rigid, the cold in his ribs suddenly distant. “You knew Elliot.”</p>
+<p class="body">She looked at him, her pale eyes flat and unimpressed by the question.</p>
+<p class="body">“Well enough to argue with him for six months about your bass bar.”</p>
+<p class="body">The sentence went through David like a needle. He stared at the woman in the snow, trying to reconcile the figure standing in the slush with the instrument he had played since boyhood.</p>
+<p class="body">“You worked on this cello.”</p>
+<p class="body">“I saw what your grandfather wanted it to become,” she said, her mouth tightening. “Your bridge is still three tenths of a millimeter too high.”</p>
+<p class="body">She glanced down at the slush beside David’s boots, where the trampled, snow-soaked pages of his manifold paper lay half spilled from his satchel. She laughed under her breath, a dry, rasping sound against the wind.</p>
+<p class="body">“Is that your blood all over the pages, or… oh my… Rune’s red pen bleeding. Perhaps I should have brought this to you sooner.”</p>
+<p class="body">She reached into the pocket of her heavy wool coat and pulled out a slender tuning fork of dark, unpolished steel. She did not flourish it or hold it like a relic. She handled it the way a joiner handles a rasp.</p>
+<p class="body">“Here,” she said, thrusting the stem into his uninjured hand. “Take this thing away from me.”</p>
+<p class="body">David looked at the dull metal, his knuckles trembling with cold. “What is this?”</p>
+<p class="body">“Jesus, you must really be hurt. It’s a tuning fork, Lang. Try putting it near the instrument.”</p>
+<p class="body">David lifted the fork toward the open door.</p>
+<p class="body">Before the steel touched the case, the tines woke without being struck. A clean, faint singing rose off the metal, setting the rear window glass humming. From inside the velvet case, the cello answered with an immediate sympathetic thrum, deep and low, locking into phase across the foot of freezing air between them.</p>
+<p class="body">The woman watched the vibration settle, a faint glimmer of craft satisfaction crossing her face.</p>
+<p class="body">“Good,” she murmured. “Still paired.”</p>
+<p class="body">“That’s a C-sharp,” David said, the instinct of twenty years in the department surfacing before pain could stop it. “One thirty-six point nine, or slightly below. If you calculate the ambient temperature and the barometric drop—”</p>
+<p class="body">“Stop,” she said.</p>
+<p class="body">The word cut through the wind like a shear.</p>
+<p class="body">“That is exactly what you keep doing.”</p>
+<p class="body">David blinked, snow stinging his cut cheek. “Doing what?”</p>
+<p class="body">“Listening to the number, ignoring what answered.”</p>
+<p class="body">She swayed slightly, her boot sliding half an inch through the slush, and caught the roof of the car with her free palm. The metal gave off a dull, hollow thrum beneath her hand. Her breath came shallow and harsh, her knuckles white against the painted steel as if forcing the car to keep meeting her skin.</p>
+<p class="body">David looked up at her. “Are you all right?”</p>
+<p class="body">“Old occupational injury,” she said, waiting until her breathing leveled. “This hill and I don’t agree anymore.”</p>
+<p class="body">“What hill?”</p>
+<p class="body">“East Hill,” she said, her eyes fixed on the gray veil of snow beyond the lot. “The ground here has a foul memory.”</p>
+<p class="body">Her toe nudged the edge of a soaked sheet.</p>
+<p class="body">“You keep trying to make everything agree,” she said.</p>
+<p class="body">David’s breath hitched. “The model—”</p>
+<p class="body">“The interesting thing is usually the piece that refuses your model,” she said flatly. “Stop worshipping the pattern. Look at the resistance.”</p>
+<p class="body">She looked from the ruined pages straight to the cello case.</p>
+<p class="body">“The passive stage is done,” she said, reaching down to grab his shoulder. Her grip was cold and stiff, her boots grinding into the asphalt as she hauled him upright against the car. “Get in. Turn on the heater. Put the instrument in the front seat and get off this hill before your marrow decides to phase-lock with the rocks.”</p>
+<p class="body">David leaned against the car, his side burning with pain, his fingers clenched around the dark fork. “Wait. Who are you?”</p>
+<p class="body">She didn’t answer. She stepped back into the snow, turning toward the service road with slow, deliberate strides, planting each boot firmly into the frozen ground.</p>
+<p class="body">Behind him, the cello hummed once from inside the case: a low, solitary fifth that dissolved into the wind.</p>
+<p class="body">“By the way,” the woman called back through the falling snow.</p>
+<p class="body">He turned toward the sound. She had stopped beneath the yellow light of the loading dock, one hand resting on the salt bin to steady her balance.</p>
+<p class="body">“You should really have that watch cleaned,” she said. “So filthy you cannot even read the inscription.”</p>
+<p class="body">He looked down at Arthur’s watch in his palm. The steel backing was blackened with grease, dried blood, and decades of accumulated skin.</p>
+<p class="body">“How did you know there was an inscrip—”</p>
+<p class="body">He looked up.</p>
+<p class="body">The service road was empty. Snow fell uninterrupted through the yellow halo of the loading-dock lamp. On the salt bin, a paper cup had tipped on its side, rolling gently in the draft.</p>
+<p class="body">David looked down at the watch. He wiped the casing with the edge of his sleeve, then used his thumb to scour the grime away, scraping the cold metal until the hardened residue peeled back.</p>
+<p class="body">Letters emerged beneath the lamplight, shallow and precise, cut into the steel where the back had rested against his pulse:</p>
+<p class="body3"><em>In Time; E.G.</em></p>
+
+<div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 7 &#8212;</div>
+  </div>
+
+  </div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-10-21
+    &middot; <a href="chapter-10.html">Chapter 10</a>
+    &middot; <a href="../index.html">Index</a>
+  </span>
+</footer>
+<script>
+// Theme Toggle & Font Size Control
+function toggleTheme() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    try {
+        localStorage.setItem('st-theme', isDark ? 'dark' : 'light');
+    } catch(e) {}
+    updateThemeUI(isDark);
+}
+
+function updateThemeUI(isDark) {
+    var labels = document.querySelectorAll('.theme-label');
+    labels.forEach(function(el) {
+        el.textContent = isDark ? 'Light' : 'Dark';
+    });
+    var icons = document.querySelectorAll('.theme-icon');
+    icons.forEach(function(el) {
+        el.innerHTML = isDark ? '&#9728;' : '&#9681;';
+    });
+}
+
+function adjustFontSize(delta) {
+    var cur = 1.1;
+    try {
+        cur = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    var next = Math.max(0.85, Math.min(1.65, Math.round((cur + delta * 0.08) * 100) / 100));
+    applyFontSize(next);
+}
+
+function resetFontSize() {
+    applyFontSize(1.1);
+}
+
+function applyFontSize(val) {
+    document.documentElement.style.setProperty('--reader-font-size', val + 'rem');
+    try {
+        localStorage.setItem('st-font-size', val);
+    } catch(e) {}
+    var displays = document.querySelectorAll('.font-size-val');
+    displays.forEach(function(el) {
+        el.textContent = Math.round((val / 1.1) * 100) + '%';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    updateThemeUI(isDark);
+    var savedSize = 1.1;
+    try {
+        savedSize = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    applyFontSize(savedSize);
+});
+
+function _exportWord(filename, headingText, subText, contentHTML) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = contentHTML;
+    var hidden = tmp.querySelectorAll('[aria-hidden="true"]');
+    for (var i = hidden.length - 1; i >= 0; i--) { hidden[i].parentNode.removeChild(hidden[i]); }
+    var sentinels = tmp.querySelectorAll('.chapter-sentinel');
+    for (var i = sentinels.length - 1; i >= 0; i--) { sentinels[i].parentNode.removeChild(sentinels[i]); }
+    var cleanContent = tmp.innerHTML;
+
+    var headingDiv   = document.querySelector('.chapter-heading');
+    var subDiv       = document.querySelector('.chapter-subheading');
+    var resolvedHead = headingDiv  ? headingDiv.textContent  : headingText;
+    var resolvedSub  = subDiv      ? subDiv.textContent      : (subText || '');
+
+    var wordHTML = [
+        '<!DOCTYPE html>',
+        '<html xmlns:o="urn:schemas-microsoft-com:office:office"',
+        '      xmlns:w="urn:schemas-microsoft-com:office:word"',
+        '      xmlns="http://www.w3.org/TR/REC-html40">',
+        '<head><meta charset="utf-8"><title>' + resolvedHead + '</title>',
+        '<style>',
+        'body{font-family:Georgia,serif;font-size:12pt;line-height:1.85;margin:1in;color:#111}',
+        '.chapter-heading{font-size:20pt;font-weight:normal;margin-bottom:5pt}',
+        '.chapter-subheading{font-size:10.5pt;font-style:italic;color:#555;margin-bottom:22pt}',
+        'p{margin-bottom:9pt}',
+        '.location{font-size:8.5pt;letter-spacing:1.2pt;text-transform:uppercase;color:#8B5E3C;font-weight:bold;margin:18pt 0 2pt}',
+        '.tempo-1,.tempo-2{font-style:italic;font-size:10pt;color:#666;margin-bottom:9pt}',
+        'h3{font-size:11pt;font-weight:normal;margin:18pt 0 4pt}',
+        '</style></head><body>',
+        '<div class="chapter-heading">' + resolvedHead + '</div>',
+        resolvedSub ? '<div class="chapter-subheading">' + resolvedSub + '</div>' : '',
+        cleanContent,
+        '</body></html>'
+    ].join('\n');
+
+    var blob = new Blob(['\uFEFF', wordHTML], {type: 'application/msword'});
+    var url  = URL.createObjectURL(blob);
+    var a    = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1500);
+}
+
+function exportPDF() { window.print(); }
+async function copyChapterText(txtUrl, btn) {
+  try {
+    var resp = await fetch(txtUrl);
+    if (!resp.ok) throw new Error('fetch failed: ' + resp.status);
+    var text = await resp.text();
+    await navigator.clipboard.writeText(text);
+    var orig = btn.innerHTML;
+    btn.innerHTML = '&#10003; Copied!';
+    btn.style.background = '#4a7a4a';
+    btn.style.color = '#fff';
+    btn.style.borderColor = '#4a7a4a';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }, 2000);
+  } catch(e) {
+    btn.innerHTML = '&#10007; Failed — check permissions';
+    setTimeout(function() { btn.innerHTML = '&#9776; Copy Text'; }, 2500);
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>String Theory · Chapter 1 · The Ivy League</title>
+<meta name="book" content="String Theory">
+<meta name="chapter" content="1">
+<meta name="word-count" content="2770">
+<meta name="paragraph-count" content="125">
+<meta name="scene-count" content="0">
+<meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json">
+<meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/rev11/edits/chapter-01.json">
+<link rel="alternate" type="text/plain" href="chapter-01.txt" title="Plain text — parser/LLM access">
+
+<!-- Reader Settings (Anti-Flicker) -->
+<script>
+(function() {
+    var theme = localStorage.getItem('st-theme');
+    if (theme === 'dark' || (!theme && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark-mode');
+    }
+    var fs = localStorage.getItem('st-font-size');
+    if (fs) {
+        document.documentElement.style.setProperty('--reader-font-size', fs + 'rem');
+    }
+})();
+</script>
+<!-- KaTeX Equations Rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
+    delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '\[', right: '\]', display: true},
+        {left: '$', right: '$', display: false},
+        {left: '\(', right: '\)', display: false}
+    ],
+    ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    throwOnError: false
+});"></script>
+
+<style>
+:root {
+    --reader-font-size: 1.1rem;
+    --bg-primary: #fafaf8;
+    --text-primary: #1a1a1a;
+    --text-muted: #555555;
+    --header-bg: #2b3540;
+    --header-title: #f0ece4;
+    --copper-accent: #b8785a;
+    --copper-hover: #c9896b;
+    --card-bg: #f0ede8;
+    --card-border: #d4c8bc;
+    --btn-bg: #f0ede8;
+    --btn-text: #5a4a3a;
+    --btn-border: #d4c8bc;
+    --btn-hover-bg: #e6e0d8;
+    --sentinel-border: #e0d8d0;
+}
+
+html.dark-mode {
+    --bg-primary: #12161a;
+    --text-primary: #ffffff;
+    --text-muted: #b0b8c0;
+    --header-bg: #0d1013;
+    --header-title: #ffffff;
+    --copper-accent: #e09472;
+    --copper-hover: #f0ab8d;
+    --card-bg: #1a2027;
+    --card-border: #2e3844;
+    --btn-bg: #1e252d;
+    --btn-text: #ffffff;
+    --btn-border: #3c4958;
+    --btn-hover-bg: #2a3440;
+    --sentinel-border: #2e3844;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ===== Page shell ===== */
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: var(--reader-font-size, 1.1rem);
+    line-height: 1.85;
+    color: var(--text-primary);
+    background: var(--bg-primary);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 0 4rem;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+/* ===== Site header — cover palette: dark slate + copper ===== */
+header {
+    background: #2b3540;
+    padding: 1.4rem 1.5rem 1.2rem;
+    margin-bottom: 2.8rem;
+    border-bottom: 2px solid #b8785a;
+}
+header .book-title {
+    font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 0.35rem;
+}
+h1 {
+    font-size: 1.5rem; font-weight: normal; margin: 0.2rem 0 0.5rem;
+    color: #f0ece4; letter-spacing: 0.01em;
+}
+nav { font-size: 0.88rem; margin-top: 0; }
+nav a { color: #9baab8; text-decoration: none; margin-right: 1.3rem; }
+nav a:hover { color: #d4a882; text-decoration: none; }
+
+/* ===== Chapter identity block ===== */
+.article-inner { padding: 0 1.5rem; }
+.book-label {
+    font-size: 0.78rem; color: #b8785a; letter-spacing: 0.13em;
+    text-transform: uppercase; margin-bottom: 0.45rem;
+}
+.chapter-number {
+    font-size: 0.95rem; color: #b8785a; letter-spacing: 0.14em;
+    text-transform: uppercase; margin-bottom: 0.45rem; font-weight: 500;
+}
+.chapter-heading {
+    font-size: 2.0rem; font-weight: normal; margin-bottom: 0.55rem;
+    line-height: 1.25; color: #1a1a1a;
+}
+.chapter-subheading {
+    font-size: 1.05rem; color: #555; font-style: italic; margin-bottom: 2.2rem;
+}
+
+/* ===== Body styles from DOCX ===== */
+p.body, p.default, p.body3 { margin-bottom: 1.1em; }
+p.scene   { font-style: italic; color: #555; margin-bottom: 1em; }
+p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
+
+/* ===== Musical / structural styles ===== */
+.location {
+    font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
+    font-weight: 500;
+}
+.tempo-1 {
+    font-style: italic; font-size: 0.88rem; color: #777;
+    margin: 0 0 1em; line-height: 1.5;
+}
+.tempo-2 {
+    font-style: italic; font-size: 0.98rem; color: #555;
+    margin: 0.2em 0 1.4em;
+}
+h3.subchapter {
+    font-size: 1.05rem; font-weight: normal; color: #333;
+    margin: 2.4em 0 0.4em; letter-spacing: 0.01em;
+}
+.ch-special {
+    font-variant: small-caps; letter-spacing: 0.07em;
+    color: #555; margin: 0.8em 0; font-size: 0.95rem;
+}
+.ch-title-alt {
+    font-style: italic; color: #555; font-size: 0.95rem;
+    margin: 0.4em 0 1em;
+}
+.equation {
+    font-style: italic; text-align: center; color: #333;
+    margin: 1.2em auto; font-size: 0.95rem;
+}
+.caption {
+    font-size: 0.82rem; color: #999; text-align: center;
+    letter-spacing: 0.06em; margin: 0.6em 0;
+}
+.title-special {
+    font-variant: small-caps; font-size: 1.1rem;
+    letter-spacing: 0.1em; margin: 1em 0 0.5em;
+}
+.subtitle { display: none; }
+
+/* ===== Verification stats bar ===== */
+.chapter-stats {
+    background: #f0ede8; border: 1px solid #ddd;
+    border-left: 3px solid #b8785a;
+    border-radius: 0 6px 6px 0;
+    padding: 0.9rem 1.1rem; margin-bottom: 2.5rem;
+    font-size: 0.87rem; color: #666; line-height: 1.6;
+}
+.stats-row {
+    display: flex; gap: 0.2rem 2rem; flex-wrap: wrap;
+    font-variant-numeric: tabular-nums; margin-bottom: 0.65rem;
+    align-items: baseline;
+}
+.stats-row strong { color: #2b3540; font-weight: 600; font-size: 1.0rem; }
+.scene-inventory {
+    border-top: 1px solid #d8d4ce; padding-top: 0.7rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 0.2rem 1.5rem;
+}
+.scene-entry {
+    display: flex; align-items: baseline;
+    justify-content: space-between; gap: 0.5rem;
+}
+.scene-entry a {
+    color: #5a4a3a; text-decoration: none; font-size: 0.83rem;
+    overflow: hidden; text-overflow: ellipsis; flex: 1;
+}
+.scene-entry a:hover { color: #b8785a; }
+.scene-range { color: #aaa; font-size: 0.77rem; white-space: nowrap; flex-shrink: 0; }
+
+/* ===== Scene page breadcrumb / navigation ===== */
+.scene-nav-bar {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.7rem 0; margin-bottom: 2rem;
+    border-bottom: 1px solid #e0d8d0;
+    font-size: 0.84rem;
+}
+.scene-nav-bar a { color: #b8785a; text-decoration: none; }
+.scene-nav-bar a:hover { text-decoration: underline; }
+.scene-nav-bar .scene-pos {
+    color: #888; font-size: 0.8rem; letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+/* ===== Parser manifest (collapsed <details> for LLM retrieval) ===== */
+/* Invisible to casual readers; always in DOM for scrapers and AI parsers  */
+details.chapter-manifest {
+    border-left: 2px solid #d4c8bc;
+    background: #f7f5f2; border-radius: 0 4px 4px 0;
+    padding: 0.3rem 1rem; margin-bottom: 2rem;
+}
+details.chapter-manifest summary {
+    cursor: pointer; list-style: none;
+    font-size: 0.7rem; color: #b8785a; letter-spacing: 0.1em;
+    text-transform: uppercase; padding: 0.2rem 0;
+    user-select: none;
+}
+details.chapter-manifest summary::-webkit-details-marker { display: none; }
+details.chapter-manifest summary::before {
+    content: '▶ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] summary::before {
+    content: '▼ '; font-size: 0.55rem; opacity: 0.7;
+}
+details.chapter-manifest[open] {
+    padding: 0.3rem 1rem 0.9rem;
+}
+details.chapter-manifest pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.74rem; color: #999; line-height: 1.75;
+    white-space: pre-wrap; margin-top: 0.5rem;
+}
+
+/* ===== End-of-chapter sentinel ===== */
+.chapter-sentinel {
+    text-align: center; font-size: 0.78rem; color: #b8785a;
+    letter-spacing: 0.15em; text-transform: uppercase;
+    margin-top: 4.5rem; padding-top: 1.2rem;
+    border-top: 1px solid #e0d8d0; opacity: 0.7;
+}
+
+/* ===== LLM API bar (editorial / not for readers) ===== */
+.edit-bar {
+    margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;
+    font-size: 0.76rem; color: #bbb;
+}
+.edit-bar a { color: #bbb; text-decoration: none; }
+.edit-bar a:hover { color: #b8785a; text-decoration: underline; }
+.edit-bar code { font-size: 0.74rem; color: #ccc; }
+
+/* ===== Bottom chapter navigation ===== */
+.bottom-nav {
+    background: #2b3540;
+    padding: 1.1rem 1.5rem;
+    margin-top: 3.5rem;
+    border-top: 2px solid #b8785a;
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.5rem;
+}
+.bottom-nav a {
+    color: #9baab8; text-decoration: none;
+    font-size: 0.9rem; letter-spacing: 0.02em;
+}
+.bottom-nav a:hover { color: #d4a882; }
+.bottom-nav .all-chapters { color: #b8785a; font-size: 0.8rem; letter-spacing: 0.08em; text-transform: uppercase; }
+
+/* ===== Footer ===== */
+footer {
+    margin-top: 0; padding: 1.2rem 1.5rem 0;
+    border-top: 1px solid #ddd;
+    font-size: 0.8rem; color: #aaa; display: flex; justify-content: space-between;
+}
+footer a { color: #aaa; }
+footer a:hover { color: #b8785a; }
+
+
+/* ===== Reader Toolbar & Controls ===== */
+.reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem 1rem;
+    margin-bottom: 1.8rem;
+    padding: 0.6rem 0.8rem;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 6px;
+    transition: background 0.15s ease, border-color 0.15s ease;
+}
+.reader-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+.font-controls, .theme-controls {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+.control-label {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 0.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 600;
+}
+.ctrl-btn {
+    background: var(--btn-bg);
+    border: 1px solid var(--btn-border);
+    color: var(--btn-text);
+    font-size: 0.82rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+    user-select: none;
+    line-height: 1.2;
+}
+.ctrl-btn:hover {
+    background: var(--btn-hover-bg);
+    border-color: var(--copper-accent);
+    color: var(--copper-accent);
+}
+.ctrl-btn.font-size-val {
+    cursor: default;
+    min-width: 3.2rem;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+}
+.theme-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.32rem 0.75rem;
+}
+.theme-icon {
+    font-size: 0.95rem;
+    line-height: 1;
+}
+.nav-theme-btn {
+    background: transparent;
+    border: 1px solid #4a5768;
+    color: #9baab8;
+    margin-left: 0.6rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    vertical-align: middle;
+}
+.nav-theme-btn:hover {
+    background: #364352;
+    color: #ffffff;
+    border-color: var(--copper-accent);
+}
+.export-bar {
+    display: flex; gap: 0.55rem; align-items: center;
+}
+.export-btn {
+    display: inline-flex; align-items: center; gap: 0.3rem;
+    background: var(--btn-bg); border: 1px solid var(--btn-border);
+    color: var(--btn-text); font-size: 0.8rem; padding: 0.35rem 0.9rem;
+    border-radius: 4px; cursor: pointer; font-family: inherit;
+    letter-spacing: 0.03em; transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+.export-btn:hover { background: var(--btn-hover-bg); border-color: var(--copper-accent); color: var(--copper-accent); }
+.export-btn.pdf-btn { background: var(--copper-accent); color: #fff; border-color: var(--copper-accent); }
+.export-btn.pdf-btn:hover { background: var(--copper-hover); }
+.export-label { font-size: 0.75rem; color: var(--text-muted); letter-spacing: 0.05em; margin-right: 0.2rem; }
+
+/* ===== Mathematical Equations (KaTeX) ===== */
+.equation {
+    font-family: 'Times New Roman', 'Cambria Math', serif;
+    font-style: italic;
+    text-align: center;
+    color: var(--text-primary);
+    margin: 1.4em auto;
+    font-size: 1.15rem;
+    overflow-x: auto;
+    padding: 0.4em 0;
+}
+.katex-display {
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0.5em 0;
+    margin: 1.2em 0;
+}
+.katex {
+    font-size: 1.15em;
+}
+
+/* ===== Dark Mode Complete Styling ===== */
+html.dark-mode {
+    background: #12161a;
+}
+html.dark-mode body {
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
+html.dark-mode .chapter-heading,
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode .chapter-text {
+    color: #ffffff;
+}
+html.dark-mode p.body,
+html.dark-mode p.default,
+html.dark-mode p.body3 {
+    color: #ffffff;
+}
+html.dark-mode .chapter-subheading {
+    color: #c0c8d0;
+}
+html.dark-mode .location {
+    color: var(--copper-accent);
+}
+html.dark-mode .tempo-1,
+html.dark-mode .tempo-2 {
+    color: #c0c8d0;
+}
+html.dark-mode .chapter-stats {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+    color: #cbd5e1;
+}
+html.dark-mode .stats-row strong {
+    color: #ffffff;
+}
+html.dark-mode .scene-entry a {
+    color: #cbd5e1;
+}
+html.dark-mode .scene-entry a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.chapter-manifest {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.chapter-manifest pre {
+    color: #a0abb8;
+}
+html.dark-mode .chapter-sentinel {
+    color: var(--copper-accent);
+    border-top-color: var(--sentinel-border);
+}
+html.dark-mode .bottom-nav {
+    background: var(--header-bg);
+    border-top-color: var(--copper-accent);
+}
+html.dark-mode .part-header-card {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+    border-left-color: var(--copper-accent);
+}
+html.dark-mode .part-main-title {
+    color: #ffffff;
+}
+html.dark-mode .part-desc,
+html.dark-mode .part-inst {
+    color: #b0b8c0;
+}
+html.dark-mode .chapter-list li {
+    border-bottom-color: var(--card-border);
+}
+html.dark-mode .chapter-list a {
+    color: #ffffff;
+}
+html.dark-mode .chapter-list a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode .epub-banner {
+    background: var(--card-bg);
+    border-top-color: var(--card-border);
+}
+html.dark-mode .epub-banner p {
+    color: #cbd5e1;
+}
+html.dark-mode footer {
+    border-top-color: var(--card-border);
+    color: #7a8694;
+}
+html.dark-mode footer a {
+    color: #8b99a8;
+}
+html.dark-mode footer a:hover {
+    color: var(--copper-accent);
+}
+html.dark-mode details.scene-analysis {
+    background: var(--card-bg);
+    border-color: var(--card-border);
+}
+html.dark-mode details.scene-analysis summary {
+    color: #ffffff;
+}
+html.dark-mode .analysis-section {
+    border-top-color: var(--card-border);
+    color: #e2e8f0;
+}
+html.dark-mode .analysis-section p {
+    color: #e2e8f0;
+}
+html.dark-mode .katex {
+    color: #ffffff !important;
+}
+html.dark-mode .equation {
+    color: #ffffff !important;
+}
+
+/* ===== Print / PDF output ===== */
+@media print {
+    header, nav, .chapter-stats, .chapter-manifest,
+    .edit-bar, footer, .export-bar, .scene-nav-bar,
+    .reader-toolbar, .book-label, .chapter-number { display: none !important; }
+    html, body {
+        background: #fff !important;
+        color: #000 !important;
+        font-size: 11pt !important;
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .article-inner { padding: 0 1in; }
+    .chapter-heading { font-size: 18pt; margin-bottom: 4pt; color: #000 !important; }
+    .chapter-subheading { font-size: 10pt; margin-bottom: 20pt; color: #333 !important; }
+    p.body, p.default, p.body3 { margin-bottom: 8pt; line-height: 1.7; color: #000 !important; }
+    .location { font-size: 8pt; letter-spacing: 1pt; margin-top: 16pt;
+                margin-bottom: 2pt; color: #555 !important; }
+    .tempo-1, .tempo-2 { font-size: 9pt; margin-bottom: 8pt; }
+    .chapter-sentinel { display: block !important; font-size: 8pt;
+                        margin-top: 30pt; text-align: center; }
+    .katex { color: #000 !important; }
+    .equation { color: #000 !important; }
+}
+
+/* ===== Index & Part Sections ===== */
+.part-section {
+    margin-top: 2.4rem;
+    margin-bottom: 0.8rem;
+}
+.part-section:first-of-type {
+    margin-top: 1.4rem;
+}
+.part-header-card {
+    background: rgba(244, 240, 235, 0.85);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 4px;
+    padding: 0.85rem 1.2rem;
+    margin-bottom: 0.6rem;
+}
+.part-num-tag {
+    font-size: 0.74rem;
+    color: #b8785a;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.part-main-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #2b3540;
+    margin: 0.2rem 0 0.1rem;
+    letter-spacing: 0.01em;
+}
+.part-meta-line {
+    margin-top: 0.25rem;
+    font-size: 0.84rem;
+    font-style: italic;
+    color: #666;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.8rem;
+}
+.part-desc {
+    color: #4a5568;
+}
+.part-inst {
+    color: #718096;
+}
+.part-inst::before {
+    content: "· ";
+    color: #b8785a;
+    margin-right: 0.2rem;
+}
+.chapter-list { list-style: none; margin-bottom: 1.5rem; }
+.chapter-list li { padding: 0.65rem 0.4rem; border-bottom: 1px solid #eee; }
+.chapter-list li:last-child { border-bottom: none; }
+.chapter-list a { text-decoration: none; color: #1a1a1a; font-size: 1.05rem; }
+.chapter-list a:hover { color: #b8785a; }
+.chapter-list .ch-num { color: #b8785a; font-size: 0.82rem; min-width: 3.5rem; display: inline-block; font-weight: 500; }
+.meta { font-size: 0.85rem; color: #888; margin-top: 0.3rem; }
+
+/* ===== Scene Analysis Accordion ===== */
+details.scene-analysis {
+    background: rgba(244, 240, 235, 0.75);
+    border: 1px solid #d4c8bc;
+    border-left: 4px solid #b8785a;
+    border-radius: 6px;
+    padding: 0.5rem 1.2rem;
+    margin: 2.2rem 0;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: all 0.3s ease;
+}
+details.scene-analysis[open] {
+    padding: 1rem 1.2rem 1.4rem;
+}
+details.scene-analysis summary {
+    cursor: pointer;
+    list-style: none;
+    font-size: 0.88rem;
+    color: #2b3540;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 0.4rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    user-select: none;
+}
+details.scene-analysis summary::-webkit-details-marker { display: none; }
+details.scene-analysis summary::after {
+    content: '＋';
+    font-size: 0.95rem;
+    color: #b8785a;
+    font-weight: bold;
+    transition: transform 0.2s ease;
+}
+details.scene-analysis[open] summary::after {
+    content: '－';
+}
+.analysis-section {
+    margin-top: 1.2rem;
+    border-top: 1px solid #e0d8d0;
+    padding-top: 1.2rem;
+    font-size: 0.95rem;
+    color: #2c2c2c;
+    line-height: 1.8;
+}
+.analysis-section h4 {
+    font-size: 0.82rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #b8785a;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+.analysis-section p {
+    margin-bottom: 1rem;
+}
+.analysis-section ul {
+    margin-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+.analysis-section li {
+    margin-bottom: 0.5rem;
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="book-title">String Theory &middot; Gabriel McPherson</div>
+  <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
+  <nav>
+    <a href="../index.html">All Chapters</a>
+    <a href="overture.html">← Overture</a>
+    <a href="chapter-02.html">Ch 2 →</a>
+    <a href="chapter-01.txt" style="font-size:0.8rem;color:#6a7a8a" title="Plain text version">[txt]</a>
+  </nav>
+</header>
+
+<article>
+  <div class="article-inner">
+  <div class="book-label">String Theory &middot; Gabriel McPherson</div>
+  <div class="chapter-number">Chapter 1</div>
+  <div class="chapter-heading">The Ivy League</div>
+  <div class="chapter-subheading">Andante sostenuto</div>
+  <div class="reader-toolbar">
+    <div class="reader-controls">
+      <div class="font-controls">
+        <span class="control-label">Text</span>
+        <button class="ctrl-btn" onclick="adjustFontSize(-1)" title="Smaller text">A&minus;</button>
+        <button class="ctrl-btn font-size-val" onclick="resetFontSize()" title="Reset text size">100%</button>
+        <button class="ctrl-btn" onclick="adjustFontSize(1)" title="Larger text">A&#43;</button>
+      </div>
+      <div class="theme-controls">
+        <button class="ctrl-btn theme-btn" onclick="toggleTheme()" title="Toggle dark mode">
+          <span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span>
+        </button>
+      </div>
+    </div>
+    <div class="export-bar">
+      <span class="export-label">EXPORT</span>
+      <button class="export-btn pdf-btn" onclick="exportPDF()">&#8675; PDF</button>
+      <button class="export-btn" onclick="_exportWord(
+        'String Theory - Chapter 1 - The Ivy League.doc',
+        document.querySelector('.chapter-heading').textContent,
+        document.querySelector('.chapter-subheading') ? document.querySelector('.chapter-subheading').textContent : '',
+        document.querySelector('.chapter-text').innerHTML
+      )">&#8675; Word</button>
+      <button class="export-btn" onclick="copyChapterText('https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-01.txt', this)">&#9776; Copy Text</button>
+    </div>
+  </div>
+  <div class="chapter-stats">
+  <div class="stats-row"><strong>2,770</strong>&thinsp;words&ensp;<strong>125</strong>&thinsp;paragraphs&ensp;<strong>0</strong>&thinsp;scenes</div>
+  
+</div>
+  <div class="chapter-text">
+<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Chapter Manifest: String Theory · Chapter 1 ]
+Title: The Ivy League
+Word Count: 2,770
+Paragraph Count: 125
+Scene Count: 0
+[ End Manifest ]</pre></details>
+<p class="body">It was, perhaps, an unfortunate hour to be speaking of coherence.</p>
+<p class="body">David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.</p>
+<p class="body">Twenty minutes earlier, David had abandoned sleep altogether, drifting down to the kitchen to soothe a sour stomach with a pint of milk. The first gulp went down well enough, but the second missed, badly, sending a pale sheet across the marble countertop. David stared down at the puddle, then at the roll of paper towels on the far side of the room, then at the open bag of mini donuts beside him. He reached in, pulled out the first donut, and pressed it into service as a sort of sponge.</p>
+<p class="body">By any civilized measure, this was repulsive. Yes. But two weeks of condolence casseroles and Jell-O molds had softened David’s interest in formalities. The donut was soaked in milk and so he ate it.</p>
+<p class="body">The method was sound, though the puddle persisted, so the donuts kept coming until the bag was empty and the marble dry.</p>
+<p class="body">David admired his handiwork for a moment before moving on toward the closet.</p>
+<p class="body">He had long since refined the act of Suiting into a sequence of near-automatic movements: socks, slacks, arms into sleeves, the final constriction of collar and tie. It was the mirror work, the grooming, that he found unsettling. In fact, it annoyed the shit out of him.</p>
+<p class="body">At five-eleven, David had the carriage of a man who had never quite learned what to do with being handsome. His face was strongly made: thick, unruly brown hair framed high, rigid cheekbones, and a nose drawn from brow to tip obnoxiously devoid of deviation. There was an accidental dash to the whole arrangement, an inheritance he had a tendency to balk at in public and scowl at when alone.</p>
+<p class="body">As he worked the second cuff through his jacket sleeve, his father Arthur’s watch slipped into view.</p>
+<p class="body">David noted the time with a smirk.</p>
+<p class="body">It was 7:24:47 a.m.</p>
+<p class="body">Amazing, he thought, how easy it was to be early when you arrived home so ridiculously late.</p>
+<p class="body">He had his overcoat in hand, his wallet and phone in his pockets, and was turning toward the front door when he remembered the damn book.</p>
+<p class="body">It was a tattered, sorry little thing David had rescued from the front parlor of his parents’ house: an eighteenth-century volume on tuning methods and temperament, its cover warped by damp window sills, its pages yellowed by a hundred New England heatwaves. He had found it crammed between a collection of Wagner vocal scores and a Boston Symphony LP of Bartók’s Concerto for Orchestra. One look made two things clear: no one in their right mind would ever read this thing of their own accord, and Celeste was going to absolutely love it.</p>
+<p class="body">All that remained was to give it to her before he did something to warrant transforming the gift into an apology.</p>
+<p class="body">But the book was all the way upstairs, buried in his suitcase with everything else too delicate to survive unprotected travel. For a moment, David considered whether remembering the gift might just be enough. But it was only a moment, and without the slightest coercion some more reliable part of him was already turning toward the spiral staircase to retrieve it.</p>
+<p class="body">Upstairs, he undressed the book from its sweater, tucked it into the palm of his left hand, and was turning toward the stairs when a sound from outside stopped him at the rail.</p>
+<p class="body">Laughter.</p>
+<p class="body">Of course, voices from the street below reached the apartment all day, rising with traffic and the hourly migrations of students, but this sound refused to settle among them. It lingered, turning David’s attention toward the balcony, so that before he quite realized why, he was crossing the grated bridge, his right hand tracing the railing, catching each vertical support until there were no more and his fingers found the balcony doorknob instead.</p>
+<p class="body">Cold met him at once, sharp with shale and frostbitten pine from the gorge below. Morning had broken beneath a pale winter sky as the sun crested East Hill, laying long indigo shadows across the roofs.</p>
+<p class="body">He moved to the far railing, wind tugging at his shirt. From there he could trace the narrow streets north toward Cornell, the dark scrollwork of the southern gate visible just beyond the first rise. He closed his right hand around the iron and leaned into the cold, the book tucked against his other palm.</p>
+<p class="body">Another burst of laughter drew his attention to the row of old block houses on the next street. He watched as a young mother pull gloves on with her teeth while a small girl tried to match the frosted boot prints of someone much larger; without looking down, the mother shortened her stride to match. Farther out, a boy in a screaming red hat scrambled across crusted turf, pursued by his father at the exact distance required to preserve the boy’s belief in escape. When the child ducked behind a hedge, something robin’s-egg blue flew upward; the father lunged, bobbled the puffy mittens from hand to hand, and trapped them to his chest, pumping both fists in triumph as though he had just saved the kingdom of mittens.</p>
+<p class="body">David laughed with them and at first, the sound hardly struck him as his own. For two weeks, every breath had been trimmed for condolence and quiet rooms. He felt the unguarded smile settle across his face.</p>
+<p class="body">As he turned toward the warmth inside, the brittle pages of the book in his hand stirred wildly in the breeze.</p>
+<p class="body">David opened the volume mid-spine, tilting it toward the light. As he did, his cuff pulled back and the crystal of Arthur’s watch caught the sun, flashing blinding white across his eyes.</p>
+<p class="body">David flinched.</p>
+<p class="body">The watch had belonged to Elliot first, then Arthur, the narrow band carrying decades from grandfather to father, and now to son. Two weeks ago, beneath morgue fluorescents, an orderly had unbuckled it from Arthur’s wrist and handed it across the counter. David had seen the pale ring of protected skin left behind. In that numb hour, he had buckled the strap onto his own wrist, signed the release forms, and driven his mother home to an empty house.</p>
+<p class="body">As his vision cleared, he checked the dial.</p>
+<p class="body">8:05.</p>
+<p class="body">Wait. 8:05. He stared at the old watch face, looking for some malfunction. But it seemed in perfect working order. He reached into his pocket to check the phone. There too, 8:05 a.m.</p>
+<p class="body">But the stairs, the book, the boy in the red hat and the saving of the mitten kingdom—all of it could not have occupied more than three, maybe four minutes at most.</p>
+<p class="body">It was 7:24 as he climbed the stairs. David was sure of it. Period. No question. Yet somehow, he&#x27;d gone from thirty-five minutes early to five minutes late in three minutes flat.</p>
+<p class="body">Bewildered, scattered even, he crossed back to the railing.</p>
+<p class="body">What he saw stopped his breath. The grass below was empty. No family. No mitten kingdom. No red hat. He scanned the treeline: empty too, until, at the farthest fringe of the branches, at least a quarter mile down the treeline, a speck of red bobbed between two trunks and then vanished. When he looked back toward the campus, suddenly students were everywhere, choking the paths where moments ago there were none. And there, already beyond the southern gate, already climbing the lower rise without him, was his own morning gaggle.</p>
+<p class="body">There was no longer any other way to parse this.</p>
+<p class="body">He was late.</p>
+<p class="body">David Lang was never late. Never.</p>
+<p class="body">For forty-six years, this fact alone had served to guarantee the rest of him.</p>
+<p class="body">He took the spiral stairs in a frantic slide down the rail, grabbed his overcoat from the stool, and rammed his arms into the sleeves. Then, wrapping the book in a plastic bag from the counter, he shoved it, along with his lecture folder, into the satchel, threw his weight against the green glass door, and out he went into the frozen mayhem of an Ithaca morning.</p>
+<div class="ch-special">* * *</div>
+<p class="body">The light blinded him instantly. As his eyes adjusted, he glanced in all directions to ensure that no one was particularly looking his way, then broke into an all-out, middle-aged sprint toward the southern gate.</p>
+<p class="body">Cold needled at his eyes as he darted through the narrow streets, his coat pulling at his shoulders while each block clipped his breath shorter. The town thinned, porches slick with frost as modest houses gave way to the steepening order of East Hill. As he reached the south gate, he reduced his speed to something that might better resemble purposeful, dignified walking.</p>
+<p class="body">Usually the climb arranged him. Arguments settled into sequence, lectures found their opening moves, and whatever residue life had left upon him yielded to the old disciplinary pressure of the hill.</p>
+<p class="body">This morning, Arthur came with him.</p>
+<p class="body"><em>I do not know how you stomach these collegiate conversations.</em></p>
+<p class="body">The words rose in his father&#x27;s exact cadence, thinned by age and carrying emphasis on <em>stomach</em>, as if his profession had been something David had mistakenly chosen to ingest.</p>
+<p class="body">He lengthened his stride.</p>
+<p class="body"><em>Always one up on the next man. Always something, son.</em></p>
+<p class="body">There was no memory strong enough for David to argue with, only the voice carrying the old exasperation uphill beside him.</p>
+<p class="body">At the first trail turn onto the main pathway, he spotted his gaggle. Near the center of the procession, Professor Henry Sweeney appeared to have inherited command.</p>
+<p class="body">Two weeks of David&#x27;s absence had left a vacuum, and Sweeney, like all soft men with tenure, had expanded obligingly to fill it.</p>
+<p class="body">This walk had belonged to David for years in ways no departmental handbook could adequately describe. With a series of short, undignified bursts, determined that no mere bereavement leave was going to alter that gravity, he caught up to the group halfway up the slope.</p>
+<p class="body">Sweeney was mid-anecdote.</p>
+<p class="body">“No, I&#x27;m telling you, he said cross-disciplinary intimacy to my face. In a budget meeting. To my actual face.”</p>
+<p class="body">“Christ,” David said. “Intimacy and face in the same sentence? Hank, my friend, you should probably stop right there before one of these grad students peels off to notify Human Resources.”</p>
+<p class="body">Sweeney turned. “Lang. My goodness. And here I thought I had another day. Welcome back, sir.”</p>
+<p class="body">“Don&#x27;t.”</p>
+<p class="body">“What? I&#x27;ve barely said two words.”</p>
+<p class="body">“Fourteen words, actually, and already I can hear the withering pangs of kindness gathering momentum.”</p>
+<p class="body">“You&#x27;ve just buried your father, David.”</p>
+<p class="body">“Yes. I have.”</p>
+<p class="body">Sweeney let that answer stand while, just behind him, Naomi Feld walked with both hands wrapped around a paper coffee cup, watching David over the lid. A pair of David’s graduate students slowed discreetly, maintaining the practiced neutrality and distance of those whose funding depended on finding everyone equally amusing.</p>
+<p class="body">Finally, David sighed. “Alright, fine. One humane observation. But only one, Sweeney, so… you know, at least try to make it memorable.”</p>
+<p class="body">Sweeney considered the assignment. “Hmm. Oh, I’ve got it. You look almost refreshed… all things considered.”</p>
+<p class="body">“Well, it&#x27;s true what they say. Burying a parent can be remarkably restorative. Takes ten years off the face.”</p>
+<p class="body">For a beat nobody spoke, until David added, “And five off your lifespan.”</p>
+<p class="body">Sweeney looked him over. “Ah, I see. So that’s why you look eighty again.”</p>
+<p class="body">Naomi&#x27;s laugh escaped into her coffee.</p>
+<p class="body">“There it is. Oh, and Sweeney, for the record: cross-disciplinary intimacy? This can only land two ways: Title IX or tenure. Be careful.”</p>
+<p class="body">“Good to have you back, Lang,” Sweeney said, roughening the words enough to avoid having to acknowledge the sincerity beneath.</p>
+<p class="body">The usual chatter resumed, though half the gossip prepared for the morning had plainly been about him; David could feel it withdrawing through softened faces and little rearrangements of posture. He gave them nothing. He had returned, and the world could resume its proper cruelties.</p>
+<div class="ch-special">* * *</div>
+<p class="body">As they approached the lower crossing, where the older paving stones met the darker run laid nearer the quad, a deep, rattling sound stopped David so abruptly that Naomi nearly slammed into him from behind.</p>
+<p class="body">But it was not laughter this time.</p>
+<p class="body">“Lang?”</p>
+<p class="body">It felt like constriction: pressure beneath the sternum followed by a low vibration that reached his jaw before he could identify a pitch. As the vibration strengthened, he took a step backward; the pressure eased immediately, dropping his attention to the pavement.</p>
+<p class="body">The change had occurred at the seam between the two cuts of stone, as if whatever lay buried beneath the hill had mistaken his ribs for conduit. The others walked on, indifferent.</p>
+<p class="body">“Did you hear that?”</p>
+<p class="body">Sweeney glanced back. “Hear what, Lang?”</p>
+<p class="body">“That tone.”</p>
+<p class="body">“Oh, we heard your tone, Professor,” Naomi said, drawing a small, uneasy laugh from the group.</p>
+<p class="body">When David stepped forward across the seam again, the pressure spiked instantly. He stepped back; it vanished. He tested the threshold once more, slowly, verifying the boundary: pressure gathering beneath the sternum, vibration rattling his molars; one step back, and both receded.</p>
+<p class="body">Sweeney had circled back now, concerned. “You alright?”</p>
+<p class="body">“Fine. Just…” David wiped the cold sweat from his forehead. “Long week.”</p>
+<p class="body">“Of course.” Sweeney’s voice softened into sincerety. “Glad you’re back, David. Your dad was a great man. Be proud of a big life, yeah?”</p>
+<p class="body"><em>A big life,</em> as though life were measured in acreage.</p>
+<p class="body">“Thanks, Hank.”</p>
+<p class="body">“Oh, and don&#x27;t let those quantum undergrads keep you down.”</p>
+<p class="body">“They&#x27;d need a quorum first.”</p>
+<p class="body">Sweeney grinned, satisfied by the sarcasm, and rejoined the group.</p>
+<p class="body">Only Naomi remained.</p>
+<p class="body">They stood together as the others receded uphill.</p>
+<p class="body">“You’re not fine,” she said.</p>
+<p class="body">“No. But I am late.”</p>
+<p class="body">Her gaze dropped to the seam. “What was that?”</p>
+<p class="body">“I don&#x27;t know.”</p>
+<p class="body">“Do you want me to call someone? Celeste, maybe?”</p>
+<p class="body">“No. God, no.”</p>
+<p class="body">“Well, let me walk you in at least.”</p>
+<p class="body">He adjusted his satchel, hiding the tremor in his fingers. “I prefer the illusion of competence.”</p>
+<p class="body">“David.”</p>
+<p class="body">“I know.”</p>
+<p class="body">Naomi watched him another moment before nodding toward campus. “Okay. I&#x27;ll be nearby.”</p>
+<p class="body">“How ominous.”</p>
+<p class="body">“Good.”</p>
+<p class="body">She continued up the path, leaving David beside the crossing until she disappeared around the corner. Only then did he move again, giving the darker section of pavement a wider berth than he could presently justify as he headed toward Feynman.</p>
+<div class="ch-special">* * *</div>
+<p class="body">Feynman Hall was nearly silent, its corridors emptied by the morning lectures already underway. A few members of the administrative staff looked up from their screens as David passed, recognized him, and returned to their work without particular interest in his late arrival. Good. Apparently he still looked like a man arriving exactly when he meant to, though his stomach knew better.</p>
+<p class="body">By the time the classroom doors came into view, even that pretense had begun to fray: so much sound and source pulsing through his head.</p>
+<p class="body"><em>So many proofs, son.</em></p>
+<p class="body">David tried to breathe around the intrusion. Arthur’s cadence was unmistakable.</p>
+<p class="body"><em>So much proving for approval’s sake, don’t you think, Davey?</em></p>
+<p class="body">He smirked at the thought of it. <em>Davey.</em> How typical of his father to wait until after death to become demonstrably tender.</p>
+<p class="body">Something beat beneath the band of his watch, once and then again, until there was no longer much point pretending he hadn&#x27;t noticed. He glanced at the face.</p>
+<p class="body">Eighteen minutes and fifty-three seconds late.</p>
+<p class="body"><em>Shit.</em></p>
+<div class="ch-special">* * *</div>
+<p class="body">Deep in Sub-level Two, inside a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed.</p>
+<p class="body">Trapped air escaped through the seam in a single thin breath.</p>
+<p class="body">The ventilation shaft carried it upward through the buried architecture of East Hill: past biology laboratories and steam conduits, through abandoned storage rooms, behind electrical chases sealed by renovations no one fully remembered. Along the way, machine oil mingled with the mineral dust of old equipment.</p>
+<p class="body">By the time the air reached Feynman Hall, radiator heat had worked those buried traces into the scent that used to cling to Elliot Lang&#x27;s sweaters after his nights in the physics building.</p>
+<p class="body">The hallway cooled around David&#x27;s ankles. The corridor was empty.</p>
+<p class="body">Still, for several seconds, he could not rid himself of the certainty that someone had been standing close behind him.</p>
+<p class="body">The students beyond the classroom doors were waiting.</p>
+<p class="body">David entered the lecture hall with his notes held too tightly in one hand and the intention, unchanged by lateness or nausea, of winning them over.</p>
+
+<div class="chapter-sentinel" id="chapter-end">&#8212; End of Chapter 1 &#8212;</div>
+  </div>
+
+  <div class="edit-bar">
+    LLM Edit API &mdash;
+    Read: <a href="https://gabrielmcp78.github.io/string-theory-chapters/rev11/edits/chapter-01.json">https://gabrielmcp78.github.io/string-theory-chapters/rev11/edits/chapter-01.json</a> &middot;
+    Save: <code>PUT https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json</code> &middot;
+    Plain text: <a href="https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-01.txt">https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-01.txt</a>
+  </div>
+  </div>
+<div class="bottom-nav">
+  <a href="overture.html">← Overture</a>
+  <a href="../index.html" class="all-chapters">&#9776;&nbsp;All Chapters</a>
+  <a href="chapter-02.html">Ch 2 →</a>
+</div>
+</article>
+
+<footer>
+  <span>String Theory &mdash; Gabriel McPherson</span>
+  <span>Built 2026-10-21 &middot; <a href="../index.html">Index</a></span>
+</footer>
+<script>
+// Theme Toggle & Font Size Control
+function toggleTheme() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    try {
+        localStorage.setItem('st-theme', isDark ? 'dark' : 'light');
+    } catch(e) {}
+    updateThemeUI(isDark);
+}
+
+function updateThemeUI(isDark) {
+    var labels = document.querySelectorAll('.theme-label');
+    labels.forEach(function(el) {
+        el.textContent = isDark ? 'Light' : 'Dark';
+    });
+    var icons = document.querySelectorAll('.theme-icon');
+    icons.forEach(function(el) {
+        el.innerHTML = isDark ? '&#9728;' : '&#9681;';
+    });
+}
+
+function adjustFontSize(delta) {
+    var cur = 1.1;
+    try {
+        cur = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    var next = Math.max(0.85, Math.min(1.65, Math.round((cur + delta * 0.08) * 100) / 100));
+    applyFontSize(next);
+}
+
+function resetFontSize() {
+    applyFontSize(1.1);
+}
+
+function applyFontSize(val) {
+    document.documentElement.style.setProperty('--reader-font-size', val + 'rem');
+    try {
+        localStorage.setItem('st-font-size', val);
+    } catch(e) {}
+    var displays = document.querySelectorAll('.font-size-val');
+    displays.forEach(function(el) {
+        el.textContent = Math.round((val / 1.1) * 100) + '%';
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    var isDark = document.documentElement.classList.contains('dark-mode');
+    updateThemeUI(isDark);
+    var savedSize = 1.1;
+    try {
+        savedSize = parseFloat(localStorage.getItem('st-font-size')) || 1.1;
+    } catch(e) {}
+    applyFontSize(savedSize);
+});
+
+function _exportWord(filename, headingText, subText, contentHTML) {
+    var tmp = document.createElement('div');
+    tmp.innerHTML = contentHTML;
+    var hidden = tmp.querySelectorAll('[aria-hidden="true"]');
+    for (var i = hidden.length - 1; i >= 0; i--) { hidden[i].parentNode.removeChild(hidden[i]); }
+    var sentinels = tmp.querySelectorAll('.chapter-sentinel');
+    for (var i = sentinels.length - 1; i >= 0; i--) { sentinels[i].parentNode.removeChild(sentinels[i]); }
+    var cleanContent = tmp.innerHTML;
+
+    var headingDiv   = document.querySelector('.chapter-heading');
+    var subDiv       = document.querySelector('.chapter-subheading');
+    var resolvedHead = headingDiv  ? headingDiv.textContent  : headingText;
+    var resolvedSub  = subDiv      ? subDiv.textContent      : (subText || '');
+
+    var wordHTML = [
+        '<!DOCTYPE html>',
+        '<html xmlns:o="urn:schemas-microsoft-com:office:office"',
+        '      xmlns:w="urn:schemas-microsoft-com:office:word"',
+        '      xmlns="http://www.w3.org/TR/REC-html40">',
+        '<head><meta charset="utf-8"><title>' + resolvedHead + '</title>',
+        '<style>',
+        'body{font-family:Georgia,serif;font-size:12pt;line-height:1.85;margin:1in;color:#111}',
+        '.chapter-heading{font-size:20pt;font-weight:normal;margin-bottom:5pt}',
+        '.chapter-subheading{font-size:10.5pt;font-style:italic;color:#555;margin-bottom:22pt}',
+        'p{margin-bottom:9pt}',
+        '.location{font-size:8.5pt;letter-spacing:1.2pt;text-transform:uppercase;color:#8B5E3C;font-weight:bold;margin:18pt 0 2pt}',
+        '.tempo-1,.tempo-2{font-style:italic;font-size:10pt;color:#666;margin-bottom:9pt}',
+        'h3{font-size:11pt;font-weight:normal;margin:18pt 0 4pt}',
+        '</style></head><body>',
+        '<div class="chapter-heading">' + resolvedHead + '</div>',
+        resolvedSub ? '<div class="chapter-subheading">' + resolvedSub + '</div>' : '',
+        cleanContent,
+        '</body></html>'
+    ].join('\n');
+
+    var blob = new Blob(['\uFEFF', wordHTML], {type: 'application/msword'});
+    var url  = URL.createObjectURL(blob);
+    var a    = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1500);
+}
+
+function exportPDF() { window.print(); }
+async function copyChapterText(txtUrl, btn) {
+  try {
+    var resp = await fetch(txtUrl);
+    if (!resp.ok) throw new Error('fetch failed: ' + resp.status);
+    var text = await resp.text();
+    await navigator.clipboard.writeText(text);
+    var orig = btn.innerHTML;
+    btn.innerHTML = '&#10003; Copied!';
+    btn.style.background = '#4a7a4a';
+    btn.style.color = '#fff';
+    btn.style.borderColor = '#4a7a4a';
+    setTimeout(function() {
+      btn.innerHTML = orig;
+      btn.style.background = '';
+      btn.style.color = '';
+      btn.style.borderColor = '';
+    }, 2000);
+  } catch(e) {
+    btn.innerHTML = '&#10007; Failed — check permissions';
+    setTimeout(function() { btn.innerHTML = '&#9776; Copy Text'; }, 2500);
+  }
+}
+</script>
+</body>
+</html>
