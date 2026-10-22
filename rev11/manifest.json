@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-22",
-  "total_words": 123065,
+  "total_words": 123061,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -37,8 +37,8 @@
       "label": "Chapter 2",
       "title": "The Lecture",
       "subtitle": "Presto agitato",
-      "word_count": 6000,
-      "paragraph_count": 300,
+      "word_count": 5996,
+      "paragraph_count": 305,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-02.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-02.txt",
