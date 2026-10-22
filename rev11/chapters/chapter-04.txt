@@ -8,13 +8,13 @@ Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,963
+Word Count:      2,992
 Paragraph Count: 112
 Scene Count:     3
 
 Scene 1: I. Allegro sostenuto  --  Words 963–1,303  |  Paragraphs 31–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html
-Scene 2: II. Adagio  --  Words 1,304–1,980  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
-Scene 3: III. Allegro  --  Words 1,981–2,963  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
+Scene 2: II. Adagio  --  Words 1,304–2,009  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
+Scene 3: III. Allegro  --  Words 2,010–2,992  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -125,7 +125,7 @@ Then something inside him translated.
 
   $$ x_{\mathrm{Celeste}}(t) \xrightarrow{\mathcal F} X_{\mathrm{Celeste}}(\omega) $$
 
-Her bow moved. The spectral brightness separated. Fundamental. Partial. Partial. Partial. The warmth left the sound first. Then the bow. Then the woman making it.
+Her bow moved, and David heard the shimmering richness of her tone begin to separate. Fundamental. Partial. Partial. Partial. Each emerged with exquisite clarity, until he could no longer hear the warmth of her phrasing, the tenderness of her playing, or the woman whose hands had made it possible. There remained only the mathematics.
 
   $$ \text{Celeste} \longrightarrow X(\omega) $$
 
