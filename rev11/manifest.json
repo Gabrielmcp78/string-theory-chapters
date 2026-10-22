@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-22",
-  "total_words": 122941,
+  "total_words": 123025,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -231,46 +231,46 @@
       "label": "Chapter 9",
       "title": "Remaining Returns",
       "subtitle": "",
-      "word_count": 3034,
-      "paragraph_count": 106,
+      "word_count": 3118,
+      "paragraph_count": 115,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09.txt",
       "scenes": [
         {
           "n": 1,
-          "heading": "9.1 DISSOLUTION | Cornell — Ithaca, NY · Present Day",
+          "heading": "9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night",
           "word_start": 1,
-          "word_end": 894,
+          "word_end": 978,
           "para_start": 1,
-          "para_end": 14,
+          "para_end": 23,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html"
         },
         {
           "n": 2,
           "heading": "9.2 THE CLASSROOM | Feynman Hall · Following Day",
-          "word_start": 895,
-          "word_end": 2320,
-          "para_start": 15,
-          "para_end": 65,
+          "word_start": 979,
+          "word_end": 2404,
+          "para_start": 24,
+          "para_end": 74,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html"
         },
         {
           "n": 3,
           "heading": "9.3 THE MESSAGE AND THE CORRIDOR | Later That Day",
-          "word_start": 2321,
-          "word_end": 2844,
-          "para_start": 66,
-          "para_end": 100,
+          "word_start": 2405,
+          "word_end": 2928,
+          "para_start": 75,
+          "para_end": 109,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html"
         },
         {
           "n": 4,
           "heading": "9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon",
-          "word_start": 2845,
-          "word_end": 3034,
-          "para_start": 101,
-          "para_end": 106,
+          "word_start": 2929,
+          "word_end": 3118,
+          "para_start": 110,
+          "para_end": 115,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html"
         }
       ]
