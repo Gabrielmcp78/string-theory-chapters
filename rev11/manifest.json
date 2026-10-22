@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-22",
-  "total_words": 123063,
+  "total_words": 123075,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -50,7 +50,7 @@
       "label": "Chapter 3",
       "title": "The Office",
       "subtitle": "Moderato, ma non troppo",
-      "word_count": 1862,
+      "word_count": 1874,
       "paragraph_count": 72,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-03.html",
