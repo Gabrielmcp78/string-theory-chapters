@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,869
-Paragraph Count: 105
+Word Count:      2,963
+Paragraph Count: 112
 Scene Count:     4
 
 Scene 1: 9.1 DISSOLUTION | Cornell — Ithaca, NY · Present Day  --  Words 1–886  |  Paragraphs 1–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html
-Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 887–2,358  |  Paragraphs 15–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,359–2,801  |  Paragraphs 66–99  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA)  --  Words 2,802–2,869  |  Paragraphs 100–105  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
+Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 887–2,452  |  Paragraphs 15–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,453–2,895  |  Paragraphs 73–106  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA)  --  Words 2,896–2,963  |  Paragraphs 107–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -111,13 +111,27 @@ David laughed aloud. “Merciful heavens. This is what tuition buys.”
 
 He gave them another entrance, the room locking into phase, shouting the final cadence in a burst of collective competence. But as David raised his hands to cut them off, his eyes crossed the second row.
 
-Rebecca had drawn her knees together beneath the desk, her hands buried deep inside the sleeves of her cardigan and pressed tightly between her legs. Her head was bowed so low her dark hair formed a curtain across her face. For an instant he thought she might be laughing, but when a boy behind her sang loudly toward a friend across the aisle, she flinched.
+Rebecca sat with her knees pressed together beneath the desk, her hands buried in the sleeves of her cardigan. Her head was bowed, dark hair falling across her face, and when the boy behind her sang the refrain toward someone across the aisle, she flinched.
 
-David lowered his hands. “All right.”
+Then she looked up.
 
-The singing trailed off as he stepped forward. “That's plenty. Thank you.”
+Their eyes met, and for an instant the lecture hall gave way to a playground in the hard sunlight of an autumn afternoon. A little girl stood beside a chain-link fence, her lunchbox hanging from one hand, while a circle of children sang the same five notes around her. Their faces were bright with the pleasure of belonging to something together, and the girl, perhaps seven years old, searched them for somewhere to go, some opening through which she might pass without having to hear the melody again.
 
-He spoke quietly, but the change in his voice caught the room; the students settled into an awkward silence punctuated by the zip of a backpack and someone clearing his throat. David looked at Rebecca, almost asking if she was all right, but the instinct died before it reached his mouth. Instead, he turned toward the board.
+A bell rang.
+
+David blinked.
+
+The lecture hall returned around him, thirty-seven students singing at his invitation, his own hands still raised above the podium. Rebecca was looking at him, her face pale beneath the dark fall of hair.
+
+He lowered his arms.
+
+“All right,” he said, quietly.
+
+The singing faltered, one voice carrying on a beat beyond the others before falling silent.
+
+“That's plenty. Thank you.”
+
+He looked at Rebecca again, but she had lowered her eyes, and whatever question he might have asked seemed certain to make her more conspicuous. He turned toward the board.
 
 “Now, before we all start demanding royalties from one another, there's a technical distinction to make,” he said, writing beneath the staff. “The implied tonal center of a musical phrase and the missing fundamental of an acoustic signal aren't identical mechanisms. Musical expectation involves relationships we've learned—or perhaps recognize without knowing how we've acquired them. The missing fundamental concerns periodicity in the physical signal. And the two can interact, which is partly why music gives physicists so much trouble.”
 
