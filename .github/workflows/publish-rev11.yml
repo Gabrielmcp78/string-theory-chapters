@@ -1,0 +1,116 @@
+# Publish Revision 11
+#
+# Builds https://gabrielmcp78.github.io/string-theory-chapters/rev11/ from the
+# Revision-11 branch of the private book repo Gabrielmcp78/string-theories,
+# using the same build.py as the main site (its --md-dir mode).
+#
+# Nothing is ever written to the book repo: it is checked out read-only with a
+# read-only deploy key (secret REV11_SOURCE_KEY). Only rev11/ in this repo is
+# touched, so the Drive -> DOCX pipeline that owns the root site is unaffected.
+#
+# Runs every 10 minutes and only rebuilds when Revision-11 has a new commit;
+# "Run workflow" in the Actions tab forces a rebuild.
+#
+# Docs: https://docs.github.com/actions/using-workflows/events-that-trigger-workflows#schedule
+#       https://github.com/actions/checkout  (ssh-key, repository, path)
+#       https://docs.github.com/rest/pages/pages#request-a-github-pages-build
+
+name: Publish Revision 11
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if Revision-11 has not changed"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: publish-rev11
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+
+      - name: Check out Revision-11 (read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: Gabrielmcp78/string-theories
+          ref: Revision-11
+          path: book
+          ssh-key: ${{ secrets.REV11_SOURCE_KEY }}
+          persist-credentials: false
+
+      - name: Has Revision-11 changed?
+        id: check
+        run: |
+          SHA="$(git -C book rev-parse HEAD)"
+          LAST="$(cat site/rev11/SOURCE_SHA 2>/dev/null || true)"
+          echo "sha=$SHA" >> "$GITHUB_OUTPUT"
+          echo "short=${SHA::7}" >> "$GITHUB_OUTPUT"
+          if [ "$SHA" = "$LAST" ] && [ "${{ inputs.force }}" != "true" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Revision-11 is still at ${SHA::7}; nothing to do."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Revision-11 moved ${LAST:0:7} -> ${SHA::7}; rebuilding."
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.changed == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build rev11/
+        if: steps.check.outputs.changed == 'true'
+        working-directory: site
+        run: |
+          pip install --quiet python-docx
+          rm -rf rev11
+          python build.py \
+            --md-dir ../book/manuscript \
+            --out-dir rev11 \
+            --pages-url https://gabrielmcp78.github.io/string-theory-chapters/rev11 \
+            --source-label "Revision-11 @ ${{ steps.check.outputs.short }}"
+          echo "${{ steps.check.outputs.sha }}" > rev11/SOURCE_SHA
+
+      - name: Commit and push rev11/
+        if: steps.check.outputs.changed == 'true'
+        working-directory: site
+        run: |
+          git config user.name  "rev11-publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rev11
+          if git diff --cached --quiet; then
+            echo "Build produced no changes."
+            exit 0
+          fi
+          git commit -m "Rev11 rebuild: Revision-11 @ ${{ steps.check.outputs.short }}"
+          # The Mac's Drive pipeline also pushes to main; rebase and retry if it got there first.
+          for i in 1 2 3 4 5; do
+            if git pull --rebase origin main && git push origin HEAD:main; then exit 0; fi
+            sleep $((i * 5))
+          done
+          echo "Could not push after 5 attempts." >&2
+          exit 1
+
+      - name: Ask GitHub Pages to rebuild
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages build request not accepted; the push itself will still trigger a build."

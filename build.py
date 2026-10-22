@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-build.py — String Theory Chapter Site Builder (DOCX Edition)
-Source: DOCX export from Pages (preserves bold, italic, paragraph styles)
+build.py — String Theory Chapter Site Builder
+Source: DOCX export from Pages (preserves bold, italic, paragraph styles), or
+        --md-dir: the Markdown manuscript of a git branch (Revision-11 -> /rev11/)
 
 Outputs per chapter:
   chapters/chapter-NN.html              — styled full reader page
@@ -27,6 +28,9 @@ PAGES_URL   = "https://gabrielmcp78.github.io/string-theory-chapters"
 BOOK_TITLE  = "String Theory"
 AUTHOR      = "Gabriel McPherson"
 COVER_IMAGE = OUT_DIR / "cover.jpg"   # JPEG cover — embedded in EPUB
+ANALYSIS_DIR = OUT_DIR / "analysis"  # scene analysis JSON (Ollama); absent for branch builds
+REV11_DIRNAME = "rev11"              # sub-site built from the Revision-11 branch
+SOURCE_LABEL = ""                    # set for branch builds, e.g. "Revision-11 @ abc1234"
 
 CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue|Dedication|Author|Author\'s Note|Author Note|Afterword|Coda|Appendix)\s*\|\s*$', re.IGNORECASE)
 
@@ -911,7 +915,7 @@ def render_body_html(paras, num=None):
             if num is not None:
                 ch_slug = slugify(num)
                 scene_slug_str = f"{ch_slug}-scene-{scene_n:02d}"
-                analysis_file = Path(__file__).parent / f"analysis/{scene_slug_str}.json"
+                analysis_file = ANALYSIS_DIR / f"{scene_slug_str}.json"
                 if analysis_file.exists():
                     try:
                         analysis_data = json.loads(analysis_file.read_text(encoding='utf-8'))
@@ -1277,7 +1281,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
 
     # Load analysis data if it exists
     scene_id = f"{ch_slug}-scene-{sc_n:02d}"
-    analysis_file = Path(__file__).parent / f"analysis/{scene_id}.json"
+    analysis_file = ANALYSIS_DIR / f"{scene_id}.json"
     analysis_html = ""
     if analysis_file.exists():
         try:
@@ -1766,6 +1770,7 @@ def make_index_html(chapters_meta, build_date):
   <p>Download the full manuscript for any e-reader &mdash; Apple Books, Kobo, or any EPUB-compatible app.</p>
   <a class="epub-download" href="{epub_url}" download="{html.escape(epub_filename)}">&#8595; Download EPUB</a>
 </div>
+{index_note_html()}
 {rows}
 <footer>
   <span>Built {build_date}</span>
@@ -1975,10 +1980,215 @@ def make_epub(chapters_data, out_path):
     epub.close()
     print(f"  \u2713 EPUB: {out_path.name}")
 
+
+# -- Markdown source (Revision-11 branch of Gabrielmcp78/string-theories) -----
+# The branch stores one Markdown file per chapter under manuscript/act-*/ and
+# manuscript/appendix/. These classes mimic the python-docx objects the renderer
+# reads (.text, .style.name, .runs[].text/.bold/.italic), so every page is
+# rendered by exactly the same code as the DOCX site.
+class _MdStyle:
+    __slots__ = ("name",)
+    def __init__(self, name):
+        self.name = name
+
+class _MdRun:
+    __slots__ = ("text", "bold", "italic")
+    def __init__(self, text, bold=False, italic=False):
+        self.text, self.bold, self.italic = text, bold, italic
+
+class _MdPara:
+    def __init__(self, style, runs):
+        self.style = _MdStyle(style)
+        self.runs = [r for r in runs if r.text]
+        self.text = "".join(r.text for r in self.runs)
+
+_MD_ESCAPE = re.compile(r"\\([\\`*_{}\[\]()#+\-.!|>~])")
+_MD_LINK = re.compile(r"\[([^\]]+)\]\([^)]+\)")
+_MD_EMPH = re.compile(
+    r"\*\*\*(?P<bi>.+?)\*\*\*"
+    r"|\*\*(?P<b>.+?)\*\*"
+    r"|(?<![\w*])\*(?!\s)(?P<i>.+?)(?<!\s)\*(?![\w*])"
+    r"|(?<![\w_])_(?!\s)(?P<u>.+?)(?<!\s)_(?![\w_])",
+    re.S)
+
+def _md_unescape(t):
+    return _MD_ESCAPE.sub(r"\1", t)
+
+def _md_runs(text, bold=False, italic=False):
+    """Split inline Markdown emphasis into runs (handles nesting)."""
+    text = _MD_LINK.sub(r"\1", text)
+    runs, pos = [], 0
+    for m in _MD_EMPH.finditer(text):
+        if m.start() > pos:
+            runs.append(_MdRun(_md_unescape(text[pos:m.start()]), bold, italic))
+        if m.group("bi") is not None:
+            runs += _md_runs(m.group("bi"), True, True)
+        elif m.group("b") is not None:
+            runs += _md_runs(m.group("b"), True, italic)
+        else:
+            runs += _md_runs(m.group("i") or m.group("u"), bold, True)
+        pos = m.end()
+    if pos < len(text):
+        runs.append(_MdRun(_md_unescape(text[pos:]), bold, italic))
+    return runs
+
+_MD_HEADING = re.compile(r"^(#{1,6})\s+(.*?)\s*#*\s*$")
+_MD_BREAK = re.compile(r"^\s*(\*\s*\*\s*\*[\s*]*|-{3,}|_{3,})\s*$")
+_MD_CHAPTER_ID = re.compile(r"^ch(\d+)$", re.I)
+
+def _md_front_matter(lines):
+    """Return (front-matter dict, remaining lines)."""
+    meta = {}
+    if lines and lines[0].strip() == "---":
+        for k in range(1, len(lines)):
+            if lines[k].strip() == "---":
+                for raw in lines[1:k]:
+                    if ":" in raw and not raw.lstrip().startswith("#"):
+                        key, val = raw.split(":", 1)
+                        meta[key.strip()] = val.split("#", 1)[0].strip().strip('"').strip("'")
+                return meta, lines[k + 1:]
+    return meta, lines
+
+def parse_markdown_chapter(path):
+    """Parse one chapter file into (num, [paragraph objects])."""
+    meta, lines = _md_front_matter(path.read_text(encoding="utf-8").splitlines())
+    num, title = None, meta.get("title", "")
+    cid = meta.get("chapter_id", "")
+    m = _MD_CHAPTER_ID.match(cid)
+    if m:
+        num = int(m.group(1))
+    elif cid:
+        num = _raw_to_num(cid)
+
+    paras, buf = [], []
+    seen_subtitle = False
+    has_body = False
+
+    def flush():
+        nonlocal has_body
+        if buf:
+            joined = " ".join(x.strip() for x in buf).strip()
+            buf.clear()
+            if joined:
+                paras.append(_MdPara("Body", _md_runs(joined)))
+                has_body = True
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+        if not stripped or stripped.startswith("<!--"):
+            flush(); i += 1; continue
+        hm = _MD_HEADING.match(stripped)
+        if hm:
+            flush()
+            level, text = len(hm.group(1)), hm.group(2)
+            if level == 1:
+                if "|" in text:
+                    left, right = [x.strip() for x in text.split("|", 1)]
+                    n = _raw_to_num(left)
+                    if n != -99:
+                        num = n
+                    title = right
+                else:
+                    title = text
+                paras.append(_MdPara("SubChapter", _md_runs(title)))
+            elif level == 2 and not seen_subtitle and not has_body:
+                paras.append(_MdPara("Tempo Marking 2", _md_runs(text)))
+                seen_subtitle = True
+            elif level == 2:
+                paras.append(_MdPara("Tempo Marking 1", _md_runs(text)))
+            elif level == 3:
+                paras.append(_MdPara("location", _md_runs(text)))
+                has_body = True
+            else:
+                paras.append(_MdPara("Tempo Marking 1", _md_runs(text)))
+            i += 1; continue
+        if _MD_BREAK.match(stripped):
+            flush()
+            paras.append(_MdPara("Chapter", [_MdRun("* * *")]))
+            i += 1; continue
+        if stripped.startswith("$$") or stripped.startswith("\\["):
+            flush()
+            closer = "$$" if stripped.startswith("$$") else "\\]"
+            block = [stripped]
+            single = len(stripped) > 2 and stripped.endswith(closer) and stripped != closer
+            i += 1
+            while not single and i < len(lines):
+                block.append(lines[i].strip())
+                if lines[i].strip().endswith(closer):
+                    i += 1
+                    break
+                i += 1
+            paras.append(_MdPara("Equations", [_MdRun(" ".join(b for b in block if b))]))
+            has_body = True
+            continue
+        if stripped.startswith(">"):
+            flush()
+            quote = []
+            while i < len(lines) and lines[i].strip().startswith(">"):
+                q = lines[i].strip()[1:].strip()
+                if q:
+                    quote.append(q)
+                elif quote:
+                    paras.append(_MdPara("Body 3", _md_runs(" ".join(quote))))
+                    quote = []
+                i += 1
+            if quote:
+                paras.append(_MdPara("Body 3", _md_runs(" ".join(quote))))
+            has_body = True
+            continue
+        hard_break = line.endswith("  ") or line.rstrip().endswith("\\")
+        buf.append(line.rstrip().rstrip("\\"))
+        if hard_break:
+            flush()
+        i += 1
+    flush()
+
+    if num is None:
+        num = -99
+    if not any(p.style.name == "SubChapter" for p in paras):
+        paras.insert(0, _MdPara("SubChapter", _md_runs(title or chapter_label(num))))
+    return num, paras
+
+def parse_markdown_dir(md_dir):
+    """Read every chapter under manuscript/ and order them like the book."""
+    chapters = [parse_markdown_chapter(f) for f in sorted(Path(md_dir).rglob("*.md"))]
+    chapters = [c for c in chapters if c[0] != -99]
+    def order(c):
+        n = c[0]
+        return (0, 0) if n == 0 else ((1, n) if n > 0 else (2, -n))
+    return sorted(chapters, key=order)
+
+def index_note_html():
+    """Root index: link to the Revision-11 site when it exists. Branch index: say where it came from."""
+    if SOURCE_LABEL:
+        return (f'<div class="epub-banner" style="background:#3b2f2a">'
+                f'<p>Working draft built automatically from <strong>{html.escape(SOURCE_LABEL)}</strong>. '
+                f'Canon lives on the main site.</p>'
+                f'<a class="epub-download" href="../index.html">&#8592; Main manuscript</a></div>')
+    rev = OUT_DIR / REV11_DIRNAME / "index.html"
+    if rev.exists():
+        return (f'<div class="epub-banner" style="background:#3b2f2a">'
+                f'<p>Revision 11 working draft &mdash; rebuilt automatically from the Revision-11 branch.</p>'
+                f'<a class="epub-download" href="{REV11_DIRNAME}/index.html">Read Revision 11 &#8594;</a></div>')
+    return ""
+
+def configure_output(out_dir, pages_url, source_label=""):
+    """Point every output path and absolute URL at a sub-site (e.g. rev11/)."""
+    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL
+    OUT_DIR = Path(out_dir).resolve()
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    CHAPTER_DIR = OUT_DIR / "chapters"
+    EDITS_DIR = OUT_DIR / "edits"
+    ANALYSIS_DIR = OUT_DIR / "analysis"
+    PAGES_URL = pages_url.rstrip("/")
+    SOURCE_LABEL = source_label
+
 # -- Main build ---------------------------------------------------------------
 def build(src_path=None):
     src = Path(src_path) if src_path else DEFAULT_SRC
-    if not src.exists():
+    if not src.exists() and not src.is_dir():
         candidates = sorted(GDRIVE.glob("*.docx"),
                             key=lambda f: f.stat().st_mtime, reverse=True)
         if not candidates:
@@ -1993,7 +2203,7 @@ def build(src_path=None):
         if stale_f.suffix in ('.html', '.txt'):
             stale_f.unlink()
 
-    chapters   = parse_chapters(src)
+    chapters   = parse_markdown_dir(src) if src.is_dir() else parse_chapters(src)
     all_nums   = [num for num, _ in chapters]
     date       = datetime.now().strftime("%Y-%m-%d")
     num_chaps  = sum(1 for n in all_nums if n > 0)
@@ -2080,4 +2290,15 @@ def build(src_path=None):
 
 
 if __name__ == "__main__":
-    build(sys.argv[1] if len(sys.argv) > 1 else None)
+    if len(sys.argv) > 1 and sys.argv[1].startswith("--"):
+        import argparse
+        ap = argparse.ArgumentParser(description="Build the chapter site from a DOCX or the Markdown branch.")
+        ap.add_argument("--md-dir", required=True, help="manuscript/ folder of the branch checkout")
+        ap.add_argument("--out-dir", required=True, help="output folder, e.g. rev11")
+        ap.add_argument("--pages-url", required=True, help="public URL of the output folder")
+        ap.add_argument("--source-label", default="", help='e.g. "Revision-11 @ abc1234"')
+        a = ap.parse_args()
+        configure_output(a.out_dir, a.pages_url, a.source_label)
+        build(a.md_dir)
+    else:
+        build(sys.argv[1] if len(sys.argv) > 1 else None)
