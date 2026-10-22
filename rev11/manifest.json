@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-21",
-  "total_words": 122870,
+  "total_words": 123315,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -231,8 +231,8 @@
       "label": "Chapter 9",
       "title": "Remaining Returns",
       "subtitle": "",
-      "word_count": 2963,
-      "paragraph_count": 112,
+      "word_count": 3408,
+      "paragraph_count": 123,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09.txt",
@@ -259,18 +259,18 @@
           "n": 3,
           "heading": "9.3 THE MESSAGE AND THE CORRIDOR | Later That Day",
           "word_start": 2453,
-          "word_end": 2895,
+          "word_end": 3194,
           "para_start": 73,
-          "para_end": 106,
+          "para_end": 116,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html"
         },
         {
           "n": 4,
           "heading": "9.4 RECOGNITION (CODA)",
-          "word_start": 2896,
-          "word_end": 2963,
-          "para_start": 107,
-          "para_end": 112,
+          "word_start": 3195,
+          "word_end": 3408,
+          "para_start": 117,
+          "para_end": 123,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html"
         }
       ]

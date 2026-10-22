@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,963
-Paragraph Count: 112
+Word Count:      3,408
+Paragraph Count: 123
 Scene Count:     4
 
 Scene 1: 9.1 DISSOLUTION | Cornell — Ithaca, NY · Present Day  --  Words 1–886  |  Paragraphs 1–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html
 Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 887–2,452  |  Paragraphs 15–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,453–2,895  |  Paragraphs 73–106  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA)  --  Words 2,896–2,963  |  Paragraphs 107–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,453–3,194  |  Paragraphs 73–116  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA)  --  Words 3,195–3,408  |  Paragraphs 117–123  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -218,34 +218,56 @@ Bernstein nearly lost his Scotch. He doubled over, pounding the armchair, laughi
 
 David smiled at the empty corridor.
 
-A faint vibration moved beneath his feet, the familiar low hum of the building’s foundations. He scarcely noticed it.
+From somewhere ahead came a burst of laughter, loud enough to carry through the deserted hall. He looked toward the sound. A handful of students had gathered near the south entrance, their voices rising and falling over one another, someone telling a story that appeared to require several energetic reenactments. A girl perched on the radiator beneath the window, laughing so hard she had to grip the shoulder of the boy beside her. Another attempted to finish a sentence but surrendered halfway through, setting them all off again.
+
+David continued toward them, still smiling faintly. Their laughter was agreeable company after the solitude of the afternoon, and for a moment he was content simply to hear it without knowing what had been said.
+
+One of the students noticed him approaching and lowered his voice. The others followed, though the girl on the radiator could not quite suppress a final, helpless snort. David gave them a passing nod, and whatever restraint his presence had imposed dissolved behind him.
 
 He had nearly reached the south doors when one swung inward.
 
-A young woman with a heavy backpack appeared directly in his path.
+A young woman with a heavy backpack came through, drawing noisily on the straw of an enormous convenience-store fountain soda, its paper cup nearly empty except for the ice rattling around the bottom. She looked up a moment too late.
 
 “Oh! Sorry!”
 
-“My fault.” David stepped back, catching the door before it struck her. “Go right ahead.”
+They collided lightly. The lid popped free, sending a handful of ice cubes scattering across the tiles between their shoes.
 
-“Thanks, Professor Lang.”
+“Oh, God. I'm so sorry, Professor Lang.”
 
-She slipped past him into the building.
+“Not at all.” David caught the door before it struck her and surveyed the little constellation of ice.
+
+“As it happens, I'm quite accomplished at ice removal.”
+
+With two deft sweeps of his shoe, he sent the cubes skittering through the open doorway and onto the frozen steps.
+
+“There. Plenty of it out there already. A little more can hardly hurt.”
+
+She laughed, relieved, and snapped the lid back onto her cup.
+
+“Thanks, Professor.”
+
+“Of course.”
+
+He held the door while she slipped past him into the building. Down the corridor, her friends called something to her, and she answered with an indignant protest that set the whole group laughing again.
+
+David stepped outside, letting the door swing shut behind him.
 
 * * *
 
 
 9.4 RECOGNITION (CODA)
 
-David stepped outside, releasing the door behind him.
-
-The cold air smelled of damp shale and pine. Wind drove dead oak leaves across the dark campus paths.
+Outside, the late afternoon had settled cold and gray over the Arts Quad, and David, turning up his collar against the wind, made his way along the path beneath the darkening windows of Goldwin Smith.
 
 Arthur’s gold Omega ticked beneath his coat sleeve.
 
-He turned up his collar, slipped his hands into his pockets, and descended the concrete steps.
+He had gone some distance before a familiar scent reached him, the rich, unmistakable sweetness of cigar smoke borne across the Quad on a passing current of air. He stopped, half expecting to find Professor Wexler enjoying his customary post-lecture indulgence beneath the south portico, and looked back toward the building with the beginnings of a greeting already forming on his lips.
 
-He was halfway to the road before he realized he was humming Elliot’s melody.
+But the portico stood empty, its stone columns pale against the gathering dusk, and whatever trace of smoke had drawn his attention was gone. From the open spaces between the buildings came the ordinary sounds of the university winding toward evening: voices crossing the lawns, a burst of laughter somewhere behind him, and, carried from beyond the far edge of campus, the rushing thunder of the gorge rapids.
+
+For a while he stood listening, until the cold encouraged him onward, and it was only as he descended the steps toward the road that he became aware of the melody moving softly beneath his breath.
+
+Elliot’s melody.
 
 
 ========================================================================
