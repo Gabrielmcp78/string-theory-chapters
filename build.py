@@ -2120,7 +2120,10 @@ def parse_markdown_chapter(path):
                     i += 1
                     break
                 i += 1
-            paras.append(_MdPara("Equations", [_MdRun(" ".join(b for b in block if b))]))
+            eq = " ".join(b for b in block if b).strip()
+            if eq.startswith("\\[") and eq.endswith("\\]"):
+                eq = "$$" + eq[2:-2].strip() + "$$"
+            paras.append(_MdPara("Equations", [_MdRun(eq)]))
             has_body = True
             continue
         if stripped.startswith(">"):
@@ -2176,7 +2179,10 @@ def index_note_html():
 
 def configure_output(out_dir, pages_url, source_label=""):
     """Point every output path and absolute URL at a sub-site (e.g. rev11/)."""
-    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL
+    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL, HEAD_TAGS
+    for left, right in (("[", "]"), ("(", ")")):
+        HEAD_TAGS = HEAD_TAGS.replace(f"left: '\\{left}', right: '\\{right}'",
+                                      f"left: '\\\\{left}', right: '\\\\{right}'")
     OUT_DIR = Path(out_dir).resolve()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     CHAPTER_DIR = OUT_DIR / "chapters"
