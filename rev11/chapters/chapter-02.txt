@@ -8,7 +8,7 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,006
+Word Count:      6,000
 Paragraph Count: 300
 Scene Count:     0
 
@@ -52,7 +52,7 @@ He turned over his shoulder with a grin. “The old human narcotic.”
 
 Beneath it he wrote:
 
-  \[ \Psi(x,t)=\sum_i c_i\phi_i(x)e^{-iE_i t/\hbar} \]
+  $$\Psi(x,t)=\sum_i c_i\phi_i(x)e^{-iE_i t/\hbar}$$
 
 “This is the whole wave function: everything the system could possibly become gathered into one sprawling, unobserved description. We call it probability because the alternative requires admitting that we do not entirely know what reality is before we look at it.”
 
@@ -70,7 +70,7 @@ The response traveled farther this time, delayed just long enough for David to k
 
 Beneath the wave function he wrote:
 
-  \[ K(b,a)=\int \mathcal D[x(t)]e^{\frac{i}{\hbar}S[x(t)]} \]
+  $$K(b,a)=\int \mathcal D[x(t)]e^{\frac{i}{\hbar}S[x(t)]}$$
 
 “Now, this is the sum over histories. Every possible way of getting from the beginning to the end contributes an amplitude. Some reinforce, some cancel, and what we call reality is, more or less, whatever survives the argument.”
 
@@ -78,7 +78,7 @@ He let them copy it while he moved down the board, watching heads dip toward not
 
 Without having planned to, he wrote:
 
-  \[ \chi_{AB}(\omega)=\int_{-\infty}^{\infty}R_{AB}(t)e^{i\omega t}\,dt \]
+  $$\chi_{AB}(\omega)=\int_{-\infty}^{\infty}R_{AB}(t)e^{i\omega t}\,dt$$
 
 David regarded the expression for a moment.
 
