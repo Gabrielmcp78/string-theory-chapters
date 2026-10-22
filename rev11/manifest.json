@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-22",
-  "total_words": 123075,
+  "total_words": 123080,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -63,7 +63,7 @@
       "label": "Chapter 4",
       "title": "The Rehearsal",
       "subtitle": "Andante con distanza",
-      "word_count": 2958,
+      "word_count": 2963,
       "paragraph_count": 112,
       "scene_count": 3,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04.html",
@@ -72,8 +72,8 @@
         {
           "n": 1,
           "heading": "I. Allegro sostenuto",
-          "word_start": 958,
-          "word_end": 1298,
+          "word_start": 963,
+          "word_end": 1303,
           "para_start": 31,
           "para_end": 41,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html"
@@ -81,8 +81,8 @@
         {
           "n": 2,
           "heading": "II. Adagio",
-          "word_start": 1299,
-          "word_end": 1975,
+          "word_start": 1304,
+          "word_end": 1980,
           "para_start": 42,
           "para_end": 71,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html"
@@ -90,8 +90,8 @@
         {
           "n": 3,
           "heading": "III. Allegro",
-          "word_start": 1976,
-          "word_end": 2958,
+          "word_start": 1981,
+          "word_end": 2963,
           "para_start": 72,
           "para_end": 112,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html"

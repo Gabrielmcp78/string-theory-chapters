@@ -8,13 +8,13 @@ Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,958
+Word Count:      2,963
 Paragraph Count: 112
 Scene Count:     3
 
-Scene 1: I. Allegro sostenuto  --  Words 958–1,298  |  Paragraphs 31–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html
-Scene 2: II. Adagio  --  Words 1,299–1,975  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
-Scene 3: III. Allegro  --  Words 1,976–2,958  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
+Scene 1: I. Allegro sostenuto  --  Words 963–1,303  |  Paragraphs 31–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html
+Scene 2: II. Adagio  --  Words 1,304–1,980  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
+Scene 3: III. Allegro  --  Words 1,981–2,963  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -27,7 +27,7 @@ Below, fluorescent corridors lined with practice rooms tunneled under the hill, 
 
 So that in the silences between terms, the walls seemed to keep a low, borrowed life, as if the building could not quite bring itself to forget.
 
-Roger was, as always, the first member of the quartet to arrive. This required no great feat of punctuality; his office was quite literally off the catwalk above the rehearsal room. He was spreading music across the stands when David shouldered through the door. He had come early. Early enough that the chairs stood squared, the stands dressed, the room warmed into looking like any other Tuesday. It was the kind of ordinariness that did not happen by itself.
+Roger was, as always, the first member of the quartet to arrive. This required no great feat of punctuality; his office was quite literally off the catwalk above the rehearsal room. He had come early enough that by the time David shouldered through the door, the music was spread across the stands, the chairs squared, and the room warmed into looking like any other Monday. It was the kind of ordinariness that did not happen by itself.
 
 Prokofiev’s Second sat atop the pile, corners weighted flat. Months ago they’d penciled bowings into the margins, thick annotations that read like an ongoing argument with the composer. David set the cello case down with a heavy, unmusical thud. His coat still held the cold.
 
@@ -75,7 +75,7 @@ Then the beating narrowed as the quartet became one thing. A few more fleeting b
 
 “The Kabardinian,” Roger said. “Shall we?”
 
-Chairs shifted. Bows rose. Four people breathed together. And Prokofiev arrived.
+A shift of chairs, a tilt of heads, four musicians drawing a common breath until finally, Prokofiev arrived.
 
 SERGEI PROKOFIEV String Quartet No. 2, “Kabardinian,” Op. 92
 
