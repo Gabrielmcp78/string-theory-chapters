@@ -8,13 +8,13 @@ Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,992
+Word Count:      3,015
 Paragraph Count: 112
 Scene Count:     3
 
 Scene 1: I. Allegro sostenuto  --  Words 963–1,303  |  Paragraphs 31–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html
-Scene 2: II. Adagio  --  Words 1,304–2,009  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
-Scene 3: III. Allegro  --  Words 2,010–2,992  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
+Scene 2: II. Adagio  --  Words 1,304–2,032  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
+Scene 3: III. Allegro  --  Words 2,033–3,015  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -109,11 +109,11 @@ The Adagio began in a broad 12/8. David’s cello entered with a line climbing i
 
 Celeste listened for him in timing, vibrato, the minute changes of color one player offers another across a small distance. She bent phrases, breathed warmth into her tone, leaned into rubato like an outstretched arm reaching for his, waiting for David’s cello to answer with the expected resolution.
 
-He answered precisely. His intonation was immaculate, his phrasing beyond reproach, yet where her viola lingered, his cello moved on, arriving at each new phrase with an assurance that seemed to have no need of what had come before it. She gave him room to breathe and heard him pass through it, neither hurried nor delayed, as though the space she had made had never existed.
+He answered precisely. His intonation was immaculate, his phrasing beyond reproach, yet where her viola lingered, his cello moved on, arriving at each new phrase with an assurance that seemed to have no need of what had come before it. She gave him room to breathe and heard him pass through it, as though the space she had made had never existed.
 
-She leaned toward him again, her bow drawing a little more warmth from the string, and felt the old, familiar effort of trying to make herself heard through a door that was not locked, merely closed. The music moved between them, exquisitely balanced, while something in its balance began to seem intolerable.
+She leaned toward him again, her bow drawing a little more warmth from the string, and felt the old, familiar effort of trying to make herself heard through a door that was closed against her. The music moved between them, exquisitely balanced, while something in its balance began to seem intolerable.
 
-For years she had listened for his footsteps on the other side of that door, learned the rhythms of his work, the hours when interruption might be forgiven, the hours when even tenderness was an intrusion. She had learned to move quietly through their home, leaving him the silence he required, until there were evenings when she could scarcely remember whether they had spoken.
+For years she had listened for his footsteps on the other side of that door, learned the rhythms of his work, the hours when interruption might be forgiven, the hours when even tenderness was an intrusion. She had learned to move quietly through their home until there were evenings when she could scarcely remember whether they had spoken.
 
 Now, beneath the suspended acoustic clouds, she offered him the smallest hesitation before a resolution, an invitation so intimate that once he would have answered it without thought. His cello arrived exactly on the beat, beautiful and utterly alone, and she understood how she might have left him one morning and returned weeks later to find the light beneath his study door unchanged.
 
@@ -129,39 +129,39 @@ Her bow moved, and David heard the shimmering richness of her tone begin to sepa
 
   $$ \text{Celeste} \longrightarrow X(\omega) $$
 
-He stared through the music. The score returned her to ordinario. The color warmed again.
-
-The mechanism changed soon after. Pizzicato entered. A poco accel. drove them toward Poco più animato, and the slow wash drained from the movement. David’s cello fell into repeated rhythmic patterns, triplet cells cycling through his fingers.
-
-Celeste listened to his triplets, and a Saturday returned.
-
-She had stood outside his study with a cup of coffee, still warm. Said his name twice through the closed door.
-
-“Mm?” he had answered, but it was in no way offered as a question.
-
-She set the cup beside the door and left. That evening she found it where she had placed it. The coffee had gone cold and a skin had formed across the surface.
-
-Poco meno mosso. The motor activity gave way.
-
-Tempo I. The broad pulse returned.
-
-The music came home. David did not.
-
-Her bow began to tremble as she leaned slightly toward him.
+The warmth returned to her viola, but David had gone somewhere beyond it, his fingers carrying on with a precision that seemed almost independent of the man holding the instrument.
 
 “David,” she whispered beneath her line. “Stay with us.”
 
-Then, softer:
+Then, softer still, almost lost beneath the music:
 
 “Stay with me.”
 
-Something crossed Roger’s face. Nothing happened. The score continued. They played to the end.
+Roger looked across the quartet. He had seen David disappear into himself before, had learned when to let the music bring him back, but the expression on Celeste’s face made him hesitate. Catherine followed his glance. For a few measures something passed among the three of them, a concern none could acknowledge without breaking the very thing they were trying to preserve.
 
-When the last note faded, Celeste set down her viola and reached for him. Her hand found his forearm.
+David played on.
+
+Celeste could hear him perfectly. That was the terrible part. Every entrance, every resolution, the living breath of the phrase offered back to her with such immaculate care that anyone listening might have mistaken it for tenderness.
+
+Somewhere above them, the sound climbed into the suspended clouds and returned softened, gathering the four instruments into one beautiful, almost unbearable whole.
+
+She played to the end.
+
+As the final resonance faded, she lowered her viola.
+
+“Can we just—”
+
+The words failed her. Roger had already lowered his bow.
+
+Celeste reached across the small distance between their chairs and took David by the forearm.
 
 “David. David, darling. Come back. Hey. You in there?”
 
-His gaze descended from the ceiling. He blinked. Slowly, his eyes sharpened on her face.
+His gaze descended from the ceiling. He blinked, the terrible distance in his eyes diminishing as he found her face.
+
+There she was.
+
+And for one moment, whatever had carried him so far away seemed willing to release him.
 
 
 III. Allegro
