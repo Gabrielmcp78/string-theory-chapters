@@ -7,18 +7,18 @@ Title:           Passions’ Principles
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,799
-Paragraph Count: 726
+Word Count:      13,925
+Paragraph Count: 739
 Scene Count:     8
 
 Scene 1: I.  CHORALE  |  Wednesday Dinner  --  Words 1–1,963  |  Paragraphs 1–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-01.html
-Scene 2: II. ARIOSO | The Tuning  --  Words 1,964–5,419  |  Paragraphs 81–278  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-02.html
-Scene 3: III. RECITATIVUM | Break-through  --  Words 5,420–6,360  |  Paragraphs 279–314  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-03.html
-Scene 4: IV. TURBA | The Guillotine  --  Words 6,361–8,363  |  Paragraphs 315–431  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-04.html
-Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,364–10,155  |  Paragraphs 432–549  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-05.html
-Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,156–10,830  |  Paragraphs 550–576  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-06.html
-Scene 7: VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 10,831–12,220  |  Paragraphs 577–651  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-07.html
-Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,221–13,799  |  Paragraphs 652–726  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-08.html
+Scene 2: II. ARIOSO | The Tuning  --  Words 1,964–5,545  |  Paragraphs 81–291  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-02.html
+Scene 3: III. RECITATIVUM | Break-through  --  Words 5,546–6,486  |  Paragraphs 292–327  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-03.html
+Scene 4: IV. TURBA | The Guillotine  --  Words 6,487–8,489  |  Paragraphs 328–444  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-04.html
+Scene 5: V. VIA DOLOROSA | Into the Storm  --  Words 8,490–10,281  |  Paragraphs 445–562  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-05.html
+Scene 6: VI. CRUCIFIXIO | It Takes a Beating  --  Words 10,282–10,956  |  Paragraphs 563–589  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-06.html
+Scene 7: VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 10,957–12,346  |  Paragraphs 590–664  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-07.html
+Scene 8: VIII. RELIQUIAE | Up From the Depths  --  Words 12,347–13,925  |  Paragraphs 665–739  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -205,11 +205,37 @@ Celeste looked back, a grin of success across her face. “They never digitized 
 
 Somewhere beyond the lower corridor, a practice room leaked four bars of trumpet, stopped, started again, and found a more interesting way to fail.
 
-The chapel was nearly dark when she found the old rehearsal lamp near the front and switched it on. Its cone of light fell across the long table, the music weights, the torn grocery bag, and the book she still had not opened. The room held the final residue of the day: a flute line too high to have survived, a door closing somewhere in the lofts, the low animal patience of the timber overhead.
+The chapel was nearly dark. Moonlight and the lamps along the pathways outside gave the stained glass just enough light to scatter patches of blue, amber, green, and gold across the interior, the old design deciding what could be seen and what remained hidden.
 
-As David drew out the cello’s endpin, the small sound of metal meeting floor rose into the room and returned faintly from somewhere above them.
+Celeste found the rehearsal lamp near the front and switched it on. Its narrow cone cut across the colored darkness, illuminating the long table where she began arranging the book and her charts.
 
-“Don’t you dare, Lang,” Celeste said.
+David lingered among the pews.
+
+He had always loved what the chapel did to time. Here, moments seemed to loosen from their obligation to proceed, lingering in the spaces between one sound and the next, free for a little while from the necessity of arriving anywhere.
+
+Grace notes in granite.
+
+He wandered toward the back, counting.
+
+Fourth pew. Fifth seat from the aisle.
+
+He drew the hymnal from its wooden rail and opened it.
+
+Still there.
+
+The etching he had begun years ago.
+
+David smiled, a small sound escaping him before he could give it the dignity of a word. Then he returned the hymnal to its rail.
+
+Wood struck wood.
+
+The sound passed through the pew and into the floor, climbed the stone walls, and came back from somewhere high in the chapel, changed by the distance it had traveled.
+
+At the front, Celeste looked up.
+
+She had heard him.
+
+“Don’t you dare, Lang.”
 
 “I have said nothing.”
 
