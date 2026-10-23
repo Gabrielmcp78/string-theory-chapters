@@ -7,13 +7,13 @@ Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      4,124
-Paragraph Count: 260
+Word Count:      4,191
+Paragraph Count: 259
 Scene Count:     3
 
-Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,079  |  Paragraphs 1–56  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
-Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,080–1,588  |  Paragraphs 57–89  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
-Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,589–4,124  |  Paragraphs 90–260  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
+Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,146  |  Paragraphs 1–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
+Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,147–1,655  |  Paragraphs 56–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
+Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,656–4,191  |  Paragraphs 89–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -23,27 +23,21 @@ Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,589–4,124  |  Par
 
 Fog drifted through downtown Buffalo, gathering beneath the streetlamps and dissolving the upper stories into darkness. David wandered along Main Street with his collar turned against the cold, his dinner sitting heavily beneath his ribs. Traffic had thinned to the occasional car, its tires whispering over wet pavement before the sound disappeared into the mist.
 
-Ahead, the enormous illuminated marquee of Shea's Theatre blazed through the fog, its rows of bulbs recalling the carnival midway at the county fair his father had taken him to as a boy. For an instant he caught the smell of wet sawdust and spun sugar, heard Arthur laughing somewhere above the mechanical racket of the rides. Then a bus passed between him and the theater, and the memory went with it.
+Ahead, the enormous illuminated marquee of Shea's Theatre blazed through the fog, its rows of bulbs recalling the carnival midway at the county fair his father had taken him to as a boy. For an instant he caught the smell of wet sawdust and spun sugar, Arthur laughing somewhere above the mechanical racket of the rides. Then a bus passed between him and the theater, and the memory went with it.
 
 Wonderful little string shop somewhere in Buffalo.
-
-Roger's message.
-
-He pulled out his phone and found it among the afternoon's texts. Roger couldn't remember the name, hadn't been there in years, but was certain they'd have a tungsten-wound C string for David's ridiculous beast. Ask the concierge, he'd suggested.
-
-Which, naturally, David hadn't done.
 
 He wandered another few blocks, inspecting the occasional lighted window, but the businesses grew fewer as he moved away from the theater. A florist was closing for the evening. Beyond it, a travel agency stood boarded up, its faded advertisements promising Mediterranean sunshine. The next intersection offered little encouragement, and after another five minutes David began to suspect that Roger's wonderful little shop had gone the way of so many wonderful little shops.
 
 He turned back toward the theater, now reduced to a distant amber blur.
 
-The side streets were deserted, the storefronts shuttered, and not a soul appeared in either direction. David supposed he ought to have felt concerned for his safety, though the complete absence of other human beings seemed almost a safeguard in itself. Had there been anyone about, he might have had reason to keep his guard up. As it was, the only evidence of life came from an owl calling somewhere down a narrow side street, well beyond the reach of the nearest lamp.
+The side streets were deserted, storefronts shuttered, and not a soul appeared in any direction. Had there been anyone about, he might have had reason to keep his guard up, the surrounding neighborhood having clearly seen better, cleaner days. But the complete absence of another human being seemed almost a safeguard in itself. The only evidence of life came from an owl calling somewhere down a narrow side street, well beyond the reach of the nearest lamp.
 
-The bird called again, its hollow notes carrying strangely through the fog.
+He walked further through the silent streets, his clicking heels the only other significant intruder. Then the bird called again, sending its hollow notes carrying strangely through the frozen fog.
 
-Well, it's just you and me, old bird.
+Well, I guess it's just you and me, old bird.
 
-David smiled and turned toward the sound. He could make out little beyond the dark geometry of a fire escape and the faint suggestion of rooftops above it, but curiosity had already carried him off the main thoroughfare, and before he had quite decided to follow, he found himself walking down the narrow, sullen street, half hoping to make the creature's acquaintance.
+He smiled at the thought and turned toward the sound. The side street was hardly more than an access alley. A part of the city that had that once bustling, now forgotten air about it. He could make out very little beyond the dark geometry of a fire escape and the faint suggestion of rooftops above, but curiosity had already carried him off the main thoroughfare, and before he had quite decided to follow, he found himself walking down the narrow, sullen street, half hoping to make the wise creature's acquaintance.
 
 He had gone perhaps twenty paces when something caught his eye.
 
@@ -127,7 +121,11 @@ Moving to leave, he stopped at the threshold.
 
 “Will I see you again?”
 
-“You already have,” she replied, and pressed a business card into his hand.
+The old woman stopped what she was doing. She moved toward him and gently took his hand, a mischievous grin sliding across her deeply wrinkled but beautiful face.
+
+“You already have, dear,” she replied, as she pressed a thick, cream business card into his hand, ushered him out the door, locking it behind him as he left.
+
+David took five, maybe six steps from the storefront when he turned back. The lights were out. The windows pitch-dark. The owl fluttered onto the fire escape above.
 
 He lingered longer than he meant, saw less than he wanted, and left quieter than he arrived.
 

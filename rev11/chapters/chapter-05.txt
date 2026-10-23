@@ -8,8 +8,8 @@ Subtitle:        Adagio, con malinconia
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,632
-Paragraph Count: 85
+Word Count:      2,145
+Paragraph Count: 72
 Scene Count:     0
 
 ========================================================================
@@ -30,7 +30,7 @@ In the kitchen, he stood for a moment, trying to determine whether the hollownes
 
 He opened the refrigerator, found nothing he was willing to recognize as food, and turned instead to the grease-glossed pizza box abandoned on the stovetop. Inside, three desiccated slices of convenience-store pepperoni waited for him.
 
-David tried first to jam the entire box into the microwave. When it refused to fit, he considered the problem for several seconds, then simply tilted the box and let the congealed slices slide directly onto the revolving glass.
+David tilted the box and let the congealed slices slide directly onto the revolving glass of the microwave.
 
 He shut the door, pressed thirty seconds, and surrendered the matter to physics.
 
@@ -46,7 +46,7 @@ The first page flipped, but no lecture outline materialized. Only a spiral occup
 
 David turned the page to find yet another spiral, this one opening outward. On the next page, two had been drawn over one another, their curves intersecting so densely that the center had been rubbed nearly through.
 
-He turned another page, then another. There were no equations, no numbered sequence, no prepared transitions anywhere. Not even… David’s breath caught hard and he looked away to regather himself. Confirmation began to set in, unyielding and dark. Nothing of what he remembered preparing seemed to exist.
+He turned another page, then another. There were no equations, no numbered sequence, no prepared transitions anywhere. He looked away, catching his breath against the quiet.
 
 The refrigerator motor had fallen silent. Somewhere in the bathroom, the faucet released a single drop.
 
@@ -64,19 +64,19 @@ The sound shot through the loft with a hard echo, spreading into every crease an
 
 David turned toward the living room and had begun to walk away when, behind him, the glass shattered.
 
-He flinched and spun back at the sound. Fragments of crystal scattered across marble, the counter, shards tumbling over the edge and onto the floor. A thin pool of scotch rolled from fragment to fragment, then started to drip over the counter's edge.
+He flinched and spun back. Fragments of crystal scattered across the marble countertop, shards tumbling over the edge and onto the floor. A thin pool of scotch spread between the fragments, then began to drip over the counter's edge.
 
-He stared at the empty space where the glass had stood. It was whole when his hand left it. He was certain of that. He had heard the base strike the counter. He had turned away. He had taken two steps. Only then had it broken.
+Well, it's about time somebody broke that fucking glass.
 
-His hand was shaking by the time he reached for his phone. Dad would love to hear what his scotch could do. Before he could choose otherwise, he pressed the impossible favorite.
+He laughed, thinking how much Dad would have enjoyed hearing about a bottle of scotch powerful enough to shatter its own glass. Before he could choose otherwise, he reached for his phone and pressed the impossible favorite.
 
-Arthur's photograph filled the screen. Anticipation still held a smile on his face through the first ring, then the second. But as the third ring fell away and the hitch of the recorded message sounded, David's smile went out.
+Arthur's photograph filled the screen. Anticipation still held a smile on David's face through the first ring, then the second. But as the third ring fell away and the hitch of the recorded message sounded, his smile went out.
 
 His father's voice entered the room with its old precise courtesy.
 
 “Hello, this is Arthur Lang. I can't come to the phone at present. Please leave a message after the tone, and I'll return your call at the earliest interval.”
 
-The tone sounded. David kept the phone against his ear. For several seconds, the message held only silence. It opened around him slowly, gathering the apartment into its depth: the dark fireplace, the brick climbing toward the rafters, the scattered glass catching strips of light on the kitchen floor. Every surface seemed suspended within the waiting line, listening beside him for the voice that had promised, with perfect courtesy, to return.
+The tone sounded. David kept the phone against his ear. For several seconds, the message held only silence. It opened around him slowly, gathering the apartment into its depth: the dark fireplace, the brick climbing toward the rafters, the scattered glass catching strips of light on the kitchen floor.
 
 “Dad?” David said.
 
@@ -84,7 +84,7 @@ His breath caught on the word. The recording continued. From somewhere within it
 
 Then it pressed closer. The call had tuned itself to an exact frequency in the dark: 68.48 Hz.
 
-Through the bleak darkness of a silent line, the entire apartment gathered inside its vibration and trembled into the bones of David's hand. Brick, glass, wire, blood; everything held within the same invisible measure.
+Through the silence of the line, the vibration gathered the apartment into itself and trembled into the bones of David's hand.
 
 “Dad?” he said again.
 
@@ -102,11 +102,11 @@ To hear the message twice would be to turn grief into a habit.
 
 He set the phone facedown on the mantel and looked into the mirror above. At first he saw only himself: collar open at the throat, chalk along one sleeve, hair fallen across his forehead. Then Arthur's features began to declare themselves one by one. The severe brow. The long division beside the mouth. The slight narrowing of the left eye, as if every visible thing had arrived with a proposition attached.
 
-David leaned closer. As a child, he had believed that face belonged entirely to his father. He had not understood that the dead are patient. They wait in the blood. They enter by degrees: a gesture of the hand, the angle of the head when listening, the particular silence used in place of forgiveness.
+David leaned closer. As a child, he had believed that face belonged entirely to his father. He had not understood that the dead are patient. They wait in the blood.
 
-He raised two fingers and placed them against the glass. The mirror was cold, and for one instant, his reflection divided: Arthur's face beneath, his own laid over it, and David felt the touch answer against his cheek.
+He raised two fingers and placed them against the glass. The mirror was cold, and for one instant his reflection divided: Arthur's face beneath, his own laid over it, and David felt the touch answer against his cheek.
 
-Then the light from the kitchen trembled and there was only David, his fingers pressing a surface that returned nothing.
+Then the light from the kitchen trembled, and there was only David, his fingers pressing a surface that returned nothing.
 
 He lowered his hand to the mantel, where the phone remained facedown. Arthur's absence was sealed inside it with all the other preserved things: missed calls, ordinary instructions, a photograph beneath a tree, the promise to return a call at the earliest interval.
 
@@ -114,49 +114,39 @@ David turned away before he could listen again and crossed to the wall of blackb
 
 He pulled down the first panel. The counterweight moved somewhere above him, followed by the low complaint of cable and track.
 
-The sound had once irritated Arthur upon his first visit after he and Celeste separated.
+The sound had irritated Arthur on his first visit after David and Celeste separated.
 
 “You live inside a machine now, son. You know that?”
 
-“It's a counterweight, Dad. Jesus, it’s just physics.”
+“It's a counterweight, Dad. Jesus, it's just physics.”
 
-“Language, David. Please. Anyway, that is what a machine would want me to think, isn't it.”
+“Language, David. Please. Anyway, that is what a machine would want me to think, isn't it?”
 
-David had laughed. Arthur had looked pleased with himself for less than a second, then asked where he was supposed to hang his coat. “... or will the spiral staircase come and pick it up for me if I just leave it here on the floor?”
+David had laughed. Arthur had looked pleased with himself for less than a second, then asked where he was supposed to hang his coat.
 
-The memory arrived so cleanly that David turned toward the entry hall and the coat rack where no coat hung, and no father waited beside it.
+“...or will the spiral staircase come and pick it up for me if I just leave it here on the floor?”
 
-David returned to the boards. Comfort and clarity were expected from them now.
+David turned toward the entry hall and the coat rack where no coat hung and no father waited beside it.
 
-At first, he wrote only what he could defend: 68.48 Hz, and beneath it, 3:2.
-
-After the ratio, he stopped to listen. The interval opened soundlessly inside him. A perfect fifth: two frequencies entering relation, both holding their nature while each was altered by the presence of the other.
-
-Below it he wrote: Forty minutes, thirteen seconds. Then, five minutes, perhaps more.
-
-He considered the two clocks, their inexplicable agreement in his office, the displacement at rehearsal. Three minutes, forty-seven seconds. He wrote the figure beneath the others, though it described no interval he could account for having lost.
-
-He left a space beneath the final line.
-
-Twenty-nine years belonged there. The chalk hovered. Twenty-nine years since the afternoon Arthur had stood at the edge of the conservatory stage after David's first solo recital, holding a paper cup of bad coffee and saying nothing about the performance until they had reached the car.
+Then came Arthur at David's first solo recital, holding a paper cup of bad percolator coffee, saying nothing about the performance until they had reached the car.
 
 “The second movement,” he had said at last.
 
 David, seventeen and raw with wanting, had waited.
 
-“You hurried the return, that’s all.”
+“You hurried the return, that's all.”
 
-“No I… Dad, no I didn't.”
+“No, I... Dad, no, I didn't.”
 
-“You did, son. There’s no use pretending otherwise. It happens to…”
+“You did, son. There's no use pretending otherwise. It happens to—”
 
 “You hated it.”
 
-“That is not what I said, David. Not at all what I said. Look, this happens to everyone…”
+“That is not what I said, David. Not at all what I said. Look, this happens to—”
 
-“You didn't have to say it.” David’s voice trailed off as he turned away.
+“You didn't have to say it at all.” David's voice trailed off as he turned away.
 
-“What? What, David? Look, to everyone. It happens to every… Why, I can recall literally hundreds of…” He stopped; David was no longer listening. Arthur placed the coffee on the roof of the car, snow and the weight of scattered intention gathering on his shoulders.
+“What? What, David? Look, to everyone. It happens to every... Why, I can recall hundreds of...” He stopped; David was no longer listening. Arthur placed the coffee on the roof of the car, snow and the weight of scattered intention gathering on his shoulders.
 
 “Son, if I had hated it,” he said, regrouping, “I would have discussed the parking.”
 
@@ -166,25 +156,9 @@ The offers were already in. NYU. Berklee. Juilliard. Curtis. And Harvard, where 
 
 There was no shortage of futures available to him. David had wanted his father to distinguish among them, to tell him which was right. Arthur, apparently, still wanted to discuss the second movement.
 
-Now the chalk broke between his fingers. Half of it struck the floor and rolled beneath the coffee table.
+David looked toward the mantel, where the phone lay facedown, and for one foolish instant imagined it ringing, Arthur's name appearing on the screen, the laws of matter briefly corrected by love or madness.
 
-David watched until it disappeared, then looked back at the board. He did not write twenty-nine years. The numbers refused to cohere. He drew lines between them, erased the lines, replaced time with frequency, frequency with distance, distance with probability. At the edge of the board, he reproduced the paired squares from the binder, then scrubbed them out with the heel of his hand before the tuning fork could rise between them.
-
-White dust coated his palm. He wiped it against his trousers and left the shape of a hand there.
-
-On the board, every attempt to hold the interval slid out of tune.
-
-Once, the phone shifted against the mantel. Only a fraction of an inch: the minute surrender of an object poorly balanced. David looked at it and imagined the screen illuminating, Arthur's name entering the room, the laws of matter briefly corrected by love or madness.
-
-He waited until the screen remained dark long enough to become only a screen again.
-
-After a moment he crossed back to the mantel, turned the phone faceup, and woke Arthur's photograph again, leaving it glowing there.
-
-* * *
-
-Arthur's photograph still illuminated the phone on the mantel, casting a faint light into the chalk dust drifting above it, each particle appearing briefly from the darkness as it passed through the glow, until the screen dimmed and the delicate procession vanished with it, leaving a single fleck suspended where the light had been.
-
-David watched as it began an impossibly slow descent toward the black glass, lingering in the empty air as though gravity had forgotten its ordinary insistence, while something in the depth of the darkened screen seemed to draw it nearer. It fell so gradually that he could scarcely tell whether it was moving at all, until at last it touched the surface and dissolved into the deep digital black.
+He crossed back to it, turned it over, and woke Arthur's photograph again. The screen cast a faint light into the chalk dust drifting above it, each particle appearing briefly from the darkness as it passed through the glow, until the screen dimmed and the delicate procession vanished into the darkness. A single fleck survived, suspended where the light had been. David watched it linger in the empty air, falling so gradually that he could scarcely tell whether it was moving at all, until at last it touched the darkened glass and was gone.
 
 
 ========================================================================

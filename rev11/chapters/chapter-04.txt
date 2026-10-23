@@ -8,13 +8,10 @@ Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,015
-Paragraph Count: 112
-Scene Count:     3
+Word Count:      2,750
+Paragraph Count: 106
+Scene Count:     0
 
-Scene 1: I. Allegro sostenuto  --  Words 963–1,303  |  Paragraphs 31–41  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-01.html
-Scene 2: II. Adagio  --  Words 1,304–2,032  |  Paragraphs 42–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-02.html
-Scene 3: III. Allegro  --  Words 2,033–3,015  |  Paragraphs 72–112  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-04-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -23,9 +20,7 @@ The Music School’s residence on East Hill had never resolved into a single, se
 
 By the seventies, the place had been reborn as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber. Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks. Above the musicians hung acoustic clouds: pale suspended planes, stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward through the gaps into rafters and the chapel attic: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
 
-Below, fluorescent corridors lined with practice rooms tunneled under the hill, binding the old stone chapel to the defiant 1974 annex. Concrete here did not simply contain music; it held it, catching vibrato in the hidden lattice of rebar and returning it faintly when no one was present to hear.
-
-So that in the silences between terms, the walls seemed to keep a low, borrowed life, as if the building could not quite bring itself to forget.
+Below, fluorescent corridors lined with practice rooms tunneled under the hill, binding the old stone chapel to the defiant 1974 annex.
 
 Roger was, as always, the first member of the quartet to arrive. This required no great feat of punctuality; his office was quite literally off the catwalk above the rehearsal room. He had come early enough that by the time David shouldered through the door, the music was spread across the stands, the chairs squared, and the room warmed into looking like any other Monday. It was the kind of ordinariness that did not happen by itself.
 
@@ -36,8 +31,6 @@ Roger looked up. For half a second the look was an inventory: face, posture, the
 Roger lifted the bow in a small gesture. On any other evening it would have meant: How was your day? Tonight it asked: Still standing?
 
 David shrugged.
-
-They had been speaking this grammar since Boston, since middle school: exhaustion as syntax, the old recursive loop of who’s-worse-off-this-week rendered wordless by long practice.
 
 Catherine Rieger, the quartet’s second violin, entered next in a flurry of wool and efficiency, moving as if she were late even when she wasn’t. She kissed Roger’s cheek, then David’s, her overcoat swinging off mid-stride. And then she stopped. She had not seen David since the funeral.
 
@@ -79,7 +72,6 @@ A shift of chairs, a tilt of heads, four musicians drawing a common breath until
 
 SERGEI PROKOFIEV String Quartet No. 2, “Kabardinian,” Op. 92
 
-
 I. Allegro sostenuto
 
 Resonance preceded sound. David felt the cello’s body stir against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
@@ -88,9 +80,7 @@ In the first measures Roger carried the foreground. His opening gesture repeated
 
 Then the floor gave way.
 
-Roger dropped out. The meter contracted to 2/4 and half the bar vanished like a stair removed in mid-stride. David held his place inside the lower ensemble while the rhythm dismantled its scaffolding around him. By the next recurrence his attention had fractured.
-
-Prokofiev had trained the ear through recurrence, subdivision, brief metric removal, return, the same material recombined until recombination itself became the subject. The texture opened again. Triplets passed into another voice. Roger sprang back.
+Roger dropped out. The meter contracted to 2/4 and half the bar vanished like a stair removed in mid-stride. David held his place inside the lower ensemble while the rhythm dismantled its scaffolding around him. The texture opened again. Triplets passed into another voice. Roger sprang back.
 
 And David began extracting structure that was already there.
 
@@ -101,7 +91,6 @@ But his mind had slipped its tether.
 Past the fingerboard and f-holes, past the curvature of the quartet's intimate enclosure, past even Celeste's rising breath, he chased the harmonic series as it bloomed above the group. He was mapping nodes, tracing overtones, measuring the room in frequencies instead of feet, while his inner ear parsed each phrase into its constituent ratios and resonances.
 
 Roger glanced at Celeste. David was still playing, flawlessly, but his eyes had left the score, rising toward the suspended clouds as though following patterns no one else could see.
-
 
 II. Adagio
 
@@ -115,7 +104,7 @@ She leaned toward him again, her bow drawing a little more warmth from the strin
 
 For years she had listened for his footsteps on the other side of that door, learned the rhythms of his work, the hours when interruption might be forgiven, the hours when even tenderness was an intrusion. She had learned to move quietly through their home until there were evenings when she could scarcely remember whether they had spoken.
 
-Now, beneath the suspended acoustic clouds, she offered him the smallest hesitation before a resolution, an invitation so intimate that once he would have answered it without thought. His cello arrived exactly on the beat, beautiful and utterly alone, and she understood how she might have left him one morning and returned weeks later to find the light beneath his study door unchanged.
+Now, beneath the suspended acoustic clouds, she offered him the smallest hesitation before a resolution, an invitation so intimate that once he would have answered it without thought. His cello arrived exactly on the beat, beautiful and utterly alone.
 
 At rehearsal twenty-one, Prokofiev sent the viola sul ponticello. Celeste moved her bow toward the bridge. Her sound thinned and brightened, glass entering the tone, upper harmonics lifting from it like cold light. It was Prokofiev’s instruction, not her invention, but she played it as though the composer had handed her a word David might still understand.
 
@@ -123,11 +112,9 @@ For an instant, he heard her.
 
 Then something inside him translated.
 
-  $$ x_{\mathrm{Celeste}}(t) \xrightarrow{\mathcal F} X_{\mathrm{Celeste}}(\omega) $$
+  $$f_n = \frac{n v}{2L} = \frac{n}{2L}\sqrt{\frac{T}{\mu}}$$
 
 Her bow moved, and David heard the shimmering richness of her tone begin to separate. Fundamental. Partial. Partial. Partial. Each emerged with exquisite clarity, until he could no longer hear the warmth of her phrasing, the tenderness of her playing, or the woman whose hands had made it possible. There remained only the mathematics.
-
-  $$ \text{Celeste} \longrightarrow X(\omega) $$
 
 The warmth returned to her viola, but David had gone somewhere beyond it, his fingers carrying on with a precision that seemed almost independent of the man holding the instrument.
 
@@ -140,8 +127,6 @@ Then, softer still, almost lost beneath the music:
 Roger looked across the quartet. He had seen David disappear into himself before, had learned when to let the music bring him back, but the expression on Celeste’s face made him hesitate. Catherine followed his glance. For a few measures something passed among the three of them, a concern none could acknowledge without breaking the very thing they were trying to preserve.
 
 David played on.
-
-Celeste could hear him perfectly. That was the terrible part. Every entrance, every resolution, the living breath of the phrase offered back to her with such immaculate care that anyone listening might have mistaken it for tenderness.
 
 Somewhere above them, the sound climbed into the suspended clouds and returned softened, gathering the four instruments into one beautiful, almost unbearable whole.
 
@@ -163,7 +148,6 @@ There she was.
 
 And for one moment, whatever had carried him so far away seemed willing to release him.
 
-
 III. Allegro
 
 No speech. They regrouped.
@@ -182,7 +166,7 @@ Near the bridge, beneath the drive of the passage, David heard a metallic burr i
 
 The relation appeared in his mind without asking:
 
-  $$ f = \frac{1}{2L}\sqrt{\frac{T}{\mu}} $$
+  $$f = \frac{1}{2L}\sqrt{\frac{T}{\mu}}$$
 
 Length, tension, linear density. Three quantities sufficient to describe an ideal string, provided the string remained what it was supposed to be.
 
@@ -196,11 +180,9 @@ Silence. One measure. Maybe two. Then four people exhaled, all at once.
 
 Roger looked at Catherine. Catherine, at Celeste. Celeste, toward David. And David bowed his head to acknowledge the fractured, now harmless wires hanging from his cello.
 
-Then finally, the tension released. Somebody laughed, though it was impossible afterward to remember who exactly, but a sharp, ugly bark of relief, answered immediately thereafter, launching all four of them into unadorned laughter. It tore through the room, wild with unmusical, uncontrollable adrenaline. David doubled over the cello, laughing hard enough that he had to brace one hand against the floor. The equations were gone. There was only Catherine wiping tears from beneath one eye, Roger pressing back so far into his chair that he almost toppled over the back of it, and Celeste trying over and over to sneak a few words in between each new guffaw.
+Then finally, the tension released. Somebody laughed—a sharp, ugly bark of relief answered immediately by another, launching all four of them into unadorned laughter. It tore through the room, wild with adrenaline. David doubled over the cello, laughing hard enough to brace one hand against the floor. The equations were gone.
 
-Catherine caught Roger's eye as the last of their laughter subsided, and the two violinists began gathering their things with suspicious efficiency. A brisk exchange of goodnights followed, and the door closed behind them, leaving David and Celeste alone with the silence they had been laughing so hard to avoid.
-
-Celeste and David found themselves suddenly, silently alone. Together. For a moment neither made the slightest move. Then, thinking it proper, David took a breath and shifted his weight as though he’d gather his things and leave her the room, but the smallest movement from Celeste suggested she needed no such allowances, and whatever intention had begun in him disappeared. He stayed.
+Catherine caught Roger's eye as the last of their laughter subsided, and the two violinists began gathering their things with suspicious efficiency. A brisk exchange of goodnights followed, and the door closed behind them, leaving David and Celeste alone with the silence they had been laughing so hard to avoid. For a moment neither made the slightest move. Then, thinking it proper, David took a breath and shifted his weight as though he’d gather his things and leave her the room, but the smallest movement from Celeste suggested she needed no such allowances, and whatever intention had begun in him disappeared. He stayed.
 
 “Well, you were in rare—” Celeste began, then dissolved again. “Sorry. Rare… probably best left rare form this evening.”
 
@@ -222,7 +204,7 @@ Celeste rolled her eyes, a sliver of a grin betraying her as she pressed a stray
 
 She turned to the empty doorway. “Hey, you guys, David was playing Haydn all evening!”
 
-They collapsed again, laughter spilling into glances, folding into blinks and nods, the gestures that live so close to regret they can borrow milk from each other without having to knock.
+They collapsed again, laughter spilling into glances, folding into blinks and nods.
 
 At the double doors, she paused, scarf coiled, hand on the push bar. Something in the corridor behind her had changed. A shift in the air.
 
