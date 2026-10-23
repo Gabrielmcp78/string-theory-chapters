@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,125
-Paragraph Count: 115
+Word Count:      3,178
+Paragraph Count: 117
 Scene Count:     4
 
-Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–985  |  Paragraphs 1–23  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html
-Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 986–2,411  |  Paragraphs 24–74  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,412–2,935  |  Paragraphs 75–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 2,936–3,125  |  Paragraphs 110–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
+Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,038  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html
+Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,039–2,464  |  Paragraphs 26–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,465–2,988  |  Paragraphs 77–111  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 2,989–3,178  |  Paragraphs 112–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -24,7 +24,7 @@ Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 2,936�
 
 The cab let him out into the slush a little after nine-thirty, its hazard lights ticking against the dark. David hauled two days of Buffalo luggage through the building's lobby, past the green glass door and down the long entrance hall, Arthur's navy zip-up fleece pulled over his clothes against the cold. He kicked off his boots and collapsed across the brown leather sofa without unpacking a single pocket.
 
-Sleep took him before the pipes had finished their first percussive cycle. At eleven twenty-eight, he woke fighting for air. The fleece had twisted around his neck in the dark, fabric wedged into his mouth, the familiar smell of his father's cedar shavings, stale pipe tobacco, and dry-cleaning solvent sealing off his throat. He had been dreaming of the old man because of the smell, though already the dream was dissolving in his skull before his eyes could find the ceiling plaster.
+Sleep took him before the pipes had finished their first percussive cycle. At eleven twenty-eight, he awoke fighting for air. The fleece had twisted around his neck in the dark, fabric wedged into his mouth, the familiar smell of his father's cedar shavings, stale pipe tobacco, and dry-cleaning solvent sealing off his throat. He had been dreaming of the old man because of the smell, though already the dream was dissolving in his skull before his eyes could find the ceiling plaster.
 
 Yanking the zipper down until his teeth caught on the pull, he tore the fleece over his head and stumbled in his socks onto the cold oak of the kitchen, kicking the pedal of the trash can down with a sharp plastic clatter to shove it into the dark. Yet five seconds back on the couch, staring numbly at his stocking feet in the gray room, was all the distance he could bear; an instant later he was over the bin again, dragging the fleece back out from beneath coffee grounds and crushed eggshells. Wet grounds smeared across the ribbed cuffs as he buried his face into the collar, inhaling with a desperate, furious greed until his ribs ached with the musk of a man who no longer existed anywhere on earth. Shuddering, he rammed the filthy bundle back beneath the flap and let the lid slam down.
 
@@ -52,13 +52,17 @@ David turned up the volume.
 
 “And that fifth interval really does dominate,” Bernstein declared, striking the keys again. The piano answered him, and David found himself smiling at the familiar extravagance of it.
 
-Suddenly David was nine years old again, curled onto the top step of the staircase in Belmont with his cheek pressed against the cold turned spindles of the banister, listening into the bright, smoke-thick well of the parlor below. The house was full of the people who inhabited his father’s actual life—orchestral soloists, guest conductors, Seiji Ozawa laughing by the mantel with a glass in hand, coats piled four deep on the hall bench. Forbidden from joining them, he had never once been prevented from listening; night after night he had sat in the dark at the landing, straining to follow their fierce, overlapping arguments about Mahler’s tempos and distant conservatories, entirely certain that as long as his father’s voice remained audible among them, the world was a coherent, luminous place that would one day welcome him in.
+Suddenly David was nine years old again, curled onto the top step of the staircase in Belmont with his cheek pressed against the cold turned spindles of the banister, listening into the bright, smoke-thick well of the parlor below. The house was full of the people who inhabited his father’s actual life. On almost any weekend during the season, the house would spontaneously fill with orchestral soloists, guest conductors, Ozawa laughing by the mantel with a glass in hand, coats piled four deep on the hall bench. Though forbidden from joining them, young David had never once been prevented from listening; night after night he had sat in the dark at the landing, straining to follow their fierce, overlapping arguments about Mahler’s tempos and distant conservatories, entirely certain that as long as his father’s voice remained audible among them, the world was a coherent, luminous place that would one day welcome him in.
 
-The memory loosened, leaving only the small glowing screen. Bernstein was still talking, his hands dancing across the Steinway. David smiled at the glass. God, he was wonderful.
+The memory loosened, leaving only the small glowing screen. Bernstein was still talking.
 
-He pressed Share, selected Cassandra, and sent the recording without a message. He pulled the throw over his shoulders and fell into a dead sleep.
+“A work of art does not answer questions, it provokes them; and its essential meaning is in the tension between the contradictory answers.”
 
-At twelve twenty-one, his phone illuminated the empty room:
+David smiled at the glass. God, he was wonderful.
+
+He pressed share, selected Cassandra, and sent the recording without a message to his mom. She would know why. And with the magical musings of uncle Lenny floating in the background, he pulled the throw over his shoulders and fell into a dead sleep.
+
+At twelve twenty-one, his phone lit up: a message from Mom.
 
 My God! Where did you find this? Are you awake? Call if you are. Ha! Fat chance. Love you.
 
