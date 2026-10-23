@@ -7,8 +7,8 @@ Title:           TWIN PRIMES ON THE SIX
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,181
-Paragraph Count: 199
+Word Count:      6,412
+Paragraph Count: 211
 Scene Count:     7
 
 Scene 1: 13.1  Falsifiable Fame  --  Words 1–791  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-01.html
@@ -16,8 +16,8 @@ Scene 2: 13.2  Dream Lecture  --  Words 792–1,822  |  Paragraphs 20–35  |  U
 Scene 3: 13.3  Groundbreaking  --  Words 1,823–2,627  |  Paragraphs 36–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-03.html
 Scene 4: 13.4  Everything He Was Not  --  Words 2,628–3,484  |  Paragraphs 63–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-04.html
 Scene 5: 13.5  Friendly Forensics  --  Words 3,485–4,054  |  Paragraphs 83–105  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-05.html
-Scene 6: 13.6  Ishikawa’s Island  --  Words 4,055–5,891  |  Paragraphs 106–187  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-06.html
-Scene 7: 13.7  The Thickening  --  Words 5,892–6,181  |  Paragraphs 188–199  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-07.html
+Scene 6: 13.6  Ishikawa’s Island  --  Words 4,055–6,122  |  Paragraphs 106–199  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-06.html
+Scene 7: 13.7  The Thickening  --  Words 6,123–6,412  |  Paragraphs 200–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -362,13 +362,37 @@ Rune carried it to the desk like hazardous material. Set it in the lamp’s gree
 
 The box sighed open.
 
-PROJECT ARGO / TSUKINO / GUARE / INCIDENT 10/19/71 / EYES ONLY.
+PROJECT ARGO—TSUKINO / GUARE—INCIDENT 11/28/71—EYES ONLY.
 
 He laid out the contents with the precision of a coroner. A heavy monograph folder bound in black cotton ribbon, its pressboard corners rubbed gray with age. Beside it, a thinner folder holding a single purple-mimeographed sheet.
 
-As he lifted the thinner folder, he placed his finger into the back right corner of the box and pressed gently. A slight mechanical click sounded, and the false bottom flipped up, revealing a slim hidden compartment underneath. Inside lay a yellowed airmail envelope, its paper giving off a faint sulfurous odor as he lifted it, with a rusted paperclip fixed to one corner. Beside the clip, in Guare’s hand: 0.7 g.
+As he removed that last page, he placed his finger into the back right corner of the box and pressed gently. A slight mechanical click sounded, and the bottom flipped up, revealing a slim hidden compartment underneath. Inside, a single envelope, yellowed with age but carefully preserved. He took it out with a reverence that, even for Rune, seemed uncommon. The letter was addressed to Kenji Tsukino. Its return address—St. John, U.S. Virgin Islands. Posted March of 1965.
 
-Rune did not open the envelope. He restored it to the hidden compartment and lowered the false bottom until the mechanism caught.
+Rune extracted the letter, unfolded the stationery, and took a deep, solemn breath.
+
+* * *
+
+Dear Dr. Tsukino,  March 1, 1965
+
+I write to you on behalf of myself, Elliot Lang, and the brave scientists who we both had the privilege of working with at L.A. Dr. Lang has informed me that he relayed to you certain data packs and research touching on the Frequency problem, and that you intend to pick up the work. I very much regret that anyone has been further burdened with this subject.
+
+If not for my health, I would be standing in front of you now to deliver this admonishment in person. I fear you do not understand the weight of what you are brushing up against. No one can, until it has touched them and played them for fools.
+
+Kenji, you are a brilliant man of science, but you and I both know that brilliance does not, should not equal permission.
+
+There. Enough from me. My love to your dear wife. Please be careful in this, old friend.
+
+Yours,
+
+J.R.O.
+
+P.S. I’ve enclosed a small reminder of that which I speak. 0.7 grams. That’s all we did. Tuned 0.7 grams.
+
+As he folded the letter and picked up the envelope, a small object rustled inside. Rune tipped it up and into his palm slid a small, rusted-over paperclip.
+
+He held it in the palm of his hand and turned to gaze out the window onto the quad beyond.
+
+Less than a gram… tuned to calamity.
 
 From the shallow desk drawer to his left, he withdrew Lang’s most recent preprint and placed it beside the closed files. The first page showed the recursive harmonic functions; the second, the coupling coefficients. He stopped there. The resemblance had survived every explanation he had tried to impose on it.
 

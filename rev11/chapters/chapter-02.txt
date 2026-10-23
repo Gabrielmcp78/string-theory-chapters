@@ -7,13 +7,22 @@ Title:           The Lecture
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,095
-Paragraph Count: 264
+Word Count:      5,110
+Paragraph Count: 268
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
+
+* * *
+
+chapter_id: ch02 title: "The Lecture" act: 1
+
+* * *
+
+
+The Lecture
 
 Presto agitato
 
