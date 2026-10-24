@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-10-23",
-  "total_words": 121204,
+  "built": "2026-10-24",
+  "total_words": 123809,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -251,87 +251,14 @@
       "num": 10,
       "slug": "chapter-10",
       "label": "Chapter 10",
-      "title": "Passions’ Principles",
+      "title": "PASSIONS’ PRINCIPLES",
       "subtitle": "",
-      "word_count": 13231,
-      "paragraph_count": 471,
-      "scene_count": 8,
+      "word_count": 13279,
+      "paragraph_count": 485,
+      "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "I. CHORALE | Wednesday Dinner",
-          "word_start": 1,
-          "word_end": 1612,
-          "para_start": 1,
-          "para_end": 2,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "II. ARIOSO | The Tuning",
-          "word_start": 1613,
-          "word_end": 5140,
-          "para_start": 3,
-          "para_end": 30,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-02.html"
-        },
-        {
-          "n": 3,
-          "heading": "III. RECITATIVUM | Break-through",
-          "word_start": 5141,
-          "word_end": 6036,
-          "para_start": 31,
-          "para_end": 66,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-03.html"
-        },
-        {
-          "n": 4,
-          "heading": "IV. TURBA | The Guillotine",
-          "word_start": 6037,
-          "word_end": 7982,
-          "para_start": 67,
-          "para_end": 181,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-04.html"
-        },
-        {
-          "n": 5,
-          "heading": "V. VIA DOLOROSA | Into the Storm",
-          "word_start": 7983,
-          "word_end": 9618,
-          "para_start": 182,
-          "para_end": 295,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-05.html"
-        },
-        {
-          "n": 6,
-          "heading": "VI. CRUCIFIXIO | It Takes a Beating",
-          "word_start": 9619,
-          "word_end": 10262,
-          "para_start": 296,
-          "para_end": 321,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-06.html"
-        },
-        {
-          "n": 7,
-          "heading": "VII. DEPOSITIO / SEPULTURA | The Clear Snows of Fall",
-          "word_start": 10263,
-          "word_end": 11652,
-          "para_start": 322,
-          "para_end": 396,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-07.html"
-        },
-        {
-          "n": 8,
-          "heading": "VIII. RELIQUIAE | Up From the Depths",
-          "word_start": 11653,
-          "word_end": 13231,
-          "para_start": 397,
-          "para_end": 471,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-08.html"
-        }
-      ]
+      "scenes": []
     },
     {
       "num": 11,
@@ -570,58 +497,12 @@
       "label": "Chapter 14",
       "title": "VISIONS AND BURDENS OF KNOWING",
       "subtitle": "",
-      "word_count": 6524,
-      "paragraph_count": 231,
-      "scene_count": 5,
+      "word_count": 7439,
+      "paragraph_count": 288,
+      "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14.txt",
-      "scenes": [
-        {
-          "n": 1,
-          "heading": "14.1  The Monochord   |   Pythagoras",
-          "word_start": 1,
-          "word_end": 916,
-          "para_start": 1,
-          "para_end": 32,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html"
-        },
-        {
-          "n": 2,
-          "heading": "14.2  The Salon | Émilie du Châtelet",
-          "word_start": 917,
-          "word_end": 1839,
-          "para_start": 33,
-          "para_end": 63,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html"
-        },
-        {
-          "n": 3,
-          "heading": "14.3   The Purge",
-          "word_start": 1840,
-          "word_end": 3810,
-          "para_start": 64,
-          "para_end": 145,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-03.html"
-        },
-        {
-          "n": 4,
-          "heading": "14.4  Resonance  |  Chladni",
-          "word_start": 3811,
-          "word_end": 5185,
-          "para_start": 146,
-          "para_end": 192,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-04.html"
-        },
-        {
-          "n": 5,
-          "heading": "14.5  Minimums  |  Isaac  Newton",
-          "word_start": 5186,
-          "word_end": 6524,
-          "para_start": 193,
-          "para_end": 231,
-          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-05.html"
-        }
-      ]
+      "scenes": []
     },
     {
       "num": 15,
@@ -1320,6 +1201,119 @@
           "para_start": 10,
           "para_end": 69,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-02.html"
+        }
+      ]
+    },
+    {
+      "num": -5,
+      "slug": "appendix",
+      "label": "Appendix",
+      "title": "Compendium of Tempi, Acoustics & Note-Bound Physics",
+      "subtitle": "",
+      "word_count": 1642,
+      "paragraph_count": 59,
+      "scene_count": 11,
+      "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix.html",
+      "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix.txt",
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "Critical Reference Manual | Historical, Acoustic & Mathematical Formalisms",
+          "word_start": 1,
+          "word_end": 70,
+          "para_start": 1,
+          "para_end": 5,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "1. Symphonic & Instrumental Tempi (Chapter 14)",
+          "word_start": 71,
+          "word_end": 271,
+          "para_start": 6,
+          "para_end": 8,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "2. The Passion / Oratorio Forms (Chapter 10)",
+          "word_start": 272,
+          "word_end": 666,
+          "para_start": 9,
+          "para_end": 14,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "1. The Monochord & Integer Harmonic Ratios",
+          "word_start": 667,
+          "word_end": 879,
+          "para_start": 15,
+          "para_end": 24,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "2. Vis Viva & The Du Châtelet Octave Doubling ($E_k \\propto v^2$)",
+          "word_start": 880,
+          "word_end": 986,
+          "para_start": 25,
+          "para_end": 30,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "3. The 68.48 Hz Infrasonic Fault Line",
+          "word_start": 987,
+          "word_end": 1091,
+          "para_start": 31,
+          "para_end": 33,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "4. Difference Tones & Third Pulses (Tartini Waves)",
+          "word_start": 1092,
+          "word_end": 1178,
+          "para_start": 34,
+          "para_end": 37,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "5. Chladni Plates & Quantum Nodal Eigenmodes",
+          "word_start": 1179,
+          "word_end": 1332,
+          "para_start": 38,
+          "para_end": 46,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-08.html"
+        },
+        {
+          "n": 9,
+          "heading": "6. The Maunder Minimum & The Cold Star (1645–1715)",
+          "word_start": 1333,
+          "word_end": 1453,
+          "para_start": 47,
+          "para_end": 51,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-09.html"
+        },
+        {
+          "n": 10,
+          "heading": "7. Hysteresis & Coupled Non-Linear Oscillators",
+          "word_start": 1454,
+          "word_end": 1550,
+          "para_start": 52,
+          "para_end": 55,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-10.html"
+        },
+        {
+          "n": 11,
+          "heading": "8. Phase-Locking & The 3:2 Hemiola",
+          "word_start": 1551,
+          "word_end": 1642,
+          "para_start": 56,
+          "para_end": 59,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-11.html"
         }
       ]
     }
