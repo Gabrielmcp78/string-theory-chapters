@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-10-24",
-  "total_words": 123809,
+  "total_words": 123782,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/manifest.json",
   "chapters": [
     {
@@ -251,14 +251,87 @@
       "num": 10,
       "slug": "chapter-10",
       "label": "Chapter 10",
-      "title": "PASSIONS’ PRINCIPLES",
+      "title": "Passions’ Principles",
       "subtitle": "",
-      "word_count": 13279,
-      "paragraph_count": 485,
-      "scene_count": 0,
+      "word_count": 13266,
+      "paragraph_count": 736,
+      "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10.txt",
-      "scenes": []
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "10.1 CHORALE | Wednesday Dinner",
+          "word_start": 1,
+          "word_end": 1614,
+          "para_start": 1,
+          "para_end": 76,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "10.2 ARIOSO | The Tuning",
+          "word_start": 1615,
+          "word_end": 5149,
+          "para_start": 77,
+          "para_end": 286,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-02.html"
+        },
+        {
+          "n": 3,
+          "heading": "10.3 RECITATIVUM | Break-Through",
+          "word_start": 5150,
+          "word_end": 6048,
+          "para_start": 287,
+          "para_end": 323,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-03.html"
+        },
+        {
+          "n": 4,
+          "heading": "10.4 TURBA | The Guillotine",
+          "word_start": 6049,
+          "word_end": 8002,
+          "para_start": 324,
+          "para_end": 441,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-04.html"
+        },
+        {
+          "n": 5,
+          "heading": "10.5 VIA DOLOROSA | Into the Storm",
+          "word_start": 8003,
+          "word_end": 9646,
+          "para_start": 442,
+          "para_end": 558,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-05.html"
+        },
+        {
+          "n": 6,
+          "heading": "10.6 CRUCIFIXIO | It Takes a Beating",
+          "word_start": 9647,
+          "word_end": 10293,
+          "para_start": 559,
+          "para_end": 585,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-06.html"
+        },
+        {
+          "n": 7,
+          "heading": "10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall",
+          "word_start": 10294,
+          "word_end": 11683,
+          "para_start": 586,
+          "para_end": 660,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-07.html"
+        },
+        {
+          "n": 8,
+          "heading": "10.8 RELIQUIAE | Up From the Depths",
+          "word_start": 11684,
+          "word_end": 13266,
+          "para_start": 661,
+          "para_end": 736,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-08.html"
+        }
+      ]
     },
     {
       "num": 11,
@@ -495,14 +568,33 @@
       "num": 14,
       "slug": "chapter-14",
       "label": "Chapter 14",
-      "title": "VISIONS AND BURDENS OF KNOWING",
+      "title": "Visions and Burdens of Knowing",
       "subtitle": "",
-      "word_count": 7439,
-      "paragraph_count": 288,
-      "scene_count": 0,
+      "word_count": 7425,
+      "paragraph_count": 286,
+      "scene_count": 2,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14.txt",
-      "scenes": []
+      "scenes": [
+        {
+          "n": 1,
+          "heading": "14.1 OVERTURE: THE MONOCHORD | Pythagoras",
+          "word_start": 1,
+          "word_end": 1673,
+          "para_start": 1,
+          "para_end": 58,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html"
+        },
+        {
+          "n": 2,
+          "heading": "14.2 ANDANTE: THE SALON | Émilie du Châtelet",
+          "word_start": 1674,
+          "word_end": 7425,
+          "para_start": 59,
+          "para_end": 286,
+          "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html"
+        }
+      ]
     },
     {
       "num": 15,

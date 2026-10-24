@@ -3,25 +3,24 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 14
-Title:           VISIONS AND BURDENS OF KNOWING
+Title:           Visions and Burdens of Knowing
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,439
-Paragraph Count: 288
-Scene Count:     0
+Word Count:      7,425
+Paragraph Count: 286
+Scene Count:     2
 
+Scene 1: 14.1 OVERTURE: THE MONOCHORD | Pythagoras  --  Words 1–1,673  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 ANDANTE: THE SALON | Émilie du Châtelet  --  Words 1,674–7,425  |  Paragraphs 59–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-A Liminal Symphony in Five Movements
 
-for monochord, charcoal, steel plate, prism and chair
+14.1 OVERTURE: THE MONOCHORD | Pythagoras
 
-[I. Overture: The Monochord | Pythagoras]
-
-Adagio misterioso
+[Adagio misterioso]
 
 A new night lived inside the tossed productivity of the apartment. It secreted itself in the angles between cracked baseboard and battered desk, in the umbra cast by a beaker-turned-lamp, in the chalked hieroglyphs that haunted three generations of blackboards. The hour had turned mean, compressing time into a single, sustained pedal point. Each quarter-hour from the clock in the adjacent room heralded another unbroken instant since David had last regarded the world beyond his equation.
 
@@ -135,9 +134,10 @@ A sharp burst of mineral blue flashed across his peripheral vision—an optical 
 
 * * *
 
-[II. Andante: The Salon | Émilie du Châtelet]
 
-Andante con grazia e logica
+14.2 ANDANTE: THE SALON | Émilie du Châtelet
+
+[Andante con grazia e logica]
 
 The chalk made a sudden, new sound as it struck the slate mid-thought. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. David stopped and stepped back to take in the entire board.
 
