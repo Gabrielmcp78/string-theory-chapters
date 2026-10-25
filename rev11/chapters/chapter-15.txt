@@ -7,14 +7,14 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      9,178
+Word Count:      9,172
 Paragraph Count: 295
 Scene Count:     4
 
-Scene 1: 15.1  Preliminary Observations  --  Words 1–1,036  |  Paragraphs 1–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-01.html
-Scene 2: 15.2  Method and Resonance  --  Words 1,037–2,602  |  Paragraphs 44–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-02.html
-Scene 3: 15.3  Findings and Implications  --  Words 2,603–3,704  |  Paragraphs 81–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-03.html
-Scene 4: 15.4 Lossless Transfers  --  Words 3,705–9,178  |  Paragraphs 118–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-04.html
+Scene 1: 15.1  Preliminary Observations  --  Words 1–1,034  |  Paragraphs 1–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-01.html
+Scene 2: 15.2  Method and Resonance  --  Words 1,035–2,597  |  Paragraphs 44–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-02.html
+Scene 3: 15.3  Findings and Implications  --  Words 2,598–3,698  |  Paragraphs 81–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 3,699–9,172  |  Paragraphs 118–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -50,7 +50,7 @@ David did not understand what he was scientifically to do with this input, so he
 
 No decision announced itself.
 
-He reached for the lower row: Mozart, Euler, Faraday, and aligned each card the same way, birthdate to solar peak. The fork registered every one: different by pitch, but nearly identical in response.
+He reached for the lower row: Euler and Faraday, aligning each card the same way, birthdate to solar peak. The fork registered both: different by pitch, but nearly identical in response.
 
 Okay. More of that then.
 
@@ -123,7 +123,7 @@ He drew the bow across the open A and let it continue as a drone. Against it, on
 
 He let the interval widen once more, releasing the D string beneath the open A, and before he had time to decide whether he expected anything at all, the fork rang. Unstrung. Unstruck. The interval changed the room.
 
-Air gathered between f-holes and chalkboard, thickening toward a standing wave until the fork broke into a microscopic orbit and began singing a phantom overtone two octaves above the sounding fundamental. David stopped bowing and watched the tines settle. So. Not proximity. Not some sympathetic buzz he had mistaken for signal.
+Air gathered between f-holes and chalkboard, thickening toward a standing wave until the fork broke into a microscopic orbit and began singing a phantom overtone two octaves above the sounding fundamental. David stopped bowing and watched the tines settle. Proximity alone couldn't explain it, nor could some sympathetic buzz he had mistaken for signal.
 
 He sounded the fifth again. The fork answered with the same clean certainty, and when he repeated the interval it answered again, indifferent to his growing suspicion that repetition ought to make the result less impossible rather than more. Only the fifth. Another explanation quietly left the building.
 
@@ -145,7 +145,7 @@ When the bow left the string, silence arrived compressed rather than empty. The 
 
 The thought followed him back to the board. The formula lingered just beyond articulation. The notations crowded the margins with the infuriating composure of a solution that had mistaken his participation for a courtesy.
 
-He uncapped a blue grease pencil and began adding names: Mozart. Einstein. Others from the midnight symposium. Each plotted against solar maxima, each anchored to flare. Then his pencil stopped. There remained one date he had somehow neglected to plot. The omission seemed almost noble until he realized it was his own.
+He uncapped a blue grease pencil to add the remaining names from the midnight symposium, only for the tip to stop above the spread. One date remained that he had somehow neglected to plot. The omission seemed almost noble until he realized it was his own.
 
 David stared at the spread for a moment. Days spent arranging the births of geniuses, visionaries, and assorted historical inconveniences across four centuries, and only now had it occurred to him that he, too, possessed a birthday.
 
@@ -190,7 +190,7 @@ He worked with a patience that would read to the outside world as obsession at b
 
 The era of concern for what it looked like was coming to an end. Whether that was suppression, exhaustion, or simple erasure no longer seemed particularly important. And so David pressed on.
 
-Each card was reviewed, cross-checked, annotated, then slotted into sequence on the legal pad. Graphite and paper steadily erased distinctions he had once considered important. Physics, music, memory. Variables became voices. Patterns became phrases.
+As he slotted the final annotations onto the legal pad, graphite and paper steadily erased distinctions he had once considered important, turning variables into voices and patterns into phrases.
 
 The tuning fork sat where he'd left it, at the center of the cards. Still warm, he thought. Or perhaps that was him. Occasionally his eyes drifted toward the cello in the corner and recalled the open A, the fifth above it, the overtone that seemed to linger after the room itself had finished listening.
 
@@ -214,7 +214,7 @@ David remained over the card. The possibility shifted something important in the
 
 That was different.
 
-Not genius bestowed from above. Not some celestial finger tapping Newton on the skull. Conditions. Constraint. Systems shaped by what was available and what was withheld.
+This wasn't genius bestowed from above by some celestial finger tapping Newton on the skull, but the work of constraint: systems shaped by what was available and what was withheld.
 
 A transduction of hunger into voice.
 

@@ -7,13 +7,13 @@ Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      4,191
+Word Count:      4,211
 Paragraph Count: 259
 Scene Count:     3
 
-Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,146  |  Paragraphs 1–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
-Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,147–1,655  |  Paragraphs 56–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
-Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,656–4,191  |  Paragraphs 89–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
+Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,154  |  Paragraphs 1–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
+Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,155–1,663  |  Paragraphs 56–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
+Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,664–4,211  |  Paragraphs 89–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -95,7 +95,7 @@ David watched her. The feeling had followed him through the doorway, an inexplic
 
 Her hands stopped.
 
-For a moment she remained exactly as she was, then tilted her head toward him, just enough for her left eye to emerge from behind the dense fall of red hair. A mischievous little sparkle passed across it. She gave the slightest shrug and returned to her work.
+For a moment she remained exactly as she was, then tilted her head toward him, just enough for her left eye to emerge from behind the dense fall of red hair. Her gaze was steady, assessing, edged with an unearned, ancient familiarity that left him unsettled. She gave the slightest shrug and returned to her work.
 
 “Seems a question better suited to your memory than mine.”
 
@@ -217,7 +217,7 @@ REPAIR SHOP FOR STRINGS. E. Guare, Proprietor.
 
 When he turned, the cello case was already drawing the eye.
 
-He knelt and opened the latches. The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. At the lower bout, the snapped tail of the old C string still curled against the wood, severed at the bridge where it had parted in Ithaca. A smell rose from the open case: rosin, old wood, horsehair; and beneath it, something that belonged to the afternoon in Buffalo. Cedar oil. Brass polish. The shop again, present in the instrument before he had even loosened the pegs.
+He knelt and opened the latches. The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. At the lower bout, the snapped tail of the old C string still curled against the wood, severed at the bridge where it had parted in Ithaca. A smell rose from the open case: rosin, old wood, horsehair; and beneath it, something that belonged to the alley in Buffalo an hour before. Cedar oil. Brass polish. The parchment sleeve of E. Guare's string sitting on the bed seemed to wake a dormant scent already sleeping within the instrument's grain.
 
 He lifted the cello onto the bed. Working with familiar economy, he turned the lower peg, uncoiled the fractured stub of wire, and slid the brass ball free of the fine tuner at the tailpiece. He dropped the useless scrap onto the bedspread.
 

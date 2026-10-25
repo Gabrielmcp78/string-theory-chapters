@@ -4,27 +4,17 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 2
 Title:           The Lecture
+Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,110
-Paragraph Count: 268
+Word Count:      5,093
+Paragraph Count: 263
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-* * *
-
-chapter_id: ch02 title: "The Lecture" act: 1
-
-* * *
-
-
-The Lecture
-
-Presto agitato
 
 The lecture hall, always five degrees too warm, was a tall expanse of yellows and browns whose rear walls had been surrendered to banks of narrow, vertical windows overlooking the glacier-carved canyons of East Hill. Right-angled panes divided winter daylight into geometric shards, so that light never arrived cleanly here: only fractured, false.
 
