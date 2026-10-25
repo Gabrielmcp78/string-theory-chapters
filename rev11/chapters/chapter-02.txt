@@ -8,8 +8,8 @@ Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,093
-Paragraph Count: 263
+Word Count:      5,105
+Paragraph Count: 262
 Scene Count:     0
 
 ========================================================================
@@ -52,7 +52,7 @@ He turned over his shoulder with a grin. “The old human narcotic.”
 
 Beneath it he wrote:
 
-  $$\Psi(x,t)=\sum_i c_i\phi_i(x)e^{-iE_i t/\hbar}$$
+  $$\Psi(x,t)=\sum*i c*i\phi*i(x)e^{-iE*i t/\hbar}$$
 
 “This is the whole wave function: everything the system could possibly become gathered into one sprawling, unobserved description. We call it probability because the alternative requires admitting that we do not entirely know what reality is before we look at it.”
 
@@ -110,7 +110,7 @@ HOW DO YOU MEASURE PROXIMITY?
 
 Underneath it came:
 
-  $$R_{ij} = \sqrt{(x_i - x_j)^2 + (y_i - y_j)^2 + (z_i - z_j)^2}$$
+  $$R*{ij} = \sqrt{(x*i - x*j)^2 + (y*i - y*j)^2 + (z*i - z_j)^2}$$
 
 The sound pressurized his eardrums until the shafts of light scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.
 
@@ -168,7 +168,7 @@ Two small circles appeared on opposite sides of the board, labeled A and B. Betw
 
 Rune wrote again, faster now, the chalk making a dry, surgical music against the slate:
 
-  $$\chi_{AB}(\omega) = \frac{\langle A | \hat{V} | B \rangle}{\omega - \omega_0 + i\epsilon}$$
+  $$\chi*{AB}(\omega) = \frac{\langle A | \hat{V} | B \rangle}{\omega - \omega*0 + i\epsilon}$$
 
 “The room has modes. It has preferences, if we are willing to forgive the word. A disturbance here”—he touched point A—“enters the conditions both systems share. At resonance, those conditions amplify the smallest permitted answer.”
 
@@ -236,9 +236,9 @@ His lungs stalled. Both hands closed over the steel lip of the projector cart, h
 
 In the fourth row, the girl who had been drawing mollusk shells looked up.
 
-Ten seconds passed.
+Ten seconds passed. Then thirty. Then one minute, and two.
 
-The projector fan droned into the silence.
+The projector fan droned into the deepening silence.
 
 “Professor?”
 
@@ -314,11 +314,9 @@ His hands opened. The remote struck the floor and cracked against the linoleum. 
 
 Roger's voice was scarcely above a whisper.
 
-David covered his face.
+David brought his hands upwards, slowly pressing his palms into his face.
 
 For a moment there was only his breathing. Then the first sob escaped him, a raw, astonished sorrow. Roger stood beside him.
-
-He let him weep.
 
 After a while Roger retrieved the remote and shut off the projector. The great tuning fork vanished. Gray daylight returned to the walls, exposing the ordinary furniture of the hall: blackboards streaked with chalk, abandoned notebooks, the scarred lectern beneath David's hands.
 

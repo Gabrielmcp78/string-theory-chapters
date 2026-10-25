@@ -8,7 +8,7 @@ Subtitle:        Andante sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,856
+Word Count:      2,861
 Paragraph Count: 122
 Scene Count:     0
 
@@ -52,7 +52,7 @@ Of course, voices from the street below reached the apartment all day, rising wi
 
 Cold met him at once, sharp with shale and frostbitten pine from the gorge below. Morning had broken beneath a pale winter sky as the sun crested East Hill, laying long indigo shadows across the roofs.
 
-He moved to the far railing, wind tugging at his shirt. From there he could trace the narrow streets north toward Cornell, the dark scrollwork of the southern gate visible just beyond the first rise. He closed his right hand around the iron and leaned into the cold, the book tucked against his other palm.
+He moved to the far railing, wind tugging at his shirt. From there he could trace the narrow streets north toward Cornell, the dark scrollwork of the southern gate visible just beyond the first rise. He closed his right hand around the iron and leaned into the breeze, the book tucked against his other palm.
 
 Another burst of laughter drew his attention to the row of old block houses on the next street. He watched as a young mother pulled gloves on with her teeth while a small girl tried to match the frosted boot prints of someone much larger; without looking down, the mother shortened her stride to match. Farther out, a boy in a screaming red hat scrambled across crusted turf, pursued by his father at the exact distance required to preserve the boy’s belief in escape. When the child ducked behind a hedge, something robin’s-egg blue flew upward; the father lunged, bobbled the puffy mittens from hand to hand, and trapped them to his chest, pumping both fists in triumph as though he had just saved the kingdom of mittens.
 
@@ -60,11 +60,9 @@ David laughed with them and at first, the sound hardly struck him as his own. Fo
 
 As he turned toward the warmth inside, the brittle pages of the book in his hand stirred wildly in the breeze.
 
-David opened the volume mid-spine, tilting it toward the light. As he did, his cuff pulled back and the crystal of Arthur’s watch caught the sun, flashing blinding white across his eyes.
+David opened the volume mid-spine, tilting it toward the light. As he did, his cuff pulled back and the face of Arthur’s watch caught the sun, flashing blinding white across his eyes.
 
-David flinched.
-
-The watch had belonged to Elliot first, then Arthur, the narrow band carrying decades from grandfather to father, and now to son. Two weeks ago, beneath morgue fluorescents, an orderly had unbuckled it from Arthur’s wrist and handed it across the counter. David had seen the pale ring of protected skin left behind. In that numb hour, he had buckled the strap onto his own wrist, signed the release forms, and driven his mother home to an empty house.
+The watch had belonged to Elliot first, then Arthur, the narrow band carrying decades from grandfather to father, and now to son. Two weeks ago, beneath the fluorescent lights of the morgue, an orderly had unfastened it from Arthur’s wrist and handed it across the counter. David had seen the pale ring of protected skin left behind. In that numb hour, he had buckled the strap onto his own wrist, signed the release forms, and driven his mother home to an empty house.
 
 As his vision cleared, he checked the dial.
 
@@ -83,6 +81,8 @@ There was no longer any other way to parse this.
 He was late.
 
 David Lang was never late. Never.
+
+* * *
 
 For forty-six years, this fact alone had served to guarantee the rest of him.
 
