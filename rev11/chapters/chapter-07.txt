@@ -7,13 +7,13 @@ Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      4,211
-Paragraph Count: 259
+Word Count:      3,835
+Paragraph Count: 246
 Scene Count:     3
 
 Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,154  |  Paragraphs 1–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
 Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,155–1,663  |  Paragraphs 56–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
-Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,664–4,211  |  Paragraphs 89–259  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
+Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,664–3,835  |  Paragraphs 89–246  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -217,11 +217,15 @@ REPAIR SHOP FOR STRINGS. E. Guare, Proprietor.
 
 When he turned, the cello case was already drawing the eye.
 
-He knelt and opened the latches. The instrument lay inside with its usual gravity, varnish sunk to brown under the room’s yellow light. At the lower bout, the snapped tail of the old C string still curled against the wood, severed at the bridge where it had parted in Ithaca. A smell rose from the open case: rosin, old wood, horsehair; and beneath it, something that belonged to the alley in Buffalo an hour before. Cedar oil. Brass polish. The parchment sleeve of E. Guare's string sitting on the bed seemed to wake a dormant scent already sleeping within the instrument's grain.
+He knelt and opened the latches. The instrument lay inside, its varnish sunk to chestnut brown under the room’s dull light. At the lower bout, the snapped tail of the old C string curled against the wood, severed at the bridge where it had parted in Ithaca. A smell rose from the open case: rosin, horsehair, and beneath it, something that belonged to the alley just an hour before. Cedar oil and brass polish. The parchment sleeve of E. Guare's string sitting on the bed seemed to wake a dormant scent already sleeping within the instrument's grain.
 
-He lifted the cello onto the bed. Working with familiar economy, he turned the lower peg, uncoiled the fractured stub of wire, and slid the brass ball free of the fine tuner at the tailpiece. He dropped the useless scrap onto the bedspread.
+He lifted the cello onto the bed.
 
-Tearing open the paper packet, he uncoiled the replacement tungsten string. The heavy winding felt cold and supple between his fingers. He anchored the ball end into the tailpiece slot and began drawing the length upward across the bridge toward the scroll.
+Sorry about this, my friend. Told you to relax every once in a while.
+
+Gently, he turned the lower peg, uncoiled the fractured stub of wire, and slid the brass ball free of the fine tuner at the tailpiece, dropping the useless scrap onto the bedspread.
+
+The paper sleeve tore open with ease, and he began to uncoil the replacement tungsten string, the heavy winding cold and supple between his fingers. He anchored the ball end into the tailpiece slot and began drawing the length upward across the bridge toward the scroll.
 
 To align the winding with the bridge notch, he tilted the instrument toward the yellow glow of the desk lamp.
 
@@ -229,7 +233,7 @@ As the beam crossed the spruce top, a glint of white caught his eye through the 
 
 David paused, the slack string loose in his right hand.
 
-Deeper in the soundbox cavity, past the maker’s label, something caught the lamp’s direct spill: a narrow paper repair strip glued flush against the inner rib. The graphite markings had faded along the grain, but under the angle of the light the letters were unmistakable:
+Deeper in the soundbox cavity, past the maker’s label, something caught the lamp’s direct spill: a narrow paper repair strip glued flush against the inner rib. The graphite markings had faded along the grain, so that the light danced against the aging slash of scribbled lead. David angled the instrument this way and that against the light, trying to get the clearest view. What he could make out was this:
 
 BFL 11/85. C.G. for C.L.
 
@@ -239,43 +243,13 @@ C.L.
 
 Cassandra Lang.
 
-The thought arrived without explanation. What on earth were his mother’s initials doing inside his cello?
+The thought arrived only partially reasoned. What the hell were his mother’s initials doing inside his cello?
 
-He remained motionless over the instrument for several seconds, peering through the f-hole, waiting for the lettering to dissolve into a trick of shadow. It stayed.
+He lowered the instrument carefully onto the bed and stood over it.
 
-A breath escaped him. Slowly, deliberately, he returned his focus to the task in his hands. He fed the silk-wrapped tip through the peg eyelet, turned the ebony peg to take up the slack, and guided the thick winding into the bridge notch. He brought the string to approximate tension, then adjusted the fine tuner until the peg held firm.
+Call Mom. *Simple enough. There had to be a good explanation for this. *No. Jesus. It’s midnight. She’d be asleep.
 
-He drew the bow from the case and tightened it slowly.
-
-The first open C blossomed into the room, deeper than he had expected. It passed beneath the vents’ tone, like the two were actively listening for one another. They seemed to approach but then failed to merge, hovering just outside one another. The contact point trembled near coherence strongly enough to raise the hair along his forearms.
-
-When he played the note again, a page on the desk shifted a quarter inch. A water glass on the nightstand drew a minute ring along its inner surface. Somewhere in the wall a cheap screw answered with a sympathetic rattle.
-
-He shifted to G, then back to C, then took the octave above. The cello answered with something that felt less like projection than recognition. His sternum vibrated. In the afterring he could almost hear some thinner structure pressing toward form and stopping just short of it so that when he stopped playing, the room did not wholly let go.
-
-On the desk, one of his conference pages had shifted enough to expose a penciled ratio:
-
-3:2. holds, but does not open.
-
-He stared at the line with immediate irritation. Christ. Was he becoming one of those people now? Three days around theoretical acousticians and suddenly every legal pad in America looked like the notebook of a desert prophet.
-
-The frequency in the room thickened, or his hearing drifted closer to its center. He raised the bow again and played a stopped fifth against the open string. For one held instant the instrument gathered itself inward. Across the room, atop the desk, a collection of loose pages, notes he had taken on this and that throughout the day, slid subtly into rough alignment, seemingly brushed by a draft too delicate to feel and too precise to dismiss.
-
-Then, with no warning to speak of, the alignment broke. The vent resumed its dull mechanical breathing and the pages settled back against the desk. Whatever had nearly crossed into form withdrew at once, leaving behind only its pressure.
-
-Down the hall an ice machine emptied a fresh tray into its holding bin. The crash startled David, hitting him like a dropped sheet of metal. He flinched so hard that the bow skipped across the string.
-
-“Jesus Christ.”
-
-He lowered the bow and set it down on the bed, then stood very still, not sure what exactly he was listening to, the residue perhaps, or maybe nothing at all. Either way, he was content to let the moment fall away into the quiet.
-
-His gaze returned to the cello resting on the spread, then to the card on the desk.
-
-BFL 11/85.
-
-Call Mom. No. Jesus. She’d be asleep.
-
-Then again, his mother considered midnight a perfectly reasonable time to reorganize closets or become emotionally devastated in the kitchen.
+Then again, his mother generally considered midnight a perfectly reasonable time to reorganize closets or become emotionally devastated in the kitchen.
 
 He turned toward the chair and started digging through the conference duffel. There had been a penlight in the swag bag somewhere beneath brochures, branded pens, and a stress ball shaped like a brain.
 
@@ -287,13 +261,13 @@ He jerked hard enough to nearly knock the cello sideways off the bed. The bow cl
 
 “David?”
 
-He grabbed the phone. “Hey, Mom.”
+He bobbled the phone up to his ear. “Hey, Mom.”
 
 “Oh good, I didn’t wake you.”
 
 “You absolutely woke me.”
 
-“No I didn’t.”
+“Nonsense, darling. I did not.”
 
 “Mom, it’s midnight.”
 
@@ -329,9 +303,21 @@ He looked back toward the open cello, the f-hole turned slightly toward the lamp
 
 “C.L. I think. Maybe.”
 
-“My initials?”
+“C.L. Well, I don’t know anybody with those initials. Huh.”
 
-“Looks like it.”
+“Mom.”
+
+“Yeah, honey?”
+
+David waited, letting the silence do its work.
+
+“Oh… Oh geez. Well, David. Those… those are my initials!”
+
+“There it is.”
+
+“Well, you should really tell whoever put them in there to stop impersonating your mother.”
+
+“Good lord. Mom, seriously. You don’t know anything about this?”
 
 A small incredulous laugh burst through the line. “Honey, why on earth would my initials be inside your cello? I don’t even know how to hold the thing correctly. That was your father’s department.”
 
@@ -347,27 +333,25 @@ The line quieted.
 
 “Mom?”
 
-Faintly he could hear her murmuring to herself.
+Faintly, he could hear her murmuring to herself.
 
-“Well now… no, that doesn’t… unless…”
-
-“No,” she said at last, quieter now. “That’s not right either.”
+“Well now… no, that doesn’t… unless…” She trailed off into thought for a moment. “No,” she said at last, quieter now. “That’s not right either.”
 
 “What isn’t?”
 
-“The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” A breath. “No, sweetheart. The cello was your grandfather’s thing.”
+“The papers were your father’s. The scores, the folders, all that endless carrying on. But the cello…” She took a deep breath. “No, sweetheart. The cello was your grandfather’s thing.”
 
 David frowned.
 
-“I remember he bought it for you. Worked the whole thing out with your father when you were tiny. Four maybe? Five? Your father wanted something practical and Elliot disappeared for three weeks like he was running guns for the French Resistance.”
+“Yes. I remember. He worked the whole thing out with your father. Oh, you were… so tiny still. Four maybe? Five? Your father wanted something practical and Elliot insisted. He disappeared for three weeks like he was running guns for the French Resistance.” Cassy let out a huge laugh. “Oh god, Davey, I was afraid the thing was going to crush you! Wouldn’t let them give it to you for… oh gosh, a few more Christmases after they came home from...”
 
-David smiled despite himself. “Buffalo.”
+“Buffalo.”
 
-“What?”
+“What, honey?”
 
 “The repair slip. Buffalo, eighty-five.”
 
-“Oh, that sounds right. They drove there together at least once.” A pause. “No, twice. Because your grandfather got that speeding ticket.”
+“Oh, that sounds right. They drove there together at least once.” A pause. “No, twice. Yes, because your grandfather got that speeding ticket.”
 
 “He got a speeding ticket?”
 
@@ -413,7 +397,7 @@ Then:
 
 His hand tightened around the phone. “What?”
 
-“Music. In your father’s Bach.”
+“Music. You know, a piece of scribbled notation. In your father’s Bach.”
 
 She did not need to say which Bach.
 
@@ -459,19 +443,17 @@ Elliot had heard it once and never escaped it.
 
 “I’m here.”
 
-He bent toward the f-hole again, this time with the penlight. Under the harsher beam the letters changed. The C’s were E’s, their middle strokes faded almost to nothing.
+He bent toward the f-hole again, this time with the penlight. But as he did, the new C string package slid off the bed. As it hit the floor the card from the shop slipped out from the flap. David picked it up.
+
+REPAIR SHOP FOR STRINGS, Buffalo, N.Y.
+
+E. Guare - Proprietor
+
+David looked back to the cello. Under the harsher beam, the letters changed. The C’s were not C’s at all. They were E’s, their middle strokes faded almost to nothing.
 
 The marking read plainly now:
 
 BFL 11/85. E.G. for E.L.
-
-At the bottom of the case, half trapped beneath the shoulder rest, lay a folded receipt he had barely noticed before. He opened it carefully.
-
-REPAIR SHOP FOR STRINGS, Buffalo, N.Y.
-
-client: E. Lang.
-
-internal adjustment completed / see verbal instructions only.
 
 Not Cassandra.
 
@@ -479,21 +461,13 @@ Elliot.
 
 Not C.G. either. E.G.
 
-E.Guare.
+E. Guare. From the Buffalo instrument shop.
 
 Near the saddle, where the grain tightened toward the endpin, the minute irregularity beneath the varnish returned to him with new force. Around the endpin collar, the ebony looked fractionally newer than the surrounding wear suggested it should. Someone had opened the instrument and closed it so carefully the fact survived only as hesitation in the surface.
 
 “David?” she said again. “What on earth does it mean?”
 
-He almost answered:
-
-Nothing. Probably nothing.
-
-But the sentence would not come. Some older part of him had already started listening.
-
-He looked from the slip to the open cello case, and from the case to the card on the desk.
-
-“I think he heard something,” David said slowly. “And I think music got to it before language did.”
+“Not sure yet, Mom, but… I think Elliot heard something,” David said slowly. “And I think music got to it before language did.”
 
 She was quiet a moment.
 
