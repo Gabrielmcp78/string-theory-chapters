@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-12.html">Chapter 12: HUMANITIES</a>
+    <a href="chapter-12.html">Chapter 12: Humanities</a>
     <a href="chapter-12-scene-07.html">← Scene 7</a>
     <a href="chapter-12-scene-09.html">Scene 9 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 12 · Scene 8 of 9 ]
-Chapter Title:   HUMANITIES
+Chapter Title:   Humanities
 Scene Heading:   12.8 Walk E | for David, Celeste, notebook, and boundaries
 Scene:           8 of 9
 Word Count:      252
 Paragraph Count: 14
-Chapter Words:   5,285–5,536 (within full chapter)
+Chapter Words:   5,288–5,539 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">12.8 Walk E | for David, Celeste, notebook, and boundaries</div>
@@ -750,7 +751,7 @@ Chapter Words:   5,285–5,536 (within full chapter)
 <p class="body">He sat at his desk, the tuning fork cool in his hand. He didn’t strike it. He simply held it, feeling its latent frequency humming against his skin, a companion to his own pulse.</p>
 <p class="body">Outside, night settled over Ithaca. Inside, the desk lamp held its clean circle of light.</p>
 <p class="body">He opened his notebook to a fresh page and began to write.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 8 &#8212;</div>
   </div>

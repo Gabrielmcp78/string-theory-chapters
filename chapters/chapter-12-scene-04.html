@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-12.html">Chapter 12: HUMANITIES</a>
+    <a href="chapter-12.html">Chapter 12: Humanities</a>
     <a href="chapter-12-scene-03.html">← Scene 3</a>
     <a href="chapter-12-scene-05.html">Scene 5 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 12 · Scene 4 of 9 ]
-Chapter Title:   HUMANITIES
+Chapter Title:   Humanities
 Scene Heading:   12.4 The Bench
 Scene:           4 of 9
 Word Count:      1,118
 Paragraph Count: 54
-Chapter Words:   1,987–3,104 (within full chapter)
+Chapter Words:   1,993–3,110 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">12.4 The Bench</div>
@@ -790,7 +791,7 @@ Chapter Words:   1,987–3,104 (within full chapter)
 <p class="body">“I know you are,” she said.</p>
 <p class="body">The wind caught the hem of her wool coat. She stepped to the rim of the rock, taking a slow, deep breath that steadied her shoulders. Behind them, the sun dipped beneath the cloud shelf, the water below darkening from bruised blue to indigo.</p>
 <p class="body">“Come on,” she said, the faintest smile touching the corner of her mouth. “We can’t stand here all night without it turning into a requiem.”</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
   </div>

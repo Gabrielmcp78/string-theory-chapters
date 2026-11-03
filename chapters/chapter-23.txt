@@ -3,22 +3,22 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 23
-Title:           THE PIVOTAL ENCOUNTER
+Title:           The Pivotal Encounter
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,505
-Paragraph Count: 121
+Word Count:      3,497
+Paragraph Count: 118
 Scene Count:     2
 
-Scene 1: 23.1 The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
-Scene 2: 23.2 The exhilaration of a walk downhill  --  Words 601–3,505  |  Paragraphs 18–121  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
+Scene 1: 23.1  The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
+Scene 2: 23.2  The exhilaration of a walk downhill  --  Words 601–3,497  |  Paragraphs 18–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-23.1 The Bench
+23.1  The Bench
 
 In the thinning veil where light bent toward shadow, David’s senses recoiled from the insubstantial, reassembling around familiar edges: the worn cello case leaning like a sentinel, the math‑riddled walls breathing softly in the ambient dusk.
 
@@ -53,7 +53,7 @@ He rolled his shoulders once, then again, listening inwardly for complaint, and 
 So this is what normal feels like.
 
 
-23.2 The exhilaration of a walk downhill
+23.2  The exhilaration of a walk downhill
 
 A sigh, a nod, and he began to walk. Below him the paths curved downward through the campus like pale veins through green flesh. Lamps still burned along the walkways, their light faint now against the strengthening sky. He stepped from the dew-glittered grass and onto the path towards his descent, moving without hurry, without destination. The slow incline drawing him through the familiar geometry of buildings and trees that seemed at once intimately known and strangely provisional, as though constructed only hours before for his use alone.
 
@@ -179,8 +179,7 @@ Fuck this. I must need sleep more than I realized.
 
 He slammed the apartment door, stuttered down the hall, jolted up the spiral stairs, and in one grand movement, plopped onto the bed and was done.
 
-THE NEW YORK TIMES
-All The News That's Fit To Print
+THE NEW YORK TIMES All The News That's Fit To Print
 
 November 30, 2026          $4.00
 
@@ -255,11 +254,6 @@ The harmonic‑flux anomalies first detected by neutrino sensors at Fermilab and
 No one has claimed authorship of the video. No one has come forward.
 
 Correction: An earlier version of this article stated the video was first detected by European servers. It appears to have propagated simultaneously across all platforms. The Times regrets the error and notes that “simultaneously” may itself require qualification in the future. We are not yet certain what word would be more precise.
-
-
-
-
-
 
 
 ========================================================================

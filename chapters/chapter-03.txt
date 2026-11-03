@@ -3,13 +3,12 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 3
-Title:           THE OFFICE
-Subtitle:        Largo
+Title:           The Office
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,935
-Paragraph Count: 74
+Word Count:      1,780
+Paragraph Count: 64
 Scene Count:     0
 
 ========================================================================
@@ -18,9 +17,9 @@ Scene Count:     0
 
 David's office sat two buildings and part of an arts-quad crossing from the physics cluster, tucked behind a row of former faculty houses now repurposed as boutique galleries for Cornell history and regional heritage. He could have reached it through the mid-century administrative corridors, but in every kind of weather he took the scenic route instead, avoiding the hallway where the nearly emeritus set imposed their half-muttered conversational ordeals.
 
-The office felt lost to time. None of it was necessarily David's doing; he had simply allowed what was there before him to remain. Late-afternoon light seeped through warped Venetian blinds, striping stacked volumes of Annalen der Physik into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookcase, its leather scuffed in the precise pattern of subway-platform collisions from a commute he no longer made.
+The office felt lost to time. None of it was necessarily David's doing; he had simply allowed what was there before him to remain. Morning light seeped through warped Venetian blinds, striping stacked volumes of Annalen der Physik into a barcode of abandoned inquiries. A cello case leaned against the southern flank of the bookcase, its leather scuffed in the precise pattern of subway-platform collisions from a commute he no longer made.
 
-David came through the door at a run, threw his coat toward the hook and struck the desk with his satchel hard enough to loosen half a dozen papers. He crossed directly to the computer and stopped dead.
+David came through the door at a run, threw his coat toward the hook and struck the desk with his satchel hard enough to loosen half a dozen papers. Frost still melted across his knuckles; beneath his collar, his skin pulsed with the lingering, subterranean vibration from the quad bench. He crossed directly to the computer and stopped dead.
 
 Rune Ishikawa was already seated in the corner armchair, stirring a fresh cup of Earl Grey, almost indistinguishable from the furniture.
 
@@ -50,15 +49,7 @@ His mind caught on Rune’s phrasing.
 
 “He asked after you. In fact, he mentioned you’d been rather difficult to reach of late. Said Princeton called him just the other day.”
 
-David turned to the paper-cluttered desk and began opening drawers, one after another, with the solemn industry of an organist pulling stops. The search continued just long enough to become conspicuous. Halfway through, he noticed himself watching his left hand work, as though supervising an employee, and stopped.
-
-“Come to think of it, I did see something from them.”
-
-He bent beneath the desk and rummaged through the drift of unopened mail at his feet.
-
-“Here somewhere…”
-
-Then, with a small sound of triumph, he produced an envelope.
+“Come to think of it, I did see something from them.” David bent beneath the desk, rummaged through the drift of unopened mail at his feet, and with a small sound of triumph produced an envelope.
 
 “Ah. Princeton University Press. There we are.”
 
@@ -68,15 +59,11 @@ It was a subscription renewal.
 
 “Excellent.”
 
-A pause opened between them, thin and fragile.
-
 “Yes, well. Wait and see, right?”
 
 Rune lifted one hand in a gesture that somehow contained here's hoping, advance congratulations, and a warning disguised as collegial optimism.
 
 “Yes. Thanks. Thank you.”
-
-The nicety hung in the air, one degree too polite. David could not locate the version of himself that would once have punctured it with a dry remark.
 
 David's gaze drifted. A parallelogram of pale sunlight bisected Arthur's watch while dust motes performed Brownian dances above a stack of Slovak musicology journals from 1987.
 
@@ -94,7 +81,7 @@ Rune closed the magazine with a precise snap and made a small click with his ton
 
 “True. But I have known you for twenty years, and it is not lost on me what giving yourself to us here on the great hill took from him. Or from you.” Rune's gaze dropped, an elegant if obvious deflection. “It seemed essential that I be there to see you honor his sacrifice.”
 
-“I'm… I don't...” David steadied himself with a deliberately large breath, then met Rune's dark eyes. “I don't know what to say.”
+“I'm… I don't…” David steadied himself with a deliberately large breath, then met Rune's dark eyes. “I don't know what to say.”
 
 “In my experience, the odds of that being true are positively astronomical.” Rune allowed the smallest pause. “Besides, I stayed forty-five minutes. Hardly an ordeal.”
 
@@ -112,15 +99,13 @@ Rune set down his teacup with the care of a man who could now afford to shift re
 
 David sat disarmed by the compliment and by the sheer unfamiliarity of Rune offering one. In twenty years of shared hallways and committee meetings, Rune had mastered proximity without disclosure. His warmth, when it appeared, generally carried the suspicion of strategy. This felt different. Or David was simply too tired to locate the mechanism.
 
-“Rune, that's… that's very nice of you to say. Very nice indeed.”
-
 Rune smoothed his left hand along the edge of the desk, an exit cue he had perfected decades ago, and glanced toward the precarious ziggurat of unanswered student inquiries and meeting requests beside the monitor.
 
 “Well, I can see you have a mountain of paper to climb. I'll leave you to it.” He reached the door, then stopped at the threshold. “Oh and, David… Resonance equals survival?”
 
 David's hand froze above the mouse, his eyes wide open, seemingly forced to meet Rune's steeled gaze directly.
 
-“An interesting premise.” His manicured nails tapped the doorjamb in glissando-like 7/8 time. “Resonance as a survival strategy. It has a certain intellectual elegance, I’ll grant you. Though one does wonder, David, when you'll find the nerve to move beyond the curation of the old masters and grace the department with something more speculative. We do so very much miss that version of you, you know.”
+“An interesting premise.” His manicured nails tapped out a figure in 7/8 against the doorjamb. “Resonance as a survival strategy. It has a certain intellectual elegance, I’ll grant you. Though one does wonder, David, when you'll find the nerve to move beyond the curation of the old masters and grace the department with something more speculative. We do so very much miss that version of you, you know.”
 
 “Hm? What was that, Rune? Oh… speculative… yes, well…”
 
@@ -130,11 +115,11 @@ Dr. Ishikawa mercifully brought the audience to a close. “Well, good night, Pr
 
 And with the unhurried shuffle of his soft leather shoes, he drifted away into the hall.
 
-*   *   *
+Rune had always been a nominal presence, barely there until the moment you realized he'd been holding the room together the whole time.
 
-The lecture folder remained open on the monitor. David selected the deck and watched its two thumbnails populate the left-hand pane: the Lang-Feldman diagram; the waveform and cochlea. Then a dozen or more perfectly related and ordered stock lecture slides on psychoacoustics. Nothing out of the ordinary. Nothing but the same slides in the same deck he’d used for years. He checked the file history, the embedded media, and the temporary cache. The deck had not changed since he built it and the Polaroid existed nowhere on the machine or elsewhere.
+The lecture folder remained open on the monitor. David selected the deck and watched the familiar thumbnails populate the left-hand pane: the Lang-Feldman diagram, the waveform and cochlea, followed by a dozen or more perfectly related and ordered stock lecture slides on psychoacoustics. Nothing out of the ordinary. Nothing but the same slides in the same deck he’d used for years. He checked the file history, the embedded media, and the temporary cache. The deck had not changed since he built it, and the Polaroid existed nowhere on the machine.
 
-He searched again and found nothing. Then Rune's final question returned to him as his gaze listed out the window and over the crystalized fog that had settled over the quad. Dr. Ishikawa had left the lecture hall before those words appeared on the board.
+He searched again and found nothing. Then Rune's final question returned to him as his gaze listed out the window and over the crystallized fog that had settled over the quad. Dr. Ishikawa had left the lecture hall before those words appeared on the board.
 
 David looked toward the empty doorway, then opened the bottom drawer and pulled out folder LXIII. Its tab read Theoretical Explorations. Below, in parentheses: Strike Outs. The lettering belonged to the geometric hand he had cultivated during a misguided calligraphy phase. New additions were never filed without rereading at least one previous rejection. The NSF denial still bore bourbon stains from 2014. The IEEE rebuke cited “excessive poetry in the equations.”
 
@@ -142,28 +127,21 @@ He took the latest speculative proposal from beside the monitor, added it as pag
 
 And then there was the rest: advisory meetings, recommendation letters, the brag sheets of mentees and postdoctoral hopefuls stacked beside the monitor. Since Arthur's death, the weeks had felt like a second conscription into adulthood, brought on less by any single blow than by attrition. The forms kept arriving while his father remained dead. The indecency of that made him flinch.
 
-In the far-right corner of the desk lay the manila envelope from Schaker, Marsheck & Camden, the firm administering Arthur's estate. David looked at it, looked away, then forced himself to look again. He could not bring himself to draw the papers from their stiff bureaucratic sleeve, much less sign them. A few marks in ink, and Arthur's absence would pass from catastrophe into administration.
-
-They had argued, sometimes mildly and sometimes with real force, about science and music: one obedient to law, the other disciplined only so it could remain human. Arthur had not wanted to lose him to physics. He had wanted David to remain with music, where exactness could serve beauty without pretending beauty was beside the point.
-
-David had insisted both were possible, that science and music need not remain separate islands. Somewhere between them, he believed, a land bridge had once existed and might be found again. Twenty years later, he still could not tell whether continuing to search amounted to fortitude or foolishness.
+In the far-right corner of the desk lay the manila envelope from Schaker, Marsheck & Camden, the firm administering Arthur's estate. David looked away, then forced himself to look back. He could not bring himself to draw the papers from their stiff bureaucratic sleeve, much less sign them. A few marks in ink, and Arthur's absence would pass from catastrophe into administration.
 
 He nudged the envelope back into its corner, still unsigned, and turned toward the glass, the campus trees and the darkening grass beyond it.
 
 “I will, Dad,” he whispered.
 
-*   *   *
+Beyond the window, across the darkening grass, the bench remained visible between the campus trees. Snow thickened into sleet and sleet turned to ice, laying a fresh sheen of treachery over the quad's footpaths. Yet the ground around the bench remained bare, black-green against the accumulating white. David leaned closer to the glass. Even the narrow track his body had followed across the quad was still visible, as though the earth along his passage had declined the weather.
 
-Beyond the window, across the darkening grass, the bench remained visible between the campus trees. Snow thickened into sleet and sleet turned to ice, laying a fresh sheen of treachery over the quad's footpaths. Yet the ground around the bench, and the narrow track his body had been pulled along, remained bare; black-green against the accumulating white, as though the earth there had declined the weather.
-
-Under layers of dense clay and root-striated soil lay the sealed case he, Celeste, and Marcus had buried.
+Under layers of dense clay and root-striated soil lay the sealed case he, Celeste, and Marcus McGrath had buried.
 
 David's fingernail traced the rim of his coffee cup and found the enamel chip left from the night he dropped it while trying to convince Arthur that any of them had the slightest idea what the hell they were doing.
 
 He glanced at the cup, then at the clock, then down at Arthur's watch, because the day had already proven less than reliable.
 
 This time the two faces agreed: it was three minutes, forty-seven seconds from time.
-
 
 
 ========================================================================

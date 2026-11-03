@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -778,7 +779,7 @@ Chapter Words:   2,526–3,210 (within full chapter)
 <p class="body">Roger reached down, gripped the molded handle with a leather-gloved fist, and heaved the sarcophagus back off the pavement.</p>
 <p class="body">“Keep walking, asshole.”</p>
 <p class="body">And they did.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 4 &#8212;</div>
   </div>

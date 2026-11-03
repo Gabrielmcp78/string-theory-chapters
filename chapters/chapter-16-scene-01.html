@@ -7,8 +7,8 @@
 <meta name="book" content="String Theory">
 <meta name="chapter" content="16">
 <meta name="scene" content="1">
-<meta name="scene-count" content="8">
-<meta name="word-count" content="1461">
+<meta name="scene-count" content="6">
+<meta name="word-count" content="1467">
 <meta name="paragraph-count" content="45">
 
 <!-- Reader Settings (Anti-Flicker) -->
@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-16.html">Chapter 16: SKEPTICISM AND RIDICULE</a>
+    <a href="chapter-16.html">Chapter 16: Skepticism and Ridicule</a>
     
     <a href="chapter-16-scene-02.html">Scene 2 →</a>
   </nav>
@@ -692,7 +693,7 @@ details.scene-analysis[open] summary::after {
 <article>
   <div class="article-inner">
   <div class="book-label">String Theory &middot; Gabriel McPherson</div>
-  <div class="chapter-number">Chapter 16 &middot; Scene 1 of 8</div>
+  <div class="chapter-number">Chapter 16 &middot; Scene 1 of 6</div>
   <div class="chapter-heading">16.1 The Lounge</div>
   
 
@@ -724,17 +725,17 @@ details.scene-analysis[open] summary::after {
   </div>
 
   <div class="chapter-stats">
-  <div class="stats-row"><strong>1,461</strong>&thinsp;words&ensp;<strong>45</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>8</strong></div>
+  <div class="stats-row"><strong>1,467</strong>&thinsp;words&ensp;<strong>45</strong>&thinsp;paragraphs&ensp;·&ensp;Scene&thinsp;<strong>1</strong>&thinsp;of&thinsp;<strong>6</strong></div>
 </div>
 
   <div class="chapter-text">
-<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 16 · Scene 1 of 8 ]
-Chapter Title:   SKEPTICISM AND RIDICULE
+<details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 16 · Scene 1 of 6 ]
+Chapter Title:   Skepticism and Ridicule
 Scene Heading:   16.1 The Lounge
-Scene:           1 of 8
-Word Count:      1,461
+Scene:           1 of 6
+Word Count:      1,467
 Paragraph Count: 45
-Chapter Words:   1–1,461 (within full chapter)
+Chapter Words:   1–1,467 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">16.1 The Lounge</div>
@@ -753,8 +754,7 @@ Chapter Words:   1–1,461 (within full chapter)
 <p class="body">David set his mug on the edge of the Formica table and unzipped the heavy leather satchel resting against his ankle. He reached inside and withdrew a thick, squared stack of white paper, lifting it with both hands like an offering.</p>
 <p class="body">“The Bailey Hall lecture was only the prologue,” David said, his eyes bright, radiating the manic clarity of three nights without sleep. “The pedagogical gloss for the public. But the real derivation—the actual mathematical coupling between acoustic standing waves and quantum boundary conditions—is right here. I finished the final proofs at four this morning. Printed twenty-seven copies on twenty-four-pound cotton stock from the bookstore so we could go through the field equations together.”</p>
 <p class="body">Across the heavy cover page, grand staff lines intersected Dirac bra-ket notation; fermion field operators were sketched in dense India ink directly over treble and bass clefs:</p>
-<p class="body">“A Physical Manifesto of Cosmic Resonance:
-Music, Mathematics, and the Harmonic Genesis of Cognition.”</p>
+<p class="body3">“A Physical Manifesto of Cosmic Resonance: Music, Mathematics, and the Harmonic Genesis of Cognition.”</p>
 <p class="body">The room did not fall silent at once.</p>
 <p class="body">Miller took the top copy, still chuckling under his breath, expecting an elaborate department prank—a satirical preprint mocking the humanities division. “What’s this, Lang? A musical score for the Hilbert space?”</p>
 <p class="body">He flipped open the cover. His smile remained fixed on his face for two seconds, then fossilized.</p>
@@ -763,10 +763,10 @@ Music, Mathematics, and the Harmonic Genesis of Cognition.”</p>
 <p class="body">Thorne’s jaw stopped chewing. He lowered the pastry.</p>
 <p class="body">Beside them, the junior theorists leaned forward from the couch, their smiles thinning into tight, bewildered lines.</p>
 <p class="body">“David,” Miller said softly, his voice losing every trace of its previous booming warmth. He turned the page. The margin was covered in frantic grease-pencil arrows connecting the seventeenth-century solar minimum to the overtone series of Bach’s Fifth Cello Suite. “What… what is this?”</p>
-<p class="body">“Look at the coupling constant on page four,” David said eagerly, stepping closer, his finger coming down on the dense mathematics. His fingernails were rimmed with white chalk dust; a faint smell of pine rosin and stale wool radiated from his cuffs. “If you treat the perfect fifth—the three-to-two ratio—as an invariant eigenvalue, the boundary conditions of the Hamiltonian resolve without renormalization. It unifies the field, Frank. Don’t you see? The solar quiet of 1687—the absolute minimum—corresponds directly to the nodal null of this phrase. It is not an analogy. It is the zero-crossing of the wave!”</p>
+<p class="body">“Look at the coupling constant on page four,” David said eagerly, stepping closer, his finger coming down on the dense mathematics. His fingernails were rimmed with white chalk dust; a faint smell of pine rosin and stale wool radiated from his cuffs. “If you treat the perfect fifth, the three-to-two ratio, as an invariant eigenvalue, the boundary conditions of the Hamiltonian resolve without renormalization. It unifies the field, Frank. Don’t you see? The solar quiet of 1687, the absolute minimum, corresponds directly to the nodal null of this phrase. It is not an analogy. It is the zero-crossing of the wave!”</p>
 <p class="body">Miller studied the denominator again. David had replaced an empirical boundary value with a musical ratio.</p>
 <p class="body">He slowly, carefully closed the cover of the paper, as if shutting the lid on a small, venomous animal. He looked up at David, his eyes clouded with that sudden, agonizing embarrassment men reserve for an old friend who has unbuttoned his shirt in public.</p>
-<p class="body">“Lang,” Thorne murmured, taking half a step backward toward the counter. “This… this isn&#x27;t string theory.”</p>
+<p class="body">“Lang,” Thorne murmured, taking half a step backward toward the counter. “This… this isn’t string theory.”</p>
 <p class="body">“It’s broader than string theory!” David’s voice rose, sharp and urgent, slicing through the low sixty-cycle hum of the refrigerator. “String theory reduced everything to unobservable Planck-scale geometry. This brings the geometry back into macroscopic physics! The acoustics prove the tensor fields!”</p>
 <p class="body">No one spoke.</p>
 <p class="body">Across the room, the drip machine finished its cycle with a wet, sucking gasp.</p>
@@ -779,10 +779,10 @@ Music, Mathematics, and the Harmonic Genesis of Cognition.”</p>
 <p class="body">David remained standing beside the Formica table, his hand half-outstretched over the white pile, the steam from his neglected mug curling faintly into the cold, empty air.</p>
 <p class="body">The door clicked open five minutes later.</p>
 <p class="body">Rebecca entered, carrying a canvas tote heavy with problem sets. She saw the stack on the table and stopped. She saw David standing motionless by the window, his back turned, his shoulders rigid under his tweed jacket.</p>
-<p class="body">Walking over with quiet, deliberate care, she lifted a copy and turned the cover. Her eyes traveled across the grand staff lines, the Dirac brackets, the arrows linking Bach’s intervals to the solar cycles. A look of deep, inconsolable sorrow crossed her face—the sorrow of someone recognizing the return of an incurable illness.</p>
+<p class="body">Walking over with quiet, deliberate care, she lifted a copy and turned the cover. Her eyes traveled across the grand staff lines, the Dirac brackets, the arrows linking Bach’s intervals to the solar cycles. A look of deep, inconsolable sorrow crossed her face, the sorrow of someone recognizing the return of an incurable illness.</p>
 <p class="body">Slowly, deliberately, she squared the copy back onto the pile. She did not speak. She looked toward his back for a long, aching moment, turned away, and walked past him into the hall.</p>
 <p class="body">The heavy door swung shut on its pneumatic hinge.</p>
-<p class="body">David stood alone in the center of the room. On the Formica table, under the buzzing fluorescent light, the twenty-seven copies of his paper sat undisturbed, heavy, white, and untouched.</p>
+<p class="body">David stood alone in the center of the room. On the Formica table, under the buzzing fluorescent light, the manifesto sat like a failed experiment: unmeasured, and already decaying toward equilibrium.</p>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
   </div>

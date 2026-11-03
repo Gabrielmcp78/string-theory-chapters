@@ -7,15 +7,15 @@ Title:           To Ground
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,820
+Word Count:      6,877
 Paragraph Count: 261
 Scene Count:     5
 
-Scene 1: 17.1 The Warnings | Somerville, Massachusetts  --  Words 70–1,163  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-17-scene-01.html
-Scene 2: 17.2 The Covenant | May 25, 2005  --  Words 1,164–4,878  |  Paragraphs 48–177  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-17-scene-02.html
-Scene 3: 17.3 To Ground  --  Words 4,879–6,030  |  Paragraphs 178–221  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-17-scene-03.html
-Scene 4: 17.4 The Return | Clark Hall, Midnight  --  Words 6,031–6,477  |  Paragraphs 222–245  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-17-scene-04.html
-Scene 5: 17.5 The Gatehouse  --  Words 6,478–6,820  |  Paragraphs 246–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-17-scene-05.html
+Scene 1: 17.1 The Warnings | Somerville, Massachusetts  --  Words 70–1,163  |  Paragraphs 4–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-01.html
+Scene 2: 17.2 The Covenant | May 25, 2005  --  Words 1,164–4,878  |  Paragraphs 48–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-02.html
+Scene 3: 17.3 To Ground  --  Words 4,879–6,030  |  Paragraphs 176–219  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-03.html
+Scene 4: 17.4 The Return | Clark Hall, Midnight  --  Words 6,031–6,477  |  Paragraphs 220–243  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-04.html
+Scene 5: 17.5 The Gatehouse  --  Words 6,478–6,877  |  Paragraphs 244–261  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-17-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -226,11 +226,7 @@ Rune reached forward to the heavy manila folder bound with black cotton ribbon. 
 
 Affixed to the face of the folder with a tarnished steel paperclip was a single slip of cream-colored Harvard Department of Physics memorandum bond. Across it, penned in dark iron-gall ink in Elliot’s sharp, mid-century script—upright strokes straight as an architect's rule, the lower loops carrying the violent tremor of an old man writing against terror—ran a warning:
 
-To the unlucky bearers of this vaulted work:
-
-Burn it, bury it, feed it to the depths of earth or space. I am powerless to resist whatever it has become whilst safe-harbored within my tortured mind. Do what I have failed to, and lock safe or destroy what pages and knowledge lie here. Please. Let no man alive be arrogant enough to believe that dominion can be had over this demon.
-
-—Elliot G. Lang
+To the unlucky bearers of this vaulted work: Burn it, bury it, feed it to the depths of earth or space. I am powerless to resist whatever it has become whilst safe-harbored within my tortured mind. Do what I have failed to, and lock safe or destroy what pages and knowledge lie here. Please. Let no man alive be arrogant enough to believe that dominion can be had over this demon. —Elliot G. Lang
 
 David stared at the ink. His breath hitched in his throat. Elliot Lang had treated emotion as an error in grammar. Seeing the word Please scored into the heavy rag so hard the steel nib had grazed the fibers hollowed out the center of David's chest.
 
@@ -256,7 +252,7 @@ David leaned forward. His eyes fixed on Section 3 of the technical note. The equ
 
 Beneath it, the Duffing frequency relation:
 
-  $$\omega_d = \omega_0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$
+  $$\omega*d = \omega*0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$
 
 And below the boundary integral, penned in an unfamiliar, tight upright hand:
 
@@ -276,7 +272,7 @@ David felt the blood surge hot into his temples, his voice cracking with raw, un
 
 Rune reached across the mahogany and drew David’s black leather notebook toward him. With slow, practiced fingers, he turned the pages until he reached David’s Somerville boundary derivation. He slid Elliot’s nineteen sixty-four Harvard monograph directly beside it, turning Elliot’s typed page to Section 4.
 
-"Look at the third line of your boundary integration, David," Rune said quietly. His index finger touched David’s handwritten ink, then moved to Elliot’s yellowed typescript. "Not the frequency. The notation. In standard perturbation theory, the transverse decay constant is indexed $\lambda_{\perp}$. In nineteen sixty-four, when your grandfather drafted this paper alone in Cambridge, he worked without reference tables. He invented an arbitrary coordinate transform—a non-standard cross-ratio indexed as $\Xi_{(0)}^{*}$ with an off-diagonal phase shift $\delta_L$."
+"Look at the third line of your boundary integration, David," Rune said quietly. His index finger touched David’s handwritten ink, then moved to Elliot’s yellowed typescript. "Not the frequency. The notation. In standard perturbation theory, the transverse decay constant is indexed $\lambda*{\perp}$. In nineteen sixty-four, when your grandfather drafted this paper alone in Cambridge, he worked without reference tables. He invented an arbitrary coordinate transform—a non-standard cross-ratio indexed as $\Xi*{(0)}^{*}$ with an off-diagonal phase shift $\delta_L$."
 
 Rune lifted his gaze, his eyes fixing on David with clinical precision.
 
@@ -543,9 +539,13 @@ The guard glanced once through the window, comparing David’s face to the lamin
 
 The guard stepped into the booth and pulled the mechanical lever. The wooden counterweighted barrier arm creaked upward into the mist.
 
-David put the Wagoneer in gear. The tires crunched over the wet limestone gravel, and the car slipped past the barrier, descending into the dark valley road toward Binghamton.
+The Wagoneer crept down the switchbacks of University Avenue, its red taillights painting two dull crimson streaks through the vapor behind them. They drove south toward Binghamton for sixty miles in a silence so thick it hurt to look the other way.
 
-Behind them, the red taillights were swallowed by the mountain fog.
+When at last the lashing valley released them toward open road and starlight, Marcus leaned forward between the front bucket seats, shivering slightly as he wiped the fogged windshield with his sleeve.
+
+His voice was brittle, cracking with exhausted irony:
+
+”Tell me we just buried that thing, Dave. Tell me we didn’t just plant it.”
 
 
 ========================================================================

@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-12.html">Chapter 12: HUMANITIES</a>
+    <a href="chapter-12.html">Chapter 12: Humanities</a>
     <a href="chapter-12-scene-02.html">← Scene 2</a>
     <a href="chapter-12-scene-04.html">Scene 4 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 12 · Scene 3 of 9 ]
-Chapter Title:   HUMANITIES
+Chapter Title:   Humanities
 Scene Heading:   12.3 Walk D - Part 1 | For Celeste and David
 Scene:           3 of 9
 Word Count:      373
 Paragraph Count: 20
-Chapter Words:   1,614–1,986 (within full chapter)
+Chapter Words:   1,620–1,992 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">12.3 Walk D - Part 1 | For Celeste and David</div>
@@ -756,7 +757,7 @@ Chapter Words:   1,614–1,986 (within full chapter)
 <p class="body">The dull ache beneath his ribs spiked, sharp as a needle, giving the lie to every word.</p>
 <p class="body">He gestured toward the crest. “Those two up there? They’re squatting on ghosts, not dreams.”</p>
 <p class="body">High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air, lazy and amused.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 3 &#8212;</div>
   </div>

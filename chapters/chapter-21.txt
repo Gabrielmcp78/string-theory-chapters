@@ -3,27 +3,27 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 21
-Title:           PHENOM DE GUARE
+Title:           Phenom de Guare
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,806
-Paragraph Count: 293
+Word Count:      5,798
+Paragraph Count: 290
 Scene Count:     7
 
-Scene 1: 21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
-Scene 2: 21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.3 THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.4 Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.5 THE WEIGHT OF NAMES | October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.6 TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.7 CANTUS  --  Words 4,918–5,806  |  Paragraphs 252–293  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
+Scene 1: 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
+Scene 2: 21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
+Scene 3: 21.3   THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4  Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5   THE WEIGHT OF NAMES  |  October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6  TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7  CANTUS  --  Words 4,918–5,798  |  Paragraphs 252–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-21.1 THE NETWORK | UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026
+21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026
 
 Dr. Marcus McGrath moved through his observatory like a conductor orchestrating survival. The electromagnetic pulse had silenced ninety percent of Earth’s scientific infrastructure at 2:47 A.M., but the Keck arrays on Maunakea, hummed with impossible vitality, not merely operational, but inexplicably and increasingly enhanced. His standard radio telescopes were detecting signals in frequency ranges they had never been designed to process.
 
@@ -57,12 +57,12 @@ He turned toward the bank of engineers crunching the metadata still pouring off 
 
 McGrath pulled up the newly unscrambled GPS coordinates and waited for the search algorithm to narrow into the precise location.
 
-|   Ithaca, NY.   |
+| Ithaca, NY. |
 
 “Holy shit. Rune, what have you done to the Finger Lakes?” Marcus took two deep breaths, then barked, “Get me a priority line to Cornell Astrophysics. Now!”
 
 
-21.2 THE CALL | Cornell Physics Department 11:47 A.M. Eastern
+21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern
 
 Dr. Rune Ishikawa found himself in an unfamiliar (and potentially compromising) state of affairs as the most inexplicable morning of his career bled into afternoon. He had spent the preceding hours monitoring solar-flare data that defied every model he’d developed over thirty years of astrophysics and cosmological research. The electromagnetic storm should have destroyed Cornell’s detection equipment, but somehow their arrays were not only functional: they were operating beyond theoretical specifications.
 
@@ -151,7 +151,7 @@ Understanding crashed over Ishikawa. “Marcus, I’m looking at the footage now
 He slammed the phone down and sprinted for the door.
 
 
-21.3 THE DISCOVERY
+21.3   THE DISCOVERY
 
 Feynman Hall
 
@@ -230,9 +230,9 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 “But where is he?” Marcus’s voice carried through the speaker, urgent and afraid. “If he achieved this breakthrough, if these theories are correct, then where the hell is David?”
 
 
-21.4 Around The Horn
+21.4  Around The Horn
 
-Geneva, CERN Control Room   |   5:48 P.M. CET
+Geneva, CERN Control Room | 5:48 P.M. CET
 
 The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.
 
@@ -395,7 +395,7 @@ Rune’s hand shook on the desk, palm pressed against the glowing chalk. His voi
 And for the first time since the flares struck Earth, the world’s greatest minds burst into laughter, even Rune Ishikawa. Because they finally understood what they were hearing.
 
 
-21.5 THE WEIGHT OF NAMES | October 1971
+21.5   THE WEIGHT OF NAMES  |  October 1971
 
 Three days after the ARGO incident
 
@@ -484,7 +484,7 @@ JUST YOU AND ME STOP.
 ISHIKAWA
 
 
-21.6 TEMPORALITY
+21.6  TEMPORALITY
 
 Present Day
 
@@ -531,7 +531,7 @@ McGrath exhaled, half-laughing. “Hey, I bet I can tell you all what’s gonna 
 Laughter trickled in, forced at first, but needed. Everyone knew that much. Until the twenty-eight seconds passed and with the clockwork of just-before-this, the sound mist of temporal static flanged back at them. It was zero minutes : zero seconds in time.
 
 
-21.7 CANTUS
+21.7  CANTUS
 
 McGrath paused, needing an assurance from his people that the temporal drift had indeed stabilized, then leaned toward the mic. The leaning was slower than time. He was searching, in this moment, reaching toward something to say, anything that might stand a chance at being enough. He knew the look of what was coming, and owed them yet another grim, clear glimpse into the future.
 
@@ -608,11 +608,6 @@ In the lab, Sub-level Two, a screen alive for fifty-four years, a forty-seven-se
 A heartbeat later, the clocks resumed their steady tick, perfectly in sync.
 
 Reality, for now, had retuned itself.
-
-
-
-
-
 
 
 ========================================================================

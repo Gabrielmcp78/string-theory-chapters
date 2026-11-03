@@ -3,22 +3,25 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 14
-Title:           Visions and Burdens of Knowing
+Title:           Visions and Burdens… of Knowing
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,425
-Paragraph Count: 286
-Scene Count:     2
+Word Count:      7,726
+Paragraph Count: 300
+Scene Count:     5
 
-Scene 1: 14.1 OVERTURE: THE MONOCHORD | Pythagoras  --  Words 1–1,673  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 ANDANTE: THE SALON | Émilie du Châtelet  --  Words 1,674–7,425  |  Paragraphs 59–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html
+Scene 1: 14.1 I. Overture: The Monochord | Pythagoras  --  Words 1–1,970  |  Paragraphs 1–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 II. Andante: the salon | Émilie du Châtelet  --  Words 1,971–2,983  |  Paragraphs 73–113  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing  --  Words 2,984–4,977  |  Paragraphs 114–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni  --  Words 4,978–6,388  |  Paragraphs 205–258  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 V. Finale: Minimums | Isaac Newton  --  Words 6,389–7,726  |  Paragraphs 259–300  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-14.1 OVERTURE: THE MONOCHORD | Pythagoras
+14.1 I. Overture: The Monochord | Pythagoras
 
 [Adagio misterioso]
 
@@ -134,10 +137,38 @@ A sharp burst of mineral blue flashed across his peripheral vision—an optical 
 
 * * *
 
+* * *
 
-14.2 ANDANTE: THE SALON | Émilie du Châtelet
+* * *
 
-[Andante con grazia e logica]
+David crashed forward against the desk, catching his weight on his palms as his shins knocked the apron. The demitasse rattled violently on its saucer.
+
+He stood in the dark of his study, breathing hard, the smell of hot thyme and animal fat lingering on his palate like smoke. His hands were shaking. In his right fist, the tuning fork was hot to the touch, vibrating with a dying frequency that felt like a live nerve against his thumb.
+
+His left hand was empty, his palm grey with chalk dust.
+
+No stone terrace. No cypress timber.
+
+The room rushed back into his ears—heavy, thick, smelling of stale coffee and cold radiators. On his left wrist, beneath the frayed cuff, the sweep hand of Arthur’s watch continued its quiet, indifferent circle, three minutes and forty-seven seconds ahead of any clock on campus.
+
+David looked up at the slate.
+
+The twelve iterations of the manifold were still there, blurred by chalk dust. But at the lower perimeter, where the parameter space had collapsed into a tangle of unresolved tensors, the notation had cleared.
+
+Three whole-number ratios. Locked into the geometry of the loop.
+
+His hand was unsteady, but the urgency in his blood was absolute. He picked up a chalk stub, stepped to the slate, and went to touch the chalk to the stone.
+
+The moment the calcium met the slate, a sudden sensory interference flared.
+
+A sharp burst of mineral blue flashed across his peripheral vision—an optical phantom of the Greek glare. For a split second, his ribs ached with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.
+
+* * *
+
+
+14.2 II. Andante: the salon | Émilie du Châtelet
+
+Andante con grazia e logica
 
 The chalk made a sudden, new sound as it struck the slate mid-thought. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. David stopped and stepped back to take in the entire board.
 
@@ -217,7 +248,8 @@ For the first time, the beauty of the thing did not reassure him.
 
 * * *
 
-[III. Scherzo: The Purge | Chair Clearing]
+
+14.3 III. Scherzo: The Purge | Chair Clearing
 
 Presto distruttivo
 
@@ -399,7 +431,8 @@ And David found it… beautifully terrifying.
 
 * * *
 
-[IV. Intermezzo: Resonance | Chladni]
+
+14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni
 
 Allegretto vibrante
 
@@ -507,7 +540,8 @@ Harder.
 
 * * *
 
-[V. Finale: Minimums | Isaac Newton]
+
+14.5 V. Finale: Minimums | Isaac Newton
 
 Largo maestoso
 

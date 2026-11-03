@@ -3,7 +3,7 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 26
-Title:           THE ENDURING LEGACY
+Title:           The Enduring Legacy
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
@@ -11,15 +11,15 @@ Word Count:      2,596
 Paragraph Count: 65
 Scene Count:     3
 
-Scene 1: 26.1 The Effect  --  Words 1–1,020  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
-Scene 2: 26.2 The Impact  --  Words 1,021–1,650  |  Paragraphs 25–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
-Scene 3: 26.3 The Reason  --  Words 1,651–2,596  |  Paragraphs 35–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
+Scene 1: 26.1  The Effect  --  Words 1–1,020  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-01.html
+Scene 2: 26.2  The Impact  --  Words 1,021–1,650  |  Paragraphs 25–34  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-02.html
+Scene 3: 26.3  The Reason  --  Words 1,651–2,596  |  Paragraphs 35–65  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-26-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-26.1 The Effect
+26.1  The Effect
 
 The playroom knows light the way a mother knows crying: which pitch means hunger, which means hurt, which means nothing at all except the body testing its own weather. Glass and algorithm conspire to soften the morning, breaking it into bands a child can read: here gold, there indigo, each one a word in a language the room speaks against his skin. The tatami gives slightly underfoot. The surfaces hold him the way a cupped palm holds water, not warm, exactly, but shaped to keep him from spilling.
 
@@ -68,7 +68,7 @@ He nods. Her hand is warmer than anything in the room behind him. Together they 
 Behind them, in the now-empty playroom, the table holds the memory of the spiral a moment longer. Then the image folds in on itself and begins, quietly, to learn.
 
 
-26.2 The Impact
+26.2  The Impact
 
 At first the effect is local: a ripple through one house, then a block, then a city. But once seeded, the phenomenon propagates like the viral cascades of the early digital age, only instead of outrage and cat memes, what spreads is the possibility of new structure, method, meaning.
 
@@ -89,7 +89,7 @@ Everywhere, the effect is the same: hands touch, eyes widen, and an old problem 
 And so, on this new Earth, there are no monuments to honor, no manifestos to extoll or explain the dreams of Professor David Lang. His discoveries exist as a gentle, persistent hum, a sound so pervasive it is indistinguishable from silence until the moment you realize you are listening.
 
 
-26.3 The Reason
+26.3  The Reason
 
 The house always stays one step ahead. By the time the boy retraces his path from the kitchen, mouth still tingling from a pop of orange zest, the playroom has re‑optimized its air, recalibrated its thermal gradient, purged the lingering scent of coriander.
 
@@ -150,7 +150,6 @@ When the sun dips and the day’s tuning dims to a single pulse, ancient as fait
 Behind them, no footprints remain. Only drifting symbols: equations, notes, luminous fragments floating like seedpods on the wind, the language of what endures.
 
 He smiles, clasps his father’s hand, and together they step into the unfinished light: a world of mischief and melody, sung in the sacred key of life’s unending possibility.
-
 
 
 ========================================================================

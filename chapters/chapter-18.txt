@@ -3,25 +3,25 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 18
-Title:           FRACTIONAL CURRENCY
+Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      3,806
-Paragraph Count: 159
+Paragraph Count: 162
 Scene Count:     5
 
-Scene 1: 18.1 Street Smarts | November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
-Scene 2: 18.2 Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
-Scene 3: 18.3 Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
-Scene 4: 18.4 A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
-Scene 5: 18.5 The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–159  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
+Scene 1: 18.1   Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
+Scene 2: 18.2  Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
+Scene 3: 18.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
+Scene 4: 18.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
+Scene 5: 18.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-18.1 Street Smarts | November 28, 2026
+18.1   Street Smarts   |   November 28, 2026
 
 The queue inside Genoa’s shimmered in odd little micro pauses, as though it wanted to move but could remember only how to stop. David fell into place, relying on the old rhythm: left foot, right foot, a shift of weight. The cold found him through the seam beneath his collar and settled there.
 
@@ -72,7 +72,7 @@ David approached it. The small orange shifted before his foot touched it, retrea
 He bent, picked it up, and straightened. When his eyes returned to the middle distance, every hard edge around him seemed fractionally misplaced, as though the block had been taken apart and rebuilt from memory. A receipt fluttered near the entrance, then froze, pinned to the asphalt by nothing visible. Traffic lights at the intersection cycled obediently from green to yellow to red. Nothing moved.
 
 
-18.2 Wander, Wonder and Wait
+18.2  Wander, Wonder and Wait
 
 David stepped off the curb and into the middle of the intersection. He stood there, untroubled by oncoming traffic, as though the road had relinquished its claim on him. The standard power line buzz was still there: 60 Hz as always. Above it, clearer now, a precise overtone threaded the silence: 86.84 hertz.
 
@@ -115,7 +115,7 @@ The hallway stood empty beneath the dim light. The door remained sealed. The hig
 Jesus Christ. Make a choice. Solar storm or horror film? Settle, Lang.
 
 
-18.3 Sundays
+18.3  Sundays
 
 David looked at his phone. Five missed calls from his mother. There had been none moments ago.
 
@@ -188,7 +188,7 @@ He closed his eyes and let her words settle before answering. “Love you too, M
 The line clicked quiet. He remained there anyway, phone balanced in his palm, screen dark against his hand.
 
 
-18.4 A Preference for Precision
+18.4  A Preference for Precision
 
 And then the detail that should have vanished did not vanish.
 
@@ -219,7 +219,7 @@ He closed his eyes. He raised the bow, horsehair hovering a micrometer above the
 If it be now…
 
 
-18.5 The Conduction
+18.5  The Conduction
 
 Every experiment has an origin, a point where it must begin. David felt the weight of that point like a hand on his shoulder. He had finished every equation. Laid out every instrument. The storm was rising beyond the walls, whether he moved or stayed. If he lingered, the work would turn to hesitation, and hesitation would turn to decay. There was no further refinement left to hide inside.
 
@@ -348,7 +348,6 @@ He set the page before him. Reached for the bow. Drew in a breath that did not s
 Play.
 
 Just play.
-
 
 
 ========================================================================

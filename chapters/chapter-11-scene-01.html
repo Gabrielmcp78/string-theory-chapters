@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -781,7 +782,7 @@ Chapter Words:   1–845 (within full chapter)
 <p class="body">She pushed a drift of score sheets aside with her forearm and sat. Took a sip.</p>
 <p class="body">Scalding. And then the loose grounds hit her teeth. She spat a mouthful of gritty sludge back into the mug with a low, disgusted hiss.</p>
 <p class="body">Burnt. Same as yesterday. Gritty. Same as last Saturday. Same as every morning since David moved out to the apartment in town. He couldn’t seal a simple drain, or hit more nails than he missed. But damn, the man made one hell of a good cup of coffee.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 1 &#8212;</div>
   </div>

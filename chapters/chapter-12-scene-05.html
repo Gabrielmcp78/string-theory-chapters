@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-12.html">Chapter 12: HUMANITIES</a>
+    <a href="chapter-12.html">Chapter 12: Humanities</a>
     <a href="chapter-12-scene-04.html">← Scene 4</a>
     <a href="chapter-12-scene-06.html">Scene 6 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 12 · Scene 5 of 9 ]
-Chapter Title:   HUMANITIES
+Chapter Title:   Humanities
 Scene Heading:   12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light
 Scene:           5 of 9
 Word Count:      503
 Paragraph Count: 12
-Chapter Words:   3,105–3,607 (within full chapter)
+Chapter Words:   3,111–3,613 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light</div>
@@ -748,7 +749,7 @@ Chapter Words:   3,105–3,607 (within full chapter)
 <p class="body">&quot;Yeah,&quot; he said, his battered ribs beginning to throb again in the evening chill. &quot;One hell of a view.&quot;</p>
 <p class="body">&quot;Me or the falls?&quot;</p>
 <p class="body">&quot;Yup,&quot; he said, and crossed the threshold.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 5 &#8212;</div>
   </div>

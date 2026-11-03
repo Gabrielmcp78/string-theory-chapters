@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-17.html">Chapter 17: TO GROUND</a>
+    <a href="chapter-17.html">Chapter 17: To Ground</a>
     <a href="chapter-17-scene-02.html">← Scene 2</a>
     <a href="chapter-17-scene-04.html">Scene 4 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 17 · Scene 3 of 5 ]
-Chapter Title:   TO GROUND
+Chapter Title:   To Ground
 Scene Heading:   17.3 To Ground
 Scene:           3 of 5
 Word Count:      1,152
 Paragraph Count: 44
-Chapter Words:   4,877–6,028 (within full chapter)
+Chapter Words:   4,879–6,030 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">17.3 To Ground</div>
@@ -780,7 +781,7 @@ Chapter Words:   4,877–6,028 (within full chapter)
 <p class="body">David closed his eyes and let the words settle.</p>
 <p class="body">&quot;Let’s go home,&quot; he said.</p>
 <p class="body">They walked down East Hill together through the freezing mist toward the gravel parking lot behind the observatory.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 3 &#8212;</div>
   </div>

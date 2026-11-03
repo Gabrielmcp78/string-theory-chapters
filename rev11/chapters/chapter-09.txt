@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,178
-Paragraph Count: 117
+Word Count:      3,581
+Paragraph Count: 126
 Scene Count:     4
 
-Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,038  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-01.html
-Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,039–2,464  |  Paragraphs 26–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,465–2,988  |  Paragraphs 77–111  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 2,989–3,178  |  Paragraphs 112–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-09-scene-04.html
+Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,038  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,039–2,464  |  Paragraphs 26–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,465–3,365  |  Paragraphs 77–120  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,366–3,581  |  Paragraphs 121–126  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -176,19 +176,39 @@ The amphitheater emptied in its usual chaotic flood of backpacks and chatter. Da
 
 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day
 
-By late afternoon, the department office smelled of scorched coffee and overheated copier belts.
+By late afternoon, the entire administrative corridore smelled of steam heat and damp wool, of bodies and dank shoe mud the failing of industrial cleaners.
 
-Mrs. Gable sat behind the counter, stamping requisitions with heavy, indifferent thuds.
+At least, in the departmental secretaries office, there was fresh coffee and Chanel No. 5 to counter the effects.
 
-“Professor Lang,” she said, sliding a square slip across the laminate. “Your mother called at eleven-thirty. Sounded worried. Asked if you’d received a parcel from Boston.”
+Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plowman in a bog. David always felt like she could read in every professors face all the things only their mother should know about them, and of those things, only the most extreme and exaggerated upsides, coupled with the most devastating downsides of every personality in the apartment.
 
-“A parcel?” David asked.
+“Professor Lang,” she said, sliding a square slip across the laminate. “Your mother called at eleven-thirty. Sounded worried. I would be too if you were my son darling.”
 
-“From Boston. That’s what she said.”
+“Marsha, always a pleasure. What did I tell you about taking messages from my mother?”
+
+“David, I think you and I both know that Cassandra Lang has mysterious ways.”
+
+“So do you Mrs. Gable.”
+
+“Yes, but when someone of you mothers’ formidable stature leaves 42 messages in a week, even I am rendered powerless. She wants to know if you received and returned the rest of the papers from your father’s estate, I think.”
+
+“Oh lord. Marsha, I apologize for my…”
+
+“Oh no. Don’t you dare, young man. Cassie is as good a story teller as I’ve ever known! And I knew Carl Sagan for 25 years so…”
+
+“Storyteller, huh?” David could only imagine. “Do I even want to…”
+
+“No, David,” she said with a devilish smirk. “You most assuredly do no want to know.” And she laid an immaculately manicured hand on Davids’ forearm at the desk. “Just rest assured dear, that I most assuredly do know.”
+
+“Right. Well, make sure I know what you want for christmas, okay Marsha.”
+
+“Call you mother, David. That’s what I want from you.” She handed him the stack of call slips and grinned widely. “Oh, and a nice bottle of Chanel No. 5 as usual, dear.”
+
+“Will do, Mrs. Gable.”
 
 David looked down.
 
-The Post-it was fluorescent magenta.
+The top half of the stack were written on Post-it notes. They were an almost breath-stealing shade of fluorescent magenta.
 
 The same impossible color that had flashed across the frostbitten grass that morning. On the lawn it had vanished whenever he looked directly at it; here, between an ink pad and a tape dispenser, it stayed.
 
@@ -196,21 +216,19 @@ He picked it up and turned it beneath the fluorescent light. Magenta had no wave
 
 Cassandra called at 11:30. Please ring her back when you’re out of class.
 
-“Want to use my phone?”
+“Want to use my phone? Could do it right now. Get it over with.”
 
-“No, thank you. I’ll call from home.”
+“No, thank you. I’ll call her from home.”
 
-He folded the note, hiding the color, and slipped it into his coat pocket.
+He folded the notes and slipped them into his coat pocket.
 
-The corridor was empty, its long stretches of cinder block dim beneath the emergency lights.
+The corridors were thinning toward empty as he made his way out of the complex. Long stretches of cinder blocks dim beneath the dinge of the last remaining collection of Edison bulbs still in service anywhere on campus.
 
-David walked toward the south exit.
+David walked toward the south exit. The light felt old and classy, like gin and vermouth in a tuxedo with no tie. In his head, more sounds, more voices of other nights hunched against the upper banister in Belmont.
 
-In his head, more sounds, more voices of other nights at the banister in Belmont.
+“The second fiddle,” Lenny said, lamenting. “It’s true. I can get plenty of first violinists, but to find someone who can play the second fiddle with enthusiasm—now that is a problem.”
 
-“The second fiddle. I can get plenty of first violinists, but to find someone who can play the second fiddle with enthusiasm—that's a problem.”
-
-Lenny was sprawled across the parlor armchair with a Scotch, arguing with Arthur about an old Philharmonic rehearsal in New York. Arthur maintained that Bernstein’s beat had been impossible to follow.
+Lenny was sprawled across the parlor armchair with a Scotch, arguing with Arthur about an old Philharmonic rehearsal in New York. Arthur maintained that Bernstein’s batton had been particularly impossible to follow on the occasion in question.
 
 “Nonsense, Arty,” Lenny protested. “Darling, you simply weren’t watching me!”
 
@@ -222,17 +240,17 @@ Lenny was sprawled across the parlor armchair with a Scotch, arguing with Arthur
 
 Cassie passed through carrying a bowl of ice.
 
-“That’s why you watch his cigarette, sweetheart. Everybody knows that.”
+“That’s why you watch his cigarette for the downbeat, sweetheart. Everybody knows that.”
 
 Bernstein nearly lost his Scotch. He doubled over, pounding the armchair, laughing so hard he began to cough.
 
-David smiled at the empty corridor.
+David smiled at the empty corridor as the memory fell away like cigarette smoke on the wind.
 
-He had nearly reached the south doors when one swung inward. A young woman came through under the weight of an overstuffed backpack, still drawing the last of a fountain soda through its straw. The cup caught David’s coat, its lid sprang loose, and a handful of ice scattered across the tiles.
+He had nearly reached the southern doors when a young woman came barreling around the corner, the weight of an overstuffed backpack influencing her sense of balance, still drawing the last of a fountain soda through its straw. The cup caught David’s coat, its lid sprang loose, and a handful of ice scattered across the tiles.
 
 “Oh! God, I’m sorry, Professor Lang.”
 
-“Not at all.” He caught the door before it struck her and glanced at the ice. “As it happens, I’m quite accomplished at ice removal.”
+“Not at all.” He caught the door before it struck her and glanced at the ice. “As it happens, I’m quite accomplished at ice removal. Think nothing of it.”
 
 With the edge of his shoe he sent the cubes skittering over the threshold onto the frozen steps. She laughed, relieved, and recovered the lid.
 
@@ -247,15 +265,15 @@ He held the door as she slipped inside, then stepped out into the cold.
 
 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon
 
-Late afternoon had settled cold and gray over the Arts Quad. David turned up his collar as he passed beneath the darkening windows of Goldwin Smith, Arthur’s gold Omega ticking beneath his coat sleeve. An owl called somewhere among the bare trees, and he lifted his head, listening for another, when a passing current of air brought the rich, unmistakable sweetness of cigar smoke.
+Evening had settled cold and gray over the Quad. David turned up his collar as he passed beneath the darkening windows of Goldwin Smith, Arthur’s gold Omega ticking beneath his coat sleeve. An owl called somewhere among the bare trees to the north, and he lifted his head, listening for another, when a passing current of air brought the rich, unmistakable sweetness of cigar smoke.
 
-He stopped, half expecting Professor Wexler to be enjoying his customary post-lecture indulgence beneath the south portico, and looked back toward the building with the beginnings of a greeting already forming on his lips.
+He stopped, half expecting Professor Wexler to be enjoying his customary post-lecture indulgence beneath the south portico, a greeting already forming on his lips. But the portico stood empty, its stone columns pale against the gathering dusk, and the scent was gone.
 
-The portico stood empty, its stone columns pale against the gathering dusk, and the scent was gone. Across the Quad came the rush of the gorge rapids, the voices of students crossing the lawns, and, from somewhere behind him, a burst of laughter that lingered above the water before fading into the evening.
+Across the Quad came the rush of the gorge rapids, the voices of students crossing the lawns, and, from somewhere behind him, a burst of laughter that lingered above the water before fading into the evening.
 
-He listened as he walked on, and only as he descended the steps toward the road did he become aware of the melody moving softly beneath his breath.
+He listened as he walked on. It was only as he descended the steps toward the road that he become aware of the melody moving softly beneath his breath.
 
-Elliot’s melody.
+It was his grandfather’s melody. Elliot’s tune. He felt it lilt away as he took one last, deep breath of the campus air: dank mud, cuban leaf, and the faintest hint of Chanel No. 5.
 
 
 ========================================================================

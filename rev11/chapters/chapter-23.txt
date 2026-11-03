@@ -11,8 +11,8 @@ Word Count:      3,497
 Paragraph Count: 118
 Scene Count:     2
 
-Scene 1: 23.1  The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-23-scene-01.html
-Scene 2: 23.2  The exhilaration of a walk downhill  --  Words 601–3,497  |  Paragraphs 18–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-23-scene-02.html
+Scene 1: 23.1  The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
+Scene 2: 23.2  The exhilaration of a walk downhill  --  Words 601–3,497  |  Paragraphs 18–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

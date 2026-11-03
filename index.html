@@ -20,7 +20,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -696,7 +697,7 @@ details.scene-analysis[open] summary::after {
   <div class="book-title">Manuscript &middot; Gabriel McPherson</div>
   <h1>String Theory</h1>
   <p class="meta" style="margin-top:0.4rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem">
-    <span>27 chapters + Overture + Appendix &middot; 122,169 words &middot; <a href="manifest.json" style="color:#b8785a">manifest.json</a></span>
+    <span>27 chapters + Appendix &middot; 119,528 words &middot; <a href="manifest.json" style="color:#b8785a">manifest.json</a></span>
     <button class="ctrl-btn theme-btn nav-theme-btn" onclick="toggleTheme()" title="Toggle dark mode" style="margin:0"><span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span></button>
   </p>
 </header>
@@ -704,22 +705,7 @@ details.scene-analysis[open] summary::after {
   <p>Download the full manuscript for any e-reader &mdash; Apple Books, Kobo, or any EPUB-compatible app.</p>
   <a class="epub-download" href="https://gabrielmcp78.github.io/string-theory-chapters/String%20Theory.epub" download="String Theory.epub">&#8595; Download EPUB</a>
 </div>
-<div class="epub-banner" style="background:#3b2f2a"><p>Revision 11 working draft &mdash; rebuilt automatically from the Revision-11 branch.</p><a class="epub-download" href="rev11/index.html">Read Revision 11 &#8594;</a></div>
-<div class="part-section">
-  <div class="part-header-card">
-    <div class="part-num-tag">EPIGRAPH &amp; PROLOGUE</div>
-    <h2 class="part-main-title">Dr. Kenji Tsukino, Ithaca, NY 1970</h2>
-    
-  </div>
-  <ul class="chapter-list">
-    <li>
-      <span class="ch-num">Overture</span>
-      <a href="chapters/overture.html">PROLOGUE</a>
-      
-      <span class="meta">100 words</span>
-    </li>
-</ul>
-</div>
+<div class="epub-banner" style="background:#3b2f2a"><p><strong>Leading edge</strong> &mdash; the newest working draft, built 2026-11-03 16:23 UTC from the source working tree plus 26 desk-edited scene(s) from Literary Studio. 1 desk scene(s) could not be applied safely and show their source text. The committed main manuscript is one click away.</p><a class="epub-download" href="main/index.html">Read the committed main &#8594;</a></div>
 <div class="part-section">
   <div class="part-header-card">
     <div class="part-num-tag">PART ONE</div>
@@ -729,33 +715,33 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 1</span>
-      <a href="chapters/chapter-01.html">THE IVY LEAGUE</a>
-      <span class="meta">Andante sostenuto</span>
-      <span class="meta">3,111 words</span>
+      <a href="chapters/chapter-01.html">The Ivy League</a>
+      
+      <span class="meta">2,864 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 2</span>
-      <a href="chapters/chapter-02.html">THE LECTURE</a>
-      <span class="meta">Presto agitato</span>
-      <span class="meta">6,287 words</span>
+      <a href="chapters/chapter-02.html">The Lecture</a>
+      
+      <span class="meta">5,165 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 3</span>
-      <a href="chapters/chapter-03.html">THE OFFICE</a>
-      <span class="meta">Largo</span>
-      <span class="meta">1,938 words</span>
+      <a href="chapters/chapter-03.html">The Office</a>
+      
+      <span class="meta">1,782 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 4</span>
-      <a href="chapters/chapter-04.html">THE REHEARSAL</a>
-      <span class="meta">I. Allegro sostenuto</span>
-      <span class="meta">2,768 words</span>
+      <a href="chapters/chapter-04.html">The Rehearsal</a>
+      
+      <span class="meta">2,753 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 5</span>
-      <a href="chapters/chapter-05.html">THE APARTMENT</a>
+      <a href="chapters/chapter-05.html">The Apartment</a>
       
-      <span class="meta">2,705 words</span>
+      <span class="meta">2,159 words</span>
     </li>
 </ul>
 </div>
@@ -768,27 +754,27 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 6</span>
-      <a href="chapters/chapter-06.html">NOW THEN</a>
+      <a href="chapters/chapter-06.html">Now Then</a>
       
-      <span class="meta">2,491 words</span>
+      <span class="meta">2,445 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 7</span>
-      <a href="chapters/chapter-07.html">ALTERATION FINDS</a>
+      <a href="chapters/chapter-07.html">Alteration Finds</a>
       
-      <span class="meta">3,411 words</span>
+      <span class="meta">3,937 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 8</span>
-      <a href="chapters/chapter-08.html">THE FIREBIRDS</a>
+      <a href="chapters/chapter-08.html">The Firebirds</a>
       
-      <span class="meta">1,979 words</span>
+      <span class="meta">1,865 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 9</span>
-      <a href="chapters/chapter-09.html">REMAINING RETURNS</a>
+      <a href="chapters/chapter-09.html">Remaining Returns</a>
       
-      <span class="meta">2,031 words</span>
+      <span class="meta">3,583 words</span>
     </li>
 </ul>
 </div>
@@ -801,9 +787,9 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 10</span>
-      <a href="chapters/chapter-10.html">PASSIONS’ PRINCIPLES</a>
+      <a href="chapters/chapter-10.html">Passions’ Principles</a>
       
-      <span class="meta">13,436 words</span>
+      <span class="meta">13,289 words</span>
     </li>
 </ul>
 </div>
@@ -818,13 +804,13 @@ details.scene-analysis[open] summary::after {
       <span class="ch-num">Ch 11</span>
       <a href="chapters/chapter-11.html">EXERCISE</a>
       
-      <span class="meta">5,673 words</span>
+      <span class="meta">5,661 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 12</span>
-      <a href="chapters/chapter-12.html">HUMANITIES</a>
+      <a href="chapters/chapter-12.html">Humanities</a>
       
-      <span class="meta">6,065 words</span>
+      <span class="meta">6,053 words</span>
     </li>
 </ul>
 </div>
@@ -837,21 +823,21 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 13</span>
-      <a href="chapters/chapter-13.html">TWIN PRIMES ON THE SIX</a>
+      <a href="chapters/chapter-13.html">Twin Primes on the Six</a>
       
-      <span class="meta">6,175 words</span>
+      <span class="meta">6,115 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 14</span>
-      <a href="chapters/chapter-14.html">VISIONS AND BURDENS OF KNOWING</a>
+      <a href="chapters/chapter-14.html">Visions and Burdens… of Knowing</a>
       
-      <span class="meta">6,531 words</span>
+      <span class="meta">7,731 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 15</span>
       <a href="chapters/chapter-15.html">THE SOLAR MAXIMUM CONNECTION</a>
       
-      <span class="meta">9,194 words</span>
+      <span class="meta">9,176 words</span>
     </li>
 </ul>
 </div>
@@ -864,15 +850,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 16</span>
-      <a href="chapters/chapter-16.html">SKEPTICISM AND RIDICULE</a>
+      <a href="chapters/chapter-16.html">Skepticism and Ridicule</a>
       
-      <span class="meta">6,075 words</span>
+      <span class="meta">5,912 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 17</span>
-      <a href="chapters/chapter-17.html">TO GROUND</a>
+      <a href="chapters/chapter-17.html">To Ground</a>
       
-      <span class="meta">6,830 words</span>
+      <span class="meta">6,879 words</span>
     </li>
 </ul>
 </div>
@@ -885,15 +871,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 18</span>
-      <a href="chapters/chapter-18.html">FRACTIONAL CURRENCY</a>
+      <a href="chapters/chapter-18.html">Fractional Currency</a>
       
       <span class="meta">3,808 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 19</span>
-      <a href="chapters/chapter-19.html">THE SYMMETRY OF VIOLENCE</a>
+      <a href="chapters/chapter-19.html">The Symmetry of Violence</a>
       
-      <span class="meta">3,530 words</span>
+      <span class="meta">3,534 words</span>
     </li>
 </ul>
 </div>
@@ -906,15 +892,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 20</span>
-      <a href="chapters/chapter-20.html">RESONANCE</a>
+      <a href="chapters/chapter-20.html">Resonance</a>
       
-      <span class="meta">1,139 words</span>
+      <span class="meta">2,154 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 21</span>
-      <a href="chapters/chapter-21.html">PHENOM DE GUARE</a>
+      <a href="chapters/chapter-21.html">Phenom de Guare</a>
       
-      <span class="meta">5,809 words</span>
+      <span class="meta">5,801 words</span>
     </li>
 </ul>
 </div>
@@ -927,15 +913,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 22</span>
-      <a href="chapters/chapter-22.html">RATIOS OF ONE</a>
+      <a href="chapters/chapter-22.html">Ratios of One</a>
       
-      <span class="meta">1,514 words</span>
+      <span class="meta">1,453 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 23</span>
-      <a href="chapters/chapter-23.html">THE PIVOTAL ENCOUNTER</a>
+      <a href="chapters/chapter-23.html">The Pivotal Encounter</a>
       
-      <span class="meta">3,508 words</span>
+      <span class="meta">3,500 words</span>
     </li>
 </ul>
 </div>
@@ -948,15 +934,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 24</span>
-      <a href="chapters/chapter-24.html">THE FINAL DECISION</a>
+      <a href="chapters/chapter-24.html">The Final Decision</a>
       
-      <span class="meta">6,196 words</span>
+      <span class="meta">387 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 25</span>
-      <a href="chapters/chapter-25.html">ENDLESS POSSIBILITIES</a>
+      <a href="chapters/chapter-25.html">Endless Possibilities</a>
       
-      <span class="meta">3,484 words</span>
+      <span class="meta">3,474 words</span>
     </li>
 </ul>
 </div>
@@ -969,15 +955,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Ch 26</span>
-      <a href="chapters/chapter-26.html">THE ENDURING LEGACY</a>
+      <a href="chapters/chapter-26.html">The Enduring Legacy</a>
       
       <span class="meta">2,599 words</span>
     </li>
     <li>
       <span class="ch-num">Ch 27</span>
-      <a href="chapters/chapter-27.html">ELEGY… FOR ALL</a>
-      
-      <span class="meta">3,028 words</span>
+      <a href="chapters/chapter-27.html">Elegy</a>
+      <span class="meta">A Requiem in Seven Movements</span>
+      <span class="meta">3,054 words</span>
     </li>
 </ul>
 </div>
@@ -990,9 +976,15 @@ details.scene-analysis[open] summary::after {
   <ul class="chapter-list">
     <li>
       <span class="ch-num">Appx</span>
-      <a href="chapters/appendix.html">FIELD PROTOCOL #47: TONAL ACTIVATION</a>
-      <span class="meta">National Museum Installation &amp; Operational Field Manual</span>
-      <span class="meta">754 words</span>
+      <a href="chapters/appendix.html">Field Protocol #47: Tonal Activation</a>
+      
+      <span class="meta">747 words</span>
+    </li>
+    <li>
+      <span class="ch-num">Appx</span>
+      <a href="chapters/appendix.html">Compendium of Tempi, Acoustics &amp; Note-Bound Physics</a>
+      
+      <span class="meta">1,648 words</span>
     </li>
   </ul>
 </div>

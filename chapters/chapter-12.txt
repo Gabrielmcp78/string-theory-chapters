@@ -3,23 +3,23 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 12
-Title:           HUMANITIES
+Title:           Humanities
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,064
-Paragraph Count: 289
+Word Count:      6,052
+Paragraph Count: 287
 Scene Count:     9
 
-Scene 1: 12.1 Walk C | for David, Roger, towel, and crowbar  --  Words 1–1,001  |  Paragraphs 1–57  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
-Scene 2: 12.2 The Cafe  --  Words 1,002–1,613  |  Paragraphs 58–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-02.html
-Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,614–1,986  |  Paragraphs 94–113  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html
-Scene 4: 12.4 The Bench  --  Words 1,987–3,104  |  Paragraphs 114–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html
-Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,105–3,607  |  Paragraphs 168–179  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html
-Scene 6: 12.6 The House on the Hill (return)  --  Words 3,608–4,308  |  Paragraphs 180–214  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html
-Scene 7: 12.7 The Draft  --  Words 4,309–5,284  |  Paragraphs 215–254  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
-Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,285–5,536  |  Paragraphs 255–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
-Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,537–6,064  |  Paragraphs 269–289  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
+Scene 1: 12.1 Walk C | for David, Roger, towel, and crowbar  --  Words 1–1,007  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
+Scene 2: 12.2 The Cafe  --  Words 1,008–1,619  |  Paragraphs 59–94  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-02.html
+Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,620–1,992  |  Paragraphs 95–114  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html
+Scene 4: 12.4 The Bench  --  Words 1,993–3,110  |  Paragraphs 115–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html
+Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,111–3,613  |  Paragraphs 169–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html
+Scene 6: 12.6 The House on the Hill (return)  --  Words 3,614–4,314  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html
+Scene 7: 12.7 The Draft  --  Words 4,315–5,287  |  Paragraphs 216–255  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
+Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,288–5,539  |  Paragraphs 256–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
+Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,540–6,052  |  Paragraphs 270–287  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -28,6 +28,8 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,537–6,064  |  Paragraphs 
 12.1 Walk C | for David, Roger, towel, and crowbar
 
 They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, guarding his injured ribs, did not reward conversation.
+
+for David, Roger, towel, and crowbar
 
 A few blocks in, Linn said, almost casually, “You don’t have a meeting.”
 
@@ -137,7 +139,7 @@ Roger gave a low, mock-urgent whistle.
 
 David snapped his spine straight—wincing at the cost—and pivoted with exaggerated military precision toward the cafe window, where Celeste sat watching them with an arched brow.
 
-*   *   *
+* * *
 
 
 12.2 The Cafe
@@ -210,7 +212,7 @@ David looked across at her. She had chosen the booth with the shadows to spare h
 
 She stood first, gathering her bag. David rose more slowly, hitching his leather shoulder bag over his uninjured shoulder, the cracked ribs reminding him of their presence with each breath. She waited without hovering, then fell into step beside him as they moved toward the door.
 
-*   *   *
+* * *
 
 
 12.3 Walk D - Part 1 | For Celeste and David
@@ -251,7 +253,7 @@ He gestured toward the crest. “Those two up there? They’re squatting on ghos
 
 High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air, lazy and amused.
 
-*   *   *
+* * *
 
 
 12.4 The Bench
@@ -360,7 +362,7 @@ The wind caught the hem of her wool coat. She stepped to the rim of the rock, ta
 
 “Come on,” she said, the faintest smile touching the corner of her mouth. “We can’t stand here all night without it turning into a requiem.”
 
-*   *   *
+* * *
 
 
 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light
@@ -385,7 +387,7 @@ She let out a quick sniff and a sly grin as she turned to climb the rest of the 
 
 "Yup," he said, and crossed the threshold.
 
-*   *   *
+* * *
 
 
 12.6 The House on the Hill (return)
@@ -456,7 +458,7 @@ Celeste looked at the fork on the nightstand, then leaned back against the headb
 
 He chose closer.
 
-*   *   *
+* * *
 
 
 12.7 The Draft
@@ -495,7 +497,7 @@ She stood, clearing space along the desk. Her own sketches went into a folder. S
 
 David made his way to the desk slowly. By the time he eased into the chair, she had returned with two mugs and his shoulder bag from the hallway bench. He took his field notebook from his inner jacket pocket, set it beside her lamp, and opened his laptop from the bag. The draft document appeared on screen, pages of equations and prose that had seemed impossibly tangled yesterday now resolving into focus.
 
-The title remained at the top of the document, unchanged through eight weeks of rejection and several increasingly determined attempts at revision: Harmonic Convergence in Non-Linear Quantum Fields. The argument beneath it had altered considerably. Whether the distinction would be apparent to anyone who had already decided what the paper was worth remained an open question.
+He had adjusted the title of the original paper slightly for the Princeton monograph: Decoherence and the Emergence of Classical Histories. The argument beneath it had altered considerably since the paper's publication. Whether the distinction would be apparent to anyone who had already decided what his work was worth remained an open question.
 
 Celeste returned to her own chair, pulling out a score and a pencil. She worked in parallel silence while David traced the relationships between harmonic decomposition and quantum superposition.
 
@@ -537,7 +539,7 @@ Would he? A year ago, probably not. He’d have retreated, isolated, insisted on
 
 She smiled, just a small, genuine gesture, and opened the door.
 
-*   *   *
+* * *
 
 
 12.8 Walk E | for David, Celeste, notebook, and boundaries
@@ -566,7 +568,7 @@ Outside, night settled over Ithaca. Inside, the desk lamp held its clean circle 
 
 He opened his notebook to a fresh page and began to write.
 
-*   *   *
+* * *
 
 
 12.9 Ten Minutes, Maybe Twelve
@@ -604,11 +606,6 @@ Celeste stood. She tested it once with her hand. Then, because no one was watchi
 She put the tools away, returning the box to its shelf, and paused in the hallway. Nothing. The hundred-year-old frame had gone completely quiet. No creaking joists, no water pipes sighing in the walls. It was uncanny. She walked toward the kitchen, treading lightly as if not to wake the place, then turned toward the stairs. Enjoy the peace, she thought. Trust it while—
 
 From the kitchen counter, the electric kettle clicked off.
-
-
-
-
-
 
 
 ========================================================================

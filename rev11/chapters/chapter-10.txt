@@ -7,26 +7,30 @@ Title:           Passions’ Principles
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      14,881
-Paragraph Count: 855
+Word Count:      13,287
+Paragraph Count: 774
 Scene Count:     8
 
-Scene 1: 10.1 CHORALE | Wednesday Dinner  --  Words 1–1,614  |  Paragraphs 1–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-01.html
-Scene 2: 10.2 ARIOSO | The Tuning  --  Words 1,615–5,149  |  Paragraphs 77–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-02.html
-Scene 3: 10.3 RECITATIVUM | Break-Through  --  Words 5,150–6,048  |  Paragraphs 287–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-03.html
-Scene 4: 10.4 TURBA | The Guillotine  --  Words 6,049–8,002  |  Paragraphs 324–441  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-04.html
-Scene 5: 10.5 VIA DOLOROSA | Into the Storm  --  Words 8,003–10,986  |  Paragraphs 442–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-05.html
-Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,987–11,702  |  Paragraphs 631–657  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-06.html
-Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,703–13,298  |  Paragraphs 658–779  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-07.html
-Scene 8: 10.8 RELIQUIAE | Up From the Depths  --  Words 13,299–14,881  |  Paragraphs 780–855  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-10-scene-08.html
+Scene 1: 10.1  CHORALE  --  Words 1–1,567  |  Paragraphs 1–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: 10.2  ARIOSO  --  Words 1,568–5,041  |  Paragraphs 77–285  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: 10.3  RECITATIVUM  --  Words 5,042–6,205  |  Paragraphs 286–351  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: 10.4  TURBA  --  Words 6,206–8,216  |  Paragraphs 352–470  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: 10.5  Into the Storm  --  Words 8,217–10,342  |  Paragraphs 471–594  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: 10.6  CRUCIFIXIO  --  Words 10,343–11,032  |  Paragraphs 595–622  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: 10.7  DEPOSITIO / SEPULTURA  --  Words 11,033–12,845  |  Paragraphs 623–751  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: 10.8  Up From the Depths  --  Words 12,846–13,287  |  Paragraphs 752–774  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-10.1 CHORALE | Wednesday Dinner
+10.1  CHORALE
 
-[Andante sostenuto]
+CHORALE
+
+Wednesday Dinner
+
+Andante sostenuto
 
 The cafe’s acoustic tiles could not quite contain the Wednesday-evening murmur, but Celeste had chosen their corner booth precisely for its distance from the kitchen’s iron percussion. David arrived eight minutes late, a crescent of white chalk still pressed beneath the cuticle of his thumb despite three washings. He slid into the booth, his satchel falling onto the vinyl seat beside him with the heavy, leaden thud of unread monographs.
 
@@ -68,13 +72,9 @@ That, and he was quite fond of the chicken piccata.
 
 “Well, you look… you look beautiful.”
 
-She glanced up with a blink and a sideways smile as she tucked a wayward chunk of hair behind her right ear.
-
-David watched her tuck the hair behind her ear, the same small gesture that had mesmerized him since the day they met. For an instant, the years between then and now seemed to give way. There she was, three feet across the table, as she had been through all those years of being his, of being them.
+She glanced up with a blink and a sideways smile as she tucked a wayward chunk of hair behind her right ear, the same small gesture that had mesmerized him since the day they met. For an instant, the years between then and now seemed to give way. There she was, three feet across the table, as she had been through all those years of being his, of being them.
 
 The distance was the same. Three feet. Yet she had never seemed farther away.
-
-And somewhere inside that impossible measure, between the man he was now and the two of them he could still remember being, he knew that if a Wednesday ever came when she stopped coming, it would end him.
 
 He took a sip of water, then straightened the napkin, the menu, himself. Small rituals of order.
 
@@ -177,9 +177,13 @@ At the door he held her viola case while she wound her scarf.
 She let him. And while both of them noticed, neither said a word.
 
 
-10.2 ARIOSO | The Tuning
+10.2  ARIOSO
 
-[Adagio espressivo e misterioso]
+ARIOSO
+
+The Tuning
+
+Adagio espressivo e misterioso
 
 They stopped at the apartment for the cello, and Celeste waited in the car with the book on her lap, not opening it. She rested both hands upon the cover, as if contact alone might begin whatever permission the thing required.
 
@@ -453,27 +457,21 @@ He set down the bow he had not realized he was holding. “There was a repair la
 
 “What kind of label?”
 
-“A repair strip.” Then, because each fragment purchased a moment in which he did not have to produce the next: “Old. Eighty-five. It reads E.G. for E.L. BFL 11/85. Elliot Lang was my grandfather. I don’t know what was done.”
+“A repair strip.” Then, because each fragment purchased a moment in which he did not have to produce the next: “Old. It reads E.G. for E.L. BFL 11/85. Elliot. My grandfather. A custom alteration. Still haven’t completely figured out what.”
 
 She absorbed this, her attention moving once toward the cello and back.
 
 “How long have you known?”
 
-“Four days.”
+“Since Saturday night. In Buffalo.”
 
-Her face stayed quiet, which was worse. “And you found the shop by accident.”
+Her face was still, quite. “And you found the shop by accident.”
 
-“I found the address by accident.”
-
-“That wasn’t what I asked.”
-
-He looked at her. “No,” he said. “It wasn’t.”
+“Well, no. I went to get the replacement C string. Roger suggested it actually.”
 
 Cassandra let the silence hold just long enough to prove she had heard it.
 
-“David,” she said, “either you tell her these things when they happen, or I will. You are not the gatekeeper between me and your ex—” A pause; the audible redrafting of an entire domestic constitution. “Better half, or whatever it is we are calling you tonight, dear.”
-
-A classically Cassy giggle spilled across the line. “Well,” she said, “I think my work is done here. Good night, my darlings. And, Celeste, enjoy the book. I knew you’d give it a good home.”
+A classic, Cassy-sized giggle spilled across the line. “Well,” she said, “I think my work is done here. Good night, my darlings. And, Celeste, enjoy the book. I knew you’d give it a good home.”
 
 The line clicked quiet before either of them could answer, which was, they both understood, the point. Celeste did not move toward him.
 
@@ -545,7 +543,7 @@ The sound changed (closer rather than louder), and they adjusted the fifth betwe
 
 The two instruments began to occupy the room more completely, the floor accepting the sound before the walls did. But beneath all of it their bodies remembered a fluency their words had lost: her bow asking, his hand answering; her shoulder opening the phrase, his bass gathering it; each correction a pressure passed between them and returned transformed.
 
-For a few measures, they were perfect together, the danger inside the perfection part of its beauty.
+For a few measures, they were perfect together.
 
 Celeste lowered one string by less than he could reliably measure. “Again.”
 
@@ -598,120 +596,186 @@ Celeste looked toward the open book. He followed her gaze. Neither said anything
 They played until nearly midnight, pursuing the sound long after the cello had returned to the ordinary loyalties of wood, gut, and varnish. Each attempt clarified only the distance between repetition and return, and still they played.
 
 
-10.3 RECITATIVUM | Break-Through
+10.3  RECITATIVUM
 
-[Allegro con fuoco]
+RECITATIVUM
 
-Morning came with a clear skull, an unknotted jaw, and the uncommon sensation that his life had returned to scale. He dressed without searching his reflection for evidence of collapse, carried the cello to campus because leaving it behind felt suddenly unthinkable, and reached his office before nine.
+Break-Through
 
-For nearly an hour, it held. Then he opened the notebook.
+Allegro con fuoco
 
-Across the final page, beneath a passage he did not remember writing, he had drawn the residual tone as Celeste described it: the original pitch, the cello’s delayed response, the two-second decay, the failed attempts to reproduce it. Beside those marks sat the measurements they had taken before abandoning the experiment: string length, room temperature, approximate bow pressure, the compromised interval Celeste had insisted on preserving, and the accidental F that had made them laugh because neither had put it there and both had arrived.
+Morning arrived with a clear skull, an unknotted jaw, and the rare sensation that Davids' life might finally return to scale. He dressed without checking the mirror, brewed a strong pot of coffee, and pulled up to the kitchen island, intending simply to: fucking breathe.
 
-The figures had seemed almost tender in the chapel. Under the office lights, they began to arrange themselves.
+He tried to ignore the pull.* It can just be what it was. Christ, you don’t need to turn it into… fuck.*
 
-David turned to the triptych blackboard and opened all three panels.
+For nearly an hour, he sat there, arguing with himself. His right foot in a chronic circular tapping match with the other stool.
 
-He began with the response curve. The cello had not merely echoed the final pitch. Its body had retained the pressure of the route that produced it; the same note, approached through a different progression, had produced nothing. The instrument had remembered the path.
+Real life does not included daily scientific breakthrough, Lang.
 
-He wrote the phrase at the top of the center board, then immediately crossed it out. Memory invited metaphor. The mathematics required something cleaner.
+He had already slurped through the bottom of his third cup, and was emerging from morning piss number two, when he found himself inexorably drawn toward the notebook. By nine, the gallon of caffin and his old pal mania had broken his silence and David was on the couch tearing through the pages of notes. It was right there. So damn close. And so he went about the work of reconstructing the residual tone he and Celeste had encountered in the chapel.
 
-PATH-DEPENDENT RESONANT RETENTION
+The original pitch, the cello’s delayed response curve, and its two-second decay; they all combined to maximize the series of failed attempts that followed, aimed at simply reproducing the autonomous sounding.
 
-Below it he reconstructed the sequence from the night before: the room, the viola, the cello, Celeste’s altered scheme, his bass refusing and then following, the disputed interval, the repair beneath the varnish. Each variable entered separately until the board became a web of coupled oscillators whose present state depended upon the route by which the system had arrived there.
+The variables: string length, room temperature, and that accidental, miraculous, unison F landing. All of it sat tender in his memory, and were now demanding a dash of mathematical rigor.
 
-The model resisted him for forty minutes until one term moved: a boundary where he had been treating the term as a constant. He carried it across the equation, normalized the decay curve against the instrument’s fundamental, and watched the remaining values collapse toward a common surface.
+This morning, David felt more than up to the challenge. He dashed over to the blackboards, and with a grand gesture, threw all three panels open, and wrote:
 
-David stepped back and checked the work again, slower. The convergence remained.
+PATH-DEPENDENT RESONANT RETENTION.
 
-At ten-thirty, the center board had filled. The left panel held the experimental sequence from the chapel. The right held comparative data from archived acoustics studies, coupled-pendulum systems, neural entrainment models, and two unpublished vibration papers he had kept because their anomalies had irritated him for years.
+The cello had not merely echoed the pitch; its body had retained the pressure of the route that produced it. He felt certain of it.
 
-He corrected for scale, material density, and damping. The results did not become identical, but they occupied the same narrow geometry. He began calculating faster.
+He proceeded to map the room, the viola, the compromised interval, and the entire evening, each element now fully in service of the proof that was taking shape before him. At first, the mathematics resisted him. For forty minutes he revised and re-revised a boundary condition until finally the decay curves began to align toward a common surface.
 
-What Celeste had called leaving room for another hand now appeared as a measurable property: each system status retained prior constraint while admitting later influence. The response did not erase what came before. It incorporated it. The apparent noise in the data was evidence of hidden path.
+He checked the result against his original measurements.
 
-By noon, seventeen pages covered his desk. By three, the sky beyond his office had lowered into a single white surface, and the university had begun its quiet winter rearrangements. Advising appointments became emails. Graduate students discovered urgent reasons to continue working from home. Somewhere below, a maintenance truck made its second pass along the service road, erasing its own earlier tracks with bureaucratic commitment.
+The convergence held. The apparent noise was not noise at all; it was a hidden path.
 
-David did not notice until the final diagram stopped becoming more correct. It resembled neither a waveform nor a field map. It was a folded manifold with several local states projecting toward the same attractor, each marked by a different physical history.
+By noon, seventeen pages covered the kitchen table. By three, the final diagram occupied all three panels: a folded manifold, several distinct histories projecting toward a single attractor.
 
-The cello’s response sat at the center, modest and undeniable. David stared at it until the office disappeared.
+Beyond the apartment windows, the afternoon had darkened. Snow had begun collecting along the sill, and the street below was losing its edges. David noticed neither until he reached for another sheet of paper and found the stack exhausted.
 
-“This is it,” he said.
+He looked at the clock.
 
-The words entered the room softly. He said them again, testing whether certainty changed when spoken aloud.
+3:47.
 
-“This is actually it.”
+He called the department office.
 
-At 3:47 he was in the department office feeding pages into the copier. He called Rune’s secretary while the machine sorted the sets. Jessica answered over a murmur of phones, coat sleeves, and someone asking whether the west lot had been plowed yet.
+“Jessica, it's David Lang. Is Rune still on campus? I'd like to see him before he leaves.”
 
-“Oh yes, Professor Lang,” she said. “I have you with Dr. Ishikawa at five-thirty.”
+“Oh yes, Professor Lang. I have you with Dr. Ishikawa at five-thirty.”
 
-David shifted the receiver against his shoulder. “I was calling to see whether he had time.”
+David looked back at the board.
 
-“Yes. Five-thirty.”
+“I'm sorry?”
 
-“So he’s free then.”
+“Five-thirty, Professor.”
+
+“Oh, so he is free at five-thirty then?”
 
 “For you, Professor, yes.”
 
-Her politeness held something sealed inside it as David looked down at the copied pages. Along the first sheet, his title stood in temporary capitals:
+Her politeness held something sealed inside it but David had no time to dwell. He grabbed a sharpie, scratching the title across the first sheet. Thick black ink stretched into the fibers. It read:
 
 HYSTERETIC RESONANCE IN PATH-DEPENDENT COUPLED SYSTEMS
 
-He did not remember entering anything into his calendar. “Did I arrange this yesterday?”
+He did not remember entering anything into his calendar. “Jessica, sorry. Did I arrange this yesterday?”
 
-A pause, slight enough to deny itself. “The appointment was requested on your behalf.”
+A pause, slight enough to deny itself. “The appointment was requested on your behalf, Professor.”
 
 “By whom?”
 
 “I believe Dr. Ishikawa thought it best that the two of you speak.”
 
-The copier released the final set as David thanked her and hung up.
+“I see. Alright, well five-thirty it is.Thank you.”
 
-For the next ninety minutes he reviewed the paper with increasing calm while the building emptied around him. Rune would see the distinction immediately. The model made a falsifiable claim. It predicted where the residual energy should appear. It even explained why they had failed to reproduce the cello’s answer: once they repeated the sequence deliberately, they had changed the path.
+“Oh and Professor Lang, the university has begun releasing non-essential staff due to the weather. You may want to leave sooner rather than later.”
 
-At 5:28 he stood outside Rune’s door with three copies beneath his arm and Celeste’s laughter still present in him, less an echo now than evidence, and knocked.
+He hung up the phone, and took his first serious look outside.
+
+The street had disappeared beneath a moving veil of white. Across the way, a woman was struggling to pull a garbage bin through the snow, its wheels leaving two brief black tracks before the next gust buried them.
+
+David looked to the blackboards. Three panels of mathematics. Seventeen handwritten pages. Nothing Rune could examine without standing in his apartment.
+
+He checked the time again.
+
+There was a printer in the department office, assuming someone was still there to let him use it. He had a little over ninety minutes.
+
+For the next twenty minutes, the apartment became a confusion of numbered pages, references, and corrections. He transcribed the final equations, assembled the diagrams, and discovered that page twelve referred to a figure he had drawn on the wrong side of a sheet. He corrected it, made the necessary copies by hand, then checked that the revised sequence still agreed with the board.
+
+At 4:12 he closed the manuscript.
+
+The cello stood beside the couch looking lonely. Left out.
+
+Alright. Alright, stop looking at me like that. You can come.
+
+If Rune was going to bite on all of this, it couldn’t hurt to have the instrument of note, in hand. He grabbed his coat and car keys, grabbed the cello, and was gone.
+
+Outside, the wind had strengthened. Snow moved horizontally through the streetlights, sidewalks already vanishing beneath fresh accumulation.
+
+By the time David reached the faculty lot, the entire hill was heading the opposite way. Students migrating toward residence halls, heads down, hurried. A grounds crew was fitting chains to the rear tires of a plow, the 3 orange neon jackets an increasing blare of singular color in the oncoming white. Two administrative assistants passed him carrying cardboard boxes of work they evidently intended to do at home.
+
+Wimps all of you.
+
+The department office was still abustle as David pressed through the the main doors. Jessica looked up as he entered, brushing snow from his head.
+
+“Professor Lang. You made it.”
+
+“Of course. Is the copier still fired up?”
+
+“For the moment, yes. We use it as a furnace this time of your, you know.”
+
+“Wonderful. I need three sets and a hand warming.”
+
+She looked at the manuscript in his hands, then at the cello case leaning against his leg.
+
+“Of course you do.”
+
+The copier was halfway through the second set when the machine stopped to demand paper. David opened the lower tray, found it empty, and went searching through the cabinets while Jessica finished shutting down her workstation.
+
+“Bottom cabinet,” she said without looking up. “Left side.”
+
+He found the ream, fed the tray, and restarted the job.
+
+At 5:21, the final pages emerged, still warm.
+
+He squared the three sets against the counter, fastened each with a binder clip, and checked the title once more.
+
+HYSTERETIC RESONANCE IN PATH-DEPENDENT COUPLED SYSTEMS.
+
+At 5:28, he stood outside Rune's door with three copies beneath his arm. Jessica was putting on her coat.
+
+“Dr. Ishikawa is expecting you, David. You can head on in,” she said.
+
+“Yes,” David answered, gathering the copies. “Thank you, Jessica.”
 
 
-10.4 TURBA | The Guillotine
+10.4  TURBA
 
-[Moderato incisivo]
+TURBA
+
+The Guillotine
+
+Moderato incisivo
 
 “David, come in.”
 
-Rune sat behind his desk, reading a document on his monitor. The window behind him had gone nearly opaque with weather; beyond it, campus lights showed only as softened yellow defects in the moving white.
+Rune sat behind his desk, a folder open before him and his monitor dark. The window behind him had gone nearly opaque with weather; beyond it, campus lights showed only as softened yellow defects in the moving white.
 
-“Thank you for staying, given the weather,” Rune said. “Apparently frozen water has become something young people pay attention to in Ithaca.”
+“Thank you for staying, given the weather,” Rune said. “Remember when snow in this town meant you could disappear into the labs for thirty-six hours?”
 
-David kept the copies under his arm. “After twenty years up here, snow stops registering as weather. It becomes a beautiful, carefree day with poorer traction.”
+David set his cello case beside the door, keeping the copies under his arm. “Oh, I wasn’t aware snow was a prerequisite for such a session.”
 
-“A local adaptation.”
+Rune almost spoke again before the smirk reached him. “Yes. Ha. Nowadays you start freezing a little H2O and the great gears of academia melt into puddles.”
 
-“A regional illness.”
+“It’s a puzzling transformation, sir. But I think your evidence is sound.”
 
-Rune almost smiled, then returned his attention to the screen.
+“Well, David,” Rune said, turning to wake his screen with the mouse. “Jessica mentioned you had something for me to… to look over.”
 
-PROFESSOR DAVID LANG EVIDENTIARY INCIDENT SUMMARY
+“Yes. Well, it’s not gonna stop a snowstorm in its tracks or anything, but…”
+
+Rune didn’t respond, his attention pulled to the implications blazing from the screen.
+
+PROFESSOR DAVID LANG : EVIDENTIARY INCIDENT SUMMARY
 
 The heading occupied the screen above three pages compiled by Rune’s secretary and the Dean’s office. At the bottom, several recommendations had been marked (Letter of Direction, Disciplinary Action, Dean of Students Referral), the last carrying an asterisk and a note in the Dean’s hand.
 
 Your discretion on all, Rune. Terrible business. I’m sorry.
 
-Rune removed his glasses. “David, sit down.”
+Rune looked up from the screen. “David, sit down.”
 
-David placed the copies on the desk without looking again at the screen. “Before we do whatever that is, I need you to see this.”
+David placed the copies on the desk without looking again at the monitor. “Before we do whatever that is, I need you to see this.”
 
 Rune’s attention moved to the pages. “The work from yesterday?”
 
 “No. Yesterday was wrong.”
 
-Something altered in Rune’s face: relief. David opened the first copy and turned it toward him. “The premise was wrong. I kept looking for fixed harmonic relations when the phenomenon is path-dependent. The present state carries information about the route into it.”
+Something altered in Rune’s face: relief. David sat, opened the first copy, and turned it toward him. “The premise was wrong. I kept looking for fixed harmonic relations when I now believe the phenomenon is path-dependent. The present state carries information about the route into it.”
 
-Rune glanced at the title, then at David. “Start at the beginning.”
+Rune glanced at the title, then at David. “Start at the beginning, won’t you.”
 
-David did, describing the sequence at the chapel without naming what had made it possible: the altered tuning, the disputed interval, the accidental F, the laughter that had broken them open for one measure before the cello answered after both instruments had stopped. He explained the failed repetitions, the measurements they had taken before the room changed, the realization that deliberate return was not return at all because the path had already been altered.
+And so David began describing the sequence at the chapel without naming what had made it possible: the altered tuning, the disputed interval, the accidental F, the laughter. All the accumulated events leading to the cello answering moments after both instruments had stopped, he left out of his analysis altogether. Instead, the failed repetitions, the measurements they had taken before the room changed, and the realization that deliberate return was not return at all because the path had already been altered took precedence over the communal experience of playing.
 
-Rune interrupted only once: “The response lasted how long?”
+“And the response lasted how long?”
 
 “Approximately two seconds.”
 
@@ -739,7 +803,7 @@ Rune read without expression. Forty-three seconds passed after David stopped spe
 
 Rune simply lifted his gaze over the rim of his glasses. No words were needed.
 
-“Yes. I mean, No. It’s not.”
+“Yes. I mean, no. It’s not.”
 
 “And the event was neither recorded nor reproduced.”
 
@@ -747,13 +811,11 @@ Rune simply lifted his gaze over the rim of his glasses. No words were needed.
 
 Rune’s pen came to rest beside the equation. “So, and I want to be precise about this, a model developed after an unreproduced event predicts that the event will resist reproduction.”
 
-David heard the shape of the objection before Rune completed it.
-
 “That doesn’t invalidate the mathematics.”
 
 “No. It invalidates your use of the event as evidence for the mathematics.”
 
-Rune drew a small line beneath the normalization term. “Why this reference state?”
+Rune drew a small red circle around the normalization term. “Why this reference state?”
 
 “It allows comparison across systems with different scales and damping coefficients.”
 
@@ -785,7 +847,7 @@ He turned a page. “The neural data already contain temporal smoothing. The aco
 
 “They occupy the same manifold.”
 
-“David, they occupy the manifold because this particular manifold was custom fitted to contain them.”
+“David, they occupy the manifold because this particular manifold was custom-fitted to contain them.”
 
 “No, Rune. Look at the boundary term. Just look.”
 
@@ -807,11 +869,11 @@ David reached for the second copy and opened to the final diagram. “Then ignor
 
 “This is science, Professor Lang. Fairness simply doesn’t factor.”
 
-David, who had been barreling in relative silence toward the edge of many inadvisable reactions finally failed to respond in civil kind. He slammed his fist on the desk between them and yelled, “Damn it, I know what I heard.”
+David slammed his fist on the desk between them. “Damn it, I know what I heard.”
 
 “I believe you heard something.”
 
-The distinction entered David like ice water as Rune continued. “What I do not believe, and frankly what I will not accept, David, is that you have somehow cosmically earned or falsifiably demonstrated the movement from something happened in one instrument to matter preserves relational history through a universal resonant geometry.”
+The distinction entered David like ice water as Rune continued. “What I do not believe, and frankly what I will not accept, David, is that you have somehow cosmically earned or empirically demonstrated the movement from something happened in one instrument to matter preserves relational history through a universal resonant geometry.”
 
 “It isn’t merely the instrument.”
 
@@ -819,15 +881,15 @@ The distinction entered David like ice water as Rune continued. “What I do not
 
 David stood; Rune did not. For a moment neither man touched the pages between them.
 
-Finally, and desperately under his breath David said, plainly, “You asked me to walk you through this.”
+Finally, under his breath, David said, “You asked me to walk you through this.”
 
 “And so I did.”
 
 “You had already decided?” David pulled away from the table, pressing his palm and fingers through his hair as certain realities settled over him.
 
-“No, David. No that is not the case.”
+“No, David. No, that is not the case.”
 
-“The Dean certainly had though. Yes?”
+“The Dean certainly had, though. Yes?”
 
 “The Dean gave me discretion.”
 
@@ -839,15 +901,13 @@ The answer carried enough injury to stop David. Rune closed the paper, though he
 
 “David, there is not a single bone in my body that doesn’t want everything you have ever brought to me to be absolutely real. I wanted the work to be real. I want you to succeed, David. You must know this.”
 
-Rune removed his glasses and set them beside the pages. “You know, when I was twenty-six, I built a model connecting spiral density in galaxy surveys to non-baryonic-matter distribution. The mathematics was elegant. Several rather prominent people, mentors, encouraged it. One of them was a Nobel Laureate, which made the encouragement especially poisonous.”
+Rune removed his glasses and set them beside the pages. “You know, when I was twenty-six, I built a model connecting spiral density in galaxy surveys to non-baryonic-matter distribution. The mathematics was elegant. Several rather prominent people, mentors, encouraged it. One of them was a Nobel laureate, which made the encouragement especially poisonous.”
 
-David stood motionless and increasingly numb while Rune continued. “I had normalized three separate data sets against different baselines. Each choice was defensible by itself. Together, they manufactured the correspondence I believed I had discovered. I spent eight months proving a decision I had already buried inside the method.”
+David stood motionless and increasingly numb while Rune continued. “I had normalized three separate datasets against different baselines. Each choice was defensible by itself. Together, they manufactured the correspondence I believed I had discovered. I spent eight months proving a decision I had already buried inside the method.”
 
 Rune looked at David’s diagram. “What you have here is not nonsense, David. But it is also not sound science. That is why it is dangerous.”
 
-* * *
-
-The quad beyond the window shone beneath a hard, indifferent light. Students crossed the grass in coats left open to the cold.
+The quad beyond the window shone beneath a hard, indifferent light. Students crossed the drift-covered paths with their heads bent against the cold.
 
 Rune rose and came around the desk. “The model fails, Professor Lang.” The words were plain; they required no metaphor.
 
@@ -857,17 +917,17 @@ He stopped in front of him, close enough that David could see the fatigue beneat
 
 For one second, hope returned in a form too small to survive. Then Rune continued.
 
-“What it does, however, accomplish is harder to admit. Harder for me to say. It tells me that you are no longer able to separate an event from what you need the event to prove.”
+“What it does accomplish, however, is harder to admit. Harder for me to say. It tells me that you are no longer able to separate an event from what you need the event to prove.”
 
 David’s gaze dropped to the pages as Rune placed a hand upon his shoulder. The contact was careful and therefore unbearable.
 
-“David, last week I watched you lose the room and then help me pretend you had not. You have missed conferences. Your students are leaving. Nature Physics rejected the synesthesia paper because the central claim grossly exceeded the evidence. Celeste called me after the seminar because she believed what I had seen was no longer contained inside a classroom. Yesterday you frightened a room full of people who genuinely care about you, and frankly I’m not convinced you even know you were doing it.”
+“David, last week I watched you lose the room and then help me pretend you had not. You have missed conferences. Your students are leaving. Nature Physics rejected the synesthesia paper because the central claim grossly exceeded the evidence. Celeste called me after the seminar because she believed what I had seen was no longer contained inside a classroom. Yesterday you frightened a room full of people who genuinely care about you, and frankly I’m not convinced you even knew you were doing it.”
 
 “She called you.”
 
 “Yes.”
 
-The answer opened another chamber inside the day. Rune already knew; what changed was that Celeste had carried what she knew to him.
+The answer opened another chamber inside the day.
 
 Rune withdrew his hand. David looked at him as the phone buzzed.
 
@@ -875,21 +935,19 @@ Rune withdrew his hand. David looked at him as the phone buzzed.
 
 Rune closed his eyes briefly. “Thank you, Jessica.”
 
-He gathered two clean copies beneath one hand and pushed the marked working set across the desk toward David.
+As David reached for the copies, Rune gathered the two clean sets beneath one hand and pushed the marked working set across the desk toward him.
 
-“Leave those,” he said, indicating the copies he had retained, while David slid the marked pages into his satchel.
+“Leave those,” he said. “I’ll just be a minute, David. Apologies.”
 
-Rune took the call. David stepped into the waiting area.
+David slid the marked pages into his satchel, quietly picked up his cello case, and gave Rune the room.
 
-By the time Rune finished the two-minute call, Professor Lang was three buildings and half a parking lot away.
+By the time Rune had finished his two-minute call, David Lang was two flights of stairs, four sets of snow-covered undergraduates, and half a drifting Arts Quad away.
 
-“I understand, sir. Absolutely. Thank you.” Rune hung up the receiver and moved to open the door expecting David to be there waiting. “Sorry about that, David. Come on–”
+“I understand, sir. Absolutely. Thank you.” Rune hung up the receiver and moved to open the door, expecting David to be there waiting. “Sorry about that, David. Come on—”
 
-Rune looked at the empty waiting area, then at his secretary Jessica, who simply shook her head and gestured to the main entry to the suite.
+Rune looked at the empty waiting area, then at his secretary, Jessica, who simply shook her head and gestured to the main entry to the suite.
 
-* * *
-
-Rune moved swiftly back into his office and to the window overlooking the Arts Quad in time to see David course over the last rise at the far south west edge and out of sight into the oncoming white.
+Rune moved swiftly back into his office and to the window overlooking the Arts Quad. Through the driving snow, he could just make out the cello-widened silhouette of David as he ducked around the corner toward Sage Hall.
 
 “Jessica,” Rune called over the interoffice system.
 
@@ -910,388 +968,262 @@ He slipped his cell back inside his jacket, lifted the office receiver, and turn
 “Celeste, dear. It’s Rune.”
 
 
-10.5 VIA DOLOROSA | Into the Storm
+10.5  Into the Storm
 
-[Mosso e inquieto, con passo irregolare]
+VIA DOLOROSA
 
-The wind had risen while they were inside, and the early exodus had given the storm the pleasure of looking theatrical. Upper campus had thinned to lit windows, plow noise, and the occasional student hurrying with the embarrassed speed of someone who had dressed for principle in defiance of the weather. Loose snow drove sideways against the glass and flattened there before dissolving.
+He took the corner past Sage Hall too fast, the heavy fiberglass flight case knocking a hollow rhythm against his hip, pulling him down into the slick, freezing mud on the hillside. He couldn’t slow down, though. He had no right to walk after that horror show. No, this was a flat-out escape. He half expected to look back and see Rune chasing after him with paperwork and a pack of dogs. The catastrophic realization of his own professional suicide began to flash behind his eyes.
 
-His coat remained unbuttoned. His scarf had come loose. Behind him, an official process had begun the sacred university labor of turning catastrophe into paragraphs with signature lines. Rune would be using his quiet voice. Jessica would be pretending not to hear. The Dean of Students, somewhere behind a different door, would be receiving the phrases by which a man became manageable.
+The boundary conditions. He hadn’t seen the boundary conditions. Eleven variables wasn’t over-parameterization if the system was open; it was a necessary degree of freedom—
 
-Celeste’s name appeared on the dark face of the phone. He watched it ring until the screen gave up, then ignored the message that arrived a moment later.
+His right foot slipped as he turned the corner past the old lab buildings. A huge gust wrapped up from the falls, the cold hitting like sheet glass. He stumbled across the plowed concrete, the case banging against his thigh. Near the retaining wall, his heel found a patch of black ice, and before any part of him knew that the ground was out from under him, he was down. His ribs struck the concrete curb as he fell backward, the impact launching the cello case from his grip as he slid off the pavement into a two-foot bank of plowed, gray slush.
 
-The faculty lot lay beyond the science buildings, down the concrete stairs and across a service road already whitening along its edges. At the first step, his left foot landed slightly beyond the agreement he had made with gravity. His weight followed after the stair had ended, pitching him toward the rail. The cello case struck one iron support with a hollow, ugly report.
+He lay there, wind roaring in his ears, freezing wet seeping through his coat.
 
-David caught himself and remained there for several seconds, one hand around the rail, the other gripping the case handle while the storm moved through the gap between buildings. The body, annoyed at having been consulted too late, reported several conditions at once: left ankle stable, right palm cold, ribs intact, dignity unrecoverable.
+Now the whole day swirled into focus. A circular proof. And he hadn’t seen it. A first-year grad student would have caught that error.
 
-Anger changed stride. Grief changed balance. Three nights of bad sleep made errors of timing plausible, even boring. A new law of nature was hardly required; a departmental incident report blooming somewhere behind him could easily find ordinary cause enough.
+He pressed the heel of his hand against his eyes, his jaw clenching against the sharp ache in his side. He was losing his mind. There was no other explanation. Slowly, David curled onto his side, drawing his knees up to his chest in the freeze, his boots clawing at the slush for something solid.
 
-The left foot felt normal when he tested it. Good. Excellent. A triumph for Newtonian mechanics. He descended.
+Deep inside his coat, muffled by wet wool and wind, his phone began to ring. He didn’t move. He stared up at the fractured white sky, breath pluming in short, terrified bursts.
 
-At the bottom of the stairs, a man stood beneath the covered loading dock, smoking beside a yellow salt bin. David first registered only the ember, then the coat, then the face turning toward him. For one irrational instant he believed it was Rune.
+The ringing stopped. Three seconds passed, then it started again.
 
-The maintenance worker he had actually seen, or someone dressed as one, had heavy shoulders, wet cuffs, and a paper cup balanced on the salt bin beside him.
+He dug a trembling hand into his pocket. The screen had cracked, but the name glowed through it: CELESTE. He answered. Whatever he had been holding down broke loose.
 
-David crossed the service road. The man looked away before David passed, either uninterested or performing disinterest with unusual care. At the curb, a campus shuttle rolled by with three passengers inside, all lit blue by their phones. No one looked up.
+“I didn’t see it,” he said.
 
-By the time David reached the parking-lot entrance, the dock was empty and the snow had begun coming harder.
+“David? Where are you?”
 
-His car stood at the far edge of the faculty section beneath a sycamore whose last leaves had survived principally through spite. David took out the keys and pressed the remote. Nothing. He pressed again, and the cello answered from inside its case: a low internal pressure through the handle and the bone at the base of his thumb. David stopped with the keys raised before pressing the remote a third time. Across the lot, headlights flashed. At nearly the same instant, something inside the cello gave the same faint response, a thin stirring beneath the black shell.
+“I couldn’t see it. I built the model. I set the boundary conditions and I… Celeste. Eleven adjustable parameters. A custom manifold. I couldn’t even see I was doing it.”
 
-The strings, the bridge: perhaps a sympathetic answer to the car’s confirmation chirp.
+“David, slow down. Are you outside? I can barely hear you over the wind.”
 
-He looked toward the car, measuring distance. Forty-two feet, perhaps forty-three. The remote signal itself was radio frequency, useless to gut and wood. The locking mechanism had emitted a short tone, yes, but wind and snowfall should have eaten most of it before it reached him.
+“It’s circular. I needed it to be real, so I made it real.”
 
-Still, sympathetic resonance could be absurdly delicate when an object had been waiting for permission to answer.
+“David, stop. Listen to me—”
 
-He pressed again. The car chirped, but the cello gave him only the ordinary weight of itself in his hand.
+“I sat in his office, Celeste. I sat across from him and handed him—Christ, a sophomore wouldn’t have allowed that methodological bias. He looked at me. He looked at me with pity.”
 
-A snowplow scraped somewhere below the lot, metal against pavement, the ordinary world clearing its throat.
+“Where are you?”
 
-David lowered the keys as the phone rang again. Celeste. This time he answered.
+He ignored the question. “I’m losing it. I can’t trust the math. If I can’t trust the math, what do I have? I’m looking at the numbers, and they’re doing—”
 
-“What?”
+He stopped cold. He had to be certain of what he was about to say.
 
-Silence first; then her voice, lower than he expected. “Where are you?”
+“They’re doing what I want them to do, not what they’re supposed to do. It’s like I’m corrupting the data just by looking at it.”
 
-“Leaving campus.”
+“David, stop talking and listen to me.”
 
-“Are you in the lot?”
+He planted his free hand in the slush and forced himself upright, ignoring the tearing pain in his ribs. He retrieved the cello case from the drift. “Twenty years in the ground,” he spat. “Jesus. The semetry. Twenty years. He told me not to do it, told me I couldn’t—”
+
+“David, stop this. There is more to you than a damned failed theory.”
+
+“Failed theory. I don’t know Cele. Maybe thats’s all that’s left of me.”
+
+“ You’re not well. We’re all concerned about you. Rune is. I am.”
+
+He started toward the outdoor stairs, the case dragging at his shoulder, boots slipping on the path.
+
+He stopped.
+
+“Wait. Rune said you called him.”
+
+“David—”
+
+“After the seminar. Monday night.”
 
 “Yes.”
 
-“David, what happened?”
-
-He looked across the lot at the car. Two clean copies remained on Rune’s desk. The marked working set lay folded inside his satchel.
-
-“He told me I need time away.”
-
-Celeste breathed in, and it was not surprise.
-
-“You knew.”
-
-“No, David. I was afraid it might come to that.”
-
-“You called him.”
+“Before the chapel.”
 
 “Yes.”
 
-“Before today.”
+The cold seemed to cut deeper.
 
-“After the seminar.”
+“You sat beside me last night. In that room. You heard every note, and all the time you’d already called him behind my back.”
 
-“Before the cello.”
+“I called him because I was frightened for you. I had no idea what would happen in that chapel.”
 
-She did not answer quickly enough. “Yes.”
+“What were you afraid of, Celeste? That I’d drag you down with me? Is being associated with me suddenly too dangerous for your career?”
 
-Snow gathered along the cello case in small, dissolving constellations.
+“That is not true, and I don’t believe you think it is.”
 
-“I see,” David said.
+“I don’t think you’re thinking at all!”
 
-“David, listen to me. You lost time. You wrote five minutes of equations you couldn't remember writing, and you nearly collapsed in front of your students. Roger was frightened. I was frightened. And every time I tried to talk to you about it, you gave me some clever little account of how perfectly well you were managing. What exactly was I supposed to do?”
+He stumbled along the path, righted himself, and kept moving.
 
-“You could have called me.”
+“Look at you. Always managing the board. Always making sure the collateral damage is filed neatly under professional concern. You couldn’t just let it be our work. Had to get your clearance slip signed early.”
 
-“I did call you. David, I have been calling you. Half the time you don't answer, and when you do, you tell me there's nothing to worry about.”
+“You are completely outside yourself right now.”
 
-“Ah. So we have a reporting structure now. Roger briefs you, you brief Rune, and Rune briefs the Dean. Very efficient. I suppose I'll receive the minutes once everyone has decided what to do with me.”
+“Am I? I spent the day alone, turning what happened into something else, pushing the math until my hands shook. And you’d already made your report.”
 
-“Don't do that.”
+“Stop calling it a report.”
+
+“That’s what it was. Roger briefs you, you brief Rune, and Rune tries to take his red pen to my fucking career. Very clean. Very efficient.”
+
+“You think I needed Roger to tell me something was wrong? I was there. I was the one sitting beside you when you couldn’t remember how long we’d been playing.”
+
+“Then you could have said something to me.”
+
+“I have been saying something to you, David. You hear the parts you can fit into whatever you’re working on and the rest just—disappears.”
+
+He tried to answer and found that he couldn’t remember what she’d just said. The discovery made him angrier than the accusation.
+
+“Is it inaccurate? Did you call him or didn’t you?”
+
+“I called because I was frightened you were going to destroy yourself. And I was right to be frightened. But listen to me, David. I heard it too.”
+
+He stopped beside the top of the outdoor stairs.
 
 “What?”
 
-“Make it cleaner than it is.”
+“The cello. In the chapel. After we stopped. I’ve been at the piano all day, going over the intervals. I can’t explain it. I heard it, and it’s been driving me mad.”
 
-“Oh, this is anything but clean, Celeste. You of all people should know that. I went into that office with twenty years of work, and I came out with instructions to stop doing it. My own work. And somehow he's managed to make the whole thing sound like a favor.”
+“Don’t.”
 
-“I didn't ask Rune to take your work. I asked him to look at what was happening to you. Those are not the same thing.”
+“Don’t what?”
 
-“Aren't they?”
+“Don’t do that for me. I don’t need you to agree because you’re afraid I can’t survive being wrong.”
 
-“David, whatever happened in that office, it doesn't change what happened in the lecture hall. You were terrified. Roger told me you couldn't even answer him. Do you understand how frightening that was?”
+“I’m telling you what happened.”
 
-“I understand perfectly well what happened in the lecture hall. I was there.”
+“No. You’re telling me what you think will help.”
 
-“No, David. For part of it, you weren't. That's precisely what frightened us.”
+“You impossible bastard. You think I need your permission to hear something? I’ve spent hours going over what happened. I don’t know whether it has anything to do with your model. I don’t even know whether there is a model. But there was a sound after we stopped, and neither of us was playing it.”
 
-David shifted the cello case against his leg.
+He could still feel that low answer through the floor of the chapel. He wanted, with an almost physical hunger, to ask her to say it again. Instead he tightened his grip on the case.
 
-“And so you went to Rune.”
+“You don’t get to use that,” he said, his voice stripped of its fury. “You don’t get to weaponize our history now.”
 
-“Yes. Because I thought he might know something we didn't.”
+“That’s what you think I’m doing, is it?”
 
-“Oh, I imagine he knows a great deal we don't.”
+He didn’t answer. He was moving again, down one step and another, the case catching his knee whenever the wind swung it forward.
 
-“Then why did you go to him yourself?”
+“David, you accused me of calling Rune to save my career. Do you have any idea what it costs me to hear that from you?”
 
-The question caught him, but only briefly.
+“Well, you can certainly afford it.”
 
-“Because I wanted answers. Because I thought, foolishly, that after twenty years the man might finally have developed the professional decency to give me one.”
+Silence came down the line. He knew, the moment he said it, that he had gone farther than he intended. But he could not summon an apology without surrendering every other word.
 
-“And did he?”
+“I’m not weaponizing it.”
 
-“He gave me an incident report, a lecture on responsible conduct, and a very generous offer to keep my work on his desk while I took some time to recover my senses.”
+“My father didn’t spend his life in that office, Celeste. He spent his life in Symphony Hall. He knew what it meant to play a room that wouldn’t forgive you. You don’t know the first thing about what he left me.”
 
-Celeste was quiet.
+“I’m trying to keep you from crashing into a wall you built yourself.”
 
-“And you knew he would do something like that,” David continued. “You knew exactly what sort of man you were calling.”
+“I don’t need you to keep me safe. I need you to stand with me.”
 
-“I knew he might be able to help you.”
+“I have stood with you. For twenty years. And every time I try to tell you what I see, you treat me like somebody standing in your way.”
 
-“Help me. Yes, of course. There it is again.”
+He wanted to protest that she was wrong about him. More than that, he wanted her to be wrong. But he could remember a hundred unfinished conversations, her face across the table, the peculiar impatience he felt whenever she asked a question whose answer seemed obvious to him.
 
-“David.”
+“That’s not what I mean,” he said, and could hear himself making it worse.
 
-“No, it's rather extraordinary when you think about it. Twenty years ago, the three of us stood in a room while that man explained which parts of our lives we were going to be permitted to keep. We signed, we nodded, we thanked him for his generosity, and then we went off to become the respectable little professionals he'd arranged for us to be. And here we are again. Same man. Same office. Same damned conversation. Only this time, you called ahead to make reservations.”
+“What do you mean?”
 
-“That is a vicious thing to say to me.”
+He had no way to explain it quickly enough. He never did.
 
-“Is it inaccurate?”
+“Look, you’ve made your choice, okay? You’ve always made the safe choices. You’re not in the room. You’re up on the hill, in our perfect little house across the bridge, away from all this.”
 
-“Yes, David. It is. And if you'd stop for a moment and listen to what I'm actually saying, you might understand why.”
+“David—”
 
-“Oh, I think I understand rather well. The only difference now is that you're safely over in Music. You've made a very nice life for yourself there, Celeste. No more forbidden experiments, no more unsanctioned theories. This particular brand of insanity no longer threatens your career. So now you get to be concerned. You get to stand at a comfortable distance, make the responsible telephone calls, and tell yourself you've done something kind.”
+“Don’t start pretending you want to be part of it again. Don’t play me. Don’t fuck with the heart you say I don’t have. There it is. I’m not your problem anymore.”
 
-She let the accusation hang.
+The pain beneath his ribs caught as he descended. He held the railing and forced the words out through his teeth.
 
-When she answered, her voice had changed.
+“Just leave me as I am. Okay? Leave it alone. Leave me alone. We both know that’s what it’s come to. You already made the choice. It was a good one. Congratulations. Have the guts to stick with it.”
 
-“You think I called Rune to protect my career?”
+For several seconds there was only the wind.
 
-David looked down at the cello.
+“You answered, David. You could have let it ring.”
 
-“I think you called Rune to make certain he understood you weren't involved.”
+He kept his eyes on the stairs.
 
-“Jesus Christ, David.”
+“After everything you’ve just said about me, you still answered.”
 
-“Celeste—”
+He opened his mouth. He could have told her he’d answered out of habit, that he’d only wanted to tell her about Rune, that it meant nothing. But he had seen her name on the cracked screen before he answered. None of it would survive her hearing him speak.
 
-“No. You don't get to dress that up now. You think I would use what happened to you, what happened in that classroom, to make myself look better in Rune Ishikawa's eyes?”
+His throat worked. He had no answer she wouldn’t hear straight through.
 
-“I think you've become very good at knowing which side of a closed door you want to be standing on.”
+“Goodbye, Celeste.”
 
-For several seconds she said nothing.
+He ended the call, killing her voice in a single, violent swipe of his thumb.
 
-Then, quietly:
+As he pocketed the phone, his left shoe found the ice-glazed lip of the final concrete stair into the faculty lot. His foot shot out. He threw his right hand against the brick retaining wall, catching half his own weight. The cello case struck his ribs, nearly pitching him forward into the slush.
 
-“You really are determined to make me regret caring about you, aren't you?”
+He stayed there, gasping, one hand pressed to the brick until the pain loosened enough to let him straighten.
 
-He opened his mouth, but she continued.
+A man was standing three steps above him.
 
-“I was in that room twenty years ago, David. I signed the same agreement you did. I watched everything we'd worked for disappear into Rune's hands, and I lived with what came afterward, just as you did. You don't get to take those twenty years away from me because you're frightened now. And you certainly don't get to tell me that the life I've built since then means I no longer have anything at stake.”
+For a ridiculous instant David wondered whether the fellow had heard the call, had witnessed the humiliation of a grown man losing his temper over a telephone. The thought embarrassed him before the more immediate oddity registered: the man had been there long enough to have snow gathering on the shoulders of his coat.
 
-“I didn't say you had nothing at stake.”
+Dark coat. Hands in his pockets. Silent and close enough that David wondered how long he’d been there.
 
-“You said quite enough.”
+“Excuse me,” David muttered, shifting into the slush to let him pass.
 
-The wind pushed a thin drift of snow across his shoes.
+The man didn’t move.
 
-“Look,” David said, more quietly, “I don't know what the hell is going on. I don't know why my hand stopped working or where those minutes went. I don't know why that frequency keeps turning up, or why the cello is behaving as though there's someone on the other end of it. But something is happening, Celeste. Something real. And I cannot sit down and wait while Rune decides which parts of it I'm allowed to investigate.”
+David continued into the lot. The storm had blurred the painted lines and made the cars into low white shapes. His own stood beneath the sycamore at the far edge.
 
-“I haven't asked you to do that.”
+Someone was waiting beside it.
 
-“He has.”
+A man in a Carhartt jacket, hood drawn low, snow collecting on his shoulders. He watched David approach without moving toward a vehicle of his own.
 
-“Then be angry with him. I won't stop you. But don't confuse my being frightened for you with my agreeing with everything he's done.”
+David glanced back. The first man had followed him down the steps.
 
-David stared toward the car. Snow was beginning to collect along the windshield.
+David pressed the remote. His car chirped. He kept the keys in his hand. No response came from the man beside it.
 
-“I can't sign away my right to know what's happening to me,” he said. “Not again.”
+He opened the rear door, laid the cello on the seat, and secured it with the belt. He checked the buckle and shut the door. The man had moved beside the driver’s door.
 
-Celeste exhaled.
+David reached for the handle. The man caught the door before it opened.
 
-“I know.”
+Behind him, boots stopped in the snow.
 
-“No, I don't think you do. Because now it isn't just the work. It's my own body, my own mind, and whatever is happening inside them. And everywhere I turn, someone who loves me is standing there explaining why I ought to let somebody else decide what comes next.”
+“Wallet.”
 
-“Are you at your car?”
+David looked from one to the other.
 
-“What?”
+“Oh, for Christ’s sake.”
 
-“Are you at your car yet?”
-
-“No.”
-
-“Stay there. I'll come get you.”
-
-The instruction arrived with the old authority of intimacy, the one she used when a string was about to break or a student had confused panic with interpretation.
-
-“No.”
-
-“David, please. You haven't slept properly, you're furious, and there's a severe-weather advisory. I am not particularly interested in arguing with you about your driving abilities on top of everything else.”
-
-“I slept seven hours.”
-
-“David.”
-
-“Seven uninterrupted hours. Personal best. There may be a certificate.”
-
-“Wonderful. I'll frame it for you. Now would you please let me drive you home?”
-
-“I have a car, Celeste.”
-
-“Yes, I'm aware. I've ridden in it. I've even survived the experience.”
-
-Despite himself, he almost smiled.
-
-“Look, I appreciate the offer, but I need to go home. I need to sit in my own apartment without someone watching to see whether I'm about to come apart.”
-
-“I wouldn't be watching you.”
-
-“Yes, you would. And we'd both spend the evening pretending otherwise. I can't do that tonight.”
-
-Because she had called Rune. Because Rune had believed her.
-
-Because if she came now, he might forgive her before he understood what forgiveness would cost.
-
-Because if he let himself be rescued one more time by the person he had ruined and still needed, he might never discover whether he had any shape left without her hands on the edges.
-
-The silence that followed was different.
-
-David closed his eyes. Rune's office returned in fragments: the incident report, the pen moving through his work, the hand on his shoulder, the final diagram left open beneath the administrative page.
-
-What you have here is better than nonsense. That is why it is dangerous.
-
-When Celeste spoke again, she sounded tired.
-
-“All right. But I want you to understand something. I am not trying to take your work away from you, and I'm not trying to make decisions about your life behind your back. I called Rune because I was afraid something was happening to you that none of us understood. Perhaps I should have told you before I did it. I can accept that. But I won't apologize for being frightened.”
-
-David rubbed his thumb along the handle of the cello case.
-
-“I need an hour,” he said. “Just one hour in which no one is deciding what is best for me.”
-
-“All right,” she said. “Take the hour.”
-
-“I'm forty-seven, Celeste.”
-
-“That has never stopped you from requiring supervision.”
-
-The joke should have helped. It almost did.
-
-“I'll call.”
-
-“Say it properly.”
-
-“I will call when I can.”
-
-“That is not properly.”
-
-“It's what I have.”
-
-She allowed the silence to settle.
-
-Then:
-
-“David. There is something else.”
-
-“What?”
-
-“Last night.”
-
-He waited.
-
-“I've been thinking about it all day. About what happened after the F, after the passacaglia. I've gone back through the music, and I still can't account for it. I don't know whether it has anything to do with what you're experiencing, and I don't want you to take this as some grand confirmation of your theory.”
-
-“Celeste—”
-
-“But I heard it too, David. The cello answered when neither of us was playing. I heard it, and I felt it, and I have no explanation for it.”
-
-David lowered his eyes to the case.
-
-For the first time since answering the call, he had nothing with which to contradict her.
-
-The lot, the snow, the institutional catastrophe of the afternoon all moved half a step away.
-
-Then something stirred beneath his fingers.
-
-A faint pressure traveled through the handle, slight enough that he might have mistaken it for the beginning of a tremor in his own hand.
-
-He looked toward the car.
-
-No chirp.
-
-No nearby engine.
-
-Nothing he could hear that might have set the strings moving.
-
-The low string trembled again.
-
-“David?”
-
-He held the case away from his leg.
-
-“I have to go.”
-
-“Wait. What happened?”
-
-He ended the call, and for several seconds the phone remained in his hand while the cello's response faded against his leg. Then the cold entered his fingers, and he pocketed it.
-
-He opened the rear door, laid the instrument across the seat, and secured it with the belt as he had done for years. The belt clicked; the gesture embarrassed him, this little parental tenderness performed for wood and gut while every human arrangement in his life stood unsafely unfastened.
-
-Only after closing the door did he notice the man standing between the adjacent vehicles.
-
-The maintenance worker had vanished. This man was younger, in a thin coat, hood drawn forward, one hand buried in the front pocket, the other holding a cigarette protected inside his palm. He had been there long enough for snow to gather along his shoulders.
-
-“Professor Lang?”
-
-David turned as the man took one step nearer. “You David Lang?”
-
-The use of his full name made the weather seem unusually steel-like.
-
-“Yes.”
-
-A second man appeared behind the car, broader through the chest, moving without haste. He wore no hood. Snow darkened his hair and failed to impress him.
-
-The first man glanced toward the cello in the rear seat. “You got a minute?”
-
-“No.”
-
-David opened the driver's door, but the broader man closed it with one palm against the metal. A correction, almost polite.
-
-“Come on,” David said. “Whatever this is, I am not in the mood.”
-
-The first man smiled around the cigarette. “Yeah. We can see that.”
-
-“Move your hand.”
-
-The broader man looked toward the far end of the lot. No one was close. A shuttle hissed at the stop near the library, accepted one late passenger, and pulled away without urgency. The storm filled the space it left behind as David became aware of the keys between his fingers.
-
-The first man said, “Wallet.”
-
-The simplicity of it almost relieved him.
+“Wallet.”
 
 “Fine.”
 
-David reached inside his coat as the broader man shifted nearer.
+He reached into his coat.
 
 “Slow.”
 
 “I understand the convention.”
 
-His hand found the wallet and drew it out. The first man took it, opened the billfold, removed the cash, and checked behind the cards with the weary efficiency of someone performing badly paid work.
+He handed over the wallet. The man opened it, took the cash, and checked behind the cards.
 
 “Phone.”
 
-David handed it over, and the first man said, “Watch.”
+David surrendered it.
+
+“Watch.”
 
 “No.”
 
-Both men looked at David's wrist before the first said, “Don't make this stupid.”
+The men looked at his wrist.
 
-“It belonged to my father.”
+“Don’t make this stupid.”
 
-“That ain't our problem.”
+“You are not taking this watch.”
 
-“No,” David said. “It is not.”
+“Sure about that are you?”
 
-He should have surrendered it; every measurable fact supported surrender: two men, poor visibility, no witnesses close enough to matter, a cello in the back seat worth more than the car, his own body unreliable and his judgment already entered into evidence.
-
-The broader man took his wrist. David pulled back before thought could approve it, and the grip tightened.
+The first man caught David’s wrist. David pulled back. The second stepped close enough to block him against the car, and the grip tightened.
 
 
-10.6 CRUCIFIXIO | It Takes a Beating
+10.6  CRUCIFIXIO
 
-[Allegro molto, marcato, senza respiro]
+CRUCIFIXIO
+
+It Takes a Beating
+
+Allegro molto, marcato, senza respiro
 
 The clasp on the watch was old, stiff, designed for a man who had removed it only by ritual and never by force. The first man's fingers slipped. He swore, and David laughed.
 
@@ -1331,8 +1263,6 @@ A small, dark shape moved behind the veil of snow near the loading dock, her ste
 
 The second looked once toward the cello case, swallowed back bile, and dropped the keys near the driver's door, desperate to put distance between himself and whatever had just disturbed his balance.
 
-That was the insult of it. Their bodies carried no panic large enough to honor what they had done, only a quick animal revision of risk.
-
 Cash, phone, wallet: enough. The watch could remain abandoned in the shrubs, the cello breathing in the car, and David on the ground with his ruined papers while the storm did its patient work.
 
 He tried to crawl toward the bushes, but the body declined. He tried again because the watch was there, because Arthur was there, because the thieves had failed and failure required recovery before the universe changed its mind.
@@ -1344,9 +1274,13 @@ His palm dragged through slush and his ribs lit white. The shrubs were only a fe
 The word fogged once in front of him and disappeared as boots stopped beside him.
 
 
-10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall
+10.7  DEPOSITIO / SEPULTURA
 
-[Largo, sospeso, quasi senza tempo]
+DEPOSITIO / SEPULTURA
+
+The Clear Snows of Fall
+
+Largo, sospeso, quasi senza tempo
 
 “You will freeze out here if you stay like that.”
 
@@ -1354,17 +1288,17 @@ The voice was close, low, and practical, edged by a dry cadence he could not pla
 
 David lifted his head. A woman stood beside the open rear door of the car: short, wrapped in dark wool, her face lined without softness. Her pale eyes examined him as though injury were an instrument and he had been badly handled by amateurs.
 
-“Missing something?” she asked, extending her hand.
+“Drop this?” she asked, extending her hand.
 
 In it, she held Arthur's watch, smeared with road grime and slush, its crystal cracked and the leather strap torn from the casing. Her fingers clamped hard against the steel, holding it firmly as though contact itself required concentration.
 
-“Where did you—”
+“Oh thank you. Where did you—”
 
 “In the boxwood beside the dock. It was ringing like an alarm. Metal remembers where it was struck.”
 
 She crouched, though the motion was stiff, bracing her other hand against the car door. She pressed the watch into his palm, closing his battered fingers around it.
 
-“Let me see your eyes.”
+“You’ve looked better, I’m afraid. Let me see your eyes.”
 
 “What?”
 
@@ -1372,9 +1306,23 @@ She crouched, though the motion was stiff, bracing her other hand against the ca
 
 She took his chin and turned his face toward the sodium light. Her touch was cold and strangely light, the pressure wavering for a fraction of a second before finding bone. Her thumb lifted one eyelid, then the other. The examination was brisk and clinical.
 
+“Well, at least they missed the family nose.”
+
+“What? What did you….”
+
+“You family know where you are?” She reached with one thumb to brush a glop of mud from his cheek. David looked up as she did, to find her eyes staring directly, deeply back at him. Neither moved for long silent moment. And then the old woman seemed to melt into ancient memory of her youth. A smile so kind and familiar overtook her. David for moment felt he was dreaming. And just before it fell away, he thought he saw a twinge of pain, of longing maybe, overtake her. She turned away almost in tears.
+
+““Are you okay?”
+
+She flashed her hand back towards davids face.”
+
+“Quiet, dear. Let an old woman remember.” And in an instant she took a deep breath, turned and went on with her examination as though nothing had just passed between them.
+
+“You are concussed, she said. “ Rather badly I should think. You may not remember this correctly later on.”
+
 “Concussion?” he muttered through split lips.
 
-“Likely, yes. And you've had quite enough excitement for one evening.”
+“There you see. Already. Likely, yes. You’ve certainly had more than enough excitement for one evening.”
 
 “Are you a doctor?”
 
@@ -1382,11 +1330,11 @@ She took his chin and turned his face toward the sodium light. Her touch was col
 
 “Lady, I'm really not in a mysterious mood.”
 
-“Of course, David.”
+She turned away to look out over the empty lot and up towards the Timbers of the music school arch. “Of course you’re not, David.”
 
 “How the hell—”
 
-“Do I know your name? It's an old tale. And one we do not have time for tonight.”
+“…Do I know your name? It's an old tale. And one that i’m afraid we do not have time for tonight.”
 
 “Wait. Please.”
 
@@ -1396,21 +1344,15 @@ David's eyes fluttered closed, his head falling to one side.
 
 She caught his shoulder before he slumped farther, her grip surprisingly firm.
 
-“Stay with me. Look at the light.”
+“Stay awake darling Davey. Look at the light.”
 
 He forced his eyes open.
 
-“There you are. Now, no disappearing on me. Neither one of us has that kind of time.”
+“There you are. Now, no disappearing on me. I’m not that kind of doctor, alright.”
 
 She took his cut hand next. Blood followed the creases toward his wrist, mixing with the grime of the broken watch.
 
-“Can you move your fingers?”
-
-He tried. Pain answered.
-
-“Good enough for the moment.”
-
-She glanced from his hand to the watch, then toward the cello case in the back seat. Her face shifted by half a degree, the lines around her mouth deepening with quiet recognition.
+“Good. They spared you hand it seems. Just a small slice of the palm. She glanced from his hand to the watch, then toward the cello case in the back seat. Her face shifted by half a degree, the lines around her mouth deepening with quiet recognition.
 
 She reached into the car, her gloved fingers settling onto the worn latches of the case.
 
@@ -1418,7 +1360,7 @@ She reached into the car, her gloved fingers settling onto the worn latches of t
 
 The wood inside answered with a low vibration, faint but unmistakable against the seat cushions.
 
-“Good spruce,” she murmured, her hand moving along the upper bout with the practiced certainty of someone reading grain in the dark. “Still holding its arch. Remarkable. Elliot always insisted on an extra millimeter through the soundpost plate. Stubborn man, but it seems to have held.”
+“Good spruce,” she murmured, her hand moving along the upper bout with the practiced certainty of someone reading grain in the dark. “Still holding its arch, I see. Remarkable. Elliot always insisted on an extra millimeter through the sound-post plate. Impossible man, but it seems to have held.”
 
 David went rigid, the cold in his ribs suddenly distant.
 
@@ -1450,7 +1392,7 @@ David stared.
 
 She looked down at the slush beside his boots, where the trampled, snow-soaked pages of his manifold paper lay half spilled from his satchel. A dry laugh escaped her.
 
-“Is that your blood all over the pages, or—oh, my. Rune's red pen bleeding. Perhaps I should have brought this to you sooner.”
+“Is that your blood all over the pages, or—oh, my. Ishikawa's red pen. Perhaps I should have brought this to you sooner.”
 
 She reached into the pocket of her heavy wool coat and withdrew a slender tuning fork of dark, unpolished steel. She did not flourish it or hold it like a relic. She handled it the way a joiner handles a rasp.
 
@@ -1478,9 +1420,11 @@ The word cut through him.
 
 David blinked, snow stinging his cut cheek.
 
+“Stop doing that,” she said.
+
 “Doing what?”
 
-“Listening to the number, ignoring what answered.”
+“Listening to the numbers while ignoring the thing that answered.”
 
 She swayed slightly, her boot sliding half an inch through the slush, and caught the roof of the car with her free palm. The metal gave off a dull, hollow thrum beneath her hand. Her breath came shallow and harsh, her knuckles white against the painted steel.
 
@@ -1488,11 +1432,11 @@ David looked up at her.
 
 “Are you all right?”
 
-“Old occupational injury,” she said, waiting until her breathing leveled. “This hill and I don't agree anymore.”
+“Old occupational injury,” she said, waiting until her breathing leveled. “This hill and I do not agree anymore.”
 
 “What hill?”
 
-“East Hill.” Her eyes remained fixed on the gray veil of snow beyond the lot. “The ground here has a foul memory.”
+“East Hill. All of it. Under it.” Her eyes remained fixed on the gray veil of snow beyond the lot. “The ground here has a foul memory.”
 
 She nudged the edge of a soaked sheet with her boot.
 
@@ -1502,25 +1446,25 @@ David's breath hitched.
 
 “The model—”
 
-“The interesting thing is usually the piece that refuses your model.” She looked down at him. “Stop worshipping the pattern. Look at the resistance.”
+“The piece that refuses your model, that is of interest.” She looked down at him. “Stop worshipping the patterns. Look at the resistance.”
 
 David looked toward the pages, half dissolved in the slush.
 
 “The error structure—”
 
-“Yes. The error structure. The marvelous little imperfections you keep correcting until the world behaves itself.” She gave a small, impatient shake of her head. “Did you ever consider that the disagreement might be the important part?”
+“Yes. The error structure. The marvelous little imperfections you keep trying to smooth away.” She gave a small, impatient shake of her head. “You shouldn’t”
 
 He looked at the fork in his hand.
 
 “And this?”
 
-“That,” she said, “is something you should listen to before you decide what it means.”
+“That,” she said, “is something you should listen to very carefully before you decide what it means.”
 
 She looked from the ruined pages to the cello case.
 
-“The passive stage is done.”
+“The passive stage is over, David.”
 
-“Passive stage?”
+“Passive?”
 
 She reached down to take his arm. Her grip was cold and stiff, her boots grinding into the asphalt as she hauled him upright against the car.
 
@@ -1542,7 +1486,7 @@ Then she straightened.
 
 From the gorges below came the distant call of an owl. The woman shifted her weight uneasily, one boot turning against the sleeted pavement as though something beneath it had moved.
 
-“Enough. You.” She caught his shoulder. “Get in. Turn on the heater. You've taken blows to the head, and I don't like the look of your eyes. Call for help before you try to go anywhere.”
+“Enough. You.” She caught his shoulder. “Now, get in. Turn on the heater. You've taken blows to the head, and I don't like the look of your eyes. Call for help before you try to go anywhere.”
 
 David leaned against the car, his fingers clenched around the dark fork.
 
@@ -1556,7 +1500,7 @@ She regarded him for a moment.
 
 For the first time, she smiled.
 
-“Good. There's hope for you yet.”
+“Good. There might still be hope for you after all.”
 
 She stepped back into the snow, turning toward the service road with slow, deliberate strides, planting each boot firmly into the frozen ground.
 
@@ -1589,157 +1533,51 @@ Letters emerged beneath the lamplight, shallow and precise, cut into the steel w
 In Time; E.G.
 
 
-10.8 RELIQUIAE | Up From the Depths
+10.8  Up From the Depths
+
+RELIQUIAE
 
 [Grave, con moto interiore]
 
-The cello answered once more from inside the case, only the first interval, but enough to make David turn.
+The cello answered from the case—a single interval, but enough to make David turn.
 
-Nothing remained of the magenta thread. The men were gone. So was the woman. Snow was already softening their footprints.
+The men were gone. The woman was gone. Snow was already softening their footprints, an erosion that troubled him more than if they had vanished cleanly. Arthur’s watch hung cracked against his wrist. He remembered a heel coming down near his ribs, the blind, animal twist of his own body over the case to protect the instrument.
 
-That troubled him more than if she had vanished cleanly.
+Pain drove through him as he hoisted the cello from the car. From the floorboards, he salvaged his ruined satchel. The manifold paper was soaked, Rune’s red circles bleeding into pale wounds. Yet along the rejected geometry, a new path had dried into the fibers, not ink, but a compressed channel pulling away from the false attractor.
 
-Arthur’s watch remained, cracked and cold against his wrist, its strap torn where the buckle had fought them. He remembered a hand at his arm, another at the clasp, the heel coming down near his ribs; remembered the stupid, animal twist of his body around the case, as if Arthur had been there in the snow with him and the only instruction left between them was to hold the instrument, hold the line.
+”Home,” he whispered to the empty lot.
 
-His phone and wallet were gone. The keys lay beside the open car door, already dimming beneath white. He picked them up because leaving them there was a stupidity he could still identify.
+…and he began to walk.
 
-He still had the cello, but the thought did not become relief; it became pressure.
+Thirty pounds of wood and inheritance dragged down the hill through the snow. Pain narrowed into a rhythm, into ruin, and was hungry for more of him.
 
-David lifted the case from the seat.
+At the State Street pharmacy, the glass reflected a ruined face and a torn coat. A sane man would go inside, surrendering to fluorescent light and police language.
 
-Pain drove through his side so completely that the lot emptied of everything else. He bent over the instrument, unable to lower it without allowing the weight to pull through his ribs. For several seconds he remained half standing, half folded, breath coming in ugly pieces.
+Have you considered that your certainty may be the symptom? Rune’s voice echoed with clinical patience.
 
-When the spasm released, he brought the strap over his good shoulder and gathered what remained of the satchel from the floor behind the driver’s seat: pens, receipts, a faculty parking permit, and the marked working set of the manifold paper, wet and trampled.
+David stared at the glass.
 
-Rune’s red circles had widened in the meltwater until each objection became a pale wound in the page.
+Have you considered…
 
-One sheet had folded beneath a boot print. David lifted it by the corner.
+: || :
 
-The rejected geometry occupied the center: the attractor Rune had dismantled. Two narrow trails crossed the page; one followed the curve, while the other left it.
+Have you?
 
-The second path was not ink. It had no written edge, no graphite or toner to explain it. The paper had simply dried differently along that line, its fibers compressed into a shallow channel running from the false attractor toward the blank margin.
+Considered…
 
-He looked at it until the cold got through his knees, then put the page away.
+He kept moving. The world shrank to the next curb, the next brick wall. As long as he only thought of the next step, the fork and the cello aligned with his battered body. It was his mind that had betrayed him.
 
-Driving was out of the question. The thought arrived not as prudence but as insult. He could see the driver’s seat, the smeared glass, the keys cold inside his hand. He could get home, clean up, call no one, explain nothing.
+Three steps, breathe. Then three more. Then breathe.
 
-He took one step toward the front of the car and nearly went down; the cello struck his thigh, and the breath left him.
+Every time the rhythm held, something in him spent itself to maintain it. Heat left him, and his fingers lost their finer instructions. Twice the cello struck a post or the corner of a wall because his body understood distance half a second too late.
 
-For an instant he saw the steering wheel not as an option but as an instrument of public death: his blood upon the airbag, his car folded around a lamppost, some undergraduate finding him because he had preferred dignity to gravity.
+He reached his building with the cello case dragging against his thigh and the tuning fork sealed inside his fist. Somehow David managed to find the door key.
 
-“All right,” he said, the words sounding childish inside the empty lot.
-
-The tuning fork lay across his palm, narrow and cold, the stem darkened where his blood had dried along it. Where it had rested against the crescent cut, a blue line had appeared.
-
-It was not ink, not exactly a bruise: cerulean at the edges, darkening toward the center as though the color had been pressed into him from beneath the skin.
-
-Excellent. New symptom. Efficient evening.
-
-He should have put it away.
-
-Instead he held it against the cello case, metal to cracked vinyl, cold to cold.
-
-No sound came at first. Then the case answered with a pressure so low it seemed less like vibration than fit. It entered through his palm, crossed the wrist, and found the bruise beneath his ribs.
-
-David shut his eyes. When he opened them, the lot tilted.
-
-“Home,” he said.
-
-The cello answered, not loudly or helpfully, but with one interval held inside the case, and beneath it the fork gave off a thread of resonance too high for hearing. David felt it in his teeth, in the hinge of his jaw, in the bruised place behind the sternum.
-
-He began to walk.
-
-The first stretch was ridiculous. He had no better word for it. A tenured professor, beaten in a parking lot, carrying a cello that should have been stolen and was instead answering from inside its case, with a paper half dissolved in his bag and a tuning fork biting cold into his palm.
-
-He almost laughed, but the attempt broke against his lip, and then the pain came back hard enough to take the joke with it.
-
-He stopped beside the service road and bent over the case.
-
-This is insane.
-
-The cello became weight again, dead wood and string, thirty pounds of inheritance dragging at his shoulder while the hill below campus fell away through snow and sodium light.
-
-David put one hand upon the case.
-
-“No,” he said.
-
-It was unclear whether he meant the instrument, his body, or the universe at large. The distinction did not seem useful. He tightened his grip around the fork until the blue line in his palm darkened.
-
-“You get home.”
-
-The fork answered first, not with sound, but alignment.
-
-The pain did not vanish. Nothing as generous as that. It narrowed. His breath, which had been arriving in panicked fragments, found a count without becoming comfortable. The cello case moved against his leg at the end of each measure, not lighter, never lighter, but less opposed to him.
-
-He descended as snow took the hill from him in sections. The faculty lot disappeared first, then the service road, then the line of buildings whose windows had already returned to institutional sleep.
-
-Behind him, the tire ruts softened. The men’s prints blurred and joined the old tracks of maintenance carts and students and whatever ordinary traffic would be blamed for them by morning.
-
-The place where the woman had stood vanished with everything else.
-
-He kept walking.
-
-At State Street, the pharmacy window gave him back a face bloodied from hairline to jaw, one eye narrowed behind the swelling, coat torn where the pavement had taken him.
-
-A sane man would go inside, ask for help, surrender the evening to fluorescent light, insurance forms, police language, careful hands, concussion protocol.
-
-Had he lost consciousness? Yes. Was he confused? Yes. Had he experienced visual disturbance? Yes. Auditory disturbance? Don’t be provincial. Had he seen anyone unusual after the assault? No physician would ask it that way.
-
-That was the trouble with sane institutions. They arrived at the unsayable by degrees.
-
-Rune’s voice entered with clinical patience: Have you considered that your certainty may be the symptom?
-
-David looked at the reflection.
-
-“Have you considered,” he said to the glass, “that your timing is poor?”
-
-The automatic doors opened for a customer leaving with cough syrup and a lottery ticket. Warm pharmacy air reached him, smelling of rubber mats and artificial orange.
-
-For one second he nearly went in.
-
-The cello pressed against his leg: not a command, but a reminder.
-
-Home.
-
-He moved on.
-
-After that the city narrowed to surfaces: curb, snowbank, black ice beneath fresh powder, brick wall, parking meter, the blue grocery awning beating itself against its frame.
-
-He learned not to think beyond the next object. When he did, the distance opened and the pain rushed in to fill it; when he held only the next step, the fork and cello and whatever was left of him found one another again.
-
-Three steps, then three more.
-
-Every time the rhythm held, something in him spent itself to maintain it. Heat left him, and his fingers lost their finer instructions.
-
-Twice the cello struck a post or the corner of a wall because his body understood distance half a second too late.
-
-By the final hill, defiance had become too heavy for language. No wit or theory remained, only refusal.
-
-He reached his building with the cello case dragging against his thigh and the tuning fork sealed inside his fist. His door sat upon the first floor, recessed just far enough from the street for snow to gather along the threshold.
-
-He got the case through first, badly. The lower bout knocked against the jamb and sent the contact through his shoulder so sharply that the room flashed white.
-
-His fingers missed the lock, then missed again. The key scraped uselessly beside the plate before finding the slot.
+He missed the lock, then missed again, his fingers scraping uselessly beside the plate before finding the slot.
 
 Warm air met him inside and made him weaker.
 
-The apartment retained the morning’s disorder: coffee darkening in the press, loose sheets from the morning’s breakthrough, the chair pulled away from the slate wall.
-
-Nothing had moved while he was gone.
-
-David meant to close the door and got it mostly shut, but the latch did not catch, leaving a thin seam of winter air at his back.
-
-The cello case slid down his leg. He tried to lower it carefully and failed.
-
-It struck the floor with a dull wooden complaint.
-
-David went down with it, not gracefully, not even completely, folding across the case where it lay beside the couch, one arm trapped beneath him, the other still closed around the fork. The broken watch pressed between wrist and rib. Snowmelt ran from his coat into the floorboards.
-
-The door remained open several inches.
-
-The last thing he heard was snow moving at the threshold.
-
-Then everything went under.
+Though he tried to shut the door, the latch missed. The cello slid down his leg, striking the floorboards. David folded over it, his coat weeping snow-melt into the wood, his hand still clamped around the tuning fork. Through the open seam of the door, he heard the snow moving at the threshold before everything went under.
 
 
 ========================================================================

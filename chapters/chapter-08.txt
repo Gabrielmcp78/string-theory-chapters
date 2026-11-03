@@ -3,21 +3,17 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 8
-Title:           THE FIREBIRDS
+Title:           The Firebirds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,977
-Paragraph Count: 109
-Scene Count:     1
+Word Count:      1,863
+Paragraph Count: 107
+Scene Count:     0
 
-Scene 1: 8.1 SUPPRESSION | MIT - Boston, MA May 24, 2005  --  Words 1–1,977  |  Paragraphs 1–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-8.1 SUPPRESSION | MIT - Boston, MA May 24, 2005
 
 By the time the Wagoneer pulled into the alley, the fire was already high enough to send pulsing glimmers of light dancing across the angled fence boards and the back wall of the house. Pages curled as they burned, rising in thin spirals before vanishing into the Boston night like sparked rain falling backwards.
 
@@ -25,7 +21,7 @@ Marcus stood beside the pit with the file box open at his feet, dropping pages i
 
 David didn’t think. He was out of the car and across the grass before the parking brake set.
 
-“Marcus!” He screamed, desperation into the blazing night. “Marcus, no!”
+“Marcus!” he screamed into the blazing night. “Marcus, no!”
 
 Marcus didn’t look back. He reached into the box and lifted a notebook, already warping in the heat. He held it out, dangling it over the pit as if to force a confession from every line of ink.
 
@@ -47,7 +43,7 @@ Marcus didn’t flinch. “I know.”
 
 The words hit harder than any shove. David rose too fast, pages still clutched between his fingers, and collided with Marcus. The shove wasn’t calculated, just the direction the hurt needed to go. Marcus caught the impact, staggered, then came back with the same raw momentum.
 
-They tangled. Not a clean fight, not even fury, just two exhausted men who had pushed the same impossible idea until it pushed them back. Balance tipping without either one choosing the direction.
+They tangled: two exhausted men who had pushed the same impossible idea until it pushed them back, balance tipping without either one choosing the direction.
 
 Celeste’s voice cut across the yard. “Marcus! David! Stop!”
 
@@ -57,9 +53,9 @@ David’s arm came up in half-defense. Marcus reacted before thought could inter
 
 The crack against David’s cheekbone snapped the world still. He stumbled back, hand pressed to his face, the taste of blood bright in his mouth.
 
-Celeste ran to him, stumbling as she lurched to catch him, but she was far too late. The two met on crumpled knees in the damp grass of this fragile night.
+Celeste ran to him, too late to catch him, and they went down together on their knees in the damp grass.
 
-The fire hissed, as if waiting in suspension for who would make the next move. Pages crackled, burning unabated. Everything within ember-shot held its breath as the fire light reveled in the night airs oxygen.
+The fire hissed, as if waiting in suspension for who would make the next move. Pages crackled, burning unabated. Everything within ember-shot held its breath as the fire light reveled in the night air's oxygen.
 
 Then, from out of the silence, at the edge of the yard, a voice intruded.
 
@@ -79,8 +75,6 @@ His gaze settled on David. He removed the lambskin glove from his right hand, fi
 
 “David Lang.”
 
-It was not a question. Just a deductive statement of fact.
-
 David swallowed. “That’s… yes. That’s me.”
 
 “Rune Ishikawa.” He extended his ungloved hand. “Pleasure.”
@@ -95,7 +89,7 @@ He turned back to David. Gestured forward.
 
 The two moved along the narrow edge of the yard toward the driveway. Behind them, Marcus dropped to his knees, sweeping scattered pages toward himself. Celeste joined him, slapping out small embers with her bare hands.
 
-A loose sheet lifted on the wind and crossed Rune’s path. He caught it without looking. Half an equation, a marked glyph. He held it between two fingers like a dirty rag.
+A loose sheet lifted on the wind and crossed Rune’s path. He stepped forward and trapped the edge beneath the polished toe of his shoe. Half an equation, a marked glyph, pinned against the damp gravel.
 
 “I had a call this afternoon. From Dr. Kline at NYU.”
 
@@ -147,7 +141,7 @@ He stopped again.
 
 David frowned. “Risk? I don’t understand. How am I a risk?”
 
-Rune didn’t answer. He simply turned to look, deeply through David. Another page drifted through the air. He caught it without ever looking at the page as it lilted before him. This time, however, he stopped and began to read.
+Rune didn’t answer. Another page drifted past. He caught it without looking, and this time he read it.
 
 His stillness had a different quality now.
 
@@ -159,13 +153,13 @@ Rune lifted a hand. The gesture was small and final.
 
 “Don’t.”
 
-He studied the page. Equations. Not just symbols: structure. The laddered spectrum, the ratios, the coupling terms. And underneath, in David’s hand, the compact algorithm that turned a continuous input into that exact stack of modes.
+He studied the page. The laddered spectrum, the ratios, the coupling terms. And underneath, in David’s hand, the compact algorithm that turned a continuous input into that exact stack of modes.
 
 Then Rune stopped dead.
 
 He turned with absolute intent, looking directly into David’s eyes. When he spoke, his voice had dropped to something barely above a whisper.
 
-“Where did you get this?” His perfectly gloved hands shaking under the shock, maybe even terror of what he had just read.
+“Where did you get this?” The page shook in his hand.
 
 “I wrote it. It’s just—”
 
@@ -205,7 +199,7 @@ A page flared gold behind them and vanished into the dark.
 
 He straightened.
 
-“You have greatness in you, David. Real, inconvenient greatness. I have no intention of allowing any of you to throw it away. Not on this. Not now.”
+“You have greatness in you, David. Real, inconvenient greatness. I have no intention of letting any of you throw it away on this.”
 
 Marcus, now understanding which side Rune had fallen on, stepped forward. “Dr. Ishikawa. If I may, this is exactly what I was trying to—”
 
@@ -223,18 +217,17 @@ David blinked. “Tomorrow?”
 
 He stepped past David.
 
-“Follow my instructions to the letter and I can protect you. From your institution. From the consequences of discovery without understanding—of brilliance borne too soon. Let me guide you out of this pit—all of you.”
+“Follow my instructions to the letter and I can protect you, from your institution and from the consequences of discovery without understanding. All of you.”
 
 David forced the question. “And if we don’t?”
 
 Rune stopped and swiveled on a dime to face him once more.
 
-“Then your little adventure ends badly. Not just for you, for all of us. For me. David, you must see this. When you play games with the universe, you risk all that lies within.” He crossed back through the yard, addressing Marcus and Celeste as he passed.
+“Then your little adventure ends badly. For all of us, myself included.” He crossed back through the yard, addressing Marcus and Celeste as he passed.
 
 “Mr. McGrath. Ms. Armitage. Tomorrow evening. I strongly advise you against keeping me waiting.”
 
-And with a slow turn, The Guardian of East Hill moved like mist through the open fence and was gone; melted into the New England night.
-
+And with a slow turn, Ishikawa moved like mist through the open fence and was gone, dissolved into the New England night.
 
 
 ========================================================================

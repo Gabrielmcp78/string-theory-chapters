@@ -4,17 +4,18 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 4
 Title:           The Rehearsal
-Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,750
-Paragraph Count: 104
+Word Count:      2,751
+Paragraph Count: 103
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
+
+##
 
 The Music School’s residence on East Hill had never resolved into a single, settled idea. It was a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan-style chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.
 
@@ -70,11 +71,7 @@ Then the beating narrowed as the quartet became one thing. A few more fleeting b
 
 A shift of chairs, a tilt of heads, four musicians drawing a common breath until finally, Prokofiev arrived.
 
-SERGEI PROKOFIEV String Quartet No. 2, “Kabardinian,” Op. 92
-
-I. Allegro sostenuto
-
-Resonance preceded sound. David felt the cello’s body stir against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
+SERGEI PROKOFIEV String Quartet No. 2, “Kabardinian,” Op. 92 I. Allegro sostenuto Resonance preceded sound. David felt the cello’s body stir against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
 
 In the first measures Roger carried the foreground. His opening gesture repeated, spilling into triplet subdivisions, a line sharpening itself in real time. David, with Catherine, was the ground beneath: sustained bass, weighted chords, the dark earth from which Roger’s melody rose. He listened outward.
 

@@ -24,7 +24,8 @@
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
@@ -683,7 +684,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    <a href="chapter-12.html">Chapter 12: HUMANITIES</a>
+    <a href="chapter-12.html">Chapter 12: Humanities</a>
     <a href="chapter-12-scene-01.html">← Scene 1</a>
     <a href="chapter-12-scene-03.html">Scene 3 →</a>
   </nav>
@@ -729,12 +730,12 @@ details.scene-analysis[open] summary::after {
 
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Scene Manifest: String Theory · Chapter 12 · Scene 2 of 9 ]
-Chapter Title:   HUMANITIES
+Chapter Title:   Humanities
 Scene Heading:   12.2 The Cafe
 Scene:           2 of 9
 Word Count:      612
 Paragraph Count: 36
-Chapter Words:   1,002–1,613 (within full chapter)
+Chapter Words:   1,008–1,619 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">12.2 The Cafe</div>
@@ -772,7 +773,7 @@ Chapter Words:   1,002–1,613 (within full chapter)
 <p class="body">David looked across at her. She had chosen the booth with the shadows to spare his swollen eye, her posture patient and unhurried.</p>
 <p class="body">“Okay,” he said.</p>
 <p class="body">She stood first, gathering her bag. David rose more slowly, hitching his leather shoulder bag over his uninjured shoulder, the cracked ribs reminding him of their presence with each breath. She waited without hovering, then fell into step beside him as they moved toward the door.</p>
-<p class="body">*   *   *</p>
+<div class="ch-special">* * *</div>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 2 &#8212;</div>
   </div>

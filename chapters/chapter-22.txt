@@ -3,21 +3,17 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 22
-Title:           RATIOS OF ONE
+Title:           Ratios of One
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,511
-Paragraph Count: 47
-Scene Count:     1
+Word Count:      1,450
+Paragraph Count: 45
+Scene Count:     0
 
-Scene 1: 22.1 The Apartment | November 30, 2026, 3:48 AM EST  --  Words 1–1,511  |  Paragraphs 1–47  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-22-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-
-22.1 The Apartment | November 30, 2026, 3:48 AM EST
 
 There is a fundamental frequency beneath everything. Beneath language. Beneath light.
 
@@ -33,11 +29,11 @@ At last, shimmer gave way to the room itself.
 
 It was not large, nor arranged to impress. It possessed the density of a place long inhabited by thought. Books stood open and marked. Manuscripts rested in uneven stacks. Letters lay gathered with the care of someone who valued the letter more than the filing of it. Shelves climbed from floor to ceiling, ordered according to a private system only their keeper could read. David moved through it as one moves through a cathedral: aware of scale, and of having entered something meant to contain more than himself.
 
-On the desk, beside a lamp casting the amber light of late afternoon, a journal lay open. He did not read it, yet felt at once the familiar pull of the thoughts within.
+On the desk, beside a lamp casting the amber light of late afternoon, a journal lay open. Beside it rested a small leather-bound book, the gilt of its title lettering worn nearly out of the leather. A treatise on tuning methods and temperaments.
 
 The room continued to open to him, and he gladly engaged its study. Letters from names that would have stilled any faculty room in any decade. Correspondence with minds that had shaped the last century’s understanding of itself. Margins thick with argument. Draft essays. Notes where philosophy crossed literature, where music crossed physics, where no boundary held for long. David did not yet know whose room this was, but he knew the kind of mind it belonged to. Published. Cited. Permanent. The sort of mind for which buildings were named. And yet the room itself seemed meant for no audience at all.
 
-He returned to the journal. Ratios filled the page: 2:1, 3:2, 4:3. Above them stood older words: earth, water, sky, form, creature, man, word. Beneath them, quieter terms: ratio, boundary, proportion. Then he saw it: the word that had organized the obsessions of his life.
+He returned to the journal. Ratios filled the page: 2:1, 3:2, 4:3. Beside them was an unfinished musical figure, four notes and a scraped space where a fifth had once been. Above them stood older words: earth, water, sky, form, creature, man, word. Beneath them, quieter terms: ratio, boundary, proportion. Then he saw it: the word that had organized the obsessions of his life.
 
 Resonance.
 
@@ -52,8 +48,6 @@ For a moment the word was new again. Then the room returned him to himself. The 
 The fire shifted. Then he heard music.
 
 In the far corner where the light thinned to shadow, a man sat with a violin. He had not appeared. He had simply become visible. The bow moved. Bach, of course: the Chaconne. The one piece that seemed to contain the argument for everything David had spent his life trying to prove. The old man played with his eyes closed, not performing grief or transcendence, simply present inside the music.
-
-David stood very still. This was not withholding. This was the teaching. The distance between the music and the boy in the hall listening had never been the gap between lesson and student. It had been the lesson. His father had made him the interval on purpose, because the interval was where recognition happened. David had spent thirty years trying to eliminate that space, chasing the measurable note itself. But his father had known something simpler. The interval was everything.
 
 David crossed the room and stood behind the chair, watching his father’s hands move through the instrument with quiet authority. Just a man by a fire with Bach. Only that, and everything. David laid a hand gently on his father’s shoulder and bent to kiss the top of his head. “Love you, Dad.”
 
@@ -110,7 +104,6 @@ Then, from somewhere beyond the thinning dark, a voice reached him.
 Soft. Certain.
 
 “Love you too, my son.”
-
 
 
 ========================================================================

@@ -12,7 +12,7 @@ Outputs per chapter:
   String Theory.epub                    — EPUB 2 for reading apps
 """
 
-import re, sys, html, zipfile, json
+import os, re, sys, html, zipfile, json
 from pathlib import Path
 from datetime import datetime
 import docx
@@ -31,6 +31,8 @@ COVER_IMAGE = OUT_DIR / "cover.jpg"   # JPEG cover — embedded in EPUB
 ANALYSIS_DIR = OUT_DIR / "analysis"  # scene analysis JSON (Ollama); absent for branch builds
 REV11_DIRNAME = "rev11"              # sub-site built from the Revision-11 branch
 SOURCE_LABEL = ""                    # set for branch builds, e.g. "Revision-11 @ abc1234"
+BANNER_HTML = None                   # when set (--banner-html), replaces the index banner; used by scripts/site_build.py
+                                     # in Source Router to link the leading edge and the committed main to each other
 ANALYSIS_ENABLED = False             # the "Scene N Analysis & Outline" dropdowns are never published (feature unfinished);
                                      # analysis/*.json is kept, flip to True to bring the boxes back
 
@@ -1070,15 +1072,16 @@ HEAD_TAGS = """
     }
 })();
 </script>
-<!-- KaTeX Equations Rendering -->
+<!-- KaTeX Equations Rendering. The delimiter strings are written with doubled backslashes on purpose:
+     this block is a Python string, and JavaScript must receive '\\[' (a backslash followed by a bracket), not '[' -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body, {
     delimiters: [
         {left: '$$', right: '$$', display: true},
-        {left: '\\[', right: '\\]', display: true},
+        {left: '\\\\[', right: '\\\\]', display: true},
         {left: '$', right: '$', display: false},
-        {left: '\\(', right: '\\)', display: false}
+        {left: '\\\\(', right: '\\\\)', display: false}
     ],
     ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
     throwOnError: false
@@ -2036,7 +2039,7 @@ def _md_runs(text, bold=False, italic=False):
 
 _MD_HEADING = re.compile(r"^(#{1,6})\s+(.*?)\s*#*\s*$")
 _MD_BREAK = re.compile(r"^\s*(\*\s*\*\s*\*[\s*]*|-{3,}|_{3,})\s*$")
-_MD_CHAPTER_ID = re.compile(r"^ch(\d+)$", re.I)
+_MD_CHAPTER_ID = re.compile(r"^ch(\d+)(?:-[\w-]+)?$", re.I)   # "ch05" or Literary Studio's "ch05-the-apartment"
 
 def _md_front_matter(lines):
     """Return (front-matter dict, remaining lines)."""
@@ -2151,7 +2154,9 @@ def parse_markdown_chapter(path):
     flush()
 
     if num is None:
-        num = -99
+        # No usable chapter_id in the front matter: the file-name convention chNN-... identifies the chapter.
+        fm = re.match(r"ch(\d+)-", path.stem, re.I)
+        num = int(fm.group(1)) if fm and int(fm.group(1)) > 0 else -99
     if not any(p.style.name == "SubChapter" for p in paras):
         paras.insert(0, _MdPara("SubChapter", _md_runs(title or chapter_label(num))))
     return num, paras
@@ -2166,7 +2171,10 @@ def parse_markdown_dir(md_dir):
     return sorted(chapters, key=order)
 
 def index_note_html():
-    """Root index: link to the Revision-11 site when it exists. Branch index: say where it came from."""
+    """Index banner. An explicit --banner-html wins; otherwise: root links to the Revision-11 site when it exists,
+    a branch index says where it came from."""
+    if BANNER_HTML is not None:
+        return BANNER_HTML
     if SOURCE_LABEL:
         return (f'<div class="epub-banner" style="background:#3b2f2a">'
                 f'<p>Working draft built automatically from <strong>{html.escape(SOURCE_LABEL)}</strong>. '
@@ -2179,12 +2187,17 @@ def index_note_html():
                 f'<a class="epub-download" href="{REV11_DIRNAME}/index.html">Read Revision 11 &#8594;</a></div>')
     return ""
 
-def configure_output(out_dir, pages_url, source_label=""):
+_MATH_SPAN = re.compile(r'(?<![\\$])(\$\$[^$<>]+?\$\$|\$(?!\$)[^$<>\n]+?(?<!\\)\$)(?!\$)')
+_BARE_HASH = re.compile(r'(?<![&\\])#(?!x?[0-9a-fA-F]+;)')
+
+def fix_math_hashes(page_html):
+    """A bare '#' is not valid TeX (it must be '\\#'), and KaTeX answers with a red parse error. Inside $...$ and $$...$$
+    spans only, escape it. HTML character references such as &#x27; are left alone."""
+    return _MATH_SPAN.sub(lambda m: _BARE_HASH.sub(r'\\#', m.group(0)), page_html)
+
+def configure_output(out_dir, pages_url, source_label="", banner_html=None):
     """Point every output path and absolute URL at a sub-site (e.g. rev11/)."""
-    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL, HEAD_TAGS
-    for left, right in (("[", "]"), ("(", ")")):
-        HEAD_TAGS = HEAD_TAGS.replace(f"left: '\\{left}', right: '\\{right}'",
-                                      f"left: '\\\\{left}', right: '\\\\{right}'")
+    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL, HEAD_TAGS, BANNER_HTML
     OUT_DIR = Path(out_dir).resolve()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     CHAPTER_DIR = OUT_DIR / "chapters"
@@ -2192,6 +2205,7 @@ def configure_output(out_dir, pages_url, source_label=""):
     ANALYSIS_DIR = OUT_DIR / "analysis"
     PAGES_URL = pages_url.rstrip("/")
     SOURCE_LABEL = source_label
+    BANNER_HTML = banner_html
 
 # -- Main build ---------------------------------------------------------------
 def build(src_path=None):
@@ -2205,6 +2219,11 @@ def build(src_path=None):
         src = candidates[0]
     print(f"Parsing: {src}")
 
+    if not src.is_dir() and OUT_DIR.resolve() == Path(__file__).parent.resolve() and os.environ.get("ST_ALLOW_DOCX_ROOT") != "1":
+        print("REFUSING: the site root is now built from Source Router's sources (leading edge at /, committed main at /main/),\n"
+              "so a DOCX build must not overwrite it. Run:  python3 /Volumes/Ready500/DEVELOPMENT/source-router/scripts/site_build.py --publish\n"
+              "(set ST_ALLOW_DOCX_ROOT=1 only if you really mean to publish this DOCX at the root).", file=sys.stderr)
+        sys.exit(2)
     CHAPTER_DIR.mkdir(exist_ok=True)
     EDITS_DIR.mkdir(exist_ok=True)
     for stale_f in CHAPTER_DIR.glob('*.*'):
@@ -2240,8 +2259,8 @@ def build(src_path=None):
         # Full chapter HTML page
         out_html = CHAPTER_DIR / f"{slugify(num)}.html"
         out_html.write_text(
-            make_chapter_html(num, paras, all_nums, date,
-                              prebuilt_body=body_html, prebuilt_stats=stats),
+            fix_math_hashes(make_chapter_html(num, paras, all_nums, date,
+                                              prebuilt_body=body_html, prebuilt_stats=stats)),
             encoding='utf-8'
         )
 
@@ -2259,8 +2278,8 @@ def build(src_path=None):
             sc_stat   = stats['scenes'][sg['n'] - 1]
             sc_file   = CHAPTER_DIR / f"{scene_slug(num, sg['n'])}.html"
             sc_file.write_text(
-                make_scene_html(num, title, subtitle, sg, sc_stat,
-                                total_sc, all_nums, date),
+                fix_math_hashes(make_scene_html(num, title, subtitle, sg, sc_stat,
+                                                total_sc, all_nums, date)),
                 encoding='utf-8'
             )
 
@@ -2305,8 +2324,9 @@ if __name__ == "__main__":
         ap.add_argument("--out-dir", required=True, help="output folder, e.g. rev11")
         ap.add_argument("--pages-url", required=True, help="public URL of the output folder")
         ap.add_argument("--source-label", default="", help='e.g. "Revision-11 @ abc1234"')
+        ap.add_argument("--banner-html", default=None, help="HTML for the index banner (replaces the default)")
         a = ap.parse_args()
-        configure_output(a.out_dir, a.pages_url, a.source_label)
+        configure_output(a.out_dir, a.pages_url, a.source_label, a.banner_html)
         build(a.md_dir)
     else:
         build(sys.argv[1] if len(sys.argv) > 1 else None)
