@@ -7,20 +7,20 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,443
-Paragraph Count: 213
+Word Count:      2,450
+Paragraph Count: 215
 Scene Count:     4
 
-Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,352  |  Paragraphs 19–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,353–1,989  |  Paragraphs 138–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,990–2,443  |  Paragraphs 179–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 1: 6.1 SUBJECT | En Route to Buffalo, NY · Present Day  --  Words 1–345  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-01.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 346–1,359  |  Paragraphs 21–139  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,360–1,996  |  Paragraphs 140–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,997–2,450  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-6.1 SUBJECT | Buffalo, NY · Present Day
+6.1 SUBJECT | En Route to Buffalo, NY · Present Day
 
 The seats aboard the Cornell charter coach to Buffalo looked comfortable enough. Deep cushions, generous legroom, upholstery that promised a civilized journey. But after the first hour, David had begun to suspect that the suspension was conducting a private experiment on his spine.
 
@@ -28,15 +28,19 @@ Upright in the seat ahead, the cello case stood braced between armrest and windo
 
 Above the windshield, a laminated sign read:
 
-WELCOME TO THE NORTHEASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
+WELCOME TO THE NORTHEASTERN
+
+SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
 
 NO FOOD. NO DRINK. NO QUESTIONS.
 
-David's phone vibrated against his thigh. It was Roger, recommending “*…a lovely little repair shop in buffalo,” *though he couldn’t remember where. The sort of message that can go from thoughtful to obligatory pain in the ass with alarming speed.
+David's phone vibrated against his thigh.
 
-He smiled, wrote:
+Roger: Almost forgot. There's a wonderful old string shop somewhere in Buffalo. Haven't been there in years. Can't remember the name for the life of me, but if it's still there, they'll have a tungsten-wound C. Just what that ridiculous beast of yours needs. Ask your hotel concierge.
 
-Thanks, Rog. I’ll just ask the first wild goose I see for directions.
+David smiled.
+
+Thanks, Rog. Will do.
 
 He put the phone away.
 

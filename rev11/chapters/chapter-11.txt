@@ -7,15 +7,15 @@ Title:           EXERCISE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,660
-Paragraph Count: 263
+Word Count:      5,672
+Paragraph Count: 264
 Scene Count:     5
 
-Scene 1: 11.1 THE HOUSE ON THE HILL  --  Words 1–845  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
-Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 846–1,297  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
-Scene 3: 11.3 The Assessment  --  Words 1,298–2,525  |  Paragraphs 71–120  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
-Scene 4: 11.4 Walk B | for David, Roger and East Hill incline  --  Words 2,526–3,210  |  Paragraphs 121–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
-Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,211–5,660  |  Paragraphs 163–263  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
+Scene 1: 11.1 THE HOUSE ON THE HILL  --  Words 1–845  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-01.html
+Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 846–1,297  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-02.html
+Scene 3: 11.3 The Assessment  --  Words 1,298–2,525  |  Paragraphs 71–120  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-03.html
+Scene 4: 11.4 Walk B | for David, Roger and East Hill incline  --  Words 2,526–3,210  |  Paragraphs 121–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-04.html
+Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,211–5,672  |  Paragraphs 163–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -375,9 +375,11 @@ Her eyes tracked from his shoes to his taped brow, widening in sharp panic befor
 
 Catherine’s emery board froze in mid-air. “Oh, exquisite,” she murmured in a stage whisper. “Tell me, Roger, did the physics department finally attempt a coup?”
 
-“Just play, Catherine,” Celeste said low and flat.
+“Just play, Catherine,” Celeste snapped, low and flat.
 
 David set the violin case onto Roger's music stand before easing toward the choir stalls. Roger dragged David’s rehearsal chair deep into the acoustic shadow, angled away from the nave, and unlatched the cello case with rapid clicks.
+
+“Sit,” Roger barked softly. “Down. Don't talk. Don't bow to the public.”
 
 David lowered himself with a whistling hiss of air through his teeth.
 

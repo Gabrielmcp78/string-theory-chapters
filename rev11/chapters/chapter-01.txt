@@ -4,18 +4,21 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 1
 Title:           The Ivy League
+Subtitle:        Andante sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      2,861
-Paragraph Count: 121
+Paragraph Count: 122
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
-It was, perhaps, an unfortunate hour to be speaking of coherence. David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.
+It was, perhaps, an unfortunate hour to be speaking of coherence.
+
+David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.
 
 Twenty minutes earlier, David had abandoned sleep altogether, drifting down to the kitchen to soothe a sour stomach with a pint of milk. The first gulp went down well enough, but the second missed, badly, sending a pale sheet across the marble countertop. David stared down at the puddle, then at the roll of paper towels on the far side of the room, then at the open bag of mini donuts beside him. He reached in, pulled out the first donut, and pressed it into service as a sort of sponge.
 
@@ -78,6 +81,8 @@ There was no longer any other way to parse this.
 He was late.
 
 David Lang was never late. Never.
+
+* * *
 
 For forty-six years, this fact alone had served to guarantee the rest of him.
 
@@ -236,8 +241,6 @@ Something beat beneath the band of his watch, once and then again, until there w
 Eighteen minutes and fifty-three seconds late.
 
 Shit.
-
-* * *
 
 Deep in Sub-level Two, inside a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed.
 

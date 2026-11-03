@@ -11,13 +11,13 @@ Word Count:      5,798
 Paragraph Count: 290
 Scene Count:     7
 
-Scene 1: 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
-Scene 2: 21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
-Scene 3: 21.3   THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
-Scene 4: 21.4  Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
-Scene 5: 21.5   THE WEIGHT OF NAMES  |  October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
-Scene 6: 21.6  TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
-Scene 7: 21.7  CANTUS  --  Words 4,918–5,798  |  Paragraphs 252–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
+Scene 1: 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-01.html
+Scene 2: 21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-02.html
+Scene 3: 21.3   THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-03.html
+Scene 4: 21.4  Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-04.html
+Scene 5: 21.5   THE WEIGHT OF NAMES  |  October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-05.html
+Scene 6: 21.6  TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-06.html
+Scene 7: 21.7  CANTUS  --  Words 4,918–5,798  |  Paragraphs 252–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -232,7 +232,7 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 21.4  Around The Horn
 
-Geneva, CERN Control Room | 5:48 P.M. CET
+Geneva, CERN Control Room   |   5:48 P.M. CET
 
 The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.
 

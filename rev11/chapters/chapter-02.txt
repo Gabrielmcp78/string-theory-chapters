@@ -4,11 +4,12 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 2
 Title:           The Lecture
+Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,163
-Paragraph Count: 263
+Word Count:      5,105
+Paragraph Count: 262
 Scene Count:     0
 
 ========================================================================
@@ -17,15 +18,15 @@ Scene Count:     0
 
 The lecture hall, always five degrees too warm, was a tall expanse of yellows and browns whose rear walls had been surrendered to banks of narrow, vertical windows overlooking the glacier-carved canyons of East Hill. Right-angled panes divided winter daylight into geometric shards, so that light never arrived cleanly here: only fractured, false.
 
-A brushed metal plaque beside the door praised the room’s design, touting the “unique ornamentations’” ability to “soothe the psyche and elicit heightened states of mental acuity.”
+A brushed metal plaque beside the door praised the room’s design, touting the “unique ornamentation’s” ability to “soothe the psyche and elicit heightened states of mental acuity.”
 
 They said the same thing about heroin for a hundred years.
 
-As he made his way toward the well, David counted heads. It did not take long as there were only twenty-seven students in the benches. Twenty-seven, from a roster of sixty-three. Of those, David considered that perhaps thirteen were actually conscious in any meaningful sense.
+As he made his way toward the well, David counted heads. There were only twenty-seven students in the benches. Twenty-seven, from a roster of sixty-three. With practiced pessimism, he revised the practical number down to thirteen who were conscious in any useful sense.
 
-A young woman in the fourth row was drawing elaborate mollusk shells in the margin of her notebook, each chamber curling recursively into the next with enough geometric discipline that they bore a striking resemblance to the mathematics David intended to teach. Incidentally, she was not among the thirteen. Her attentiveness, he decided, was circumstantial at best.
+A young woman in the fourth row was drawing elaborate mollusk shells in the margin of her notebook, each chamber curling recursively into the next with enough geometric discipline that, viewed from a distance, the thing bore an accidental resemblance to the mathematics David intended to teach. Incidentally, she was not among the thirteen. Her attentiveness, he decided, was circumstantial at best.
 
-He set his satchel on the scarred oak desk, scrolled down the roster, then back toward the scattered semicircle of coats, notebooks and insufficiently caffeinated young adults.
+He set his satchel on the scarred oak desk, glanced down the roster, then back toward the scattered semicircle of coats, notebooks and insufficiently caffeinated young adults.
 
 “My,” he said. “A full house, I see.”
 
@@ -79,15 +80,15 @@ Without having planned to, he wrote:
 
   $$\chi(\omega) = \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
-His hand twitched, a sudden pinch in his palm. He put the chalk down, gripping the meat of his right hand with the left as he looked over the expression.
+David regarded the expression for a moment.
 
-Complex susceptibility. David glanced Rebecca taking notes in the front row. She looked up, saw the equation, and slowly raised one eyebrow in what David was simply going to call curiosity for now. Her brow, incidentally, was right. The equation had no business being there.
+There was nothing wrong with it. The problem was that it had no business being there.
 
-He circled back to the lectern, thumbed through his notes, but whatever turn in the argument might have brought him from the sum over histories to susceptibility was not there. The transition simply did not exist. Behind him, twenty-seven students waited on Professor Lang to explain what Professor Lang had just done.
+He circled back to the lectern, thumbed through his notes, but whatever turn in the argument might have brought him from the sum over histories to susceptibility was not there. The transition simply did not exist. Behind him, twenty-seven students waited with the patient confidence that Professor Lang would shortly explain what Professor Lang had just done.
 
 “And if the system admits…”
 
-He was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only this time, he knew its number.
+He was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only now he knew its number.
 
 68.48 Hz.
 
@@ -107,11 +108,9 @@ Instead, the frequency seemed to encourage, even influence, what next transferre
 
 HOW DO YOU MEASURE PROXIMITY?
 
-Underneath it, came the three-dimensional Euclidean distance formula.
+Underneath it came:
 
   $$R*{ij} = \sqrt{(x*i - x*j)^2 + (y*i - y*j)^2 + (z*i - z_j)^2}$$
-
-But again, he could not quite explain why.
 
 The sound pressurized his eardrums until the shafts of light scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.
 

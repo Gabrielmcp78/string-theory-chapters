@@ -11,10 +11,10 @@ Word Count:      9,172
 Paragraph Count: 295
 Scene Count:     4
 
-Scene 1: 15.1  Preliminary Observations  --  Words 1–1,034  |  Paragraphs 1–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
-Scene 2: 15.2  Method and Resonance  --  Words 1,035–2,597  |  Paragraphs 44–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
-Scene 3: 15.3  Findings and Implications  --  Words 2,598–3,698  |  Paragraphs 81–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
-Scene 4: 15.4 Lossless Transfers  --  Words 3,699–9,172  |  Paragraphs 118–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
+Scene 1: 15.1  Preliminary Observations  --  Words 1–1,034  |  Paragraphs 1–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-01.html
+Scene 2: 15.2  Method and Resonance  --  Words 1,035–2,597  |  Paragraphs 44–80  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-02.html
+Scene 3: 15.3  Findings and Implications  --  Words 2,598–3,698  |  Paragraphs 81–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 3,699–9,172  |  Paragraphs 118–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
