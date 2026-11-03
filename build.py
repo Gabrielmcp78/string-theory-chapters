@@ -31,6 +31,8 @@ COVER_IMAGE = OUT_DIR / "cover.jpg"   # JPEG cover — embedded in EPUB
 ANALYSIS_DIR = OUT_DIR / "analysis"  # scene analysis JSON (Ollama); absent for branch builds
 REV11_DIRNAME = "rev11"              # sub-site built from the Revision-11 branch
 SOURCE_LABEL = ""                    # set for branch builds, e.g. "Revision-11 @ abc1234"
+ANALYSIS_ENABLED = False             # the "Scene N Analysis & Outline" dropdowns are never published (feature unfinished);
+                                     # analysis/*.json is kept, flip to True to bring the boxes back
 
 CHAPTER_RE = re.compile(r'^\s*\|\s*(\d+|Overture|Prologue|Dedication|Author|Author\'s Note|Author Note|Afterword|Coda|Appendix)\s*\|\s*$', re.IGNORECASE)
 
@@ -916,7 +918,7 @@ def render_body_html(paras, num=None):
                 ch_slug = slugify(num)
                 scene_slug_str = f"{ch_slug}-scene-{scene_n:02d}"
                 analysis_file = ANALYSIS_DIR / f"{scene_slug_str}.json"
-                if analysis_file.exists():
+                if ANALYSIS_ENABLED and analysis_file.exists():
                     try:
                         analysis_data = json.loads(analysis_file.read_text(encoding='utf-8'))
                         summary = analysis_data.get("summary", "")
@@ -1283,7 +1285,7 @@ def make_scene_html(num, title, subtitle, scene_group, sc_stat,
     scene_id = f"{ch_slug}-scene-{sc_n:02d}"
     analysis_file = ANALYSIS_DIR / f"{scene_id}.json"
     analysis_html = ""
-    if analysis_file.exists():
+    if ANALYSIS_ENABLED and analysis_file.exists():
         try:
             analysis_data = json.loads(analysis_file.read_text(encoding='utf-8'))
             summary = analysis_data.get("summary", "")
