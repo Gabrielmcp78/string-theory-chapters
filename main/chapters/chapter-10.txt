@@ -7,7 +7,7 @@ Title:           Passions’ Principles
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,300
+Word Count:      13,294
 Paragraph Count: 776
 Scene Count:     8
 
@@ -16,9 +16,9 @@ Scene 2: Adagio espressivo e misterioso  --  Words 1,573–5,041  |  Paragraphs 
 Scene 3: 10.3 RECITATIVUM | Break-Through  --  Words 5,042–6,216  |  Paragraphs 282–345  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-03.html
 Scene 4: 10.4 TURBA | The Guillotine  --  Words 6,217–8,153  |  Paragraphs 346–463  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-04.html
 Scene 5: 10.5 VIA DOLOROSA | Into the Storm  --  Words 8,154–10,551  |  Paragraphs 464–608  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-05.html
-Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,552–11,241  |  Paragraphs 609–634  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-06.html
-Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,242–12,857  |  Paragraphs 635–754  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-07.html
-Scene 8: 10.8 RELIQUIAE | Up From the Depths  --  Words 12,858–13,300  |  Paragraphs 755–776  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-08.html
+Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,552–11,235  |  Paragraphs 609–634  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-06.html
+Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,236–12,851  |  Paragraphs 635–754  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-07.html
+Scene 8: 10.8 RELIQUIAE | Up From the Depths  --  Words 12,852–13,294  |  Paragraphs 755–776  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -592,7 +592,7 @@ They played until nearly midnight, pursuing the sound long after the cello had r
 
 [Allegro con fuoco]
 
-Morning arrived with a clear skull, an unknotted jaw, and the rare sensation that Davids' life might finally return to scale. He dressed without checking the mirror, brewed a strong pot of coffee, and pulled up to the kitchen island, intending simply to: fucking breathe.
+Morning arrived with a clear skull, an unknotted jaw, and the rare sensation that David's life might finally return to scale. He dressed without checking the mirror, brewed a strong pot of coffee, and pulled up to the kitchen island, intending simply to: fucking breathe.
 
 He tried to ignore the pull.* It can just be what it was. Christ, you don’t need to turn it into… fuck.*
 
@@ -600,7 +600,7 @@ For nearly an hour, he sat there, arguing with himself. His right foot in a chro
 
 Real life does not included daily scientific breakthrough, Lang.
 
-He had already slurped through the bottom of his third cup, and was emerging from morning piss number two, when he found himself inexorably drawn toward the notebook. By nine, the gallon of caffin and his old pal mania had broken his silence and David was on the couch tearing through the pages of notes. It was right there. So damn close. And so he went about the work of reconstructing the residual tone he and Celeste had encountered in the chapel.
+He had already slurped through the bottom of his third cup, and was emerging from morning piss number two, when he found himself inexorably drawn toward the notebook. By nine, the gallon of caffeine and his old pal mania had broken his silence and David was on the couch tearing through the pages of notes. It was right there. So damn close. And so he went about the work of reconstructing the residual tone he and Celeste had encountered in the chapel.
 
 The original pitch, the cello’s delayed response curve, and its two-second decay; they all combined to maximize the series of failed attempts that followed, aimed at simply reproducing the autonomous sounding.
 
@@ -654,7 +654,7 @@ A pause, slight enough to deny itself. “The appointment was requested on your 
 
 “I believe Dr. Ishikawa thought it best that the two of you speak.”
 
-“I see. Alright, well five-thirty it is.Thank you.”
+“I see. Alright, well five-thirty it is. Thank you.”
 
 “Oh and Professor Lang, the university has begun releasing non-essential staff due to the weather. You may want to leave sooner rather than later.”
 
@@ -684,13 +684,13 @@ By the time David reached the faculty lot, the entire hill was heading the oppos
 
 Wimps all of you. Nothing more.
 
-The department office was still abustle as David pressed through the the main doors. Jessica looked up as he entered, brushing snow from his head.
+The department office was still abustle as David pressed through the main doors. Jessica looked up as he entered, brushing snow from his head.
 
 “Professor Lang. You made it.”
 
 “Of course. Is the copier still fired up?”
 
-“For the moment, yes. We use it as a furnace this time of your, you know.”
+“For the moment, yes. We use it as a furnace this time of year, you know.”
 
 “Wonderful. I need three sets and a hand warming.”
 
@@ -1285,7 +1285,7 @@ A small, dark shape moved behind the veil of snow near the loading dock, her ste
 
 “Leave all of it.”
 
-The second looked once toward the cello case, swallowed back bile, and dropped the keys near the driver's door, desperate to put distance between himself and whatever had just disturbed his balance.
+The second looked once toward the cello case, swallowed back bile, and fled, desperate to put distance between himself and whatever had just disturbed his balance.
 
 Cash, phone, wallet: enough. The watch could remain abandoned in the shrubs, the cello breathing in the car, and David on the ground with his ruined papers while the storm did its patient work.
 

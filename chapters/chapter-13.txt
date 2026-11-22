@@ -7,17 +7,17 @@ Title:           Twin Primes on the Six
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,110
-Paragraph Count: 199
+Word Count:      6,116
+Paragraph Count: 201
 Scene Count:     7
 
 Scene 1: 13 | TWIN PRIMES ON THE SIX  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
-Scene 2: 13.1  Falsifiable Fame  --  Words 8–770  |  Paragraphs 2–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
-Scene 3: 13.2 Dream Lecture  --  Words 771–1,801  |  Paragraphs 20–35  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: 13.3 Groundbreaking  --  Words 1,802–2,606  |  Paragraphs 36–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: 13.4 Everything He Was Not  --  Words 2,607–3,463  |  Paragraphs 63–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.5 Friendly Forensics  --  Words 3,464–4,035  |  Paragraphs 83–105  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.6 Ishikawa’s Island  --  Words 4,036–6,110  |  Paragraphs 106–199  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 2: 13.1  Falsifiable Fame  --  Words 8–776  |  Paragraphs 2–21  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: 13.2 Dream Lecture  --  Words 777–1,807  |  Paragraphs 22–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: 13.3 Groundbreaking  --  Words 1,808–2,612  |  Paragraphs 38–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: 13.4 Everything He Was Not  --  Words 2,613–3,469  |  Paragraphs 65–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: 13.5 Friendly Forensics  --  Words 3,470–4,041  |  Paragraphs 85–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.6 Ishikawa’s Island  --  Words 4,042–6,116  |  Paragraphs 108–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -36,11 +36,15 @@ A low thrum began in the floorboards, a sensation more than a sound. The 68.48 H
 
 He opened the first email. The header was from Physical Review Letters, but the formatting was off-kilter, the font a pixelated serif he didn’t recognize. The message was terse, devoid of the usual bureaucratic niceties.
 
-Professor Lang:
+* * *
+
+Professor Lang,
 
 Your previously submitted manuscript “Harmonic Convergence in Non-Linear Quantum Fields” has been accepted and published. Congratulations on your pioneering methodology. The peer review commentary is attached.
 
-The Editors
+-The Editors
+
+* * *
 
 Pioneering methodology. The phrase landed with the weight of a stone in his stomach. He’d been told his methodology was “speculative at best, numerically unsound at worst” by the same journal eight weeks ago.
 

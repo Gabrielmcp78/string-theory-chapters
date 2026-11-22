@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,581
-Paragraph Count: 126
+Word Count:      3,576
+Paragraph Count: 124
 Scene Count:     4
 
-Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,038  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
-Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,039–2,464  |  Paragraphs 26–76  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,465–3,365  |  Paragraphs 77–120  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,366–3,581  |  Paragraphs 121–126  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,035  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
+Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,036–2,461  |  Paragraphs 25–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,462–3,360  |  Paragraphs 76–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,361–3,576  |  Paragraphs 119–124  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -67,8 +67,6 @@ At twelve twenty-one, his phone lit up: a message from Mom.
 My God! Where did you find this? Are you awake? Call if you are. Ha! Fat chance. Love you.
 
 David did not stir.
-
-* * *
 
 
 9.2 THE CLASSROOM | Feynman Hall · Following Day
@@ -198,7 +196,7 @@ Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plo
 
 “Storyteller, huh?” David could only imagine. “Do I even want to…”
 
-“No, David,” she said with a devilish smirk. “You most assuredly do no want to know.” And she laid an immaculately manicured hand on Davids’ forearm at the desk. “Just rest assured dear, that I most assuredly do know.”
+“No, David,” she said with a devilish smirk. “You most assuredly do not want to know.” And she laid an immaculately manicured hand on Davids’ forearm at the desk. “Just rest assured dear, that I most certainly do know.”
 
 “Right. Well, make sure I know what you want for christmas, okay Marsha.”
 
@@ -210,7 +208,7 @@ David looked down.
 
 The top half of the stack were written on Post-it notes. They were an almost breath-stealing shade of fluorescent magenta.
 
-The same impossible color that had flashed across the frostbitten grass that morning. On the lawn it had vanished whenever he looked directly at it; here, between an ink pad and a tape dispenser, it stayed.
+The same impossible color that had flashed across the grass earlier in the day. On the lawn it had vanished whenever he looked directly at it; here, between an ink pad and a tape dispenser, it stayed.
 
 He picked it up and turned it beneath the fluorescent light. Magenta had no wavelength of its own, yet the paper kept its color when he looked straight at it.
 
@@ -259,8 +257,6 @@ With the edge of his shoe he sent the cubes skittering over the threshold onto t
 “My pleasure.”
 
 He held the door as she slipped inside, then stepped out into the cold.
-
-* * *
 
 
 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon

@@ -1,8 +1,8 @@
 {
   "title": "String Theory",
   "author": "Gabriel McPherson",
-  "built": "2026-11-03",
-  "total_words": 118836,
+  "built": "2026-11-22",
+  "total_words": 118830,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json",
   "chapters": [
     {
@@ -230,7 +230,7 @@
       "label": "Chapter 10",
       "title": "Passions’ Principles",
       "subtitle": "",
-      "word_count": 13300,
+      "word_count": 13294,
       "paragraph_count": 776,
       "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10.html",
@@ -285,7 +285,7 @@
           "n": 6,
           "heading": "10.6 CRUCIFIXIO | It Takes a Beating",
           "word_start": 10552,
-          "word_end": 11241,
+          "word_end": 11235,
           "para_start": 609,
           "para_end": 634,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-06.html"
@@ -293,8 +293,8 @@
         {
           "n": 7,
           "heading": "10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall",
-          "word_start": 11242,
-          "word_end": 12857,
+          "word_start": 11236,
+          "word_end": 12851,
           "para_start": 635,
           "para_end": 754,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-07.html"
@@ -302,8 +302,8 @@
         {
           "n": 8,
           "heading": "10.8 RELIQUIAE | Up From the Depths",
-          "word_start": 12858,
-          "word_end": 13300,
+          "word_start": 12852,
+          "word_end": 13294,
           "para_start": 755,
           "para_end": 776,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-08.html"
@@ -1352,7 +1352,7 @@
   "source": {
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/main/",
     "git_ref": "main",
-    "commit": "ac686a7efb60c3a8f8a07362169af786bbb9f86f"
+    "commit": "a4e02811f72de29e00c2916be8f77b05090d7e91"
   },
   "leadingEdge": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json"
 }
