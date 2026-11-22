@@ -1088,6 +1088,11 @@ HEAD_TAGS = """
 });"></script>
 """
 
+_BETA_CSS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "beta_reader.css")
+if os.path.isfile(_BETA_CSS_PATH):
+    with open(_BETA_CSS_PATH, "r", encoding="utf-8") as _f:
+        HEAD_TAGS += "\n<style>\n" + _f.read() + "\n</style>\n"
+
 # -- Export JS (shared by chapter and scene pages) ----------------------------
 # Defined as a module-level constant so Python f-strings don't misinterpret
 # the JavaScript { } braces as format-string substitutions.
@@ -1214,6 +1219,11 @@ async function copyChapterText(txtUrl, btn) {
   }
 }
 </script>"""
+
+_BETA_JS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "beta_reader.js")
+if os.path.isfile(_BETA_JS_PATH):
+    with open(_BETA_JS_PATH, "r", encoding="utf-8") as _f:
+        EXPORT_JS += "\n" + _f.read() + "\n"
 
 
 # -- HTML page builders -------------------------------------------------------

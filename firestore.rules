@@ -1,0 +1,221 @@
+rules_version = '2';
+
+// ===============================================================
+// Assumed Data Model
+// ===============================================================
+//
+// Project: string-theory-reader (Standard Edition Firestore)
+// Authentication model: Beta readers authenticate by presenting an active
+// inviteCode (e.g., via QR code ?invite=<code>) rather than Firebase Auth.
+//
+// Collection: invites
+// Document ID: {inviteCode} (string, 1..64 chars)
+// Managed exclusively by the author via Firebase Admin SDK / CLI.
+// Fields:
+//   - name: string (required, display name of invited reader)
+//   - active: bool (required, must be true for access)
+//   - role: string (optional, e.g. 'reader')
+//
+// Collection: readers
+// Document ID: {inviteCode} (matches an active document in invites/{inviteCode})
+// Persistent reading state per invited reader.
+// Fields:
+//   - name: string (optional, 0..100 chars)
+//   - lastChapterSlug: string (optional, 0..64 chars)
+//   - lastParagraphIndex: int (optional, 0..100000)
+//   - lastScrollY: number (optional, 0..10000000)
+//   - theme: string (optional, 1..16 chars, e.g. 'light' or 'dark')
+//   - fontSize: number (optional, 8..72)
+//   - updatedAt: timestamp | string (optional, string <= 64 chars)
+//
+// Collection: comments
+// Document ID: {commentId} (auto-generated or client-specified ID)
+// Paragraph-level beta-reader comments.
+// Fields:
+//   - inviteCode: string (required, immutable, 1..64 chars, must match active invite)
+//   - authorName: string (required, immutable, 1..100 chars)
+//   - chapterSlug: string (required, immutable, 1..64 chars)
+//   - chapterLabel: string (required, immutable, 1..128 chars)
+//   - paragraphIndex: int (required, immutable, 0..100000)
+//   - paragraphPreview: string (required, immutable, 0..500 chars)
+//   - text: string (required, mutable, 1..4000 chars)
+//   - status: string (required, mutable, 'open' on create; in ['open', 'resolved', 'archived'])
+//   - createdAt: timestamp | string (required, immutable, string <= 64 chars)
+//   - updatedAt: timestamp | string (required, mutable, string <= 64 chars)
+//
+// ===============================================================
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ===============================================================
+    // Default Deny
+    // ===============================================================
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+
+    // Check if the request has a Firebase Auth session (reserved for future use)
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // Check if user owns the resource (reserved for future Firebase Auth use)
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    // Verify UID hasn't been tampered with on create
+    function uidUnchanged() {
+      return !('uid' in request.resource.data) ||
+             request.resource.data.uid == request.auth.uid;
+    }
+
+    // Ensure uid field is not modified on update
+    function uidNotModified() {
+      return !('uid' in request.resource.data) ||
+             request.resource.data.uid == resource.data.uid;
+    }
+
+    // Validate that the document contains only allowed fields
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    // Validate that all required fields exist
+    function hasRequiredFields(fields) {
+      return request.resource.data.keys().hasAll(fields);
+    }
+
+    // Validate that immutable fields were not modified on update
+    function areImmutableFieldsUnchanged(fields) {
+      return !request.resource.data.diff(resource.data).affectedKeys().hasAny(fields);
+    }
+
+    // Validate string type and length bounds
+    function isValidString(val, minLen, maxLen) {
+      return val is string && val.size() >= minLen && val.size() <= maxLen;
+    }
+
+    // Validate timestamp or bounded ISO-8601 date string
+    function isValidTimestampOrString(val) {
+      return val is timestamp || isValidString(val, 1, 64);
+    }
+
+    // Verify that an inviteCode corresponds to an existing, active invite
+    function isActiveInvite(inviteCode) {
+      return isValidString(inviteCode, 1, 64) &&
+             exists(/databases/$(database)/documents/invites/$(inviteCode)) &&
+             get(/databases/$(database)/documents/invites/$(inviteCode)).data.active == true;
+    }
+
+    // ===============================================================
+    // Domain Validators (Used in BOTH create and update)
+    // ===============================================================
+
+    function isValidReaderState(data) {
+      let allowedFields = [
+        'name',
+        'lastChapterSlug',
+        'lastParagraphIndex',
+        'lastScrollY',
+        'theme',
+        'fontSize',
+        'updatedAt'
+      ];
+      return hasOnlyAllowedFields(allowedFields) &&
+             data.keys().size() > 0 &&
+             (!('name' in data) || isValidString(data.name, 0, 100)) &&
+             (!('lastChapterSlug' in data) || isValidString(data.lastChapterSlug, 0, 64)) &&
+             (!('lastParagraphIndex' in data) || (data.lastParagraphIndex is int && data.lastParagraphIndex >= 0 && data.lastParagraphIndex <= 100000)) &&
+             (!('lastScrollY' in data) || (data.lastScrollY is number && data.lastScrollY >= 0 && data.lastScrollY <= 10000000)) &&
+             (!('theme' in data) || isValidString(data.theme, 1, 16)) &&
+             (!('fontSize' in data) || (data.fontSize is number && data.fontSize >= 8 && data.fontSize <= 72)) &&
+             (!('updatedAt' in data) || isValidTimestampOrString(data.updatedAt));
+    }
+
+    function isValidComment(data) {
+      let allowedFields = [
+        'inviteCode',
+        'authorName',
+        'chapterSlug',
+        'chapterLabel',
+        'paragraphIndex',
+        'paragraphPreview',
+        'text',
+        'status',
+        'createdAt',
+        'updatedAt'
+      ];
+      return hasOnlyAllowedFields(allowedFields) &&
+             hasRequiredFields(allowedFields) &&
+             isValidString(data.inviteCode, 1, 64) &&
+             isValidString(data.authorName, 1, 100) &&
+             isValidString(data.chapterSlug, 1, 64) &&
+             isValidString(data.chapterLabel, 1, 128) &&
+             data.paragraphIndex is int &&
+             data.paragraphIndex >= 0 &&
+             data.paragraphIndex <= 100000 &&
+             isValidString(data.paragraphPreview, 0, 500) &&
+             isValidString(data.text, 1, 4000) &&
+             data.status in ['open', 'resolved', 'archived'] &&
+             isValidTimestampOrString(data.createdAt) &&
+             isValidTimestampOrString(data.updatedAt);
+    }
+
+    // ===============================================================
+    // Collection Rules
+    // ===============================================================
+
+    // 1. invites/{inviteCode}
+    // Clients may look up a single active invite by exact ID; enumeration and writes are denied.
+    match /invites/{inviteCode} {
+      allow get: if resource != null && resource.data.active == true;
+      allow list: if false;
+      allow create, update, delete: if false;
+    }
+
+    // 2. readers/{inviteCode}
+    // Persistent reading state scoped to an active invite code.
+    match /readers/{inviteCode} {
+      allow get: if isActiveInvite(inviteCode);
+      allow list: if false;
+      allow create: if isActiveInvite(inviteCode) &&
+                       isValidReaderState(request.resource.data);
+      allow update: if isActiveInvite(inviteCode) &&
+                       isValidReaderState(request.resource.data);
+      allow delete: if false;
+    }
+
+    // 3. comments/{commentId}
+    // Paragraph-level beta-reader comments.
+    match /comments/{commentId} {
+      allow get: if true;
+      allow list: if request.query.limit == null || request.query.limit <= 500;
+      allow create: if isValidComment(request.resource.data) &&
+                       isActiveInvite(request.resource.data.inviteCode) &&
+                       request.resource.data.status == 'open';
+      allow update: if isValidComment(request.resource.data) &&
+                       isActiveInvite(resource.data.inviteCode) &&
+                       areImmutableFieldsUnchanged([
+                         'inviteCode',
+                         'authorName',
+                         'chapterSlug',
+                         'chapterLabel',
+                         'paragraphIndex',
+                         'paragraphPreview',
+                         'createdAt'
+                       ]) &&
+                       request.resource.data.diff(resource.data).affectedKeys().hasOnly([
+                         'text',
+                         'status',
+                         'updatedAt'
+                       ]);
+      allow delete: if false;
+    }
+  }
+}
