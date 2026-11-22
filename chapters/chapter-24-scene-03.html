@@ -40,6 +40,222 @@
 });"></script>
 
 <style>
+/* Beta Reader — Persistent State & Side Comment Card */
+.st-beta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid rgba(184, 120, 90, 0.45);
+  background: rgba(184, 120, 90, 0.1);
+  color: #b8785a;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.st-beta-pill:hover {
+  background: rgba(184, 120, 90, 0.2);
+}
+.st-beta-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4caf50;
+  display: inline-block;
+}
+.st-resume-banner {
+  max-width: 740px;
+  margin: 0.85rem auto;
+  padding: 0.75rem 1.1rem;
+  border-radius: 6px;
+  border: 1px solid rgba(184, 120, 90, 0.4);
+  background: rgba(184, 120, 90, 0.09);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.86rem;
+}
+.st-resume-btn {
+  background: #b8785a;
+  color: #fff !important;
+  text-decoration: none;
+  padding: 0.35rem 0.9rem;
+  border-radius: 4px;
+  font-size: 0.82rem;
+  font-weight: 500;
+}
+.st-resume-btn:hover { background: #c9896b; }
+
+body.st-beta-active .chapter-text p.st-commentable-p {
+  position: relative;
+  cursor: pointer;
+  border-left: 2px solid transparent;
+  padding-left: 0.55rem;
+  margin-left: -0.55rem;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+  border-radius: 3px;
+}
+body.st-beta-active .chapter-text p.st-commentable-p:hover {
+  border-left-color: rgba(184, 120, 90, 0.65);
+  background: rgba(184, 120, 90, 0.05);
+}
+body.st-beta-active .chapter-text p.st-commentable-p.st-p-selected {
+  border-left-color: #b8785a;
+  background: rgba(184, 120, 90, 0.1);
+}
+.st-p-badge {
+  position: absolute;
+  right: -1.75rem;
+  top: 0.25rem;
+  min-width: 1.25rem;
+  height: 1.25rem;
+  padding: 0 0.32rem;
+  border-radius: 999px;
+  background: #b8785a;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  line-height: 1.25rem;
+  text-align: center;
+  pointer-events: none;
+}
+@media (max-width: 760px) {
+  .st-p-badge { right: 0.15rem; top: -0.55rem; }
+}
+
+#st-comment-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: min(390px, 94vw);
+  height: 100vh;
+  background: #faf8f5;
+  color: #222;
+  border-left: 1px solid rgba(184, 120, 90, 0.35);
+  box-shadow: -8px 0 28px rgba(0, 0, 0, 0.16);
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(105%);
+  transition: transform 0.2s ease;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+#st-comment-drawer.open { transform: translateX(0); }
+html.dark-mode #st-comment-drawer {
+  background: #1a1e26;
+  color: #e6e2da;
+  border-left-color: rgba(184, 120, 90, 0.4);
+  box-shadow: -8px 0 32px rgba(0, 0, 0, 0.55);
+}
+.st-drawer-head {
+  padding: 0.9rem 1.1rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.st-drawer-title { font-weight: 600; font-size: 0.92rem; color: #b8785a; }
+.st-drawer-close {
+  background: none;
+  border: none;
+  color: inherit;
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.15rem 0.4rem;
+  opacity: 0.7;
+}
+.st-drawer-close:hover { opacity: 1; }
+.st-drawer-quote {
+  margin: 0.85rem 1.1rem 0;
+  padding: 0.65rem 0.8rem;
+  border-left: 3px solid #b8785a;
+  background: rgba(184, 120, 90, 0.08);
+  font-family: Georgia, serif;
+  font-size: 0.84rem;
+  line-height: 1.45;
+  max-height: 6.5rem;
+  overflow-y: auto;
+  border-radius: 0 4px 4px 0;
+}
+.st-drawer-thread {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.9rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+.st-comment-item {
+  padding: 0.65rem 0.8rem;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 128, 128, 0.22);
+  background: rgba(128, 128, 128, 0.05);
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+.st-comment-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.74rem;
+  opacity: 0.72;
+  margin-bottom: 0.3rem;
+}
+.st-comment-author { font-weight: 600; color: #b8785a; }
+.st-drawer-form {
+  padding: 0.85rem 1.1rem 1.1rem;
+  border-top: 1px solid rgba(128, 128, 128, 0.2);
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.st-drawer-form textarea {
+  width: 100%;
+  min-height: 82px;
+  resize: vertical;
+  padding: 0.6rem 0.7rem;
+  border-radius: 6px;
+  border: 1px solid rgba(128, 128, 128, 0.35);
+  background: transparent;
+  color: inherit;
+  font-family: inherit;
+  font-size: 0.88rem;
+  box-sizing: border-box;
+}
+.st-drawer-form textarea:focus {
+  outline: none;
+  border-color: #b8785a;
+}
+.st-drawer-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+}
+.st-save-btn {
+  background: #b8785a;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 0.48rem 1rem;
+  font-size: 0.84rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+.st-save-btn:hover { background: #c9896b; }
+.st-save-btn:disabled { opacity: 0.55; cursor: default; }
+.st-drawer-status { font-size: 0.76rem; opacity: 0.75; }
+
+</style>
+
+<style>
 :root {
     --reader-font-size: 1.1rem;
     --bg-primary: #fafaf8;
@@ -1001,5 +1217,390 @@ async function copyChapterText(txtUrl, btn) {
   }
 }
 </script>
+<script type="module">
+(function() {
+  const FIREBASE_CONFIG = {
+    apiKey: "AIzaSyAoD2KGxzmazHExX3RPILoCoShwocjcxkw",
+    authDomain: "string-theory-reader.firebaseapp.com",
+    projectId: "string-theory-reader",
+    storageBucket: "string-theory-reader.firebasestorage.app",
+    messagingSenderId: "753683051584",
+    appId: "1:753683051584:web:ffe959c1a9e9fe40821ba5"
+  };
+
+  const INVITE_KEY = "st-invite-code";
+  const NAME_KEY = "st-invite-name";
+
+  const params = new URLSearchParams(window.location.search);
+  const urlInvite = (params.get("invite") || "").trim();
+  if (urlInvite) {
+    try { localStorage.setItem(INVITE_KEY, urlInvite); } catch (_) {}
+    params.delete("invite");
+    const cleanUrl = window.location.pathname + (params.toString() ? "?" + params.toString() : "") + window.location.hash;
+    window.history.replaceState({}, "", cleanUrl);
+  }
+
+  let inviteCode = "";
+  try { inviteCode = (localStorage.getItem(INVITE_KEY) || "").trim(); } catch (_) {}
+
+  function getChapterSlug() {
+    const m = window.location.pathname.match(/\/chapters\/([^\/]+)\.html$/);
+    return m ? m[1] : null;
+  }
+
+  function addSignInPrompt() {
+    const footer = document.querySelector("footer");
+    if (!footer || document.getElementById("st-signin-trigger")) return;
+    const btn = document.createElement("button");
+    btn.id = "st-signin-trigger";
+    btn.className = "st-beta-pill";
+    btn.textContent = "Beta Reader Code";
+    btn.onclick = function() {
+      const code = window.prompt("Enter your beta reader invite code:");
+      if (code && code.trim()) {
+        try { localStorage.setItem(INVITE_KEY, code.trim()); } catch (_) {}
+        window.location.reload();
+      }
+    };
+    footer.appendChild(btn);
+  }
+
+  if (!inviteCode) {
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", addSignInPrompt);
+    } else {
+      addSignInPrompt();
+    }
+    return;
+  }
+
+  async function initBetaReader() {
+    const [{ initializeApp }, fs] = await Promise.all([
+      import("https://www.gstatic.com/firebasejs/10.14.1/firebase-app.js"),
+      import("https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore.js")
+    ]);
+    const app = initializeApp(FIREBASE_CONFIG);
+    const db = fs.getFirestore(app);
+
+    // 1. Validate invite
+    const inviteRef = fs.doc(db, "invites", inviteCode);
+    let inviteSnap;
+    try {
+      inviteSnap = await fs.getDoc(inviteRef);
+    } catch (err) {
+      console.warn("Beta invite lookup failed:", err);
+      return;
+    }
+    if (!inviteSnap.exists() || inviteSnap.data().active !== true) {
+      try { localStorage.removeItem(INVITE_KEY); localStorage.removeItem(NAME_KEY); } catch (_) {}
+      addSignInPrompt();
+      return;
+    }
+
+    const readerName = String(inviteSnap.data().name || "Reader").trim();
+    try { localStorage.setItem(NAME_KEY, readerName); } catch (_) {}
+    document.body.classList.add("st-beta-active");
+
+    // 2. Render status pill in header or toolbar
+    const pillHost = document.querySelector(".reader-controls") || document.querySelector("header .meta") || document.querySelector("header");
+    if (pillHost && !document.getElementById("st-reader-pill")) {
+      const pill = document.createElement("button");
+      pill.id = "st-reader-pill";
+      pill.className = "st-beta-pill";
+      pill.title = "Signed in as " + readerName + " (click to sign out)";
+      pill.innerHTML = '<span class="st-beta-dot"></span><span></span>';
+      pill.querySelector("span:last-child").textContent = readerName + " · Synced";
+      pill.onclick = function() {
+        if (window.confirm("Sign out beta reader mode for " + readerName + "?")) {
+          try { localStorage.removeItem(INVITE_KEY); localStorage.removeItem(NAME_KEY); } catch (_) {}
+          window.location.reload();
+        }
+      };
+      pillHost.appendChild(pill);
+    }
+
+    const readerRef = fs.doc(db, "readers", inviteCode);
+    let readerState = {};
+    try {
+      const rSnap = await fs.getDoc(readerRef);
+      if (rSnap.exists()) readerState = rSnap.data() || {};
+    } catch (_) {}
+
+    // Restore preferences if saved remotely
+    if (readerState.theme && typeof updateThemeUI === "function") {
+      const wantDark = readerState.theme === "dark";
+      const hasDark = document.documentElement.classList.contains("dark-mode");
+      if (wantDark !== hasDark) {
+        document.documentElement.classList.toggle("dark-mode", wantDark);
+        try { localStorage.setItem("st-theme", readerState.theme); } catch (_) {}
+        updateThemeUI(wantDark);
+      }
+    }
+    if (typeof readerState.fontSize === "number" && typeof applyFontSize === "function") {
+      applyFontSize(readerState.fontSize);
+    }
+
+    const chapterSlug = getChapterSlug();
+    const isIndex = !chapterSlug;
+
+    // 3. On index page, show "Continue Reading" banner if saved
+    if (isIndex && readerState.lastChapterSlug) {
+      const header = document.querySelector("header");
+      if (header) {
+        const banner = document.createElement("div");
+        banner.className = "st-resume-banner";
+        const label = readerState.lastChapterSlug.replace(/-/g, " ").replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+        const pInfo = typeof readerState.lastParagraphIndex === "number" ? " · paragraph " + (readerState.lastParagraphIndex + 1) : "";
+        banner.innerHTML = '<span>Welcome back, <strong></strong> — last read <em></em></span><a class="st-resume-btn">Continue Reading &#8594;</a>';
+        banner.querySelector("strong").textContent = readerName;
+        banner.querySelector("em").textContent = label + pInfo;
+        banner.querySelector("a").href = "chapters/" + encodeURIComponent(readerState.lastChapterSlug) + ".html?resume=1";
+        header.insertAdjacentElement("afterend", banner);
+      }
+      return;
+    }
+
+    if (!chapterSlug) return;
+
+    // 4. Tag commentable paragraphs in .chapter-text
+    const chapterText = document.querySelector(".chapter-text");
+    if (!chapterText) return;
+    const paras = Array.from(chapterText.querySelectorAll("p")).filter(function(p) {
+      if (p.closest(".manuscript-manifest, .chapter-analysis, .chapter-sentinel")) return false;
+      if (p.classList.contains("location") || p.classList.contains("tempo-1") || p.classList.contains("tempo-2") || p.classList.contains("scene-break")) return false;
+      return (p.textContent || "").trim().length > 0;
+    });
+    paras.forEach(function(p, idx) {
+      p.dataset.paraIdx = String(idx);
+      p.classList.add("st-commentable-p");
+    });
+
+    // Scroll to saved paragraph if ?resume=1
+    if (params.get("resume") === "1" && readerState.lastChapterSlug === chapterSlug && typeof readerState.lastParagraphIndex === "number") {
+      const targetP = paras[readerState.lastParagraphIndex];
+      if (targetP) {
+        setTimeout(function() { targetP.scrollIntoView({ behavior: "smooth", block: "center" }); }, 150);
+      }
+    }
+
+    // 5. Save reading progress (debounced)
+    function currentTopParagraphIndex() {
+      const mid = window.innerHeight * 0.3;
+      let best = 0;
+      for (let i = 0; i < paras.length; i++) {
+        const r = paras[i].getBoundingClientRect();
+        if (r.top <= mid) best = i;
+        else break;
+      }
+      return best;
+    }
+
+    let saveTimer = null;
+    async function persistProgress() {
+      const theme = document.documentElement.classList.contains("dark-mode") ? "dark" : "light";
+      let fsVal = 1.1;
+      try { fsVal = parseFloat(localStorage.getItem("st-font-size")) || 1.1; } catch (_) {}
+      try {
+        await fs.setDoc(readerRef, {
+          name: readerName,
+          lastChapterSlug: chapterSlug,
+          lastParagraphIndex: currentTopParagraphIndex(),
+          lastScrollY: Math.round(window.scrollY || 0),
+          theme: theme,
+          fontSize: fsVal,
+          updatedAt: fs.serverTimestamp()
+        }, { merge: true });
+      } catch (err) {
+        console.warn("Progress sync failed:", err);
+      }
+    }
+
+    function scheduleProgressSave() {
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(persistProgress, 1500);
+    }
+    window.addEventListener("scroll", scheduleProgressSave, { passive: true });
+    document.addEventListener("visibilitychange", function() {
+      if (document.visibilityState === "hidden") persistProgress();
+    });
+    persistProgress();
+
+    // 6. Side Comment Card Drawer
+    const drawer = document.createElement("aside");
+    drawer.id = "st-comment-drawer";
+    drawer.setAttribute("aria-label", "Paragraph comments");
+    drawer.innerHTML = [
+      '<div class="st-drawer-head">',
+      '  <span class="st-drawer-title">Paragraph Note</span>',
+      '  <button class="st-drawer-close" aria-label="Close">&times;</button>',
+      '</div>',
+      '<div class="st-drawer-quote"></div>',
+      '<div class="st-drawer-thread"></div>',
+      '<form class="st-drawer-form">',
+      '  <textarea placeholder="Write your note for Gabriel…" maxlength="4000"></textarea>',
+      '  <div class="st-drawer-actions">',
+      '    <span class="st-drawer-status"></span>',
+      '    <button type="submit" class="st-save-btn">Save Note</button>',
+      '  </div>',
+      '</form>'
+    ].join("");
+    document.body.appendChild(drawer);
+
+    const quoteEl = drawer.querySelector(".st-drawer-quote");
+    const threadEl = drawer.querySelector(".st-drawer-thread");
+    const formEl = drawer.querySelector(".st-drawer-form");
+    const textareaEl = drawer.querySelector("textarea");
+    const statusEl = drawer.querySelector(".st-drawer-status");
+    const saveBtn = drawer.querySelector(".st-save-btn");
+    const titleEl = drawer.querySelector(".st-drawer-title");
+    drawer.querySelector(".st-drawer-close").onclick = function() {
+      drawer.classList.remove("open");
+      paras.forEach(function(el) { el.classList.remove("st-p-selected"); });
+    };
+
+    let activeParaIdx = null;
+    const commentsByPara = new Map();
+
+    function renderBadges() {
+      paras.forEach(function(p, idx) {
+        const old = p.querySelector(".st-p-badge");
+        if (old) old.remove();
+        const list = commentsByPara.get(idx) || [];
+        if (list.length > 0) {
+          const badge = document.createElement("span");
+          badge.className = "st-p-badge";
+          badge.textContent = String(list.length);
+          p.appendChild(badge);
+        }
+      });
+    }
+
+    function renderThread(idx) {
+      const list = commentsByPara.get(idx) || [];
+      threadEl.innerHTML = "";
+      if (list.length === 0) {
+        const empty = document.createElement("div");
+        empty.style.opacity = "0.65";
+        empty.style.fontSize = "0.84rem";
+        empty.textContent = "No notes on this paragraph yet.";
+        threadEl.appendChild(empty);
+        return;
+      }
+      list.forEach(function(c) {
+        const item = document.createElement("div");
+        item.className = "st-comment-item";
+        const meta = document.createElement("div");
+        meta.className = "st-comment-meta";
+        const author = document.createElement("span");
+        author.className = "st-comment-author";
+        author.textContent = c.authorName || "Reader";
+        const when = document.createElement("span");
+        const dt = c.createdAt && c.createdAt.toDate ? c.createdAt.toDate() : null;
+        when.textContent = dt ? dt.toLocaleDateString() : "just now";
+        meta.appendChild(author);
+        meta.appendChild(when);
+        const body = document.createElement("div");
+        body.textContent = c.text || "";
+        item.appendChild(meta);
+        item.appendChild(body);
+        threadEl.appendChild(item);
+      });
+    }
+
+    async function loadChapterComments() {
+      try {
+        const q = fs.query(
+          fs.collection(db, "comments"),
+          fs.where("chapterSlug", "==", chapterSlug)
+        );
+        const snap = await fs.getDocs(q);
+        commentsByPara.clear();
+        snap.forEach(function(d) {
+          const data = d.data();
+          const idx = Number(data.paragraphIndex);
+          if (!Number.isInteger(idx)) return;
+          if (!commentsByPara.has(idx)) commentsByPara.set(idx, []);
+          commentsByPara.get(idx).push(data);
+        });
+        commentsByPara.forEach(function(arr) {
+          arr.sort(function(a, b) {
+            const ta = a.createdAt && a.createdAt.seconds ? a.createdAt.seconds : 0;
+            const tb = b.createdAt && b.createdAt.seconds ? b.createdAt.seconds : 0;
+            return ta - tb;
+          });
+        });
+        renderBadges();
+        if (activeParaIdx !== null) renderThread(activeParaIdx);
+      } catch (err) {
+        console.warn("Could not load comments:", err);
+      }
+    }
+
+    paras.forEach(function(p, idx) {
+      p.addEventListener("click", function(e) {
+        if (e.target && e.target.closest("a")) return;
+        activeParaIdx = idx;
+        paras.forEach(function(el) { el.classList.remove("st-p-selected"); });
+        p.classList.add("st-p-selected");
+        titleEl.textContent = "Paragraph " + (idx + 1);
+        const raw = (p.textContent || "").trim();
+        quoteEl.textContent = raw.length > 200 ? raw.slice(0, 200) + "…" : raw;
+        statusEl.textContent = "";
+        renderThread(idx);
+        drawer.classList.add("open");
+        setTimeout(function() { textareaEl.focus(); }, 220);
+      });
+    });
+
+    formEl.addEventListener("submit", async function(e) {
+      e.preventDefault();
+      if (activeParaIdx === null) return;
+      const text = (textareaEl.value || "").trim();
+      if (!text) return;
+      saveBtn.disabled = true;
+      statusEl.textContent = "Saving…";
+      const heading = document.querySelector(".chapter-heading");
+      const chNum = document.querySelector(".chapter-number");
+      const chapterLabel = [chNum ? chNum.textContent.trim() : "", heading ? heading.textContent.trim() : ""].filter(Boolean).join(": ") || chapterSlug;
+      const pText = (paras[activeParaIdx].textContent || "").trim().slice(0, 240);
+      const payload = {
+        inviteCode: inviteCode,
+        authorName: readerName,
+        chapterSlug: chapterSlug,
+        chapterLabel: chapterLabel.slice(0, 140),
+        paragraphIndex: activeParaIdx,
+        paragraphPreview: pText,
+        text: text,
+        status: "open",
+        createdAt: fs.serverTimestamp(),
+        updatedAt: fs.serverTimestamp()
+      };
+      try {
+        await fs.addDoc(fs.collection(db, "comments"), payload);
+        textareaEl.value = "";
+        statusEl.textContent = "Saved";
+        if (!commentsByPara.has(activeParaIdx)) commentsByPara.set(activeParaIdx, []);
+        commentsByPara.get(activeParaIdx).push(payload);
+        renderBadges();
+        renderThread(activeParaIdx);
+      } catch (err) {
+        console.error("Comment save failed:", err);
+        statusEl.textContent = "Could not save (" + (err.code || "error") + ")";
+      } finally {
+        saveBtn.disabled = false;
+      }
+    });
+
+    await loadChapterComments();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initBetaReader);
+  } else {
+    initBetaReader();
+  }
+})();
+</script>
+
 </body>
 </html>
