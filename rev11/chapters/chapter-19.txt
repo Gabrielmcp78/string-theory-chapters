@@ -7,14 +7,14 @@ Title:           The Symmetry of Violence
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,530
-Paragraph Count: 103
+Word Count:      3,518
+Paragraph Count: 100
 Scene Count:     4
 
-Scene 1: 19.1  The SARABANDE  --  Words 14–704  |  Paragraphs 2–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html
-Scene 2: 19.2  The Grid  --  Words 705–1,349  |  Paragraphs 15–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
-Scene 3: 19.3  Invitations of Ill  --  Words 1,350–2,003  |  Paragraphs 31–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
-Scene 4: 19.4  The Reckoning  --  Words 2,004–3,530  |  Paragraphs 44–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-04.html
+Scene 1: 19.1  The SARABANDE  --  Words 14–692  |  Paragraphs 2–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-19-scene-01.html
+Scene 2: 19.2  The Grid  --  Words 693–1,337  |  Paragraphs 15–27  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-19-scene-02.html
+Scene 3: 19.3  Invitations of Ill  --  Words 1,338–1,991  |  Paragraphs 28–40  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-19-scene-03.html
+Scene 4: 19.4  The Reckoning  --  Words 1,992–3,518  |  Paragraphs 41–100  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-19-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -24,7 +24,7 @@ Johann Sebastian Bach Cello Suite No. 1 in G Major BWV 1007, Sarabande
 
 19.1  The SARABANDE
 
-The opening chord settled into the room with harmonic gravity, an expansive tenth so stark and resonant that the space surrounding the instrument seemed to melt towards the source. David’s eyes closed, obeying the pull of that interval. The Sarabande stood and it breathed, and inside its hollow architecture he found space, the kind of space denied him for years.
+The opening chord settled into the room with harmonic gravity, an expansive tenth so stark and resonant that the space around it seemed to deepen. David’s eyes closed, obeying the pull of that interval. The Sarabande stood and breathed, and inside its hollow architecture he found space, the kind of space denied him for years.
 
 The geometry learned at nine years old rose in his hands, steady and familiar. His father’s hand was there too, bringing with it a sense of pipe tobacco, warmth, the weight of a body that had not yet learned it could leave.
 
@@ -32,11 +32,11 @@ Easy now. Let it breathe. Don’t choke it.
 
 The memory folded itself into the present without warning, as if the sonority itself had summoned it.
 
-The triple pulse moved gently under his bow. Three steps, breathe; three steps, breathe. It opened before him like a long reach of shoreline at low tide, the sea drawn back into something slower and more sovereign, a largo deep enough to stand, to remain while everything else moved around it. Each phrase arrived with its own tide, advancing, withdrawing, leaving some portion of him altered in its wake. He did not chase them. He let them come, and when they did, he simply stepped aside. As his arm moved. The music moved through him. And he watched from a place within himself he had not entered in years, before the proofs, before the grants, before he had learned that the world paid more readily for certainty than for truth.
+The triple pulse moved gently under his bow. Three steps, breathe; three steps, breathe. It opened before him like a long reach of shoreline at low tide, the sea drawn back into something slower and more sovereign, a largo so deep it seemed to remain while everything else moved around it. Each phrase arrived with its own tide, advancing, withdrawing, leaving some portion of him altered in its wake. He did not chase them. He let them come, and when they did, he stepped aside. His arm moved. The music moved through him. And he watched from a place within himself he had not entered in years, before the proofs, before the grants, before he had learned that the world paid more readily for certainty than for truth.
 
-The phrases leaned into their suspensions with a patience that made no physical demand of him. The dissonance hung unresolved in the bare interval, the open resonance holding emptiness and promise inside the same acoustic frame. The open strings carried their unvarnished texture, their refusal to flatter him, and he let them. Their austerity was a kind of truth, a brazen tone weaving through small stings of inevitability, of possibility, of pain and prayer.
+The phrases leaned into their suspensions with a patience that made physical demand of him. The dissonance hung unresolved in the bare interval, the open resonance holding emptiness and promise inside the same acoustic frame. The open strings carried their unvarnished texture, their refusal to flatter him, and he let them. Their austerity was a kind of truth, a brazen tone weaving through small stings of inevitability, possibility, prayer.
 
-Something long braced inside him, some filament stretched across the hollow of his ribs, began to release itself, fiber by fiber.
+Something long braced inside him, some filament stretched across the hollow of his ribs, began to release itself fiber by fiber.
 
 In the rests between phrases, the Sarabande opened small windows of silence, forming outlines of absence. The shape of a voice that should be there. His hands knew a second part unwritten in the score, a viola line built from years of Wednesday evenings and late rehearsals. Celeste’s intervals. Now, meeting only the room’s bare patience, he played through the space where she would have replied and let it stand open. The restraint cost him something he felt in his sternum, a resonance of regret.
 
@@ -57,11 +57,7 @@ Above the atmosphere, a solar band spilled across the dark.
 
 Wires held, taut and humming, until they thinned and separated in blue white fractures that moved outward in sudden, branching vectors, and the failure, once it began, spoke to the next transformer in the language transformers understand: voltage. The next transformer listened and agreed.
 
-Inside the apartment, Bach cradled David inside the arc of each phrase, his bow traveling steadily, shoulders loose, pulse aligned to the grave tread of the dance that had forgotten how to dance and chosen instead to endure.
-
-Three hundred and three years had passed since the master completed the work. Three minutes of notes carried those centuries between the two men, each bar arriving with the authority of a hand extended through time. Bach had David entranced. Each note flowed from the same sixteen bars, from a lineage of sound and composition, from the foundations of the Western musical world.
-
-The happening of a power grid belonged to some other order of reality. He did not hear the first substation go, nor the second, nor the third. Over the next three minutes, 744 transformers throughout greater upstate New York would fail in sequence, and 196,884 such marvels of electrical engineering worldwide would be rendered useless, each collapsed node persuading the next in a widening grammar of overload, repetition, and surrender. It was order entering its own catastrophic variation, a prelude for a force still gathering beyond sight.
+Inside the apartment, Bach cradled David inside the arc of each phrase, his bow traveling steadily, shoulders loose, pulse aligned to the grave tread of the dance that had forgotten how to dance and chosen instead to endure. Three hundred and three years had passed since the master completed the work. Three minutes of notes carried those centuries between the two men, each bar arriving with the authority of a hand extended through time. Bach had David entranced. Each note flowed from the same sixteen bars, from a lineage of sound and composition, from the foundations of the Western musical world. The happening of a power grid belonged to some other order of reality. He did not hear the first substation go, nor the second, nor the third. Over the next three minutes, 744 transformers throughout greater upstate New York would fail in sequence, and 196,884 such marvels of electrical engineering worldwide would be rendered useless, each collapsed node persuading the next in a widening grammar of overload, repetition, and surrender. It was order entering its own catastrophic variation, a prelude for a force still gathering beyond sight.
 
 The final descent came with the inward fold that Bach demanded. David let it settle exactly where it wished to land.
 
@@ -75,9 +71,7 @@ He was, in every real sense, exuding his own field. Heart, mind, sorrow, and the
 
 His grief had found its carrier.
 
-The storm outside had found its mark. Frequency inscribed itself through pulse, breath, tendon, string, and resonant wood, each movement of hand and heart slipping into alignment with the rising swell of the heliosphere. The vessel had been tempered and, in playing, was being tuned.
-
-David had never thought to question the direction of the performance. Never stopped to ask which between them was instrument and which was player.
+The storm outside had found its mark. Frequency inscribed itself through pulse, breath, tendon, string, and resonant wood, each movement of hand and heart slipping into alignment with the rising swell of the heliosphere. The vessel had been tempered and, in playing, was being tuned. David had never thought to question the direction of the performance. Never stopped to ask which between them was instrument and which was player.
 
 Whatever came next had already begun beneath the cello’s body pressed against his chest. A second pulse insisted itself there. Density turning volatile. Shame stirring into momentum. His grief was nearing a threshold, ready to break loose. All of it, the weight of his father’s death, the woman he couldn’t hold, the slow unraveling of every human thread he’d ignored, had gathered into something newly palpable.
 
