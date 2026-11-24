@@ -88,11 +88,12 @@ body.st-beta-active .chapter-text p.st-commentable-p.st-p-selected {
   .st-p-badge { right: 0.15rem; top: -0.55rem; }
 }
 
-#st-comment-drawer {
+#st-comment-drawer,
+#st-inbox-drawer {
   position: fixed;
   top: 0;
   right: 0;
-  width: min(390px, 94vw);
+  width: min(410px, 94vw);
   height: 100vh;
   background: #faf8f5;
   color: #222;
@@ -105,13 +106,37 @@ body.st-beta-active .chapter-text p.st-commentable-p.st-p-selected {
   transition: transform 0.2s ease;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
-#st-comment-drawer.open { transform: translateX(0); }
-html.dark-mode #st-comment-drawer {
+#st-comment-drawer.open,
+#st-inbox-drawer.open { transform: translateX(0); }
+html.dark-mode #st-comment-drawer,
+html.dark-mode #st-inbox-drawer {
   background: #1a1e26;
   color: #e6e2da;
   border-left-color: rgba(184, 120, 90, 0.4);
   box-shadow: -8px 0 32px rgba(0, 0, 0, 0.55);
 }
+.st-inbox-group {
+  margin-bottom: 1rem;
+}
+.st-inbox-ch-title {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #b8785a;
+  margin-bottom: 0.45rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgba(184, 120, 90, 0.25);
+}
+.st-inbox-jump {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-size: 0.76rem;
+  color: #b8785a !important;
+  text-decoration: none;
+  font-weight: 500;
+}
+.st-inbox-jump:hover { text-decoration: underline; }
 .st-drawer-head {
   padding: 0.9rem 1.1rem;
   border-bottom: 1px solid rgba(128, 128, 128, 0.2);

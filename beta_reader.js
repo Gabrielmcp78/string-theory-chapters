@@ -79,12 +79,23 @@
     }
 
     const readerName = String(inviteSnap.data().name || "Reader").trim();
+    const isAuthor = inviteSnap.data().role === "author" || inviteCode === "gabriel-test-01";
     try { localStorage.setItem(NAME_KEY, readerName); } catch (_) {}
     document.body.classList.add("st-beta-active");
+
+    const chapterSlug = getChapterSlug();
+    const isIndex = !chapterSlug;
 
     // 2. Render status pill in header or toolbar
     const pillHost = document.querySelector(".reader-controls") || document.querySelector("header .meta") || document.querySelector("header");
     if (pillHost && !document.getElementById("st-reader-pill")) {
+      if (isAuthor) {
+        const inboxBtn = document.createElement("button");
+        inboxBtn.id = "st-inbox-btn";
+        inboxBtn.className = "st-beta-pill";
+        inboxBtn.textContent = "All Reader Notes";
+        pillHost.appendChild(inboxBtn);
+      }
       const pill = document.createElement("button");
       pill.id = "st-reader-pill";
       pill.className = "st-beta-pill";
@@ -98,6 +109,101 @@
         }
       };
       pillHost.appendChild(pill);
+    }
+
+    if (isAuthor) {
+      const inboxDrawer = document.createElement("aside");
+      inboxDrawer.id = "st-inbox-drawer";
+      inboxDrawer.setAttribute("aria-label", "All reader notes");
+      inboxDrawer.innerHTML = [
+        '<div class="st-drawer-head">',
+        '  <span class="st-drawer-title">All Reader Notes</span>',
+        '  <button class="st-drawer-close" aria-label="Close">&times;</button>',
+        '</div>',
+        '<div class="st-drawer-thread" id="st-inbox-body"><div style="opacity:0.65;font-size:0.85rem">Loading notes…</div></div>'
+      ].join("");
+      document.body.appendChild(inboxDrawer);
+      inboxDrawer.querySelector(".st-drawer-close").onclick = function() {
+        inboxDrawer.classList.remove("open");
+      };
+      const inboxBtnEl = document.getElementById("st-inbox-btn");
+      if (inboxBtnEl) {
+        inboxBtnEl.onclick = async function() {
+          inboxDrawer.classList.add("open");
+          const bodyEl = document.getElementById("st-inbox-body");
+          bodyEl.innerHTML = '<div style="opacity:0.65;font-size:0.85rem">Loading notes…</div>';
+          try {
+            const snap = await fs.getDocs(fs.query(fs.collection(db, "comments"), fs.limit(500)));
+            const all = [];
+            snap.forEach(function(d) { all.push(d.data()); });
+            if (all.length === 0) {
+              bodyEl.innerHTML = '<div style="opacity:0.65;font-size:0.85rem">No reader notes yet.</div>';
+              return;
+            }
+            all.sort(function(a, b) {
+              const sc = String(a.chapterSlug || "").localeCompare(String(b.chapterSlug || ""));
+              if (sc !== 0) return sc;
+              const pd = (Number(a.paragraphIndex) || 0) - (Number(b.paragraphIndex) || 0);
+              if (pd !== 0) return pd;
+              const ta = a.createdAt && a.createdAt.seconds ? a.createdAt.seconds : 0;
+              const tb = b.createdAt && b.createdAt.seconds ? b.createdAt.seconds : 0;
+              return ta - tb;
+            });
+            const grouped = new Map();
+            all.forEach(function(c) {
+              const key = c.chapterLabel || c.chapterSlug || "Unknown";
+              if (!grouped.has(key)) grouped.set(key, []);
+              grouped.get(key).push(c);
+            });
+            bodyEl.innerHTML = "";
+            grouped.forEach(function(items, chTitle) {
+              const grp = document.createElement("div");
+              grp.className = "st-inbox-group";
+              const hdr = document.createElement("div");
+              hdr.className = "st-inbox-ch-title";
+              hdr.textContent = chTitle + " (" + items.length + ")";
+              grp.appendChild(hdr);
+              items.forEach(function(c) {
+                const card = document.createElement("div");
+                card.className = "st-comment-item";
+                const meta = document.createElement("div");
+                meta.className = "st-comment-meta";
+                const auth = document.createElement("span");
+                auth.className = "st-comment-author";
+                auth.textContent = (c.authorName || "Reader") + " · ¶" + ((Number(c.paragraphIndex) || 0) + 1);
+                const when = document.createElement("span");
+                const dt = c.createdAt && c.createdAt.toDate ? c.createdAt.toDate() : null;
+                when.textContent = dt ? dt.toLocaleDateString() : "";
+                meta.appendChild(auth);
+                meta.appendChild(when);
+                const quote = document.createElement("div");
+                quote.style.fontSize = "0.76rem";
+                quote.style.opacity = "0.72";
+                quote.style.fontStyle = "italic";
+                quote.style.marginBottom = "0.3rem";
+                const pv = String(c.paragraphPreview || "");
+                quote.textContent = pv.length > 110 ? "“" + pv.slice(0, 110) + "…”" : (pv ? "“" + pv + "”" : "");
+                const txt = document.createElement("div");
+                txt.textContent = c.text || "";
+                const jump = document.createElement("a");
+                jump.className = "st-inbox-jump";
+                const prefix = isIndex ? "chapters/" : "";
+                jump.href = prefix + encodeURIComponent(c.chapterSlug || "") + ".html?para=" + (Number(c.paragraphIndex) || 0);
+                jump.textContent = "Jump to paragraph →";
+                card.appendChild(meta);
+                if (pv) card.appendChild(quote);
+                card.appendChild(txt);
+                card.appendChild(jump);
+                grp.appendChild(card);
+              });
+              bodyEl.appendChild(grp);
+            });
+          } catch (err) {
+            bodyEl.innerHTML = '<div style="color:#c66;font-size:0.85rem">Failed to load notes.</div>';
+            console.warn("Inbox load failed:", err);
+          }
+        };
+      }
     }
 
     const readerRef = fs.doc(db, "readers", inviteCode);
@@ -120,9 +226,6 @@
     if (typeof readerState.fontSize === "number" && typeof applyFontSize === "function") {
       applyFontSize(readerState.fontSize);
     }
-
-    const chapterSlug = getChapterSlug();
-    const isIndex = !chapterSlug;
 
     // 3. On index page, show "Continue Reading" banner if saved
     if (isIndex && readerState.lastChapterSlug) {
@@ -373,6 +476,17 @@
     });
 
     await loadChapterComments();
+
+    const jumpParaRaw = params.get("para");
+    if (jumpParaRaw !== null) {
+      const jumpIdx = Number(jumpParaRaw);
+      if (Number.isInteger(jumpIdx) && paras[jumpIdx]) {
+        setTimeout(function() {
+          paras[jumpIdx].scrollIntoView({ behavior: "smooth", block: "center" });
+          paras[jumpIdx].click();
+        }, 180);
+      }
+    }
   }
 
   if (document.readyState === "loading") {
