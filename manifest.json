@@ -25,7 +25,7 @@
       "title": "The Lecture",
       "subtitle": "",
       "word_count": 5539,
-      "paragraph_count": 259,
+      "paragraph_count": 246,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.txt",
@@ -1402,7 +1402,7 @@
     "scenes_applied": 22,
     "files_changed_by_desk": 10,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T10:17:08.247208+00:00",
+    "desk_last_edit": "2026-11-25T10:26:18.252375+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
