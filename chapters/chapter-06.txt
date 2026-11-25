@@ -7,14 +7,14 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,443
-Paragraph Count: 213
+Word Count:      2,435
+Paragraph Count: 211
 Scene Count:     4
 
 Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,352  |  Paragraphs 19–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,353–1,989  |  Paragraphs 138–178  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,990–2,443  |  Paragraphs 179–213  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,344  |  Paragraphs 19–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,345–1,981  |  Paragraphs 136–176  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,982–2,435  |  Paragraphs 177–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -182,10 +182,6 @@ Marcus saw the change.
 “By giving it a chance to survive.”
 
 David looked down at the scattered pages, at the columns of ratios and correction terms he had spent the better part of a year dragging into agreement. Beside the notebooks lay a page in Celeste's hand, musical intervals translated into a system of proportional relationships he could not have devised without her.
-
-The work was theirs.
-
-That was the trouble.
 
 Marcus pushed himself out of the chair.
 

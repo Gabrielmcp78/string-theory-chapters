@@ -7,13 +7,13 @@ Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      4,281
-Paragraph Count: 251
+Word Count:      4,265
+Paragraph Count: 249
 Scene Count:     3
 
 Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,600  |  Paragraphs 1–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
 Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,601–2,109  |  Paragraphs 61–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
-Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 2,110–4,281  |  Paragraphs 94–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
+Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 2,110–4,265  |  Paragraphs 94–249  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -512,10 +512,6 @@ The line clicked quiet.
 David sat motionless on the edge of the bed, the repair slip in one hand, the cooling phone in the other. The melody moved through him again, wandering, unresolved, never arriving where it seemed destined to land. He had fallen asleep to it a thousand times without ever asking where it came from.
 
 The cello lay open at the foot of the bed.
-
-Something had moved from atmosphere into fact.
-
-And fact, however partial, carried its own narcotic authority.
 
 He lay back slowly, the slip resting against his chest. The vent continued breathing overhead. Somewhere beyond the sealed hotel glass a snowplow dragged metal against pavement.
 

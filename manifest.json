@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126925,
+  "total_words": 126849,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -76,8 +76,8 @@
       "label": "Chapter 6",
       "title": "Now Then",
       "subtitle": "",
-      "word_count": 2443,
-      "paragraph_count": 213,
+      "word_count": 2435,
+      "paragraph_count": 211,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -95,27 +95,27 @@
           "n": 2,
           "heading": "6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005",
           "word_start": 339,
-          "word_end": 1352,
+          "word_end": 1344,
           "para_start": 19,
-          "para_end": 137,
+          "para_end": 135,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html"
         },
         {
           "n": 3,
           "heading": "6.3   SUBJECT   |    Buffalo, NY       Present Day",
-          "word_start": 1353,
-          "word_end": 1989,
-          "para_start": 138,
-          "para_end": 178,
+          "word_start": 1345,
+          "word_end": 1981,
+          "para_start": 136,
+          "para_end": 176,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
         },
         {
           "n": 4,
           "heading": "6.4   ANSWER   |   NYU - New York, NY       May 24, 2005",
-          "word_start": 1990,
-          "word_end": 2443,
-          "para_start": 179,
-          "para_end": 213,
+          "word_start": 1982,
+          "word_end": 2435,
+          "para_start": 177,
+          "para_end": 211,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
         }
       ]
@@ -126,8 +126,8 @@
       "label": "Chapter 7",
       "title": "Alteration Finds",
       "subtitle": "",
-      "word_count": 4281,
-      "paragraph_count": 251,
+      "word_count": 4265,
+      "paragraph_count": 249,
       "scene_count": 3,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.txt",
@@ -154,9 +154,9 @@
           "n": 3,
           "heading": "7.3   THE HOTEL ROOM   |   Buffalo, NY",
           "word_start": 2110,
-          "word_end": 4281,
+          "word_end": 4265,
           "para_start": 94,
-          "para_end": 251,
+          "para_end": 249,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
         }
       ]
@@ -180,8 +180,8 @@
       "label": "Chapter 9",
       "title": "Remaining Returns",
       "subtitle": "",
-      "word_count": 3575,
-      "paragraph_count": 124,
+      "word_count": 3523,
+      "paragraph_count": 123,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.txt",
@@ -199,27 +199,27 @@
           "n": 2,
           "heading": "9.2 THE CLASSROOM | Feynman Hall · Following Day",
           "word_start": 1036,
-          "word_end": 2461,
+          "word_end": 2409,
           "para_start": 25,
-          "para_end": 75,
+          "para_end": 74,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html"
         },
         {
           "n": 3,
           "heading": "9.3 THE MESSAGE AND THE CORRIDOR | Later That Day",
-          "word_start": 2462,
-          "word_end": 3359,
-          "para_start": 76,
-          "para_end": 118,
+          "word_start": 2410,
+          "word_end": 3307,
+          "para_start": 75,
+          "para_end": 117,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html"
         },
         {
           "n": 4,
           "heading": "9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon",
-          "word_start": 3360,
-          "word_end": 3575,
-          "para_start": 119,
-          "para_end": 124,
+          "word_start": 3308,
+          "word_end": 3523,
+          "para_start": 118,
+          "para_end": 123,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html"
         }
       ]
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 22,
-    "files_changed_by_desk": 10,
+    "scenes_applied": 25,
+    "files_changed_by_desk": 11,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T10:55:13.837923+00:00",
+    "desk_last_edit": "2026-11-25T11:05:11.796862+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"

@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,575
-Paragraph Count: 124
+Word Count:      3,523
+Paragraph Count: 123
 Scene Count:     4
 
 Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,035  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
-Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,036–2,461  |  Paragraphs 25–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,462–3,359  |  Paragraphs 76–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,360–3,575  |  Paragraphs 119–124  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,036–2,409  |  Paragraphs 25–74  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,410–3,307  |  Paragraphs 75–117  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,308–3,523  |  Paragraphs 118–123  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -148,8 +148,6 @@ The singing faltered, one voice carrying on a beat beyond the others before fall
 “That's plenty. Thank you.”
 
 He looked at Rebecca again, but she had lowered her eyes, and whatever question he might have asked seemed certain to make her more conspicuous. He turned toward the board.
-
-“Now, before we all start demanding royalties from one another,” he said, writing beneath the staff, “the tonal center you expect in a melody is not the same thing as a missing fundamental in an acoustic signal. One concerns musical expectation; the other, periodicity. Do keep them separate, however tempting the resemblance.”
 
 He resumed the derivation at a brisk, punishing pace, changing the boundary conditions and correcting a student rather sharply when the boy confused a fixed end with a free one: “Those are different physical constraints. You cannot simply exchange them because the algebra looks more attractive.”
 
