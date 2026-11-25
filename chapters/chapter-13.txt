@@ -7,8 +7,8 @@ Title:           Twin Primes on the Six
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,118
-Paragraph Count: 202
+Word Count:      6,137
+Paragraph Count: 203
 Scene Count:     7
 
 Scene 1: 13 | TWIN PRIMES ON THE SIX  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
@@ -16,8 +16,8 @@ Scene 2: 13.1  Falsifiable Fame  --  Words 8–775  |  Paragraphs 2–21  |  URL
 Scene 3: 13.2 Dream Lecture  --  Words 776–1,806  |  Paragraphs 22–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
 Scene 4: 13.3 Groundbreaking  --  Words 1,807–2,611  |  Paragraphs 38–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
 Scene 5: 13.4 Everything He Was Not  --  Words 2,612–3,468  |  Paragraphs 65–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.5 Friendly Forensics  --  Words 3,469–4,043  |  Paragraphs 85–108  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.6 Ishikawa’s Island  --  Words 4,044–6,118  |  Paragraphs 109–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 6: 13.5 Friendly Forensics  --  Words 3,469–4,062  |  Paragraphs 85–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.6 Ishikawa’s Island  --  Words 4,063–6,137  |  Paragraphs 110–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -230,11 +230,13 @@ Later, at the house on the hill, the comfort of the previous night felt oddly di
 
 “Eleanor Guare co-founded the ARGO Project with Tsukino.”
 
-She died in the ’71 incident. She never published anything in ’72. This journal didn’t even exist then.”
+“Yes, I know all about Eleanor. In fact…”
 
-David looked up. “I met her.”
+“David,” Celeste interrupted, “Eleanor Guare died in the ’71 incident. She never published anything in ’72. This journal didn’t even exist then.”
 
-Celeste’s finger stopped on the page.
+David looked up. “What are you talking about? No. I met her.”
+
+Celeste’s finger stopped on the page. “What?”
 
 “In the parking lot. After the assault. She left me the tuning fork.”
 

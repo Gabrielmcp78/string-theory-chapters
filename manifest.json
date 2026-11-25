@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126829,
+  "total_words": 126848,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -470,8 +470,8 @@
       "label": "Chapter 13",
       "title": "Twin Primes on the Six",
       "subtitle": "",
-      "word_count": 6118,
-      "paragraph_count": 202,
+      "word_count": 6137,
+      "paragraph_count": 203,
       "scene_count": 7,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13.txt",
@@ -525,18 +525,18 @@
           "n": 6,
           "heading": "13.5 Friendly Forensics",
           "word_start": 3469,
-          "word_end": 4043,
+          "word_end": 4062,
           "para_start": 85,
-          "para_end": 108,
+          "para_end": 109,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html"
         },
         {
           "n": 7,
           "heading": "13.6 Ishikawa’s Island",
-          "word_start": 4044,
-          "word_end": 6118,
-          "para_start": 109,
-          "para_end": 202,
+          "word_start": 4063,
+          "word_end": 6137,
+          "para_start": 110,
+          "para_end": 203,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html"
         }
       ]
@@ -1402,7 +1402,7 @@
     "scenes_applied": 26,
     "files_changed_by_desk": 12,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T18:50:28.707144+00:00",
+    "desk_last_edit": "2026-11-25T18:54:05.643372+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
