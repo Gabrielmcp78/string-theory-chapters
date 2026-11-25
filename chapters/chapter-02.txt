@@ -7,7 +7,7 @@ Title:           The Lecture
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,540
+Word Count:      5,538
 Paragraph Count: 244
 Scene Count:     0
 
@@ -73,7 +73,7 @@ Beneath the wave function he wrote:
 
 “Now, this is the sum over histories. Every possible way of getting from the beginning to the end contributes an amplitude. Some reinforce, some cancel, and what we call reality is, more or less, whatever survives the argument.”
 
-He let them copy it while he moved down the board, watching heads dip toward notebooks and screens. When he felt the room prepared to continue, he turned back to the boards. But as chalk hit slate, so too came the realization that he was not writing what he intended. Even as he recognised the error, he could not stop the action. He wrote:
+He let them copy it while he moved down the board, watching heads dip toward notebooks and screens. When he felt the room prepared to continue, he turned back to the boards. But as chalk hit slate, so too came the realization that he was not writing what he intended. Even as he recognized the error, he could not stop the action. He wrote:
 
   $$\chi(\omega) = \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
@@ -111,7 +111,7 @@ Underneath it came the three-dimensional Euclidean distance formula.
 
 The sound pressurized his eardrums until the shafts of light being scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.
 
-Anc as before, he could not quite explain why.
+And as before, he could not quite explain why.
 
 “When the world resonates,” he said, his voice softer now, stranger, “you feel less alone. Like there's structure underneath the random noise. Drift just a little…”
 
@@ -185,7 +185,7 @@ Below David's question, he wrote:
 
   $$\text{ANSWER} \propto \frac{1}{\Delta \omega}$$
 
-And with that, Dr. Ishikawa let the chalk role through his fingers and click softly, finally, into the wooden tray.
+And with that, Dr. Ishikawa let the chalk roll through his fingers and click softly, finally, into the wooden tray.
 
 “If the spoon moves,” Rune said, “the room has answered.”
 
@@ -253,7 +253,7 @@ With her hands gently outstretched, Rebecca approached the lectern.
 
 He could. He could hear every word, every movement of the room, yet none of these sounds seemed to belong to the same world as the iron fork before him.
 
-The image, along with David’s inability to break from it, seemed to bend time, turning every elapsed second into something deeper, stranger: a collapse that threatened linearity altogether. Then, al though it was now impossible to determine next from never, the door at the side of the well opened.
+The image, along with David’s inability to break from it, seemed to bend time, turning every elapsed second into something deeper, stranger: a collapse that threatened linearity altogether. Then, although it was now impossible to determine next from never, the door at the side of the well opened.
 
 Professor Roger Linn stood in the threshold, his violin case in one hand, his coat still unbuttoned, carrying a brand of atmospheric calm that immediately reversed momentum. He took in the array of student faces, looked to David and the boards, then glanced back into the corridor where his eyes locked with Dr. Ishikawa, unseen behind the threshold, before the door released and Roger alone took over the space. He moved toward the well.
 
@@ -349,7 +349,7 @@ Roger’s eyes moved toward the boards, and David followed his gaze, confronting
 
 Arthur’s hand remained behind David’s eyes: the pale cuff, the rise of a vein across the knuckles, the small downward motion that had once been permission to begin. He bent farther over the lectern, its hard edge taking his weight while another convulsion of grief worked through him, leaving him unable to answer Roger’s anxious question about whether he might be sick.
 
-He had wept at funerals with order and timing and a handker chief folded afterward into neat quarters. Here, in the hollow well of the lecture hall, there was no such arrangement to be made. The tears came freely, carrying the chalk from his palms into pale streaks beneath his eyes, while Roger stood helplessly beside him, searching for something useful to do.
+He had wept at funerals with order and timing and a handkerchief folded afterward into neat quarters. Here, in the hollow well of the lecture hall, there was no such arrangement to be made. The tears came freely, carrying the chalk from his palms into pale streaks beneath his eyes, while Roger stood helplessly beside him, searching for something useful to do.
 
 At last Roger touched his shoulder, so tentatively that David might scarcely have felt it had he not flinched. The hand withdrew at once.
 
@@ -369,7 +369,7 @@ The heavy door opened behind them, admitting a gust of corridor air and Naomi Fe
 
 Naomi’s attention had traveled to the chalkboards, where the remnants of David’s lecture remained exposed in the gray light. Whatever she made of them, she kept it to herself.
 
-“I don’t understand. Neomi, I don’t rememeber…” David stummbled through speach, his eyes still fixed on the slate.
+“I don’t understand. Naomi, I don’t remember…” David stumbled through speech, his eyes still fixed on the slate.
 
 “It’s okay. Alright, you’re okay. David, it’s fine.”
 

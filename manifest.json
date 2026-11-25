@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126849,
+  "total_words": 126847,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -24,7 +24,7 @@
       "label": "Chapter 2",
       "title": "The Lecture",
       "subtitle": "",
-      "word_count": 5540,
+      "word_count": 5538,
       "paragraph_count": 244,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02.html",
@@ -1402,7 +1402,7 @@
     "scenes_applied": 25,
     "files_changed_by_desk": 11,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T11:05:11.796862+00:00",
+    "desk_last_edit": "2026-11-25T11:12:49.417880+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
