@@ -4,21 +4,22 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 4
 Title:           The Rehearsal
-Subtitle:        Andante con distanza
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,750
-Paragraph Count: 104
+Word Count:      2,753
+Paragraph Count: 109
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
+##
+
 The Music School’s residence on East Hill had never resolved into a single, settled idea. It was a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan-style chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.
 
-By the seventies, the place had been reborn as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber. Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks. Above the musicians hung acoustic clouds: pale suspended planes, stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward through the gaps into rafters and the chapel attic: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread—things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
+By the seventies, the place had been reborn as “living architecture,” and the phrase, for once, did not feel like a lie. Engineers carved deep into the glacial hillside to find something solid enough to trust, then lifted the newer structures up and out, rising just over sixty-eight feet above the slope, sheltering an arched amphitheater beneath a spanning canopy of old-forest timber. Overhead, a lattice of loft offices and narrow bridges looked down on the rehearsal spaces like catwalks. Above the musicians hung acoustic clouds: pale suspended planes, stitched with seams that never fully closed, so that sound did not merely bounce and die but wandered upward through the gaps into rafters and the chapel attic: a stray oboe line, a cello’s open string, the soft bruise of timpani, a flute’s thin bright thread: things that should have dissipated but did not, hanging in the dark like prayers that had spoken once and refused now to be unspoken.
 
 Below, fluorescent corridors lined with practice rooms tunneled under the hill, binding the old stone chapel to the defiant 1974 annex.
 
@@ -54,7 +55,7 @@ Catherine smiled and moved toward her chair, already beginning the small private
 
 “Wouldn’t have been anywhere else.”
 
-David looked down at the cello. “Thanks.”
+David looked down at the cello. “Thanks, Rog.”
 
 And then Celeste Armitage appeared in the doorway.
 
@@ -70,7 +71,11 @@ Then the beating narrowed as the quartet became one thing. A few more fleeting b
 
 A shift of chairs, a tilt of heads, four musicians drawing a common breath until finally, Prokofiev arrived.
 
-SERGEI PROKOFIEV String Quartet No. 2, “Kabardinian,” Op. 92
+SERGEI PROKOFIEV
+
+String Quartet No. 2
+
+“Kabardinian,” Op. 92
 
 I. Allegro sostenuto
 
@@ -92,7 +97,9 @@ Past the fingerboard and f-holes, past the curvature of the quartet's intimate e
 
 Roger glanced at Celeste. David was still playing, flawlessly, but his eyes had left the score, rising toward the suspended clouds as though following patterns no one else could see.
 
-II. Adagio The Adagio began in a broad 12/8. David’s cello entered with a line climbing into the high register, singing in treble clef, no longer the ground but the voice. Celeste’s viola answered with sustained lyrical material of its own. For the opening span they were both exposed.
+II. Adagio
+
+The Adagio began in a broad 12/8. David’s cello entered with a line climbing into the high register, singing in treble clef, no longer the ground but the voice. Celeste’s viola answered with sustained lyrical material of its own. For the opening span they were both exposed.
 
 Celeste listened for him in timing, vibrato, the minute changes of color one player offers another across a small distance. She bent phrases, breathed warmth into her tone, leaned into rubato like an outstretched arm reaching for his, waiting for David’s cello to answer with the expected resolution.
 
@@ -146,7 +153,9 @@ There she was.
 
 And for one moment, whatever had carried him so far away seemed willing to release him.
 
-III. Allegro No speech. They regrouped.
+III. Allegro
+
+No speech. They regrouped.
 
 The finale began from below. The violins rested while David plucked a light bass gesture. Celeste answered. Celeste plucked. David answered. Then the violins entered and the quartet rebuilt itself from the bottom upward.
 
