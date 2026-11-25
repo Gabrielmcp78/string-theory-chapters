@@ -4,11 +4,10 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 1
 Title:           The Ivy League
-Subtitle:        Andante sostenuto
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,858
+Word Count:      2,861
 Paragraph Count: 121
 Scene Count:     0
 
@@ -16,17 +15,15 @@ Scene Count:     0
 
 --- CHAPTER TEXT BEGINS ---
 
-It was, perhaps, an unfortunate hour to be speaking of coherence.
+It was, perhaps, an unfortunate hour to be speaking of coherence. David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.
 
-David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.
-
-Twenty minutes earlier, David had abandoned sleep altogether, drifting down to the kitchen to soothe a sour stomach with a pint of milk. The first gulp went down well enough, but the second missed, badly, sending a pale sheet across the marble countertop. David stared down at the puddle, then at the roll of paper towels on the far side of the room, then at the open bag of mini donuts beside him. He reached in, pulled out the first donut, and pressed it into service as a sort of sponge.
+Only moments ago, David had abandoned sleep altogether, drifting down to the kitchen to soothe a sour stomach with a pint of milk. The first gulp went down well enough, but the second missed, badly, sending a pale sheet of white across the marble countertop. David stared down at the puddle, then glanced at the roll of paper towels on the far side of the room, then at the open bag of mini donuts beside him. He reached in, pulled out the first donut, and pressed it into service as a sort of sponge.
 
 By any civilized measure, this was repulsive. Yes. But two weeks of condolence casseroles and Jell-O molds had softened David’s interest in formalities. The donut was soaked in milk and so he ate it.
 
 The method was sound, though the puddle persisted, so the donuts kept coming until the bag was empty and the marble dry.
 
-David admired his handiwork for a moment before moving on toward the closet, where he had long since refined the act of Suiting into a sequence of near-automatic movements: socks, slacks, arms into sleeves, the final constriction of collar and tie. It was the mirror work, the grooming, that he found unsettling. In fact, it annoyed the shit out of him.
+David admired his handiwork for a moment before moving on toward the closet, where he had long since refined the act of Suiting into a sequence of near-automatic movements: socks, slacks, arms into sleeves, the final constriction of collar and tie. It was the mirror work, however, the grooming, that he found most unsettling. In fact, it annoyed the shit out of him.
 
 At five-eleven, he had the carriage of a man who had never quite learned what to do with being handsome. His face was strongly made: thick, unruly brown hair framed high, rigid cheekbones, and a nose drawn from brow to tip obnoxiously devoid of deviation. There was an accidental dash to the whole arrangement, an inheritance he had a tendency to balk at in public and scowl at when alone.
 
@@ -86,7 +83,7 @@ For forty-six years, this fact alone had served to guarantee the rest of him.
 
 He took the spiral stairs in a frantic slide. Then, wrapping the book in a plastic bag from the counter, he shoved it, along with his lecture folder, into the satchel, threw his weight against the green glass door, and out he went into the frozen mayhem of an Ithaca morning.
 
-The light blinded him instantly. As his eyes adjusted, he glanced in all directions to ensure that no one was particularly looking his way, then broke into an all-out, middle-aged sprint toward the southern gate. Cold needled at his eyes as he darted through the narrow streets, his coat pulling at his shoulders while each block clipped his breath shorter. The town thinned, porches slick with frost as modest houses gave way to the steepening order of East Hill. As he reached the south gate, he reduced his speed to something that might better resemble purposeful, dignified walking.
+As his eyes adjusted, he glanced in all directions to ensure that no one was particularly looking his way, then broke into an all-out, middle-aged sprint toward the southern gate. Cold needled at his eyes as he darted through the narrow streets, his coat pulling at his shoulders while each block clipped his breath shorter. The town thinned, porches slick with frost as modest houses gave way to the steepening order of East Hill. As he reached the south gate, he reduced his speed to something that might better resemble purposeful, dignified walking.
 
 Usually the climb arranged him. Arguments settled into sequence, lectures found their opening moves, and whatever residue life had left upon him yielded to the old disciplinary pressure of the hill.
 
@@ -239,6 +236,8 @@ Something beat beneath the band of his watch, once and then again, until there w
 Eighteen minutes and fifty-three seconds late.
 
 Shit.
+
+* * *
 
 Deep in Sub-level Two, inside a concrete corridor omitted from university floor plans sometime during the Nixon administration, a copper bypass valve finally failed.
 

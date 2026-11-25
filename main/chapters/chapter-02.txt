@@ -4,12 +4,11 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 2
 Title:           The Lecture
-Subtitle:        Presto agitato
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,105
-Paragraph Count: 262
+Word Count:      5,185
+Paragraph Count: 263
 Scene Count:     0
 
 ========================================================================
@@ -18,15 +17,15 @@ Scene Count:     0
 
 The lecture hall, always five degrees too warm, was a tall expanse of yellows and browns whose rear walls had been surrendered to banks of narrow, vertical windows overlooking the glacier-carved canyons of East Hill. Right-angled panes divided winter daylight into geometric shards, so that light never arrived cleanly here: only fractured, false.
 
-A brushed metal plaque beside the door praised the room’s design, touting the “unique ornamentation’s” ability to “soothe the psyche and elicit heightened states of mental acuity.”
+A brushed metal plaque beside the door praised the room’s design, touting the “unique ornamentations’” ability to “soothe the psyche and elicit heightened states of mental acuity.”
 
 They said the same thing about heroin for a hundred years.
 
-As he made his way toward the well, David counted heads. There were only twenty-seven students in the benches. Twenty-seven, from a roster of sixty-three. With practiced pessimism, he revised the practical number down to thirteen who were conscious in any useful sense.
+As he made his way toward the well, David counted heads. It did not take long as there were only twenty-seven students in the benches. Twenty-seven, from a roster of sixty-three. Of those, David considered that perhaps thirteen were actually conscious in any meaningful sense.
 
-A young woman in the fourth row was drawing elaborate mollusk shells in the margin of her notebook, each chamber curling recursively into the next with enough geometric discipline that, viewed from a distance, the thing bore an accidental resemblance to the mathematics David intended to teach. Incidentally, she was not among the thirteen. Her attentiveness, he decided, was circumstantial at best.
+A young woman in the fourth row was drawing elaborate mollusk shells in the margin of her notebook, each chamber curling recursively into the next with enough geometric discipline that they bore a striking resemblance to the mathematics David intended to teach. Incidentally, she was not among the thirteen. Her attentiveness, he decided, was circumstantial at best.
 
-He set his satchel on the scarred oak desk, glanced down the roster, then back toward the scattered semicircle of coats, notebooks and insufficiently caffeinated young adults.
+He set his satchel on the scarred oak desk, scrolled down the roster, then back toward the scattered semicircle of coats, notebooks and insufficiently caffeinated young adults.
 
 “My,” he said. “A full house, I see.”
 
@@ -80,15 +79,15 @@ Without having planned to, he wrote:
 
   $$\chi(\omega) = \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
-David regarded the expression for a moment.
+His hand twitched, a sudden pinch in his palm. He put the chalk down, gripping the meat of his right hand with the left as he looked over the expression.
 
-There was nothing wrong with it. The problem was that it had no business being there.
+Complex susceptibility. David glanced Rebecca taking notes in the front row. She looked up, saw the equation, and slowly raised one eyebrow in what David was simply going to call curiosity for now. Her brow, incidentally, was right. The equation had no business being there.
 
-He circled back to the lectern, thumbed through his notes, but whatever turn in the argument might have brought him from the sum over histories to susceptibility was not there. The transition simply did not exist. Behind him, twenty-seven students waited with the patient confidence that Professor Lang would shortly explain what Professor Lang had just done.
+He circled back to the lectern, thumbed through his notes, but whatever turn in the argument might have brought him from the sum over histories to susceptibility was not there. The transition simply did not exist. Behind him, twenty-seven students waited on Professor Lang to explain what Professor Lang had just done.
 
 “And if the system admits…”
 
-He was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only now he knew its number.
+He was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only this time, he knew its number.
 
 68.48 Hz.
 
@@ -96,23 +95,25 @@ The figure arrived in his mind with impossible authority, fully formed, calibrat
 
 It passed beneath his sternum, climbed toward his jaw, and touched the bones of his ear like an iron key entering a lock.
 
-His hand remained over the board. Between his fingers, the chalk trembled until a white fleck broke loose and settled on his cuff.
+Between his fingers, the chalk trembled until a white fleck broke loose and settled on his cuff.
 
 David forced the hand down, burying it in his pocket.
 
 “All right,” he said, his voice steadier than he deserved. “Let's shift the frame.”
 
-As he turned back to the board, the hum burrowed deeper, scratching at the base of his skull. He needed something solid. A pivot to Einstein, perhaps. Something familiar. He had half a mind to ask if anyone had an apple, but he decided to leave Newton out of this mess for now.
+But as he turned back, the hum burrowed deeper, scratching at the base of his skull. He needed something solid. A pivot to Einstein, perhaps. Something familiar. He had half a mind to ask if anyone had an apple, but he decided to leave Newton out of this mess for now.
 
 Instead, the frequency seemed to encourage, even influence, what next transferred from his head to his hand as he wrote:
 
 HOW DO YOU MEASURE PROXIMITY?
 
-Underneath it came:
+Underneath it, came the three-dimensional Euclidean distance formula.
 
   $$R*{ij} = \sqrt{(x*i - x*j)^2 + (y*i - y*j)^2 + (z*i - z_j)^2}$$
 
 The sound pressurized his eardrums until the shafts of light scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.
+
+But again, he could not quite explain why.
 
 “When the world resonates,” he said, his voice softer now, stranger, “you feel less alone. Like there's structure underneath the random noise. Drift just a little…”
 
@@ -136,7 +137,7 @@ By the time Rune reached the board, the class had turned with him, making attent
 
 One hand lifted toward the chalk tray.
 
-David almost refused. Pride moved first. Then the tremor in his fingers made the decision before he could dignify it as a choice.
+David almost refused, pride moving first, but then the tremor in his fingers made the decision before he could dignify it as a choice.
 
 Under cover of the casual gesture, Rune's hand closed over his. From the benches, the transfer would read as an ordinary professorial collaboration, one colleague extending another's thought. The chalk passed between them, warm and dry.
 
@@ -232,7 +233,7 @@ She had meant it as a comfort then, but it came back to David now as pure menace
 
 68.48 Hz.
 
-His lungs stalled. Both hands closed over the steel lip of the projector cart, his knuckles whitening as he stared at the image. He tried to move his thumb against the remote, but the small command went unanswered. The fork stood twelve feet high before him, planted in the earth exactly as they had left it.
+His lungs stalled. Both hands closed over the steel lip of the projector cart, his knuckles whitening as he stared at the image. He tried to move his thumb against the remote, but the small command went unanswered. Before him, the fork stood twelve feet high, planted in the earth exactly as they had left it.
 
 In the fourth row, the girl who had been drawing mollusk shells looked up.
 
@@ -324,7 +325,7 @@ After a while Roger retrieved the remote and shut off the projector. The great t
 
 “I don’t know. I'm sorry. You weren't answering. I thought if I said something you knew, something from before, you might—”
 
-His breath caught around the rest of the thought.
+—” Roger’s breath caught around the rest of the thought. “
 
 “I didn't think where it would lead…”
 
@@ -338,7 +339,7 @@ Roger tried to delay the story of it, shielding him with silence.
 
 “No, Roger. Roger, what the hell is going on? Where the fuck are my…”
 
-“You were teaching. Something… something happened and you—” Rogers eyes moved to the boards.
+“You were teaching. Something… something happened and you—” Roger's eyes moved to the boards.
 
 David’s eyes followed, and for the first time, he saw what his hand had produced without his permission.
 
@@ -432,7 +433,7 @@ Roger went to retrieve his violin case from beside the trash can. “Can you wal
 
 “The first one.”
 
-With one palm flat against the wood of the lectern, David pushed himself upright. “Then yes, I think I’m up for it.”
+With one palm flat against the lectern, David pushed himself upright, testing the reliability of his legs before committing his weight to them. “Then yes, I think I’m up for it.”
 
 They entered the corridor together.
 
@@ -482,7 +483,7 @@ David stared.
 
 “What the fuck?”
 
-He turned toward the empty benches, then back to the board.
+For several moments he could make no sense of the arrangement. The boards had been covered when he left, and now there was nothing of the morning’s work to show for it except those two words, written in capitals large enough to be read from the farthest benches.
 
 Who had erased it? Who had written that? And where the fuck had the Polaroid come from?
 
@@ -500,7 +501,7 @@ David staggered mid-step, one shoe sliding before the other caught beneath him. 
 
 “No,” he said.
 
-The word escaped louder than intended, but the vibration held. It gathered somewhere ahead of him in the quad, directional now, tightening inside his ear until David could feel where it wanted him to go without understanding how.
+The word escaped louder than intended, but the vibration held, gathering somewhere ahead of him in the quad, directional
 
 “No.”
 
@@ -538,7 +539,7 @@ Snow evaporated from his coat as he stood there, breathing hard, staring down th
 
 It had all returned, just as she said it would.
 
-Twenty years in the ground. And it was still vibrating.
+Twenty-one years in the ground. And it was still vibrating.
 
 
 ========================================================================

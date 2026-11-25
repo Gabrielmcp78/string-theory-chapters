@@ -7,15 +7,15 @@ Title:           Fractional Currency
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,806
+Word Count:      3,801
 Paragraph Count: 162
 Scene Count:     5
 
 Scene 1: 18.1   Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-01.html
-Scene 2: 18.2  Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-02.html
-Scene 3: 18.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-03.html
-Scene 4: 18.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-04.html
-Scene 5: 18.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-05.html
+Scene 2: 18.2  Wander, Wonder and Wait  --  Words 616–1,075  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-02.html
+Scene 3: 18.3  Sundays  --  Words 1,076–1,553  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-03.html
+Scene 4: 18.4  A Preference for Precision  --  Words 1,554–2,077  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-04.html
+Scene 5: 18.5  The Conduction  --  Words 2,078–3,801  |  Paragraphs 98–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-18-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -94,9 +94,9 @@ When he reached his door and closed his hand around the key, it settled, cleanly
 
 He stood there, listening. Lingering.
 
-Then he checked his watch. Fifty three minutes since he had left the store across the street. Fifty three minutes since the orange in his hand had refused the drain. Almost an hour lost to what? Crossing the street?
+Then he checked his watch. Fifty-three minutes since he had left the store across the street. Fifty-three minutes since the orange in his hand had refused the drain. Almost an hour lost to what? Crossing the street?
 
-“Fifty three minutes,” he muttered. “Prime.”
+“Fifty-three minutes,” he muttered. “Prime.”
 
 He unlocked the door and removed himself from all things public.
 
@@ -200,7 +200,7 @@ David moved, or rather, the room pulled him. He found the stairs, those cold wed
 
 He descended.
 
-At the base of the stairs, the cello case waited. Its latch parted with that familiar, time heavy click: the sound of something preserved, something held in suspension against the day it might be needed. He lifted the instrument out and held it close. Weightless, full. The union of body and wood required no thought; it had been written into him decades ago, in a cramped studio with his father’s hands shaping his own.
+At the base of the stairs, the cello case waited. Its latch parted with that familiar, time-heavy click: the sound of something preserved, something held in suspension against the day it might be needed. He lifted the instrument out and held it close. Weightless, full. The union of body and wood required no thought; it had been written into him decades ago, in a cramped studio with his father’s hands shaping his own.
 
 But first: the wall.
 
@@ -309,7 +309,7 @@ He bent and slid his fingers beneath the edge of the page. As soon as he lifted 
 
 His father.
 
-Arthur had never worked without a bowl of clementines somewhere within reach. David remembered the lessons: peel folding back in his father’s hands, brightness entering the room with the released oils, the trace of it carried onto the strings when Arthur leaned over to adjust a wrist, correct a position, reshape a phrase. Even now, the back of the page seemed to hold the lightest ghosts of orange tinted prints.
+Arthur had never worked without a bowl of clementines somewhere within reach. David remembered the lessons: peel folding back in his father’s hands, brightness entering the room with the released oils, the trace of it carried onto the strings when Arthur leaned over to adjust a wrist, correct a position, reshape a phrase. Even now, the back of the page seemed to hold the lightest ghosts of orange-tinted prints.
 
 And in the wreckage of himself, David smiled.
 

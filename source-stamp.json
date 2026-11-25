@@ -1,5 +1,5 @@
 {
-  "built_at": "2026-11-25T09:29:43+00:00",
+  "built_at": "2026-11-25T09:34:52+00:00",
   "source_router_entry": "string_theories_sot",
   "leading_edge": {
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
@@ -14,6 +14,6 @@
   "committed_main": {
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/main/",
     "git_ref": "main",
-    "commit": "a4e02811f72de29e00c2916be8f77b05090d7e91"
+    "commit": "439eab5f63b19195e14e2dcfaadb0782f1ecb8b6"
   }
 }
