@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126439,
+  "total_words": 126426,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -180,7 +180,7 @@
       "label": "Chapter 9",
       "title": "Remaining Returns",
       "subtitle": "",
-      "word_count": 3576,
+      "word_count": 3575,
       "paragraph_count": 124,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09.html",
@@ -208,7 +208,7 @@
           "n": 3,
           "heading": "9.3 THE MESSAGE AND THE CORRIDOR | Later That Day",
           "word_start": 2462,
-          "word_end": 3360,
+          "word_end": 3359,
           "para_start": 76,
           "para_end": 118,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html"
@@ -216,8 +216,8 @@
         {
           "n": 4,
           "heading": "9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon",
-          "word_start": 3361,
-          "word_end": 3576,
+          "word_start": 3360,
+          "word_end": 3575,
           "para_start": 119,
           "para_end": 124,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html"
@@ -230,7 +230,7 @@
       "label": "Chapter 10",
       "title": "Passions' Principles",
       "subtitle": "",
-      "word_count": 13762,
+      "word_count": 13750,
       "paragraph_count": 773,
       "scene_count": 8,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10.html",
@@ -240,7 +240,7 @@
           "n": 1,
           "heading": "10.1  Wednesday Dinner",
           "word_start": 1,
-          "word_end": 1566,
+          "word_end": 1554,
           "para_start": 1,
           "para_end": 75,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html"
@@ -248,8 +248,8 @@
         {
           "n": 2,
           "heading": "10.2  The Tuning",
-          "word_start": 1567,
-          "word_end": 5039,
+          "word_start": 1555,
+          "word_end": 5027,
           "para_start": 76,
           "para_end": 283,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html"
@@ -257,8 +257,8 @@
         {
           "n": 3,
           "heading": "10.3  Break-Through",
-          "word_start": 5040,
-          "word_end": 6218,
+          "word_start": 5028,
+          "word_end": 6206,
           "para_start": 284,
           "para_end": 350,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html"
@@ -266,8 +266,8 @@
         {
           "n": 4,
           "heading": "10.4  The Guillotine",
-          "word_start": 6219,
-          "word_end": 8389,
+          "word_start": 6207,
+          "word_end": 8377,
           "para_start": 351,
           "para_end": 467,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html"
@@ -275,8 +275,8 @@
         {
           "n": 5,
           "heading": "10.5  Into the Storm",
-          "word_start": 8390,
-          "word_end": 10842,
+          "word_start": 8378,
+          "word_end": 10830,
           "para_start": 468,
           "para_end": 603,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html"
@@ -284,8 +284,8 @@
         {
           "n": 6,
           "heading": "10.6  It Takes a Beating",
-          "word_start": 10843,
-          "word_end": 11532,
+          "word_start": 10831,
+          "word_end": 11520,
           "para_start": 604,
           "para_end": 630,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html"
@@ -293,8 +293,8 @@
         {
           "n": 7,
           "heading": "10.7  The Clear Snows of Fall",
-          "word_start": 11533,
-          "word_end": 13344,
+          "word_start": 11521,
+          "word_end": 13332,
           "para_start": 631,
           "para_end": 755,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html"
@@ -302,8 +302,8 @@
         {
           "n": 8,
           "heading": "10.8  Up From the Depths",
-          "word_start": 13345,
-          "word_end": 13762,
+          "word_start": 13333,
+          "word_end": 13750,
           "para_start": 756,
           "para_end": 773,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html"
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 31,
+    "scenes_applied": 30,
     "files_changed_by_desk": 13,
     "scenes_blocked": 1,
-    "desk_last_edit": "2026-11-25T08:38:01.878187+00:00",
+    "desk_last_edit": "2026-11-25T08:43:13.027565+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"

@@ -7,18 +7,18 @@ Title:           Passions' Principles
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,762
+Word Count:      13,750
 Paragraph Count: 773
 Scene Count:     8
 
-Scene 1: 10.1  Wednesday Dinner  --  Words 1–1,566  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: 10.2  The Tuning  --  Words 1,567–5,039  |  Paragraphs 76–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: 10.3  Break-Through  --  Words 5,040–6,218  |  Paragraphs 284–350  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: 10.4  The Guillotine  --  Words 6,219–8,389  |  Paragraphs 351–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: 10.5  Into the Storm  --  Words 8,390–10,842  |  Paragraphs 468–603  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: 10.6  It Takes a Beating  --  Words 10,843–11,532  |  Paragraphs 604–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: 10.7  The Clear Snows of Fall  --  Words 11,533–13,344  |  Paragraphs 631–755  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
-Scene 8: 10.8  Up From the Depths  --  Words 13,345–13,762  |  Paragraphs 756–773  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
+Scene 1: 10.1  Wednesday Dinner  --  Words 1–1,554  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: 10.2  The Tuning  --  Words 1,555–5,027  |  Paragraphs 76–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: 10.3  Break-Through  --  Words 5,028–6,206  |  Paragraphs 284–350  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: 10.4  The Guillotine  --  Words 6,207–8,377  |  Paragraphs 351–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: 10.5  Into the Storm  --  Words 8,378–10,830  |  Paragraphs 468–603  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: 10.6  It Takes a Beating  --  Words 10,831–11,520  |  Paragraphs 604–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: 10.7  The Clear Snows of Fall  --  Words 11,521–13,332  |  Paragraphs 631–755  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: 10.8  Up From the Depths  --  Words 13,333–13,750  |  Paragraphs 756–773  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -56,7 +56,7 @@ She ordered a carafe of the house pinot noir without asking. Ten years of Wednes
 
 Though this dinner was no longer required under their dissolved romantic tethering, both had agreed, eighteen months ago, that ten years of Wednesday suppers was too stubborn a habit to be undone by the semantics of a breakup. For David, the ninety Wednesday minutes had long since become the still point of his week: a tide that pulled at him before he knew he was moving. Hours before, he would feel it: a quiet loosening, then a tightening in the chest, the body’s old, wordless rehearsal for joy. He did not decide to go. He simply found himself ready, waiting, turned toward the hour like a shore waiting for the moon.
 
-It was not love. That much was certain. Not out loud anyway. It was order. Plain. Simple. Order had reasons; love had none. That made sense. That was all…
+It was order. Plain. Simple. Order had reasons; love had none. That made sense. That was all…
 
 That, and he was quite fond of the chicken piccata.
 
@@ -138,11 +138,11 @@ Somewhere between the entrées cooling and the second refusal of dessert, David 
 
 “Hey, I brought you something.”
 
-She looked at the torn grocery bag and smirked. “What, the other half of Monday’s turkey sandwich? What is this.” She laughed as she took the package, her fingers tearing gently at the plastic where the seam had already failed. Beneath, lay the narrow volume. The tuning manuscript. It was bound in dark leather gone gray at the hinges, its spine cracked, the gilt title reduced to a few stubborn islands of light. She read the spine and went entirely still.
+She looked at the torn grocery bag and smirked. “What, the other half of Monday’s turkey sandwich? What is this.” She laughed as she took the package, her fingers tearing gently at the plastic where the seam had already failed. Beneath lay the narrow volume. The tuning manuscript. It was bound in dark leather gone gray at the hinges, its spine cracked, the gilt title reduced to a few stubborn islands of light. She read the spine and went entirely still.
 
 “David.”
 
-“I rescued it from the parlor,” he said. “It was getting choked by Wagner and Bartok and…”
+“I rescued it from the parlor,” he said. “It was getting choked by Wagner and Bartók and…”
 
 “Whoa,” Celeste balked. “Tough neighbors.”
 

@@ -7,14 +7,14 @@ Title:           Remaining Returns
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,576
+Word Count:      3,575
 Paragraph Count: 124
 Scene Count:     4
 
 Scene 1: 9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night  --  Words 1–1,035  |  Paragraphs 1–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-01.html
 Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day  --  Words 1,036–2,461  |  Paragraphs 25–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-02.html
-Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,462–3,360  |  Paragraphs 76–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
-Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,361–3,576  |  Paragraphs 119–124  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
+Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day  --  Words 2,462–3,359  |  Paragraphs 76–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
+Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon  --  Words 3,360–3,575  |  Paragraphs 119–124  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -174,13 +174,13 @@ The amphitheater emptied in its usual chaotic flood of backpacks and chatter. Da
 
 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day
 
-By late afternoon, the entire administrative corridore smelled of steam heat and damp wool, of bodies and dank shoe mud the failing of industrial cleaners.
+By late afternoon, the entire administrative corridor smelled of steam heat and damp wool, of bodies and dank shoe mud the failing of industrial cleaners.
 
-At least, in the departmental secretaries office, there was fresh coffee and Chanel No. 5 to counter the effects.
+At least, in the departmental secretary's office, there was fresh coffee and Chanel No. 5 to counter the effects.
 
-Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plowman in a bog. David always felt like she could read in every professors face all the things only their mother should know about them, and of those things, only the most extreme and exaggerated upsides, coupled with the most devastating downsides of every personality in the apartment.
+Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plowman in a bog. David always felt like she could read in every professor's face all the things only their mother should know about them, and of those things, only the most extreme and exaggerated upsides, coupled with the most devastating downsides of every personality in the department.
 
-“Professor Lang,” she said, sliding a square slip across the laminate. “Your mother called at eleven-thirty. Sounded worried. I would be too if you were my son darling.”
+“Professor Lang,” she said, sliding a square slip across the laminate. “Your mother called at eleven-thirty. Sounded worried. I would be too if you were my son, darling.”
 
 “Marsha, always a pleasure. What did I tell you about taking messages from my mother?”
 
@@ -192,15 +192,15 @@ Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plo
 
 “Oh lord. Marsha, I apologize for my…”
 
-“Oh no. Don’t you dare, young man. Cassie is as good a story teller as I’ve ever known! And I knew Carl Sagan for 25 years so…”
+“Oh no. Don’t you dare, young man. Cassie is as good a storyteller as I’ve ever known! And I knew Carl Sagan for twenty-five years so…”
 
 “Storyteller, huh?” David could only imagine. “Do I even want to…”
 
-“No, David,” she said with a devilish smirk. “You most assuredly do not want to know.” And she laid an immaculately manicured hand on Davids’ forearm at the desk. “Just rest assured dear, that I most certainly do know.”
+“No, David,” she said with a devilish smirk. “You most assuredly do not want to know.” And she laid an immaculately manicured hand on David’s forearm at the desk. “Just rest assured dear, that I most certainly do know.”
 
-“Right. Well, make sure I know what you want for christmas, okay Marsha.”
+“Right. Well, make sure I know what you want for Christmas, okay, Marsha.”
 
-“Call you mother, David. That’s what I want from you.” She handed him the stack of call slips and grinned widely. “Oh, and a nice bottle of Chanel No. 5 as usual, dear.”
+“Call your mother, David. That’s what I want from you.” She handed him the stack of call slips and grinned widely. “Oh, and a nice bottle of Chanel No. 5 as usual, dear.”
 
 “Will do, Mrs. Gable.”
 
@@ -226,7 +226,7 @@ David walked toward the south exit. The light felt old and classy, like gin and 
 
 “The second fiddle,” Lenny said, lamenting. “It’s true. I can get plenty of first violinists, but to find someone who can play the second fiddle with enthusiasm—now that is a problem.”
 
-Lenny was sprawled across the parlor armchair with a Scotch, arguing with Arthur about an old Philharmonic rehearsal in New York. Arthur maintained that Bernstein’s batton had been particularly impossible to follow on the occasion in question.
+Lenny was sprawled across the parlor armchair with a Scotch, arguing with Arthur about an old Philharmonic rehearsal in New York. Arthur maintained that Bernstein’s baton had been particularly impossible to follow on the occasion in question.
 
 “Nonsense, Arty,” Lenny protested. “Darling, you simply weren’t watching me!”
 
