@@ -7,16 +7,16 @@ Title:           Skepticism and Ridicule
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,084
-Paragraph Count: 200
+Word Count:      6,061
+Paragraph Count: 202
 Scene Count:     6
 
 Scene 1: 16.1 The Lounge  --  Words 1–1,475  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html
 Scene 2: 16.2 | The Lecture  --  Words 1,476–2,200  |  Paragraphs 46–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html
 Scene 3: 16.3 | The Fall  --  Words 2,201–3,297  |  Paragraphs 63–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html
-Scene 4: 16.4 | The Quartet  --  Words 3,298–4,274  |  Paragraphs 96–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html
-Scene 5: 16.5 The Journey  --  Words 4,275–5,731  |  Paragraphs 120–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
-Scene 6: 16.6 The Attic | Present Day  --  Words 5,732–6,084  |  Paragraphs 191–200  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
+Scene 4: 16.4 | The Quartet  --  Words 3,298–4,251  |  Paragraphs 96–121  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html
+Scene 5: 16.5 The Journey  --  Words 4,252–5,708  |  Paragraphs 122–192  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
+Scene 6: 16.6 The Attic | Present Day  --  Words 5,709–6,061  |  Paragraphs 193–202  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -245,21 +245,25 @@ As she stepped away, she glanced at Roger, her head lowered, her eyes blurred. R
 
 David put one hand on the package, his fingers lingering on the twine. The knot was tight but elegantly executed, and unmistakably Roger. A double loop with the ends trimmed to matching lengths, something he had done to present prepared sheet music since they were in high school. It was, in its own way, a benediction, a signal that this was not what he wanted. A gesture to ease the pain or soften this news. It seemed less than adequate now.
 
-He wasn’t sure what to do. Wasn’t sure how all of this day had tumbled toward this moment so quickly. But he could not help but feel the inward pull of a certain brand of childlike shame. He had failed. He had not pulled through in the face of adversity. He knew exactly what Arthur would have said about all of this, but David’s own words failed him just the same.
+He wasn’t sure what to do. Wasn’t sure how this day had tumbled toward this moment so quickly. But he could not help but feel the inward pull of a certain brand of childlike shame. He had failed. He had not pulled through in the face of adversity. He knew exactly what Arthur would have said about all of this, but David’s own words failed him just the same.
 
-He untied the music packet and scanned the top page. His own notations: tiny arrows, circled accidentals, the occasional FIX THIS in capital letters, ran in a red current along the margins. Their musical scribblings stood as testament to a shared history of practice, of commitment, of joint struggle toward a threshold of excellence and the thousand small accommodations that had once made the group a single organism, a family for so many years.
+He loosened the twine and opened the folder. His own notations—tiny arrows, circled accidentals, the occasional FIX THIS in capital letters—ran in a red current along the margins. Their musical scribblings stood as testament to a shared history of practice, of commitment, of joint struggle toward a threshold of excellence and the thousand small accommodations that had once made the group a single organism, a family for so many years.
 
-A deep breath and a nod in resignation seemed all David could offer in response. As he closed the folder, his left hand began to shake. He tried to pull it away, but Roger saw and gently placed his hand over David’s.
+David could manage little more than a nod. He closed the folder and reached for the twine, but his left hand had begun to shake. He drew it back, though not before Roger noticed. His friend gently laid a hand over his.
 
 “Let me help you, Davey.”
 
-And so David stood by and watched his friend help him remove himself from their shared musical family. Roger finished with the twine and handed the bundle back.
+And so David stood by and watched his friend help him remove himself from their shared musical family. Roger retied the twine and handed him the bundle.
 
-David didn’t want to look up, he couldn’t risk what Roger’s eyes might say. He simply took the pages and tucked them under his arm, all the while his head stayed bowed, lost. As he turned to go, he felt Rogers’ sure hand on his shoulder and he turned back to meet his friend's eyes.
+David accepted it without looking up. He couldn’t risk what Roger’s eyes might say. He tucked the music under his arm and was about to leave when Roger rested a hand on his shoulder. Only then did David meet his friend’s eyes.
 
-“I know, Rog. It’s okay. I’ll be okay,” David whispered, touching his hand to Roger’s. “I’m…” But he couldn’t finish. And so a move to the cello. As he picked the case up, he turned to face them.
+“I know, Rog. It’s okay. I’ll be okay,” David whispered, briefly covering Roger’s hand with his own. “I’m…”
 
-“Good luck with the Dvořák,” he said, and with a deep breath, he turned and slowly walked out the door.
+But he couldn’t finish. He lowered his hand and went to retrieve his cello. With the case in hand, he looked once more at the others.
+
+“Good luck with the Dvořák,” he said.
+
+Then he walked out.
 
 * * *
 
