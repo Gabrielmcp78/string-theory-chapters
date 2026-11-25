@@ -7,8 +7,8 @@ Title:           The Lecture
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,401
-Paragraph Count: 257
+Word Count:      5,539
+Paragraph Count: 259
 Scene Count:     0
 
 ========================================================================
@@ -85,7 +85,7 @@ He circled back to the lectern, thumbed through his notes, but whatever turn in 
 
 “And if the system admits…”
 
-He was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only this time, he knew its number.
+Now, he was about to say noise, but before the word left his mouth, the very noise he must have meant came roaring at him. It was the same sound that had stopped him in the quad earlier, only this time, he knew its number.
 
 68.48 Hz.
 
@@ -109,7 +109,7 @@ Underneath it came the three-dimensional Euclidean distance formula.
 
   $$R*{ij} = \sqrt{(x*i - x*j)^2 + (y*i - y*j)^2 + (z*i - z_j)^2}$$
 
-But again, he could not quite explain why.
+The sound pressurized his eardrums until the shafts of light being scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.
 
 Anc as before, he could not quite explain why.
 
@@ -193,9 +193,7 @@ David took a deep breath and felt his hand steady. “Well,” he said, stepping
 
 Rune dusted chalk from his manicured fingertips. “Do you know, I once tried my hand at the bass guitar? Would you believe that of me, Professor Lang?”
 
-David turned to the class. “I doubt anyone alive would believe that of Dr. Ishikawa.”
-
-Rune bowed faintly to the students. “Take the chalk before I steal the remainder of your hour. I leave you the steeper half of the climb.”
+“I doubt anyone alive would believe that of Dr. Ishikawa.”
 
 “Fair, I suppose. Not everyone is cut out to be a rockstar.” Rune bowed faintly to the students, then drifted slowly up the center aisle. At the threshold, he paused to look back once. Then the oak door clicked shut, and he was gone.
 
@@ -239,7 +237,7 @@ The drone of the projector fan persisted into the deepening silence.
 
 “Professor?”
 
-Rebecca's voice came from the front row. David heard it distantly, though he could neither turn toward her nor answer. The frequency had climbed into his jaw, his skull, the narrow spaces between his ribs. He stood with his mouth parted, unable to draw another breath.
+Rebecca’s voice came from the front row. David heard it distantly, though he could neither turn toward her nor answer. The frequency had climbed into his jaw, his skull, the narrow spaces between his ribs. He stood with his mouth parted, unable to draw a complete breath.
 
 “Professor Lang?”
 
@@ -255,7 +253,7 @@ With her hands gently outstretched, Rebecca approached the lectern.
 
 He could. He could hear every word, every movement of the room, yet none of these sounds seemed to belong to the same world as the iron fork before him.
 
-The side door opened.
+The image, along with David’s inability to break from it, seemed to bend time, turning every elapsed second into something deeper, stranger: a collapse that threatened linearity altogether. Then, al though it was now impossible to determine next from never, the door at the side of the well opened.
 
 Professor Roger Linn stood in the threshold, his violin case in one hand, his coat still unbuttoned, carrying a brand of atmospheric calm that immediately reversed momentum. He took in the array of student faces, looked to David and the boards, then glanced back into the corridor where his eyes locked with Dr. Ishikawa, unseen behind the threshold, before the door released and Roger alone took over the space. He moved toward the well.
 
@@ -277,25 +275,39 @@ The phones disappeared with reluctant speed.
 
 Bags opened. Coats came up from the benches, slowly at first, then with the contagious haste of people who had been given permission to understand that something was profoundly wrong.
 
-As the last student emptied to the back of the hall, Roger turned back to David, only to be surprised to find Rebecca exactly where he had left her near the front.
+As the last students made their way toward the back of the hall, Roger turned toward David, only to find Rebecca exactly where he had left her near the front.
 
 “Professor Linn, I can stay,” she said.
 
-Naomi Feld came through the rear doors against the departing students, her coat damp with sleet. She saw Roger, then David, and went directly to Rebecca.
+“I know you can, Rebecca.” Roger glanced toward the rear doors, then back at David. “But I need a few minutes alone with him. Would you mind?”
+
+Rebecca looked toward the screen, where the enormous Polaroid still hung above them.
+
+“Is he going to be all right?”
+
+Roger hesitated. “I’m going to do everything I can.”
+
+Naomi Feld came through the rear doors against the departing students, her coat damp with sleet. She saw Roger, then David, and made her way down toward the well.
 
 “Naomi,” Roger said, relieved. “Would you mind taking Rebecca outside? I’ll be with you shortly.”
 
-The last students filed out. The doors closed, and with them went the small human noises by which a room ordinarily declares itself inhabited.
+Naomi looked at David, his hands still gripping the projector cart, then turned to Rebecca.
+
+“Come on, Becca,” she said, taking the young woman’s arm. “Roger’s got him. Let’s give them a minute, okay?”
+
+Rebecca hesitated, looking once more toward David. Then she nodded and allowed Naomi to lead her toward the doors.
+
+The last students filed out ahead of them. Naomi glanced back once at Roger before following Rebecca into the corridor.
+
+The doors closed, and with them went the small human noises by which a room ordinarily declares itself inhabited.
 
 Roger approached him slowly.
 
 “David.”
 
-There was no answer.
+There was no answer. He raised a hand toward David’s shoulder, then thought better of it; he had known this man too long to mistake his silence for an invitation, and whatever had taken hold of him seemed beyond the reach of ordinary reassurance.
 
-He raised a hand toward David's shoulder, then thought better of it. He had known this man too long to mistake his silence for an invitation. Whatever had taken hold of him was beyond the reach of ordinary reassurance, and there was something in the terrible fixity of his posture that warned Roger against forcing him back by touch.
-
-He closed his eyes for a moment, a search for how he might reach this dearest of friends now frozen in terror before him. A breath. Another, before he opened his eyes and moved very close to David’s ear.
+After a moment, Roger moved close enough to speak directly into his ear.
 
 “Open C,” he whispered.
 
@@ -303,7 +315,7 @@ A faint movement crossed David's eyelid.
 
 “Come on, Davey. Open C. Let the house hear you first.”
 
-His hands opened. The remote struck the floor and cracked against the linoleum. He staggered toward the lectern, caught its edge with his shoulder, and folded over the wood, dragging air into his lungs in great, broken gulps.
+The breath came out of him like something torn loose. His grip failed, sending the remote clattering against the linoleum, and as the strength returned to his limbs, David staggered against the lectern and folded over its edge, dragging air into his lungs in great, broken gulps.
 
 “Dave.”
 
@@ -331,9 +343,9 @@ Roger hesitated, uncertain how much of what he had witnessed David could bear to
 
 “No, Roger. Roger, what the hell is going on? Where the fuck are my…”
 
-“You were teaching. Something… something happened and you—” Roger's eyes moved to the boards.
+“You were teaching. Something… something happened and you—”
 
-David’s eyes followed, and for the first time, he saw what his hand had produced without his permission.
+Roger’s eyes moved toward the boards, and David followed his gaze, confronting for the first time what his hand had produced without his permission.
 
 “How long?”
 
@@ -355,13 +367,7 @@ Arthur’s hand remained behind David’s eyes: the pale cuff, the rise of a vei
 
 He had wept at funerals with order and timing and a handker chief folded afterward into neat quarters. Here, in the hollow well of the lecture hall, there was no such arrangement to be made. The tears came freely, carrying the chalk from his palms into pale streaks beneath his eyes, while Roger stood helplessly beside him, searching for something useful to do.
 
-Roger shifted nearer, then stopped himself, paralyzed by uselessness. “Are you going to be sick?”
-
-David shook his head, unable to speak past the blockage in his throat.
-
-The first sob broke through him before he could decide what answer would have been less humiliating.
-
-David flinched, and the hand vanished at once.
+At last Roger touched his shoulder, so tentatively that David might scarcely have felt it had he not flinched. The hand withdrew at once.
 
 “I'm sorry,” Roger whispered.
 
@@ -379,7 +385,7 @@ The heavy door opened behind them, admitting a gust of corridor air and Naomi Fe
 
 Naomi’s attention had traveled to the chalkboards, where the remnants of David’s lecture remained exposed in the gray light. Whatever she made of them, she kept it to herself.
 
-David hadn’t moved his eyes from the chalkboards for some time. “I don't remember writing any of it.”
+“I don’t remember writing any of it,” David said, his eyes still fixed on the slate.
 
 “It’s okay. Alright, you’re okay. David, it’s fine.”
 
@@ -405,11 +411,9 @@ David considered the sad little cup.
 
 He took it before Roger could spill any more across the lectern and drank, grateful for the interruption, though wiping his face with his sleeve only succeeded in transferring another quantity of chalk to his skin. Naomi, who had observed the transaction without comment, removed a clean handkerchief from her coat pocket and laid it beside his hand.
 
-From her coat pocket, Naomi removed a clean handkerchief and laid it quietly beside his hand.
+She left it there for him to discover. After a moment, he did.
 
 For some time they remained together in the emptied hall while David’s breathing gradually recovered a rhythm none of them quite trusted. Beyond the doors, the university continued its business, footsteps passing intermittently through the corridor, each approaching group drawing Naomi’s attention toward the entrance while Roger watched David for the slightest indication that another episode might be coming.
-
-After a moment, he did.
 
 “We have to get you out of this room,” Naomi said gently.
 
@@ -429,7 +433,7 @@ They entered the corridor together.
 
 Feynman Hall had resumed its ordinary, indifferent pace. Stu dents moved past with coffee, wet boots, and headphones, their laughter cut short by heavy doorways, while a pair of undergradu ates who noticed the chalk on David’s sleeve looked away with the embarrassed haste of people who had seen more than they meant to. Another recognized Roger and gave a startled nod to the violin case.
 
-David listened for his own name whispered in the wake.
+David listened for his own name in their wake, expecting the first whispers of whatever account of the morning had already begun circulating beyond the lecture hall. Instead, the building supplied only the low hum of the drinking fountain, the grinding of a printer somewhere nearby, and the familiar movement of heat through its hollow walls.
 
 Roger adjusted his grip on the violin case.
 
