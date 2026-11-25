@@ -7,19 +7,19 @@ Title:           Humanities
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,052
-Paragraph Count: 287
+Word Count:      6,046
+Paragraph Count: 286
 Scene Count:     9
 
-Scene 1: 12.1 Walk C | for David, Roger, towel, and crowbar  --  Words 1–1,007  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-01.html
-Scene 2: 12.2 The Cafe  --  Words 1,008–1,619  |  Paragraphs 59–94  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-02.html
-Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,620–1,992  |  Paragraphs 95–114  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-03.html
-Scene 4: 12.4 The Bench  --  Words 1,993–3,110  |  Paragraphs 115–168  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-04.html
-Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,111–3,613  |  Paragraphs 169–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-05.html
-Scene 6: 12.6 The House on the Hill (return)  --  Words 3,614–4,314  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-06.html
-Scene 7: 12.7 The Draft  --  Words 4,315–5,287  |  Paragraphs 216–255  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-07.html
-Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,288–5,539  |  Paragraphs 256–269  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-08.html
-Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,540–6,052  |  Paragraphs 270–287  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-12-scene-09.html
+Scene 1: 12.1 Walk C | for David, Roger, towel, and crowbar  --  Words 1–1,001  |  Paragraphs 1–57  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-01.html
+Scene 2: 12.2 The Cafe  --  Words 1,002–1,613  |  Paragraphs 58–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-02.html
+Scene 3: 12.3 Walk D - Part 1 | For Celeste and David  --  Words 1,614–1,986  |  Paragraphs 94–113  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-03.html
+Scene 4: 12.4 The Bench  --  Words 1,987–3,104  |  Paragraphs 114–167  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-04.html
+Scene 5: 12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light  --  Words 3,105–3,607  |  Paragraphs 168–179  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-05.html
+Scene 6: 12.6 The House on the Hill (return)  --  Words 3,608–4,308  |  Paragraphs 180–214  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-06.html
+Scene 7: 12.7 The Draft  --  Words 4,309–5,281  |  Paragraphs 215–254  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-07.html
+Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries  --  Words 5,282–5,533  |  Paragraphs 255–268  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-08.html
+Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,534–6,046  |  Paragraphs 269–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-12-scene-09.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -28,8 +28,6 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve  --  Words 5,540–6,052  |  Paragraphs 
 12.1 Walk C | for David, Roger, towel, and crowbar
 
 They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, guarding his injured ribs, did not reward conversation.
-
-for David, Roger, towel, and crowbar
 
 A few blocks in, Linn said, almost casually, “You don’t have a meeting.”
 
