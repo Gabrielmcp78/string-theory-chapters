@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126657,
+  "total_words": 126670,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -50,7 +50,7 @@
       "label": "Chapter 4",
       "title": "The Rehearsal",
       "subtitle": "",
-      "word_count": 2753,
+      "word_count": 2766,
       "paragraph_count": 109,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-04.html",
@@ -1402,7 +1402,7 @@
     "scenes_applied": 26,
     "files_changed_by_desk": 12,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T21:31:13.168113+00:00",
+    "desk_last_edit": "2026-11-25T21:36:14.285445+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
