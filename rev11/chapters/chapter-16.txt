@@ -7,16 +7,16 @@ Title:           Skepticism and Ridicule
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,084
-Paragraph Count: 200
+Word Count:      5,834
+Paragraph Count: 183
 Scene Count:     6
 
-Scene 1: 16.1 The Lounge  --  Words 1–1,475  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-01.html
-Scene 2: 16.2 | The Lecture  --  Words 1,476–2,200  |  Paragraphs 46–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-02.html
-Scene 3: 16.3 | The Fall  --  Words 2,201–3,297  |  Paragraphs 63–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-03.html
-Scene 4: 16.4 | The Quartet  --  Words 3,298–4,274  |  Paragraphs 96–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html
-Scene 5: 16.5 The Journey  --  Words 4,275–5,731  |  Paragraphs 120–190  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
-Scene 6: 16.6 The Attic | Present Day  --  Words 5,732–6,084  |  Paragraphs 191–200  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
+Scene 1: 16.1 The Lounge  --  Words 1–1,467  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-01.html
+Scene 2: 16.2 | The Lecture  --  Words 1,468–2,192  |  Paragraphs 46–62  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-02.html
+Scene 3: 16.3 | The Fall  --  Words 2,193–3,289  |  Paragraphs 63–95  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-03.html
+Scene 4: 16.4 | The Quartet  --  Words 3,290–4,099  |  Paragraphs 96–115  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-04.html
+Scene 5: 16.5 The Journey  --  Words 4,100–5,481  |  Paragraphs 116–173  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-05.html
+Scene 6: 16.6 The Attic | Present Day  --  Words 5,482–5,834  |  Paragraphs 174–183  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-16-scene-06.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -34,7 +34,7 @@ A ripple of laughter went through the small circle around the urn.
 
 “I hear PBS called the dean’s office,” said Aris Thorne, a senior condensed matter theorist, leaning against the counter with his arms crossed over a corduroy vest. “Carl Sagan’s old producer wants to know if you own a turtleneck and a pair of binoculars.”
 
-“God forbid,” David laughed, shaking his head. The warmth in his chest was dizzying. He had spent so many years desperate to prove that he belonged amongst the old guard, that he at all deserved the post in the first place. The casual banter of his peers felt like radiant, glorious heat. “I told the dean to send them to astronomy. The cosmos has enough baritones.”
+“God forbid,” David laughed, shaking his head. The warmth in his chest was dizzying. He had spent so many months locked in the cold draft of his rental, listening to the radiator clank against the floorboards, that the casual banter of his peers felt like radiant heat. “I told the dean to send them to astronomy. The cosmos has enough baritones.”
 
 “No, no, take the money, David!” Thorne insisted, grinning as he topped off his mug with lukewarm drip. “You become Sagan-famous, and suddenly the NSF looks at Newman Lab like we’re national heroes. You can hawk all the string perturbation theories the rest of us can’t get funded. Remember the eighties? The Superconducting Super Collider days? It was hog heaven, boys. Steak dinners at the Statler and five postdocs per bench.”
 
@@ -50,7 +50,7 @@ Miller paused, his mug halfway to his mouth. Thorne tilted his head.
 
 David set his mug on the edge of the Formica table and unzipped the heavy leather satchel resting against his ankle. He reached inside and withdrew a thick, squared stack of white paper, lifting it with both hands like an offering.
 
-“The Bailey Hall lecture was only the prologue,” David said, his eyes bright, radiating the manic clarity of three nights without sleep. “The pedagogical gloss for the public. But the real derivation, the actual mathematical coupling between acoustic standing waves and quantum boundary conditions, is right here. I finished the final proofs at four this morning. Printed twenty-seven copies on twenty-four-pound cotton stock from the bookstore so we could go through the field equations together.”
+“The Bailey Hall lecture was only the prologue,” David said, his eyes bright, radiating the manic clarity of three nights without sleep. “The pedagogical gloss for the public. But the real derivation—the actual mathematical coupling between acoustic standing waves and quantum boundary conditions—is right here. I finished the final proofs at four this morning. Printed twenty-seven copies on twenty-four-pound cotton stock from the bookstore so we could go through the field equations together.”
 
 Across the heavy cover page, grand staff lines intersected Dirac bra-ket notation; fermion field operators were sketched in dense India ink directly over treble and bass clefs:
 
@@ -58,7 +58,7 @@ Across the heavy cover page, grand staff lines intersected Dirac bra-ket notatio
 
 The room did not fall silent at once.
 
-Miller took the top copy, still chuckling under his breath, expecting an elaborate department prank, a satirical preprint mocking the humanities division. “What’s this, Lang? A musical score for the Hilbert space?”
+Miller took the top copy, still chuckling under his breath, expecting an elaborate department prank—a satirical preprint mocking the humanities division. “What’s this, Lang? A musical score for the Hilbert space?”
 
 He flipped open the cover. His smile remained fixed on his face for two seconds, then fossilized.
 
@@ -150,7 +150,7 @@ The students gathered their things with the decorum of mourners at a closed-cask
 
 16.3 | The Fall
 
-And then, in a moment begging for solitude, the opposite arrived. Rune Ishikawa silently slid into the room. He flipped on the second bank of overhead lights, and strolled gently into the room, each footfall a reminder that discipline, like entropy, always increased in the universe of higher education. The 119-Hz zap of the fluorescent tubes dragged David’s brain into the present.
+And then, in a moment begging for solitude, the opposite arrived. Rune Ishikawa silently slid into the room. He flipped on the second bank of overhead lights, and strolled gently ing the room, each footfall a reminder that discipline, like entropy, always increased in the universe of higher education. The 119-Hz zap of the fluorescent tubes dragged David’s brain into the present.
 
 Rune said nothing as he took in the aftermath. His gaze swept the chalkboard, the cello, the scattered residue of genius and madness.
 
@@ -241,23 +241,15 @@ At that, Catherine tapped Roger gently on the elbow, a gesture enough to make cl
 
 “David darling, you must know this isn’t us. It’s politics and, well, goodness… it’s goddamned funding. You know how this works.” She could see no real response from David yet, and so she moved in to hug his shoulders in regret. “Oh David, I… well, I’m sure when you’re ready, we can… we will work you back in. Yes?” She was more emphatic now. “Darling, I want you to take advantage of this, do you know? Recharge. Reset. We all need these moments sometimes.” She glanced back to Roger as if to signal that was all she had.
 
-As she stepped away, she glanced at Roger, her head lowered, her eyes blurred. Roger nodded, understanding the hand off. In his left hand, David’s bundle of music which he gently placed on the lid, pressing it closer to his friend.
+As she stepped away, she glanced at Roger, her head lowered, her eyes blurred. He stepped toward the piano, David’s bundle of music in his hands, and gently placed it on top of the piano, pressing it closer to his friend.
 
 David put one hand on the package, his fingers lingering on the twine. The knot was tight but elegantly executed, and unmistakably Roger. A double loop with the ends trimmed to matching lengths, something he had done to present prepared sheet music since they were in high school. It was, in its own way, a benediction, a signal that this was not what he wanted. A gesture to ease the pain or soften this news. It seemed less than adequate now.
 
-He wasn’t sure what to do. Wasn’t sure how all of this day had tumbled toward this moment so quickly. But he could not help but feel the inward pull of a certain brand of childlike shame. He had failed. He had not pulled through in the face of adversity. He knew exactly what Arthur would have said about all of this, but David’s own words failed him just the same.
+David untied the music packet and scanned the top page. His own notations: tiny arrows, circled accidentals, the occasional FIX THIS in capital letters, ran in a red current along the margins. Their musical scribblings stood as testament to a shared history of practice, of commitment, of joint struggle toward a threshold of excellence and the thousand small accommodations that had once made the group a single organism, a family for so many years.
 
-He untied the music packet and scanned the top page. His own notations: tiny arrows, circled accidentals, the occasional FIX THIS in capital letters, ran in a red current along the margins. Their musical scribblings stood as testament to a shared history of practice, of commitment, of joint struggle toward a threshold of excellence and the thousand small accommodations that had once made the group a single organism, a family for so many years.
+He closed the folder, replaced the twine, and tucked it under his arm. Roger gently placed a solemn hand on his shoulder, and David turned to meet his friend's eyes.
 
-A deep breath and a nod in resignation seemed all David could offer in response. As he closed the folder, his left hand began to shake. He tried to pull it away, but Roger saw and gently placed his hand over David’s.
-
-“Let me help you, Davey.”
-
-And so David stood by and watched his friend help him remove himself from their shared musical family. Roger finished with the twine and handed the bundle back.
-
-David didn’t want to look up, he couldn’t risk what Roger’s eyes might say. He simply took the pages and tucked them under his arm, all the while his head stayed bowed, lost. As he turned to go, he felt Rogers’ sure hand on his shoulder and he turned back to meet his friend's eyes.
-
-“I know, Rog. It’s okay. I’ll be okay,” David whispered, touching his hand to Roger’s. “I’m…” But he couldn’t finish. And so a move to the cello. As he picked the case up, he turned to face them.
+“I know, my friend,” David whispered, touching his hand to Roger’s. “I’m…” But he couldn’t finish. With a resigned nod of his head, he tucked the sheet music under one arm, picked his case off the ground and turned to face them.
 
 “Good luck with the Dvořák,” he said, and with a deep breath, he turned and slowly walked out the door.
 
@@ -266,37 +258,19 @@ David didn’t want to look up, he couldn’t risk what Roger’s eyes might say
 
 16.5 The Journey
 
-David walked out into the cold November fog, his bow packed, his tenure dismantled. The adrenaline of the day had begun to burn away, leaving him with the physical shock of what he had surrendered.
+David walked out into the cold November fog, his bow packed, his tenure dismantled. The adrenaline of the confrontation began to burn away, leaving only the dull, physical shock of the room he had just surrendered. He crossed the terrace beneath the steel arc of the atrium that connected the music school to the old stone chapel on the crest of the hill.
 
-He walked scarcely aware of where he was going, until he found himself beneath the grand arc of the atrium connecting the two wings of the music school, the old chapel beyond the hill.
+He could not tell if, when he opened his mouth, words or screams or wordless sorrow would sound. He pressed his knuckles to his mouth, waiting for his breath to steady, but the verdict came anyway, simple and stripped of defense:
 
-He was afraid to open his mouth. He could not tell whether words or screams or some wordless sorrow might come forth. The effort of holding it back had begun to hurt.
+“I am… alone.”
 
-He pressed his knuckles against his lips. A tear escaped, followed by another, until he could no longer distinguish the cold on his face from the warmth running down it. The first had settled in the fold of his mouth, faintly salt against his tongue, and something in that small sensation broke his resistance.
+The weight of it pressed into him, buckling his knees, and he sank down into the wet evening grass.
 
-He opened his mouth and heard himself say:
+He stayed like that for a long time, palms pressed to the cold ground, the scent of wet soil and iron in his nose. The glass roof of the atrium caught the city’s amber light, bending it along the ribs of the steel trusses. Through the high panes, a single star broke through the cloud cover over the chapel, silent and detached.
 
-“I am utterly… alone.”
+A breeze passed through the open walkway, carrying the faint smell of candied walnuts from the student café across the quad. It was such a small, human smell that it undid him completely. He closed his eyes, and in that scent, that absurd sweetness, another night came rushing back: the hill behind the music school, Celeste’s laughter ricocheting off the amphitheater’s stone arc, the two of them eating those ridiculous walnuts, sticky and warm from a street vendor, while the stars blinked like half-forgotten notes on a staff too vast to read.
 
-His knees gave beneath him, and he sank into the wet grass, his palms against the cold earth, breathing in the smell of wet soil and iron.
-
-Above him, the fog began to lift. A star appeared through the thinning clouds, revealing a darkness crowded with distant light. Behind him, the atrium caught the city's amber glow along its ribs of timber and steel.
-
-He had lost all sense of time. The confrontation, the failures accumulating over the past several days, even the words he had spoken aloud seemed impossibly distant, as though he had witnessed them without quite being present.
-
-Then, on a breath that hurt to draw, he caught the faint smell of candied walnuts drifting from the student café across the quad.
-
-He closed his eyes.
-
-Another November evening, years ago, on the hill behind the music school. Celeste's laughter carrying beneath the amphitheater's stone arc, the two of them sharing a paper bag of ridiculous candied walnuts bought from a street vendor. They had eaten them with sticky fingers while the stars came out over the campus. He remembered the way she had looked at him, the warmth of her hand brushing his as she reached into the bag, and how neither of them had withdrawn.
-
-He had forgotten the walnuts, though he could not have said when.
-
-Now the sweetness was in the cold air again, and he could remember the whole evening, down to the damp paper collapsing between their fingers and the sound of Celeste laughing at something, though at what, he no longer knew.
-
-And with it came other evenings, other promises, the things he had let fall slowly away.
-
-* * *
+The memories rose unbidden now. He did not want them. He could not stop them.
 
 | August, 2005 |
 
@@ -314,9 +288,9 @@ And with it came other evenings, other promises, the things he had let fall slow
 
 “Two days.”
 
-“This is gonna work, you guys. I know it’s been insane and no one is happy with how it went down, but…”
+“This is gonna work you guys. I know it’s been insane and no one is happy with how it went down but…”
 
-Celeste’s mouth began to curl, half sadness, half an anger she rarely let show.
+Celeste’s mouth began to curl, half sadness, half in an anger she rarely let show.
 
 “Celeste, sweetheart, I know. But this is for the best. We have to believe that.”
 
@@ -330,13 +304,13 @@ Celeste’s mouth began to curl, half sadness, half an anger she rarely let show
 
 “See, that right there… that’s why I love this woman!”
 
-“Oh, stop it! Here, Marcus. Take a shot for us. You think you can figure out that old thing?”
+“Oh, stop it! Here, Marcus. Take a shot for us. You think you can figure out that old thing?
 
-“I’m an astrophysicist. I think I can… Oh. Shit! I didn’t mean to… I think I hit the…”
+“I’m an astrophysicist. I think I can.. Oh. Shit! I didn’t mean to… I think I hit the…”
 
-“Jesus. Give me that, McGrath. Let’s see how you did. Ha! A total blur. Mr. UCLA can’t take a decent Polaroid.”
+“Jesus. Give me that McGrath. Let’s see how you did. Ha! A total blur. Mr. UCLA can’t take a descent Polaroid.”
 
-“Okay, alright, you two. Now that duffel is full of film cartridges. Take a million shots. Okay? I want weekly mailings. Everything you see.”
+“Okay, alright you two. Now that, that duffel is full of film cartridges. Take a million shots. Okay? I want weekly mailings. Everything you see.”
 
 “I will. I promise.”
 
@@ -350,8 +324,6 @@ David pulled back so he could look her in the eyes. “Always.”
 
 “All right, all right. Don’t make me have to quantum decouple the two of you! David, brother… you better get moving before they hire the next genius in a Wagoneer to arrive on East Hill.”
 
-* * *
-
 | November, 2005 |
 
 “To continue the call, please deposit twenty-five cents into the machine.”
@@ -360,21 +332,19 @@ David pulled back so he could look her in the eyes. “Always.”
 
 “David? Are you on a pay phone?”
 
-“Yeah. Sorry, the distance charge… Anyway, you’re gonna love it, Cele. The porch is crooked. The sink leaks. Well, just about everything leaks, but it feels right! Feels like us! Oh, and hey, your Oona chair is gonna love this little corner by the bay window.”
+“Yeah. Sorry, the distance charge… Anyway, you’re gonna love it, Cele. The porch is crooked. The sink leaks. Well, just about everything leaks but it feels right! Feels like us! Oh and hey, your Oona chair is gonna love this little corner by the bay window.”
 
 “I just wish I was there to see it.”
 
 “Don’t worry. I’ve got the camera with me. I promise a hundred Polaroids in the mail by sundown.”
 
-* * *
-
 | January, 2007 |
 
 …And a thousand other ghost lights of memory and madness, all tethered to the gravity of the house on the hill.
 
-The plaster and potential, the life it promised. Back then, the walls were stripped to lath, bare ribs showing through. The first night they stayed after plumbing the kitchen sink, they ate picnic-style on the raw subfloor. No chairs. No table yet. Just a pair of mismatched Solo cups full of Pinot Noir, and a candle stuck in the neck of the empty bottle. Wind slipped through the wall gaps, stirring the flame into nervous little bows. It was eternally windswept up on that courageous little hill. With no insulation and practically no walls, the pounding water from the great gorge below was so loud they almost had to scream to hear one another.
+The life of its promise, the plaster and potential, it had served as such an organizing force in those early years, before pressures and things unnamed crept in unannounced, turning table saw and paintbrush into a mausoleum of blueprints and neglect. Back then, the walls were stripped to lath, bare ribs showing through. The first night they stayed after plumbing the kitchen sink, they ate picnic-style on the raw subfloor. No chairs to sit on. No table yet. Just a pair of mismatched solo cups full of Pinot Noir, and a candle stuck in the neck of the empty bottle. Wind slipped through the wall gaps, stirring the flame into nervous little bows. It was eternally windswept up on that courageous little hill. With no insulation and practically no walls, the pounding constant of water flow from the great gorge below seemed so loud that, at first, they almost had to scream to hear one another.
 
-She was happy to be with him. Relieved it had worked. He was drunk on exhaustion and wine, giddy with what lay ahead.
+She was happy to be with him. Relieved it had worked. He was drunk on exhaustion and wine and her.
 
 “You won’t regret this, Cele,” he’d said, grinning like a man mid-prophecy. “I promise. I’ll show you. I’ll show everyone. You’re looking at the next Einsteinium.” He gestured vaguely toward the exposed beams. “I can feel it. With you by my side, I can do anything. All those fossils in the department, they’ll see what new physics really looks like. I can hear it, I swear. The universe is whispering. And this house, this hill, it’s going to be where it happens. I’m gonna conquer this place, Cele. I’m gonna conquer you, if you’ll let me. The world’s gonna know the name David Lang.”
 
@@ -386,25 +356,21 @@ She laughed, the kind of laugh that starts in the eyes and gains mischief as it 
 
 “Well, I’m right here, big boy,” she said, grinning. “Come and get me, Lang!”
 
-She ran up the stairs, knocking primer cans over as she went. David lunged after her. Up they went, two flights of century-old timber. A wild leap sent him shoulder-first into the hallway wall, leaving a splash of celadon green across the plaster. Celeste, halfway up the attic steps, pointed and laughed.
+She ran up the stairs, knocking primer cans over as she went. David lunged after her like a lion chasing its prey. Up they went, two flights of century-old timber. A wild leap sent him shoulder-first into the hallway wall, leaving a splash of celadon green across the plaster. Celeste, halfway up the attic steps, pointed and laughed.
 
 “My, what big, green footprints you have!”
 
-He chased her into the attic, a vast space covering the whole expanse of the house below, windows under the eaves, front and back, twin dormers on either side, each with a built-in bench beneath. They reached the open floor and met in a tangle of laughter and breath and motion.
+He chased her into the attic, a vast, magical space covering the whole expanse of the house below, windows under the eaves, front and back, twin dormers on either side, each with a built-in bench beneath. They reached the open floor and met in a tangle of laughter and breath and motion, enraptured by the possibility of a life just beginning.
 
-At daybreak they collapsed in the bay window overlooking the street. From there they could see the dome of the observatory glinting beyond campus. They lay there short of breath, the morning light coming through the glass.
+At daybreak they collapsed in the bay window overlooking the street. From there you could see the dome of the observatory glinting beyond campus. They lay there short of breath, finished and beginning all at once.
 
 “Just promise me one thing, darling,” Celeste whispered, panting and smiling from ear to ear. “Just finish this damned house before we’re eighty.”
 
-They fell back into each other, laughing, kissing, breathing as one.
+They fell back into each other, laughing, kissing, breathing as one. He grinned, savage, tender, and in that grin was everything he would later trade for the small, private music of the moment.
 
-It was a big ask, even then. But for years thereafter, he tried to answer it. Weekend after weekend, the tools came out; the work progressed. But the weekends grew fewer. There were papers to finish, grants to secure, colleagues to outpace. The tools stayed where he had left them. The blueprints gathered dust.
+It was a big ask, even then. But for years thereafter, he tried to answer it. Weekend after weekend, the tools came out; the work progressed. But the weekends grew fewer. David’s need to produce at the university consumed the rest. Soon, and as sure as night follows day, the promise gave way, making room for the need to compete.
 
-“We’ll get to it,” he promised, year after year.
-
-After five. After ten. After fifteen. After nineteen.
-
-And then…
+“We’ll get to it,” he promised, year after year. After five. After ten. After fifteen. After nineteen. And then…
 
 
 16.6 The Attic | Present Day
