@@ -11,11 +11,11 @@ Word Count:      3,806
 Paragraph Count: 162
 Scene Count:     5
 
-Scene 1: 18.1   Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-18-scene-01.html
-Scene 2: 18.2  Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-18-scene-02.html
-Scene 3: 18.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-18-scene-03.html
-Scene 4: 18.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-18-scene-04.html
-Scene 5: 18.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-18-scene-05.html
+Scene 1: 18.1   Street Smarts   |   November 28, 2026  --  Words 1–615  |  Paragraphs 1–25  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-01.html
+Scene 2: 18.2  Wander, Wonder and Wait  --  Words 616–1,078  |  Paragraphs 26–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-02.html
+Scene 3: 18.3  Sundays  --  Words 1,079–1,556  |  Paragraphs 47–82  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-03.html
+Scene 4: 18.4  A Preference for Precision  --  Words 1,557–2,081  |  Paragraphs 83–97  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-04.html
+Scene 5: 18.5  The Conduction  --  Words 2,082–3,806  |  Paragraphs 98–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-18-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
