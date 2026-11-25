@@ -181,10 +181,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -411,23 +407,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -2199,11 +2202,16 @@ def index_note_html():
 
 _MATH_SPAN = re.compile(r'(?<![\\$])(\$\$[^$<>]+?\$\$|\$(?!\$)[^$<>\n]+?(?<!\\)\$)(?!\$)')
 _BARE_HASH = re.compile(r'(?<![&\\])#(?!x?[0-9a-fA-F]+;)')
+_SUBSCRIPT_STAR = re.compile(r'([A-Za-z0-9}])\*(?=[A-Za-z0-9{])')
 
 def fix_math_hashes(page_html):
     """A bare '#' is not valid TeX (it must be '\\#'), and KaTeX answers with a red parse error. Inside $...$ and $$...$$
-    spans only, escape it. HTML character references such as &#x27; are left alone."""
-    return _MATH_SPAN.sub(lambda m: _BARE_HASH.sub(r'\\#', m.group(0)), page_html)
+    spans only, escape it and restore any Markdown-corrupted '*' subscripts back to '_'.
+    HTML character references such as &#x27; are left alone."""
+    def _clean_math(m):
+        tex = _BARE_HASH.sub(r'\\#', m.group(0))
+        return _SUBSCRIPT_STAR.sub(r'\1_', tex)
+    return _MATH_SPAN.sub(_clean_math, page_html)
 
 def configure_output(out_dir, pages_url, source_label="", banner_html=None):
     """Point every output path and absolute URL at a sub-site (e.g. rev11/)."""

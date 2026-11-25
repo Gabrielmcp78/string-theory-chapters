@@ -399,10 +399,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -629,23 +625,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -980,8 +983,8 @@ Chapter Words:   1,091–1,177 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">4. Difference Tones &amp; Third Pulses (Tartini Waves)</div>
-<p class="body">When two sustained, loud acoustic frequencies $f*1$ and $f*2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:</p>
-<div class="equation">$$f*{\text{diff}} = |f*1 - f_2|$$</div>
+<p class="body">When two sustained, loud acoustic frequencies $f_1$ and $f_2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:</p>
+<div class="equation">$$f_{\text{diff}} = |f_1 - f_2|$$</div>
 <p class="body">When David plays the open A and stops the adjacent string in a major second, the difference tone produces an infrasonic, rhythmic pulsation in the room. In the novel, difference tones are the mechanism by which two unaligned historical periods produce a third, physical reality.</p>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 7 &#8212;</div>

@@ -401,10 +401,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -631,23 +627,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -994,7 +997,7 @@ Scene Count: 0
 <p class="body">CAUSALITY.</p>
 <p class="body">He turned over his shoulder with a grin. “The old human narcotic.”</p>
 <p class="body">Beneath it he wrote:</p>
-<div class="equation">$$\Psi(x,t)=\sum*i c*i\phi*i(x)e^{-iE*i t/\hbar}$$</div>
+<div class="equation">$$\Psi(x,t)=\sum_i c_i\phi_i(x)e^{-iE_i t/\hbar}$$</div>
 <p class="body">“This is the whole wave function: everything the system could possibly become gathered into one sprawling, unobserved description. We call it probability because the alternative requires admitting that we do not entirely know what reality is before we look at it.”</p>
 <p class="body">Several students smiled.</p>
 <p class="body">“I have always preferred the admission.”</p>
@@ -1022,7 +1025,7 @@ Scene Count: 0
 <p class="body">Instead, the frequency seemed to encourage, even influence, what next transferred from his head to his hand as he wrote:</p>
 <p class="body">HOW DO YOU MEASURE PROXIMITY?</p>
 <p class="body">Underneath it came the <strong>three-dimensional Euclidean distance formula</strong>.</p>
-<div class="equation">$$R*{ij} = \sqrt{(x*i - x*j)^2 + (y*i - y*j)^2 + (z*i - z_j)^2}$$</div>
+<div class="equation">$$R_{ij} = \sqrt{(x_i - x_j)^2 + (y_i - y_j)^2 + (z_i - z_j)^2}$$</div>
 <p class="body">The sound pressurized his eardrums until the shafts of light being scattered through the tall back windows took on an unnatural pulse, brightening and dimming in time with something no one else could hear.</p>
 <p class="body">Anc as before, he could not quite explain why.</p>
 <p class="body">“When the world resonates,” he said, his voice softer now, stranger, “you feel less alone. Like there&#x27;s structure underneath the random noise. Drift just a little…”</p>
@@ -1052,7 +1055,7 @@ Scene Count: 0
 <p class="body">Two small circles appeared on opposite sides of the board, labeled A and B. Between them, Rune drew the room as an interconnected field.</p>
 <p class="body">“The susceptibility asks what B does when A is disturbed at frequency omega. If B does nothing measurable, the coupling may be weak, however near they stand. If B answers, even faintly, then your ruler has become a very expensive superstition.”</p>
 <p class="body">Rune wrote again, faster now, the chalk making a dry, surgical music against the slate:</p>
-<div class="equation">$$\chi*{AB}(\omega) = \frac{\langle A | \hat{V} | B \rangle}{\omega - \omega*0 + i\epsilon}$$</div>
+<div class="equation">$$\chi_{AB}(\omega) = \frac{\langle A | \hat{V} | B \rangle}{\omega - \omega_0 + i\epsilon}$$</div>
 <p class="body">“The room has modes. It has preferences, if we are willing to forgive the word. A disturbance here”—he touched point A—“enters the conditions both systems share. At resonance, those conditions amplify the smallest permitted answer.”</p>
 <p class="body">The final term received a single, emphatic underline. Rune looked across the room at unconvinced, slightly glossed-over faces.</p>
 <p class="body">“Now, we do not ask, &#x27;How close are they?&#x27; No, we simply ask, &#x27;What is it that can make them answer?&#x27;”</p>

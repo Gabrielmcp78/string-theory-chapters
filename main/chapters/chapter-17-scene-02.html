@@ -399,10 +399,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -629,23 +625,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -1047,7 +1050,7 @@ Chapter Words:   1,164–4,878 (within full chapter)
 <p class="body">David leaned forward. His eyes fixed on Section 3 of the technical note. The equations were rendered in hand-lettered Greek:</p>
 <div class="equation">$$\ddot{x} + \gamma \dot{x} + \omega_0^2 x + \alpha x^3 = F(t)$$</div>
 <p class="body">Beneath it, the Duffing frequency relation:</p>
-<div class="equation">$$\omega*d = \omega*0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$</div>
+<div class="equation">$$\omega_d = \omega_0 \sqrt{1 + \frac{3\alpha A^2}{4\omega_0^2}} \approx 2\pi \times 68.48 \text{ Hz}$$</div>
 <p class="body">And below the boundary integral, penned in an unfamiliar, tight upright hand:</p>
 <p class="body3"><em>Lang was right. The mode is real. The question is not whether it exists, but why it persists. —K.T.</em></p>
 <p class="body">Marcus stared at the purple ink, the color draining from his cheeks. &quot;Sixty-eight point four-eight hertz. That is our fundamental. That is the exact carrier in our conveyance curves.&quot;</p>
@@ -1057,7 +1060,7 @@ Chapter Words:   1,164–4,878 (within full chapter)
 <p class="body">David felt the blood surge hot into his temples, his voice cracking with raw, unvarnished desperation.</p>
 <p class="body">&quot;I swear to God,&quot; David said, leaning forward in his chair. &quot;They hardly let me see the man in his final years! My father kept me away. Every time I went home to Cambridge, the door to Elliot&#x27;s study was locked. I thought he was scribbling nonsense in there, losing his mind in the dark, writing on the walls! I swear to you, Dr. Ishikawa. I never saw a single page of this work until you slid it across that desk tonight.&quot;</p>
 <p class="body">Rune reached across the mahogany and drew David’s black leather notebook toward him. With slow, practiced fingers, he turned the pages until he reached David’s Somerville boundary derivation. He slid Elliot’s nineteen sixty-four Harvard monograph directly beside it, turning Elliot’s typed page to Section 4.</p>
-<p class="body">&quot;Look at the third line of your boundary integration, David,&quot; Rune said quietly. His index finger touched David’s handwritten ink, then moved to Elliot’s yellowed typescript. &quot;Not the frequency. The notation. In standard perturbation theory, the transverse decay constant is indexed $\lambda*{\perp}$. In nineteen sixty-four, when your grandfather drafted this paper alone in Cambridge, he worked without reference tables. He invented an arbitrary coordinate transform—a non-standard cross-ratio indexed as $\Xi*{(0)}^{*}$ with an off-diagonal phase shift $\delta_L$.&quot;</p>
+<p class="body">&quot;Look at the third line of your boundary integration, David,&quot; Rune said quietly. His index finger touched David’s handwritten ink, then moved to Elliot’s yellowed typescript. &quot;Not the frequency. The notation. In standard perturbation theory, the transverse decay constant is indexed $\lambda_{\perp}$. In nineteen sixty-four, when your grandfather drafted this paper alone in Cambridge, he worked without reference tables. He invented an arbitrary coordinate transform—a non-standard cross-ratio indexed as $\Xi_{(0)}^{*}$ with an off-diagonal phase shift $\delta_L$.&quot;</p>
 <p class="body">Rune lifted his gaze, his eyes fixing on David with clinical precision.</p>
 <p class="body">&quot;There it is on page seventeen of Elliot&#x27;s draft. An arbitrary symbol that appears in no textbook, no journal, nowhere in the public literature. And here it is in your Somerville notebook, penned in blue ink two months ago, down to the exact subscript and the same non-standard sign convention.&quot;</p>
 <p class="body">Rune&#x27;s voice fell to a razor-thin murmur.</p>

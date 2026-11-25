@@ -399,10 +399,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -629,23 +625,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -980,8 +983,8 @@ Chapter Words:   1,550–1,641 (within full chapter)
 [ End Scene Manifest ]</pre></details>
 
 <div class="location">8. Phase-Locking &amp; The 3:2 Hemiola</div>
-<p class="body">When two weakly coupled non-linear oscillators with natural frequencies $\omega*1$ and $\omega*2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:</p>
-<div class="equation">$$p \omega*1 - q \omega*2 \approx 0$$</div>
+<p class="body">When two weakly coupled non-linear oscillators with natural frequencies $\omega_1$ and $\omega_2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:</p>
+<div class="equation">$$p \omega_1 - q \omega_2 \approx 0$$</div>
 <p class="body">where $p$ and $q$ are small integers. The <strong>3:2 hemiola</strong>—three pulses of the human observer’s cardiac cycle to two pulses of the atmospheric auroral emission lines—represents the biological entrainment of human tissue to the planetary electromagnetic field. The observer is no longer an isolated spectator; his body has become a phase-locked component of the planetary resonator.</p>
 
 <div class="chapter-sentinel" id="scene-end">&#8212; End of Scene 11 &#8212;</div>

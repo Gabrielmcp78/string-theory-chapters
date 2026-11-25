@@ -401,10 +401,6 @@ h3.subchapter {
     font-style: italic; color: #555; font-size: 0.95rem;
     margin: 0.4em 0 1em;
 }
-.equation {
-    font-style: italic; text-align: center; color: #333;
-    margin: 1.2em auto; font-size: 0.95rem;
-}
 .caption {
     font-size: 0.82rem; color: #999; text-align: center;
     letter-spacing: 0.06em; margin: 0.6em 0;
@@ -631,23 +627,30 @@ footer a:hover { color: #b8785a; }
 
 /* ===== Mathematical Equations (KaTeX) ===== */
 .equation {
-    font-family: 'Times New Roman', 'Cambria Math', serif;
-    font-style: italic;
+    font-family: 'KaTeX_Main', 'Times New Roman', 'Cambria Math', serif;
+    font-style: normal;
     text-align: center;
     color: var(--text-primary);
-    margin: 1.4em auto;
-    font-size: 1.15rem;
+    background: var(--card-bg);
+    border-top: 1px solid var(--card-border);
+    border-bottom: 1px solid var(--card-border);
+    border-left: 3px solid var(--copper-accent);
+    border-radius: 6px;
+    margin: 2.2rem auto;
+    padding: 1.15rem 1.4rem;
+    font-size: 1.18rem;
     overflow-x: auto;
-    padding: 0.4em 0;
+    overflow-y: visible;
 }
 .katex-display {
     overflow-x: auto;
-    overflow-y: hidden;
-    padding: 0.5em 0;
-    margin: 1.2em 0;
+    overflow-y: visible;
+    padding: 0.25rem 0;
+    margin: 0;
 }
 .katex {
-    font-size: 1.15em;
+    font-size: 1.16em;
+    line-height: 1.4;
 }
 
 /* ===== Dark Mode Complete Styling ===== */
@@ -1033,8 +1036,8 @@ Scene 11: 8. Phase-Locking &amp; The 3:2 Hemiola -- Word Range: 1,550–1,641 | 
 <p class="body">Standard concert pitch establishes A4 at 440 Hz (or A432 in Verdi scientific tuning). Descending octaves of standard C and C#: * $\text{C}_2 = 65.41\text{ Hz}$ * $\text{C}\#_2 = 69.30\text{ Hz}$ * $\text{D}_2 = 73.42\text{ Hz}$</p>
 <p class="body">The frequency of <strong>68.48 Hz</strong> is an anomalous microtonal pitch occupying the exact fractional cleft between C2 and C#2 ($\approx 68.48\text{ Hz}$ corresponds to a quarter-tone depression, approximately 20 cents below equal-tempered C#2). In the geology of Cayuga Lake and the archives of Project ARGO, 68.48 Hz represents an uncoupled, non-dispersive boundary frequency—an acoustic fault line where local matter resists harmonic entrainment.</p>
 <div class="location" id="scene-7">4. Difference Tones &amp; Third Pulses (Tartini Waves)</div>
-<p class="body">When two sustained, loud acoustic frequencies $f*1$ and $f*2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:</p>
-<div class="equation">$$f*{\text{diff}} = |f*1 - f_2|$$</div>
+<p class="body">When two sustained, loud acoustic frequencies $f_1$ and $f_2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:</p>
+<div class="equation">$$f_{\text{diff}} = |f_1 - f_2|$$</div>
 <p class="body">When David plays the open A and stops the adjacent string in a major second, the difference tone produces an infrasonic, rhythmic pulsation in the room. In the novel, difference tones are the mechanism by which two unaligned historical periods produce a third, physical reality.</p>
 <div class="location" id="scene-8">5. Chladni Plates &amp; Quantum Nodal Eigenmodes</div>
 <p class="body">The vibration of a thin, flat elastic plate of thickness $h$, flexural rigidity $D$, and mass density $\rho$ is governed by the biharmonic wave equation:</p>
@@ -1055,8 +1058,8 @@ Scene 11: 8. Phase-Locking &amp; The 3:2 Hemiola -- Word Range: 1,550–1,641 | 
 <div class="equation">$$y(t) = \mathcal{H}[x(t), \text{History}]$$</div>
 <p class="body">The physical response depends not merely on the frequency applied, but on the sequence of frequencies previously traversed. When David and Celeste arrive at the unexpected F, the instrument produces a delayed, two-second residual decay because the wood has been phase-locked into a non-linear limit cycle. The cello does not simply vibrate; it retains memory.</p>
 <div class="location" id="scene-11">8. Phase-Locking &amp; The 3:2 Hemiola</div>
-<p class="body">When two weakly coupled non-linear oscillators with natural frequencies $\omega*1$ and $\omega*2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:</p>
-<div class="equation">$$p \omega*1 - q \omega*2 \approx 0$$</div>
+<p class="body">When two weakly coupled non-linear oscillators with natural frequencies $\omega_1$ and $\omega_2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:</p>
+<div class="equation">$$p \omega_1 - q \omega_2 \approx 0$$</div>
 <p class="body">where $p$ and $q$ are small integers. The <strong>3:2 hemiola</strong>—three pulses of the human observer’s cardiac cycle to two pulses of the atmospheric auroral emission lines—represents the biological entrainment of human tissue to the planetary electromagnetic field. The observer is no longer an isolated spectator; his body has become a phase-locked component of the planetary resonator.</p>
 
 <div class="chapter-sentinel" id="chapter-end">&#8212; End of Appendix &#8212;</div>
