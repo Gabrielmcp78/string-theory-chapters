@@ -7,13 +7,13 @@ Title:           Alteration Finds
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,835
-Paragraph Count: 246
+Word Count:      4,265
+Paragraph Count: 249
 Scene Count:     3
 
-Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,154  |  Paragraphs 1–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-01.html
-Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,155–1,663  |  Paragraphs 56–88  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-02.html
-Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,664–3,835  |  Paragraphs 89–246  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-07-scene-03.html
+Scene 1: 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day  --  Words 1–1,600  |  Paragraphs 1–60  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html
+Scene 2: 7.2   THE WORKSHOP   |   Buffalo, NY  --  Words 1,601–2,109  |  Paragraphs 61–93  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html
+Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 2,110–4,265  |  Paragraphs 94–249  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -21,15 +21,15 @@ Scene 3: 7.3   THE HOTEL ROOM   |   Buffalo, NY  --  Words 1,664–3,835  |  Par
 
 7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day
 
-Fog drifted through downtown Buffalo, gathering beneath the streetlamps and dissolving the upper stories into darkness. David wandered along Main Street with his collar turned against the cold, his dinner sitting heavily beneath his ribs. Traffic had thinned to the occasional car, its tires whispering over wet pavement before the sound disappeared into the mist.
+Fog drifted through downtown Buffalo, gathering beneath the street lamps and dissolving the upper stories into darkness. David wandered along Main Street with his collar turned against the cold, his dinner sitting heavily beneath his ribs. Traffic had thinned to the occasional car, its tires whispering over wet pavement before the sound disappeared into the mist.
 
-Ahead, the enormous illuminated marquee of Shea's Theatre blazed through the fog, its rows of bulbs recalling the carnival midway at the county fair his father had taken him to as a boy. For an instant he caught the smell of wet sawdust and spun sugar, Arthur laughing somewhere above the mechanical racket of the rides. Then a bus passed between him and the theater, and the memory went with it.
+Ahead, the enormous illuminated marquee of Shea's Theatre blazed through the fog, its rows of bulbs recalling the carnival midway at the county fair his father had taken him to as a boy. For an instant he caught the smell of wet sawdust and spun sugar, Arthur laughing somewhere above the mechanical racket of the rides. Then it faded, overtaken by the great soundscape of a sleeping city. A torn newspaper page caught on the wind, a stray cat talking to the night air, the moon, the world. A bus passed between him and the theater, spraying slush across the base of his trousers, and a deeply untethered memory across the forgotten recesses of his mind. A shop. An alley banked in white. Roger's text about a place to find a replacement C string. Tungsten.
 
 Wonderful little string shop somewhere in Buffalo.
 
-He wandered another few blocks, inspecting the occasional lighted window, but the businesses grew fewer as he moved away from the theater. A florist was closing for the evening. Beyond it, a travel agency stood boarded up, its faded advertisements promising Mediterranean sunshine. The next intersection offered little encouragement, and after another five minutes David began to suspect that Roger's wonderful little shop had gone the way of so many wonderful little shops.
+He wandered another few blocks, inspecting the occasional lighted window, but the businesses grew fewer as he moved away from the theater. A florist was closing for the evening. Beyond it, a travel agency stood boarded up, its faded advertisements promising Mediterranean sunshine and seniors caravans to Branson. The next intersection offered little more, and after another five minutes David began to suspect that Roger's wonderful little shop had gone the way of so many wonderful little shops.
 
-He turned back toward the theater, now reduced to a distant amber blur.
+He turned back toward the theater, now reduced to a distant amber blur, and for a moment he felt like his grandfather was stretching his arms around him. Like if he looked in a mirror, Elliot would wave back at him. He smiled and walked on.
 
 The side streets were deserted, storefronts shuttered, and not a soul appeared in any direction. Had there been anyone about, he might have had reason to keep his guard up, the surrounding neighborhood having clearly seen better, cleaner days. But the complete absence of another human being seemed almost a safeguard in itself. The only evidence of life came from an owl calling somewhere down a narrow side street, well beyond the reach of the nearest lamp.
 
@@ -37,11 +37,13 @@ He walked further through the silent streets, his clicking heels the only other 
 
 Well, I guess it's just you and me, old bird.
 
-He smiled at the thought and turned toward the sound. The side street was hardly more than an access alley. A part of the city that had that once bustling, now forgotten air about it. He could make out very little beyond the dark geometry of a fire escape and the faint suggestion of rooftops above, but curiosity had already carried him off the main thoroughfare, and before he had quite decided to follow, he found himself walking down the narrow, sullen street, half hoping to make the wise creature's acquaintance.
+He smiled at the thought and turned toward the sound. He could make out very little beyond the dark geometry of a fire escape and the faint suggestion of rooftops above, but curiosity had already taken hold, and before he had quite decided to follow, he found himself walking down the narrow, sullen street, half hoping to make the wise creature's acquaintance.
 
-He had gone perhaps twenty paces when something caught his eye.
+The road seemed hardly more than an access alley at first. But the further he wandered, the more the air heavied with longing, even sadness. David couldn’t shake the feeling. The weathered, broken curbsides carried that once bustling, now forgotten air about them.
 
-A faint amber light glowed behind a pane of clouded glass. Inside, a cello bridge stood upright among ebony pegs and cakes of rosin, the familiar shapes gathering slowly out of the darkness as he approached.
+He had gone perhaps thirty paces when something caught his eye.
+
+A faint amber light glowed behind clouded glass. Inside, a cello bridge stood upright among ebony pegs and cakes of rosin, the familiar shapes gathering slowly out of the darkness as he approached.
 
 Above the doorway, a weathered woodcut sign read:
 
@@ -49,15 +51,21 @@ REPAIR SHOP FOR STRINGS
 
 David stopped.
 
-For a moment, the shop seemed less a place he had come upon than something the street had been concealing until he was close enough to recognize it. He looked back toward the darkness where the owl had called, then at the sign again.
+For a moment, the shop seemed less a place he had come upon than something the street had been concealing until he was close enough to recognize it. He looked back toward the darkness where the owl had called, then at the sign again. Leave it to Roger to know of such a strange and lost place as this. Leave it to him once more to actually recommend such a place to anyone else.
 
-Inside, an older woman raised her head from the instrument in her lap. She watched him through the glass for a moment, set her work aside, and came toward the door.
+As he reached the modest storefront, he slowed, then stopped, frozen as he peered through the mud and salt-caked windows. Inside, an older woman raised her head from the instrument in her lap. She watched him through the glass for a moment, then slowly set her work aside, and came toward the door, staring straight at David all the way.
 
-“You will freeze if you stay like this,” she said.
+She opened the door just enough to peek her head out beyond the threshold.
 
-The air in the shop smelled of cedar oil and brass polish.
+“You will freeze if you stay like this.”
 
-A viola lay open-bodied on the counter. Nearby, a cracked cello rib rested on linen.
+David noticed her accent immediately. Her voice came from far west of upstate New York.
+
+“Come in, dear. Come and warm yourself at least.”
+
+David nodded and followed her into the shop.
+
+The air smelled of cedar oil and brass polish. A viola lay open-bodied on the counter. Nearby, a cracked cello rib rested on linen.
 
 “I'm looking for a replacement string,” David said. “A cello C. Tungsten-wound, if you have it.”
 
@@ -113,21 +121,23 @@ Something in him contracted, then softened, like memory returning in a language 
 
 He laid his palm on the cracked neck of a cello resting on the counter. The wood was warm.
 
-They stood close, shoulders nearly touching, and did not turn to face one another.
+The old woman sat quietly on her stool behind the counter, close enough that their shoulders had nearly touched when she leaned toward the instrument. Neither had turned to face the other.
 
-He took the string envelope from the counter and paid, his fingers brushing the parchment.
+He withdrew his hand, took the string envelope, and paid.
 
-Moving to leave, he stopped at the threshold.
+At the door, he stopped. An unexpected sadness had come over him, so sudden and strangely intimate that he turned back toward her before he quite understood what he meant to ask.
 
 “Will I see you again?”
 
-The old woman stopped what she was doing. She moved toward him and gently took his hand, a mischievous grin sliding across her deeply wrinkled but beautiful face.
+The old woman looked up from her work. For a moment she regarded him without speaking, then rose slowly from her stool and came around the counter. Taking his hand gently in hers, she looked up at him with a mischievous grin that brought a wonderful, almost girlish brightness to her deeply wrinkled face.
 
 “You already have, dear,” she replied, as she pressed a thick, cream business card into his hand, ushered him out the door, locking it behind him as he left.
 
-David took five, maybe six steps from the storefront when he turned back. The lights were out. The windows pitch-dark. The owl fluttered onto the fire escape above.
+David had only taken five, maybe six steps from the storefront when something made him turn back. The lights in the shop were out, the windows pitch-dark. Suddenly the safety of empty streets began to feel like the opposite. He glanced behind him into the deep black of further on, and began walking back toward the main thoroughfare, the unknown chasing his thoughts from close behind. Just before he emerged from the alley, the owl from earlier returned, fluttering onto the fire escape above. David glanced up to find the bird staring straight at him. For a moment, neither animal moved. Then an empty city bus, its sign reading TO BUS BARN plowed past, and the bird flew off into the night. David flipped the collar of his jacket up around his neck and went about the business of finding his way back to civilization and the warmth of his hotel.
 
-He lingered longer than he meant, saw less than he wanted, and left quieter than he arrived.
+Though he found the new string he needed, he couldn’t help but feel that something had been missed back there. A frigid gust of wind wiped the thought away before it had a chance to melt into him. The chill of it quickened his pace.
+
+He had lingered longer than he meant, seen less than he wanted, and left quieter than he arrived.
 
 
 7.2   THE WORKSHOP   |   Buffalo, NY
@@ -502,10 +512,6 @@ The line clicked quiet.
 David sat motionless on the edge of the bed, the repair slip in one hand, the cooling phone in the other. The melody moved through him again, wandering, unresolved, never arriving where it seemed destined to land. He had fallen asleep to it a thousand times without ever asking where it came from.
 
 The cello lay open at the foot of the bed.
-
-Something had moved from atmosphere into fact.
-
-And fact, however partial, carried its own narcotic authority.
 
 He lay back slowly, the slip resting against his chest. The vent continued breathing overhead. Somewhere beyond the sealed hotel glass a snowplow dragged metal against pavement.
 
