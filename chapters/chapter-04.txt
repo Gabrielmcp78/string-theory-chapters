@@ -7,15 +7,13 @@ Title:           The Rehearsal
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,935
-Paragraph Count: 106
+Word Count:      2,934
+Paragraph Count: 105
 Scene Count:     0
 
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
-
-##
 
 The Music School’s residence on East Hill had never resolved into a single, settled idea. It was a slow-growing organism that had learned its shape by necessity, by habit, by the pressure of young lives needing rooms in which to fail and begin again. The original 1907 Elizabethan-style chapel sat at its center, a masonry heart, cool and enduring, around which the future had gathered over decades, addition by addition, corridor by corridor, until the whole became less a plan than a history you could walk through.
 
