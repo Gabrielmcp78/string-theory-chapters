@@ -7,21 +7,21 @@ Title:           Compendium of Tempi, Acoustics & Note-Bound Physics
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      1,641
+Word Count:      1,642
 Paragraph Count: 59
 Scene Count:     11
 
-Scene 1: Critical Reference Manual | Historical, Acoustic & Mathematical Formalisms  --  Words 1–70  |  Paragraphs 1–5  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html
-Scene 2: 1. Symphonic & Instrumental Tempi (Chapter 14)  --  Words 71–270  |  Paragraphs 6–8  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html
-Scene 3: 2. The Passion / Oratorio Forms (Chapter 10)  --  Words 271–665  |  Paragraphs 9–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-03.html
-Scene 4: 1. The Monochord & Integer Harmonic Ratios  --  Words 666–878  |  Paragraphs 15–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-04.html
-Scene 5: 2. Vis Viva & The Du Châtelet Octave Doubling ($E_k \propto v^2$)  --  Words 879–985  |  Paragraphs 25–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-05.html
-Scene 6: 3. The 68.48 Hz Infrasonic Fault Line  --  Words 986–1,090  |  Paragraphs 31–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-06.html
-Scene 7: 4. Difference Tones & Third Pulses (Tartini Waves)  --  Words 1,091–1,177  |  Paragraphs 34–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-07.html
-Scene 8: 5. Chladni Plates & Quantum Nodal Eigenmodes  --  Words 1,178–1,331  |  Paragraphs 38–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-08.html
-Scene 9: 6. The Maunder Minimum & The Cold Star (1645–1715)  --  Words 1,332–1,452  |  Paragraphs 47–51  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-09.html
-Scene 10: 7. Hysteresis & Coupled Non-Linear Oscillators  --  Words 1,453–1,549  |  Paragraphs 52–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-10.html
-Scene 11: 8. Phase-Locking & The 3:2 Hemiola  --  Words 1,550–1,641  |  Paragraphs 56–59  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-11.html
+Scene 1: Critical Reference Manual | Historical, Acoustic & Mathematical Formalisms  --  Words 1–70  |  Paragraphs 1–5  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-01.html
+Scene 2: 1. Symphonic & Instrumental Tempi (Chapter 14)  --  Words 71–271  |  Paragraphs 6–8  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-02.html
+Scene 3: 2. The Passion / Oratorio Forms (Chapter 10)  --  Words 272–666  |  Paragraphs 9–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-03.html
+Scene 4: 1. The Monochord & Integer Harmonic Ratios  --  Words 667–879  |  Paragraphs 15–24  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-04.html
+Scene 5: 2. Vis Viva & The Du Châtelet Octave Doubling ($E_k \propto v^2$)  --  Words 880–986  |  Paragraphs 25–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-05.html
+Scene 6: 3. The 68.48 Hz Infrasonic Fault Line  --  Words 987–1,091  |  Paragraphs 31–33  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-06.html
+Scene 7: 4. Difference Tones & Third Pulses (Tartini Waves)  --  Words 1,092–1,178  |  Paragraphs 34–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-07.html
+Scene 8: 5. Chladni Plates & Quantum Nodal Eigenmodes  --  Words 1,179–1,332  |  Paragraphs 38–46  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-08.html
+Scene 9: 6. The Maunder Minimum & The Cold Star (1645–1715)  --  Words 1,333–1,453  |  Paragraphs 47–51  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-09.html
+Scene 10: 7. Hysteresis & Coupled Non-Linear Oscillators  --  Words 1,454–1,550  |  Paragraphs 52–55  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-10.html
+Scene 11: 8. Phase-Locking & The 3:2 Hemiola  --  Words 1,551–1,642  |  Paragraphs 56–59  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-11.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -42,7 +42,7 @@ The novel’s structural movements are scored using formal musical designations.
 
 Scored for monochord, charcoal, steel plate, prism and chair.
 
-Adagio misterioso* (Movement I: The Monochord): A slow, brooding tempo characterized by unresolved harmonic suspension and deep pedal points. Marks the boundary condition where sensory isolation collapses into ancient, physical resonance. * *Andante con grazia e logica* (Movement II: The Salon): Moderate, flowing, walking pace governed by strict rational counterpoint and intellectual balance. Characterizes Émilie du Châtelet’s translation of kinetic momentum into powers of two, abruptly fractured by the intrusion of uninvited memory. * *Presto distruttivo* (Movement III: The Purge): Rapid, manic, driving tempo marked by abrupt percussive attacks and academic farce. Represents disinhibition—the violent physical shedding of institutional clutter and standard decorum to establish an uncluttered geometry. * *Allegretto vibrante* (Movement IV: Resonance): Moderately fast, shimmering, continuous motion. Governs the excitation of matter under acoustic stimulus—Chladni sand patterns resolving into quantum eigenmodes, where the listener’s nervous system begins to act as a coupled resonator. * *Largo maestoso* (Movement V: Minimums): Broad, solemn, slow tempo of immense weight. Represents not acoustic volume, but cosmic subtraction—the seventy-year silence of the Maunder Minimum where sound ceases and the observer confronts the cold vacuum of unobserved space.
+* Adagio misterioso (Movement I: The Monochord): A slow, brooding tempo characterized by unresolved harmonic suspension and deep pedal points. Marks the boundary condition where sensory isolation collapses into ancient, physical resonance. * Andante con grazia e logica (Movement II: The Salon): Moderate, flowing, walking pace governed by strict rational counterpoint and intellectual balance. Characterizes Émilie du Châtelet’s translation of kinetic momentum into powers of two, abruptly fractured by the intrusion of uninvited memory. * Presto distruttivo (Movement III: The Purge): Rapid, manic, driving tempo marked by abrupt percussive attacks and academic farce. Represents disinhibition—the violent physical shedding of institutional clutter and standard decorum to establish an uncluttered geometry. * Allegretto vibrante (Movement IV: Resonance): Moderately fast, shimmering, continuous motion. Governs the excitation of matter under acoustic stimulus—Chladni sand patterns resolving into quantum eigenmodes, where the listener’s nervous system begins to act as a coupled resonator. * Largo maestoso (Movement V: Minimums): Broad, solemn, slow tempo of immense weight. Represents not acoustic volume, but cosmic subtraction—the seventy-year silence of the Maunder Minimum where sound ceases and the observer confronts the cold vacuum of unobserved space.
 
 
 2. The Passion / Oratorio Forms (Chapter 10)
@@ -101,9 +101,9 @@ The frequency of 68.48 Hz is an anomalous microtonal pitch occupying the exact f
 
 4. Difference Tones & Third Pulses (Tartini Waves)
 
-When two sustained, loud acoustic frequencies $f*1$ and $f*2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:
+When two sustained, loud acoustic frequencies $f_1$ and $f_2$ are sounded simultaneously, the human cochlea and non-linear air media generate a phantom acoustic product known as a difference tone:
 
-  $$f*{\text{diff}} = |f*1 - f_2|$$
+  $$f_{\text{diff}} = |f_1 - f_2|$$
 
 When David plays the open A and stops the adjacent string in a major second, the difference tone produces an infrasonic, rhythmic pulsation in the room. In the novel, difference tones are the mechanism by which two unaligned historical periods produce a third, physical reality.
 
@@ -149,9 +149,9 @@ The physical response depends not merely on the frequency applied, but on the se
 
 8. Phase-Locking & The 3:2 Hemiola
 
-When two weakly coupled non-linear oscillators with natural frequencies $\omega*1$ and $\omega*2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:
+When two weakly coupled non-linear oscillators with natural frequencies $\omega_1$ and $\omega_2$ interact, they undergo synchronization (Arnold tongue entrainment) if their frequencies satisfy:
 
-  $$p \omega*1 - q \omega*2 \approx 0$$
+  $$p \omega_1 - q \omega_2 \approx 0$$
 
 where $p$ and $q$ are small integers. The 3:2 hemiola—three pulses of the human observer’s cardiac cycle to two pulses of the atmospheric auroral emission lines—represents the biological entrainment of human tissue to the planetary electromagnetic field. The observer is no longer an isolated spectator; his body has become a phase-locked component of the planetary resonator.
 
