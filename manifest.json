@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126846,
+  "total_words": 126849,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -656,7 +656,7 @@
       "label": "Chapter 16",
       "title": "Skepticism and Ridicule",
       "subtitle": "",
-      "word_count": 6081,
+      "word_count": 6084,
       "paragraph_count": 200,
       "scene_count": 6,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16.html",
@@ -693,7 +693,7 @@
           "n": 4,
           "heading": "16.4 | The Quartet",
           "word_start": 3298,
-          "word_end": 4271,
+          "word_end": 4274,
           "para_start": 96,
           "para_end": 119,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-04.html"
@@ -701,8 +701,8 @@
         {
           "n": 5,
           "heading": "16.5 The Journey",
-          "word_start": 4272,
-          "word_end": 5728,
+          "word_start": 4275,
+          "word_end": 5731,
           "para_start": 120,
           "para_end": 190,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html"
@@ -710,8 +710,8 @@
         {
           "n": 6,
           "heading": "16.6 The Attic | Present Day",
-          "word_start": 5729,
-          "word_end": 6081,
+          "word_start": 5732,
+          "word_end": 6084,
           "para_start": 191,
           "para_end": 200,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html"
@@ -1402,7 +1402,7 @@
     "scenes_applied": 25,
     "files_changed_by_desk": 11,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T11:13:00.667245+00:00",
+    "desk_last_edit": "2026-11-25T18:38:58.438405+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
