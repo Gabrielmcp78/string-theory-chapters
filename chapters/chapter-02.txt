@@ -7,7 +7,7 @@ Title:           The Lecture
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,279
+Word Count:      5,337
 Paragraph Count: 265
 Scene Count:     0
 
@@ -75,7 +75,7 @@ Beneath the wave function he wrote:
 
 He let them copy it while he moved down the board, watching heads dip toward notebooks and screens before turning back to the slate.
 
-Without having planned to, he wrote:
+He let them copy it while he moved down the board, watching heads dip toward notebooks and screens. When he felt the room prepared to continue, he turned back to the boards. But as chalk hit slate, so too came the realization that he was not writing what he intended. Even as he recognised the error, he could not stop the action. He wrote:
 
   $$\chi(\omega) = \frac{1}{\omega_0^2 - \omega^2 - i\gamma\omega}$$
 
