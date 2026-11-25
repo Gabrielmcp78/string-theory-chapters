@@ -7,8 +7,8 @@ Title:           Twin Primes on the Six
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,137
-Paragraph Count: 203
+Word Count:      6,157
+Paragraph Count: 204
 Scene Count:     7
 
 Scene 1: 13 | TWIN PRIMES ON THE SIX  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
@@ -16,8 +16,8 @@ Scene 2: 13.1  Falsifiable Fame  --  Words 8–775  |  Paragraphs 2–21  |  URL
 Scene 3: 13.2 Dream Lecture  --  Words 776–1,806  |  Paragraphs 22–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
 Scene 4: 13.3 Groundbreaking  --  Words 1,807–2,611  |  Paragraphs 38–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
 Scene 5: 13.4 Everything He Was Not  --  Words 2,612–3,468  |  Paragraphs 65–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.5 Friendly Forensics  --  Words 3,469–4,062  |  Paragraphs 85–109  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.6 Ishikawa’s Island  --  Words 4,063–6,137  |  Paragraphs 110–203  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 6: 13.5 Friendly Forensics  --  Words 3,469–4,082  |  Paragraphs 85–110  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.6 Ishikawa’s Island  --  Words 4,083–6,157  |  Paragraphs 111–204  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -238,13 +238,15 @@ David looked up. “What are you talking about? No. I met her.”
 
 Celeste’s finger stopped on the page. “What?”
 
-“In the parking lot. After the assault. She left me the tuning fork.”
+“In the parking lot. After the assault. She scared off my attackers. She gave me the tuning fork.”
 
-“You met someone,” Celeste said quietly.
+“David… You met someone,” Celeste said quietly.
 
-“Someone who knew Arthur’s watch, the cello, and exactly where to find me.”
+“Someone who knew Arthur’s watch, knew the cello, and exactly where to find me. How do you explain that?”
 
-Her finger moved again. “This citation. The volume number is wrong. This one… the author is a professor at a university that closed in 1985.” She looked up, her face pale in the lamplight. “David,” she said, her voice careful, quiet, each word placed with deliberate weight. “This isn’t real. Something’s happening, and I don’t think it’s good.” She wasn’t accusing him. She was warning him. She was pointing at the cracks in the glorious façade, and he could no longer pretend not to see them.
+“I don’t, David. I can’t. But no matter who you met, no matter whether Guare is dead or alive, none of it makes any of this any better.”
+
+Her finger moved again. “I mean, it just goes on. Look. This citation. The volume number is wrong. This one… the author is a professor at a university that closed in 1985.” She looked up, her face pale in the lamplight. “David,” she said, her voice careful, quiet, each word placed with deliberate weight. “This isn’t real. Something’s happening here, and I don’t think it’s good.”
 
 
 13.6 Ishikawa’s Island
