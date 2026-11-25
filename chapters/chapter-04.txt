@@ -8,7 +8,7 @@ Title:           The Rehearsal
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      2,751
-Paragraph Count: 106
+Paragraph Count: 109
 Scene Count:     0
 
 ========================================================================
@@ -77,7 +77,9 @@ String Quartet No. 2
 
 “Kabardinian,” Op. 92
 
-I. Allegro sostenuto Resonance preceded sound. David felt the cello’s body stir against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
+I. Allegro sostenuto
+
+Resonance preceded sound. David felt the cello’s body stir against his sternum before bow touched string. Then came the opening chord: a striking bitonal clash, F bass under B-flat major, a poly-chordal figure that wanted blood, full of mountain air and mythic keening, the visceral strain of folk dance and night terror.
 
 In the first measures Roger carried the foreground. His opening gesture repeated, spilling into triplet subdivisions, a line sharpening itself in real time. David, with Catherine, was the ground beneath: sustained bass, weighted chords, the dark earth from which Roger’s melody rose. He listened outward.
 
@@ -95,7 +97,9 @@ Past the fingerboard and f-holes, past the curvature of the quartet's intimate e
 
 Roger glanced at Celeste. David was still playing, flawlessly, but his eyes had left the score, rising toward the suspended clouds as though following patterns no one else could see.
 
-II. Adagio The Adagio began in a broad 12/8. David’s cello entered with a line climbing into the high register, singing in treble clef, no longer the ground but the voice. Celeste’s viola answered with sustained lyrical material of its own. For the opening span they were both exposed.
+II. Adagio
+
+The Adagio began in a broad 12/8. David’s cello entered with a line climbing into the high register, singing in treble clef, no longer the ground but the voice. Celeste’s viola answered with sustained lyrical material of its own. For the opening span they were both exposed.
 
 Celeste listened for him in timing, vibrato, the minute changes of color one player offers another across a small distance. She bent phrases, breathed warmth into her tone, leaned into rubato like an outstretched arm reaching for his, waiting for David’s cello to answer with the expected resolution.
 
@@ -149,7 +153,9 @@ There she was.
 
 And for one moment, whatever had carried him so far away seemed willing to release him.
 
-III. Allegro No speech. They regrouped.
+III. Allegro
+
+No speech. They regrouped.
 
 The finale began from below. The violins rested while David plucked a light bass gesture. Celeste answered. Celeste plucked. David answered. Then the violins entered and the quartet rebuilt itself from the bottom upward.
 
