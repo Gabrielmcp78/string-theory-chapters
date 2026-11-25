@@ -7,17 +7,17 @@ Title:           Twin Primes on the Six
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      6,116
+Word Count:      6,115
 Paragraph Count: 201
 Scene Count:     7
 
 Scene 1: 13 | TWIN PRIMES ON THE SIX  --  Words 1–7  |  Paragraphs 1–1  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-01.html
-Scene 2: 13.1  Falsifiable Fame  --  Words 8–776  |  Paragraphs 2–21  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
-Scene 3: 13.2 Dream Lecture  --  Words 777–1,807  |  Paragraphs 22–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
-Scene 4: 13.3 Groundbreaking  --  Words 1,808–2,612  |  Paragraphs 38–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
-Scene 5: 13.4 Everything He Was Not  --  Words 2,613–3,469  |  Paragraphs 65–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
-Scene 6: 13.5 Friendly Forensics  --  Words 3,470–4,041  |  Paragraphs 85–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
-Scene 7: 13.6 Ishikawa’s Island  --  Words 4,042–6,116  |  Paragraphs 108–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
+Scene 2: 13.1  Falsifiable Fame  --  Words 8–775  |  Paragraphs 2–21  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-02.html
+Scene 3: 13.2 Dream Lecture  --  Words 776–1,806  |  Paragraphs 22–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-03.html
+Scene 4: 13.3 Groundbreaking  --  Words 1,807–2,611  |  Paragraphs 38–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-04.html
+Scene 5: 13.4 Everything He Was Not  --  Words 2,612–3,468  |  Paragraphs 65–84  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-05.html
+Scene 6: 13.5 Friendly Forensics  --  Words 3,469–4,040  |  Paragraphs 85–107  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-06.html
+Scene 7: 13.6 Ishikawa’s Island  --  Words 4,041–6,115  |  Paragraphs 108–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-13-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -62,9 +62,9 @@ The PDFs were there, proper formatting, his name in bold type. But the citations
 
 A laugh escaped him, sharp and brittle, pulling at the bruised muscles of his torso. It was a hideous joke, a cosmic mockery of everything he’d ever wanted. Yet, beneath the revulsion, a treacherous current of warmth spread through his chest. Validation. The drug he’d been starving for. It didn’t matter that the meal was poisoned; his hunger was too great. To see his work, his equations, laid out in the sacred formats of legitimate science… it short-circuited his higher criticism. The hum in the room seemed to amplify, resonating with this ugly, glorious feeling.
 
-He pushed himself out of bed, the world tilting slightly before righting itself. The ritual of preparation for his morning lecture took on a new, surreal quality. The hot water in the shower beat against his skin in waves that felt syncopated, out of phase with itself. As he dressed, his fingers trembled slightly buttoning his shirt. And when it came time to choose a tie, he hesitated. He actually had to think about his color and pattern choices. This was, perhaps, the most unfortunate of the days early side effects.
+He pushed himself out of bed, the world tilting slightly before righting itself. The ritual of preparation for his morning lecture took on a new, surreal quality. The hot water in the shower beat against his skin in waves that felt syncopated, out of phase with itself. As he dressed, his fingers trembled slightly buttoning his shirt. And when it came time to choose a tie, he hesitated. He actually had to think about his color and pattern choices. This was, perhaps, the most unfortunate of the day’s early side effects.
 
-At the front door, he stopped abruptly, patting his inner jacket pocket to ensure he had it. The tuning fork was there alright, the weight of it a familiar, even stabilizing presence. And though, even to him, the idea felt and sounded absurd, David knew it the thing was tuning the apartment, tuning him, for whatever was coming next. He looked at his reflection in the hall mirror, a pale man with a bruised face, wearing the clothes of a professor who had, against all reason and logic, just become an overnight success.
+At the front door, he stopped abruptly, patting his inner jacket pocket to ensure he had it. The tuning fork was there alright, the weight of it a familiar, even stabilizing presence. And though, even to him, the idea felt and sounded absurd, David knew the thing was tuning the apartment, tuning him, for whatever was coming next. He looked at his reflection in the hall mirror, a pale man with a bruised face, wearing the clothes of a professor who had, against all reason and logic, just become an overnight success.
 
 
 13.2 Dream Lecture

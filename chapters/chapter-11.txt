@@ -7,7 +7,7 @@ Title:           EXERCISE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,652
+Word Count:      5,658
 Paragraph Count: 262
 Scene Count:     5
 
@@ -15,7 +15,7 @@ Scene 1: 11.1 THE HOUSE ON THE HILL  --  Words 1–853  |  Paragraphs 1–44  | 
 Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 854–1,305  |  Paragraphs 45–69  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
 Scene 3: 11.3 The Assessment  --  Words 1,306–2,517  |  Paragraphs 70–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
 Scene 4: 11.4 Walk B | for David, Roger and East Hill incline  --  Words 2,518–3,202  |  Paragraphs 120–161  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
-Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,203–5,652  |  Paragraphs 162–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
+Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,203–5,658  |  Paragraphs 162–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -163,7 +163,7 @@ The door stood ajar.
 
 11.3 The Assessment
 
-David’s ieft eye had swollen nearly shut in the night, blurring whatever crossed his field of vision into grey doubles. Light filtered in unevenly: sharp through the gap in the blinds, diffused across the table where an empty whiskey glass sat in a sticky ring. Dull pain throbbed across his cheekbone, answered below by the hot, shallow ache of cracked ribs. Breath, blink, twitch: his body kept its own ragged tempo.
+David’s left eye had swollen nearly shut in the night, blurring whatever crossed his field of vision into grey doubles. Light filtered in unevenly: sharp through the gap in the blinds, diffused across the table where an empty whiskey glass sat in a sticky ring. Dull pain throbbed across his cheekbone, answered below by the hot, shallow ache of cracked ribs. Breath, blink, twitch: his body kept its own ragged tempo.
 
 He was on the floor, half-propped against the sofa, his temple crusted with dried blood where his head rested against the neck of his cello case wedged beside him. His hand crept to his breast pocket, fingers finding the hard, cool lines of the tuning fork. He drew it out. In the grey light, the cerulean residue on its prongs caught the pale air with a faint, metallic sheen. The same blue stain marked his left palm, dry and stubborn against the skin.
 
@@ -225,7 +225,7 @@ David stood slowly, testing his balance within the wrap’s constraint. The pain
 
 They were bundled, ready to leave. David looped the strap of his battered leather shoulder bag—laptop and notebook securely tucked inside—over his good right shoulder.
 
-David turned toward the back of the sofa, where his cello case leaned upright against the cushions—bulky, battered, and forty pounds of molded flight-casing that resembled an upright Victorian wardrobe. He took two steps toward it, squared his shoulders, and reached out his right hand.
+David turned toward the back of the sofa, where his cello case leaned upright against the cushions—bulky, battered, and thirty pounds of molded flight-casing that resembled an upright Victorian wardrobe. He took two steps toward it, squared his shoulders, and reached out his right hand.
 
 His body simply refused.
 
@@ -479,7 +479,7 @@ Roger was already leaning in, his Strad held at the ready, his eyes narrowed wit
 
 He looked at Celeste. Behind the dark lenses, his eyes were bloodshot, but burning with absolute clarity.
 
-“An F-sharp chord,” David said. “Just intonation. Roger, take the C-sharp in your register—the fourth harmonic on your G string. Celeste, the root on your C string. Catherine, octave above on the D. I'll take the low F-sharp. No open strings. Stop the notes and tune by ear to the room's standing wave. When the beating stops, we lock.”
+“An F-sharp chord,” David said. “Just intonation. Roger, take the C-sharp — the room's fourth harmonic — stop it on your G string. Celeste, the root on your C string. Catherine, octave above on the D. I'll take the low F-sharp. No open strings. Stop the notes and tune by ear to the room's standing wave. When the beating stops, we lock.”
 
 Roger didn't argue. He raised his Stradivarius, his left hand settling onto the fingerboard. “Cathy. On the root.”
 
@@ -489,7 +489,7 @@ Celeste pressed her ear toward the upper bout of her viola. She set her fingers 
 
 The harsh flutter in the room slowed: three hertz... two hertz... one hertz...
 
-Then the beating vanished. Roger's fourth harmonic locked onto the building’s 68.48 Hz fundamental like a key sliding into an oiled mortise lock. The timbers of the chapel seemed to exhale.
+Then the beating vanished. Roger's C-sharp locked onto the fourth harmonic of the building’s 68.48 Hz fundamental like a key sliding into an oiled mortise lock. The timbers of the chapel seemed to exhale.
 
 They were no longer playing against the room. They were coupled to the mechanical skeleton of the hill: to the shale strata, the steam pipes, the iron catwalks, and the cold gorge air.
 

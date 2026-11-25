@@ -7,14 +7,14 @@ Title:           The Symmetry of Violence
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      3,530
+Word Count:      3,524
 Paragraph Count: 103
 Scene Count:     4
 
 Scene 1: 19.1  The SARABANDE  --  Words 14–704  |  Paragraphs 2–14  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-01.html
-Scene 2: 19.2  The Grid  --  Words 705–1,349  |  Paragraphs 15–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
-Scene 3: 19.3  Invitations of Ill  --  Words 1,350–2,003  |  Paragraphs 31–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
-Scene 4: 19.4  The Reckoning  --  Words 2,004–3,530  |  Paragraphs 44–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-04.html
+Scene 2: 19.2  The Grid  --  Words 705–1,347  |  Paragraphs 15–30  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-02.html
+Scene 3: 19.3  Invitations of Ill  --  Words 1,348–2,001  |  Paragraphs 31–43  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-03.html
+Scene 4: 19.4  The Reckoning  --  Words 2,002–3,524  |  Paragraphs 44–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-19-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -51,11 +51,11 @@ David drew the bow and felt the note bloom fully before it began to fall, fillin
 
 19.2  The Grid
 
-Three blocks west, the substation that feeds the university district and the nearby homes groaned under a pressure no engineer had foreseen when the transformers were rated forty years ago. A tidal wave of solar particles, expelled from the corona and driven ninety three million miles in seventeen hours, slammed into the conductive body of the modern world.
+Three blocks west, the substation that feeds the university district and the nearby homes groaned under a pressure no engineer had foreseen when the transformers were rated forty years ago. A tidal wave of solar particles, expelled from the corona and driven ninety-three million miles in seventeen hours, slammed into the conductive body of the modern world.
 
 Above the atmosphere, a solar band spilled across the dark.
 
-Wires held, taut and humming, until they thinned and separated in blue white fractures that moved outward in sudden, branching vectors, and the failure, once it began, spoke to the next transformer in the language transformers understand: voltage. The next transformer listened and agreed.
+Wires held, taut and humming, until they thinned and separated in blue-white fractures that moved outward in sudden, branching vectors, and the failure, once it began, spoke to the next transformer in the language transformers understand: voltage. The next transformer listened and agreed.
 
 Inside the apartment, Bach cradled David inside the arc of each phrase, his bow traveling steadily, shoulders loose, pulse aligned to the grave tread of the dance that had forgotten how to dance and chosen instead to endure.
 
@@ -98,7 +98,7 @@ The bass line rose from somewhere older than intention, a harmonic ground he had
 
 Above such grounding, a voice entirely his own rose out at last into the charged air between his ribs and the wood. A cry carrying the rough texture of years of silence and self betrayal. The fierce, uneven honesty of himself laid bare, cutting clean through the stale clamor of old evasions and careful lies.
 
-Elation and despair at once, coursed through his forearms, heat and hunger wiring through tendon and muscle. They rose beneath the skin, the horsehair biting into the string. Discovery had burned clear through failure and left behind something cleaner than ambition.
+Elation and despair at once coursed through his forearms, heat and hunger wiring through tendon and muscle. They rose beneath the skin, the horsehair biting into the string. Discovery had burned clear through failure and left behind something cleaner than ambition.
 
 Motion no longer belonged to him alone. The room altered around each stroke, corners seeming to draw nearer and then recede with the pressure changes in the air. Blue light pressed harder against his closed lids until the darkness behind them became a shifting field of indigo. Sweat traced from his temple to the hinge of his jaw as the boundary between himself and the instrument dissolved into a question that only the body, shaking, resolute, could ever answer.
 
@@ -181,7 +181,7 @@ His thumb rested on the glass. There was no decision. The energy still pulsing i
 
 UPLOAD CONFIRMED…
 
-The upload climbed through the fractured network, packet by packet, finding seams in the overloaded infrastructure, passing through brief openings before they sealed, forty seven minutes compressed and encrypted, sent outward into a grid that was, even now, failing in every direction.
+The upload climbed through the fractured network, packet by packet, finding seams in the overloaded infrastructure, passing through brief openings before they sealed, forty-seven minutes compressed and encrypted, sent outward into a grid that was, even now, failing in every direction.
 
 The resonance of all that had transpired in this fated night gathered into a single act of timing. Air. Weight. Momentum. The room held its breath.
 
@@ -189,7 +189,7 @@ Then came the downbeat.
 
 The blackboard wall, free of the restraints of cable and counterweight, uprooted from its channels.
 
-One nanosecond of impossible suspension. The entire two story mass hanging, the equations still legible, years of labor luminous in the fractured light, every proof and hypothesis and derived ratio blazing in the instant before impact.
+One nanosecond of impossible suspension. The entire two-story mass hanging, the equations still legible, years of labor luminous in the fractured light, every proof and hypothesis and derived ratio blazing in the instant before impact.
 
 The tsunami rolled outward.
 
@@ -227,7 +227,7 @@ Darkened.
 
 Black.
 
-Outside, in every direction, an electricity starved and huddling planet, newly unburdened, scattered, and data free, was about to open its eyes and see.
+Outside, in every direction, an electricity-starved and huddling planet, newly unburdened, scattered, and data-free, was about to open its eyes and see.
 
 
 ========================================================================

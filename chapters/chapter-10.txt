@@ -16,8 +16,8 @@ Scene 2: Adagio espressivo e misterioso  --  Words 1,561–5,029  |  Paragraphs 
 Scene 3: 10.3 RECITATIVUM | Break-Through  --  Words 5,030–6,206  |  Paragraphs 282–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
 Scene 4: 10.4 TURBA | The Guillotine  --  Words 6,207–8,376  |  Paragraphs 347–461  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
 Scene 5: 10.5 VIA DOLOROSA | Into the Storm  --  Words 8,377–10,827  |  Paragraphs 462–595  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,828–11,513  |  Paragraphs 596–620  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,514–13,321  |  Paragraphs 621–743  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,828–11,512  |  Paragraphs 596–620  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,513–13,321  |  Paragraphs 621–743  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
 Scene 8: 10.8 RELIQUIAE | Up From the Depths  --  Words 13,322–13,736  |  Paragraphs 744–759  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
@@ -1243,7 +1243,7 @@ When he tried to open the rear door, something in David stirred. He began to mov
 
 The second struck him behind the ear, and the world folded inward. When he came back, the watch was free.
 
-The second man held it in one hand, strap broken, crystal catching the lot light. David lunged. His fingers closed on air. The man jerked back, and the startled watch flew from his grip in a bright, spinning arc over the curb, past the salt bin, and into the winter shrubs beside the loading dock.
+The second man held it in one hand, strap broken, crystal catching the lot light. David lunged. His fingers closed on air. The man jerked back, and the watch flew from his grip in a bright, spinning arc over the curb, past the salt bin, and into the winter shrubs beside the loading dock.
 
 “Motherfucker,” the second man said.
 
@@ -1298,7 +1298,7 @@ She took his chin and turned his face toward the sodium light. Her touch was col
 
 “What? What did you….”
 
-“Your family know where you are?” She reached with one thumb to brush a glob of mud from his cheek. David looked up as she did, to find her eyes staring directly, deeply back at him. Neither moved for long silent moment. And then the old woman seemed to melt into ancient memory. A smile so kind and familiar overtook her that, for a moment, David felt as though he might be dreaming. He watched her eyes scroll through an entire lifetime of remembering and loss, of longing perhaps, before he face cleared and she turned away almost in tears.
+“Your family know where you are?” She reached with one thumb to brush a glob of mud from his cheek. David looked up as she did, to find her eyes staring directly, deeply back at him. Neither moved for a long, silent moment. And then the old woman seemed to melt into ancient memory. A smile so kind and familiar overtook her that, for a moment, David felt as though he might be dreaming. He watched her eyes scroll through an entire lifetime of remembering and loss, of longing perhaps, before her face cleared and she turned away almost in tears.
 
 ““Are you okay?”
 
@@ -1328,7 +1328,7 @@ David's eyes fluttered closed, his head falling to one side.
 
 She caught his shoulder before he slumped farther, her grip surprisingly firm.
 
-“Stay awake darling Davey. Look at the light.”
+“Stay awake, darling Davey. Look at the light.”
 
 He forced his eyes open.
 
@@ -1436,7 +1436,7 @@ David looked toward the pages, half dissolved in the slush.
 
 “The error structure—”
 
-“Yes. The error structure. The marvelous little imperfections you keep trying to smooth away.” She gave a small, impatient shake of her head. “You shouldn’t”
+“Yes. The error structure. The marvelous little imperfections you keep trying to smooth away.” She gave a small, impatient shake of her head. “You shouldn’t.”
 
 He looked at the fork in his hand.
 
