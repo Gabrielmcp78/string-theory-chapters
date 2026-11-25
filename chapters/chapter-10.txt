@@ -3,30 +3,28 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 10
-Title:           Passions' Principles
+Title:           Passions’ Principles
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      13,750
-Paragraph Count: 773
+Word Count:      13,736
+Paragraph Count: 759
 Scene Count:     8
 
-Scene 1: 10.1  Wednesday Dinner  --  Words 1–1,554  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
-Scene 2: 10.2  The Tuning  --  Words 1,555–5,027  |  Paragraphs 76–283  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
-Scene 3: 10.3  Break-Through  --  Words 5,028–6,206  |  Paragraphs 284–350  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
-Scene 4: 10.4  The Guillotine  --  Words 6,207–8,377  |  Paragraphs 351–467  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
-Scene 5: 10.5  Into the Storm  --  Words 8,378–10,830  |  Paragraphs 468–603  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
-Scene 6: 10.6  It Takes a Beating  --  Words 10,831–11,520  |  Paragraphs 604–630  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
-Scene 7: 10.7  The Clear Snows of Fall  --  Words 11,521–13,332  |  Paragraphs 631–755  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
-Scene 8: 10.8  Up From the Depths  --  Words 13,333–13,750  |  Paragraphs 756–773  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
+Scene 1: 10.1 CHORALE | Wednesday Dinner  --  Words 1–1,560  |  Paragraphs 1–75  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-01.html
+Scene 2: Adagio espressivo e misterioso  --  Words 1,561–5,029  |  Paragraphs 76–281  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-02.html
+Scene 3: 10.3 RECITATIVUM | Break-Through  --  Words 5,030–6,206  |  Paragraphs 282–346  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-03.html
+Scene 4: 10.4 TURBA | The Guillotine  --  Words 6,207–8,376  |  Paragraphs 347–461  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-04.html
+Scene 5: 10.5 VIA DOLOROSA | Into the Storm  --  Words 8,377–10,827  |  Paragraphs 462–595  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-05.html
+Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating  --  Words 10,828–11,513  |  Paragraphs 596–620  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-06.html
+Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall  --  Words 11,514–13,321  |  Paragraphs 621–743  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-07.html
+Scene 8: 10.8 RELIQUIAE | Up From the Depths  --  Words 13,322–13,736  |  Paragraphs 744–759  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-10-scene-08.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-10.1  Wednesday Dinner
-
-CHORALE
+10.1 CHORALE | Wednesday Dinner
 
 Andante sostenuto
 
@@ -102,7 +100,7 @@ After a delay, he said, “Hmm? What was that?”
 
 “David, tell me you’ve spoken to your mother since the funeral. She’s alone in that house for the first time in almost fifty years.”
 
-“No. Yes, I mean, of course I have. It’s not that. The damn lawyers. I keep missing their calls during lectures, and I… I haven’t—” He stopped, his gaze listing out the window toward the quiet street and the glowing blur of lamplight along the wet street below.
+“No. Yes, I mean, of course I have. It’s not that. The damn lawyers. I keep missing their calls during lectures, and I… I haven’t—” He stopped, his gaze listing out the window toward the quiet street and the glowing blur of lamplight along the wet pavement below.
 
 “Hey.” Celeste reached for his cheek, coaxing him back without letting him turn the gesture into rescue. “It’s what you hired lawyers for. Right? So you can miss a few calls and everything your father wanted done will still get done.”
 
@@ -174,10 +172,8 @@ At the door he held her viola case while she wound her scarf.
 
 She let him. And while both of them noticed, neither said a word.
 
+[10.2 ARIOSO | The Tuning]
 
-10.2  The Tuning
-
-ARIOSO
 
 Adagio espressivo e misterioso
 
@@ -461,7 +457,7 @@ She absorbed this, her attention moving once toward the cello and back.
 
 “Since Saturday night. In Buffalo.”
 
-Her face was still, quite. “And you found the shop by accident.”
+Her face was still, quiet. “And you found the shop by accident.”
 
 “Well, no. I went to get the replacement C string. Roger suggested it actually.”
 
@@ -592,11 +588,7 @@ Celeste looked toward the open book. He followed her gaze. Neither said anything
 They played until nearly midnight, pursuing the sound long after the cello had returned to the ordinary loyalties of wood, gut, and varnish. Each attempt clarified only the distance between repetition and return, and still they played.
 
 
-10.3  Break-Through
-
-RECITATIVUM
-
-Allegro con fuoco
+10.3 RECITATIVUM | Break-Through
 
 Morning arrived with a clear skull, an unknotted jaw, and the rare sensation that David's life might finally return to scale. He dressed without checking the mirror, brewed a strong pot of coffee, and pulled up to the kitchen island, intending simply to be okay with doing nothing.
 
@@ -610,7 +602,7 @@ It can just be what it was. Christ, you don’t need to turn it into science. Yo
 
 For nearly an hour, he sat there, arguing with himself. His right foot in a chronic circular tapping match with the other stool.
 
-He had already slurped through to the bottom of his third cup, and was emerging from morning piss number two, when he found himself inexorably drawn toward the notebook. By nine, the gallon of caffeinee and his old pal mania had broken his resolve and David was on the couch tearing through his pages of notes. It was right there. So damn close. And so he went about the work of reconstructing the residual tone he and Celeste had encountered in the chapel.
+He had already slurped through to the bottom of his third cup, and was emerging from morning piss number two, when he found himself inexorably drawn toward the notebook. By nine, the gallon of caffeine and his old pal mania had broken his resolve and David was on the couch tearing through his pages of notes. It was right there. So damn close. And so he went about the work of reconstructing the residual tone he and Celeste had encountered in the chapel.
 
 The original pitch, the cello’s delayed response curve, and its two-second decay; they all combined to maximize the series of failed attempts that followed, aimed at simply reproducing the autonomous sounding.
 
@@ -690,7 +682,7 @@ If Rune was going to bite on all of this, it couldn’t hurt to have the instrum
 
 Outside, the wind had strengthened. Snow moved horizontally through the streetlights, sidewalks already vanishing beneath fresh accumulation.
 
-By the time David reached the faculty lot, the entire hill was heading the opposite way. Students migrating toward residence halls, heads down, hurried. A grounds crew was fitting chains to the rear tires of a plow, the 3 orange neon jackets an increasing blare of singular color in the oncoming white. Two administrative assistants passed him carrying cardboard boxes of work they evidently intended to do at home.
+By the time David reached the faculty lot, the entire hill was heading the opposite way. Students migrating toward residence halls, heads down, hurried. A grounds crew was fitting chains to the rear tires of a plow, the three orange neon jackets an increasing blare of singular color in the oncoming white. Two administrative assistants passed him carrying cardboard boxes of work they evidently intended to do at home.
 
 Wimps all of you.
 
@@ -727,11 +719,7 @@ At 5:28, he stood outside Rune's door with three copies beneath his arm. Jessica
 “Yes,” David answered, gathering the copies. “Thank you, Jessica.”
 
 
-10.4  The Guillotine
-
-TURBA
-
-Moderato incisivo
+10.4 TURBA | The Guillotine
 
 “David, come in.”
 
@@ -962,11 +950,7 @@ The phone slipped back inside his jacket as he reached for the office receiver. 
 “Celeste, dear. It’s Rune.”
 
 
-10.5  Into the Storm
-
-VIA DOLOROSA
-
-Tempestoso e violento
+10.5 VIA DOLOROSA | Into the Storm
 
 Outside, snow had taken over, filling the campus with footprints even as it emptied those same grounds of its inhabitants. David burst through the main doors of Smith and out towards the east side of central campus, the heavy fiberglass flight case knocking a hollow rhythm against his hip. As he rounded the corner past Sage Hall, his footspeed in retreat began to mix poorly with deteriorating conditions. Compact snow threatened at every turn to pull him down into the slick, freezing mud on the hillside. He couldn’t slow down, though. He had no right to walk after that horror show. No, this was a flat-out escape. He half expected to look back and see Rune chasing after him with paperwork and a pack of dogs. The catastrophic realization of his own professional suicide began to flash behind his eyes.
 
@@ -1235,11 +1219,7 @@ The men looked at his wrist.
 The first man caught the wrist. When David tried to pull back, the second stepped close enough to block him against the car, and the grip tightened.
 
 
-10.6  It Takes a Beating
-
-CRUCIFIXIO
-
-Allegro molto, marcato, senza respiro
+10.6 CRUCIFIXIO | It Takes a Beating
 
 The clasp on the watch was old, stiff, designed for a man who had removed it only by ritual and never by force. The first man's fingers slipped. He swore, and David laughed.
 
@@ -1290,11 +1270,7 @@ His palm dragged through slush and his ribs lit white. The shrubs were only a fe
 The word fogged once in front of him and disappeared as boots stopped beside him.
 
 
-10.7  The Clear Snows of Fall
-
-DEPOSITIO / SEPULTURA
-
-Largo, sospeso, quasi senza tempo
+10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall
 
 “You will freeze out here if you stay like that.”
 
@@ -1541,11 +1517,7 @@ Letters emerged beneath the lamplight, shallow and precise, cut into the steel w
 In Time; E.G.
 
 
-10.8  Up From the Depths
-
-RELIQUIAE
-
-Grave, con moto interiore
+10.8 RELIQUIAE | Up From the Depths
 
 ##
 
