@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126458,
+  "total_words": 126439,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -126,7 +126,7 @@
       "label": "Chapter 7",
       "title": "Alteration Finds",
       "subtitle": "",
-      "word_count": 4299,
+      "word_count": 4281,
       "paragraph_count": 251,
       "scene_count": 3,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07.html",
@@ -136,7 +136,7 @@
           "n": 1,
           "heading": "7.1 THE INSTRUMENT SHOP | Buffalo, NY · Present Day",
           "word_start": 1,
-          "word_end": 1618,
+          "word_end": 1600,
           "para_start": 1,
           "para_end": 60,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-01.html"
@@ -144,8 +144,8 @@
         {
           "n": 2,
           "heading": "7.2   THE WORKSHOP   |   Buffalo, NY",
-          "word_start": 1619,
-          "word_end": 2127,
+          "word_start": 1601,
+          "word_end": 2109,
           "para_start": 61,
           "para_end": 93,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-02.html"
@@ -153,8 +153,8 @@
         {
           "n": 3,
           "heading": "7.3   THE HOTEL ROOM   |   Buffalo, NY",
-          "word_start": 2128,
-          "word_end": 4299,
+          "word_start": 2110,
+          "word_end": 4281,
           "para_start": 94,
           "para_end": 251,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-07-scene-03.html"
@@ -167,7 +167,7 @@
       "label": "Chapter 8",
       "title": "The Firebirds",
       "subtitle": "",
-      "word_count": 1863,
+      "word_count": 1862,
       "paragraph_count": 107,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-08.html",
@@ -1402,7 +1402,7 @@
     "scenes_applied": 31,
     "files_changed_by_desk": 13,
     "scenes_blocked": 1,
-    "desk_last_edit": "2026-11-25T08:32:34.402691+00:00",
+    "desk_last_edit": "2026-11-25T08:38:01.878187+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
