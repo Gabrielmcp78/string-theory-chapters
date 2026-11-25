@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126427,
+  "total_words": 126429,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -11,7 +11,7 @@
       "label": "Chapter 1",
       "title": "The Ivy League",
       "subtitle": "",
-      "word_count": 3076,
+      "word_count": 3078,
       "paragraph_count": 131,
       "scene_count": 0,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-01.html",
@@ -1402,7 +1402,7 @@
     "scenes_applied": 22,
     "files_changed_by_desk": 10,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T09:49:12.493671+00:00",
+    "desk_last_edit": "2026-11-25T09:51:18.163662+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
