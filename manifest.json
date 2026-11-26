@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126499,
+  "total_words": 126410,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -606,8 +606,8 @@
       "label": "Chapter 15",
       "title": "THE SOLAR MAXIMUM CONNECTION",
       "subtitle": "",
-      "word_count": 8832,
-      "paragraph_count": 321,
+      "word_count": 8743,
+      "paragraph_count": 329,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
@@ -625,27 +625,27 @@
           "n": 2,
           "heading": "15.2  Method and Resonance",
           "word_start": 825,
-          "word_end": 2258,
+          "word_end": 2280,
           "para_start": 38,
-          "para_end": 106,
+          "para_end": 103,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html"
         },
         {
           "n": 3,
           "heading": "15.3  Findings and Implications",
-          "word_start": 2259,
-          "word_end": 3359,
-          "para_start": 107,
-          "para_end": 143,
+          "word_start": 2281,
+          "word_end": 3270,
+          "para_start": 104,
+          "para_end": 151,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html"
         },
         {
           "n": 4,
           "heading": "15.4 Lossless Transfers",
-          "word_start": 3360,
-          "word_end": 8832,
-          "para_start": 144,
-          "para_end": 321,
+          "word_start": 3271,
+          "word_end": 8743,
+          "para_start": 152,
+          "para_end": 329,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html"
         }
       ]
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 28,
+    "scenes_applied": 29,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-26T01:16:04.655276+00:00",
+    "desk_last_edit": "2026-11-26T01:20:52.521703+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
