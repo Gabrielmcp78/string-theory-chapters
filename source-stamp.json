@@ -1,14 +1,14 @@
 {
-  "built_at": "2026-11-26T00:26:09+00:00",
+  "built_at": "2026-11-26T01:16:19+00:00",
   "source_router_entry": "string_theories_sot",
   "leading_edge": {
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 26,
-    "files_changed_by_desk": 12,
+    "scenes_applied": 28,
+    "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T22:08:17.079860+00:00",
+    "desk_last_edit": "2026-11-26T01:16:04.655276+00:00",
     "note": ""
   },
   "committed_main": {

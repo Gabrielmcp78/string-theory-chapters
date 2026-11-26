@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126838,
+  "total_words": 126499,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -606,8 +606,8 @@
       "label": "Chapter 15",
       "title": "THE SOLAR MAXIMUM CONNECTION",
       "subtitle": "",
-      "word_count": 9171,
-      "paragraph_count": 295,
+      "word_count": 8832,
+      "paragraph_count": 321,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.txt",
@@ -616,36 +616,36 @@
           "n": 1,
           "heading": "15.1  Preliminary Observations",
           "word_start": 1,
-          "word_end": 1034,
+          "word_end": 824,
           "para_start": 1,
-          "para_end": 43,
+          "para_end": 37,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html"
         },
         {
           "n": 2,
           "heading": "15.2  Method and Resonance",
-          "word_start": 1035,
-          "word_end": 2597,
-          "para_start": 44,
-          "para_end": 80,
+          "word_start": 825,
+          "word_end": 2258,
+          "para_start": 38,
+          "para_end": 106,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html"
         },
         {
           "n": 3,
           "heading": "15.3  Findings and Implications",
-          "word_start": 2598,
-          "word_end": 3698,
-          "para_start": 81,
-          "para_end": 117,
+          "word_start": 2259,
+          "word_end": 3359,
+          "para_start": 107,
+          "para_end": 143,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html"
         },
         {
           "n": 4,
           "heading": "15.4 Lossless Transfers",
-          "word_start": 3699,
-          "word_end": 9171,
-          "para_start": 118,
-          "para_end": 295,
+          "word_start": 3360,
+          "word_end": 8832,
+          "para_start": 144,
+          "para_end": 321,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html"
         }
       ]
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 26,
-    "files_changed_by_desk": 12,
+    "scenes_applied": 28,
+    "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-25T22:08:17.079860+00:00",
+    "desk_last_edit": "2026-11-26T01:16:04.655276+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
