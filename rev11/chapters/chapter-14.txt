@@ -3,25 +3,24 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 14
-Title:           Visions and Burdens… of Knowing
+Title:           Visions and Burdens of Knowing
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,711
-Paragraph Count: 295
-Scene Count:     5
+Word Count:      7,425
+Paragraph Count: 286
+Scene Count:     2
 
-Scene 1: 14.1 I. Overture: The Monochord | Pythagoras  --  Words 1–1,968  |  Paragraphs 1–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 II. Andante: the salon | Émilie du Châtelet  --  Words 1,969–2,974  |  Paragraphs 72–111  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing  --  Words 2,975–4,966  |  Paragraphs 112–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni  --  Words 4,967–6,375  |  Paragraphs 202–254  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
-Scene 5: 14.5 V. Finale: Minimums | Isaac Newton  --  Words 6,376–7,711  |  Paragraphs 255–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
+Scene 1: 14.1 OVERTURE: THE MONOCHORD | Pythagoras  --  Words 1–1,673  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 ANDANTE: THE SALON | Émilie du Châtelet  --  Words 1,674–7,425  |  Paragraphs 59–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-14.1 I. Overture: The Monochord | Pythagoras
+14.1 OVERTURE: THE MONOCHORD | Pythagoras
+
+[Adagio misterioso]
 
 A new night lived inside the tossed productivity of the apartment. It secreted itself in the angles between cracked baseboard and battered desk, in the umbra cast by a beaker-turned-lamp, in the chalked hieroglyphs that haunted three generations of blackboards. The hour had turned mean, compressing time into a single, sustained pedal point. Each quarter-hour from the clock in the adjacent room heralded another unbroken instant since David had last regarded the world beyond his equation.
 
@@ -135,36 +134,10 @@ A sharp burst of mineral blue flashed across his peripheral vision—an optical 
 
 * * *
 
-* * *
 
-* * *
+14.2 ANDANTE: THE SALON | Émilie du Châtelet
 
-David crashed forward against the desk, catching his weight on his palms as his shins knocked the apron. The demitasse rattled violently on its saucer.
-
-He stood in the dark of his study, breathing hard, the smell of hot thyme and animal fat lingering on his palate like smoke. His hands were shaking. In his right fist, the tuning fork was hot to the touch, vibrating with a dying frequency that felt like a live nerve against his thumb.
-
-His left hand was empty, his palm grey with chalk dust.
-
-No stone terrace. No cypress timber.
-
-The room rushed back into his ears—heavy, thick, smelling of stale coffee and cold radiators. On his left wrist, beneath the frayed cuff, the sweep hand of Arthur’s watch continued its quiet, indifferent circle, three minutes and forty-seven seconds ahead of any clock on campus.
-
-David looked up at the slate.
-
-The twelve iterations of the manifold were still there, blurred by chalk dust. But at the lower perimeter, where the parameter space had collapsed into a tangle of unresolved tensors, the notation had cleared.
-
-Three whole-number ratios. Locked into the geometry of the loop.
-
-His hand was unsteady, but the urgency in his blood was absolute. He picked up a chalk stub, stepped to the slate, and went to touch the chalk to the stone.
-
-The moment the calcium met the slate, a sudden sensory interference flared.
-
-A sharp burst of mineral blue flashed across his peripheral vision—an optical phantom of the Greek glare. For a split second, his ribs ached with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.
-
-* * *
-
-
-14.2 II. Andante: the salon | Émilie du Châtelet
+[Andante con grazia e logica]
 
 The chalk made a sudden, new sound as it struck the slate mid-thought. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. David stopped and stepped back to take in the entire board.
 
@@ -172,7 +145,7 @@ The white line he had just drawn seemed to waver where it should have held. A mo
 
 The world recalibrated.
 
-And with nothing more technical or magical or difficult than that, he found he was seated in another room.
+And with nothing more technical or magical or difficult than that, he found he was seated in another room. In another time.
 
 He took in his new surroundings. The walls were papered in peacock blue, the pattern worked through with gold that lifted and disappeared in the candlelight as he moved his head. The floor was parquet worn dull and smooth by generations of use. Along the mantel stood clocks, instruments, small mechanical curiosities whose brass surfaces caught the light and returned it in fragments. The air held beeswax, perfume, and the stale press of too many bodies having spent too many hours in conversation.
 
@@ -220,7 +193,7 @@ Then she took a breath, lowered them again, and gently played the final interval
 
 And as she did, the note did not end.
 
-Only the room did.
+The room did.
 
 * * *
 
@@ -244,8 +217,9 @@ For the first time, the beauty of the thing did not reassure him.
 
 * * *
 
+[III. Scherzo: The Purge | Chair Clearing]
 
-14.3 III. Scherzo: The Purge | Chair Clearing
+Presto distruttivo
 
 The following morning found David wide awake by 5 a.m., and fumbling for the main hall key to the administrative building by 5:45. He couldn’t for the life of him remember the last time he had to unlock a building on campus, but a brief fumbling through the old chain he’d been collecting for twenty years found the correct master with little incident.
 
@@ -425,8 +399,9 @@ And David found it… beautifully terrifying.
 
 * * *
 
+[IV. Intermezzo: Resonance | Chladni]
 
-14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni
+Allegretto vibrante
 
 Night entered the apartment in layers. It resisted a binary state, arriving instead as partials, dissonances, and overtones, the slow ossification of city sound into something resembling a frequency domain. The windows glowed with the dull sodium of streetlights, rendering every surface a spectral version of itself. David tuned his cello in the center of the living room, the instrument propped on its spike so that the maple back reflected the skyline like a warped mirror.
 
@@ -532,8 +507,9 @@ Harder.
 
 * * *
 
+[V. Finale: Minimums | Isaac Newton]
 
-14.5 V. Finale: Minimums | Isaac Newton
+Largo maestoso
 
 The world thinned. Its edges loosened, drifting backward the way a shoreline slips away in fog, revealing more absence than land. The walls eased into distance, their retreat carrying the hush of something ancient and exhausted. No color remained except the blue-gray wash of winter light pressed through leaded glass, the faint tint a page holds in the quiet moment before ink decides its fate.
 
