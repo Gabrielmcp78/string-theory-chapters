@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-25",
-  "total_words": 126408,
+  "total_words": 126411,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -606,7 +606,7 @@
       "label": "Chapter 15",
       "title": "THE SOLAR MAXIMUM CONNECTION",
       "subtitle": "",
-      "word_count": 8741,
+      "word_count": 8744,
       "paragraph_count": 323,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15.html",
@@ -634,7 +634,7 @@
           "n": 3,
           "heading": "15.3  Findings and Implications",
           "word_start": 2281,
-          "word_end": 3268,
+          "word_end": 3271,
           "para_start": 104,
           "para_end": 145,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html"
@@ -642,8 +642,8 @@
         {
           "n": 4,
           "heading": "15.4 Lossless Transfers",
-          "word_start": 3269,
-          "word_end": 8741,
+          "word_start": 3272,
+          "word_end": 8744,
           "para_start": 146,
           "para_end": 323,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html"
@@ -1402,7 +1402,7 @@
     "scenes_applied": 29,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-26T01:26:36.237783+00:00",
+    "desk_last_edit": "2026-11-26T01:28:12.771344+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"

@@ -7,14 +7,14 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,741
+Word Count:      8,744
 Paragraph Count: 323
 Scene Count:     4
 
 Scene 1: 15.1  Preliminary Observations  --  Words 1–824  |  Paragraphs 1–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
 Scene 2: 15.2  Method and Resonance  --  Words 825–2,280  |  Paragraphs 38–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
-Scene 3: 15.3  Findings and Implications  --  Words 2,281–3,268  |  Paragraphs 104–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
-Scene 4: 15.4 Lossless Transfers  --  Words 3,269–8,741  |  Paragraphs 146–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
+Scene 3: 15.3  Findings and Implications  --  Words 2,281–3,271  |  Paragraphs 104–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 3,272–8,744  |  Paragraphs 146–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -310,7 +310,7 @@ Outside, darkness had gathered fully across the city. Inside, another boundary s
 
 Threads that should have remained separate were drawing toward one another with the effortless confidence of things returning home.
 
-David turned back to the legal pad and drew the next line, the lullaby lilting on beneath his breath, slightly different each time, as ithough the melody itself were still working something out.
+David turned back to the legal pad and drew the next line, the lullaby lilting on beneath his breath, slightly different each time, as though the melody itself were  still sounding towards a more satisfying resolution.
 
 
 15.4 Lossless Transfers
