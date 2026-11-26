@@ -7,14 +7,14 @@ Title:           THE SOLAR MAXIMUM CONNECTION
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      8,743
-Paragraph Count: 329
+Word Count:      8,741
+Paragraph Count: 323
 Scene Count:     4
 
 Scene 1: 15.1  Preliminary Observations  --  Words 1–824  |  Paragraphs 1–37  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-01.html
 Scene 2: 15.2  Method and Resonance  --  Words 825–2,280  |  Paragraphs 38–103  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-02.html
-Scene 3: 15.3  Findings and Implications  --  Words 2,281–3,270  |  Paragraphs 104–151  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
-Scene 4: 15.4 Lossless Transfers  --  Words 3,271–8,743  |  Paragraphs 152–329  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
+Scene 3: 15.3  Findings and Implications  --  Words 2,281–3,268  |  Paragraphs 104–145  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
+Scene 4: 15.4 Lossless Transfers  --  Words 3,269–8,741  |  Paragraphs 146–323  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -242,9 +242,7 @@ Whether that was suppression, exhaustion or simple erasure no longer seemed part
 
 The tuning fork sat where he'd left it, at the center of the cards. Still warm, he thought. Or perhaps that was him. Occasionally his attention returned to the cello in the corner, to the open A, the fifth, the overtone that seemed to linger after the room itself had finished listening.
 
-Next came something different.
-
-Not a person but an object.
+Next came an entry altogether different. Not a person but an object.
 
 THE MESSIAH. 1716. CREMONA, ITALY.
 
@@ -258,9 +256,7 @@ David began pulling references.
 
 Alpine spruce. Tree-ring chronologies. Claims, contested, incomplete, maddeningly suggestive, that wood grown through the long cold interval might have acquired structural properties later generations had struggled to reproduce. Other studies complicated the picture. Density alone did not explain it. Treatment, aging, grain structure, microclimate: each paper seemed to open another door behind the one it claimed to close.
 
-He read them twice, then a third time.
-
-It was not proof. It was enough to bother him.
+He read them twice, then a third time. None of it represented actual proof. Certainly not. But it was enough to bother him.
 
 Newton had lived within the hush. Stradivari had lived there too. One had carried something out of it in thought. The other, perhaps, in wood.
 
@@ -276,9 +272,7 @@ A transduction of hunger into voice.
 
 He placed the Messiah card into the pattern and watched the surrounding relations settle around it.
 
-It fit.
-
-That disturbed him more than if it hadn't.
+He could no longer ignore the fact. It fit. Inconveniently, it fit.
 
 The room had darkened around him. Only a thin smear of horizon light remained beyond the window, a handful of stars emerging through the city's haze. Behind him the blackboard had faded into shadow, but the pattern remained ghosted across his vision: curves, peaks, silences, connections.
 
@@ -302,15 +296,11 @@ David went back and tried again.
 
 Bar eleven remained unchanged: a descent in a key he would not have chosen, a shape he did not recognize as something he knew.
 
-His attention moved to the blackboard.
-
-Third line from the top.
-
-The altered transformation from the afternoon used the same intervallic motion.
+His attention moved to the blackboard: third line from the top. The altered transformation from the afternoon used the same intervallic motion.
 
 For several seconds he did nothing. Then he drew a line between the two on the legal pad and sat with the pencil still touching the paper, listening to the lullaby continue beneath his breath.
 
-The phone lit on the desk.
+Suddenly, an intrusion: the phone lit on the desk beside him.
 
 Celeste, 9:14 PM: David. Please call me. I know you're in there.
 
@@ -320,9 +310,7 @@ Outside, darkness had gathered fully across the city. Inside, another boundary s
 
 Threads that should have remained separate were drawing toward one another with the effortless confidence of things returning home.
 
-David turned back to the legal pad and drew the next line.
-
-The fork remained at the center of the cards, warm to the touch. Beneath his breath, the lullaby ran on, slightly different each time through bar eleven, as if the melody itself were still working something out.
+David turned back to the legal pad and drew the next line, the lullaby lilting on beneath his breath, slightly different each time, as ithough the melody itself were still working something out.
 
 
 15.4 Lossless Transfers
