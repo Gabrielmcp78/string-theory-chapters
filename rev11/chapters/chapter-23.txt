@@ -11,8 +11,8 @@ Word Count:      3,497
 Paragraph Count: 118
 Scene Count:     2
 
-Scene 1: 23.1  The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
-Scene 2: 23.2  The exhilaration of a walk downhill  --  Words 601–3,497  |  Paragraphs 18–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
+Scene 1: 23.1  The Bench  --  Words 1–600  |  Paragraphs 1–17  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-23-scene-01.html
+Scene 2: 23.2  The exhilaration of a walk downhill  --  Words 601–3,497  |  Paragraphs 18–118  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-23-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -181,7 +181,7 @@ He slammed the apartment door, stuttered down the hall, jolted up the spiral sta
 
 THE NEW YORK TIMES All The News That's Fit To Print
 
-November 30, 2026 $4.00
+November 30, 2026          $4.00
 
 PRESIDENT CONVENES Emergency Session With G‑7, NATO Leaders After Solar Event; MCGRATH Appointed Special Science Envoy
 
