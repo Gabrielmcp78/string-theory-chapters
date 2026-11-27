@@ -7,15 +7,15 @@ Title:           Visions and Burdens… of Knowing
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,711
-Paragraph Count: 295
+Word Count:      7,412
+Paragraph Count: 280
 Scene Count:     5
 
-Scene 1: 14.1 I. Overture: The Monochord | Pythagoras  --  Words 1–1,968  |  Paragraphs 1–71  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 II. Andante: the salon | Émilie du Châtelet  --  Words 1,969–2,974  |  Paragraphs 72–111  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
-Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing  --  Words 2,975–4,966  |  Paragraphs 112–201  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
-Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni  --  Words 4,967–6,375  |  Paragraphs 202–254  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
-Scene 5: 14.5 V. Finale: Minimums | Isaac Newton  --  Words 6,376–7,711  |  Paragraphs 255–295  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
+Scene 1: 14.1 I. Overture: The Monochord | Pythagoras  --  Words 1–1,669  |  Paragraphs 1–56  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 II. Andante: the salon | Émilie du Châtelet  --  Words 1,670–2,675  |  Paragraphs 57–96  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing  --  Words 2,676–4,667  |  Paragraphs 97–186  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni  --  Words 4,668–6,076  |  Paragraphs 187–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 V. Finale: Minimums | Isaac Newton  --  Words 6,077–7,412  |  Paragraphs 240–280  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -132,36 +132,6 @@ His hand was unsteady, but the urgency in his blood was absolute. He picked up a
 The moment the calcium met the slate, a sudden sensory interference flared.
 
 A sharp burst of mineral blue flashed across his peripheral vision—an optical phantom of the Greek glare. For a split second, his ribs ached with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.
-
-* * *
-
-* * *
-
-* * *
-
-David crashed forward against the desk, catching his weight on his palms as his shins knocked the apron. The demitasse rattled violently on its saucer.
-
-He stood in the dark of his study, breathing hard, the smell of hot thyme and animal fat lingering on his palate like smoke. His hands were shaking. In his right fist, the tuning fork was hot to the touch, vibrating with a dying frequency that felt like a live nerve against his thumb.
-
-His left hand was empty, his palm grey with chalk dust.
-
-No stone terrace. No cypress timber.
-
-The room rushed back into his ears—heavy, thick, smelling of stale coffee and cold radiators. On his left wrist, beneath the frayed cuff, the sweep hand of Arthur’s watch continued its quiet, indifferent circle, three minutes and forty-seven seconds ahead of any clock on campus.
-
-David looked up at the slate.
-
-The twelve iterations of the manifold were still there, blurred by chalk dust. But at the lower perimeter, where the parameter space had collapsed into a tangle of unresolved tensors, the notation had cleared.
-
-Three whole-number ratios. Locked into the geometry of the loop.
-
-His hand was unsteady, but the urgency in his blood was absolute. He picked up a chalk stub, stepped to the slate, and went to touch the chalk to the stone.
-
-The moment the calcium met the slate, a sudden sensory interference flared.
-
-A sharp burst of mineral blue flashed across his peripheral vision—an optical phantom of the Greek glare. For a split second, his ribs ached with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.
-
-* * *
 
 
 14.2 II. Andante: the salon | Émilie du Châtelet

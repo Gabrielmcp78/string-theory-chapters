@@ -3,24 +3,25 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 14
-Title:           Visions and Burdens of Knowing
+Title:           Visions and Burdens… of Knowing
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      7,425
-Paragraph Count: 286
-Scene Count:     2
+Word Count:      7,412
+Paragraph Count: 280
+Scene Count:     5
 
-Scene 1: 14.1 OVERTURE: THE MONOCHORD | Pythagoras  --  Words 1–1,673  |  Paragraphs 1–58  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-01.html
-Scene 2: 14.2 ANDANTE: THE SALON | Émilie du Châtelet  --  Words 1,674–7,425  |  Paragraphs 59–286  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-14-scene-02.html
+Scene 1: 14.1 I. Overture: The Monochord | Pythagoras  --  Words 1–1,669  |  Paragraphs 1–56  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html
+Scene 2: 14.2 II. Andante: the salon | Émilie du Châtelet  --  Words 1,670–2,675  |  Paragraphs 57–96  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html
+Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing  --  Words 2,676–4,667  |  Paragraphs 97–186  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html
+Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni  --  Words 4,668–6,076  |  Paragraphs 187–239  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
+Scene 5: 14.5 V. Finale: Minimums | Isaac Newton  --  Words 6,077–7,412  |  Paragraphs 240–280  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-14.1 OVERTURE: THE MONOCHORD | Pythagoras
-
-[Adagio misterioso]
+14.1 I. Overture: The Monochord | Pythagoras
 
 A new night lived inside the tossed productivity of the apartment. It secreted itself in the angles between cracked baseboard and battered desk, in the umbra cast by a beaker-turned-lamp, in the chalked hieroglyphs that haunted three generations of blackboards. The hour had turned mean, compressing time into a single, sustained pedal point. Each quarter-hour from the clock in the adjacent room heralded another unbroken instant since David had last regarded the world beyond his equation.
 
@@ -132,12 +133,8 @@ The moment the calcium met the slate, a sudden sensory interference flared.
 
 A sharp burst of mineral blue flashed across his peripheral vision—an optical phantom of the Greek glare. For a split second, his ribs ached with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.
 
-* * *
 
-
-14.2 ANDANTE: THE SALON | Émilie du Châtelet
-
-[Andante con grazia e logica]
+14.2 II. Andante: the salon | Émilie du Châtelet
 
 The chalk made a sudden, new sound as it struck the slate mid-thought. It was thinner than usual, almost wet, like horsehair drawn across a string in bad weather. David stopped and stepped back to take in the entire board.
 
@@ -145,7 +142,7 @@ The white line he had just drawn seemed to waver where it should have held. A mo
 
 The world recalibrated.
 
-And with nothing more technical or magical or difficult than that, he found he was seated in another room. In another time.
+And with nothing more technical or magical or difficult than that, he found he was seated in another room.
 
 He took in his new surroundings. The walls were papered in peacock blue, the pattern worked through with gold that lifted and disappeared in the candlelight as he moved his head. The floor was parquet worn dull and smooth by generations of use. Along the mantel stood clocks, instruments, small mechanical curiosities whose brass surfaces caught the light and returned it in fragments. The air held beeswax, perfume, and the stale press of too many bodies having spent too many hours in conversation.
 
@@ -193,7 +190,7 @@ Then she took a breath, lowered them again, and gently played the final interval
 
 And as she did, the note did not end.
 
-The room did.
+Only the room did.
 
 * * *
 
@@ -217,9 +214,8 @@ For the first time, the beauty of the thing did not reassure him.
 
 * * *
 
-[III. Scherzo: The Purge | Chair Clearing]
 
-Presto distruttivo
+14.3 III. Scherzo: The Purge | Chair Clearing
 
 The following morning found David wide awake by 5 a.m., and fumbling for the main hall key to the administrative building by 5:45. He couldn’t for the life of him remember the last time he had to unlock a building on campus, but a brief fumbling through the old chain he’d been collecting for twenty years found the correct master with little incident.
 
@@ -399,9 +395,8 @@ And David found it… beautifully terrifying.
 
 * * *
 
-[IV. Intermezzo: Resonance | Chladni]
 
-Allegretto vibrante
+14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni
 
 Night entered the apartment in layers. It resisted a binary state, arriving instead as partials, dissonances, and overtones, the slow ossification of city sound into something resembling a frequency domain. The windows glowed with the dull sodium of streetlights, rendering every surface a spectral version of itself. David tuned his cello in the center of the living room, the instrument propped on its spike so that the maple back reflected the skyline like a warped mirror.
 
@@ -507,9 +502,8 @@ Harder.
 
 * * *
 
-[V. Finale: Minimums | Isaac Newton]
 
-Largo maestoso
+14.5 V. Finale: Minimums | Isaac Newton
 
 The world thinned. Its edges loosened, drifting backward the way a shoreline slips away in fog, revealing more absence than land. The walls eased into distance, their retreat carrying the hush of something ancient and exhausted. No color remained except the blue-gray wash of winter light pressed through leaded glass, the faint tint a page holds in the quiet moment before ink decides its fate.
 
