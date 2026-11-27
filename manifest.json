@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-27",
-  "total_words": 125557,
+  "total_words": 124429,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -547,8 +547,8 @@
       "label": "Chapter 14",
       "title": "Visions and Burdens… of Knowing",
       "subtitle": "",
-      "word_count": 7412,
-      "paragraph_count": 280,
+      "word_count": 6284,
+      "paragraph_count": 132,
       "scene_count": 5,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14.txt",
@@ -557,45 +557,45 @@
           "n": 1,
           "heading": "14.1 I. Overture: The Monochord | Pythagoras",
           "word_start": 1,
-          "word_end": 1669,
+          "word_end": 1457,
           "para_start": 1,
-          "para_end": 56,
+          "para_end": 22,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-01.html"
         },
         {
           "n": 2,
           "heading": "14.2 II. Andante: the salon | Émilie du Châtelet",
-          "word_start": 1670,
-          "word_end": 2675,
-          "para_start": 57,
-          "para_end": 96,
+          "word_start": 1458,
+          "word_end": 2377,
+          "para_start": 23,
+          "para_end": 40,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-02.html"
         },
         {
           "n": 3,
           "heading": "14.3 III. Scherzo: The Purge | Chair Clearing",
-          "word_start": 2676,
-          "word_end": 4667,
-          "para_start": 97,
-          "para_end": 186,
+          "word_start": 2378,
+          "word_end": 3901,
+          "para_start": 41,
+          "para_end": 73,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-03.html"
         },
         {
           "n": 4,
           "heading": "14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni",
-          "word_start": 4668,
-          "word_end": 6076,
-          "para_start": 187,
-          "para_end": 239,
+          "word_start": 3902,
+          "word_end": 5115,
+          "para_start": 74,
+          "para_end": 99,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html"
         },
         {
           "n": 5,
           "heading": "14.5 V. Finale: Minimums | Isaac Newton",
-          "word_start": 6077,
-          "word_end": 7412,
-          "para_start": 240,
-          "para_end": 280,
+          "word_start": 5116,
+          "word_end": 6284,
+          "para_start": 100,
+          "para_end": 132,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html"
         }
       ]
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 30,
+    "scenes_applied": 31,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-27T19:07:38.370954+00:00",
+    "desk_last_edit": "2026-11-27T19:29:21.565279+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
