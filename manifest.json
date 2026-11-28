@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-27",
-  "total_words": 124481,
+  "total_words": 124500,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -76,8 +76,8 @@
       "label": "Chapter 6",
       "title": "Now Then",
       "subtitle": "",
-      "word_count": 2487,
-      "paragraph_count": 212,
+      "word_count": 2506,
+      "paragraph_count": 215,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -95,27 +95,27 @@
           "n": 2,
           "heading": "6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005",
           "word_start": 339,
-          "word_end": 1396,
+          "word_end": 1415,
           "para_start": 19,
-          "para_end": 137,
+          "para_end": 140,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html"
         },
         {
           "n": 3,
           "heading": "6.3   SUBJECT   |    Buffalo, NY       Present Day",
-          "word_start": 1397,
-          "word_end": 2033,
-          "para_start": 138,
-          "para_end": 177,
+          "word_start": 1416,
+          "word_end": 2052,
+          "para_start": 141,
+          "para_end": 180,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
         },
         {
           "n": 4,
           "heading": "6.4   ANSWER   |   NYU - New York, NY       May 24, 2005",
-          "word_start": 2034,
-          "word_end": 2487,
-          "para_start": 178,
-          "para_end": 212,
+          "word_start": 2053,
+          "word_end": 2506,
+          "para_start": 181,
+          "para_end": 215,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
         }
       ]
@@ -1402,7 +1402,7 @@
     "scenes_applied": 32,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-28T01:17:53.753483+00:00",
+    "desk_last_edit": "2026-11-28T01:22:55.813487+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"

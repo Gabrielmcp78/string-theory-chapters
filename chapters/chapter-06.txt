@@ -7,14 +7,14 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,487
-Paragraph Count: 212
+Word Count:      2,506
+Paragraph Count: 215
 Scene Count:     4
 
 Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,396  |  Paragraphs 19–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,397–2,033  |  Paragraphs 138–177  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,034–2,487  |  Paragraphs 178–212  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,415  |  Paragraphs 19–140  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,416–2,052  |  Paragraphs 141–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,053–2,506  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -165,9 +165,9 @@ David's expression hardened.
 
 “That's an absurd analogy.”
 
-“It's a fantastic analogy. You'd insist on tuning it first.”
+“It's a perfect analogy. You'd insist on tuning it first.”
 
-Celeste laughed again, but David did not.
+Celeste laughed again, before turning to see David’s face drop back into to deadly, serious silence.
 
 Marcus saw the change.
 
@@ -175,7 +175,7 @@ Marcus saw the change.
 
 “What?”
 
-“I'm trying to keep you from destroying your own work.”
+“I'm trying to keep you from destroying your own work. You gotta see that.”
 
 “By keeping it hidden.”
 
@@ -193,9 +193,15 @@ David turned toward him, indignation in every syllable. “Alright fine. Then te
 
 “What? Simple question.”
 
+“I don’t know
+
 “That’s not fair.”
 
-“Oh, Marcus. I thought you had this all in hand, man. This is science brother. Fair simply doesn’t factor. Come on. How long“As long as it takes.”
+“Oh, now Marcus. I thought you had this all well in hand, man?”
+
+“This is science brother. Fair simply doesn’t factor. Come on. How long?”
+
+“As long as it takes.”
 
 “Ten years?”
 
@@ -207,7 +213,7 @@ David turned toward him, indignation in every syllable. “Alright fine. Then te
 
 “What if it takes thirty years?”
 
-His voice had risen. He heard it and hated that he could not seem to bring it down.
+David’s voice had risen. He heard it and hated that he could not seem to bring it down.
 
 “What if I prove it and nobody's left who remembers I was crazy for thinking it?”
 
