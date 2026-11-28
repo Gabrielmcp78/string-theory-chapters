@@ -11,13 +11,13 @@ Word Count:      5,798
 Paragraph Count: 290
 Scene Count:     7
 
-Scene 1: 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-01.html
-Scene 2: 21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-02.html
-Scene 3: 21.3   THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-03.html
-Scene 4: 21.4  Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-04.html
-Scene 5: 21.5   THE WEIGHT OF NAMES  |  October 1971  --  Words 3,779–4,528  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-05.html
-Scene 6: 21.6  TEMPORALITY  --  Words 4,529–4,917  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-06.html
-Scene 7: 21.7  CANTUS  --  Words 4,918–5,798  |  Paragraphs 252–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-21-scene-07.html
+Scene 1: 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026  --  Words 1–473  |  Paragraphs 1–19  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-01.html
+Scene 2: 21.2   THE CALL  |  Cornell Physics Department       11:47 A.M. Eastern  --  Words 474–1,441  |  Paragraphs 20–63  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-02.html
+Scene 3: 21.3   THE DISCOVERY  --  Words 1,442–2,213  |  Paragraphs 64–102  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-03.html
+Scene 4: 21.4  Around The Horn  --  Words 2,214–3,778  |  Paragraphs 103–184  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-04.html
+Scene 5: 21.5   THE WEIGHT OF NAMES  |  October 1971  --  Words 3,779–4,529  |  Paragraphs 185–228  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-05.html
+Scene 6: 21.6  TEMPORALITY  --  Words 4,530–4,918  |  Paragraphs 229–251  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-06.html
+Scene 7: 21.7  CANTUS  --  Words 4,919–5,798  |  Paragraphs 252–290  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-21-scene-07.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -25,7 +25,7 @@ Scene 7: 21.7  CANTUS  --  Words 4,918–5,798  |  Paragraphs 252–290  |  URL:
 
 21.1  THE NETWORK  |  UCLA Mathematical Sciences Building, 9:48 A.M. Pacific / November 29, 2026
 
-Dr. Marcus McGrath moved through his observatory like a conductor orchestrating survival. The electromagnetic pulse had silenced ninety percent of Earth’s scientific infrastructure at 2:47 A.M., but the Keck arrays on Maunakea, hummed with impossible vitality, not merely operational, but inexplicably and increasingly enhanced. His standard radio telescopes were detecting signals in frequency ranges they had never been designed to process.
+Dr. Marcus McGrath moved through his observatory like a conductor orchestrating survival. The electromagnetic pulse had silenced ninety percent of Earth’s scientific infrastructure at 2:47 A.M., but the Keck arrays on Maunakea hummed with impossible vitality, not merely operational, but inexplicably and increasingly enhanced. His standard radio telescopes were detecting signals in frequency ranges they had never been designed to process.
 
 And then this damned video. Nothing like it had ever crossed McGrath’s desk. It had arrived just six minutes after global communications collapse: a holographic recording whose compression algorithms defied conventional understanding: forty-seven minutes of footage occupying impossibly small storage, yet containing mathematical information that was currently rewriting his equipment’s firmware and showed no sign of stopping.
 
@@ -232,7 +232,7 @@ Instantly, upon the last utterance of Dr. McGrath’s name, Celeste snapped out 
 
 21.4  Around The Horn
 
-Geneva, CERN Control Room   |   5:48 P.M. CET
+Geneva, CERN Control Room | 5:48 P.M. CET
 
 The Large Hadron Collider had been dark since the pulse. Officially, the beams were cold, the cryogenics still recovering, the superconducting magnets inert. No power, no collisions, no reason for the detectors to be awake at all.
 
@@ -419,7 +419,7 @@ The lab was humming. Run 28 had never stopped. The terminal glowed green in the 
 
 He did not look. His uncle had warned him: Some structures only become dangerous when observed.
 
-The thermal printer sat inert, its spool empty. The whiteboard bore Kenji's last thought (cut of, just stopped, mid-equation) as if his mind had simply… stepped out.
+The thermal printer sat inert, its spool empty. The whiteboard bore Kenji's last thought (cut off, just stopped, mid-equation) as if his mind had simply… stepped out.
 
 The young man photographed it. Then, pulling a perfectly starched, precisely folded handkerchief from his trousers, he wiped it clean.
 
@@ -429,11 +429,11 @@ The equipment breathed around him. The tubes were warm, oscillators idling at re
 
 This was not a shutdown procedure he was executing. This was maintenance. This was respect.
 
-And then, before leaving, he moved to the main door. The primary seal. A steel slab the width of a vault, still bolted from the outside stood sentinel before him. No one had entered here since Dr. Tsukino vanished.
+And then, before leaving, he moved to the main door. The primary seal. A steel slab the width of a vault, still bolted from the outside, stood sentinel before him. No one had entered here since Dr. Tsukino vanished.
 
 From the interior, he slid the iron bar into place. Massive. Groaning. The weight of finality. Now the door was sealed from both sides.
 
-As he made his way back to the ventilation shaft, a chill of deep, cavernous air whipped through his chest. He coughed, cleared his throat, the echo of it spiraling out through the passage tunnels for an eternity. Just as the percussive echo died away, he swore he heard footsteps shuffle behind him in the room. He turned slowly, his mind screaming at him that it was nothing, his body, his joints completely disbelieving of such a narrative. Crawled back through the tunnel that joined sound to science.
+As he made his way back to the ventilation shaft, a chill of deep, cavernous air whipped through his chest. He coughed, cleared his throat, the echo of it spiraling out through the passage tunnels for an eternity. Just as the percussive echo died away, he swore he heard footsteps shuffle behind him in the room. He turned slowly, his mind screaming at him that it was nothing, his body, his joints completely disbelieving of such a narrative. He crawled back through the tunnel that joined sound to science.
 
 Structure to pattern. Resonance to intent.
 
@@ -577,13 +577,13 @@ The name propagated instantly through the channels, appearing as filenames, pack
 
 Kovács spoke one last time. “If they erase us, remember the frequency. Seven-point-eight-three hertz. That’s where the world began to sing.”
 
-Rune added, almost a prayer, “Cantus perpetious.” The everlasting song.
+Rune added, almost a prayer, “Cantus perpetuus.” The everlasting song.
 
-Marcus paused, blinked, and a flash of fire and blood (of youth’s angst and rebellions fury flooded back. When he opened his eyes, his vision returned, blur field through tears.
+Marcus paused, blinked, and a flash of fire and blood (of youth’s angst and rebellions fury flooded back. When he opened his eyes, his vision returned, blurred through tears.
 
 In the Feynman Lecture hall, Rune Ishikawa had felt something, a flicker in his bones, a knowing, an understanding, a need to reach back, to acknowledge…
 
-“Rune?” Marcus’ voice came over the line, his voice almost imperceptible, unrecognizable to all but Celeste and Rune, who heard in it’s utterance the tones of a young astrophysicist they once knew, long ago.
+“Rune?” Marcus’ voice came over the line, his voice almost imperceptible, unrecognizable to all but Celeste and Rune, who heard in its utterance the tones of a young astrophysicist they once knew, long ago.
 
 Rune had already moved to the speaker, seeming to know the moment was now. Celeste’s hand began to quiver. Rune reached out his own to pull her in close.
 
@@ -591,7 +591,7 @@ Rune had already moved to the speaker, seeming to know the moment was now. Celes
 
 For one minute and forty-six seconds, the line sustained a certain silence.
 
-The three held each other across distance in an impossible binding, a deep understanding that what had been said…done… had passed into the beyond. That this quartet, through 20 years of silence, had performed it’s task and lost it’s leader to the execution of it’s very instrumentation.
+The three held each other across distance in an impossible binding, a deep understanding that what had been said…done… had passed into the beyond. That this quartet, through 20 years of silence, had performed its task and lost its leader to the execution of its very instrumentation.
 
 As the seconds ticked from :47 to :48 Marcus turned to his assistant, dropped his head and simply said, “Send it.”
 
