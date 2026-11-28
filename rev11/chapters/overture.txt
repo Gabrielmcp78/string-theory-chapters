@@ -3,7 +3,7 @@ STRING THEORY
 By Gabriel McPherson
 ========================================================================
 Chapter Label:   Overture
-Title:           Prologue
+Title:           Overture
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
