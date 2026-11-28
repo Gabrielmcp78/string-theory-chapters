@@ -8,11 +8,11 @@ Title:           Field Protocol #47: Tonal Activation
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      742
-Paragraph Count: 69
+Paragraph Count: 64
 Scene Count:     2
 
-Scene 1: National Museum Installation Note | Washington, D.C.  --  Words 1–205  |  Paragraphs 1–9  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-01.html
-Scene 2: Field Protocol #47 | Operational Manual  --  Words 206–742  |  Paragraphs 10–69  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/appendix-scene-02.html
+Scene 1: National Museum Installation Note | Washington, D.C.  --  Words 1–205  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-01.html
+Scene 2: Field Protocol #47 | Operational Manual  --  Words 206–742  |  Paragraphs 7–64  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/appendix-scene-02.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -20,13 +20,7 @@ Scene 2: Field Protocol #47 | Operational Manual  --  Words 206–742  |  Paragr
 
 National Museum Installation Note | Washington, D.C.
 
-LANG, DAVID (1979–20—)
-
-FIELD PROTOCOL #47: TONAL ACTIVATION
-
-Mixed media installation: Cello, manuscript score, field recordings, modified analog instrumentation, recovered documents
-
-Permanent Collection
+LANG, DAVID (1979–20—) FIELD PROTOCOL #47: TONAL ACTIVATION Mixed media installation: Cello, manuscript score, field recordings, modified analog instrumentation, recovered documents Permanent Collection
 
 Acquired from the estate of Celeste Armitage following several decades of decentralized custody, the installation centers upon an unlabelled 19th-century violoncello bearing extensive structural fractures along the upper bout and soundboard, alongside a two-hundred-and-sixteen-measure manuscript score executed in graphite and india ink. Recovered documentation suggests the materials were assembled in late November 2026, coinciding with the widely reported world-wide acoustic disturbances recorded during the period of the x-class solar maximum of late 2026.
 
@@ -39,11 +33,7 @@ Though authorship officially remains unattributed, it is widely accepted that th
 
 Field Protocol #47 | Operational Manual
 
-“Of Life” in the key of Everything
-
-For Instruments Scientific and Musical
-
-For Humanity... For All
+“Of Life” in the key of Everything For Instruments Scientific and Musical For Humanity... For All
 
 §
 
