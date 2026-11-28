@@ -33,6 +33,7 @@ REV11_DIRNAME = "rev11"              # sub-site built from the Revision-11 branc
 SOURCE_LABEL = ""                    # set for branch builds, e.g. "Revision-11 @ abc1234"
 BANNER_HTML = None                   # when set (--banner-html), replaces the index banner; used by scripts/site_build.py
                                      # in Source Router to link the leading edge and the committed main to each other
+SCENE_HEADERS = {}                   # optional map of str(chapter_number) -> list of canonical scene header dicts
 ANALYSIS_ENABLED = False             # the "Scene N Analysis & Outline" dropdowns are never published (feature unfinished);
                                      # analysis/*.json is kept, flip to True to bring the boxes back
 
@@ -158,8 +159,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -850,11 +909,54 @@ def strip_header_paras(paras):
             idx += 1
     return paras[idx:]
 
-def extract_scenes(body_paras):
+def render_scene_header_html(hdr, scene_id):
+    """Render a full 2-column scene header card with temporal, formal, title, tempo, and location metadata."""
+    formal = (hdr.get("formalStructure") or "").strip()
+    date = (hdr.get("dateline") or "").strip()
+    coord = (hdr.get("coord") or "").strip()
+    title = (hdr.get("title") or "").strip()
+    tempo = (hdr.get("tempo1") or "").strip()
+    place = (hdr.get("place") or "").strip()
+    loc = (hdr.get("location") or "").strip()
+
+    rows = [f'<div class="scene-hdr" id="{scene_id}">']
+    if formal or date:
+        rows.append('<div class="scene-hdr-top">')
+        if formal:
+            rows.append(f'<span class="scene-hdr-formal">| {html.escape(formal)} |</span>')
+        if date:
+            rows.append(f'<span class="scene-hdr-date">{html.escape(date)}</span>')
+        rows.append('</div>')
+    if coord or title:
+        rows.append('<div class="scene-hdr-title">')
+        if coord:
+            rows.append(f'<span class="scene-hdr-coord">{html.escape(coord)}</span>')
+        if title:
+            rows.append(f'<span class="scene-hdr-name">{html.escape(title)}</span>')
+        rows.append('</div>')
+    else:
+        rows.append('<div class="scene-hdr-title" style="padding-bottom:0.1rem"></div>')
+    if tempo or place or loc:
+        rows.append('<div class="scene-hdr-sub">')
+        if tempo:
+            rows.append(f'<span class="scene-hdr-tempo">{html.escape(tempo)}</span>')
+        if place or loc:
+            loc_parts = []
+            if place:
+                loc_parts.append(f'<span class="scene-hdr-place">{html.escape(place)}</span>')
+            if loc:
+                loc_parts.append(f'<strong>{html.escape(loc)}</strong>')
+            rows.append('<span class="scene-hdr-loc">' + ' <span style="opacity:0.55">|</span> '.join(loc_parts) + '</span>')
+        rows.append('</div>')
+    rows.append('</div>\n')
+    return "".join(rows)
+
+
+def extract_scenes(body_paras, num=None):
     """
     Group body_paras into scenes by location markers.
     Returns list of {'n': int, 'heading': str, 'paras': [docx.Paragraph, ...]}
-    If no location paragraphs exist, returns a single scene with all paragraphs.
+    If no location paragraphs exist, returns a single scene if SCENE_HEADERS has metadata for this chapter.
     """
     scenes = []
     current = None
@@ -875,6 +977,16 @@ def extract_scenes(body_paras):
             # they render in the full chapter HTML but not on individual scene pages
     if current is not None:
         scenes.append(current)
+    if not scenes and num is not None:
+        ch_hdrs = SCENE_HEADERS.get(str(num)) or []
+        if ch_hdrs:
+            h0 = ch_hdrs[0]
+            h_parts = [x for x in (h0.get("coord"), h0.get("title"), h0.get("dateline"), h0.get("location")) if x]
+            scenes.append({
+                'n': 1,
+                'heading': " · ".join(h_parts) or f"Scene {num}.1",
+                'paras': list(body_paras),
+            })
     # Re-number cleanly
     for i, s in enumerate(scenes):
         s['n'] = i + 1
@@ -886,6 +998,22 @@ def render_body_html(paras, num=None):
     scenes     = []
     word_count = 0
     para_count = 0
+    ch_headers = SCENE_HEADERS.get(str(num), []) if num is not None else []
+    has_location_marker = any(p.style.name == 'location' and p.text.strip() for p in paras)
+
+    if not has_location_marker and ch_headers:
+        h0 = ch_headers[0]
+        h_parts = [x for x in (h0.get("coord"), h0.get("title"), h0.get("dateline"), h0.get("location")) if x]
+        scenes.append({
+            'id':         'scene-1',
+            'n':          1,
+            'heading':    " · ".join(h_parts) or f"Scene {num}.1",
+            'word_start': 1,
+            'para_start': 1,
+            'word_end':   None,
+            'para_end':   None,
+        })
+        parts.append(render_scene_header_html(h0, 'scene-1'))
 
     for p in paras:
         style     = p.style.name
@@ -914,9 +1042,12 @@ def render_body_html(paras, num=None):
                 'word_end':   None,
                 'para_end':   None,
             })
-            inner = runs_to_html(p)
-            inner = re.sub(r'\t+', '\u2002\u2002', inner)
-            parts.append(f'<div class="location" id="{scene_id}">{inner}</div>\n')
+            if scene_n - 1 < len(ch_headers):
+                parts.append(render_scene_header_html(ch_headers[scene_n - 1], scene_id))
+            else:
+                inner = runs_to_html(p)
+                inner = re.sub(r'\t+', '\u2002\u2002', inner)
+                parts.append(f'<div class="location" id="{scene_id}">{inner}</div>\n')
             
             # Embed scene analysis if available
             if num is not None:
@@ -2169,7 +2300,7 @@ def parse_markdown_chapter(path):
     if num is None:
         # No usable chapter_id in the front matter: the file-name convention chNN-... identifies the chapter.
         fm = re.match(r"ch(\d+)-", path.stem, re.I)
-        num = int(fm.group(1)) if fm and int(fm.group(1)) > 0 else -99
+        num = int(fm.group(1)) if fm and int(fm.group(1)) >= 0 else -99
     if not any(p.style.name == "SubChapter" for p in paras):
         paras.insert(0, _MdPara("SubChapter", _md_runs(title or chapter_label(num))))
     return num, paras
@@ -2177,11 +2308,17 @@ def parse_markdown_chapter(path):
 def parse_markdown_dir(md_dir):
     """Read every chapter under manuscript/ and order them like the book."""
     chapters = [parse_markdown_chapter(f) for f in sorted(Path(md_dir).rglob("*.md"))]
-    chapters = [c for c in chapters if c[0] != -99]
+    seen = set()
+    deduped = []
+    for c in chapters:
+        if c[0] == -99 or c[0] in seen:
+            continue
+        seen.add(c[0])
+        deduped.append(c)
     def order(c):
         n = c[0]
         return (0, 0) if n == 0 else ((1, n) if n > 0 else (2, -n))
-    return sorted(chapters, key=order)
+    return sorted(deduped, key=order)
 
 def index_note_html():
     """Index banner. An explicit --banner-html wins; otherwise: root links to the Revision-11 site when it exists,
@@ -2213,9 +2350,9 @@ def fix_math_hashes(page_html):
         return _SUBSCRIPT_STAR.sub(r'\1_', tex)
     return _MATH_SPAN.sub(_clean_math, page_html)
 
-def configure_output(out_dir, pages_url, source_label="", banner_html=None):
+def configure_output(out_dir, pages_url, source_label="", banner_html=None, scene_headers_path=None):
     """Point every output path and absolute URL at a sub-site (e.g. rev11/)."""
-    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL, HEAD_TAGS, BANNER_HTML
+    global OUT_DIR, CHAPTER_DIR, EDITS_DIR, PAGES_URL, ANALYSIS_DIR, SOURCE_LABEL, HEAD_TAGS, BANNER_HTML, SCENE_HEADERS
     OUT_DIR = Path(out_dir).resolve()
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     CHAPTER_DIR = OUT_DIR / "chapters"
@@ -2224,6 +2361,10 @@ def configure_output(out_dir, pages_url, source_label="", banner_html=None):
     PAGES_URL = pages_url.rstrip("/")
     SOURCE_LABEL = source_label
     BANNER_HTML = banner_html
+    if scene_headers_path and Path(scene_headers_path).exists():
+        SCENE_HEADERS = json.loads(Path(scene_headers_path).read_text(encoding="utf-8"))
+    else:
+        SCENE_HEADERS = {}
 
 # -- Main build ---------------------------------------------------------------
 def build(src_path=None):
@@ -2290,7 +2431,7 @@ def build(src_path=None):
         )
 
         # Individual scene HTML pages
-        scenes_grouped = extract_scenes(body_paras)
+        scenes_grouped = extract_scenes(body_paras, num)
         total_sc = len(scenes_grouped)
         for sg in scenes_grouped:
             sc_stat   = stats['scenes'][sg['n'] - 1]
@@ -2343,8 +2484,9 @@ if __name__ == "__main__":
         ap.add_argument("--pages-url", required=True, help="public URL of the output folder")
         ap.add_argument("--source-label", default="", help='e.g. "Revision-11 @ abc1234"')
         ap.add_argument("--banner-html", default=None, help="HTML for the index banner (replaces the default)")
+        ap.add_argument("--scene-headers", default=None, help="JSON path of canonical scene headers keyed by chapter number")
         a = ap.parse_args()
-        configure_output(a.out_dir, a.pages_url, a.source_label, a.banner_html)
+        configure_output(a.out_dir, a.pages_url, a.source_label, a.banner_html, a.scene_headers)
         build(a.md_dir)
     else:
         build(sys.argv[1] if len(sys.argv) > 1 else None)
