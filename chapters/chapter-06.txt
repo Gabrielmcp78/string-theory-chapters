@@ -7,14 +7,14 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,534
+Word Count:      2,547
 Paragraph Count: 215
 Scene Count:     4
 
 Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,443  |  Paragraphs 19–140  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,444–2,080  |  Paragraphs 141–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,081–2,534  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,456  |  Paragraphs 19–140  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,457–2,093  |  Paragraphs 141–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,094–2,547  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -229,7 +229,7 @@ Celeste set her beer on the floor.
 
 “David.”
 
-Nothing. He turned away, refusing even to meet her eyes
+Nothing. He turned away, refusing even to meet her eyes as he moved to look out over the street beyond their dormitory courtyard.
 
 “Come here.”
 

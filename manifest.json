@@ -2,7 +2,7 @@
   "title": "String Theory",
   "author": "Gabriel McPherson",
   "built": "2026-11-27",
-  "total_words": 124528,
+  "total_words": 124541,
   "manifest_url": "https://gabrielmcp78.github.io/string-theory-chapters/manifest.json",
   "chapters": [
     {
@@ -76,7 +76,7 @@
       "label": "Chapter 6",
       "title": "Now Then",
       "subtitle": "",
-      "word_count": 2534,
+      "word_count": 2547,
       "paragraph_count": 215,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
@@ -95,7 +95,7 @@
           "n": 2,
           "heading": "6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005",
           "word_start": 339,
-          "word_end": 1443,
+          "word_end": 1456,
           "para_start": 19,
           "para_end": 140,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html"
@@ -103,8 +103,8 @@
         {
           "n": 3,
           "heading": "6.3   SUBJECT   |    Buffalo, NY       Present Day",
-          "word_start": 1444,
-          "word_end": 2080,
+          "word_start": 1457,
+          "word_end": 2093,
           "para_start": 141,
           "para_end": 180,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
@@ -112,8 +112,8 @@
         {
           "n": 4,
           "heading": "6.4   ANSWER   |   NYU - New York, NY       May 24, 2005",
-          "word_start": 2081,
-          "word_end": 2534,
+          "word_start": 2094,
+          "word_end": 2547,
           "para_start": 181,
           "para_end": 215,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
@@ -1402,7 +1402,7 @@
     "scenes_applied": 32,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-28T01:28:10.954730+00:00",
+    "desk_last_edit": "2026-11-28T01:29:31.612716+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"
