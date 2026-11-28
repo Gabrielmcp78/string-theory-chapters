@@ -4,14 +4,14 @@ By Gabriel McPherson
 ========================================================================
 Chapter Label:   Chapter 5
 Title:           The Apartment
+Subtitle:        Adagio, con malinconia
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      2,157
 Paragraph Count: 72
-Scene Count:     1
+Scene Count:     0
 
-Scene 1: 5.1  --  Words 1–2,157  |  Paragraphs 1–72  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-05-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
