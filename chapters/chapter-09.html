@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -988,7 +1046,7 @@ Scene 2: 9.2 THE CLASSROOM | Feynman Hall · Following Day -- Word Range: 1,036�
 Scene 3: 9.3 THE MESSAGE AND THE CORRIDOR | Later That Day -- Word Range: 2,410–3,307 | Paragraph Range: 75–117 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-03.html
 Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon -- Word Range: 3,308–3,523 | Paragraph Range: 118–123 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-09-scene-04.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">9.1 AFTERSHOCK | Cornell — Ithaca, NY · Monday Night</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-top"><span class="scene-hdr-date">Present Day</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">9.1</span><span class="scene-hdr-name">After Shock</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><span class="scene-hdr-place">Cornell University</span> <span style="opacity:0.55">|</span> <strong>Ithaca, New York</strong></span></div></div>
 <p class="body">The cab let him out into the slush a little after nine-thirty, its hazard lights ticking against the dark. David hauled two days of Buffalo luggage through the building&#x27;s lobby, past the green glass door and down the long entrance hall, Arthur&#x27;s navy zip-up fleece pulled over his clothes against the cold. He kicked off his boots and collapsed across the brown leather sofa without unpacking a single pocket.</p>
 <p class="body">Sleep took him before the pipes had finished their first percussive cycle. At eleven twenty-eight, he awoke fighting for air. The fleece had twisted around his neck in the dark, fabric wedged into his mouth, the familiar smell of his father&#x27;s cedar shavings, stale pipe tobacco, and dry-cleaning solvent sealing off his throat. He had been dreaming of the old man because of the smell, though already the dream was dissolving in his skull before his eyes could find the ceiling plaster.</p>
 <p class="body">Yanking the zipper down until his teeth caught on the pull, he tore the fleece over his head and stumbled in his socks onto the cold oak of the kitchen, kicking the pedal of the trash can down with a sharp plastic clatter to shove it into the dark. Yet five seconds back on the couch, staring numbly at his stocking feet in the gray room, was all the distance he could bear; an instant later he was over the bin again, dragging the fleece back out from beneath coffee grounds and crushed eggshells. Wet grounds smeared across the ribbed cuffs as he buried his face into the collar, inhaling with a desperate, furious greed until his ribs ached with the musk of a man who no longer existed anywhere on earth. Shuddering, he rammed the filthy bundle back beneath the flap and let the lid slam down.</p>
@@ -1012,7 +1070,7 @@ Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon -- Word Range: 3,3
 <p class="body">At twelve twenty-one, his phone lit up: a message from Mom.</p>
 <p class="body3"><em>My God! Where did you find this? Are you awake? Call if you are. Ha! Fat chance. Love you.</em></p>
 <p class="body">David did not stir.</p>
-<div class="location" id="scene-2">9.2 THE CLASSROOM | Feynman Hall · Following Day</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">9.2</span><span class="scene-hdr-name">Fundamentalist</span></div></div>
 <p class="body">Thirty-seven students. David counted them twice from the podium while two sophomores at the back conducted an energetic dispute over midterm credit and a young man near the windows slept with his cheek flattened against a laptop, apparently confident that quantum mechanics could be absorbed through the skin.</p>
 <p class="body">The walk up the hill had already shaken him. Crossing the Arts Quad forty minutes earlier, the frost-killed grass near Goldwin Smith had flashed saturated magenta in the corner of his eye. When he stopped to look directly at it, the turf was merely dormant brown; when he turned away, the impossible hue flared back across his periphery, disappearing the moment he swung his chin around. He had briefly considered photographing the lawn, then realized the camera would only record the color the grass actually was.</p>
 <p class="body">Now, beneath the lecture lights, the crisp snap of a fresh cylinder of Hagoromo chalk against slate was an old, tactile comfort. He wrote the wave equation, established the fixed boundary conditions, and worked through the sinusoidal solutions with the steady fluency of someone who could still derive a vibrating string without assistance from sleep, memory, or a reliable nervous system.</p>
@@ -1062,7 +1120,7 @@ Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon -- Word Range: 3,3
 <p class="body">“A sensible career move. Class dismissed.”</p>
 <p class="body">The amphitheater emptied in its usual chaotic flood of backpacks and chatter. David remained at the podium wiping chalk dust from his hands, his gaze returning to Rebecca’s empty seat. For a moment the chain-link fence came back to him, sunlight bright along the wire and the little girl still holding her lunchbox. He set the chalk in its tray and left the equations on the board.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-3">9.3 THE MESSAGE AND THE CORRIDOR | Later That Day</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">9.3</span><span class="scene-hdr-name">Parlor Tricks</span></div></div>
 <p class="body">By late afternoon, the entire administrative corridor smelled of steam heat and damp wool, of bodies and dank shoe mud the failing of industrial cleaners.</p>
 <p class="body">At least, in the departmental secretary&#x27;s office, there was fresh coffee and Chanel No. 5 to counter the effects.</p>
 <p class="body">Mrs. Gable sat behind the counter, stamping requisitions with the touch of a plowman in a bog. David always felt like she could read in every professor&#x27;s face all the things only their mother should know about them, and of those things, only the most extreme and exaggerated upsides, coupled with the most devastating downsides of every personality in the department.</p>
@@ -1105,7 +1163,7 @@ Scene 4: 9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon -- Word Range: 3,3
 <p class="body">“Thanks, Professor.”</p>
 <p class="body">“My pleasure.”</p>
 <p class="body">He held the door as she slipped inside, then stepped out into the cold.</p>
-<div class="location" id="scene-4">9.4 RECOGNITION (CODA) | Arts Quad · Late Afternoon</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-title"><span class="scene-hdr-coord">9.4</span><span class="scene-hdr-name">No. 5</span></div></div>
 <p class="body">Evening had settled cold and gray over the Quad. David turned up his collar as he passed beneath the darkening windows of Goldwin Smith, Arthur’s gold Omega ticking beneath his coat sleeve. An owl called somewhere among the bare trees to the north, and he lifted his head, listening for another, when a passing current of air brought the rich, unmistakable sweetness of cigar smoke.</p>
 <p class="body">He stopped, half expecting Professor Wexler to be enjoying his customary post-lecture indulgence beneath the south portico, a greeting already forming on his lips. But the portico stood empty, its stone columns pale against the gathering dusk, and the scent was gone.</p>
 <p class="body">Across the Quad came the rush of the gorge rapids, the voices of students crossing the lawns, and, from somewhere behind him, a burst of laughter that lingered above the water before fading into the evening.</p>

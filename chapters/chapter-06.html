@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -988,7 +1046,7 @@ Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005 -- Word Ran
 Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day -- Word Range: 1,457–2,093 | Paragraph Range: 141–180 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
 Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005 -- Word Range: 2,094–2,547 | Paragraph Range: 181–215 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">6.1 SUBJECT | Buffalo, NY · Present Day</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-top"><span class="scene-hdr-formal">| SUBJECT |</span><span class="scene-hdr-date">Present Day</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">6.1</span><span class="scene-hdr-name">Pathways</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Andante inquieto</span><span class="scene-hdr-loc"><strong>Buffalo, New York</strong></span></div></div>
 <p class="body">The seats aboard the Cornell charter coach to Buffalo looked comfortable enough. Deep cushions, generous legroom, upholstery that promised a civilized journey. But after the first hour, David had begun to suspect that the suspension was conducting a private experiment on his spine.</p>
 <p class="body">Upright in the seat ahead, the cello case stood braced between armrest and window, settled into place with the unremarkable patience of ordinary luggage. At the wheel, the driver kept his eyes on the road and seldom troubled the rearview mirror.</p>
 <p class="body">Above the windshield, a laminated sign read:</p>
@@ -1006,7 +1064,7 @@ Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005 -- Word Range:
 <p class="body">David remained turned toward the rear window.</p>
 <p class="body">“Professor?”</p>
 <p class="body">Nothing, like he was watching something no one else could hear.</p>
-<div class="location" id="scene-2">6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-top"><span class="scene-hdr-formal">| ANSWER I |</span><span class="scene-hdr-date">April 11, 2005</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">6.2</span><span class="scene-hdr-name">Consensus</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Con tensione, andante</span><span class="scene-hdr-loc"><strong>Cambridge, Massachusetts</strong></span></div></div>
 <p class="body">“You&#x27;re not listening,” David said. “I&#x27;m not saying music is mathematics. I&#x27;m saying they&#x27;re dialects. Same language. Different mouths.”</p>
 <p class="body">Marcus McGrath occupied the room&#x27;s only chair, his legs hanging over one arm, a beer balanced against his chest with the assurance of a man who had never once spilled anything consequential.</p>
 <p class="body">“Dialects.”</p>
@@ -1128,7 +1186,7 @@ Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005 -- Word Range:
 <p class="body">Celeste reached for her beer.</p>
 <p class="body">David hesitated, then lifted his own.</p>
 <p class="body">“To the lunatics.”</p>
-<div class="location" id="scene-3">6.3   SUBJECT   |    Buffalo, NY       Present Day</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-top"><span class="scene-hdr-formal">| SUBJECT II |</span><span class="scene-hdr-date">Present Day</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">6.3</span><span class="scene-hdr-name">Conference</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Moderato grottesco</span><span class="scene-hdr-loc"><strong>Buffalo, New York</strong></span></div></div>
 <p class="body">The registration table was arranged with military precision, except for the line marked:</p>
 <p class="body3">LAST NAMES BEGINNING WITH UNCERTAINTY PRINCIPLE.</p>
 <p class="body">David hovered before deciding he belonged in the H–R line, though the volunteer behind the table glanced at his badge and said, “Oh. You’re one of those,” in a tone suggesting the category was well known but rarely defined.</p>
@@ -1168,7 +1226,7 @@ Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005 -- Word Range:
 <p class="body">The brochure was covered in notation: frequencies, ratios, harmonic intervals spiraling out from a central axis.</p>
 <p class="body">The work was unmistakably written in his hand.</p>
 <p class="body">He had no memory of executing a single line of it.</p>
-<div class="location" id="scene-4">6.4   ANSWER   |   NYU - New York, NY       May 24, 2005</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-top"><span class="scene-hdr-formal">| ANSWER II |</span><span class="scene-hdr-date">May 24, 2005</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">6.4</span><span class="scene-hdr-name">The Call</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Presto drammatico</span><span class="scene-hdr-loc"><span class="scene-hdr-place">New York University</span> <span style="opacity:0.55">|</span> <strong>New York, New York</strong></span></div></div>
 <p class="body">Celeste’s voice hit the line like a rupture.</p>
 <p class="body">“You did what?”</p>
 <p class="body">“Exactly what I just told you,” David shot back, barreling out of the NYU student union, phone nearly slapped from his hand as he pushed into the crowds on Washington Square South.</p>

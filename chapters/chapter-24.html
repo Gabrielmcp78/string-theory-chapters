@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -990,7 +1048,7 @@ Scene 3: 24.3  The Catwalks -- Word Range: 996–4,295 | Paragraph Range: 32–1
 Scene 4: 24.4  Disappearance -- Word Range: 4,296–4,797 | Paragraph Range: 158–166 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-04.html
 Scene 5: 24.5  The Call -- Word Range: 4,798–6,193 | Paragraph Range: 167–427 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-24-scene-05.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">24.1  The Ultimatum</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">24.1</span><span class="scene-hdr-name">The Ultimatum</span></div></div>
 <p class="body">Morning arrived through the window in bands of gold and ferrous blue, sifting through the half-drawn Venetian blinds.</p>
 <p class="body">David&#x27;s cheek registered the day&#x27;s first warmth before the rest of his body agreed to wake. He flexed the right hand and watched blue-black stains, cerulean really, if you caught the light just right, flourish across the veins for a moment and then simply vanish. Two fingers still twitched at intervals, settling and stilling.</p>
 <p class="body">The cello case in the far corner stood open. Even now, as the apartment settled with the change in barometric pressure, the tailpiece and endpin hummed a microtonal interval.</p>
@@ -1009,7 +1067,7 @@ Scene 5: 24.5  The Call -- Word Range: 4,798–6,193 | Paragraph Range: 167–42
 <p class="body">The thought pulled a reluctant grin from him. He reached for a pen and a blank sheet of staff paper.</p>
 <p class="body"><em>Let them watch. Let them wait.</em></p>
 <p class="body"><em>The universe could hold a note longer than any man.</em></p>
-<div class="location" id="scene-2">24.2  The Final Score</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">24.2</span><span class="scene-hdr-name">The Final Score</span></div></div>
 <p class="body">He allowed the world to recede, like a tide withdrawing its threat, leaving him alone on a beach of ash and possibility. The noise outside (the chorus of reporters, the fizz of portable generators, the distant wail of someone’s outrage) collapsed to a point just beyond the window. In this low-pressure silence, David could hear the precise interval between his own heartbeats, the rhythm of breath scraping at the back of his throat, the microscopic creak of tendon as he flexed the phalanges in his right hand.</p>
 <p class="body">He gathered his implements: the weighted mechanical pencil, a fresh sheaf of staff paper, a glass of tap water, and the tuning fork. The fractured cello rested against the desk, its shattered bridge and sprung seams held together only by habit and shadow, the fork beside it offering the only pitch that remained true.</p>
 <p class="body">He began, as he always did, with a single phrase: six notes, rising, each spaced in an interval suggested by the contour of his own voice when he’d first spoken as a child. He wrote them out, as a stack of ratios, columns of fractions implying harmony, but never quite resolving. It was a structural imperative.</p>
@@ -1021,7 +1079,7 @@ Scene 5: 24.5  The Call -- Word Range: 4,798–6,193 | Paragraph Range: 167–42
 <p class="body">Near the end, he wrote a single, cryptic message in the margin. The act took longer than the rest, as he weighed every glyph, every implication. He inscribed a single symbol: a fermata, the musical notation for &quot;hold indefinitely.&quot;</p>
 <p class="body">He stared at the page for a minute, maybe more, the silence in the apartment now absolute. He imagined, for the briefest instant, what it would be like for someone else to find this, someone bright, or lucky, or desperate enough to decode its implications. Would they curse the author for not signing? Would they laugh at the arrogance of so much effort spent only to vanish into the footnotes of history?</p>
 <p class="body">He closed his eyes and heard the final note sustain, unresolving, held indefinitely.</p>
-<div class="location" id="scene-3">24.3  The Catwalks</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">24.3</span><span class="scene-hdr-name">The Catwalks</span></div></div>
 <p class="body">When the last line of the score settled and the pencil left the page, the apartment exhaled with him. The tuning fork lay, quiet now, precisely where he had set it. The air no longer visibly thickened around its metal stem, yet something in the geometry of the space remained fractionally misaligned, as though the world were waiting for him to notice that the center of gravity had shifted.</p>
 <p class="body">He became aware of it as pressure first: a faint tightening along the bones of his inner ear, a suggestion of pitch that had not yet decided whether to exist. He rose, feeling unexpectedly lighter, shoulders no longer braced against the invisible weight. He had carried this burden so long, his body now mistook its weight for posture. As he crossed the room, this pressure resolved into something more precise. A single tone, somewhere between memory and intention, entwined itself faintly through the spinal column of the building, humming along pipes and plaster, calling with the unmistakable authority of a note struck in exactly the right place.</p>
 <p class="body">It was his motif, the voice bent through another throat, recognizable to him nonetheless.</p>
@@ -1147,7 +1205,7 @@ Scene 5: 24.5  The Call -- Word Range: 4,798–6,193 | Paragraph Range: 167–42
 <p class="body">There was nothing.</p>
 <p class="body">Only the odd, luminous stillness of a structure that had just witnessed a private sacrament and was now folding the memory of it into its beams.</p>
 <p class="body">He slipped the photograph into the inside pocket of his coat, over his heart, where the resonance of both pulses might find it, and then he turned away from the hill and began to walk towards home, his steps already drifting toward the impossible frequency of disappearing.</p>
-<div class="location" id="scene-4">24.4  Disappearance</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-title"><span class="scene-hdr-coord">24.4</span><span class="scene-hdr-name">Disappearance</span></div></div>
 <p class="body">Dawn flexed its muscles over the horizon, peeling shadows from the buildings and laying down a mesh of light that crept, inch by inch, across the apartment floor. For the first time in days, maybe years, David found the silence restorative, a clean salve. The city’s collective pulse, so frantic in the blue hours, seemed to have forgotten him, or at least agreed to leave him alone for a moment of grace.</p>
 <p class="body">He sat back from the desk, vertebrae protesting with a full suite of pops and grinds, and regarded the finished work: two hundred and sixteen measures of score, each bar annotated with sidereal notations and the occasional wry aside in Latin. The message, inked in the lower margin of the final page, glowed in the dawn’s oblique angle. Even now, the fermata at the bottom, an arc with a single dot, struck him as a joke that only he and the universe would ever fully appreciate.</p>
 <p class="body">He rolled the stack with care, not wanting to crease the pages, and slid them into the manila envelope he’d scavenged from a neighbor’s recycling bin the night before. The act of sealing the flap with a strip of masking tape felt less like closing a container and more like completing a ritual.</p>
@@ -1156,7 +1214,7 @@ Scene 5: 24.5  The Call -- Word Range: 4,798–6,193 | Paragraph Range: 167–42
 <p class="body">He gathered what remained of the cello into its case, nestled the fractured neck into the velvet supports, and pressed down on the lid until the latches clicked shut. The sound, sharp and final, echoed through the empty room, setting a few loose sheaves of paper trembling on the desk.</p>
 <p class="body">He stood, envelope in hand, and hesitated. He propped the envelope against the closed cello case, aligning the seam with the instrument’s scroll, as if the two objects were in conversation.</p>
 <p class="body">He set the backpack down by the door. Here, in the wedge of light from the hall, he allowed himself a last audit of the space: the empty glass, the ghostly rectangle where the laptop had been, the smudged path his feet had worn into the hardwood. It was all as he’d left it, only lighter.</p>
-<div class="location" id="scene-5">24.5  The Call</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-title"><span class="scene-hdr-coord">24.5</span><span class="scene-hdr-name">The Call</span></div></div>
 <p class="body">The apartment had gone hollow around him.</p>
 <p class="body">The cello was packed. The envelope was where it needed to be. His backpack waited by the door.</p>
 <p class="body">David went into the kitchen and called his mother.</p>

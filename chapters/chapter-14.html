@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -990,7 +1048,7 @@ Scene 3: 14.3 III. Scherzo: The Purge | Chair Clearing -- Word Range: 2,378–3,
 Scene 4: 14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni -- Word Range: 3,902–5,115 | Paragraph Range: 74–99 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-04.html
 Scene 5: 14.5 V. Finale: Minimums | Isaac Newton -- Word Range: 5,116–6,284 | Paragraph Range: 100–132 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-14-scene-05.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">14.1 I. Overture: The Monochord | Pythagoras</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-top"><span class="scene-hdr-formal">| I. Overture: The Monochord |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">14.1</span><span class="scene-hdr-name">I. Overture: The Monochord</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Adagio misterioso</span></div></div>
 <p class="body">A new night settled into the tossed disorder of the apartment, pooling in the angles between cracked baseboard and battered desk, in the umbra cast by a beaker-turned-lamp, and across the chalked hieroglyphs covering three generations of blackboards. The late hour compressed time into a single, sustained pedal point, each quarter-hour chime from the clock in the next room marking another unbroken stretch since David had last looked at the world outside his equation.</p>
 <p class="body">He sat cross-legged atop the desk with one shirt cuff slack and unbuttoned, the pale cotton scarred with magnesium oxide, ink, and chalk residue where his fingers had sketched equations in midair. Whenever he shifted, a muted drift of white particulate sifted from his sleeve onto his notes and the varnish-mottled wood. Five times he had rewritten the twelve-dimensional manifold, and each iteration warped the parameter space further until music clefs bred with tensor contractions and interval ratios tangled inside the quantum foam, always snagging on the same boundary condition: how to reconcile the integer purity of Pythagorean tuning with the infinite regress of quantum harmonics, and how to close the geometry without tearing the physics apart.</p>
 <p class="body">Reaching toward the lower edge of the slate, his fingertips skidded through the packed sediment of a hundred solitary nights. He was still wearing yesterday’s clothes, his undershirt cold and damp from thirty-six hours of calculation, while along the perimeter of the room treatises lay stacked by citation frequency, an empty espresso demitasse perched atop a monograph on superstring compactification with its rim crusted in dried salt, and laundry piled beside discarded drafts where clean and worn had blurred together. Twelve iterations of the same equation marched across the panel, each one edging closer to something that felt less like proof than proximity.</p>
@@ -1012,7 +1070,7 @@ Scene 5: 14.5 V. Finale: Minimums | Isaac Newton -- Word Range: 5,116–6,284 | 
 <p class="body">David crashed forward against the desk, catching his weight on his palms as his shins knocked the apron and the demitasse rattled violently on its saucer. He stood breathing hard in the dark of his study with the smell of hot thyme and animal fat lingering on his palate, his right fist clamped around a tuning fork that felt hot and alive against his thumb, his left palm gray with chalk dust.</p>
 <p class="body">Heavy and thick, the room rushed back into his ears, smelling of stale coffee and cold radiators, while beneath his frayed cuff the sweep hand of Arthur’s watch continued its indifferent circle, three minutes and forty-seven seconds ahead of every clock on campus. Looking up at the slate, David saw the twelve iterations of the manifold blurred in chalk dust, yet at the lower perimeter, where the parameter space had collapsed into unresolved tensors, the notation had cleared into three whole-number ratios locked inside the geometry of the loop.</p>
 <p class="body">His hand was unsteady, though the urgency in his blood was absolute. Picking up a stub of chalk, he stepped to the slate and touched calcium to stone. At once a sharp burst of mineral blue flashed across his peripheral vision, an optical phantom of the Greek glare, while his ribs ached for a split second with the physical thrum of the snapping gut string. He swallowed, set his jaw, and ground the interval into the black paint until the stone squealed under the pressure.</p>
-<div class="location" id="scene-2">14.2 II. Andante: the salon | Émilie du Châtelet</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-top"><span class="scene-hdr-formal">| II. Andante: the salon |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">14.2</span><span class="scene-hdr-name">II. Andante: the salon</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Andante con grazia e logica</span></div></div>
 <p class="body">The chalk made a sudden, unfamiliar sound as it struck the slate mid-thought, thinner than usual and almost wet, like horsehair drawn across a string in damp weather. Stepping back to take in the full board, David watched the white line he had just drawn waver where it ought to have held, a moiré pattern rippling across the notation and interfering with the contours of the equation until a high, whistling tone rose sharply in his inner ear and vanished in a sudden drop of pressure, leaving him seated in another room.</p>
 <p class="body">The walls were papered in peacock blue worked through with gold that lifted and disappeared in the candlelight whenever he turned his head, above a parquet floor worn dull and smooth by generations of use. Along the mantel stood clocks, brass instruments, and small mechanical curiosities whose surfaces caught the light in fragments, while the air held beeswax, perfume, and the warm, stale press of too many hours spent in conversation.</p>
 <p class="body">At a narrow writing desk, a woman in a copper-colored gown bent over a sheet of foolscap, pearls pinned into her dark hair, translating Newton’s <em>Principia</em> from its dense Latin into French with a calm, unhurried certainty. One hand moved across the page while the other worked a small abacus beside the inkwell, the brass-mounted beads clicking in measured groups; finishing the line, she sanded the ink, checked a proposition from the open Latin folio through her lens, made one crisp marginal correction with her quill, and rose.</p>
@@ -1030,7 +1088,7 @@ Scene 5: 14.5 V. Finale: Minimums | Isaac Newton -- Word Range: 5,116–6,284 | 
 <p class="body">David stood back in his apartment before the slate, his hand lifted with the chalk stub an inch from the stone while the last interval still trembled behind his teeth. Scarcely making a sound, he hummed it once, recognizing Elliot’s melody, his grandfather’s song.</p>
 <p class="body">When his eyes returned to the board, the lines had advanced: lighter in stroke, finer in pressure, unmistakably written by another hand. He followed them down to the step that had resisted him all morning and found it crossed cleanly, almost effortlessly, as though the difficulty had belonged only to the angle from which he had insisted on meeting it. Near the margin, just below the solved transition, the chalk line thinned, wavered, and recovered.</p>
 <p class="body">David touched that place with one finger, and as skin met slate a faint echo brushed his senses: the dry scent of beeswax and the small metallic <em>snick</em> of an abacus bead sliding home. For the first time, the beauty of the derivation left him deeply unsettled.</p>
-<div class="location" id="scene-3">14.3 III. Scherzo: The Purge | Chair Clearing</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-top"><span class="scene-hdr-formal">| III. Scherzo: The Purge |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">14.3</span><span class="scene-hdr-name">III. Scherzo: The Purge</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Presto distruttivo</span></div></div>
 <p class="body">The following morning found David wide awake at five o’clock and fumbling for the main hall key to the administrative building by five forty-five, sorting through a twenty-year ring of brass until the master slid into the lock and let him into corridors scrubbed spotless by the night crew. Every hallway and doorway stood in crisp, institutional order, except his own office.</p>
 <p class="body">Standing on the threshold, he took in the steel desk, the mismatched chairs, the unvacuumed rug, the sagging bookshelf, and the binders swollen with equations he no longer believed, and felt a sudden, physical revulsion for the cramped academic life he had curated inside those four walls. With manic, clearing focus, he began to empty the room into the corridor. The first chair shrieked across the tile and landed in the hall, followed by the second, which had concealed a fossilized sandwich beneath its cushion, and when the rug resisted, glued down by decades of neglect, he ripped it free in a cloud of gray dust that hung in the morning light. Books, cables, a lopsided lamp, loose chalk, paperweights, and a sea-lion eraser followed in a steady, reckless cascade until the arterial corridor outside his door looked as though the office had been turned inside out.</p>
 <p class="body">Inside, he had clean surfaces, a blank board, and a single chair he could still stomach. It needed its twin, and David knew the exact room where that twin sat.</p>
@@ -1063,7 +1121,7 @@ Scene 5: 14.5 V. Finale: Minimums | Isaac Newton -- Word Range: 5,116–6,284 | 
 <p class="body">On the walk home that evening, he tried to talk himself into composure: he could still recognize a fault line when it gave way, even ten minutes too late, and he had held onto his mind. What was harder to admit was that the rules governing polite days and polite men had little use for clarity once it began making demands. The visions had shown him something true, and whether anyone else could see it no longer mattered.</p>
 <p class="body">An owl screeched somewhere across the East Hill dark. David stopped in the cold and looked out over the black ravine, seeing in the architecture of numbers and notes the hidden armature of the world, and feeling a terrible, breathless awe at the sight of it.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-4">14.4 IV. Intermezzo: Resonance | Helmholtz/Chladni</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-top"><span class="scene-hdr-formal">| IV. Intermezzo: Resonance |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">14.4</span><span class="scene-hdr-name">IV. Intermezzo: Resonance</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Allegretto vibrante</span></div></div>
 <p class="body">Night entered the apartment in layers, arriving as partials, dissonances, and overtones, the slow settling of city sound into a frequency domain. The tall windows held the dull sodium glare of streetlights, turning every surface into a spectral version of itself as David tuned his cello in the center of the living room, the instrument propped on its spike so that the maple back reflected the skyline in a warped curve.</p>
 <p class="body">Earlier that day he had restrung the A with a synthetic core, a new filament recommended by the luthier who could mend spruce and maple even where he could do nothing for David’s jaw. The string hummed before the bow touched it. Playing the open note, then stopping it at first position and playing again, David heard the major second tremble in the air between them and generate a third pulse, secret and insistent.</p>
 <p class="body">He began with Bach, as always, a slow Sarabande of the kind that turns an ordinary room into a chapel. His body remembered every shift, every extension, every controlled reach of the left hand, and when his intonation drifted slightly the cello forgave him, letting him move through the phrases with deliberate slowness as he listened for the places where the sequence of intervals touched the patterns of his visions. On the repeat, memory opened behind the notes: the sunlit timber and bone wedge of the courtyard monochord, the whirring abacus and candlelit harpsichord of the salon, and beneath them, sounding from a room beyond the room, the five notes of Elliot’s melody.</p>
@@ -1089,7 +1147,7 @@ Scene 5: 14.5 V. Finale: Minimums | Isaac Newton -- Word Range: 5,116–6,284 | 
 <p class="body">Yet an unnamed void lingered in the sequence. Looking at the tuning fork, David felt a distinct warning for the first time. Pythagoras had shown him origin, du Châtelet had shown him elegance under strain, and Chladni had shown him mechanism, yet principles organized without choosing, and if he proved to be the right resonant body, the question shifted from whether he could learn their order to whether that order would learn him.</p>
 <p class="body">Darkness gathered at the edges of his thought. He thought of the <em>Principia</em>, of Newton beginning the work that would alter the world at nearly the age David was now, and of the distance between genius and imitation. Lifting the waiting tuning fork, David struck it against the desk edge, drawing a clean, muted tone as if the universe had drawn a breath and forgotten to exhale, then struck it again with all his weight.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-5">14.5 V. Finale: Minimums | Isaac Newton</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-top"><span class="scene-hdr-formal">| V. Finale: Minimums |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">14.5</span><span class="scene-hdr-name">V. Finale: Minimums</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Largo maestoso</span></div></div>
 <p class="body">The world thinned and loosened its edges, drifting backward the way a shoreline slips away in fog until the walls eased into distance with an ancient, exhausted hush. Only a blue-gray wash of winter light pressed through leaded glass, the faint tint a page holds in the quiet moment before ink decides its fate.</p>
 <p class="body">When the world reconstituted, David stood in a small, close-ceilinged room of lime-washed plaster cracked along irregular fault lines, where a single mullioned window warped by centuries of gravity admitted a weak winter light above a snow-dusted sill. The year, if years still meant anything, was 1665 or 1666, the silent plague interval when London had emptied itself into the countryside and a young man with prematurely gray hair had come home to think.</p>
 <p class="body">Newton sat at a rough plank suspended between two sawhorses, before him a prism, a sheaf of foolscap dense with notation, and a tarnished mirror reflecting only its own age. Ignoring David’s arrival, he lifted the prism to the window’s feeble light and rotated it with the care of a surgeon probing a wound.</p>

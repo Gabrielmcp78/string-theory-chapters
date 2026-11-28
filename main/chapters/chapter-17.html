@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -993,7 +1051,7 @@ Scene 5: 17.5 The Gatehouse -- Word Range: 6,478–6,877 | Paragraph Range: 244�
 <p class="body3"><em>“In the grand theater of exploration and discovery, there exist only tuning points—subtle shifts, almost imperceptible, where history hums against the grain of consequence. These are moments of calibration: the quiet betrayal of what could have been. For in progress we find the ultimate two-headed monster; at once a beast that does not ask permission—and a tyrant incapable of absolution.”</em></p>
 <p class="body3">—<strong>Dr. Kenji Tsukino</strong>, <em>Ithaca, NY 1970</em></p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-1">17.1 The Warnings | Somerville, Massachusetts</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-top"><span class="scene-hdr-formal">| The Warnings |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">17.1</span><span class="scene-hdr-name">The Warnings</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><strong>Somerville, Massachusetts</strong></span></div></div>
 <p class="body"><strong>March 21, 2005</strong></p>
 <p class="body">The telephone cord stretched taut across the linoleum of the Somerville kitchen. A faint sixty-cycle hum traveled through the telephone line.</p>
 <p class="body">&quot;Dad, listen to me,&quot; David said, leaning against the cold porcelain rim of the sink while outside the window a late-winter sleet ticked against the glass. &quot;It isn&#x27;t static. We checked the numbers over and over. The whole sky is ringing.&quot;</p>
@@ -1037,7 +1095,7 @@ Scene 5: 17.5 The Gatehouse -- Word Range: 6,478–6,877 | Paragraph Range: 244�
 <p class="body">The line clicked dead.</p>
 <p class="body">David hung up the telephone. He picked up his coat, his leather notebook, and his bag, walked down the stairs to the curb, and got into the car.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-2">17.2 The Covenant | May 25, 2005</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-top"><span class="scene-hdr-formal">| The Covenant |</span><span class="scene-hdr-date">May 25, 2005</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">17.2</span><span class="scene-hdr-name">The Covenant</span></div></div>
 <p class="body">The corridor of Clark Hall smelled of floor wax, damp wool, and the sulfurous bite of freshly split shale carried up from the gorge cuts below the foundation.</p>
 <p class="body">They moved in uncertain cadence: Celeste leading, her canvas satchel held flat against her hip; David three paces behind, knuckles white on his leather notebook; Marcus trailing, dragging boot-heels across the wax with deliberate, abrasive friction.</p>
 <p class="body">A graduate student with grease on his cuff had led them through the eastern basement connector. He had spoken three words at the stairwell door—<em>He’s inside</em>—and turned back toward the instrument shop without waiting for an acknowledgment.</p>
@@ -1165,7 +1223,7 @@ Scene 5: 17.5 The Gatehouse -- Word Range: 6,478–6,877 | Paragraph Range: 244�
 <p class="body">&quot;No, Ms. Armitage,&quot; Rune said softly. &quot;The engine failed.&quot;</p>
 <p class="body">Celeste stood motionless for three seconds, reading the dark grain of the closed drawer, before turning toward the corridor without another word.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-3">17.3 To Ground</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">17.3</span><span class="scene-hdr-name">To Ground</span></div></div>
 <p class="body">Night had fallen across East Hill by the time they walked out into the Arts Quad.</p>
 <p class="body">A thick mountain fog had climbed from the lake hollows, pooling across the grass in slow, gray eddies that smelled of cold mud and wet hemlock. The air felt heavy, dense with barometric moisture, muffling their footsteps as they moved up the eastern slope.</p>
 <p class="body">The ancient elm stood on the crest above the quad, its massive black boughs arching against the overcast sky like the ribs of an overturned ship.</p>
@@ -1209,7 +1267,7 @@ Scene 5: 17.5 The Gatehouse -- Word Range: 6,478–6,877 | Paragraph Range: 244�
 <p class="body">&quot;Let’s go home,&quot; he said.</p>
 <p class="body">They walked down East Hill together through the freezing mist toward the gravel parking lot behind the observatory.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-4">17.4 The Return | Clark Hall, Midnight</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-top"><span class="scene-hdr-formal">| The Return |</span><span class="scene-hdr-date">Midnight</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">17.4</span><span class="scene-hdr-name">The Return</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><strong>Clark Hall</strong></span></div></div>
 <p class="body">The lamp on the mahogany desk burned yellow against the dark.</p>
 <p class="body">Outside the arched window, the mist had turned to a fine, sleeting rain that ticked against the glass like sand. Clark Hall was hollow, stripped of footfalls, settling into the Devonian rock with the slow, creaking groan of iron joists cooling in the damp.</p>
 <p class="body">Rune Ishikawa stood by the corner sideboard. From a cut-crystal decanter, he poured two fingers of amber Scotch into a low tumbler.</p>
@@ -1233,7 +1291,7 @@ Scene 5: 17.5 The Gatehouse -- Word Range: 6,478–6,877 | Paragraph Range: 244�
 <p class="body">He turned the brass key in the drawer lock and slipped it into his waistcoat pocket.</p>
 <p class="body">On the corner of the desk, the Scotch remained untouched.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-5">17.5 The Gatehouse</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-title"><span class="scene-hdr-coord">17.5</span><span class="scene-hdr-name">The Gatehouse</span></div></div>
 <p class="body">At the foot of University Avenue, where the campus switchbacks leveled into the valley road, the wooden barrier of the security gatehouse hung low across the wet asphalt.</p>
 <p class="body">The Wagoneer idled in the mist, its eight-cylinder engine pulsing with a low, guttural cough that rattled the loose chrome of the tailgate. Marcus was curled in the back bench, coat collar pulled over his ears, his breathing shallow and rigid. Celeste sat in the passenger seat, staring straight through the wiper sweep into the rain.</p>
 <p class="body">David rolled down the driver’s window. The cold valley damp rushed in, smelling of hemlock runoff and wet brakes.</p>

@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -988,7 +1046,7 @@ Scene 2: 15.2  Method and Resonance -- Word Range: 825–2,280 | Paragraph Range
 Scene 3: 15.3  Findings and Implications -- Word Range: 2,281–3,271 | Paragraph Range: 104–145 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-03.html
 Scene 4: 15.4 Lossless Transfers -- Word Range: 3,272–8,189 | Paragraph Range: 146–392 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-15-scene-04.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">15.1  Preliminary Observations</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">15.1</span><span class="scene-hdr-name">Preliminary Observations</span></div></div>
 <p class="body">What little sunlight survived the city&#x27;s particulate haze entered through windowpanes that hadn&#x27;t seen fresh weatherstripping since the Eisenhower administration. Yellowing NASA flux graphs and annotated calendars obscured most of the glass, lending an unhealthy pallor to the man hunched above the table.</p>
 <p class="body">The bruise on David&#x27;s cheek had faded from deep aubergine to a convalescent gray, the kind of battle scar no scientist expects to encounter in the mirror. He had grown accustomed to its shadowed presence. He saw it as a marker now. A talisman, perhaps.</p>
 <p class="body">The table was a topography of obsession. Manuscript folios, birth registers and death rolls mingled with solar ephemerides and a monograph on <em>The Waxing and Waning of Geniuses, 1640–1911</em>. At the edge, a row of index cards advanced, each marked with a birthdate and location in his compressed hand. Near the lamp, a dark, prism-edged shard sat beside a pen, swallowing the light that touched it.</p>
@@ -1025,7 +1083,7 @@ Scene 4: 15.4 Lossless Transfers -- Word Range: 3,272–8,189 | Paragraph Range:
 <p class="body">White sheared into spectral bloom across the cards.</p>
 <p class="body">Looking through it, David could imagine the city&#x27;s orange haze stripped away, revealing a structured magenta lattice stretching across the horizon. The geometry hung over rooftops and smokestacks with the quiet authority of a score waiting for its musicians. Familiar forms resolved into patterns that felt intimate and immense, descending from the star itself.</p>
 <p class="body">He left it all exactly as it was and went to make coffee.</p>
-<div class="location" id="scene-2">15.2  Method and Resonance</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">15.2</span><span class="scene-hdr-name">Method and Resonance</span></div></div>
 <p class="body">David stood in the room&#x27;s geometrical center, shirt untucked, cuffs stippled white, and regarded the blackboard like a criminal about to confess. A latticework had emerged overnight: dates, cosmic angles, irrational numbers repeating in motif, musical notation woven between set theory and prime factorization.</p>
 <p class="body">The alignment seemed too precise to dismiss. Solar cycle maxima coinciding with birth years of history&#x27;s titans, a pattern carrying the familiar irritation of arriving late to something that had apparently been happening for centuries. Even the blank spaces participated. Places where chalk refused to cohere appeared to resolve into rhythm, held lightly enough that the next breath might dissolve it.</p>
 <p class="body">He paced with a quartet&#x27;s inner pulse counting beneath the movement. Every fourth stride returned him to the cello in the corner. For days he had been content to let mathematics perform music&#x27;s duties. The arrangement had seemed elegant enough until he looked at the instrument again and felt the deception collapse.</p>
@@ -1091,7 +1149,7 @@ Scene 4: 15.4 Lossless Transfers -- Word Range: 3,272–8,189 | Paragraph Range:
 <p class="body">The chalk was neither smeared nor overwritten. The marks carried the same pressure against the slate, the same hand, yet arrived at a different conclusion from the same premises.</p>
 <p class="body">Yesterday&#x27;s version remained intact on the legal pad, but the board clearly had something else.</p>
 <p class="body">Without a single conscious thought, he copied the altered derivation into his notes, circled it, and returned directly to his work.</p>
-<div class="location" id="scene-3">15.3  Findings and Implications</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">15.3</span><span class="scene-hdr-name">Findings and Implications</span></div></div>
 <p class="body">Twilight gathered in the study. Lang hadn&#x27;t bothered with the overheads. The lamp clipped to the bookshelf afforded him just enough light to read, the scratch of graphite and the occasional turning page the only disturbances in the quiet.</p>
 <p class="body">He worked with a patience that would read to the outside world as obsession at best, and at worst…</p>
 <p class="body"><em>Fuck at worst. You&#x27;re not normal, Lang. This isn&#x27;t normal work. Fuck what it looks like.</em></p>
@@ -1133,7 +1191,7 @@ Scene 4: 15.4 Lossless Transfers -- Word Range: 3,272–8,189 | Paragraph Range:
 <p class="body">Outside, darkness had gathered fully across the city. Inside, another boundary seemed to soften. The cards on the desk, the fork, the blackboard, the remembered melody. Newton beneath a silent star. Stradivari shaping wood born within the same long silence.</p>
 <p class="body">Threads that should have remained separate were drawing toward one another with the effortless confidence of things returning home.</p>
 <p class="body">David turned back to the legal pad and drew the next line, the lullaby lilting on beneath his breath, slightly different each time, as though the melody itself were still sounding towards a more satisfying resolution.</p>
-<div class="location" id="scene-4">15.4 Lossless Transfers</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-title"><span class="scene-hdr-coord">15.4</span><span class="scene-hdr-name">Lossless Transfers</span></div></div>
 <p class="body">Chalk dust hung in the amber beam of the desk lamp, caught in the stale convection of the radiator until it settled into the cuffs of David’s unbuttoned shirt, into the open grain of the oak floorboards, and into the pores of his knuckles. For seven hours time had lost its social divisions, marked only by the irregular clanking of steam pipes beneath the floor and the slow, bruised ache in his left ribs whenever he drew a deep breath. Above him, all three black panels stood open from floor to ceiling, crowded with the remnants of six attempts to carry the 3:2 perfect fifth and its overtone intervals across the solar-cycle boundary, each coming apart at the identical zero-crossing.</p>
 <p class="body">In the textbooks he taught sophomores on Tuesday mornings, a crossing was an abstraction, frictionless and clean; beneath the pressure of this room, every attempt to carry the overtone into the lower phase tore the parameter apart. With a two-inch stub of Hagoromo trembling in his fingers after thirty-six hours of unrelenting calculation, he wrote through the closing bracket. For one breathless half-second the structure appeared to hold, until a three-cycle flutter at the threshold brought the symmetry apart. David leaned forward until his forehead met the cold slate, the mineral chill against the bruise above his left eyebrow almost welcome, and dragged his palm downward through three hours of labor. He stood with his eyes shut, breathing chalk dust in the silence of a house where nobody had spoken aloud since Sunday.</p>
 <p class="body">A chill moved up his spine as he turned from the wall, and from the grated bridge sixteen feet above the boards, an arid voice sifted down through the dust.</p>

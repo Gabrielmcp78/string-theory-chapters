@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -996,7 +1054,7 @@ Scene 6: 10.6 CRUCIFIXIO | It Takes a Beating -- Word Range: 10,834–11,516 | P
 Scene 7: 10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall -- Word Range: 11,517–13,324 | Paragraph Range: 622–744 | URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-07.html
 Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Paragraph Range: 745–760 | URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-10-scene-08.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">10.1 CHORALE | Wednesday Dinner</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-top"><span class="scene-hdr-formal">| CHORALE |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.1</span><span class="scene-hdr-name">Wednesday Dinner</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Andante sostenuto</span></div></div>
 <p class="body">Andante sostenuto</p>
 <p class="body">The cafe’s acoustic tiles could not quite contain the Wednesday-evening murmur, but Celeste had chosen their corner booth precisely for its distance from the kitchen’s iron percussion. David arrived eight minutes late, a crescent of white chalk still pressed beneath the cuticle of his thumb despite three washings. He slid into the booth, his satchel falling onto the vinyl seat beside him with the heavy, leaden thud of unread monographs.</p>
 <p class="body">“Hmmm.” She cast a sideways glance toward her phone, then back to him. “I’m not entirely sure I recognize you coming from this side of the hour. Eight minutes late, huh?”</p>
@@ -1071,7 +1129,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">At the door he held her viola case while she wound her scarf.</p>
 <p class="body">She let him. And while both of them noticed, neither said a word.</p>
 <div class="tempo-1">10.2 ARIOSO | The Tuning</div>
-<div class="location" id="scene-2"><em>Adagio espressivo e misterioso</em></div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-top"><span class="scene-hdr-formal">| ARIOSO |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.2</span><span class="scene-hdr-name">The Tuning</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Adagio espressivo e misterioso</span></div></div>
 <p class="body">They stopped at the apartment for the cello, and Celeste waited in the car with the book on her lap, not opening it. She rested both hands upon the cover, as if contact alone might begin whatever permission the thing required.</p>
 <p class="body">“You understand this is technically a crime,” David said when she turned up East Hill.</p>
 <p class="body">“I think God will understand, don’t you?”</p>
@@ -1277,7 +1335,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">Again, nothing, only the room, the ticking heat in the lower pipes, and the chapel holding its opinion.</p>
 <p class="body">Celeste looked toward the open book. He followed her gaze. Neither said anything, and both noticed the other not saying it.</p>
 <p class="body">They played until nearly midnight, pursuing the sound long after the cello had returned to the ordinary loyalties of wood, gut, and varnish. Each attempt clarified only the distance between repetition and return, and still they played.</p>
-<div class="location" id="scene-3">10.3 RECITATIVUM | Break-Through</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-top"><span class="scene-hdr-formal">| RECITATIVUM |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.3</span><span class="scene-hdr-name">Break-Through</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Allegro con fuoco</span></div></div>
 <div class="tempo-1"><em>Allegro con fuoco</em></div>
 <p class="body">Morning arrived with a clear skull, an unknotted jaw, and the rare sensation that David&#x27;s life might finally return to scale. He dressed without checking the mirror, brewed a strong pot of coffee, and pulled up to the kitchen island, intending simply to: <em>fucking breathe</em>.</p>
 <p class="body">He tried to ignore the pull.* It can just be what it was. Christ, you don’t need to turn it into… fuck.*</p>
@@ -1341,7 +1399,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">At 5:28, he stood outside Rune&#x27;s door with three copies beneath his arm. Jessica was putting on her coat.</p>
 <p class="body">“Dr. Ishikawa is expecting you, David. You can head on in,” she said.</p>
 <p class="body">“Yes,” David answered, gathering the copies. “Thank you, Jessica.”</p>
-<div class="location" id="scene-4">10.4 TURBA | The Guillotine</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-top"><span class="scene-hdr-formal">| TURBA |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.4</span><span class="scene-hdr-name">The Guillotine</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Moderato incisivo</span></div></div>
 <p class="body">“David, come in.”</p>
 <p class="body">Rune sat behind his desk, a folder open before him and his monitor dark. The window behind him had gone nearly opaque with weather; beyond it, campus lights showed only as softened yellow defects in the moving white.</p>
 <p class="body">“Thank you for staying, given the weather,” Rune said. “Remember when snow in this town meant you could disappear into the labs for thirty-six hours?”</p>
@@ -1457,7 +1515,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">“Thank you, Jessica.”</p>
 <p class="body">The phone slipped back inside his jacket as he reached for the office receiver. A speck of dust came to rest at the center of his desk blotter. He gently brushed it clean away and brought the handset to his ear.</p>
 <p class="body">“Celeste, dear. It’s Rune.”</p>
-<div class="location" id="scene-5">10.5 VIA DOLOROSA | Into the Storm</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-top"><span class="scene-hdr-formal">| VIA DOLOROSA |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.5</span><span class="scene-hdr-name">Into the Storm</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Tempestoso e violento</span></div></div>
 <p class="body">Outside, snow had taken over, filling the campus with footprints even as it emptied those same grounds of its inhabitants. David burst through the main doors of Smith and out towards the east side of central campus, the heavy fiberglass flight case knocking a hollow rhythm against his hip. As he rounded the corner past Sage Hall, his footspeed in retreat began to mix poorly with deteriorating conditions. Compact snow threatened at every turn to pull him down into the slick, freezing mud on the hillside. He couldn’t slow down, though. He had no right to walk after that horror show. No, this was a flat-out escape. He half expected to look back and see Rune chasing after him with paperwork and a pack of dogs. The catastrophic realization of his own professional suicide began to flash behind his eyes.</p>
 <p class="body">The boundary conditions. He hadn’t seen the boundary conditions. Eleven variables wasn’t over-parameterization if the system was open; it was a necessary degree of—</p>
 <p class="body">His right foot slipped as he turned the corner past the old lab buildings. A huge gust wrapped up from the falls, the cold hitting like sheet glass. He stumbled across the plowed concrete, the case banging against his thigh. Near the retaining wall, his heel found a patch of ice, and before any part of him knew it, the ground was out from under him. He slid off the pavement into a two-foot bank of crystallized, gray slush.</p>
@@ -1591,7 +1649,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">“You are not taking this watch.”</p>
 <p class="body">“Sure about that are you?”</p>
 <p class="body">The first man caught the wrist. When David tried to pull back, the second stepped close enough to block him against the car, and the grip tightened.</p>
-<div class="location" id="scene-6">10.6 CRUCIFIXIO | It Takes a Beating</div>
+<div class="scene-hdr" id="scene-6"><div class="scene-hdr-top"><span class="scene-hdr-formal">| CRUCIFIXIO |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.6</span><span class="scene-hdr-name">It Takes a Beating</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Allegro molto, marcato, senza respiro</span></div></div>
 <p class="body">Allegro molto, marcato, senza respiro</p>
 <p class="body">The clasp on the watch was old, stiff, designed for a man who had removed it only by ritual and never by force. The first man&#x27;s fingers slipped. He swore, and David laughed.</p>
 <p class="body">It was the wrong response. He knew it as the sound left him: wet, broken, unhinged. Arthur&#x27;s watch had survived sixty years of orchestra pits and airport security and the hands of a dead man, and the absurdity of its resistance broke through him with the force of insult.</p>
@@ -1617,7 +1675,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">His palm dragged through slush and his ribs lit white. The shrubs were only a few yards away and might as well have been Buffalo.</p>
 <p class="body">“No,” he said.</p>
 <p class="body">The word fogged once in front of him and disappeared as boots stopped beside him.</p>
-<div class="location" id="scene-7">10.7 DEPOSITIO / SEPULTURA | The Clear Snows of Fall</div>
+<div class="scene-hdr" id="scene-7"><div class="scene-hdr-top"><span class="scene-hdr-formal">| DEPOSITIO / SEPULTURA |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.7</span><span class="scene-hdr-name">The Clear Snows of Fall</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Largo, sospeso, quasi senza tempo</span></div></div>
 <p class="body">“You will freeze out here if you stay like that.”</p>
 <p class="body">David lifted his head. A woman stood beside the open rear door of the car: short, wrapped in dark wool. Slowly, she lowered herself to the ground, a sort of brittle, begrudging power seemed to surround her. David could not tell if it was his condition or hers that he was aware of. Her pale eyes examined him as though injury were an instrument and he had been badly handled by amateurs.</p>
 <p class="body">“Looking for this?” she asked, extending her hand.</p>
@@ -1740,7 +1798,7 @@ Scene 8: 10.8 RELIQUIAE | Up From the Depths -- Word Range: 13,325–13,737 | Pa
 <p class="body">He wiped the casing with the edge of his sleeve, then used his thumb to work at the hardened residue. Little by little, the grime gave way.</p>
 <p class="body">Letters emerged beneath the lamplight, shallow and precise, cut into the steel where the back had rested against his father&#x27;s pulse.</p>
 <p class="body3"><em>In Time; E.G.</em></p>
-<div class="location" id="scene-8">10.8 RELIQUIAE | Up From the Depths</div>
+<div class="scene-hdr" id="scene-8"><div class="scene-hdr-top"><span class="scene-hdr-formal">| RELIQUIAE |</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">10.8</span><span class="scene-hdr-name">Up From the Depths</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Grave, con moto interiore</span></div></div>
 <p class="body">##</p>
 <p class="body">The cello answered from the case—a single interval, but enough to make David turn.</p>
 <p class="body">The men were gone. The woman was gone. Snow was already softening their footprints, an erosion that troubled him more than if they had vanished cleanly. Arthur’s watch hung cracked against his wrist. He remembered a heel coming down near his ribs, the blind, animal twist of his own body over the case to protect the instrument.</p>

@@ -97,8 +97,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -672,6 +730,7 @@ Full site manifest (JSON):  GET https://gabrielmcp78.github.io/string-theory-cha
 Authorization: token &lt;API_KEY&gt;</pre>
 <h2>Chapter Directory</h2>
 <table><tr><th>#</th><th>HTML</th><th>TXT</th><th>Title</th></tr>
+  <tr><td>Overture</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/overture.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/overture.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/overture.txt">.txt</a></td><td>Overture</td></tr>
   <tr><td>1</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-01.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-01.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-01.txt">.txt</a></td><td>The Ivy League</td></tr>
   <tr><td>2</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-02.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-02.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-02.txt">.txt</a></td><td>The Lecture</td></tr>
   <tr><td>3</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-03.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-03.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-03.txt">.txt</a></td><td>The Office</td></tr>
@@ -700,7 +759,6 @@ Authorization: token &lt;API_KEY&gt;</pre>
   <tr><td>26</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-26.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-26.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-26.txt">.txt</a></td><td>The Enduring Legacy</td></tr>
   <tr><td>27</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-27.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-27.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-27.txt">.txt</a></td><td>Elegy</td></tr>
   <tr><td>Appendix</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.txt">.txt</a></td><td>Field Protocol #47: Tonal Activation</td></tr>
-  <tr><td>Appendix</td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.html">https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.html</a></td><td><a href="https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/appendix.txt">.txt</a></td><td>Compendium of Tempi, Acoustics &amp; Note-Bound Physics</td></tr>
 </table>
 </div>
 <footer><span>Built 2026-11-27</span><span><a href="manifest.json">manifest.json</a> &middot; <a href="https://github.com/Gabrielmcp78/string-theory-chapters">GitHub</a></span></footer>

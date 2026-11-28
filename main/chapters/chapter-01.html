@@ -8,7 +8,7 @@
 <meta name="chapter" content="1">
 <meta name="word-count" content="2861">
 <meta name="paragraph-count" content="121">
-<meta name="scene-count" content="0">
+<meta name="scene-count" content="1">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-01.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/main/edits/chapter-01.json">
 <link rel="alternate" type="text/plain" href="chapter-01.txt" title="Plain text — parser/LLM access">
@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -930,7 +988,7 @@ details.scene-analysis[open] summary::after {
   <h1><a href="../index.html" style="text-decoration:none;color:inherit">String Theory</a></h1>
   <nav>
     <a href="../index.html">All Chapters</a>
-    
+    <a href="overture.html">← Overture</a>
     <a href="chapter-02.html">Ch 2 →</a>
     <a href="chapter-01.txt" style="font-size:0.8rem;color:#6a7a8a" title="Plain text version">[txt]</a>
   </nav>
@@ -969,16 +1027,20 @@ details.scene-analysis[open] summary::after {
     </div>
   </div>
   <div class="chapter-stats">
-  <div class="stats-row"><strong>2,861</strong>&thinsp;words&ensp;<strong>121</strong>&thinsp;paragraphs&ensp;<strong>0</strong>&thinsp;scenes</div>
-  
+  <div class="stats-row"><strong>2,861</strong>&thinsp;words&ensp;<strong>121</strong>&thinsp;paragraphs&ensp;<strong>1</strong>&thinsp;scene</div>
+  <div class="scene-inventory">
+    <div class="scene-entry"><a href="chapter-01-scene-01.html">1.1</a><span class="scene-range" aria-hidden="true">w.1–2,861 · ¶1–121</span></div>
+  </div>
 </div>
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Chapter Manifest: String Theory · Chapter 1 ]
 Title: The Ivy League
 Word Count: 2,861
 Paragraph Count: 121
-Scene Count: 0
+Scene Count: 1
+Scene 1: 1.1 -- Word Range: 1–2,861 | Paragraph Range: 1–121 | URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-01-scene-01.html
 [ End Manifest ]</pre></details>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">1.1</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Andante sostenuto</span></div></div>
 <p class="body">It was, perhaps, an unfortunate hour to be speaking of coherence. David Lang had not slept. Three inadvisable energy drinks and four hundred miles of Massachusetts interstate had driven his nervous system past exhaustion and into that particular dizziness that blooms from the gut when sleep has become a spot you stare at on the ceiling.</p>
 <p class="body">Only moments ago, David had abandoned sleep altogether, drifting down to the kitchen to soothe a sour stomach with a pint of milk. The first gulp went down well enough, but the second missed, badly, sending a pale sheet of white across the marble countertop. David stared down at the puddle, then glanced at the roll of paper towels on the far side of the room, then at the open bag of mini donuts beside him. He reached in, pulled out the first donut, and pressed it into service as a sort of sponge.</p>
 <p class="body">By any civilized measure, this was repulsive. Yes. But two weeks of condolence casseroles and Jell-O molds had softened David’s interest in formalities. The donut was soaked in milk and so he ate it.</p>
@@ -1112,7 +1174,7 @@ Scene Count: 0
   </div>
   </div>
 <div class="bottom-nav">
-  
+  <a href="overture.html">← Overture</a>
   <a href="../index.html" class="all-chapters">&#9776;&nbsp;All Chapters</a>
   <a href="chapter-02.html">Ch 2 →</a>
 </div>

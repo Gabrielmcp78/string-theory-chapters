@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -984,7 +1042,7 @@ Scene Count: 2
 Scene 1: 23.1  The Bench -- Word Range: 1–600 | Paragraph Range: 1–17 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-01.html
 Scene 2: 23.2  The exhilaration of a walk downhill -- Word Range: 601–3,497 | Paragraph Range: 18–118 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-23-scene-02.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">23.1  The Bench</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">23.1</span><span class="scene-hdr-name">The Bench</span></div></div>
 <p class="body">In the thinning veil where light bent toward shadow, David’s senses recoiled from the insubstantial, reassembling around familiar edges: the worn cello case leaning like a sentinel, the math‑riddled walls breathing softly in the ambient dusk.</p>
 <p class="body">David drew a slow breath, spine unfolding beneath a weight he had not yet dared to bear. The air thickened, then settled, draping the expanse in a heavy velvet that made every detail feel newly intimate.</p>
 <p class="body">And then the only sound the man needed to hear in this moment floated through him, every ache and pain and pore of him, in one familial voice: the voice of a father, and of his love:</p>
@@ -1001,7 +1059,7 @@ Scene 2: 23.2  The exhilaration of a walk downhill -- Word Range: 601–3,497 | 
 <p class="body">The first fissure lay far beyond the low-slung roofs and skeletal trees that flared out over lower East Hill and to the city beyond. A pale incision along the rim of the horizon as though the earth itself had been quietly opened during the night and was now revealing the faintest interior glow. The air possessed that hourless stillness that belongs neither to night nor to morning, but lingers between them like a hummingbird hovering, its wings fluttering with such speed as to make movement in either direction seem to lose the appearance of action.</p>
 <p class="body">He rolled his shoulders once, then again, listening inwardly for complaint, and found only the easy mechanics of a body unburdened. He bent at the waist, touched his palms flat against the cold planks of the bench, and straightened again without effort, as though some unseen clerk had cleared his ledger of aches during the interval between… then and now was as specific as his mind would in this moment allow.</p>
 <p class="body">So this is what normal feels like.</p>
-<div class="location" id="scene-2">23.2  The exhilaration of a walk downhill</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">23.2</span><span class="scene-hdr-name">The exhilaration of a walk downhill</span></div></div>
 <p class="body">A sigh, a nod, and he began to walk. Below him the paths curved downward through the campus like pale veins through green flesh. Lamps still burned along the walkways, their light faint now against the strengthening sky. He stepped from the dew-glittered grass and onto the path towards his descent, moving without hurry, without destination. The slow incline drawing him through the familiar geometry of buildings and trees that seemed at once intimately known and strangely provisional, as though constructed only hours before for his use alone.</p>
 <p class="body">Lower East Hill emerged ahead in brick and shadow. Windows reflected the growing light but showed no interior life. A maintenance cart sat idle near the curb, its metal frame silvered by dew. The silence was not oppressive; it was simply complete.</p>
 <p class="body">He crossed the narrow bridge over the drainage creek, where the faint trickle of water moved with quiet indifference to human arrangements, and continued down toward the lower edge of campus. The sky brightened steadily behind him, washing the buildings in diluted gold, and by the time he passed through the gate and onto the street beyond, morning had fully declared itself.</p>

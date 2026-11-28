@@ -8,7 +8,7 @@
 <meta name="chapter" content="2">
 <meta name="word-count" content="5537">
 <meta name="paragraph-count" content="244">
-<meta name="scene-count" content="0">
+<meta name="scene-count" content="1">
 <meta name="edit-endpoint" content="https://api.github.com/repos/Gabrielmcp78/string-theory-chapters/contents/edits/chapter-02.json">
 <meta name="edit-retrieve" content="https://gabrielmcp78.github.io/string-theory-chapters/edits/chapter-02.json">
 <link rel="alternate" type="text/plain" href="chapter-02.txt" title="Plain text — parser/LLM access">
@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -969,16 +1027,20 @@ details.scene-analysis[open] summary::after {
     </div>
   </div>
   <div class="chapter-stats">
-  <div class="stats-row"><strong>5,537</strong>&thinsp;words&ensp;<strong>244</strong>&thinsp;paragraphs&ensp;<strong>0</strong>&thinsp;scenes</div>
-  
+  <div class="stats-row"><strong>5,537</strong>&thinsp;words&ensp;<strong>244</strong>&thinsp;paragraphs&ensp;<strong>1</strong>&thinsp;scene</div>
+  <div class="scene-inventory">
+    <div class="scene-entry"><a href="chapter-02-scene-01.html">2.1</a><span class="scene-range" aria-hidden="true">w.1–5,537 · ¶1–244</span></div>
+  </div>
 </div>
   <div class="chapter-text">
 <details class="chapter-manifest" aria-hidden="true"><summary>Chapter Manifest &mdash; AI / Parser Data</summary><pre>[ Chapter Manifest: String Theory · Chapter 2 ]
 Title: The Lecture
 Word Count: 5,537
 Paragraph Count: 244
-Scene Count: 0
+Scene Count: 1
+Scene 1: 2.1 -- Word Range: 1–5,537 | Paragraph Range: 1–244 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-02-scene-01.html
 [ End Manifest ]</pre></details>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">2.1</span></div><div class="scene-hdr-sub"><span class="scene-hdr-tempo">Presto agitato</span></div></div>
 <p class="body">The lecture hall, always five degrees too warm, was a tall expanse of yellows and browns whose rear walls had been surrendered to banks of narrow, vertical windows overlooking the glacier-carved canyons of East Hill. Right-angled panes divided winter daylight into geometric shards, so that light never arrived cleanly here: only fractured, false.</p>
 <p class="body">A brushed metal plaque beside the door praised the room’s design, touting the “unique ornamentation&#x27;s” ability to “soothe the psyche and elicit heightened states of mental acuity.”</p>
 <p class="body">They said the same thing about heroin for a hundred years.</p>

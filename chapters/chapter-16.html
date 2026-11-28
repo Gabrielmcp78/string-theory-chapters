@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -992,7 +1050,7 @@ Scene 4: 16.4 | The Quartet -- Word Range: 3,298–4,251 | Paragraph Range: 96�
 Scene 5: 16.5 The Journey -- Word Range: 4,252–5,708 | Paragraph Range: 122–192 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-05.html
 Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph Range: 193–202 | URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-16-scene-06.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">16.1 The Lounge</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">16.1</span><span class="scene-hdr-name">The Lounge</span></div></div>
 <p class="body">The physics department faculty lounge roared with the good-natured noise of mid-morning conversation. Steam rose from the Bunn commercial brewer, mingling with the scent of dark roast, damp wool, and the sweet, chalky grit that had settled into the linoleum since the Oppenheimer era. Rain streaked the tall casement windows looking out toward the quad, but inside, under the buzzing fluorescent tubes, the room was bright with the unearned exuberance of a Friday after midterms.</p>
 <p class="body">David stood near the center Formica table, his hand wrapped around a heavy ceramic mug stamped with the Cornell seal. For the first time in eighteen months, his collar was pressed, his jacket brushed, and his smile easy.</p>
 <p class="body">“Look at him,” Frank Miller called out, clapping a broad, floury hand onto David’s shoulder. Miller, who had spent thirty years running the low-temperature cryogenics lab, shook his head with mock disgust. “He gives one public lecture in Bailey Hall, brings in half the music conservatory, and suddenly the university communications office is sending photographers to our faculty teas. You’re ruining our reputation, Lang. We’re supposed to be dry, miserable, and unpublishable.”</p>
@@ -1037,7 +1095,7 @@ Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph R
 <p class="body">Slowly, deliberately, she squared the copy back onto the pile. She did not speak. She looked toward his back for a long, aching moment, turned away, and walked past him into the hall.</p>
 <p class="body">The heavy door swung shut on its pneumatic hinge.</p>
 <p class="body">David stood alone in the center of the room. On the Formica table, under the buzzing fluorescent light, the manifesto sat like a failed experiment: unmeasured, and already decaying toward equilibrium.</p>
-<div class="location" id="scene-2">16.2 | The Lecture</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">16.2</span><span class="scene-hdr-name">The Lecture</span></div></div>
 <p class="body">Of the thirty-six names on the roster, only fourteen students occupied the tiered seats today, most arranged in the defensive pattern of an endangered species. The stragglers, two earnest undergraduates and a sullen TA, occupied the penultimate row, close enough to be noticed but far enough to signal a lack of complicity.</p>
 <p class="body">Dr. Lang stood at the chalkboard, a thumbprint of white dust already smeared across his left cheekbone. The opening ten minutes had been routine. But from the moment he uncased the cello and propped it against the edge of the lectern, the proceedings acquired the doomed energy of an open-casket funeral.</p>
 <p class="body">He began, as always, with a demonstration: “You must recall that any system, when sufficiently isolated, reveals not just its own structure but the topology of the universe in which it is embedded.” He punctuated the point with a glissando, fingers skidding up the A-string. “Listen, don’t just analyze. Let the overtone tell you what the theory cannot.”</p>
@@ -1054,7 +1112,7 @@ Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph R
 <p class="body">His fingers, slick with chalk and rosin, lost their grip on the bow. It clattered to the floor, rolled to the edge of the dais, and dropped into the well between podium and whiteboard.</p>
 <p class="body">The students gathered their things with the decorum of mourners at a closed-casket service. The TA closed her laptop with a soft, respectful click. No one spoke until the last of them had passed into the corridor.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-3">16.3 | The Fall</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">16.3</span><span class="scene-hdr-name">The Fall</span></div></div>
 <p class="body">And then, in a moment begging for solitude, the opposite arrived. Rune Ishikawa silently slid into the room. He flipped on the second bank of overhead lights, and strolled gently into the room, each footfall a reminder that discipline, like entropy, always increased in the universe of higher education. The 119-Hz zap of the fluorescent tubes dragged David’s brain into the present.</p>
 <p class="body">Rune said nothing as he took in the aftermath. His gaze swept the chalkboard, the cello, the scattered residue of genius and madness.</p>
 <p class="body">Lang sat behind the lectern, one hand resting on the cello’s scroll, the other trailing a white rime of chalk dust across the edge of the desk. His eyes, glassy and slow to focus, tracked Ishikawa’s approach like a man drunken and stooped.</p>
@@ -1087,7 +1145,7 @@ Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph R
 <p class="body">David walked into the hallway, his gait slightly uneven, the cello case banging against his knee at an interval of every third step. He heard the doors swing shut behind him, the hydraulic hiss of closure, and knew with sudden, perfect certainty that the resonance he’d sought would not be found here.</p>
 <p class="body">He turned the corner. The corridor ahead was empty, the only evidence of his passing a faint trail of white chalk dust leading into the wilds of institutional exile.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-4">16.4 | The Quartet</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-title"><span class="scene-hdr-coord">16.4</span><span class="scene-hdr-name">The Quartet</span></div></div>
 <p class="body">The rehearsal room had been scrubbed to a sterile echo chamber by the time David arrived. The grand piano, usually flanked by a clutter of cases and half-drunk water bottles, sat alone at the far end, its lid shut, its voice silenced.</p>
 <p class="body">His own chair was gone, leaving a kidney-shaped void in the semicircle where the quartet always convened. The music stand, battered and proud, was folded and propped against the wall like a retired soldier. On the side table, his sheet music had been collected into a tidy packet, the pages squared and bound with a length of red twine more suited to a gift than an eviction notice.</p>
 <p class="body">The other musicians stood near the window, conferring in muted tones. Roger noticed David’s entrance and nudged the others into a tableau of awkward solidarity. Catherine drew her lips into a strained but welcoming smile as her head slid to one side in protest.</p>
@@ -1113,7 +1171,7 @@ Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph R
 <p class="body">“Good luck with the Dvořák,” he said.</p>
 <p class="body">Then he walked out.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-5">16.5 The Journey</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-title"><span class="scene-hdr-coord">16.5</span><span class="scene-hdr-name">The Journey</span></div></div>
 <p class="body">David walked out into the cold November fog, his bow packed, his tenure dismantled. The adrenaline of the day had begun to burn away, leaving him with the physical shock of what he had surrendered.</p>
 <p class="body">He walked scarcely aware of where he was going, until he found himself beneath the grand arc of the atrium connecting the two wings of the music school, the old chapel beyond the hill.</p>
 <p class="body">He was afraid to open his mouth. He could not tell whether words or screams or some wordless sorrow might come forth. The effort of holding it back had begun to hurt.</p>
@@ -1184,7 +1242,7 @@ Scene 6: 16.6 The Attic | Present Day -- Word Range: 5,709–6,061 | Paragraph R
 <p class="body">“We’ll get to it,” he promised, year after year.</p>
 <p class="body">After five. After ten. After fifteen. After nineteen.</p>
 <p class="body">And then…</p>
-<div class="location" id="scene-6">16.6 The Attic | Present Day</div>
+<div class="scene-hdr" id="scene-6"><div class="scene-hdr-top"><span class="scene-hdr-formal">| The Attic |</span><span class="scene-hdr-date">Present Day</span></div><div class="scene-hdr-title"><span class="scene-hdr-coord">16.6</span><span class="scene-hdr-name">The Attic</span></div></div>
 <p class="body">She couldn’t be there when they told him that night. It wouldn’t be fair, to David, or to herself. She understood the others’ decision; when pressed to a vote, she’d even agreed with it. But she would not be there to see his eyes fall, to watch them crash down his cheeks and bury his shoulders beneath the weight of it all.</p>
 <p class="body">As rehearsal hour neared, she grabbed a bottle of Pinot and a glass, then found herself climbing the well-boned staircase, from the ground floor, to the second, and onward, up to the attic, untouched since the day she’d arrived.</p>
 <p class="body">She moved to the window overlooking East Hill, the glint of moonlight bouncing off the dome of the observatory in the distance. A sip of red wine sat warm on her lips as her right index finger fell onto the wooden framing of the window seat, the only alteration to the house that had ever been finished. Her fingertip traced the etched initials D + C. A promise carved with hope, now aged into dull woodgrain and dust.</p>

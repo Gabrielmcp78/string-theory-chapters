@@ -372,8 +372,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -941,7 +999,7 @@ details.scene-analysis[open] summary::after {
   <div class="book-title">Manuscript &middot; Gabriel McPherson</div>
   <h1>String Theory</h1>
   <p class="meta" style="margin-top:0.4rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0.5rem">
-    <span>27 chapters + Appendix &middot; 120,174 words &middot; <a href="manifest.json" style="color:#b8785a">manifest.json</a></span>
+    <span>27 chapters + Overture + Appendix &middot; 118,577 words &middot; <a href="manifest.json" style="color:#b8785a">manifest.json</a></span>
     <button class="ctrl-btn theme-btn nav-theme-btn" onclick="toggleTheme()" title="Toggle dark mode" style="margin:0"><span class="theme-icon">&#9681;</span> <span class="theme-label">Dark</span></button>
   </p>
 </header>
@@ -950,6 +1008,21 @@ details.scene-analysis[open] summary::after {
   <a class="epub-download" href="https://gabrielmcp78.github.io/string-theory-chapters/main/String%20Theory.epub" download="String Theory.epub">&#8595; Download EPUB</a>
 </div>
 <div class="epub-banner" style="background:#3b2f2a"><p><strong>Committed main</strong> &mdash; the canon: git <code>main</code> @ 439eab5.</p><a class="epub-download" href="../index.html">&#8592; Back to the leading edge</a></div>
+<div class="part-section">
+  <div class="part-header-card">
+    <div class="part-num-tag">EPIGRAPH &amp; PROLOGUE</div>
+    <h2 class="part-main-title">Dr. Kenji Tsukino, Ithaca, NY 1970</h2>
+    
+  </div>
+  <ul class="chapter-list">
+    <li>
+      <span class="ch-num">Overture</span>
+      <a href="chapters/overture.html">Overture</a>
+      
+      <span class="meta">51 words</span>
+    </li>
+</ul>
+</div>
 <div class="part-section">
   <div class="part-header-card">
     <div class="part-num-tag">PART ONE</div>
@@ -1223,12 +1296,6 @@ details.scene-analysis[open] summary::after {
       <a href="chapters/appendix.html">Field Protocol #47: Tonal Activation</a>
       
       <span class="meta">747 words</span>
-    </li>
-    <li>
-      <span class="ch-num">Appx</span>
-      <a href="chapters/appendix.html">Compendium of Tempi, Acoustics &amp; Note-Bound Physics</a>
-      
-      <span class="meta">1,648 words</span>
     </li>
   </ul>
 </div>

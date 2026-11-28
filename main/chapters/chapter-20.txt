@@ -9,8 +9,9 @@ CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      2,153
 Paragraph Count: 74
-Scene Count:     0
+Scene Count:     1
 
+Scene 1: 20.1  --  Words 1–2,153  |  Paragraphs 1–74  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-20-scene-01.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---

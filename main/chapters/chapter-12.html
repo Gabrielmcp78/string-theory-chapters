@@ -378,8 +378,66 @@ p.dedication { font-style: italic; color: #555; margin-bottom: 0.8em; }
 /* ===== Musical / structural styles ===== */
 .location {
     font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: #b8785a; margin: 2.2em 0 0.3em; white-space: pre-wrap;
-    font-weight: 500;
+    color: var(--copper-accent); margin-top: 2.2rem; margin-bottom: 0.3rem;
+}
+.scene-hdr {
+    margin: 2.2rem 0 1.4rem;
+    padding-bottom: 0.2rem;
+}
+.scene-hdr-top, .scene-hdr-sub {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+.scene-hdr-formal {
+    font-size: 0.72rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+}
+.scene-hdr-date {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--text-muted);
+    margin-left: auto;
+}
+.scene-hdr-title {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65rem;
+    margin-top: 0.15rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--card-border);
+}
+.scene-hdr-coord {
+    font-size: 0.85rem;
+    color: var(--copper-accent);
+    font-weight: 600;
+}
+.scene-hdr-name {
+    font-size: 1.02rem;
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+    font-weight: 600;
+    color: var(--text-primary);
+}
+.scene-hdr-sub {
+    margin-top: 0.3rem;
+    font-size: 0.85rem;
+}
+.scene-hdr-tempo {
+    font-style: italic;
+    color: var(--text-muted);
+}
+.scene-hdr-loc {
+    margin-left: auto;
+    color: var(--text-primary);
+}
+.scene-hdr-place {
+    font-style: italic;
+    color: var(--text-muted);
 }
 .tempo-1 {
     font-style: italic; font-size: 0.88rem; color: #777;
@@ -998,7 +1056,7 @@ Scene 7: 12.7 The Draft -- Word Range: 4,313–5,285 | Paragraph Range: 216–25
 Scene 8: 12.8 Walk E | for David, Celeste, notebook, and boundaries -- Word Range: 5,286–5,537 | Paragraph Range: 256–269 | URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-12-scene-08.html
 Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph Range: 270–287 | URL: https://gabrielmcp78.github.io/string-theory-chapters/main/chapters/chapter-12-scene-09.html
 [ End Manifest ]</pre></details>
-<div class="location" id="scene-1">12.1 Walk C | for David, Roger, towel, and crowbar</div>
+<div class="scene-hdr" id="scene-1"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.1</span><span class="scene-hdr-name">Walk C</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><span class="scene-hdr-place">for David, Roger, towel, and crowbar</span></span></div></div>
 <p class="body">They didn’t speak much at first. There was nothing to organize. The morning had already taken what it wanted, and David’s body, guarding his injured ribs, did not reward conversation.</p>
 <p class="body">for David, Roger, towel, and crowbar</p>
 <p class="body">A few blocks in, Linn said, almost casually, “You don’t have a meeting.”</p>
@@ -1056,7 +1114,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">“Don’t look now. We’ve been spotted.”</p>
 <p class="body">David snapped his spine straight—wincing at the cost—and pivoted with exaggerated military precision toward the cafe window, where Celeste sat watching them with an arched brow.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-2">12.2 The Cafe</div>
+<div class="scene-hdr" id="scene-2"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.2</span><span class="scene-hdr-name">The Cafe</span></div></div>
 <p class="body">Afternoon thinned across the cafe windows, laying amber strips over the stone floor. Celeste had claimed a corner table by the radiator, two steaming mugs already waiting on the wood.</p>
 <p class="body">Linn guided David to the seat with better back support, then stepped away. “I’ll be at my office,” he said, addressing both of them. “Text if you need anything.”</p>
 <p class="body">David nodded. Linn gave his shoulder a brief, firm squeeze, then turned and left, the cafe door clicking shut behind him.</p>
@@ -1092,7 +1150,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">“Okay,” he said.</p>
 <p class="body">She stood first, gathering her bag. David rose more slowly, hitching his leather shoulder bag over his uninjured shoulder, the cracked ribs reminding him of their presence with each breath. She waited without hovering, then fell into step beside him as they moved toward the door.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-3">12.3 Walk D - Part 1 | For Celeste and David</div>
+<div class="scene-hdr" id="scene-3"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.3</span><span class="scene-hdr-name">Walk D - Part 1</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><span class="scene-hdr-place">For Celeste and David</span></span></div></div>
 <p class="body">Outside, the late afternoon slanted toward early dusk, casting long copper bands across the asphalt. The walk wasn’t long—less than ten minutes on a good day, fifteen at the pace David’s ribs allowed. Celeste matched his stride without comment, keeping close enough that her shoulder occasionally brushed his coat.</p>
 <p class="body">They walked in silence, their footsteps finding an unintentional rhythm, a slow 3/4 that neither rushed nor dragged. Students passed them, absorbed in their own trajectories. The physics building rose to their left, its windows catching the low sun. David didn’t look up at his office.</p>
 <p class="body">“Every day, you know,” Celeste said, as if picking up a conversation already in progress. She stared straight ahead toward the crest. Towards the bench.</p>
@@ -1112,7 +1170,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">He gestured toward the crest. “Those two up there? They’re squatting on ghosts, not dreams.”</p>
 <p class="body">High on the hill, two of their own students sat on the bench, oblivious to the coming encounter. Their voices drifted down through the sharp air, lazy and amused.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-4">12.4 The Bench</div>
+<div class="scene-hdr" id="scene-4"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.4</span><span class="scene-hdr-name">The Bench</span></div></div>
 <p class="body">“I’m just saying,” Roman said, smoke leaking from both corners of his mouth, “if the multiverse is real, then somewhere I’m already sober. Perfectly sober. That’s just quantum balance, babe.”</p>
 <p class="body">Greene, flat on her back beneath the skeletal sycamore, didn’t open her eyes. “You’re failing quantum mechanics in this universe.”</p>
 <p class="body">“Maybe in this one,” Roman said. “But in another, I’m a tenured professor with a full head of hair.”</p>
@@ -1166,7 +1224,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">The wind caught the hem of her wool coat. She stepped to the rim of the rock, taking a slow, deep breath that steadied her shoulders. Behind them, the sun dipped beneath the cloud shelf, the water below darkening from bruised blue to indigo.</p>
 <p class="body">“Come on,” she said, the faintest smile touching the corner of her mouth. “We can’t stand here all night without it turning into a requiem.”</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-5">12.5 Walk D - part 2 | For Celeste, David, bridge, and porch light</div>
+<div class="scene-hdr" id="scene-5"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.5</span><span class="scene-hdr-name">Walk D - part 2</span></div><div class="scene-hdr-sub"><span class="scene-hdr-loc"><span class="scene-hdr-place">For Celeste, David, bridge, and finial</span></span></div></div>
 <p class="body">They descended from the ridge in silence as the amber light faded to violet, shadows pooling beneath the bare branches along the walk. David’s breathing settled into the careful rhythm his injured ribs allowed; when the dark mass of the physics building rose beside them again, he kept his eyes on the path ahead, refusing the backward glance the way someone passes a former home whose interior they still know by heart.</p>
 <p class="body">They crossed the canyon bridge and closed the final few blocks of the trip to the house on the hill.</p>
 <p class="body">The falls had grown quieter with the coming cold, though there was still enough open water to fill the gorge with a steady rush that reached Celeste&#x27;s house on the western hillside. By January, ice would begin enclosing the descending water, leaving much of its movement hidden beneath the frozen surface. For now, the sound remained substantial, rising past the dark shelves of Devonian shale and reaching the porch through the bare branches of the trees.</p>
@@ -1178,7 +1236,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">&quot;Me or the falls?&quot;</p>
 <p class="body">&quot;Yup,&quot; he said, and crossed the threshold.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-6">12.6 The House on the Hill (return)</div>
+<div class="scene-hdr" id="scene-6"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.6</span><span class="scene-hdr-name">The House on the Hill (return)</span></div></div>
 <p class="body">Warm light spilled out into the dusk. The smell of old wood and lavender. Inside, the hallway was lined with framed concert programs and photographs of ensemble performances spanning decades—the accumulated record of a life in music, each frame a stratum of devotion laid down over years the way the house itself had been laid down, plank by plank, by hands that meant to stay.</p>
 <p class="body">“You want tea?” she asked, already moving toward the kitchen. “Or something stronger?”</p>
 <p class="body">“Tea’s fine. I like what you did with all the programs. God, so much musical history in these,” he said out loud. So much of their history, he only thought.</p>
@@ -1213,7 +1271,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">Celeste looked at the fork on the nightstand, then leaned back against the headboard beside him, pulling the quilt across his legs.</p>
 <p class="body">He chose closer.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-7">12.7 The Draft</div>
+<div class="scene-hdr" id="scene-7"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.7</span><span class="scene-hdr-name">The Draft</span></div></div>
 <p class="body">David woke to the disorientation of an unfamiliar ceiling, then remembered. The house. The bed. The tuning fork was a cool weight against his sternum, tucked beneath his shirt.</p>
 <p class="body">She wasn’t beside him. He turned his head carefully, finding her silhouette at the desk by the window. She’d pulled on an oversized shirt and was writing something, her posture suggesting absorption—the particular hunch of a mind that has left its body to its own devices and gone somewhere else entirely.</p>
 <p class="body">“What time is it?” His voice was rough.</p>
@@ -1253,7 +1311,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">“Yeah,” he said. “I would.”</p>
 <p class="body">She smiled, just a small, genuine gesture, and opened the door.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-8">12.8 Walk E | for David, Celeste, notebook, and boundaries</div>
+<div class="scene-hdr" id="scene-8"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.8</span><span class="scene-hdr-name">Walk E</span></div></div>
 <p class="body">The walk to his apartment was quiet. The night was clear, the air sharp. At his building, she stopped.</p>
 <p class="body">“You’ll call if you need anything?” she asked.</p>
 <p class="body">“I will.”</p>
@@ -1267,7 +1325,7 @@ Scene 9: 12.9 Ten Minutes, Maybe Twelve -- Word Range: 5,538–6,050 | Paragraph
 <p class="body">Outside, night settled over Ithaca. Inside, the desk lamp held its clean circle of light.</p>
 <p class="body">He opened his notebook to a fresh page and began to write.</p>
 <div class="ch-special">* * *</div>
-<div class="location" id="scene-9">12.9 Ten Minutes, Maybe Twelve</div>
+<div class="scene-hdr" id="scene-9"><div class="scene-hdr-title"><span class="scene-hdr-coord">12.9</span><span class="scene-hdr-name">Ten Minutes, Maybe Twelve</span></div></div>
 <p class="body">Celeste was not, under any circumstances, going to give him the satisfaction of looking back as she walked away.</p>
 <p class="body">He was watching her go. Of course, he was. He’d been watching her go for twenty years. A man of habit, if nothing else, he wasn’t going to stop tonight.</p>
 <p class="body">Or at least, she hoped he wasn’t going to stop… not tonight.</p>
