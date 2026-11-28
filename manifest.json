@@ -77,7 +77,7 @@
       "title": "Now Then",
       "subtitle": "",
       "word_count": 2435,
-      "paragraph_count": 211,
+      "paragraph_count": 210,
       "scene_count": 4,
       "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.html",
       "text_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06.txt",
@@ -106,7 +106,7 @@
           "word_start": 1345,
           "word_end": 1981,
           "para_start": 136,
-          "para_end": 176,
+          "para_end": 175,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html"
         },
         {
@@ -114,8 +114,8 @@
           "heading": "6.4   ANSWER   |   NYU - New York, NY       May 24, 2005",
           "word_start": 1982,
           "word_end": 2435,
-          "para_start": 177,
-          "para_end": 211,
+          "para_start": 176,
+          "para_end": 210,
           "html_url": "https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html"
         }
       ]
@@ -1399,10 +1399,10 @@
     "url": "https://gabrielmcp78.github.io/string-theory-chapters/",
     "source": "working tree + Literary Studio desk",
     "desk_applied": true,
-    "scenes_applied": 31,
+    "scenes_applied": 32,
     "files_changed_by_desk": 13,
     "scenes_blocked": 3,
-    "desk_last_edit": "2026-11-27T19:29:21.565279+00:00",
+    "desk_last_edit": "2026-11-28T01:12:30.561090+00:00",
     "note": ""
   },
   "committedMain": "https://gabrielmcp78.github.io/string-theory-chapters/main/manifest.json"

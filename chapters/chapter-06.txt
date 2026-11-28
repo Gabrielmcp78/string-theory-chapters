@@ -8,13 +8,13 @@ Title:           Now Then
 CHAPTER MANIFEST
 ----------------------------------------
 Word Count:      2,435
-Paragraph Count: 211
+Paragraph Count: 210
 Scene Count:     4
 
 Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
 Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,344  |  Paragraphs 19–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,345–1,981  |  Paragraphs 136–176  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,982–2,435  |  Paragraphs 177–211  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,345–1,981  |  Paragraphs 136–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,982–2,435  |  Paragraphs 176–210  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -296,9 +296,7 @@ David hesitated, then lifted his own.
 
 The registration table was arranged with military precision, except for the line marked:
 
-LAST NAMES BEGINNING WITH
-
-UNCERTAINTY PRINCIPLE.
+LAST NAMES BEGINNING WITH UNCERTAINTY PRINCIPLE.
 
 David hovered before deciding he belonged in the H–R line, though the volunteer behind the table glanced at his badge and said, “Oh. You’re one of those,” in a tone suggesting the category was well known but rarely defined.
 
