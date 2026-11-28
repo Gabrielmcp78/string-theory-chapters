@@ -7,15 +7,15 @@ Title:           EXERCISE
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      5,658
-Paragraph Count: 262
+Word Count:      5,672
+Paragraph Count: 264
 Scene Count:     5
 
-Scene 1: 11.1 THE HOUSE ON THE HILL  --  Words 1–853  |  Paragraphs 1–44  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-01.html
-Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 854–1,305  |  Paragraphs 45–69  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-02.html
-Scene 3: 11.3 The Assessment  --  Words 1,306–2,517  |  Paragraphs 70–119  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-03.html
-Scene 4: 11.4 Walk B | for David, Roger and East Hill incline  --  Words 2,518–3,202  |  Paragraphs 120–161  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-04.html
-Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,203–5,658  |  Paragraphs 162–262  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-11-scene-05.html
+Scene 1: 11.1 THE HOUSE ON THE HILL  --  Words 1–845  |  Paragraphs 1–45  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-01.html
+Scene 2: 11.2 Walk A | for Roger, coffee, scone, and Mom  --  Words 846–1,297  |  Paragraphs 46–70  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-02.html
+Scene 3: 11.3 The Assessment  --  Words 1,298–2,525  |  Paragraphs 71–120  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-03.html
+Scene 4: 11.4 Walk B | for David, Roger and East Hill incline  --  Words 2,526–3,210  |  Paragraphs 121–162  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-04.html
+Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,211–5,672  |  Paragraphs 163–264  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-11-scene-05.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -23,7 +23,9 @@ Scene 5: 11.5 The Chapel Rehearsal  --  Words 3,203–5,658  |  Paragraphs 162�
 
 11.1 THE HOUSE ON THE HILL
 
-Something had changed in the night. Celeste couldn’t name it. A misalignment, perhaps, as if the air had shifted half a degree north. Nothing visible announced itself, and like most things in her life, it would remain untrustworthy until caffeine had been applied.
+Something had changed in the night.
+
+Celeste couldn’t name it. A misalignment, perhaps, as if the air had shifted half a degree north. Nothing visible announced itself, and like most things in her life, it would remain untrustworthy until caffeine had been applied.
 
 In the shower, she stood beneath the spray, suds tracing slow paths down her temples. With her eyes squeezed shut against the warm water, she found she couldn’t remember if she had actually put the kettle on, or if the memory was just another intention left at the bedside like a shoe dropped at the door—proof of arrival without evidence of follow-through.
 
@@ -75,9 +77,9 @@ David had promised that. About the tile. About the pipe under the sink. About th
 
 Then next weekend became next month. Then next summer. Then, quietly, the following year.
 
-The house had settled into its own habits, the chronic record of a place touched, begun, and then neglected, left for other things.
+The house had settled into its own habits—the chronic record of a place touched, begun, and then left.
 
-Ever since David moved out, the tone of that presence had changed. Anger had softened to grief, but lately, and to Celeste’s dry delight, plain irritation had taken up residence. A click in the floorboards where there hadn’t been one before. A loose sash vibrating in the north frame when the wind came up from the gorge.
+Since David left, the tone of that presence had changed. Anger had softened to grief, but lately, to Celeste’s dry delight, plain irritation had taken up residence. A click in the floorboards where there hadn’t been one before. A loose sash vibrating in the north frame when the wind came up from the gorge.
 
 She read this house better than she read most people. This morning, something was off.
 
@@ -167,13 +169,13 @@ David’s left eye had swollen nearly shut in the night, blurring whatever cross
 
 He was on the floor, half-propped against the sofa, his temple crusted with dried blood where his head rested against the neck of his cello case wedged beside him. His hand crept to his breast pocket, fingers finding the hard, cool lines of the tuning fork. He drew it out. In the grey light, the cerulean residue on its prongs caught the pale air with a faint, metallic sheen. The same blue stain marked his left palm, dry and stubborn against the skin.
 
-Page 117-B clung to his skin. He peeled it away slowly, leaving behind a faint blue echo on the paper. The blackboard triptych on the far wall stood closed, dormant. The entire loft waited.
+Page 117-B clung to his skin. He peeled it away slowly, leaving behind a faint blue echo on the paper. The blackboard triptych on the far wall stood closed, dormant. The entire loft hummed with a new density, the violence of the night having tuned the space to a different fundamental.
 
-Then, footsteps in the hallway. A pause. The door, already ajar, swung inward with the slow pressure of uncertainty.
+Footsteps in the hallway. A pause. The door, already ajar, swung inward with the slow pressure of uncertainty.
 
 “David?”
 
-Roger’s voice, carrying the question carefully, tested the space before he entered. When no response came, he stepped inside, closed the door behind him with the heel of his shoe, and moved down the hallway, balancing the cardboard coffee tray in one hand and hitching his violin case securely against his hip until he reached the opening into the main room.
+Linn’s voice, carrying the question carefully, tested the space before he entered. When no response came, he stepped inside, closed the door behind him with the heel of his shoe, and moved down the hallway, balancing the cardboard coffee tray in one hand and hitching his violin case securely against his hip until he reached the opening into the main room.
 
 David turned his head. The movement cost him as ribs protested, vision blurring at the edges. Linn stood to the side of the spiral staircase, the cardboard tray in hand, his expression cycling through recognition: the split lip, the swollen eye, the way David held his left side, the door that hadn’t been locked.
 
@@ -225,7 +227,7 @@ David stood slowly, testing his balance within the wrap’s constraint. The pain
 
 They were bundled, ready to leave. David looped the strap of his battered leather shoulder bag—laptop and notebook securely tucked inside—over his good right shoulder.
 
-David turned toward the back of the sofa, where his cello case leaned upright against the cushions—bulky, battered, and thirty pounds of molded flight-casing that resembled an upright Victorian wardrobe. He took two steps toward it, squared his shoulders, and reached out his right hand.
+David turned toward the back of the sofa, where his cello case leaned upright against the cushions—bulky, battered, and forty pounds of molded flight-casing that resembled an upright Victorian wardrobe. He took two steps toward it, squared his shoulders, and reached out his right hand.
 
 His body simply refused.
 
@@ -373,9 +375,11 @@ Her eyes tracked from his shoes to his taped brow, widening in sharp panic befor
 
 Catherine’s emery board froze in mid-air. “Oh, exquisite,” she murmured in a stage whisper. “Tell me, Roger, did the physics department finally attempt a coup?”
 
-“Just play, Catherine,” Celeste said low and flat.
+“Just play, Catherine,” Celeste snapped, low and flat.
 
 David set the violin case onto Roger's music stand before easing toward the choir stalls. Roger dragged David’s rehearsal chair deep into the acoustic shadow, angled away from the nave, and unlatched the cello case with rapid clicks.
+
+“Sit,” Roger barked softly. “Down. Don't talk. Don't bow to the public.”
 
 David lowered himself with a whistling hiss of air through his teeth.
 
@@ -479,7 +483,7 @@ Roger was already leaning in, his Strad held at the ready, his eyes narrowed wit
 
 He looked at Celeste. Behind the dark lenses, his eyes were bloodshot, but burning with absolute clarity.
 
-“An F-sharp chord,” David said. “Just intonation. Roger, take the C-sharp — the room's fourth harmonic — stop it on your G string. Celeste, the root on your C string. Catherine, octave above on the D. I'll take the low F-sharp. No open strings. Stop the notes and tune by ear to the room's standing wave. When the beating stops, we lock.”
+“An F-sharp chord,” David said. “Just intonation. Roger, take the C-sharp in your register—the fourth harmonic on your G string. Celeste, the root on your C string. Catherine, octave above on the D. I'll take the low F-sharp. No open strings. Stop the notes and tune by ear to the room's standing wave. When the beating stops, we lock.”
 
 Roger didn't argue. He raised his Stradivarius, his left hand settling onto the fingerboard. “Cathy. On the root.”
 
@@ -489,7 +493,7 @@ Celeste pressed her ear toward the upper bout of her viola. She set her fingers 
 
 The harsh flutter in the room slowed: three hertz... two hertz... one hertz...
 
-Then the beating vanished. Roger's C-sharp locked onto the fourth harmonic of the building’s 68.48 Hz fundamental like a key sliding into an oiled mortise lock. The timbers of the chapel seemed to exhale.
+Then the beating vanished. Roger's fourth harmonic locked onto the building’s 68.48 Hz fundamental like a key sliding into an oiled mortise lock. The timbers of the chapel seemed to exhale.
 
 They were no longer playing against the room. They were coupled to the mechanical skeleton of the hill: to the shale strata, the steam pipes, the iron catwalks, and the cold gorge air.
 
