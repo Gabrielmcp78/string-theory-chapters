@@ -7,20 +7,20 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,450
+Word Count:      2,534
 Paragraph Count: 215
 Scene Count:     4
 
-Scene 1: 6.1 SUBJECT | En Route to Buffalo, NY · Present Day  --  Words 1–345  |  Paragraphs 1–20  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 346–1,359  |  Paragraphs 21–139  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,360–1,996  |  Paragraphs 140–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,997–2,450  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-06-scene-04.html
+Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,443  |  Paragraphs 19–140  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,444–2,080  |  Paragraphs 141–180  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,081–2,534  |  Paragraphs 181–215  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
 
 
-6.1 SUBJECT | En Route to Buffalo, NY · Present Day
+6.1 SUBJECT | Buffalo, NY · Present Day
 
 The seats aboard the Cornell charter coach to Buffalo looked comfortable enough. Deep cushions, generous legroom, upholstery that promised a civilized journey. But after the first hour, David had begun to suspect that the suspension was conducting a private experiment on his spine.
 
@@ -28,19 +28,15 @@ Upright in the seat ahead, the cello case stood braced between armrest and windo
 
 Above the windshield, a laminated sign read:
 
-WELCOME TO THE NORTHEASTERN
-
-SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
+WELCOME TO THE NORTHEASTERN SCIENTIFIC EDUCATORS ANNUAL CONSORTIUM.
 
 NO FOOD. NO DRINK. NO QUESTIONS.
 
-David's phone vibrated against his thigh.
+David's phone vibrated against his thigh. It was Roger, recommending “*…a lovely little repair shop in buffalo,” *though he couldn’t remember where. The sort of message that can go from thoughtful to obligatory pain in the ass with alarming speed.
 
-Roger: Almost forgot. There's a wonderful old string shop somewhere in Buffalo. Haven't been there in years. Can't remember the name for the life of me, but if it's still there, they'll have a tungsten-wound C. Just what that ridiculous beast of yours needs. Ask your hotel concierge.
+He smiled, wrote:
 
-David smiled.
-
-Thanks, Rog. Will do.
+Thanks, Rog. I’ll just ask the first wild goose I see for directions.
 
 He put the phone away.
 
@@ -169,9 +165,9 @@ David's expression hardened.
 
 “That's an absurd analogy.”
 
-“It's a fantastic analogy. You'd insist on tuning it first.”
+“It's a perfect analogy. You'd insist on tuning it first.”
 
-Celeste laughed again, but David did not.
+Celeste laughed again, before turning to see David’s face drop back into to deadly, serious silence.
 
 Marcus saw the change.
 
@@ -179,7 +175,7 @@ Marcus saw the change.
 
 “What?”
 
-“I'm trying to keep you from destroying your own work.”
+“I'm trying to keep you from destroying your own work. You gotta see that.”
 
 “By keeping it hidden.”
 
@@ -187,17 +183,23 @@ Marcus saw the change.
 
 David looked down at the scattered pages, at the columns of ratios and correction terms he had spent the better part of a year dragging into agreement. Beside the notebooks lay a page in Celeste's hand, musical intervals translated into a system of proportional relationships he could not have devised without her.
 
-The work was theirs.
-
-That was the trouble.
-
 Marcus pushed himself out of the chair.
 
 “You know what happens if you take this to somebody before we're ready? They'll ask one question you can't answer. One. And the entire thing becomes a joke. Not because the mathematics is wrong, but because you've given them permission to stop listening.”
 
-David turned toward him.
+David turned toward him, indignation in every syllable. “Alright fine. Then tell me, oh wise wizard, how long is long enough? How much time between now and then makes truth acceptable?”
 
-“And how long do we wait?”
+“Come on, Dave.”
+
+“What? Simple question.”
+
+“I don’t know. How am I supposed to know?”
+
+“Wait. I’m confused, Marcus. I thought you had this all perfectly in hand, man?”
+
+“That’s not fair.”
+
+“This is science brother. Fair simply doesn’t factor. Come on. How long?”
 
 “As long as it takes.”
 
@@ -211,27 +213,27 @@ David turned toward him.
 
 “What if it takes thirty years?”
 
-His voice had risen. He heard it and hated that he could not seem to bring it down.
+David’s voice had risen. He heard it and hated that he could not seem to bring it down.
 
 “What if I prove it and nobody's left who remembers I was crazy for thinking it?”
 
 Marcus studied him.
 
-“Then you'll have been right.”
+“Then you'll have been right. Isn’t that enough? Right and safe.”
 
 David shook his head.
 
-“That's not the same as being heard.”
+“No.” David bowed his head, gripping his knees with both hands. “That's not the same as being heard.”
 
 Celeste set her beer on the floor.
 
 “David.”
 
-He did not look at her.
+Nothing. He turned away, refusing even to meet her eyes
 
 “Come here.”
 
-He remained by the window for another moment, watching the bus disappear behind the neighboring building. Then he returned to the floor and sat beside her.
+He lingered by the window for another moment, watching a bus disappear behind the neighboring building. Then he returned to the floor and sat beside her.
 
 She reached for the notebook nearest his knee.
 
@@ -304,9 +306,7 @@ David hesitated, then lifted his own.
 
 The registration table was arranged with military precision, except for the line marked:
 
-LAST NAMES BEGINNING WITH
-
-UNCERTAINTY PRINCIPLE.
+LAST NAMES BEGINNING WITH UNCERTAINTY PRINCIPLE.
 
 David hovered before deciding he belonged in the H–R line, though the volunteer behind the table glanced at his badge and said, “Oh. You’re one of those,” in a tone suggesting the category was well known but rarely defined.
 
