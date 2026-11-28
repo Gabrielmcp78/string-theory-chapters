@@ -96,6 +96,20 @@
         inboxBtn.textContent = "All Reader Notes";
         pillHost.appendChild(inboxBtn);
       }
+      if (chapterSlug) {
+        const bmAddBtn = document.createElement("button");
+        bmAddBtn.id = "st-bookmark-add-btn";
+        bmAddBtn.className = "st-beta-pill";
+        bmAddBtn.title = "Bookmark current position";
+        bmAddBtn.textContent = "Bookmark";
+        pillHost.appendChild(bmAddBtn);
+      }
+      const bmListBtn = document.createElement("button");
+      bmListBtn.id = "st-bookmarks-btn";
+      bmListBtn.className = "st-beta-pill";
+      bmListBtn.title = "View saved bookmarks";
+      bmListBtn.textContent = "Bookmarks (0)";
+      pillHost.appendChild(bmListBtn);
       const pill = document.createElement("button");
       pill.id = "st-reader-pill";
       pill.className = "st-beta-pill";
@@ -212,6 +226,120 @@
       const rSnap = await fs.getDoc(readerRef);
       if (rSnap.exists()) readerState = rSnap.data() || {};
     } catch (_) {}
+
+    // 2b. Bookmarks state (synced to localStorage + Firestore readers/{inviteCode}.bookmarks)
+    const BM_KEY = "st-bookmarks-" + inviteCode;
+    let bookmarks = [];
+    try {
+      const localBm = JSON.parse(localStorage.getItem(BM_KEY) || "[]");
+      if (Array.isArray(localBm)) bookmarks = localBm;
+    } catch (_) {}
+    if (Array.isArray(readerState.bookmarks) && readerState.bookmarks.length > 0) {
+      const seenBm = new Set(bookmarks.map(function(b) { return b.chapterSlug + ":" + b.paragraphIndex; }));
+      readerState.bookmarks.forEach(function(b) {
+        if (!b || !b.chapterSlug) return;
+        const k = b.chapterSlug + ":" + (Number(b.paragraphIndex) || 0);
+        if (!seenBm.has(k)) { bookmarks.push(b); seenBm.add(k); }
+      });
+    }
+
+    const bmDrawer = document.createElement("aside");
+    bmDrawer.id = "st-bookmarks-drawer";
+    bmDrawer.setAttribute("aria-label", "Saved bookmarks");
+    bmDrawer.innerHTML = [
+      '<div class="st-drawer-head">',
+      '  <span class="st-drawer-title">Bookmarks</span>',
+      '  <button class="st-drawer-close" aria-label="Close">&times;</button>',
+      '</div>',
+      '<div class="st-drawer-thread" id="st-bookmarks-body"></div>'
+    ].join("");
+    document.body.appendChild(bmDrawer);
+    bmDrawer.querySelector(".st-drawer-close").onclick = function() {
+      bmDrawer.classList.remove("open");
+    };
+
+    function getChapterLabelText() {
+      const heading = document.querySelector(".chapter-heading");
+      const chNum = document.querySelector(".chapter-number");
+      return [chNum ? chNum.textContent.trim() : "", heading ? heading.textContent.trim() : ""].filter(Boolean).join(": ") || chapterSlug || "Chapter";
+    }
+
+    async function saveBookmarks() {
+      bookmarks = bookmarks.slice(0, 100);
+      try { localStorage.setItem(BM_KEY, JSON.stringify(bookmarks)); } catch (_) {}
+      renderBookmarksUI();
+      try {
+        await fs.setDoc(readerRef, { bookmarks: bookmarks, updatedAt: fs.serverTimestamp() }, { merge: true });
+      } catch (err) {
+        console.warn("Bookmark cloud sync skipped:", err);
+      }
+    }
+
+    function renderBookmarksUI() {
+      const listBtn = document.getElementById("st-bookmarks-btn");
+      if (listBtn) listBtn.textContent = "Bookmarks (" + bookmarks.length + ")";
+      const bodyEl = document.getElementById("st-bookmarks-body");
+      if (!bodyEl) return;
+      bodyEl.innerHTML = "";
+      if (bookmarks.length === 0) {
+        const empty = document.createElement("div");
+        empty.style.opacity = "0.65";
+        empty.style.fontSize = "0.85rem";
+        empty.textContent = chapterSlug ? "No bookmarks yet. Click Bookmark in the toolbar or inside any paragraph note." : "No bookmarks yet. Open any chapter and click Bookmark to save your spot.";
+        bodyEl.appendChild(empty);
+        return;
+      }
+      bookmarks.forEach(function(b, idx) {
+        const card = document.createElement("div");
+        card.className = "st-comment-item";
+        const meta = document.createElement("div");
+        meta.className = "st-comment-meta";
+        const lbl = document.createElement("span");
+        lbl.className = "st-comment-author";
+        lbl.textContent = (b.chapterLabel || b.chapterSlug) + " · ¶" + ((Number(b.paragraphIndex) || 0) + 1);
+        const when = document.createElement("span");
+        when.textContent = b.savedAt ? new Date(b.savedAt).toLocaleDateString() : "";
+        meta.appendChild(lbl);
+        meta.appendChild(when);
+        card.appendChild(meta);
+        if (b.preview) {
+          const quote = document.createElement("div");
+          quote.style.fontSize = "0.78rem";
+          quote.style.opacity = "0.76";
+          quote.style.fontStyle = "italic";
+          quote.textContent = "“" + b.preview + "”";
+          card.appendChild(quote);
+        }
+        const actions = document.createElement("div");
+        actions.className = "st-bm-row-actions";
+        const jump = document.createElement("a");
+        jump.className = "st-inbox-jump";
+        const prefix = isIndex ? "chapters/" : "";
+        jump.href = prefix + encodeURIComponent(b.chapterSlug) + ".html?para=" + (Number(b.paragraphIndex) || 0);
+        jump.textContent = "Jump to bookmark →";
+        const rem = document.createElement("button");
+        rem.className = "st-bm-remove";
+        rem.title = "Remove bookmark";
+        rem.textContent = "×";
+        rem.onclick = function() {
+          bookmarks.splice(idx, 1);
+          saveBookmarks();
+        };
+        actions.appendChild(jump);
+        actions.appendChild(rem);
+        card.appendChild(actions);
+        bodyEl.appendChild(card);
+      });
+    }
+
+    const bmListBtnEl = document.getElementById("st-bookmarks-btn");
+    if (bmListBtnEl) {
+      bmListBtnEl.onclick = function() {
+        renderBookmarksUI();
+        bmDrawer.classList.add("open");
+      };
+    }
+    renderBookmarksUI();
 
     // Restore preferences if saved remotely
     if (readerState.theme && typeof updateThemeUI === "function") {
@@ -476,6 +604,48 @@
     });
 
     await loadChapterComments();
+
+    function toggleBookmarkAt(idx) {
+      const pIdx = Math.max(0, Number(idx) || 0);
+      const existing = bookmarks.findIndex(function(b) {
+        return b.chapterSlug === chapterSlug && Number(b.paragraphIndex) === pIdx;
+      });
+      if (existing >= 0) {
+        bookmarks.splice(existing, 1);
+      } else {
+        const raw = paras[pIdx] ? (paras[pIdx].textContent || "").trim() : "";
+        bookmarks.unshift({
+          chapterSlug: chapterSlug,
+          chapterLabel: getChapterLabelText().slice(0, 120),
+          paragraphIndex: pIdx,
+          preview: raw.length > 120 ? raw.slice(0, 120) + "…" : raw,
+          savedAt: new Date().toISOString()
+        });
+      }
+      saveBookmarks();
+      updateBookmarkButtons();
+    }
+
+    function updateBookmarkButtons() {
+      const topIdx = currentTopParagraphIndex();
+      const bmAdd = document.getElementById("st-bookmark-add-btn");
+      if (bmAdd) {
+        const hasHere = bookmarks.some(function(b) {
+          return b.chapterSlug === chapterSlug && Math.abs(Number(b.paragraphIndex) - topIdx) <= 2;
+        });
+        bmAdd.classList.toggle("st-bm-btn-active", hasHere);
+        bmAdd.textContent = hasHere ? "Bookmarked" : "Bookmark";
+      }
+    }
+
+    const bmAddBtnEl = document.getElementById("st-bookmark-add-btn");
+    if (bmAddBtnEl) {
+      bmAddBtnEl.onclick = function() {
+        toggleBookmarkAt(currentTopParagraphIndex());
+      };
+      window.addEventListener("scroll", updateBookmarkButtons, { passive: true });
+      updateBookmarkButtons();
+    }
 
     const jumpParaRaw = params.get("para");
     if (jumpParaRaw !== null) {

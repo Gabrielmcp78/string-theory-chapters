@@ -26,6 +26,7 @@ rules_version = '2';
 //   - lastScrollY: number (optional, 0..10000000)
 //   - theme: string (optional, 1..16 chars, e.g. 'light' or 'dark')
 //   - fontSize: number (optional, 8..72)
+//   - bookmarks: list (optional, 0..100 items)
 //   - updatedAt: timestamp | string (optional, string <= 64 chars)
 //
 // Collection: comments
@@ -125,6 +126,7 @@ service cloud.firestore {
         'lastScrollY',
         'theme',
         'fontSize',
+        'bookmarks',
         'updatedAt'
       ];
       return hasOnlyAllowedFields(allowedFields) &&
@@ -135,6 +137,7 @@ service cloud.firestore {
              (!('lastScrollY' in data) || (data.lastScrollY is number && data.lastScrollY >= 0 && data.lastScrollY <= 10000000)) &&
              (!('theme' in data) || isValidString(data.theme, 1, 16)) &&
              (!('fontSize' in data) || (data.fontSize is number && data.fontSize >= 8 && data.fontSize <= 72)) &&
+             (!('bookmarks' in data) || (data.bookmarks is list && data.bookmarks.size() <= 100)) &&
              (!('updatedAt' in data) || isValidTimestampOrString(data.updatedAt));
     }
 
