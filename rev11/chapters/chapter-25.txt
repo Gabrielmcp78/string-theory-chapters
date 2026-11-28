@@ -11,10 +11,10 @@ Word Count:      3,472
 Paragraph Count: 149
 Scene Count:     4
 
-Scene 1: 25.1  Observed superposition  --  Words 1–149  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-01.html
-Scene 2: 25.2  Observed superposition  --  Words 150–1,350  |  Paragraphs 7–53  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-02.html
-Scene 3: 25.3  En Train  --  Words 1,351–2,651  |  Paragraphs 54–131  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-03.html
-Scene 4: 25.4  Observed superposition  --  Words 2,652–3,472  |  Paragraphs 132–149  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-25-scene-04.html
+Scene 1: 25.1  Observed superposition  --  Words 1–149  |  Paragraphs 1–6  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-25-scene-01.html
+Scene 2: 25.2  Observed superposition  --  Words 150–1,350  |  Paragraphs 7–53  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-25-scene-02.html
+Scene 3: 25.3  En Train  --  Words 1,351–2,651  |  Paragraphs 54–131  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-25-scene-03.html
+Scene 4: 25.4  Observed superposition  --  Words 2,652–3,472  |  Paragraphs 132–149  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/rev11/chapters/chapter-25-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
