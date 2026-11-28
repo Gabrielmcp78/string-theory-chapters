@@ -7,14 +7,14 @@ Title:           Now Then
 ========================================================================
 CHAPTER MANIFEST
 ----------------------------------------
-Word Count:      2,435
-Paragraph Count: 210
+Word Count:      2,487
+Paragraph Count: 212
 Scene Count:     4
 
 Scene 1: 6.1 SUBJECT | Buffalo, NY · Present Day  --  Words 1–338  |  Paragraphs 1–18  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-01.html
-Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,344  |  Paragraphs 19–135  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
-Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,345–1,981  |  Paragraphs 136–175  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
-Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 1,982–2,435  |  Paragraphs 176–210  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
+Scene 2: 6.2   ANSWER   |   MIT - Cambridge, MA       April 11, 2005  --  Words 339–1,396  |  Paragraphs 19–137  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-02.html
+Scene 3: 6.3   SUBJECT   |    Buffalo, NY       Present Day  --  Words 1,397–2,033  |  Paragraphs 138–177  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-03.html
+Scene 4: 6.4   ANSWER   |   NYU - New York, NY       May 24, 2005  --  Words 2,034–2,487  |  Paragraphs 178–212  |  URL: https://gabrielmcp78.github.io/string-theory-chapters/chapters/chapter-06-scene-04.html
 ========================================================================
 
 --- CHAPTER TEXT BEGINS ---
@@ -187,11 +187,15 @@ Marcus pushed himself out of the chair.
 
 “You know what happens if you take this to somebody before we're ready? They'll ask one question you can't answer. One. And the entire thing becomes a joke. Not because the mathematics is wrong, but because you've given them permission to stop listening.”
 
-David turned toward him.
+David turned toward him, indignation in every syllable. “Alright fine. Then tell me, oh wise wizard, how long is long enough? How much time between now and then makes truth acceptable?”
 
-“And how long do we wait?”
+“Come on, Dave.”
 
-“As long as it takes.”
+“What? Simple question.”
+
+“That’s not fair.”
+
+“Oh, Marcus. I thought you had this all in hand, man. This is science brother. Fair simply doesn’t factor. Come on. How long“As long as it takes.”
 
 “Ten years?”
 
